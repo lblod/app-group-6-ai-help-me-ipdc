@@ -2,17 +2,17 @@
   "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
   "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
   "view": {
-    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=654",
+    "@id": "./instantiesnapshot?limit=25&pageNumber=654",
     "@type": "Node",
     "relation": [
       {
-        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=655",
+        "node": "./instantiesnapshot?limit=25&pageNumber=655",
         "path": "http://www.w3.org/ns/prov#generatedAtTime",
         "value": "2023-07-13T06:50:55.149577Z",
         "@type": "GreaterThanOrEqualToRelation"
       },
       {
-        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=653",
+        "node": "./instantiesnapshot?limit=25&pageNumber=653",
         "path": "http://www.w3.org/ns/prov#generatedAtTime",
         "value": "2023-07-12T18:15:04.897333Z",
         "@type": "LessThanOrEqualToRelation"
@@ -23,7 +23,7 @@
     "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
     "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
   ],
-  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=654",
+  "@id": "./instantiesnapshot?limit=25&pageNumber=654",
   "@type": "EventStream",
   "member": [
     {
