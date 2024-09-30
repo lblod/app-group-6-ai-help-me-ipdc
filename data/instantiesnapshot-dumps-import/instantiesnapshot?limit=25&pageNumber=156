@@ -1,1 +1,1366 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=156","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=157","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-05T17:45:25.057507Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=155","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-05T17:45:18.348282Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=156","@type":"EventStream","member":[{"id":"4f0c4361-6c5b-49db-a484-4c0649096367","generatedAtTime":"2023-05-05T17:45:25.057507Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor klassieke financiering - algemeen"},"beschrijving":{"nl":"<p>Het VIPA subsidieert de realisatie van duurzame, toegankelijke en betaalbare zorginfrastructuur. De subsidies dienen om nieuwe gebouwen op te richten, of om bestaande gebouwen voor lange termijn in orde te stellen op functioneel en bouwtechnisch vlak. Een voorziening kan een vraag indienen tot het bekomen van investeringsbetoelaging (= subsidiebelofte) voor een beoogde investering. De subsidiebetalingen gebeuren in 5 schijven op basis van voorgelegde facturen. De subsidiebelofte wordt geïndexeerd op het moment van de aanvang van de werken.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden van 8/6/1998</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Er worden geen nieuwe engagementen aangegaan. Er is verdere uitbetaling van de subsidies verbonden aan de bestaande engagementen.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:20.645766584Z","laatstGewijzigd":"2023-05-05T17:45:25.040622428Z","laatstOntvangen":"2023-05-05T17:45:25.040622428Z","productnummer":"2064","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4f0c4361-6c5b-49db-a484-4c0649096367","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c11bc22b-93a7-49c4-9705-468030ceb774"},{"id":"acd44a92-86b0-4345-b9ce-59add0c0bf01","generatedAtTime":"2023-05-05T17:45:24.895631Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor klimaat"},"beschrijving":{"nl":"<p>Erkende en vergunde voorzieningen binnen de sectoren van Welzijn, Volksgezondheid en Gezin kunnen VIPA-subsidies aanvragen voor het uitvoeren van energiebesparende maatregelen, op voorwaarde dat ze eerst via het Vlaams Energiebedrijf een energiescan hebben laten uitvoeren. Deze klimaatsubsidies kunnen gebruikt worden om energiebesparende maatregelen te laten uitvoeren of om een energieprestatiecontract te laten opmaken.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering tot uitvoering van het klimaatplan met betrekking tot de infrastructuur voor persoonsgebonden aangelegenheden van 30/03/2018</p><p>Ministerieel besluit tot vaststelling van de formule, vermeld in artikel 9/13, § 1, eerste lid, van het besluit van de Vlaamse Regering van 30 maart 2018 tot uitvoering van het klimaatplan met betrekking tot de infrastructuur voor persoonsgebonden aangelegenheden van 12/06/2019</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U kunt klimaatsubsidies krijgen voor energiebesparende maatregelen met een terugverdientijd groter dan 5 jaar. Zo kunt u op een betaalbare manier maatregelen nemen met een grotere CO2-impact. Het gebouw moet nog minstens 25 jaar in gebruik blijven, de uitvoering van de gesubsidieerde maatregelen staat de uitvoering van toekomstige energiebesparende maatregelen niet in de weg, na de realisatie van een energiebesparende maatregel blijft het gebouw steeds voldoen aan de erkennings- of vergunningsvoorwaarden. Men kan geen klimaatsubsidies aanvragen voor energiebesparende maatregelen waarvoor ook VIPA-investeringssubsidies werden toegekend. Alle maatregelen waarvoor men klimaatsubsidies krijgt, moeten uiterlijk 5 jaar na de goedkeuring uitgevoerd zijn.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:20.49673111Z","laatstGewijzigd":"2023-05-05T17:45:24.878669042Z","laatstOntvangen":"2023-05-05T17:45:24.878669042Z","productnummer":"2063","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/acd44a92-86b0-4345-b9ce-59add0c0bf01","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fc2b893c-9ce9-474e-8f39-e2b9cbd782f7"},{"id":"4e773c6a-1ddd-42a9-86f2-56a2bf8a352f","generatedAtTime":"2023-05-05T17:45:24.661447Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor A1/A3 revalidatieziekenhuizen"},"beschrijving":{"nl":"<p>Met de wijziging van het Koninklijk Besluit over de vaststelling en de vereffening van het budget van financiële middelen (BFM) van de ziekenhuizen, voor wat betreft de investeringslasten en de aanloopkosten die voor de vaststelling van het budget in aanmerking worden genomen, worden de investeringslasten voor de investeringen die niet gedekt zijn door de financieringswet niet meer onder A1 en A3 van het BFM opgenomen. Dergelijke investeringen zullen vallen onder het nieuw financieringssysteem voor de ziekenhuissector.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering betreffende de subsidiëring van infrastructuur van ziekenhuizen</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Hiertoe behoort de afwikkeling federale subsidiëring ziekenhuizen van vóór de staatshervorming. Er worden geen nieuwe engagementen aangegaan.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:20.383744195Z","laatstGewijzigd":"2023-05-05T17:45:24.644249439Z","laatstOntvangen":"2023-05-05T17:45:24.644249439Z","productnummer":"2062","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4e773c6a-1ddd-42a9-86f2-56a2bf8a352f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/af1746ee-3038-494b-9368-51cdc7eaa154"},{"id":"aafe9643-e37b-4ad2-9836-3f81fba0ae92","generatedAtTime":"2023-05-05T17:45:24.474907Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor A1/A3 algemene, universitaire en psychiatrische ziekenhuizen "},"beschrijving":{"nl":"<p>Met de wijziging van het Koninklijk Besluit over de vaststelling en de vereffening van het budget van financiële middelen (BFM) van de ziekenhuizen, voor wat betreft de investeringslasten en de aanloopkosten die voor de vaststelling van het budget in aanmerking worden genomen, worden de investeringslasten voor de investeringen die niet gedekt zijn door de financieringswet niet meer onder A1 en A3 van het BFM opgenomen. Dergelijke investeringen zullen vallen onder het nieuw financieringssysteem voor de ziekenhuissector.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Gecoördineerde wet op de ziekenhuizen en andere verzorgingsinrichtingen van 10 juli 2008</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Hiertoe behoort de afwikkeling federale subsidiëring ziekenhuizen van vóór de staatshervorming. Er worden geen nieuwe engagementen aangegaan.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:20.259317436Z","laatstGewijzigd":"2023-05-05T17:45:24.457406373Z","laatstOntvangen":"2023-05-05T17:45:24.457406373Z","productnummer":"2061","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/aafe9643-e37b-4ad2-9836-3f81fba0ae92","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5bee6d67-6c06-453c-b9df-9cd48ff21138"},{"id":"f19726e8-87cf-42ce-998d-06f776673ea2","generatedAtTime":"2023-05-05T17:45:24.261887Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor toestelfinanciering"},"beschrijving":{"nl":"<p>Het VIPA verstrekt een forfaitaire betoelaging voor volgende zware medische apparatuur in de ziekenhuizen:<br />- Bestralingsapparaat: een apparaat dat geïnstalleerd is bij een dienst voor radiotherapie<br />- NMR: een magnetische resonantietomograaf<br />- PET-scanner</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering betreffende de subsidiëring van de uitrusting en apparatuur van de medisch-technische diensten van de ziekenhuizen en tot wijziging van het koninklijk besluit van 25 april 2002 van 17/06/2016</p><p>Besluit van de Vlaamse Regering van 18/12/2020 tot wijziging van de regelgeving over de subsidiëring van een magnetische resonantietomograaf (NMR) en over de subsidiëring van bestralingsapparaten</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Voor een NMR die op zijn vroegst in 2015 is geïnstalleerd of die, als hij vóór 2015 is geïnstalleerd, op zijn vroegst in 2015 een upgrading heeft ondergaan waarvan de waarde minstens 50% vertegenwoordigt van de nieuwwaarde van het apparaat, wordt jaarlijks een forfaitaire subsidie van 114.188,92 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat is geïnstalleerd. De voormelde upgrading mag op zijn vroegst plaatsvinden in het zevende jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is. Het apparaat moet passen in het maximale aantal apparaten dat mag worden uitgebaat.<br /><br />Voor een bestralingsapparaat dat op zijn vroegst in 2015 is geïnstalleerd en dat past in het aantal bestralingsapparaten dat wordt vastgesteld in het budget van financiële middelen van de ziekenhuizen, wordt jaarlijks een forfaitaire subsidie van 87.849,03 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. Het apparaat mag alleen bestaan uit een lineaire versneller of een “gamma knife”-apparaat.<br /><br />Voor een PET-scanner die op zijn vroegst in 2015 is geïnstalleerd, wordt er jaarlijks een forfaitaire subsidie van 200.000 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. Voor het tweede toestel in universitaire ziekenhuizen, dat dient voor translationeel onderzoek en opleiding, wordt die jaarlijkse forfaitaire subsidie beperkt tot 100.000 euro. Het apparaat moet passen in het maximale aantal apparaten dat mag worden uitgebaat.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:20.136750067Z","laatstGewijzigd":"2023-05-05T17:45:24.244400524Z","laatstOntvangen":"2023-05-05T17:45:24.244400524Z","productnummer":"2060","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f19726e8-87cf-42ce-998d-06f776673ea2","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/1bc73e43-5dea-4fd0-bcb4-dbb3b6d52ae5"},{"id":"d31315ec-0a28-4aee-856c-c9645117d1b8","generatedAtTime":"2023-05-05T17:45:23.985555Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor infrastructuurforfait personen met een handicap"},"beschrijving":{"nl":"<p>Deze betoelagingsvorm is van toepassing voor de meerderjarige personen met een handicap. Een voorziening kan een vraag indienen tot het bekomen van een akkoord infrastructuurforfait voor een beoogde investering. Zodra desbetreffende infrastructuur in gebruik wordt genomen, start de uitbetaling van het infrastructuurforfait. De grootte van dat forfait is afhankelijk van de zorgzwaarte van de personen met een handicap die gebruik van de infrastructuur en wordt aangepast aan de bezetting. Rekening houdend met voorgaande elementen wordt het forfait voor onbepaalde duur en jaarlijks uitbetaald zolang er bezetting is. Het forfait moet door de voorziening als korting doorgerekend worden naar de persoon met een handicap. De betaling van subsidies zal voor deze projecten starten vanaf ingebruikname.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden van 22/06/2018</p><p>Ministerieel besluit tot uitvoering van het besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden van 26/11/2018</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Voor zorgaanbieders die woon- en dagondersteuning bieden, en zorgaanbieders die alleen dagondersteuning bieden als ze voldoen aan een van de volgende voorwaarden:<br /><br />-beschikken over een vergunning voor het aanbieden van niet-rechtstreeks toegankelijke zorg en ondersteuning of vrijgesteld zijn van voorvermelde vergunning<br /><br />-verlenen niet-rechtstreeks toegankelijke zorg en ondersteuning of zijn geregistreerd ouderinitiatief</p><p>-beschikken over een genotsrecht op het project (als de aanvrager en de eigenaar of de houder van de zakelijke rechten op de grond waarop een project wordt gepland, twee verschillende personen zijn, mag er tussen hen geen ongeoorloofde verwantschapsband bestaan)<br /><br />-zijn op het ogenblik van de aanvraag infrastructuurforfait financieel in staat de kost van de investering te dragen zonder de continuïteit van de dienstverlening in gevaar te brengen</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:19.991567764Z","laatstGewijzigd":"2023-05-05T17:45:23.968235501Z","laatstOntvangen":"2023-05-05T17:45:23.968235501Z","productnummer":"2059","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d31315ec-0a28-4aee-856c-c9645117d1b8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fbef3558-89d1-4bcd-b571-4b23531e5e3a"},{"id":"6f2f797b-bf40-4edb-8ca7-9c9331590923","generatedAtTime":"2023-05-05T17:45:23.707995Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor klassieke financiering gezinnen met kinderen"},"beschrijving":{"nl":"<p>Het VIPA subsidieert de realisatie van duurzame, toegankelijke en betaalbare zorginfrastructuur. De subsidies dienen om nieuwe gebouwen op te richten, of om bestaande gebouwen voor lange termijn in orde te stellen op functioneel en bouwtechnisch vlak. Een voorziening kan een vraag indienen tot het bekomen van investeringsbetoelaging (= subsidiebelofte) voor een beoogde investering. De subsidiebetalingen gebeuren in 5 schijven op basis van voorgelegde facturen. De subsidiebelofte wordt geïndexeerd op het moment van de aanvang van de werken.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de sector van de voorzieningen voor gezinnen met kinderen van 04/03/2011</p><p>Besluit van de Vlaamse Regering houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden van 8/6/1999</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De sector van de voorzieningen voor gezinnen met kinderen bevat:<br />- centra voor kinderzorg en gezinsondersteuning (CKG)<br />- crèches<br />- vertrouwenscentra voor kindermishandeling (VK)</p><p>Voor overige rechtspersonen als kinderopvanglocatie om in aanmerking te komen voor VIPA-betoelaging, gelieve te refereren naar de voorwaarden op de website van VIPA.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:19.839848863Z","laatstGewijzigd":"2023-05-05T17:45:23.690279745Z","laatstOntvangen":"2023-05-05T17:45:23.690279745Z","productnummer":"2058","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6f2f797b-bf40-4edb-8ca7-9c9331590923","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/72145331-4647-4bed-b2c7-33b3b29c31e9"},{"id":"658d46b6-a8b5-4778-9c30-c795a592fee0","generatedAtTime":"2023-05-05T17:45:23.42762Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor klassieke financiering ziekenhuizen"},"beschrijving":{"nl":"<p>Het VIPA subsidieert de realisatie van duurzame, toegankelijke en betaalbare zorginfrastructuur. De subsidies dienen om nieuwe gebouwen op te richten, of om bestaande gebouwen voor lange termijn in orde te stellen op functioneel en bouwtechnisch vlak. Een voorziening kan een vraag indienen tot het bekomen van investeringsbetoelaging (= subsidiebelofte) voor een beoogde investering. De subsidiebetalingen gebeuren in 5 schijven op basis van voorgelegde facturen. De subsidiebelofte wordt geïndexeerd op het moment van de aanvang van de werken.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de verzorgingsvoorzieningen van 16/07/2010</p><p>Besluit van de Vlaamse Regering houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden van 8/6/1999</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Voor heel specifieke investeringen ziekenhuizen (reconversie kleine k). Het merendeel van de ziekenhuisinvesteringen wordt immers afgedekt via het strategisch forfait.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:19.609610694Z","laatstGewijzigd":"2023-05-05T17:45:23.410363713Z","laatstOntvangen":"2023-05-05T17:45:23.410363713Z","productnummer":"2057","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/658d46b6-a8b5-4778-9c30-c795a592fee0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e6464cc8-380e-47a5-866f-7ecc54d32643"},{"id":"29594119-7a96-4f21-95ec-392d617be252","generatedAtTime":"2023-05-05T17:45:23.203876Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor klassieke financiering woonzorg (LDC+DVC)"},"beschrijving":{"nl":"<p>Het VIPA subsidieert de realisatie van duurzame, toegankelijke en betaalbare zorginfrastructuur. De subsidies dienen om nieuwe gebouwen op te richten, of om bestaande gebouwen voor lange termijn in orde te stellen op functioneel en bouwtechnisch vlak. Een voorziening kan een vraag indienen tot het bekomen van investeringsbetoelaging (= subsidiebelofte) voor een beoogde investering. De subsidiebetalingen gebeuren in 5 schijven op basis van voorgelegde facturen. De subsidiebelofte wordt geïndexeerd op het moment van de aanvang van de werken.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor sommige woonzorgvoorzieningen, tot wijziging van diverse bepalingen in dat verband ingevolge het Woonzorgdecreet van 15 februari 2019 en tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin van 13/12/2019</p><p>Besluit van de Vlaamse Regering houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden van 8/6/1999</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De infrastructuur van een centrum moet voldoen aan de specifieke bouwtechnische en bouwfysische normen van het relevante type om voor een investeringssubsidie in aanmerking te komen.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:19.476275388Z","laatstGewijzigd":"2023-05-05T17:45:23.186604304Z","laatstOntvangen":"2023-05-05T17:45:23.186604304Z","productnummer":"2056","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/29594119-7a96-4f21-95ec-392d617be252","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cf033a55-faab-4cd8-aaf0-8cedb18fe4f9"},{"id":"31baca48-ea9d-4d80-b7ca-58e0c290cb5b","generatedAtTime":"2023-05-05T17:45:22.923563Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor instandhoudingsforfait ziekenhuizen"},"beschrijving":{"nl":"<p>Het instandhoudingsforfait is bedoeld om de bestaande infrastructuur (onroerend en roerend) in exploitatie te kunnen houden. Dit betekent dat de roerende investeringen (medische en niet-medische investeringen) op gepaste tijden moeten kunnen worden vervangen en dat onderhoudswerken aan bestaande gebouwen moeten kunnen worden uitgevoerd. Het forfait wordt berekend en evolueert op basis van een aantal parameters (bv. aantal operatiekwartieren, aantal bedden) en wordt automatisch jaarlijks uitbetaald zonder aanvraagprocedure.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering betreffende de subsidiëring van infrastructuur van ziekenhuizen van 14/07/2017</p><p>Besluit van de Vlaamse Regering houdende de procedureregels voor de subsidiëring van infrastructuur van ziekenhuizen van 14/07/2017</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De investeringssubsidies worden toegekend zolang het ziekenhuis belast is met de verplichtingen van de toegekende erkenning.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:19.197427552Z","laatstGewijzigd":"2023-05-05T17:45:22.906187959Z","laatstOntvangen":"2023-05-05T17:45:22.906187959Z","productnummer":"2055","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/31baca48-ea9d-4d80-b7ca-58e0c290cb5b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/367c8cba-9d96-43c2-b4cb-b4fd7c5edad3"},{"id":"d3415a67-b51a-48fe-a4cb-db9ed5ad66da","generatedAtTime":"2023-05-05T17:45:22.494238Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor strategisch forfait ziekenhuizen"},"beschrijving":{"nl":"<p>Een ziekenhuis kan een vraag indienen tot het bekomen van een akkoord strategisch forfait voor nieuwbouw, uitbreiding van bestaande capaciteit en herconditionerings-investeringen. Zodra desbetreffende infrastructuur in gebruik wordt genomen, start de uitbetaling van het strategisch forfait. De grootte van dat forfait is afhankelijk van een aantal parameters (bv. aantal operatiekwartieren, aantal bedden), en wordt aangepast aan het effectief gebruik van die parameters. Rekening houdend met voorgaande elementen wordt het forfait voor onbepaalde duur en jaarlijks uitbetaald zolang de onderliggende parameters in gebruik zijn.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering betreffende de subsidiëring van infrastructuur van ziekenhuizen van 14/07/2017</p><p>Besluit van de Vlaamse Regering houdende de procedureregels voor de subsidiëring van infrastructuur van ziekenhuizen van 14/07/2017</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De aanvrager komt alleen in aanmerking voor een strategisch forfait als hij beschikt over een genotsrecht op het project waarvoor hij een aanvraag van een strategisch forfait indient, voor een periode die voor onroerende goederen in elk geval minstens vijfentwintig jaar bedraagt en die voor roerende goederen in elk geval minstens vijf jaar bedraagt. Elke investering die raakt aan de zorgstrategische planning dient goedgekeurd te worden door de Vlaamse overheid en moet in overeenstemming zijn met de zorgstrategische planning zoals opgenomen in het Vlaams Regeerakkoord. Het zorgstrategische kader zal dus de basis vormen voor de toekenning van het strategisch forfait.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:18.977706337Z","laatstGewijzigd":"2023-05-05T17:45:22.476909877Z","laatstOntvangen":"2023-05-05T17:45:22.476909877Z","productnummer":"2054","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d3415a67-b51a-48fe-a4cb-db9ed5ad66da","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c812d75d-c5da-4c19-9f6b-53f55e924bde"},{"id":"d765b50d-3218-4894-bac2-4ee24bf84c41","generatedAtTime":"2023-05-05T17:45:22.224009Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor alternatieve financiering ziekenhuizen"},"beschrijving":{"nl":"<p>Procedure alternatieve financiering – geldig voor goedgekeurde dossiers ziekenhuizen, ouderen- en thuiszorgvoorzieningen en gehandicaptenvoorzieningen - aflopend</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden van 18/03/2011</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Er worden geen nieuwe engagementen aangegaan. Er is verdere uitbetaling van de subsidies verbonden aan de bestaande engagementen.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:18.82389759Z","laatstGewijzigd":"2023-05-05T17:45:22.206593683Z","laatstOntvangen":"2023-05-05T17:45:22.206593683Z","productnummer":"2053","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d765b50d-3218-4894-bac2-4ee24bf84c41","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7e67b84d-e437-4bda-9577-975e57986498"},{"id":"36b58d65-3430-4ba4-8197-bdaec13c8c18","generatedAtTime":"2023-05-05T17:45:21.993486Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor alternatieve financiering personen met een handicap"},"beschrijving":{"nl":"<p>Procedure alternatieve financiering – geldig voor goedgekeurde dossiers ziekenhuizen, ouderen- en thuiszorgvoorzieningen en gehandicaptenvoorzieningen - aflopend</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden van 18/03/2011</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Er worden geen nieuwe engagementen aangegaan. Er is verdere uitbetaling van de subsidies verbonden aan de bestaande engagementen.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:15:18.681689391Z","laatstGewijzigd":"2023-05-05T17:45:21.976223515Z","laatstOntvangen":"2023-05-05T17:45:21.976223515Z","productnummer":"2051","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/36b58d65-3430-4ba4-8197-bdaec13c8c18","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/46ca53a8-9028-461f-b353-6686d0c1ecd5"},{"id":"3506b381-b6f7-4dfc-9271-ed5f5b03312f","generatedAtTime":"2023-05-05T17:45:21.759953Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor alternatieve financiering ouderenzorg"},"beschrijving":{"nl":"<p>Procedure alternatieve financiering – geldig voor goedgekeurde dossiers ziekenhuizen, ouderen- en thuiszorgvoorzieningen en gehandicaptenvoorzieningen - aflopend</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden van 18/03/2011</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Er worden geen nieuwe engagementen aangegaan. Er is verdere uitbetaling van de subsidies verbonden aan de bestaande engagementen.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:10:55.113007193Z","laatstGewijzigd":"2023-05-05T17:45:21.742355847Z","laatstOntvangen":"2023-05-05T17:45:21.742355847Z","productnummer":"2052","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3506b381-b6f7-4dfc-9271-ed5f5b03312f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0c1cf665-014c-4756-a0b4-46e67fbd770b"},{"id":"d531d526-9cb2-4aa5-a225-09511029159b","generatedAtTime":"2023-05-05T17:45:21.532018Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Woningpas"},"beschrijving":{"nl":"<p>Een woning bouwen, verbouwen, verkopen of verhuren, daar komt heel wat papierwerk bij kijken. De woningpas is een gratis digitaal paspoort dat alle informatie over uw huis samenbrengt in één handig overzicht.</p><div><div><p>U vindt er alle beschikbare attesten en informatie over de woning, zoals keuringen, gegevens uit het energieprestatiecertificaat (EPC) of uw EPB-aangifte, … Zo hebt u als eigenaar minder papierwerk en meer duidelijkheid over de kwaliteit en zuinigheid van uw woning, en boekt u tijdwinst.</p></div></div>"},"type":"AdviesBegeleiding","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"websites":[{"naam":{"nl":"Woningpas"},"url":"https://woningpas.vlaanderen.be","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:44.46497936Z","laatstGewijzigd":"2023-05-05T17:45:21.51238636Z","laatstOntvangen":"2023-05-05T17:45:21.51238636Z","productnummer":"2049","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d531d526-9cb2-4aa5-a225-09511029159b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c196de03-6adc-44de-994c-ee2771ec09a9"},{"id":"4a2ba7d7-dcb4-4fdb-ae8e-9aa19ae7e618","generatedAtTime":"2023-05-05T17:45:21.233856Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor het terugkommoment"},"beschrijving":{"nl":"<p>Het terugkommoment is een verplichte opleiding van 4 uur die een chauffeur 6 tot 9 maanden na afgifte van zijn definitief rijbewijs B moet volgen.</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li><a href=\"https://www.wegcode.be/wetteksten/secties/decreten/vd-09-03-2018/2176-vd-090318#h9-hoofdstuk-7-inwerkingtreding-en-toepassingsgebied-in-de-tijd\">Decreet houdende het terugkommoment in het kader van de rijopleiding categorie B van 9 maart 2018</a></li></ul>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>De Vlaamse Regering bepaalt de regels voor de toekenning, weigering, verlenging, schorsing en intrekking van de erkenning van de instellingen die het terugkommoment organiseren.</li><li>De instelling die een erkenning wil bekomen, is bij de aanvraag tot erkenning en daarna jaarlijks, zolang de erkenning behouden blijft, een retributie verschuldigd.</li><li>De lesgever die een onderdeel van het terugkommoment wil geven en daarvoor een erkenning wil krijgen, is bij de aanvraag tot erkenning een retributie verschuldigd.</li><li>De Vlaamse Regering stelt de bedragen van deze retributies en hoe aan de retributie moet worden voldaan, vast.</li><li>De Vlaamse Regering kan de regels bepalen waaronder subsidies verleend worden aan de erkende instellingen voor de organisatie van het terugkommoment.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:10:54.712764091Z","laatstGewijzigd":"2023-05-05T17:45:21.215836308Z","laatstOntvangen":"2023-05-05T17:45:21.215836308Z","productnummer":"2048","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4a2ba7d7-dcb4-4fdb-ae8e-9aa19ae7e618","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c163241a-d0f3-4f2c-ab61-237e3e101d6f"},{"id":"869fe43f-2e1a-4aba-99d8-bf9811ed04ca","generatedAtTime":"2023-05-05T17:45:20.892703Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":" Subsidies aan gemeenten voor het verbeteren van de verkeersveiligheid van schoolroutes op gemeentewegen"},"beschrijving":{"nl":"<p>U kunt als gemeente een subsidie aanvragen voor projecten die de verkeersveiligheid van schoolroutes op gemeentewegen verbeteren. De subsidie is gericht op snel uitvoerbare maatregelen zoals verkeerssignalisatie en kleine infrastructurele maatregelen.</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet houdende bepalingen tot begeleiding van de begroting 2021</li><li><a href=\"https://beslissingenvlaamseregering.vlaanderen.be/document-view/605066A233914000080001A4\">Besluit van de Vlaamse Regering houdende de regeling van subsidies aan gemeenten in het kader van veilige schoolroutes</a></li></ul>"},"uitzonderingen":{"nl":"<p>Maatregelen die u wil uitvoeren op gewestwegen of op kruispunten van een gemeente- met een gewestweg komen niet in aanmerking voor deze subsidie.</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li><p>De gemeente vraagt de subsidie aan en is opdrachtgever voor de projecten.</p></li><li><p>De projecten liggen langs een schoolroute.</p></li><li>De focus ligt op het veiliger maken van de schoolroute voor kwetsbare weggebruikers.</li></ul><h3>Een schoolroute:</h3><ul><li>ligt <strong>op het grondgebied</strong> van de gemeente.</li><li><strong>eindigt</strong> waar de <strong>schoolomgeving</strong> van de school begint (zelfs al is die schoolomgeving niet aangevraagd voor de subsidie in het kader van het verbeteren van de verkeersveiligheid van de schoolomgeving).<ul><li>de schoolroute ligt buiten een straal van 100 meter rond een schooltoegang, of voorbij het eerste kruispunt aan beide zijden als dat verder ligt dan 100 meter.</li></ul></li><li><strong>wordt gebruikt door</strong> verschillende scholieren, te voet of met de (brom)fiets op het woon-schooltraject, tijdens de uren die voorafgaan aan de opening van de school of scholen en/of die volgen op de sluiting van de school of scholen.<ul><li>De keuze van de schoolroute(s) moet gemotiveerd worden.</li></ul></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ol><li>Bereid uw aanvraag goed voor. <a href=\"https://www.uat-vlaanderen.be/subsidies-voor-veilig-schoolverkeer/richtlijnen-bij-veiligheidsmaatregelen-voor-schoolroutes\">Check de tips en richtlijnen</a>.</li><li><a href=\"https://assets.vlaanderen.be/raw/upload/v1660651451/Template_aanvraag_schoolroutes_2021_07_19_v2_gphumk_rq4fou.xlsm\">Download het aanvraagformulier</a>.</li><li>Vul uw subsidieaanvraag in.</li><li><p>Stuur het formulier naar het <a href=\"mailto:subsidies.veilige.schoolroutes@mow.vlaanderen.be\">Departement Mobiliteit en Openbare Werken.</a></p></li></ol>"},"@type":"Procedure","order":0}],"creatie":"2023-05-04T14:10:54.569652256Z","laatstGewijzigd":"2023-05-05T17:45:20.874472314Z","laatstOntvangen":"2023-05-05T17:45:20.874472314Z","productnummer":"2047","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/869fe43f-2e1a-4aba-99d8-bf9811ed04ca","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7b86e5d3-e1cb-494b-b748-0c96cb4bbb08"},{"id":"63fbc0af-1f12-4cb2-a0e6-95cab1690527","generatedAtTime":"2023-05-05T17:45:20.260018Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan gemeenten voor het verbeteren van de verkeersveiligheid van schoolomgevingen"},"beschrijving":{"nl":"<p>U kunt als gemeente subsidies aanvragen voor projecten die de verkeersveiligheid van schoolomgevingen verbeteren. Die subsidies zijn gericht op snel uitvoerbare maatregelen zoals verkeerssignalisatie en kleine infrastructurele maatregelen.</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 21 december 2018 houdende bepalingen tot begeleiding van de begroting 2019 (Artikel 13)</li><li><a href=\"https://beslissingenvlaamseregering.vlaanderen.be/document-view/52b47dfe-dec1-11e9-aa72-0242c0a80002\">Besluit van de Vlaamse Regering houdende de regeling van subsidies aan gemeenten in het kader van veilige schoolomgevingen</a></li></ul>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>De gemeente vraagt de subsidie aan. De gemeente is de opdrachtgever voor de projecten.</li><li>De projecten worden uitgevoerd in de schoolomgeving. Met schoolomgeving wordt een <strong>straal van 100 meter rond de schooltoegang</strong> bedoeld, of tot het eerste kruispunt aan beide zijden als dat verder ligt dan 100 meter.</li><li>De projecten zijn erop gericht de verkeersveiligheid van schoolkinderen te verbeteren.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ol><li><a href=\"https://assets.vlaanderen.be/raw/upload/v1672926126/Aanvraagformulier-subsidies-veilige-schoolomgevingen-december2021_mhceeu.xlsm\">Download het aanvraagformulier.</a></li><li>Vul uw aanvraag in.</li><li>Stuur het formulier naar het <a href=\"mailto:subsidies.veilige.schoolomgevingen@mow.vlaanderen.be\">Departement Mobiliteit en Openbare Werken.</a></li></ol>"},"@type":"Procedure","order":0}],"creatie":"2023-05-04T14:10:54.206944509Z","laatstGewijzigd":"2023-05-05T17:45:20.242390057Z","laatstOntvangen":"2023-05-05T17:45:20.242390057Z","productnummer":"2046","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/63fbc0af-1f12-4cb2-a0e6-95cab1690527","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4c7802c1-443b-4bc7-b6e9-671faa8d0ba9"},{"id":"8f40c910-199e-4ae5-a1d4-28d34d5e0d64","generatedAtTime":"2023-05-05T17:45:19.933153Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"UiTPAS"},"beschrijving":{"nl":"<p>Met de UiTPAS kunt u goedkoper deelnemen aan cultuur-, jeugd-, sport- of vrijettijdsactiviteiten. U kunt punten sparen wanneer u deelneemt aan een activiteit bij een UiTPAS-partner. De gespaarde punten kunt u omruilen tegen mooie voordelen.</p><p>UiTPAS vindt u in meer dan 90 steden en gemeenten in Vlaanderen en in het Brusselse Hoofdstedelijke Gewest (in samenwerking met Paspartoe).</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE1","BE2"],"bevoegdeOverheden":[{"id":"OVO015192","@id":"OVO015192"}],"websites":[{"naam":{"nl":"UiTPAS"},"url":"https://www.uitpas.be","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:44.352299891Z","laatstGewijzigd":"2023-05-05T17:45:19.915502357Z","laatstOntvangen":"2023-05-05T17:45:19.915502357Z","productnummer":"2045","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8f40c910-199e-4ae5-a1d4-28d34d5e0d64","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a9cfb21d-f823-47a2-86cb-5417274356d0"},{"id":"2e1333de-8e31-4ef8-9279-98157e58b3c3","generatedAtTime":"2023-05-05T17:45:19.623015Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies Toerisme voor Allen-Verblijven"},"beschrijving":{"nl":"<p>Toerisme Vlaanderen lanceert jaarlijks een subsidieoproep voor uitbaters van verblijven Toerisme voor Allen. Alle erkende en principieel erkende jeugdverblijven kunnen een subsidieaanvraag indienen bij Toerisme Vlaanderen voor infrastructuurwerken en renovaties.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van « Toerisme voor Allen »</p><p> </p>"},"bevoegdeOverheden":[{"id":"OVO000034","@id":"OVO000034"}],"creatie":"2023-03-24T06:40:44.246586981Z","laatstGewijzigd":"2023-05-05T17:45:19.605717306Z","laatstOntvangen":"2023-05-05T17:45:19.605717306Z","productnummer":"2035","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2e1333de-8e31-4ef8-9279-98157e58b3c3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/779e2b79-187a-4d74-85e5-8f9704d8897b"},{"id":"9c5b655c-8640-44ac-9df8-ce1413155ec5","generatedAtTime":"2023-05-05T17:45:19.459973Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Lokale diensteneconomie Toerisme Vlaanderen"},"beschrijving":{"nl":"<p>Dit zijn subsidies aan lokaledienstenondernemingen voor de tewerkstelling van werknemers met een grote afstand tot de arbeidsmarkt en die behoefte hebben aan een langdurige periode van begeleiding en competentieversterking ter voorbereiding op een tewerkstelling in het reguliere arbeidscircuit. De ondernemingen voorzien ook een aanvullend dienstenaanbod, dat inspeelt op lokale noden en evoluties en waarbij de maatschappelijke meerwaarde centraal staat.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Het decreet betreffende de lokale diensteneconomie van 22 november 2013</p>"},"bevoegdeOverheden":[{"id":"OVO000034","@id":"OVO000034"}],"creatie":"2023-03-07T15:13:21.484847427Z","laatstGewijzigd":"2023-05-05T17:45:19.442113Z","laatstOntvangen":"2023-05-05T17:45:19.442113Z","productnummer":"2041","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9c5b655c-8640-44ac-9df8-ce1413155ec5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ad8476cc-57d7-4f87-8903-18243006ccf3"},{"id":"d04756f4-98ab-447c-8ba2-5fbdd969471f","generatedAtTime":"2023-05-05T17:45:19.159499Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Tewerkstellingsprojecten Toerisme Vlaanderen"},"beschrijving":{"nl":"<p>Dit zijn subsidies die worden toegekend aan toeristische verenigingen voor de tewerkstelling van personeelsleden in het gewezen DAC-statuut (Derde ArbeidsCircuit).</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 4 juni 2004 houdende de toekenning van subsidies aan toeristische verenigingen voor de tewerkstelling van personeelsleden</p>"},"bevoegdeOverheden":[{"id":"OVO000034","@id":"OVO000034"}],"creatie":"2023-03-24T06:40:44.036982735Z","laatstGewijzigd":"2023-05-05T17:45:19.141807553Z","laatstOntvangen":"2023-05-05T17:45:19.141807553Z","productnummer":"2043","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d04756f4-98ab-447c-8ba2-5fbdd969471f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/9d99cca1-34a7-46f7-857b-4cafe7cc3126"},{"id":"3a0a6315-2c45-460b-9680-aa68f6ee4054","generatedAtTime":"2023-05-05T17:45:18.863069Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Event Flanders: ad nominatim"},"beschrijving":{"nl":"<p>Dit zijn Ad nominatim(*) subsidies in het kader van het Vlaamse topevenementenbeleid met als doel meer internationale topevenementen aan te trekken naar Vlaanderen of bestaande Vlaamse topevenementen te ondersteunen bij hun organisatie.</p><p>(*) Subsidies die nominatim in de begroting zijn opgenomen, staan letterlijk met naam (d.i. de naam van de organisatie waaraan een subsidie wordt toegekend) in het jaarlijks begrotingsdecreet.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Jaarlijks begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000034","@id":"OVO000034"}],"creatie":"2023-05-04T14:10:53.095962114Z","laatstGewijzigd":"2023-05-05T17:45:18.845333701Z","laatstOntvangen":"2023-05-05T17:45:18.845333701Z","productnummer":"2039","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3a0a6315-2c45-460b-9680-aa68f6ee4054","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/8d2099b2-b5d6-414f-bd6f-c815a21dd453"},{"id":"bdf74321-c71b-4faf-baa1-ac6f06b177b0","generatedAtTime":"2023-05-05T17:45:18.557818Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Event Flanders: projectsubsidies"},"beschrijving":{"nl":"<p>Projectsubsidies in het kader van het Vlaamse topevenementenbeleid met als doel meer internationale topevenementen aan te trekken naar Vlaanderen of bestaande Vlaamse topevenementen te ondersteunen bij hun organisatie.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Het decreet van 19 maart 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid “Toerisme Vlaanderen”, artikel 5, §1, 2°, en §2, tweede lid.</p>"},"bevoegdeOverheden":[{"id":"OVO000034","@id":"OVO000034"}],"creatie":"2023-03-24T06:40:43.930162117Z","laatstGewijzigd":"2023-05-05T17:45:18.540595545Z","laatstOntvangen":"2023-05-05T17:45:18.540595545Z","productnummer":"2040","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bdf74321-c71b-4faf-baa1-ac6f06b177b0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/79f51c68-e8ba-488d-a1b5-049e3c8009cf"},{"id":"56784122-ac84-4248-baff-679cf0f8a90c","generatedAtTime":"2023-05-05T17:45:18.348282Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Event Flanders: thematische projectoproep tot subsidiëring"},"beschrijving":{"nl":"<p>Dit zijn subsidies in het kader van het Vlaamse topevenementenbeleid met als doel meer internationale topevenementen aan te trekken naar Vlaanderen of bestaande Vlaamse topevenementen te ondersteunen bij hun organisatie. Om in aanmerking te komen voor subsidiëring moet er worden voldaan aan de voorwaarden vermeld in de oproep.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Het decreet van 19 maart 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid “Toerisme Vlaanderen”, artikel 5, §1, 2°, en §2, tweede lid.</p>"},"bevoegdeOverheden":[{"id":"OVO000034","@id":"OVO000034"}],"creatie":"2023-03-24T06:40:43.824413381Z","laatstGewijzigd":"2023-05-05T17:45:18.331288058Z","laatstOntvangen":"2023-05-05T17:45:18.331288058Z","productnummer":"2037","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/56784122-ac84-4248-baff-679cf0f8a90c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/52fb2919-6cc3-4099-9c48-7c348164ccf6"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=156",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=157",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-05T17:45:25.057507Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=155",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-05T17:45:18.348282Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=156",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "4f0c4361-6c5b-49db-a484-4c0649096367",
+      "generatedAtTime": "2023-05-05T17:45:25.057507Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor klassieke financiering - algemeen"
+      },
+      "beschrijving": {
+        "nl": "<p>Het VIPA subsidieert de realisatie van duurzame, toegankelijke en betaalbare zorginfrastructuur. De subsidies dienen om nieuwe gebouwen op te richten, of om bestaande gebouwen voor lange termijn in orde te stellen op functioneel en bouwtechnisch vlak. Een voorziening kan een vraag indienen tot het bekomen van investeringsbetoelaging (= subsidiebelofte) voor een beoogde investering. De subsidiebetalingen gebeuren in 5 schijven op basis van voorgelegde facturen. De subsidiebelofte wordt geïndexeerd op het moment van de aanvang van de werken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden van 8/6/1998</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Er worden geen nieuwe engagementen aangegaan. Er is verdere uitbetaling van de subsidies verbonden aan de bestaande engagementen.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:20.645766584Z",
+      "laatstGewijzigd": "2023-05-05T17:45:25.040622428Z",
+      "laatstOntvangen": "2023-05-05T17:45:25.040622428Z",
+      "productnummer": "2064",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4f0c4361-6c5b-49db-a484-4c0649096367",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c11bc22b-93a7-49c4-9705-468030ceb774"
+    },
+    {
+      "id": "acd44a92-86b0-4345-b9ce-59add0c0bf01",
+      "generatedAtTime": "2023-05-05T17:45:24.895631Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor klimaat"
+      },
+      "beschrijving": {
+        "nl": "<p>Erkende en vergunde voorzieningen binnen de sectoren van Welzijn, Volksgezondheid en Gezin kunnen VIPA-subsidies aanvragen voor het uitvoeren van energiebesparende maatregelen, op voorwaarde dat ze eerst via het Vlaams Energiebedrijf een energiescan hebben laten uitvoeren. Deze klimaatsubsidies kunnen gebruikt worden om energiebesparende maatregelen te laten uitvoeren of om een energieprestatiecontract te laten opmaken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering tot uitvoering van het klimaatplan met betrekking tot de infrastructuur voor persoonsgebonden aangelegenheden van 30/03/2018</p><p>Ministerieel besluit tot vaststelling van de formule, vermeld in artikel 9/13, § 1, eerste lid, van het besluit van de Vlaamse Regering van 30 maart 2018 tot uitvoering van het klimaatplan met betrekking tot de infrastructuur voor persoonsgebonden aangelegenheden van 12/06/2019</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U kunt klimaatsubsidies krijgen voor energiebesparende maatregelen met een terugverdientijd groter dan 5 jaar. Zo kunt u op een betaalbare manier maatregelen nemen met een grotere CO2-impact. Het gebouw moet nog minstens 25 jaar in gebruik blijven, de uitvoering van de gesubsidieerde maatregelen staat de uitvoering van toekomstige energiebesparende maatregelen niet in de weg, na de realisatie van een energiebesparende maatregel blijft het gebouw steeds voldoen aan de erkennings- of vergunningsvoorwaarden. Men kan geen klimaatsubsidies aanvragen voor energiebesparende maatregelen waarvoor ook VIPA-investeringssubsidies werden toegekend. Alle maatregelen waarvoor men klimaatsubsidies krijgt, moeten uiterlijk 5 jaar na de goedkeuring uitgevoerd zijn.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:20.49673111Z",
+      "laatstGewijzigd": "2023-05-05T17:45:24.878669042Z",
+      "laatstOntvangen": "2023-05-05T17:45:24.878669042Z",
+      "productnummer": "2063",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/acd44a92-86b0-4345-b9ce-59add0c0bf01",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fc2b893c-9ce9-474e-8f39-e2b9cbd782f7"
+    },
+    {
+      "id": "4e773c6a-1ddd-42a9-86f2-56a2bf8a352f",
+      "generatedAtTime": "2023-05-05T17:45:24.661447Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor A1/A3 revalidatieziekenhuizen"
+      },
+      "beschrijving": {
+        "nl": "<p>Met de wijziging van het Koninklijk Besluit over de vaststelling en de vereffening van het budget van financiële middelen (BFM) van de ziekenhuizen, voor wat betreft de investeringslasten en de aanloopkosten die voor de vaststelling van het budget in aanmerking worden genomen, worden de investeringslasten voor de investeringen die niet gedekt zijn door de financieringswet niet meer onder A1 en A3 van het BFM opgenomen. Dergelijke investeringen zullen vallen onder het nieuw financieringssysteem voor de ziekenhuissector.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering betreffende de subsidiëring van infrastructuur van ziekenhuizen</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Hiertoe behoort de afwikkeling federale subsidiëring ziekenhuizen van vóór de staatshervorming. Er worden geen nieuwe engagementen aangegaan.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:20.383744195Z",
+      "laatstGewijzigd": "2023-05-05T17:45:24.644249439Z",
+      "laatstOntvangen": "2023-05-05T17:45:24.644249439Z",
+      "productnummer": "2062",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4e773c6a-1ddd-42a9-86f2-56a2bf8a352f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/af1746ee-3038-494b-9368-51cdc7eaa154"
+    },
+    {
+      "id": "aafe9643-e37b-4ad2-9836-3f81fba0ae92",
+      "generatedAtTime": "2023-05-05T17:45:24.474907Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor A1/A3 algemene, universitaire en psychiatrische ziekenhuizen "
+      },
+      "beschrijving": {
+        "nl": "<p>Met de wijziging van het Koninklijk Besluit over de vaststelling en de vereffening van het budget van financiële middelen (BFM) van de ziekenhuizen, voor wat betreft de investeringslasten en de aanloopkosten die voor de vaststelling van het budget in aanmerking worden genomen, worden de investeringslasten voor de investeringen die niet gedekt zijn door de financieringswet niet meer onder A1 en A3 van het BFM opgenomen. Dergelijke investeringen zullen vallen onder het nieuw financieringssysteem voor de ziekenhuissector.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Gecoördineerde wet op de ziekenhuizen en andere verzorgingsinrichtingen van 10 juli 2008</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Hiertoe behoort de afwikkeling federale subsidiëring ziekenhuizen van vóór de staatshervorming. Er worden geen nieuwe engagementen aangegaan.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:20.259317436Z",
+      "laatstGewijzigd": "2023-05-05T17:45:24.457406373Z",
+      "laatstOntvangen": "2023-05-05T17:45:24.457406373Z",
+      "productnummer": "2061",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/aafe9643-e37b-4ad2-9836-3f81fba0ae92",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5bee6d67-6c06-453c-b9df-9cd48ff21138"
+    },
+    {
+      "id": "f19726e8-87cf-42ce-998d-06f776673ea2",
+      "generatedAtTime": "2023-05-05T17:45:24.261887Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor toestelfinanciering"
+      },
+      "beschrijving": {
+        "nl": "<p>Het VIPA verstrekt een forfaitaire betoelaging voor volgende zware medische apparatuur in de ziekenhuizen:<br />- Bestralingsapparaat: een apparaat dat geïnstalleerd is bij een dienst voor radiotherapie<br />- NMR: een magnetische resonantietomograaf<br />- PET-scanner</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering betreffende de subsidiëring van de uitrusting en apparatuur van de medisch-technische diensten van de ziekenhuizen en tot wijziging van het koninklijk besluit van 25 april 2002 van 17/06/2016</p><p>Besluit van de Vlaamse Regering van 18/12/2020 tot wijziging van de regelgeving over de subsidiëring van een magnetische resonantietomograaf (NMR) en over de subsidiëring van bestralingsapparaten</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Voor een NMR die op zijn vroegst in 2015 is geïnstalleerd of die, als hij vóór 2015 is geïnstalleerd, op zijn vroegst in 2015 een upgrading heeft ondergaan waarvan de waarde minstens 50% vertegenwoordigt van de nieuwwaarde van het apparaat, wordt jaarlijks een forfaitaire subsidie van 114.188,92 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat is geïnstalleerd. De voormelde upgrading mag op zijn vroegst plaatsvinden in het zevende jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is. Het apparaat moet passen in het maximale aantal apparaten dat mag worden uitgebaat.<br /><br />Voor een bestralingsapparaat dat op zijn vroegst in 2015 is geïnstalleerd en dat past in het aantal bestralingsapparaten dat wordt vastgesteld in het budget van financiële middelen van de ziekenhuizen, wordt jaarlijks een forfaitaire subsidie van 87.849,03 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. Het apparaat mag alleen bestaan uit een lineaire versneller of een “gamma knife”-apparaat.<br /><br />Voor een PET-scanner die op zijn vroegst in 2015 is geïnstalleerd, wordt er jaarlijks een forfaitaire subsidie van 200.000 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. Voor het tweede toestel in universitaire ziekenhuizen, dat dient voor translationeel onderzoek en opleiding, wordt die jaarlijkse forfaitaire subsidie beperkt tot 100.000 euro. Het apparaat moet passen in het maximale aantal apparaten dat mag worden uitgebaat.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:20.136750067Z",
+      "laatstGewijzigd": "2023-05-05T17:45:24.244400524Z",
+      "laatstOntvangen": "2023-05-05T17:45:24.244400524Z",
+      "productnummer": "2060",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f19726e8-87cf-42ce-998d-06f776673ea2",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/1bc73e43-5dea-4fd0-bcb4-dbb3b6d52ae5"
+    },
+    {
+      "id": "d31315ec-0a28-4aee-856c-c9645117d1b8",
+      "generatedAtTime": "2023-05-05T17:45:23.985555Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor infrastructuurforfait personen met een handicap"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze betoelagingsvorm is van toepassing voor de meerderjarige personen met een handicap. Een voorziening kan een vraag indienen tot het bekomen van een akkoord infrastructuurforfait voor een beoogde investering. Zodra desbetreffende infrastructuur in gebruik wordt genomen, start de uitbetaling van het infrastructuurforfait. De grootte van dat forfait is afhankelijk van de zorgzwaarte van de personen met een handicap die gebruik van de infrastructuur en wordt aangepast aan de bezetting. Rekening houdend met voorgaande elementen wordt het forfait voor onbepaalde duur en jaarlijks uitbetaald zolang er bezetting is. Het forfait moet door de voorziening als korting doorgerekend worden naar de persoon met een handicap. De betaling van subsidies zal voor deze projecten starten vanaf ingebruikname.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden van 22/06/2018</p><p>Ministerieel besluit tot uitvoering van het besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden van 26/11/2018</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Voor zorgaanbieders die woon- en dagondersteuning bieden, en zorgaanbieders die alleen dagondersteuning bieden als ze voldoen aan een van de volgende voorwaarden:<br /><br />-beschikken over een vergunning voor het aanbieden van niet-rechtstreeks toegankelijke zorg en ondersteuning of vrijgesteld zijn van voorvermelde vergunning<br /><br />-verlenen niet-rechtstreeks toegankelijke zorg en ondersteuning of zijn geregistreerd ouderinitiatief</p><p>-beschikken over een genotsrecht op het project (als de aanvrager en de eigenaar of de houder van de zakelijke rechten op de grond waarop een project wordt gepland, twee verschillende personen zijn, mag er tussen hen geen ongeoorloofde verwantschapsband bestaan)<br /><br />-zijn op het ogenblik van de aanvraag infrastructuurforfait financieel in staat de kost van de investering te dragen zonder de continuïteit van de dienstverlening in gevaar te brengen</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:19.991567764Z",
+      "laatstGewijzigd": "2023-05-05T17:45:23.968235501Z",
+      "laatstOntvangen": "2023-05-05T17:45:23.968235501Z",
+      "productnummer": "2059",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d31315ec-0a28-4aee-856c-c9645117d1b8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fbef3558-89d1-4bcd-b571-4b23531e5e3a"
+    },
+    {
+      "id": "6f2f797b-bf40-4edb-8ca7-9c9331590923",
+      "generatedAtTime": "2023-05-05T17:45:23.707995Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor klassieke financiering gezinnen met kinderen"
+      },
+      "beschrijving": {
+        "nl": "<p>Het VIPA subsidieert de realisatie van duurzame, toegankelijke en betaalbare zorginfrastructuur. De subsidies dienen om nieuwe gebouwen op te richten, of om bestaande gebouwen voor lange termijn in orde te stellen op functioneel en bouwtechnisch vlak. Een voorziening kan een vraag indienen tot het bekomen van investeringsbetoelaging (= subsidiebelofte) voor een beoogde investering. De subsidiebetalingen gebeuren in 5 schijven op basis van voorgelegde facturen. De subsidiebelofte wordt geïndexeerd op het moment van de aanvang van de werken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de sector van de voorzieningen voor gezinnen met kinderen van 04/03/2011</p><p>Besluit van de Vlaamse Regering houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden van 8/6/1999</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De sector van de voorzieningen voor gezinnen met kinderen bevat:<br />- centra voor kinderzorg en gezinsondersteuning (CKG)<br />- crèches<br />- vertrouwenscentra voor kindermishandeling (VK)</p><p>Voor overige rechtspersonen als kinderopvanglocatie om in aanmerking te komen voor VIPA-betoelaging, gelieve te refereren naar de voorwaarden op de website van VIPA.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:19.839848863Z",
+      "laatstGewijzigd": "2023-05-05T17:45:23.690279745Z",
+      "laatstOntvangen": "2023-05-05T17:45:23.690279745Z",
+      "productnummer": "2058",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6f2f797b-bf40-4edb-8ca7-9c9331590923",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/72145331-4647-4bed-b2c7-33b3b29c31e9"
+    },
+    {
+      "id": "658d46b6-a8b5-4778-9c30-c795a592fee0",
+      "generatedAtTime": "2023-05-05T17:45:23.42762Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor klassieke financiering ziekenhuizen"
+      },
+      "beschrijving": {
+        "nl": "<p>Het VIPA subsidieert de realisatie van duurzame, toegankelijke en betaalbare zorginfrastructuur. De subsidies dienen om nieuwe gebouwen op te richten, of om bestaande gebouwen voor lange termijn in orde te stellen op functioneel en bouwtechnisch vlak. Een voorziening kan een vraag indienen tot het bekomen van investeringsbetoelaging (= subsidiebelofte) voor een beoogde investering. De subsidiebetalingen gebeuren in 5 schijven op basis van voorgelegde facturen. De subsidiebelofte wordt geïndexeerd op het moment van de aanvang van de werken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de verzorgingsvoorzieningen van 16/07/2010</p><p>Besluit van de Vlaamse Regering houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden van 8/6/1999</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Voor heel specifieke investeringen ziekenhuizen (reconversie kleine k). Het merendeel van de ziekenhuisinvesteringen wordt immers afgedekt via het strategisch forfait.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:19.609610694Z",
+      "laatstGewijzigd": "2023-05-05T17:45:23.410363713Z",
+      "laatstOntvangen": "2023-05-05T17:45:23.410363713Z",
+      "productnummer": "2057",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/658d46b6-a8b5-4778-9c30-c795a592fee0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e6464cc8-380e-47a5-866f-7ecc54d32643"
+    },
+    {
+      "id": "29594119-7a96-4f21-95ec-392d617be252",
+      "generatedAtTime": "2023-05-05T17:45:23.203876Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor klassieke financiering woonzorg (LDC+DVC)"
+      },
+      "beschrijving": {
+        "nl": "<p>Het VIPA subsidieert de realisatie van duurzame, toegankelijke en betaalbare zorginfrastructuur. De subsidies dienen om nieuwe gebouwen op te richten, of om bestaande gebouwen voor lange termijn in orde te stellen op functioneel en bouwtechnisch vlak. Een voorziening kan een vraag indienen tot het bekomen van investeringsbetoelaging (= subsidiebelofte) voor een beoogde investering. De subsidiebetalingen gebeuren in 5 schijven op basis van voorgelegde facturen. De subsidiebelofte wordt geïndexeerd op het moment van de aanvang van de werken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor sommige woonzorgvoorzieningen, tot wijziging van diverse bepalingen in dat verband ingevolge het Woonzorgdecreet van 15 februari 2019 en tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin van 13/12/2019</p><p>Besluit van de Vlaamse Regering houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden van 8/6/1999</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De infrastructuur van een centrum moet voldoen aan de specifieke bouwtechnische en bouwfysische normen van het relevante type om voor een investeringssubsidie in aanmerking te komen.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:19.476275388Z",
+      "laatstGewijzigd": "2023-05-05T17:45:23.186604304Z",
+      "laatstOntvangen": "2023-05-05T17:45:23.186604304Z",
+      "productnummer": "2056",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/29594119-7a96-4f21-95ec-392d617be252",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cf033a55-faab-4cd8-aaf0-8cedb18fe4f9"
+    },
+    {
+      "id": "31baca48-ea9d-4d80-b7ca-58e0c290cb5b",
+      "generatedAtTime": "2023-05-05T17:45:22.923563Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor instandhoudingsforfait ziekenhuizen"
+      },
+      "beschrijving": {
+        "nl": "<p>Het instandhoudingsforfait is bedoeld om de bestaande infrastructuur (onroerend en roerend) in exploitatie te kunnen houden. Dit betekent dat de roerende investeringen (medische en niet-medische investeringen) op gepaste tijden moeten kunnen worden vervangen en dat onderhoudswerken aan bestaande gebouwen moeten kunnen worden uitgevoerd. Het forfait wordt berekend en evolueert op basis van een aantal parameters (bv. aantal operatiekwartieren, aantal bedden) en wordt automatisch jaarlijks uitbetaald zonder aanvraagprocedure.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering betreffende de subsidiëring van infrastructuur van ziekenhuizen van 14/07/2017</p><p>Besluit van de Vlaamse Regering houdende de procedureregels voor de subsidiëring van infrastructuur van ziekenhuizen van 14/07/2017</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De investeringssubsidies worden toegekend zolang het ziekenhuis belast is met de verplichtingen van de toegekende erkenning.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:19.197427552Z",
+      "laatstGewijzigd": "2023-05-05T17:45:22.906187959Z",
+      "laatstOntvangen": "2023-05-05T17:45:22.906187959Z",
+      "productnummer": "2055",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/31baca48-ea9d-4d80-b7ca-58e0c290cb5b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/367c8cba-9d96-43c2-b4cb-b4fd7c5edad3"
+    },
+    {
+      "id": "d3415a67-b51a-48fe-a4cb-db9ed5ad66da",
+      "generatedAtTime": "2023-05-05T17:45:22.494238Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor strategisch forfait ziekenhuizen"
+      },
+      "beschrijving": {
+        "nl": "<p>Een ziekenhuis kan een vraag indienen tot het bekomen van een akkoord strategisch forfait voor nieuwbouw, uitbreiding van bestaande capaciteit en herconditionerings-investeringen. Zodra desbetreffende infrastructuur in gebruik wordt genomen, start de uitbetaling van het strategisch forfait. De grootte van dat forfait is afhankelijk van een aantal parameters (bv. aantal operatiekwartieren, aantal bedden), en wordt aangepast aan het effectief gebruik van die parameters. Rekening houdend met voorgaande elementen wordt het forfait voor onbepaalde duur en jaarlijks uitbetaald zolang de onderliggende parameters in gebruik zijn.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering betreffende de subsidiëring van infrastructuur van ziekenhuizen van 14/07/2017</p><p>Besluit van de Vlaamse Regering houdende de procedureregels voor de subsidiëring van infrastructuur van ziekenhuizen van 14/07/2017</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De aanvrager komt alleen in aanmerking voor een strategisch forfait als hij beschikt over een genotsrecht op het project waarvoor hij een aanvraag van een strategisch forfait indient, voor een periode die voor onroerende goederen in elk geval minstens vijfentwintig jaar bedraagt en die voor roerende goederen in elk geval minstens vijf jaar bedraagt. Elke investering die raakt aan de zorgstrategische planning dient goedgekeurd te worden door de Vlaamse overheid en moet in overeenstemming zijn met de zorgstrategische planning zoals opgenomen in het Vlaams Regeerakkoord. Het zorgstrategische kader zal dus de basis vormen voor de toekenning van het strategisch forfait.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:18.977706337Z",
+      "laatstGewijzigd": "2023-05-05T17:45:22.476909877Z",
+      "laatstOntvangen": "2023-05-05T17:45:22.476909877Z",
+      "productnummer": "2054",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d3415a67-b51a-48fe-a4cb-db9ed5ad66da",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c812d75d-c5da-4c19-9f6b-53f55e924bde"
+    },
+    {
+      "id": "d765b50d-3218-4894-bac2-4ee24bf84c41",
+      "generatedAtTime": "2023-05-05T17:45:22.224009Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor alternatieve financiering ziekenhuizen"
+      },
+      "beschrijving": {
+        "nl": "<p>Procedure alternatieve financiering – geldig voor goedgekeurde dossiers ziekenhuizen, ouderen- en thuiszorgvoorzieningen en gehandicaptenvoorzieningen - aflopend</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden van 18/03/2011</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Er worden geen nieuwe engagementen aangegaan. Er is verdere uitbetaling van de subsidies verbonden aan de bestaande engagementen.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:18.82389759Z",
+      "laatstGewijzigd": "2023-05-05T17:45:22.206593683Z",
+      "laatstOntvangen": "2023-05-05T17:45:22.206593683Z",
+      "productnummer": "2053",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d765b50d-3218-4894-bac2-4ee24bf84c41",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7e67b84d-e437-4bda-9577-975e57986498"
+    },
+    {
+      "id": "36b58d65-3430-4ba4-8197-bdaec13c8c18",
+      "generatedAtTime": "2023-05-05T17:45:21.993486Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor alternatieve financiering personen met een handicap"
+      },
+      "beschrijving": {
+        "nl": "<p>Procedure alternatieve financiering – geldig voor goedgekeurde dossiers ziekenhuizen, ouderen- en thuiszorgvoorzieningen en gehandicaptenvoorzieningen - aflopend</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden van 18/03/2011</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Er worden geen nieuwe engagementen aangegaan. Er is verdere uitbetaling van de subsidies verbonden aan de bestaande engagementen.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:18.681689391Z",
+      "laatstGewijzigd": "2023-05-05T17:45:21.976223515Z",
+      "laatstOntvangen": "2023-05-05T17:45:21.976223515Z",
+      "productnummer": "2051",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/36b58d65-3430-4ba4-8197-bdaec13c8c18",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/46ca53a8-9028-461f-b353-6686d0c1ecd5"
+    },
+    {
+      "id": "3506b381-b6f7-4dfc-9271-ed5f5b03312f",
+      "generatedAtTime": "2023-05-05T17:45:21.759953Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor alternatieve financiering ouderenzorg"
+      },
+      "beschrijving": {
+        "nl": "<p>Procedure alternatieve financiering – geldig voor goedgekeurde dossiers ziekenhuizen, ouderen- en thuiszorgvoorzieningen en gehandicaptenvoorzieningen - aflopend</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden van 18/03/2011</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Er worden geen nieuwe engagementen aangegaan. Er is verdere uitbetaling van de subsidies verbonden aan de bestaande engagementen.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:10:55.113007193Z",
+      "laatstGewijzigd": "2023-05-05T17:45:21.742355847Z",
+      "laatstOntvangen": "2023-05-05T17:45:21.742355847Z",
+      "productnummer": "2052",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3506b381-b6f7-4dfc-9271-ed5f5b03312f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0c1cf665-014c-4756-a0b4-46e67fbd770b"
+    },
+    {
+      "id": "d531d526-9cb2-4aa5-a225-09511029159b",
+      "generatedAtTime": "2023-05-05T17:45:21.532018Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Woningpas"
+      },
+      "beschrijving": {
+        "nl": "<p>Een woning bouwen, verbouwen, verkopen of verhuren, daar komt heel wat papierwerk bij kijken. De woningpas is een gratis digitaal paspoort dat alle informatie over uw huis samenbrengt in één handig overzicht.</p><div><div><p>U vindt er alle beschikbare attesten en informatie over de woning, zoals keuringen, gegevens uit het energieprestatiecertificaat (EPC) of uw EPB-aangifte, … Zo hebt u als eigenaar minder papierwerk en meer duidelijkheid over de kwaliteit en zuinigheid van uw woning, en boekt u tijdwinst.</p></div></div>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Woningpas"
+          },
+          "url": "https://woningpas.vlaanderen.be",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:44.46497936Z",
+      "laatstGewijzigd": "2023-05-05T17:45:21.51238636Z",
+      "laatstOntvangen": "2023-05-05T17:45:21.51238636Z",
+      "productnummer": "2049",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d531d526-9cb2-4aa5-a225-09511029159b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c196de03-6adc-44de-994c-ee2771ec09a9"
+    },
+    {
+      "id": "4a2ba7d7-dcb4-4fdb-ae8e-9aa19ae7e618",
+      "generatedAtTime": "2023-05-05T17:45:21.233856Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor het terugkommoment"
+      },
+      "beschrijving": {
+        "nl": "<p>Het terugkommoment is een verplichte opleiding van 4 uur die een chauffeur 6 tot 9 maanden na afgifte van zijn definitief rijbewijs B moet volgen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li><a href=\"https://www.wegcode.be/wetteksten/secties/decreten/vd-09-03-2018/2176-vd-090318#h9-hoofdstuk-7-inwerkingtreding-en-toepassingsgebied-in-de-tijd\">Decreet houdende het terugkommoment in het kader van de rijopleiding categorie B van 9 maart 2018</a></li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>De Vlaamse Regering bepaalt de regels voor de toekenning, weigering, verlenging, schorsing en intrekking van de erkenning van de instellingen die het terugkommoment organiseren.</li><li>De instelling die een erkenning wil bekomen, is bij de aanvraag tot erkenning en daarna jaarlijks, zolang de erkenning behouden blijft, een retributie verschuldigd.</li><li>De lesgever die een onderdeel van het terugkommoment wil geven en daarvoor een erkenning wil krijgen, is bij de aanvraag tot erkenning een retributie verschuldigd.</li><li>De Vlaamse Regering stelt de bedragen van deze retributies en hoe aan de retributie moet worden voldaan, vast.</li><li>De Vlaamse Regering kan de regels bepalen waaronder subsidies verleend worden aan de erkende instellingen voor de organisatie van het terugkommoment.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:10:54.712764091Z",
+      "laatstGewijzigd": "2023-05-05T17:45:21.215836308Z",
+      "laatstOntvangen": "2023-05-05T17:45:21.215836308Z",
+      "productnummer": "2048",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4a2ba7d7-dcb4-4fdb-ae8e-9aa19ae7e618",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c163241a-d0f3-4f2c-ab61-237e3e101d6f"
+    },
+    {
+      "id": "869fe43f-2e1a-4aba-99d8-bf9811ed04ca",
+      "generatedAtTime": "2023-05-05T17:45:20.892703Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": " Subsidies aan gemeenten voor het verbeteren van de verkeersveiligheid van schoolroutes op gemeentewegen"
+      },
+      "beschrijving": {
+        "nl": "<p>U kunt als gemeente een subsidie aanvragen voor projecten die de verkeersveiligheid van schoolroutes op gemeentewegen verbeteren. De subsidie is gericht op snel uitvoerbare maatregelen zoals verkeerssignalisatie en kleine infrastructurele maatregelen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet houdende bepalingen tot begeleiding van de begroting 2021</li><li><a href=\"https://beslissingenvlaamseregering.vlaanderen.be/document-view/605066A233914000080001A4\">Besluit van de Vlaamse Regering houdende de regeling van subsidies aan gemeenten in het kader van veilige schoolroutes</a></li></ul>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Maatregelen die u wil uitvoeren op gewestwegen of op kruispunten van een gemeente- met een gewestweg komen niet in aanmerking voor deze subsidie.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li><p>De gemeente vraagt de subsidie aan en is opdrachtgever voor de projecten.</p></li><li><p>De projecten liggen langs een schoolroute.</p></li><li>De focus ligt op het veiliger maken van de schoolroute voor kwetsbare weggebruikers.</li></ul><h3>Een schoolroute:</h3><ul><li>ligt <strong>op het grondgebied</strong> van de gemeente.</li><li><strong>eindigt</strong> waar de <strong>schoolomgeving</strong> van de school begint (zelfs al is die schoolomgeving niet aangevraagd voor de subsidie in het kader van het verbeteren van de verkeersveiligheid van de schoolomgeving).<ul><li>de schoolroute ligt buiten een straal van 100 meter rond een schooltoegang, of voorbij het eerste kruispunt aan beide zijden als dat verder ligt dan 100 meter.</li></ul></li><li><strong>wordt gebruikt door</strong> verschillende scholieren, te voet of met de (brom)fiets op het woon-schooltraject, tijdens de uren die voorafgaan aan de opening van de school of scholen en/of die volgen op de sluiting van de school of scholen.<ul><li>De keuze van de schoolroute(s) moet gemotiveerd worden.</li></ul></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ol><li>Bereid uw aanvraag goed voor. <a href=\"https://www.uat-vlaanderen.be/subsidies-voor-veilig-schoolverkeer/richtlijnen-bij-veiligheidsmaatregelen-voor-schoolroutes\">Check de tips en richtlijnen</a>.</li><li><a href=\"https://assets.vlaanderen.be/raw/upload/v1660651451/Template_aanvraag_schoolroutes_2021_07_19_v2_gphumk_rq4fou.xlsm\">Download het aanvraagformulier</a>.</li><li>Vul uw subsidieaanvraag in.</li><li><p>Stuur het formulier naar het <a href=\"mailto:subsidies.veilige.schoolroutes@mow.vlaanderen.be\">Departement Mobiliteit en Openbare Werken.</a></p></li></ol>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:10:54.569652256Z",
+      "laatstGewijzigd": "2023-05-05T17:45:20.874472314Z",
+      "laatstOntvangen": "2023-05-05T17:45:20.874472314Z",
+      "productnummer": "2047",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/869fe43f-2e1a-4aba-99d8-bf9811ed04ca",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7b86e5d3-e1cb-494b-b748-0c96cb4bbb08"
+    },
+    {
+      "id": "63fbc0af-1f12-4cb2-a0e6-95cab1690527",
+      "generatedAtTime": "2023-05-05T17:45:20.260018Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan gemeenten voor het verbeteren van de verkeersveiligheid van schoolomgevingen"
+      },
+      "beschrijving": {
+        "nl": "<p>U kunt als gemeente subsidies aanvragen voor projecten die de verkeersveiligheid van schoolomgevingen verbeteren. Die subsidies zijn gericht op snel uitvoerbare maatregelen zoals verkeerssignalisatie en kleine infrastructurele maatregelen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 21 december 2018 houdende bepalingen tot begeleiding van de begroting 2019 (Artikel 13)</li><li><a href=\"https://beslissingenvlaamseregering.vlaanderen.be/document-view/52b47dfe-dec1-11e9-aa72-0242c0a80002\">Besluit van de Vlaamse Regering houdende de regeling van subsidies aan gemeenten in het kader van veilige schoolomgevingen</a></li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>De gemeente vraagt de subsidie aan. De gemeente is de opdrachtgever voor de projecten.</li><li>De projecten worden uitgevoerd in de schoolomgeving. Met schoolomgeving wordt een <strong>straal van 100 meter rond de schooltoegang</strong> bedoeld, of tot het eerste kruispunt aan beide zijden als dat verder ligt dan 100 meter.</li><li>De projecten zijn erop gericht de verkeersveiligheid van schoolkinderen te verbeteren.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ol><li><a href=\"https://assets.vlaanderen.be/raw/upload/v1672926126/Aanvraagformulier-subsidies-veilige-schoolomgevingen-december2021_mhceeu.xlsm\">Download het aanvraagformulier.</a></li><li>Vul uw aanvraag in.</li><li>Stuur het formulier naar het <a href=\"mailto:subsidies.veilige.schoolomgevingen@mow.vlaanderen.be\">Departement Mobiliteit en Openbare Werken.</a></li></ol>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:10:54.206944509Z",
+      "laatstGewijzigd": "2023-05-05T17:45:20.242390057Z",
+      "laatstOntvangen": "2023-05-05T17:45:20.242390057Z",
+      "productnummer": "2046",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/63fbc0af-1f12-4cb2-a0e6-95cab1690527",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4c7802c1-443b-4bc7-b6e9-671faa8d0ba9"
+    },
+    {
+      "id": "8f40c910-199e-4ae5-a1d4-28d34d5e0d64",
+      "generatedAtTime": "2023-05-05T17:45:19.933153Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "UiTPAS"
+      },
+      "beschrijving": {
+        "nl": "<p>Met de UiTPAS kunt u goedkoper deelnemen aan cultuur-, jeugd-, sport- of vrijettijdsactiviteiten. U kunt punten sparen wanneer u deelneemt aan een activiteit bij een UiTPAS-partner. De gespaarde punten kunt u omruilen tegen mooie voordelen.</p><p>UiTPAS vindt u in meer dan 90 steden en gemeenten in Vlaanderen en in het Brusselse Hoofdstedelijke Gewest (in samenwerking met Paspartoe).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO015192",
+          "@id": "OVO015192"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "UiTPAS"
+          },
+          "url": "https://www.uitpas.be",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:44.352299891Z",
+      "laatstGewijzigd": "2023-05-05T17:45:19.915502357Z",
+      "laatstOntvangen": "2023-05-05T17:45:19.915502357Z",
+      "productnummer": "2045",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8f40c910-199e-4ae5-a1d4-28d34d5e0d64",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a9cfb21d-f823-47a2-86cb-5417274356d0"
+    },
+    {
+      "id": "2e1333de-8e31-4ef8-9279-98157e58b3c3",
+      "generatedAtTime": "2023-05-05T17:45:19.623015Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies Toerisme voor Allen-Verblijven"
+      },
+      "beschrijving": {
+        "nl": "<p>Toerisme Vlaanderen lanceert jaarlijks een subsidieoproep voor uitbaters van verblijven Toerisme voor Allen. Alle erkende en principieel erkende jeugdverblijven kunnen een subsidieaanvraag indienen bij Toerisme Vlaanderen voor infrastructuurwerken en renovaties.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van « Toerisme voor Allen »</p><p> </p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000034",
+          "@id": "OVO000034"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:44.246586981Z",
+      "laatstGewijzigd": "2023-05-05T17:45:19.605717306Z",
+      "laatstOntvangen": "2023-05-05T17:45:19.605717306Z",
+      "productnummer": "2035",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2e1333de-8e31-4ef8-9279-98157e58b3c3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/779e2b79-187a-4d74-85e5-8f9704d8897b"
+    },
+    {
+      "id": "9c5b655c-8640-44ac-9df8-ce1413155ec5",
+      "generatedAtTime": "2023-05-05T17:45:19.459973Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Lokale diensteneconomie Toerisme Vlaanderen"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit zijn subsidies aan lokaledienstenondernemingen voor de tewerkstelling van werknemers met een grote afstand tot de arbeidsmarkt en die behoefte hebben aan een langdurige periode van begeleiding en competentieversterking ter voorbereiding op een tewerkstelling in het reguliere arbeidscircuit. De ondernemingen voorzien ook een aanvullend dienstenaanbod, dat inspeelt op lokale noden en evoluties en waarbij de maatschappelijke meerwaarde centraal staat.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Het decreet betreffende de lokale diensteneconomie van 22 november 2013</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000034",
+          "@id": "OVO000034"
+        }
+      ],
+      "creatie": "2023-03-07T15:13:21.484847427Z",
+      "laatstGewijzigd": "2023-05-05T17:45:19.442113Z",
+      "laatstOntvangen": "2023-05-05T17:45:19.442113Z",
+      "productnummer": "2041",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9c5b655c-8640-44ac-9df8-ce1413155ec5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ad8476cc-57d7-4f87-8903-18243006ccf3"
+    },
+    {
+      "id": "d04756f4-98ab-447c-8ba2-5fbdd969471f",
+      "generatedAtTime": "2023-05-05T17:45:19.159499Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Tewerkstellingsprojecten Toerisme Vlaanderen"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit zijn subsidies die worden toegekend aan toeristische verenigingen voor de tewerkstelling van personeelsleden in het gewezen DAC-statuut (Derde ArbeidsCircuit).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 4 juni 2004 houdende de toekenning van subsidies aan toeristische verenigingen voor de tewerkstelling van personeelsleden</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000034",
+          "@id": "OVO000034"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:44.036982735Z",
+      "laatstGewijzigd": "2023-05-05T17:45:19.141807553Z",
+      "laatstOntvangen": "2023-05-05T17:45:19.141807553Z",
+      "productnummer": "2043",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d04756f4-98ab-447c-8ba2-5fbdd969471f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/9d99cca1-34a7-46f7-857b-4cafe7cc3126"
+    },
+    {
+      "id": "3a0a6315-2c45-460b-9680-aa68f6ee4054",
+      "generatedAtTime": "2023-05-05T17:45:18.863069Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Event Flanders: ad nominatim"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit zijn Ad nominatim(*) subsidies in het kader van het Vlaamse topevenementenbeleid met als doel meer internationale topevenementen aan te trekken naar Vlaanderen of bestaande Vlaamse topevenementen te ondersteunen bij hun organisatie.</p><p>(*) Subsidies die nominatim in de begroting zijn opgenomen, staan letterlijk met naam (d.i. de naam van de organisatie waaraan een subsidie wordt toegekend) in het jaarlijks begrotingsdecreet.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Jaarlijks begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000034",
+          "@id": "OVO000034"
+        }
+      ],
+      "creatie": "2023-05-04T14:10:53.095962114Z",
+      "laatstGewijzigd": "2023-05-05T17:45:18.845333701Z",
+      "laatstOntvangen": "2023-05-05T17:45:18.845333701Z",
+      "productnummer": "2039",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3a0a6315-2c45-460b-9680-aa68f6ee4054",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/8d2099b2-b5d6-414f-bd6f-c815a21dd453"
+    },
+    {
+      "id": "bdf74321-c71b-4faf-baa1-ac6f06b177b0",
+      "generatedAtTime": "2023-05-05T17:45:18.557818Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Event Flanders: projectsubsidies"
+      },
+      "beschrijving": {
+        "nl": "<p>Projectsubsidies in het kader van het Vlaamse topevenementenbeleid met als doel meer internationale topevenementen aan te trekken naar Vlaanderen of bestaande Vlaamse topevenementen te ondersteunen bij hun organisatie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Het decreet van 19 maart 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid “Toerisme Vlaanderen”, artikel 5, §1, 2°, en §2, tweede lid.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000034",
+          "@id": "OVO000034"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:43.930162117Z",
+      "laatstGewijzigd": "2023-05-05T17:45:18.540595545Z",
+      "laatstOntvangen": "2023-05-05T17:45:18.540595545Z",
+      "productnummer": "2040",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bdf74321-c71b-4faf-baa1-ac6f06b177b0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/79f51c68-e8ba-488d-a1b5-049e3c8009cf"
+    },
+    {
+      "id": "56784122-ac84-4248-baff-679cf0f8a90c",
+      "generatedAtTime": "2023-05-05T17:45:18.348282Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Event Flanders: thematische projectoproep tot subsidiëring"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit zijn subsidies in het kader van het Vlaamse topevenementenbeleid met als doel meer internationale topevenementen aan te trekken naar Vlaanderen of bestaande Vlaamse topevenementen te ondersteunen bij hun organisatie. Om in aanmerking te komen voor subsidiëring moet er worden voldaan aan de voorwaarden vermeld in de oproep.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Het decreet van 19 maart 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid “Toerisme Vlaanderen”, artikel 5, §1, 2°, en §2, tweede lid.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000034",
+          "@id": "OVO000034"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:43.824413381Z",
+      "laatstGewijzigd": "2023-05-05T17:45:18.331288058Z",
+      "laatstOntvangen": "2023-05-05T17:45:18.331288058Z",
+      "productnummer": "2037",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/56784122-ac84-4248-baff-679cf0f8a90c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/52fb2919-6cc3-4099-9c48-7c348164ccf6"
+    }
+  ]
+}

@@ -1,1 +1,1463 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=811","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=810","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-08-10T14:00:30.157002Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=812","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-08-10T14:00:35.912366Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=811","@type":"EventStream","member":[{"id":"57de902a-4b79-445c-819f-3b7cffd9dd88","generatedAtTime":"2023-08-10T14:00:35.912366Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies in het kader van het beleid lokale en provinciale besturen","nl-BE-x-generated-formal":"Subsidies in het kader van het beleid lokale en provinciale besturen","nl-BE-x-generated-informal":"Subsidies in het kader van het beleid lokale en provinciale besturen"},"beschrijving":{"nl":"<p>Subsidies in het kader van het beleid lokale en provinciale besturen, bijvoorbeeld om beleidsprojecten zoals regiovorming en burgerparticipatie te ondersteunen.</p>","nl-BE-x-generated-formal":"<p>Subsidies in het kader van het beleid lokale en provinciale besturen, bijvoorbeeld om beleidsprojecten zoals regiovorming en burgerparticipatie te ondersteunen.</p>","nl-BE-x-generated-informal":"<p>Subsidies in het kader van het beleid lokale en provinciale besturen, bijvoorbeeld om beleidsprojecten zoals regiovorming en burgerparticipatie te ondersteunen.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-generated-formal":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Jaarlijks uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2023-05-04T14:15:44.882083936Z","laatstGewijzigd":"2023-08-10T14:00:35.829904518Z","laatstOntvangen":"2023-08-10T14:00:35.829905537Z","productnummer":"2233","gearchiveerd":false,"subsidiemaatregel":"SG_02","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/57de902a-4b79-445c-819f-3b7cffd9dd88","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7bacb507-9840-4e50-9a68-e0c68d33e5e1"},{"id":"6e0cbd45-dd2e-4e16-9a78-dbc6d1c5fdca","generatedAtTime":"2023-08-10T14:00:35.72076Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies ihkv digitalisering","nl-BE-x-generated-formal":"Subsidies ihkv digitalisering","nl":"Subsidies ihkv digitalisering"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Allerhande subsidies voor het versterken van de ontwikkeling van ICT-competenties bij leraren en in schoolteams in het leerplicht- en volwassenenonderwijs, van mediawijsheid en digitale geletterdheid en voor het digitaliseren van materiaal van media- en erfgoedinstellingen.</p>","nl-BE-x-generated-formal":"<p>Allerhande subsidies voor het versterken van de ontwikkeling van ICT-competenties bij leraren en in schoolteams in het leerplicht- en volwassenenonderwijs, van mediawijsheid en digitale geletterdheid en voor het digitaliseren van materiaal van media- en erfgoedinstellingen.</p>","nl":"<p>Allerhande subsidies voor het versterken van de ontwikkeling van ICT-competenties bij leraren en in schoolteams in het leerplicht- en volwassenenonderwijs, van mediawijsheid en digitale geletterdheid en voor het digitaliseren van materiaal van media- en erfgoedinstellingen.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-formal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:44.52724111Z","laatstGewijzigd":"2023-08-10T14:00:35.637848562Z","laatstOntvangen":"2023-08-10T14:00:35.63785Z","productnummer":"2226","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6e0cbd45-dd2e-4e16-9a78-dbc6d1c5fdca","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2fb18bab-dfb1-4622-9dac-017f82448750"},{"id":"5adbac18-ea31-4db5-9f85-09008d6b2379","generatedAtTime":"2023-08-10T14:00:35.509208Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies ihkv de kwaliteit van het onderwijs","nl-BE-x-generated-informal":"Subsidies ihkv de kwaliteit van het onderwijs","nl-BE-x-generated-formal":"Subsidies ihkv de kwaliteit van het onderwijs"},"beschrijving":{"nl":"<p>Allerhande subsidies voor het ondersteunen van de toelatingsproeven, het opzetten van beleids-, praktijkgericht en wetenschappelijk onderzoek, van de scholen bij de implementatie van onderwijsdoelen, de kwaliteitsbewaking in het hoger onderwijs en innovatieve projecten.</p>","nl-BE-x-generated-formal":"<p>Allerhande subsidies voor het ondersteunen van de toelatingsproeven, het opzetten van beleids-, praktijkgericht en wetenschappelijk onderzoek, van de scholen bij de implementatie van onderwijsdoelen, de kwaliteitsbewaking in het hoger onderwijs en innovatieve projecten.</p>","nl-BE-x-generated-informal":"<p>Allerhande subsidies voor het ondersteunen van de toelatingsproeven, het opzetten van beleids-, praktijkgericht en wetenschappelijk onderzoek, van de scholen bij de implementatie van onderwijsdoelen, de kwaliteitsbewaking in het hoger onderwijs en innovatieve projecten.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-formal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:44.412274528Z","laatstGewijzigd":"2023-08-10T14:00:35.423076198Z","laatstOntvangen":"2023-08-10T14:00:35.42307721Z","productnummer":"2225","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5adbac18-ea31-4db5-9f85-09008d6b2379","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e79b6e3a-af8c-4e53-b1d3-9c40f0cdc244"},{"id":"df8eebb0-6d81-4b33-8c53-b3f6a5bb0e76","generatedAtTime":"2023-08-10T14:00:35.263076Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies ihkv onderwijs-arbeidsmarkt en levenslang leren","nl-BE-x-generated-formal":"Subsidies ihkv onderwijs-arbeidsmarkt en levenslang leren","nl":"Subsidies ihkv onderwijs-arbeidsmarkt en levenslang leren"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Allerhande subsidies voor het stimuleren van een betere aansluiting tussen het onderwijs en de arbeidsmarkt en het versterken van het levenslang en levensbreed leren.</p>","nl-BE-x-generated-formal":"<p>Allerhande subsidies voor het stimuleren van een betere aansluiting tussen het onderwijs en de arbeidsmarkt en het versterken van het levenslang en levensbreed leren.</p>","nl":"<p>Allerhande subsidies voor het stimuleren van een betere aansluiting tussen het onderwijs en de arbeidsmarkt en het versterken van het levenslang en levensbreed leren.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-formal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:44.286104483Z","laatstGewijzigd":"2023-08-10T14:00:35.152728257Z","laatstOntvangen":"2023-08-10T14:00:35.152730041Z","productnummer":"2224","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/df8eebb0-6d81-4b33-8c53-b3f6a5bb0e76","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/756c31fc-82af-4967-99eb-0c78d2458b6d"},{"id":"d397b54c-3e6c-45ee-a4fa-be29c7273ed6","generatedAtTime":"2023-08-10T14:00:35.027883Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies ihkv internationalisering","nl-BE-x-generated-formal":"Subsidies ihkv internationalisering","nl-BE-x-generated-informal":"Subsidies ihkv internationalisering"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Allerhande subsidies voor het stimuleren van internationale samenwerking en van de studentenmobiliteit.</p>","nl":"<p>Allerhande subsidies voor het stimuleren van internationale samenwerking en van de studentenmobiliteit.</p>","nl-BE-x-generated-formal":"<p>Allerhande subsidies voor het stimuleren van internationale samenwerking en van de studentenmobiliteit.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-formal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-03-24T06:40:49.060827738Z","laatstGewijzigd":"2023-08-10T14:00:34.921614235Z","laatstOntvangen":"2023-08-10T14:00:34.921616079Z","productnummer":"2223","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d397b54c-3e6c-45ee-a4fa-be29c7273ed6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/8f93df76-a197-4005-9c42-41bcda64c77a"},{"id":"e5d471ad-0f5c-4341-8bbe-582f00bbb947","generatedAtTime":"2023-08-10T14:00:34.789306Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies ihkv nascholing en professionalisering","nl":"Subsidies ihkv nascholing en professionalisering","nl-BE-x-generated-formal":"Subsidies ihkv nascholing en professionalisering"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Allerhande subsidies voor het stimuleren van de competentie-ontwikkeling, het verhogen van de kwaliteit van de lerarenopleiding en het verbeteren van de arbeidsomstandigheden.</p>","nl-BE-x-generated-formal":"<p>Allerhande subsidies voor het stimuleren van de competentie-ontwikkeling, het verhogen van de kwaliteit van de lerarenopleiding en het verbeteren van de arbeidsomstandigheden.</p>","nl":"<p>Allerhande subsidies voor het stimuleren van de competentie-ontwikkeling, het verhogen van de kwaliteit van de lerarenopleiding en het verbeteren van de arbeidsomstandigheden.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-formal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:44.038581996Z","laatstGewijzigd":"2023-08-10T14:00:34.687344733Z","laatstOntvangen":"2023-08-10T14:00:34.687346377Z","productnummer":"2222","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e5d471ad-0f5c-4341-8bbe-582f00bbb947","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/45abc0cf-037c-466f-8748-bfb3f817e149"},{"id":"44fb219f-c64f-4fe2-b7da-a5dd0ae56182","generatedAtTime":"2023-08-10T14:00:34.513484Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies ihkv leerling-, student- en instellinggebonden ondersteuning","nl-BE-x-generated-formal":"Subsidies ihkv leerling-, student- en instellinggebonden ondersteuning","nl-BE-x-generated-informal":"Subsidies ihkv leerling-, student- en instellinggebonden ondersteuning"},"beschrijving":{"nl":"<p>Allerhande subsidies voor het realiseren van effectieve en efficiënte leerlingenbegeleiding, het beschermen van het welzijn, welbevinden en de veiligheid van de leerlingen, de ondersteuning van leerlingen met specifieke onderwijsbehoeften, voor het ondersteunen van projecten die werken rond kostenbeheersing secundair onderwijs en voor de organisatie van taalintegratietrajecten en taalstimulerende activiteiten gepland op voor-, na- en buitenschoolse momenten, in het weekend en tijdens de schoolvakanties en voor projecten ter ondersteuning van de leesbevordering op school.</p>","nl-BE-x-generated-informal":"<p>Allerhande subsidies voor het realiseren van effectieve en efficiënte leerlingenbegeleiding, het beschermen van het welzijn, welbevinden en de veiligheid van de leerlingen, de ondersteuning van leerlingen met specifieke onderwijsbehoeften, voor het ondersteunen van projecten die werken rond kostenbeheersing secundair onderwijs en voor de organisatie van taalintegratietrajecten en taalstimulerende activiteiten gepland op voor-, na- en buitenschoolse momenten, in het weekend en tijdens de schoolvakanties en voor projecten ter ondersteuning van de leesbevordering op school.</p>","nl-BE-x-generated-formal":"<p>Allerhande subsidies voor het realiseren van effectieve en efficiënte leerlingenbegeleiding, het beschermen van het welzijn, welbevinden en de veiligheid van de leerlingen, de ondersteuning van leerlingen met specifieke onderwijsbehoeften, voor het ondersteunen van projecten die werken rond kostenbeheersing secundair onderwijs en voor de organisatie van taalintegratietrajecten en taalstimulerende activiteiten gepland op voor-, na- en buitenschoolse momenten, in het weekend en tijdens de schoolvakanties en voor projecten ter ondersteuning van de leesbevordering op school.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-formal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:43.921248471Z","laatstGewijzigd":"2023-08-10T14:00:34.418410142Z","laatstOntvangen":"2023-08-10T14:00:34.41841139Z","productnummer":"2221","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/44fb219f-c64f-4fe2-b7da-a5dd0ae56182","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/15f13322-0ff7-4e24-83b4-ca27eaa2263e"},{"id":"4e306fb3-9451-40e7-a265-7b2ee6960135","generatedAtTime":"2023-08-10T14:00:34.279554Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies aan ouderkoepelverenigingen","nl-BE-x-generated-informal":"Subsidies aan ouderkoepelverenigingen","nl":"Subsidies aan ouderkoepelverenigingen"},"beschrijving":{"nl":"<p>De subsidie wordt aangewend voor de financiering van de 3 ouderkoepelverenigingen. Hun opdracht is het werken aan een participatief schoolklimaat en het informeren en sensibiliseren van ouders over actuele thema's, nieuwe regelgeving en nieuw beleid.</p>","nl-BE-x-generated-formal":"<p>De subsidie wordt aangewend voor de financiering van de 3 ouderkoepelverenigingen. Hun opdracht is het werken aan een participatief schoolklimaat en het informeren en sensibiliseren van ouders over actuele thema's, nieuwe regelgeving en nieuw beleid.</p>","nl-BE-x-generated-informal":"<p>De subsidie wordt aangewend voor de financiering van de 3 ouderkoepelverenigingen. Hun opdracht is het werken aan een participatief schoolklimaat en het informeren en sensibiliseren van ouders over actuele thema's, nieuwe regelgeving en nieuw beleid.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 20/06/1996 betreffende de subsidiëring van de ouderkoepelverenigingen</p>","nl-BE-x-generated-formal":"<p>Decreet van 20/06/1996 betreffende de subsidiëring van de ouderkoepelverenigingen</p>","nl-BE-x-generated-informal":"<p>Decreet van 20/06/1996 betreffende de subsidiëring van de ouderkoepelverenigingen</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:43.79395424Z","laatstGewijzigd":"2023-08-10T14:00:34.19243976Z","laatstOntvangen":"2023-08-10T14:00:34.192440803Z","productnummer":"2220","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4e306fb3-9451-40e7-a265-7b2ee6960135","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ac926daf-88fc-4d1d-a247-b8c89e8de5ac"},{"id":"3f9f0d6c-24ce-433a-9a79-c87387a2725e","generatedAtTime":"2023-08-10T14:00:33.822857Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies voor student-tutoringprojecten","nl-BE-x-generated-formal":"Subsidies voor student-tutoringprojecten","nl":"Subsidies voor student-tutoringprojecten"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Onder de voorwaarden bepaald door de Vlaamse Regering kan de Vlaamse Regering subsidies verlenen aan instellingen voor hoger onderwijs die in samenwerking met basisscholen en scholen voor secundair onderwijs 'tutoring' aanbieden aan de leerlingen van die scholen. Onder 'tutoring' wordt verstaan dat studenten uit het hoger onderwijs op een gestructureerde manier optreden als begeleider en rolmodel, met de bedoeling om leerlingen basis- en secundair onderwijs te ondersteunen bij het leer- en keuzeproces.</p>","nl":"<p>Onder de voorwaarden bepaald door de Vlaamse Regering kan de Vlaamse Regering subsidies verlenen aan instellingen voor hoger onderwijs die in samenwerking met basisscholen en scholen voor secundair onderwijs 'tutoring' aanbieden aan de leerlingen van die scholen. Onder 'tutoring' wordt verstaan dat studenten uit het hoger onderwijs op een gestructureerde manier optreden als begeleider en rolmodel, met de bedoeling om leerlingen basis- en secundair onderwijs te ondersteunen bij het leer- en keuzeproces.</p>","nl-BE-x-generated-formal":"<p>Onder de voorwaarden bepaald door de Vlaamse Regering kan de Vlaamse Regering subsidies verlenen aan instellingen voor hoger onderwijs die in samenwerking met basisscholen en scholen voor secundair onderwijs 'tutoring' aanbieden aan de leerlingen van die scholen. Onder 'tutoring' wordt verstaan dat studenten uit het hoger onderwijs op een gestructureerde manier optreden als begeleider en rolmodel, met de bedoeling om leerlingen basis- en secundair onderwijs te ondersteunen bij het leer- en keuzeproces.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet van 14/03/2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, artikel 40quinquies, ingevoegd bij het decreet betreffende het onderwijs XXI</p><p>BVR van 19/09/2011 houdende de subsidiëring van student tutoring in het onderwijs in Vlaanderen</p>","nl-BE-x-generated-formal":"<p>Decreet van 14/03/2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, artikel 40quinquies, ingevoegd bij het decreet betreffende het onderwijs XXI</p><p>BVR van 19/09/2011 houdende de subsidiëring van student tutoring in het onderwijs in Vlaanderen</p>","nl":"<p>Decreet van 14/03/2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, artikel 40quinquies, ingevoegd bij het decreet betreffende het onderwijs XXI</p><p>BVR van 19/09/2011 houdende de subsidiëring van student tutoring in het onderwijs in Vlaanderen</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:43.628564397Z","laatstGewijzigd":"2023-08-10T14:00:33.711439244Z","laatstOntvangen":"2023-08-10T14:00:33.711440279Z","productnummer":"2219","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3f9f0d6c-24ce-433a-9a79-c87387a2725e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/1be1004c-f5b4-4e67-9bb6-f0e815adadba"},{"id":"8f74dc2f-bc65-4af8-91d8-170cc8425504","generatedAtTime":"2023-08-10T14:00:33.575661Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie aan het Centrum Islamonderwijs","nl":"Subsidie aan het Centrum Islamonderwijs","nl-BE-x-generated-formal":"Subsidie aan het Centrum Islamonderwijs"},"beschrijving":{"nl":"<p>Binnen het onderwijs is er nood aan een tegendiscours voor wat betreft bepaalde radicaliseringsprocessen. Het Netwerk van Islamexperten neemt hiervoor het heft in handen. Zij zetten ook in op het omgaan met levensbeschouwelijke diversiteit en hoe concrete casussen rond levensbeschouwing in een schoolse context kunnen worden aangepakt.</p>","nl-BE-x-generated-informal":"<p>Binnen het onderwijs is er nood aan een tegendiscours voor wat betreft bepaalde radicaliseringsprocessen. Het Netwerk van Islamexperten neemt hiervoor het heft in handen. Zij zetten ook in op het omgaan met levensbeschouwelijke diversiteit en hoe concrete casussen rond levensbeschouwing in een schoolse context kunnen worden aangepakt.</p>","nl-BE-x-generated-formal":"<p>Binnen het onderwijs is er nood aan een tegendiscours voor wat betreft bepaalde radicaliseringsprocessen. Het Netwerk van Islamexperten neemt hiervoor het heft in handen. Zij zetten ook in op het omgaan met levensbeschouwelijke diversiteit en hoe concrete casussen rond levensbeschouwing in een schoolse context kunnen worden aangepakt.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>artikel IV.52 van de codificatie sommige bepalingen voor onderwijs van 28 oktober 2016, ingevoegd bij het decreet van 5 april 2019</p>","nl-BE-x-generated-formal":"<p>artikel IV.52 van de codificatie sommige bepalingen voor onderwijs van 28 oktober 2016, ingevoegd bij het decreet van 5 april 2019</p>","nl-BE-x-generated-informal":"<p>artikel IV.52 van de codificatie sommige bepalingen voor onderwijs van 28 oktober 2016, ingevoegd bij het decreet van 5 april 2019</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:43.522976913Z","laatstGewijzigd":"2023-08-10T14:00:33.47789027Z","laatstOntvangen":"2023-08-10T14:00:33.477891752Z","productnummer":"2218","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8f74dc2f-bc65-4af8-91d8-170cc8425504","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bc3f0c03-edde-4cba-98a9-038641b9762e"},{"id":"3ad46249-0848-4f5f-828f-e2c28c32fec6","generatedAtTime":"2023-08-10T14:00:33.382272Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor het LARS-project","nl-BE-x-generated-formal":"Subsidie voor het LARS-project","nl-BE-x-generated-informal":"Subsidie voor het LARS-project"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Deze subsidie laat toe de bestaande gegevensuitwisseling via het softwareprogramma LARS te continueren en te optimaliseren. De middelen worden netoverstijgend aangevraagd en ingezet door de CLB-sector om een deel van de kosten voor de aanstelling van een projectmedewerker te kunnen dekken.</p>","nl-BE-x-generated-informal":"<p>Deze subsidie laat toe de bestaande gegevensuitwisseling via het softwareprogramma LARS te continueren en te optimaliseren. De middelen worden netoverstijgend aangevraagd en ingezet door de CLB-sector om een deel van de kosten voor de aanstelling van een projectmedewerker te kunnen dekken.</p>","nl":"<p>Deze subsidie laat toe de bestaande gegevensuitwisseling via het softwareprogramma LARS te continueren en te optimaliseren. De middelen worden netoverstijgend aangevraagd en ingezet door de CLB-sector om een deel van de kosten voor de aanstelling van een projectmedewerker te kunnen dekken.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>artikel 48bis van het BVR van 3/07/2009 tot vaststelling van de operationele doelstellingen van de CLB</p>","nl-BE-x-generated-informal":"<p>artikel 48bis van het BVR van 3/07/2009 tot vaststelling van de operationele doelstellingen van de CLB</p>","nl":"<p>artikel 48bis van het BVR van 3/07/2009 tot vaststelling van de operationele doelstellingen van de CLB</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:43.398711147Z","laatstGewijzigd":"2023-08-10T14:00:33.292553614Z","laatstOntvangen":"2023-08-10T14:00:33.292554782Z","productnummer":"2217","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3ad46249-0848-4f5f-828f-e2c28c32fec6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/976fb72f-531d-4781-b005-a3e0bd4df0c2"},{"id":"d5f5f7e3-d00f-4710-bfc9-180dadfdaf8d","generatedAtTime":"2023-08-10T14:00:33.189466Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie in het kader van de regularisatie van gesco's","nl-BE-x-generated-informal":"Subsidie in het kader van de regularisatie van gesco's","nl-BE-x-generated-formal":"Subsidie in het kader van de regularisatie van gesco's"},"beschrijving":{"nl-BE-x-generated-formal":"<p>De subsidie wordt aangewend voor de financiering van de gewezen gesubsidieerde contractuelen in bepaalde organisaties, in uitvoering van het besluit van de Vlaamse Regering over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>","nl-BE-x-generated-informal":"<p>De subsidie wordt aangewend voor de financiering van de gewezen gesubsidieerde contractuelen in bepaalde organisaties, in uitvoering van het besluit van de Vlaamse Regering over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>","nl":"<p>De subsidie wordt aangewend voor de financiering van de gewezen gesubsidieerde contractuelen in bepaalde organisaties, in uitvoering van het besluit van de Vlaamse Regering over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 3 september 2021 over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>","nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 3 september 2021 over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>","nl":"<p>Besluit van de Vlaamse Regering van 3 september 2021 over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:43.271834148Z","laatstGewijzigd":"2023-08-10T14:00:33.099778668Z","laatstOntvangen":"2023-08-10T14:00:33.099780005Z","productnummer":"2216","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d5f5f7e3-d00f-4710-bfc9-180dadfdaf8d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/46a31970-1c3c-480f-aac3-e5752d4e7c49"},{"id":"40243a44-4e23-4a86-9457-c80a05c418c4","generatedAtTime":"2023-08-10T14:00:32.978951Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie in het kader van de regularistie DAC-statuut","nl-BE-x-generated-formal":"Subsidie in het kader van de regularistie DAC-statuut","nl":"Subsidie in het kader van de regularistie DAC-statuut"},"beschrijving":{"nl-BE-x-generated-formal":"<p>De middelen worden aangewend om de gewezen DAC-werknemers van de gesubsidieerde vrije internaten een arbeidsovereenkomst van onbepaalde duur te geven binnen paritair subcomité 152.01.</p>","nl-BE-x-generated-informal":"<p>De middelen worden aangewend om de gewezen DAC-werknemers van de gesubsidieerde vrije internaten een arbeidsovereenkomst van onbepaalde duur te geven binnen paritair subcomité 152.01.</p>","nl":"<p>De middelen worden aangewend om de gewezen DAC-werknemers van de gesubsidieerde vrije internaten een arbeidsovereenkomst van onbepaalde duur te geven binnen paritair subcomité 152.01.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 23/12/2011 houdende bepalingen tot begeleiding van de begroting 2012, artikel 67</p><p>BVR van 1/07/2016 betreffende de toekenning van subsidies voor de tewerkstelling in een gewezen DAC-statuut van personeelsleden in de gesubsidieerde vrije internaten</p>","nl-BE-x-generated-informal":"<p>Decreet van 23/12/2011 houdende bepalingen tot begeleiding van de begroting 2012, artikel 67</p><p>BVR van 1/07/2016 betreffende de toekenning van subsidies voor de tewerkstelling in een gewezen DAC-statuut van personeelsleden in de gesubsidieerde vrije internaten</p>","nl-BE-x-generated-formal":"<p>Decreet van 23/12/2011 houdende bepalingen tot begeleiding van de begroting 2012, artikel 67</p><p>BVR van 1/07/2016 betreffende de toekenning van subsidies voor de tewerkstelling in een gewezen DAC-statuut van personeelsleden in de gesubsidieerde vrije internaten</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:43.160857987Z","laatstGewijzigd":"2023-08-10T14:00:32.873405362Z","laatstOntvangen":"2023-08-10T14:00:32.873406527Z","productnummer":"2215","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/40243a44-4e23-4a86-9457-c80a05c418c4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/43c8424c-7635-4127-bf35-f4402853cebf"},{"id":"c204787d-95e7-44c2-84c2-5f2a67d1152e","generatedAtTime":"2023-08-10T14:00:32.777358Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor Dynamoprojecten","nl-BE-x-generated-formal":"Subsidies voor Dynamoprojecten","nl-BE-x-generated-informal":"Subsidies voor Dynamoprojecten"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Met dynamoPROJECT stimuleren we scholen om een creatieve samenwerking aan te gaan met externe culturele partners. Leerlingen en leerkrachten doorlopen samen met minimum één externe culturele partner een samenhangend en creatief traject dat gekoppeld is aan het lesgebeuren en gericht is op een duurzame verankering van cultuureducatie.</p>","nl":"<p>Met dynamoPROJECT stimuleren we scholen om een creatieve samenwerking aan te gaan met externe culturele partners. Leerlingen en leerkrachten doorlopen samen met minimum één externe culturele partner een samenhangend en creatief traject dat gekoppeld is aan het lesgebeuren en gericht is op een duurzame verankering van cultuureducatie.</p>","nl-BE-x-generated-informal":"<p>Met dynamoPROJECT stimuleren we scholen om een creatieve samenwerking aan te gaan met externe culturele partners. Leerlingen en leerkrachten doorlopen samen met minimum één externe culturele partner een samenhangend en creatief traject dat gekoppeld is aan het lesgebeuren en gericht is op een duurzame verankering van cultuureducatie.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 25 april 2014 betreffende het onderwijs XXIV, artikel X.1 die werd vervangen door de gecodificeerde decreten sommige bepalingen voor het onderwijs van 28 oktober 2016, art. IV. 33</p><p>BVR van 20/06/2014 betreffende de nadere voorwaarden en procedure om subsidies toe te kennen voor projecten die cultuureducatie van onderwijsinstellingen stimuleren</p>","nl-BE-x-generated-formal":"<p>Decreet van 25 april 2014 betreffende het onderwijs XXIV, artikel X.1 die werd vervangen door de gecodificeerde decreten sommige bepalingen voor het onderwijs van 28 oktober 2016, art. IV. 33</p><p>BVR van 20/06/2014 betreffende de nadere voorwaarden en procedure om subsidies toe te kennen voor projecten die cultuureducatie van onderwijsinstellingen stimuleren</p>","nl-BE-x-generated-informal":"<p>Decreet van 25 april 2014 betreffende het onderwijs XXIV, artikel X.1 die werd vervangen door de gecodificeerde decreten sommige bepalingen voor het onderwijs van 28 oktober 2016, art. IV. 33</p><p>BVR van 20/06/2014 betreffende de nadere voorwaarden en procedure om subsidies toe te kennen voor projecten die cultuureducatie van onderwijsinstellingen stimuleren</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-03-24T06:40:48.948035593Z","laatstGewijzigd":"2023-08-10T14:00:32.674708788Z","laatstOntvangen":"2023-08-10T14:00:32.674710255Z","productnummer":"2214","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c204787d-95e7-44c2-84c2-5f2a67d1152e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2a88a7f9-16ad-4a23-b434-be9b4a30ae16"},{"id":"15ea2e30-a6a5-420a-ba60-6e6e5726d402","generatedAtTime":"2023-08-10T14:00:32.576478Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie voor de Rijdende kleuterschool","nl-BE-x-generated-formal":"Subsidie voor de Rijdende kleuterschool","nl":"Subsidie voor de Rijdende kleuterschool"},"beschrijving":{"nl":"<p>De rijdende kleuterschool is een mobiele school die het parcours van de grote kermissen in ons land volgt en voorziet in Nederlandstalig onderwijs voor de kleuters van kermisexploitanten. Via de subsidiëring van de Rijdende kleuterschool wil de overheid de deelname van kleuters van de beoogde doelgroep aan het kleuteronderwijs verhogen. Het initiatief bestaat sinds 2006 en wordt tot op vandaag behartigd door de vzw Carrousel.</p>","nl-BE-x-generated-informal":"<p>De rijdende kleuterschool is een mobiele school die het parcours van de grote kermissen in ons land volgt en voorziet in Nederlandstalig onderwijs voor de kleuters van kermisexploitanten. Via de subsidiëring van de Rijdende kleuterschool wil de overheid de deelname van kleuters van de beoogde doelgroep aan het kleuteronderwijs verhogen. Het initiatief bestaat sinds 2006 en wordt tot op vandaag behartigd door de vzw Carrousel.</p>","nl-BE-x-generated-formal":"<p>De rijdende kleuterschool is een mobiele school die het parcours van de grote kermissen in ons land volgt en voorziet in Nederlandstalig onderwijs voor de kleuters van kermisexploitanten. Via de subsidiëring van de Rijdende kleuterschool wil de overheid de deelname van kleuters van de beoogde doelgroep aan het kleuteronderwijs verhogen. Het initiatief bestaat sinds 2006 en wordt tot op vandaag behartigd door de vzw Carrousel.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 168 en 169<br />BVR van 26/09/2014 betreffende de bepaling van de regels voor de aanvraag en de toekenning van de subsidies voor de Rijdende Kleuterschool Vlaanderen.</p>","nl-BE-x-generated-informal":"<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 168 en 169<br/>BVR van 26/09/2014 betreffende de bepaling van de regels voor de aanvraag en de toekenning van de subsidies voor de Rijdende Kleuterschool Vlaanderen.</p>","nl-BE-x-generated-formal":"<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 168 en 169<br/>BVR van 26/09/2014 betreffende de bepaling van de regels voor de aanvraag en de toekenning van de subsidies voor de Rijdende Kleuterschool Vlaanderen.</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:42.826396418Z","laatstGewijzigd":"2023-08-10T14:00:32.469804769Z","laatstOntvangen":"2023-08-10T14:00:32.469805793Z","productnummer":"2213","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/15ea2e30-a6a5-420a-ba60-6e6e5726d402","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5016c68b-fb7e-4bed-8c39-ff91f9d211ca"},{"id":"740544a0-d65a-4f96-9c84-c9f0cf514507","generatedAtTime":"2023-08-10T14:00:32.363203Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie aan SIO","nl-BE-x-generated-formal":"Subsidie aan SIO","nl":"Subsidie aan SIO"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Synchroon internetonderwijs (SIO) biedt aan leerlingen voor wie het door ziekte, ongeval of moederschapsrust tijdelijk onmogelijk is om onderwijs te volgen in hun school de mogelijkheid om op afstand, via digitale toepassingen, rechtstreeks en in interactie met de leerkrachten en klasgenoten de lessen te volgen.</p><p>SIO ondersteunt het leerproces, beperkt de leerachterstand en bereidt de terugkeer naar school voor. Door SIO blijft de band van de afwezige leerling met zijn of haar school, leerkrachten en medeleerlingen behouden.</p>","nl-BE-x-generated-formal":"<p>Synchroon internetonderwijs (SIO) biedt aan leerlingen voor wie het door ziekte, ongeval of moederschapsrust tijdelijk onmogelijk is om onderwijs te volgen in hun school de mogelijkheid om op afstand, via digitale toepassingen, rechtstreeks en in interactie met de leerkrachten en klasgenoten de lessen te volgen.</p><p>SIO ondersteunt het leerproces, beperkt de leerachterstand en bereidt de terugkeer naar school voor. Door SIO blijft de band van de afwezige leerling met zijn of haar school, leerkrachten en medeleerlingen behouden.</p>","nl":"<p>Synchroon internetonderwijs (SIO) biedt aan leerlingen voor wie het door ziekte, ongeval of moederschapsrust tijdelijk onmogelijk is om onderwijs te volgen in hun school de mogelijkheid om op afstand, via digitale toepassingen, rechtstreeks en in interactie met de leerkrachten en klasgenoten de lessen te volgen.</p><p>SIO ondersteunt het leerproces, beperkt de leerachterstand en bereidt de terugkeer naar school voor. Door SIO blijft de band van de afwezige leerling met zijn of haar school, leerkrachten en medeleerlingen behouden.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 36</p>","nl-BE-x-generated-formal":"<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 36</p>","nl":"<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 36</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:42.710564161Z","laatstGewijzigd":"2023-08-10T14:00:32.260789977Z","laatstOntvangen":"2023-08-10T14:00:32.260790945Z","productnummer":"2212","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/740544a0-d65a-4f96-9c84-c9f0cf514507","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6335c5cf-f865-4364-bff6-bf6942f77201"},{"id":"0407aa46-9169-407e-a39d-ac7eae5a5706","generatedAtTime":"2023-08-10T14:00:32.139939Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie aan SIHO","nl-BE-x-generated-formal":"Subsidie aan SIHO","nl-BE-x-generated-informal":"Subsidie aan SIHO"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Steunpunt Inclusief Hoger Onderwijs (SIHO)</p><p>Doel is het begeleiden en ondersteunen van de instellingen hoger onderwijs bij:</p><ol><li>de uitbouw van een inclusief beleid voor alle studenten</li><li>en de implementatie van de VN-conventie van 13 december 2006 over de rechten van personen met een handicap.</li></ol>","nl-BE-x-generated-informal":"<p>Steunpunt Inclusief Hoger Onderwijs (SIHO)</p><p>Doel is het begeleiden en ondersteunen van de instellingen hoger onderwijs bij:</p><ol><li>de uitbouw van een inclusief beleid voor alle studenten</li><li>en de implementatie van de VN-conventie van 13 december 2006 over de rechten van personen met een handicap.</li></ol>","nl":"<p>Steunpunt Inclusief Hoger Onderwijs (SIHO)</p><p>Doel is het begeleiden en ondersteunen van de instellingen hoger onderwijs bij:</p><ol><li>de uitbouw van een inclusief beleid voor alle studenten</li><li>en de implementatie van de VN-conventie van 13 december 2006 over de rechten van personen met een handicap.</li></ol>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.III.98</p>","nl-BE-x-generated-informal":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.III.98</p>","nl":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.III.98</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:42.60272877Z","laatstGewijzigd":"2023-08-10T14:00:32.045480511Z","laatstOntvangen":"2023-08-10T14:00:32.045481975Z","productnummer":"2211","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0407aa46-9169-407e-a39d-ac7eae5a5706","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/480ba0c6-ba4e-46fa-9629-bbd4e703151d"},{"id":"957904db-ec0f-4dd5-8b35-1eebe19ec34e","generatedAtTime":"2023-08-10T14:00:31.942391Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies aan de RTC's","nl":"Subsidies aan de RTC's","nl-BE-x-generated-informal":"Subsidies aan de RTC's"},"beschrijving":{"nl-BE-x-generated-informal":"<p>De vijf Regionale Technologische Centra werken, mede ondersteund door een beheersovereenkomst, op het snijvlak tussen onderwijs en arbeidsmarkt Leerlingen in technische en beroepsgerichte opleidingen in het secundair onderwijs leren werken met de moderne apparatuur die zij op de arbeidsmarkt ook zullen bedienen. De RTC’s ondersteunen scholen hierin via samenwerking met arbeidsmarktactoren.</p>","nl":"<p>De vijf Regionale Technologische Centra werken, mede ondersteund door een beheersovereenkomst, op het snijvlak tussen onderwijs en arbeidsmarkt Leerlingen in technische en beroepsgerichte opleidingen in het secundair onderwijs leren werken met de moderne apparatuur die zij op de arbeidsmarkt ook zullen bedienen. De RTC’s ondersteunen scholen hierin via samenwerking met arbeidsmarktactoren.</p>","nl-BE-x-generated-formal":"<p>De vijf Regionale Technologische Centra werken, mede ondersteund door een beheersovereenkomst, op het snijvlak tussen onderwijs en arbeidsmarkt Leerlingen in technische en beroepsgerichte opleidingen in het secundair onderwijs leren werken met de moderne apparatuur die zij op de arbeidsmarkt ook zullen bedienen. De RTC’s ondersteunen scholen hierin via samenwerking met arbeidsmarktactoren.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>Decreet van 14/12/2007 houdende de organisatie en werking van de regionale technologische centra</p>","nl-BE-x-generated-informal":"<p>Decreet van 14/12/2007 houdende de organisatie en werking van de regionale technologische centra</p>","nl":"<p>Decreet van 14/12/2007 houdende de organisatie en werking van de regionale technologische centra</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:42.470638444Z","laatstGewijzigd":"2023-08-10T14:00:31.847883581Z","laatstOntvangen":"2023-08-10T14:00:31.847885103Z","productnummer":"2210","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/957904db-ec0f-4dd5-8b35-1eebe19ec34e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/caffe91c-9c3d-4353-ae7e-692bcf140636"},{"id":"373c91ad-0fdf-4f6f-ab95-2d6e68006cc4","generatedAtTime":"2023-08-10T14:00:31.717446Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan de vzw Epos","nl-BE-x-generated-formal":"Subsidies aan de vzw Epos","nl-BE-x-generated-informal":"Subsidies aan de vzw Epos"},"beschrijving":{"nl-BE-x-generated-formal":"<p>De vzw Epos is het Nationale Agentschap dat instaat voor de uitvoering van het Europees programma Erasmus+ in Vlaanderen, meer in het bijzonder voor het luik dat betrekking heeft op onderwijs, opleiding en vorming. Erasmus+ programma voorziet in 3 kernacties (KA):</p><ul><li>KA1 individuele leermobiliteiten</li><li>KA2 samenwerking tussen organisaties en instellingen</li><li>KA3 ondersteuning van beleidsontwikkeling en samenwerking.</li></ul>","nl":"<p>De vzw Epos is het Nationale Agentschap dat instaat voor de uitvoering van het Europees programma Erasmus+ in Vlaanderen, meer in het bijzonder voor het luik dat betrekking heeft op onderwijs, opleiding en vorming. Erasmus+ programma voorziet in 3 kernacties (KA):</p><ul><li>KA1 individuele leermobiliteiten</li><li>KA2 samenwerking tussen organisaties en instellingen</li><li>KA3 ondersteuning van beleidsontwikkeling en samenwerking.</li></ul>","nl-BE-x-generated-informal":"<p>De vzw Epos is het Nationale Agentschap dat instaat voor de uitvoering van het Europees programma Erasmus+ in Vlaanderen, meer in het bijzonder voor het luik dat betrekking heeft op onderwijs, opleiding en vorming. Erasmus+ programma voorziet in 3 kernacties (KA):</p><ul><li>KA1 individuele leermobiliteiten</li><li>KA2 samenwerking tussen organisaties en instellingen</li><li>KA3 ondersteuning van beleidsontwikkeling en samenwerking.</li></ul>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet van 16 mei 2007 betreffende dringende maatregelen voor het onderwijs, hoofdstuk V</p>","nl-BE-x-generated-formal":"<p>Decreet van 16 mei 2007 betreffende dringende maatregelen voor het onderwijs, hoofdstuk V</p>","nl":"<p>Decreet van 16 mei 2007 betreffende dringende maatregelen voor het onderwijs, hoofdstuk V</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:42.313365077Z","laatstGewijzigd":"2023-08-10T14:00:31.515870252Z","laatstOntvangen":"2023-08-10T14:00:31.515871672Z","productnummer":"2209","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/373c91ad-0fdf-4f6f-ab95-2d6e68006cc4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e7e67e6b-1fdb-42a9-ae81-cbac59b3c856"},{"id":"65bd9e1e-5b8b-4195-aed3-4ba39bd21895","generatedAtTime":"2023-08-10T14:00:31.348043Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies voor mobiliteitsbeurzen","nl":"Subsidies voor mobiliteitsbeurzen","nl-BE-x-generated-formal":"Subsidies voor mobiliteitsbeurzen"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Opzetten en beheren van acties die in het kader van het actieplan mobiliteit \"Brains on the Move\" worden uitgevoerd. Deze acties betreffen voornamelijk beurzenprogramma's voor studentenmobiliteit.</p>","nl-BE-x-generated-formal":"<p>Opzetten en beheren van acties die in het kader van het actieplan mobiliteit \"Brains on the Move\" worden uitgevoerd. Deze acties betreffen voornamelijk beurzenprogramma's voor studentenmobiliteit.</p>","nl":"<p>Opzetten en beheren van acties die in het kader van het actieplan mobiliteit \"Brains on the Move\" worden uitgevoerd. Deze acties betreffen voornamelijk beurzenprogramma's voor studentenmobiliteit.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.II.352 en 353</p><p>BVR van 23/10/2015 houdende vaststelling van de hoogte van de mobiliteitstoelage voor studenten of cursisten die een periode in het buitenland doorbrengen in het kader van hun opleiding.</p>","nl-BE-x-generated-formal":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.II.352 en 353</p><p>BVR van 23/10/2015 houdende vaststelling van de hoogte van de mobiliteitstoelage voor studenten of cursisten die een periode in het buitenland doorbrengen in het kader van hun opleiding.</p>","nl":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.II.352 en 353</p><p>BVR van 23/10/2015 houdende vaststelling van de hoogte van de mobiliteitstoelage voor studenten of cursisten die een periode in het buitenland doorbrengen in het kader van hun opleiding.</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:42.192712041Z","laatstGewijzigd":"2023-08-10T14:00:31.250255544Z","laatstOntvangen":"2023-08-10T14:00:31.25025649Z","productnummer":"2208","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/65bd9e1e-5b8b-4195-aed3-4ba39bd21895","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/71ea5f2e-dd69-425f-9c84-1d84ccdd9a44"},{"id":"95bfa938-d986-4e8c-b8d1-439daf1d5623","generatedAtTime":"2023-08-10T14:00:31.135846Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies voor prioritaire nascholing","nl-BE-x-generated-formal":"Subsidies voor prioritaire nascholing","nl":"Subsidies voor prioritaire nascholing"},"beschrijving":{"nl-BE-x-generated-formal":"<p>De Vlaamse minister van Onderwijs stelt om de 2 jaar prioritaire thema’s vast om het beleid te ondersteunen. Een oproep nodigt geïnteresseerde organisaties uit om de gekozen thema’s te vertalen in een specifiek nascholingsaanbod voor een specifieke doelgroep (afhankelijk van het thema). De minister maakt dan een selectie van kwaliteitsvolle projecten.</p>","nl":"<p>De Vlaamse minister van Onderwijs stelt om de 2 jaar prioritaire thema’s vast om het beleid te ondersteunen. Een oproep nodigt geïnteresseerde organisaties uit om de gekozen thema’s te vertalen in een specifiek nascholingsaanbod voor een specifieke doelgroep (afhankelijk van het thema). De minister maakt dan een selectie van kwaliteitsvolle projecten.</p>","nl-BE-x-generated-informal":"<p>De Vlaamse minister van Onderwijs stelt om de 2 jaar prioritaire thema’s vast om het beleid te ondersteunen. Een oproep nodigt geïnteresseerde organisaties uit om de gekozen thema’s te vertalen in een specifiek nascholingsaanbod voor een specifieke doelgroep (afhankelijk van het thema). De minister maakt dan een selectie van kwaliteitsvolle projecten.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>Decreet van 8/05/2009 betreffende de kwaliteit van onderwijs, art.12<br/>BVR van 8/06/2012 tot regeling van de procedure voor toekenning van projectsubsidies mbt de uitvoering van nascholingsinitiatieven</p>","nl-BE-x-generated-informal":"<p>Decreet van 8/05/2009 betreffende de kwaliteit van onderwijs, art.12<br/>BVR van 8/06/2012 tot regeling van de procedure voor toekenning van projectsubsidies mbt de uitvoering van nascholingsinitiatieven</p>","nl":"<p>Decreet van 8/05/2009 betreffende de kwaliteit van onderwijs, art.12<br />BVR van 8/06/2012 tot regeling van de procedure voor toekenning van projectsubsidies mbt de uitvoering van nascholingsinitiatieven</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:41.999410374Z","laatstGewijzigd":"2023-08-10T14:00:31.036741245Z","laatstOntvangen":"2023-08-10T14:00:31.036742625Z","productnummer":"2207","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/95bfa938-d986-4e8c-b8d1-439daf1d5623","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4d36e7f4-245a-4913-b9ef-4554ce34f0d8"},{"id":"16c895d8-bb83-403a-a5be-b28a2308bd75","generatedAtTime":"2023-08-10T14:00:30.892354Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor pilootprojecten leerlingenvervoer","nl-BE-x-generated-informal":"Subsidies voor pilootprojecten leerlingenvervoer","nl-BE-x-generated-formal":"Subsidies voor pilootprojecten leerlingenvervoer"},"beschrijving":{"nl":"<p>De subsidies voor het pilootproject leerlingenvervoer worden aangewend om het verouderde systeem van leerlingenvervoer in het buitengewoon onderwijs aan te passen aan de nieuwe noden en uitdagingen, om zo tot een eenduidig, efficiënt en transparant systeem te komen.</p>","nl-BE-x-generated-formal":"<p>De subsidies voor het pilootproject leerlingenvervoer worden aangewend om het verouderde systeem van leerlingenvervoer in het buitengewoon onderwijs aan te passen aan de nieuwe noden en uitdagingen, om zo tot een eenduidig, efficiënt en transparant systeem te komen.</p>","nl-BE-x-generated-informal":"<p>De subsidies voor het pilootproject leerlingenvervoer worden aangewend om het verouderde systeem van leerlingenvervoer in het buitengewoon onderwijs aan te passen aan de nieuwe noden en uitdagingen, om zo tot een eenduidig, efficiënt en transparant systeem te komen.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>BVR van 25/01/2019 betreffende het tijdelijk project ‘Leerlingenvervoer buitengewoon onderwijs’ en bijhorend decreet van 5/04/2019 ter bekrachtiging</p>","nl-BE-x-generated-informal":"<p>BVR van 25/01/2019 betreffende het tijdelijk project ‘Leerlingenvervoer buitengewoon onderwijs’ en bijhorend decreet van 5/04/2019 ter bekrachtiging</p>","nl":"<p>BVR van 25/01/2019 betreffende het tijdelijk project ‘Leerlingenvervoer buitengewoon onderwijs’ en bijhorend decreet van 5/04/2019 ter bekrachtiging</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:41.828177736Z","laatstGewijzigd":"2023-08-10T14:00:30.802871366Z","laatstOntvangen":"2023-08-10T14:00:30.802872275Z","productnummer":"2206","gearchiveerd":false,"subsidiemaatregel":"FG","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/16c895d8-bb83-403a-a5be-b28a2308bd75","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a99e496e-491d-4d82-8be8-3a14cdffa8e6"},{"id":"0edcb26a-7e9d-4ee1-a7e6-72de71f04224","generatedAtTime":"2023-08-10T14:00:30.682955Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies aan hogere instituten en andere instellingen voor Schone Kunsten","nl-BE-x-generated-formal":"Subsidies aan hogere instituten en andere instellingen voor Schone Kunsten","nl":"Subsidies aan hogere instituten en andere instellingen voor Schone Kunsten"},"beschrijving":{"nl":"<p>De Hogere Instituten voor Schone Kunsten en andere instellingen voor Schone Kunsten organiseren posthogeschoolvormingen inzake de opleidingen van de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. De posthogeschoolvorming wordt bekrachtigd met de titel van 'Laureaat van het Hoger Instituut voor Schone Kunsten'. Deze laureaatsvorming heeft tot doel aan afgestudeerden uit de betrokken sectoren en aan jonge kunstenaars de mogelijkheid te bieden hun artistiek talent verder te ontplooien.</p><p>PARTS biedt daarnaast ook een Bachelor in Dance en een Master in Dance aan.</p>","nl-BE-x-generated-formal":"<p>De Hogere Instituten voor Schone Kunsten en andere instellingen voor Schone Kunsten organiseren posthogeschoolvormingen inzake de opleidingen van de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. De posthogeschoolvorming wordt bekrachtigd met de titel van 'Laureaat van het Hoger Instituut voor Schone Kunsten'. Deze laureaatsvorming heeft tot doel aan afgestudeerden uit de betrokken sectoren en aan jonge kunstenaars de mogelijkheid te bieden hun artistiek talent verder te ontplooien.</p><p>PARTS biedt daarnaast ook een Bachelor in Dance en een Master in Dance aan.</p>","nl-BE-x-generated-informal":"<p>De Hogere Instituten voor Schone Kunsten en andere instellingen voor Schone Kunsten organiseren posthogeschoolvormingen inzake de opleidingen van de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. De posthogeschoolvorming wordt bekrachtigd met de titel van 'Laureaat van het Hoger Instituut voor Schone Kunsten'. Deze laureaatsvorming heeft tot doel aan afgestudeerden uit de betrokken sectoren en aan jonge kunstenaars de mogelijkheid te bieden hun artistiek talent verder te ontplooien.</p><p>PARTS biedt daarnaast ook een Bachelor in Dance en een Master in Dance aan.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.119</p>","nl":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.119</p>","nl-BE-x-generated-informal":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.119</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:41.490714145Z","laatstGewijzigd":"2023-08-10T14:00:30.574630486Z","laatstOntvangen":"2023-08-10T14:00:30.574631511Z","productnummer":"2205","gearchiveerd":false,"subsidiemaatregel":"FE","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0edcb26a-7e9d-4ee1-a7e6-72de71f04224","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ae478b21-494b-4df8-a953-6e510533b338"},{"id":"2371ee06-6726-4ce0-a7a5-ff9740c9770e","generatedAtTime":"2023-08-10T14:00:30.464084Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor Antwerp Management School (AMS) en Vlerick Business School","nl-BE-x-generated-informal":"Subsidies voor Antwerp Management School (AMS) en Vlerick Business School","nl-BE-x-generated-formal":"Subsidies voor Antwerp Management School (AMS) en Vlerick Business School"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Vlaanderen ondersteunt de werking van de Vlerick Business School en de Antwerp Management School (AMS), zodat zij opleidingen met een sterk academische onderbouw, gecombineerd met de recentste inzichten uit de<br/>dagelijkse praktijk, kunnen opzetten.</p><p>De post-initiële instellingen krijgen een niet-gereglementeerde subsidie voor wetenschappelijk onderzoek naast een subsidie voor onderwijs. De overeenkomsten (convenanten, beheersovereenkomsten) van die instellingen met enerzijds het Departement OV en anderzijds het Departement EWI werden/worden op elkaar afgestemd in het kader van de administratieve vereenvoudiging en betere financiële opvolging.</p>","nl-BE-x-generated-informal":"<p>Vlaanderen ondersteunt de werking van de Vlerick Business School en de Antwerp Management School (AMS), zodat zij opleidingen met een sterk academische onderbouw, gecombineerd met de recentste inzichten uit de<br/>dagelijkse praktijk, kunnen opzetten.</p><p>De post-initiële instellingen krijgen een niet-gereglementeerde subsidie voor wetenschappelijk onderzoek naast een subsidie voor onderwijs. De overeenkomsten (convenanten, beheersovereenkomsten) van die instellingen met enerzijds het Departement OV en anderzijds het Departement EWI werden/worden op elkaar afgestemd in het kader van de administratieve vereenvoudiging en betere financiële opvolging.</p>","nl":"<p>Vlaanderen ondersteunt de werking van de Vlerick Business School en de Antwerp Management School (AMS), zodat zij opleidingen met een sterk academische onderbouw, gecombineerd met de recentste inzichten uit de<br />dagelijkse praktijk, kunnen opzetten.</p><p>De post-initiële instellingen krijgen een niet-gereglementeerde subsidie voor wetenschappelijk onderzoek naast een subsidie voor onderwijs. De overeenkomsten (convenanten, beheersovereenkomsten) van die instellingen met enerzijds het Departement OV en anderzijds het Departement EWI werden/worden op elkaar afgestemd in het kader van de administratieve vereenvoudiging en betere financiële opvolging.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-formal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000038","@id":"OVO000038"}],"creatie":"2023-05-04T14:25:11.630990354Z","laatstGewijzigd":"2023-08-10T14:00:30.324439012Z","laatstOntvangen":"2023-08-10T14:00:30.324440732Z","productnummer":"2439","gearchiveerd":false,"subsidiemaatregel":"EK","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"verwanteProducten":[{"id":"5ffa149e-7ca4-4d3b-8f03-5066e6e7a11c","productnummer":"2204","type":"INSTANTIE","order":0}],"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2371ee06-6726-4ce0-a7a5-ff9740c9770e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b58d466a-4820-4f95-8695-7648842a4037"},{"id":"d513ff37-e9ea-4b4d-a91d-bdd383284eb1","generatedAtTime":"2023-08-10T14:00:30.157002Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies aan instellingen voor postinitieel onderwijs","nl":"Subsidies aan instellingen voor postinitieel onderwijs","nl-BE-x-generated-informal":"Subsidies aan instellingen voor postinitieel onderwijs"},"beschrijving":{"nl":"<p>Uitvoeren van 3 kernopdrachten:</p><ol><li>verschaffen van postinitieel onderwijs,</li><li>verrichten van wetenschappelijk onderzoek</li><li>verstrekken van wetenschappelijke dienstverlening op het gebied van managementwetenschappen, met inbegrip van de voorbereiding van doctoraatsproefschriften met het oog op het behalen van de academische graad van doctor aan een Vlaamse of buitenlandse universiteit.</li></ol>","nl-BE-x-generated-informal":"<p>Uitvoeren van 3 kernopdrachten:</p><ol><li>verschaffen van postinitieel onderwijs,</li><li>verrichten van wetenschappelijk onderzoek</li><li>verstrekken van wetenschappelijke dienstverlening op het gebied van managementwetenschappen, met inbegrip van de voorbereiding van doctoraatsproefschriften met het oog op het behalen van de academische graad van doctor aan een Vlaamse of buitenlandse universiteit.</li></ol>","nl-BE-x-generated-formal":"<p>Uitvoeren van 3 kernopdrachten:</p><ol><li>verschaffen van postinitieel onderwijs,</li><li>verrichten van wetenschappelijk onderzoek</li><li>verstrekken van wetenschappelijke dienstverlening op het gebied van managementwetenschappen, met inbegrip van de voorbereiding van doctoraatsproefschriften met het oog op het behalen van de academische graad van doctor aan een Vlaamse of buitenlandse universiteit.</li></ol>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.115 tem 118</p>","nl-BE-x-generated-informal":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.115 tem 118</p>","nl-BE-x-generated-formal":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.115 tem 118</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:15:41.358863412Z","laatstGewijzigd":"2023-08-10T14:00:30.059184173Z","laatstOntvangen":"2023-08-10T14:00:30.059185161Z","productnummer":"2204","gearchiveerd":false,"subsidiemaatregel":"FE","metadata":{"uJeVersie":"31.5.0","generatedFormeleFields":true,"generatedInformeleFields":true},"deminimis":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d513ff37-e9ea-4b4d-a91d-bdd383284eb1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5ffa149e-7ca4-4d3b-8f03-5066e6e7a11c"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=811",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=810",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-08-10T14:00:30.157002Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=812",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-08-10T14:00:35.912366Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=811",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "57de902a-4b79-445c-819f-3b7cffd9dd88",
+      "generatedAtTime": "2023-08-10T14:00:35.912366Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies in het kader van het beleid lokale en provinciale besturen",
+        "nl-BE-x-generated-formal": "Subsidies in het kader van het beleid lokale en provinciale besturen",
+        "nl-BE-x-generated-informal": "Subsidies in het kader van het beleid lokale en provinciale besturen"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies in het kader van het beleid lokale en provinciale besturen, bijvoorbeeld om beleidsprojecten zoals regiovorming en burgerparticipatie te ondersteunen.</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies in het kader van het beleid lokale en provinciale besturen, bijvoorbeeld om beleidsprojecten zoals regiovorming en burgerparticipatie te ondersteunen.</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies in het kader van het beleid lokale en provinciale besturen, bijvoorbeeld om beleidsprojecten zoals regiovorming en burgerparticipatie te ondersteunen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijks uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:44.882083936Z",
+      "laatstGewijzigd": "2023-08-10T14:00:35.829904518Z",
+      "laatstOntvangen": "2023-08-10T14:00:35.829905537Z",
+      "productnummer": "2233",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SG_02",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/57de902a-4b79-445c-819f-3b7cffd9dd88",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7bacb507-9840-4e50-9a68-e0c68d33e5e1"
+    },
+    {
+      "id": "6e0cbd45-dd2e-4e16-9a78-dbc6d1c5fdca",
+      "generatedAtTime": "2023-08-10T14:00:35.72076Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies ihkv digitalisering",
+        "nl-BE-x-generated-formal": "Subsidies ihkv digitalisering",
+        "nl": "Subsidies ihkv digitalisering"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Allerhande subsidies voor het versterken van de ontwikkeling van ICT-competenties bij leraren en in schoolteams in het leerplicht- en volwassenenonderwijs, van mediawijsheid en digitale geletterdheid en voor het digitaliseren van materiaal van media- en erfgoedinstellingen.</p>",
+        "nl-BE-x-generated-formal": "<p>Allerhande subsidies voor het versterken van de ontwikkeling van ICT-competenties bij leraren en in schoolteams in het leerplicht- en volwassenenonderwijs, van mediawijsheid en digitale geletterdheid en voor het digitaliseren van materiaal van media- en erfgoedinstellingen.</p>",
+        "nl": "<p>Allerhande subsidies voor het versterken van de ontwikkeling van ICT-competenties bij leraren en in schoolteams in het leerplicht- en volwassenenonderwijs, van mediawijsheid en digitale geletterdheid en voor het digitaliseren van materiaal van media- en erfgoedinstellingen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:44.52724111Z",
+      "laatstGewijzigd": "2023-08-10T14:00:35.637848562Z",
+      "laatstOntvangen": "2023-08-10T14:00:35.63785Z",
+      "productnummer": "2226",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6e0cbd45-dd2e-4e16-9a78-dbc6d1c5fdca",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2fb18bab-dfb1-4622-9dac-017f82448750"
+    },
+    {
+      "id": "5adbac18-ea31-4db5-9f85-09008d6b2379",
+      "generatedAtTime": "2023-08-10T14:00:35.509208Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies ihkv de kwaliteit van het onderwijs",
+        "nl-BE-x-generated-informal": "Subsidies ihkv de kwaliteit van het onderwijs",
+        "nl-BE-x-generated-formal": "Subsidies ihkv de kwaliteit van het onderwijs"
+      },
+      "beschrijving": {
+        "nl": "<p>Allerhande subsidies voor het ondersteunen van de toelatingsproeven, het opzetten van beleids-, praktijkgericht en wetenschappelijk onderzoek, van de scholen bij de implementatie van onderwijsdoelen, de kwaliteitsbewaking in het hoger onderwijs en innovatieve projecten.</p>",
+        "nl-BE-x-generated-formal": "<p>Allerhande subsidies voor het ondersteunen van de toelatingsproeven, het opzetten van beleids-, praktijkgericht en wetenschappelijk onderzoek, van de scholen bij de implementatie van onderwijsdoelen, de kwaliteitsbewaking in het hoger onderwijs en innovatieve projecten.</p>",
+        "nl-BE-x-generated-informal": "<p>Allerhande subsidies voor het ondersteunen van de toelatingsproeven, het opzetten van beleids-, praktijkgericht en wetenschappelijk onderzoek, van de scholen bij de implementatie van onderwijsdoelen, de kwaliteitsbewaking in het hoger onderwijs en innovatieve projecten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:44.412274528Z",
+      "laatstGewijzigd": "2023-08-10T14:00:35.423076198Z",
+      "laatstOntvangen": "2023-08-10T14:00:35.42307721Z",
+      "productnummer": "2225",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5adbac18-ea31-4db5-9f85-09008d6b2379",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e79b6e3a-af8c-4e53-b1d3-9c40f0cdc244"
+    },
+    {
+      "id": "df8eebb0-6d81-4b33-8c53-b3f6a5bb0e76",
+      "generatedAtTime": "2023-08-10T14:00:35.263076Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies ihkv onderwijs-arbeidsmarkt en levenslang leren",
+        "nl-BE-x-generated-formal": "Subsidies ihkv onderwijs-arbeidsmarkt en levenslang leren",
+        "nl": "Subsidies ihkv onderwijs-arbeidsmarkt en levenslang leren"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Allerhande subsidies voor het stimuleren van een betere aansluiting tussen het onderwijs en de arbeidsmarkt en het versterken van het levenslang en levensbreed leren.</p>",
+        "nl-BE-x-generated-formal": "<p>Allerhande subsidies voor het stimuleren van een betere aansluiting tussen het onderwijs en de arbeidsmarkt en het versterken van het levenslang en levensbreed leren.</p>",
+        "nl": "<p>Allerhande subsidies voor het stimuleren van een betere aansluiting tussen het onderwijs en de arbeidsmarkt en het versterken van het levenslang en levensbreed leren.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:44.286104483Z",
+      "laatstGewijzigd": "2023-08-10T14:00:35.152728257Z",
+      "laatstOntvangen": "2023-08-10T14:00:35.152730041Z",
+      "productnummer": "2224",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/df8eebb0-6d81-4b33-8c53-b3f6a5bb0e76",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/756c31fc-82af-4967-99eb-0c78d2458b6d"
+    },
+    {
+      "id": "d397b54c-3e6c-45ee-a4fa-be29c7273ed6",
+      "generatedAtTime": "2023-08-10T14:00:35.027883Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies ihkv internationalisering",
+        "nl-BE-x-generated-formal": "Subsidies ihkv internationalisering",
+        "nl-BE-x-generated-informal": "Subsidies ihkv internationalisering"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Allerhande subsidies voor het stimuleren van internationale samenwerking en van de studentenmobiliteit.</p>",
+        "nl": "<p>Allerhande subsidies voor het stimuleren van internationale samenwerking en van de studentenmobiliteit.</p>",
+        "nl-BE-x-generated-formal": "<p>Allerhande subsidies voor het stimuleren van internationale samenwerking en van de studentenmobiliteit.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:49.060827738Z",
+      "laatstGewijzigd": "2023-08-10T14:00:34.921614235Z",
+      "laatstOntvangen": "2023-08-10T14:00:34.921616079Z",
+      "productnummer": "2223",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d397b54c-3e6c-45ee-a4fa-be29c7273ed6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/8f93df76-a197-4005-9c42-41bcda64c77a"
+    },
+    {
+      "id": "e5d471ad-0f5c-4341-8bbe-582f00bbb947",
+      "generatedAtTime": "2023-08-10T14:00:34.789306Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies ihkv nascholing en professionalisering",
+        "nl": "Subsidies ihkv nascholing en professionalisering",
+        "nl-BE-x-generated-formal": "Subsidies ihkv nascholing en professionalisering"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Allerhande subsidies voor het stimuleren van de competentie-ontwikkeling, het verhogen van de kwaliteit van de lerarenopleiding en het verbeteren van de arbeidsomstandigheden.</p>",
+        "nl-BE-x-generated-formal": "<p>Allerhande subsidies voor het stimuleren van de competentie-ontwikkeling, het verhogen van de kwaliteit van de lerarenopleiding en het verbeteren van de arbeidsomstandigheden.</p>",
+        "nl": "<p>Allerhande subsidies voor het stimuleren van de competentie-ontwikkeling, het verhogen van de kwaliteit van de lerarenopleiding en het verbeteren van de arbeidsomstandigheden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:44.038581996Z",
+      "laatstGewijzigd": "2023-08-10T14:00:34.687344733Z",
+      "laatstOntvangen": "2023-08-10T14:00:34.687346377Z",
+      "productnummer": "2222",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e5d471ad-0f5c-4341-8bbe-582f00bbb947",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/45abc0cf-037c-466f-8748-bfb3f817e149"
+    },
+    {
+      "id": "44fb219f-c64f-4fe2-b7da-a5dd0ae56182",
+      "generatedAtTime": "2023-08-10T14:00:34.513484Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies ihkv leerling-, student- en instellinggebonden ondersteuning",
+        "nl-BE-x-generated-formal": "Subsidies ihkv leerling-, student- en instellinggebonden ondersteuning",
+        "nl-BE-x-generated-informal": "Subsidies ihkv leerling-, student- en instellinggebonden ondersteuning"
+      },
+      "beschrijving": {
+        "nl": "<p>Allerhande subsidies voor het realiseren van effectieve en efficiënte leerlingenbegeleiding, het beschermen van het welzijn, welbevinden en de veiligheid van de leerlingen, de ondersteuning van leerlingen met specifieke onderwijsbehoeften, voor het ondersteunen van projecten die werken rond kostenbeheersing secundair onderwijs en voor de organisatie van taalintegratietrajecten en taalstimulerende activiteiten gepland op voor-, na- en buitenschoolse momenten, in het weekend en tijdens de schoolvakanties en voor projecten ter ondersteuning van de leesbevordering op school.</p>",
+        "nl-BE-x-generated-informal": "<p>Allerhande subsidies voor het realiseren van effectieve en efficiënte leerlingenbegeleiding, het beschermen van het welzijn, welbevinden en de veiligheid van de leerlingen, de ondersteuning van leerlingen met specifieke onderwijsbehoeften, voor het ondersteunen van projecten die werken rond kostenbeheersing secundair onderwijs en voor de organisatie van taalintegratietrajecten en taalstimulerende activiteiten gepland op voor-, na- en buitenschoolse momenten, in het weekend en tijdens de schoolvakanties en voor projecten ter ondersteuning van de leesbevordering op school.</p>",
+        "nl-BE-x-generated-formal": "<p>Allerhande subsidies voor het realiseren van effectieve en efficiënte leerlingenbegeleiding, het beschermen van het welzijn, welbevinden en de veiligheid van de leerlingen, de ondersteuning van leerlingen met specifieke onderwijsbehoeften, voor het ondersteunen van projecten die werken rond kostenbeheersing secundair onderwijs en voor de organisatie van taalintegratietrajecten en taalstimulerende activiteiten gepland op voor-, na- en buitenschoolse momenten, in het weekend en tijdens de schoolvakanties en voor projecten ter ondersteuning van de leesbevordering op school.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:43.921248471Z",
+      "laatstGewijzigd": "2023-08-10T14:00:34.418410142Z",
+      "laatstOntvangen": "2023-08-10T14:00:34.41841139Z",
+      "productnummer": "2221",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/44fb219f-c64f-4fe2-b7da-a5dd0ae56182",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/15f13322-0ff7-4e24-83b4-ca27eaa2263e"
+    },
+    {
+      "id": "4e306fb3-9451-40e7-a265-7b2ee6960135",
+      "generatedAtTime": "2023-08-10T14:00:34.279554Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies aan ouderkoepelverenigingen",
+        "nl-BE-x-generated-informal": "Subsidies aan ouderkoepelverenigingen",
+        "nl": "Subsidies aan ouderkoepelverenigingen"
+      },
+      "beschrijving": {
+        "nl": "<p>De subsidie wordt aangewend voor de financiering van de 3 ouderkoepelverenigingen. Hun opdracht is het werken aan een participatief schoolklimaat en het informeren en sensibiliseren van ouders over actuele thema's, nieuwe regelgeving en nieuw beleid.</p>",
+        "nl-BE-x-generated-formal": "<p>De subsidie wordt aangewend voor de financiering van de 3 ouderkoepelverenigingen. Hun opdracht is het werken aan een participatief schoolklimaat en het informeren en sensibiliseren van ouders over actuele thema's, nieuwe regelgeving en nieuw beleid.</p>",
+        "nl-BE-x-generated-informal": "<p>De subsidie wordt aangewend voor de financiering van de 3 ouderkoepelverenigingen. Hun opdracht is het werken aan een participatief schoolklimaat en het informeren en sensibiliseren van ouders over actuele thema's, nieuwe regelgeving en nieuw beleid.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 20/06/1996 betreffende de subsidiëring van de ouderkoepelverenigingen</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet van 20/06/1996 betreffende de subsidiëring van de ouderkoepelverenigingen</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 20/06/1996 betreffende de subsidiëring van de ouderkoepelverenigingen</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:43.79395424Z",
+      "laatstGewijzigd": "2023-08-10T14:00:34.19243976Z",
+      "laatstOntvangen": "2023-08-10T14:00:34.192440803Z",
+      "productnummer": "2220",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4e306fb3-9451-40e7-a265-7b2ee6960135",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ac926daf-88fc-4d1d-a247-b8c89e8de5ac"
+    },
+    {
+      "id": "3f9f0d6c-24ce-433a-9a79-c87387a2725e",
+      "generatedAtTime": "2023-08-10T14:00:33.822857Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies voor student-tutoringprojecten",
+        "nl-BE-x-generated-formal": "Subsidies voor student-tutoringprojecten",
+        "nl": "Subsidies voor student-tutoringprojecten"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Onder de voorwaarden bepaald door de Vlaamse Regering kan de Vlaamse Regering subsidies verlenen aan instellingen voor hoger onderwijs die in samenwerking met basisscholen en scholen voor secundair onderwijs 'tutoring' aanbieden aan de leerlingen van die scholen. Onder 'tutoring' wordt verstaan dat studenten uit het hoger onderwijs op een gestructureerde manier optreden als begeleider en rolmodel, met de bedoeling om leerlingen basis- en secundair onderwijs te ondersteunen bij het leer- en keuzeproces.</p>",
+        "nl": "<p>Onder de voorwaarden bepaald door de Vlaamse Regering kan de Vlaamse Regering subsidies verlenen aan instellingen voor hoger onderwijs die in samenwerking met basisscholen en scholen voor secundair onderwijs 'tutoring' aanbieden aan de leerlingen van die scholen. Onder 'tutoring' wordt verstaan dat studenten uit het hoger onderwijs op een gestructureerde manier optreden als begeleider en rolmodel, met de bedoeling om leerlingen basis- en secundair onderwijs te ondersteunen bij het leer- en keuzeproces.</p>",
+        "nl-BE-x-generated-formal": "<p>Onder de voorwaarden bepaald door de Vlaamse Regering kan de Vlaamse Regering subsidies verlenen aan instellingen voor hoger onderwijs die in samenwerking met basisscholen en scholen voor secundair onderwijs 'tutoring' aanbieden aan de leerlingen van die scholen. Onder 'tutoring' wordt verstaan dat studenten uit het hoger onderwijs op een gestructureerde manier optreden als begeleider en rolmodel, met de bedoeling om leerlingen basis- en secundair onderwijs te ondersteunen bij het leer- en keuzeproces.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet van 14/03/2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, artikel 40quinquies, ingevoegd bij het decreet betreffende het onderwijs XXI</p><p>BVR van 19/09/2011 houdende de subsidiëring van student tutoring in het onderwijs in Vlaanderen</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet van 14/03/2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, artikel 40quinquies, ingevoegd bij het decreet betreffende het onderwijs XXI</p><p>BVR van 19/09/2011 houdende de subsidiëring van student tutoring in het onderwijs in Vlaanderen</p>",
+        "nl": "<p>Decreet van 14/03/2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, artikel 40quinquies, ingevoegd bij het decreet betreffende het onderwijs XXI</p><p>BVR van 19/09/2011 houdende de subsidiëring van student tutoring in het onderwijs in Vlaanderen</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:43.628564397Z",
+      "laatstGewijzigd": "2023-08-10T14:00:33.711439244Z",
+      "laatstOntvangen": "2023-08-10T14:00:33.711440279Z",
+      "productnummer": "2219",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3f9f0d6c-24ce-433a-9a79-c87387a2725e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/1be1004c-f5b4-4e67-9bb6-f0e815adadba"
+    },
+    {
+      "id": "8f74dc2f-bc65-4af8-91d8-170cc8425504",
+      "generatedAtTime": "2023-08-10T14:00:33.575661Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie aan het Centrum Islamonderwijs",
+        "nl": "Subsidie aan het Centrum Islamonderwijs",
+        "nl-BE-x-generated-formal": "Subsidie aan het Centrum Islamonderwijs"
+      },
+      "beschrijving": {
+        "nl": "<p>Binnen het onderwijs is er nood aan een tegendiscours voor wat betreft bepaalde radicaliseringsprocessen. Het Netwerk van Islamexperten neemt hiervoor het heft in handen. Zij zetten ook in op het omgaan met levensbeschouwelijke diversiteit en hoe concrete casussen rond levensbeschouwing in een schoolse context kunnen worden aangepakt.</p>",
+        "nl-BE-x-generated-informal": "<p>Binnen het onderwijs is er nood aan een tegendiscours voor wat betreft bepaalde radicaliseringsprocessen. Het Netwerk van Islamexperten neemt hiervoor het heft in handen. Zij zetten ook in op het omgaan met levensbeschouwelijke diversiteit en hoe concrete casussen rond levensbeschouwing in een schoolse context kunnen worden aangepakt.</p>",
+        "nl-BE-x-generated-formal": "<p>Binnen het onderwijs is er nood aan een tegendiscours voor wat betreft bepaalde radicaliseringsprocessen. Het Netwerk van Islamexperten neemt hiervoor het heft in handen. Zij zetten ook in op het omgaan met levensbeschouwelijke diversiteit en hoe concrete casussen rond levensbeschouwing in een schoolse context kunnen worden aangepakt.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>artikel IV.52 van de codificatie sommige bepalingen voor onderwijs van 28 oktober 2016, ingevoegd bij het decreet van 5 april 2019</p>",
+        "nl-BE-x-generated-formal": "<p>artikel IV.52 van de codificatie sommige bepalingen voor onderwijs van 28 oktober 2016, ingevoegd bij het decreet van 5 april 2019</p>",
+        "nl-BE-x-generated-informal": "<p>artikel IV.52 van de codificatie sommige bepalingen voor onderwijs van 28 oktober 2016, ingevoegd bij het decreet van 5 april 2019</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:43.522976913Z",
+      "laatstGewijzigd": "2023-08-10T14:00:33.47789027Z",
+      "laatstOntvangen": "2023-08-10T14:00:33.477891752Z",
+      "productnummer": "2218",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8f74dc2f-bc65-4af8-91d8-170cc8425504",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bc3f0c03-edde-4cba-98a9-038641b9762e"
+    },
+    {
+      "id": "3ad46249-0848-4f5f-828f-e2c28c32fec6",
+      "generatedAtTime": "2023-08-10T14:00:33.382272Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor het LARS-project",
+        "nl-BE-x-generated-formal": "Subsidie voor het LARS-project",
+        "nl-BE-x-generated-informal": "Subsidie voor het LARS-project"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Deze subsidie laat toe de bestaande gegevensuitwisseling via het softwareprogramma LARS te continueren en te optimaliseren. De middelen worden netoverstijgend aangevraagd en ingezet door de CLB-sector om een deel van de kosten voor de aanstelling van een projectmedewerker te kunnen dekken.</p>",
+        "nl-BE-x-generated-informal": "<p>Deze subsidie laat toe de bestaande gegevensuitwisseling via het softwareprogramma LARS te continueren en te optimaliseren. De middelen worden netoverstijgend aangevraagd en ingezet door de CLB-sector om een deel van de kosten voor de aanstelling van een projectmedewerker te kunnen dekken.</p>",
+        "nl": "<p>Deze subsidie laat toe de bestaande gegevensuitwisseling via het softwareprogramma LARS te continueren en te optimaliseren. De middelen worden netoverstijgend aangevraagd en ingezet door de CLB-sector om een deel van de kosten voor de aanstelling van een projectmedewerker te kunnen dekken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>artikel 48bis van het BVR van 3/07/2009 tot vaststelling van de operationele doelstellingen van de CLB</p>",
+        "nl-BE-x-generated-informal": "<p>artikel 48bis van het BVR van 3/07/2009 tot vaststelling van de operationele doelstellingen van de CLB</p>",
+        "nl": "<p>artikel 48bis van het BVR van 3/07/2009 tot vaststelling van de operationele doelstellingen van de CLB</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:43.398711147Z",
+      "laatstGewijzigd": "2023-08-10T14:00:33.292553614Z",
+      "laatstOntvangen": "2023-08-10T14:00:33.292554782Z",
+      "productnummer": "2217",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3ad46249-0848-4f5f-828f-e2c28c32fec6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/976fb72f-531d-4781-b005-a3e0bd4df0c2"
+    },
+    {
+      "id": "d5f5f7e3-d00f-4710-bfc9-180dadfdaf8d",
+      "generatedAtTime": "2023-08-10T14:00:33.189466Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie in het kader van de regularisatie van gesco's",
+        "nl-BE-x-generated-informal": "Subsidie in het kader van de regularisatie van gesco's",
+        "nl-BE-x-generated-formal": "Subsidie in het kader van de regularisatie van gesco's"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>De subsidie wordt aangewend voor de financiering van de gewezen gesubsidieerde contractuelen in bepaalde organisaties, in uitvoering van het besluit van de Vlaamse Regering over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>",
+        "nl-BE-x-generated-informal": "<p>De subsidie wordt aangewend voor de financiering van de gewezen gesubsidieerde contractuelen in bepaalde organisaties, in uitvoering van het besluit van de Vlaamse Regering over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>",
+        "nl": "<p>De subsidie wordt aangewend voor de financiering van de gewezen gesubsidieerde contractuelen in bepaalde organisaties, in uitvoering van het besluit van de Vlaamse Regering over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 3 september 2021 over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>",
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 3 september 2021 over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>",
+        "nl": "<p>Besluit van de Vlaamse Regering van 3 september 2021 over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:43.271834148Z",
+      "laatstGewijzigd": "2023-08-10T14:00:33.099778668Z",
+      "laatstOntvangen": "2023-08-10T14:00:33.099780005Z",
+      "productnummer": "2216",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d5f5f7e3-d00f-4710-bfc9-180dadfdaf8d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/46a31970-1c3c-480f-aac3-e5752d4e7c49"
+    },
+    {
+      "id": "40243a44-4e23-4a86-9457-c80a05c418c4",
+      "generatedAtTime": "2023-08-10T14:00:32.978951Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie in het kader van de regularistie DAC-statuut",
+        "nl-BE-x-generated-formal": "Subsidie in het kader van de regularistie DAC-statuut",
+        "nl": "Subsidie in het kader van de regularistie DAC-statuut"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>De middelen worden aangewend om de gewezen DAC-werknemers van de gesubsidieerde vrije internaten een arbeidsovereenkomst van onbepaalde duur te geven binnen paritair subcomité 152.01.</p>",
+        "nl-BE-x-generated-informal": "<p>De middelen worden aangewend om de gewezen DAC-werknemers van de gesubsidieerde vrije internaten een arbeidsovereenkomst van onbepaalde duur te geven binnen paritair subcomité 152.01.</p>",
+        "nl": "<p>De middelen worden aangewend om de gewezen DAC-werknemers van de gesubsidieerde vrije internaten een arbeidsovereenkomst van onbepaalde duur te geven binnen paritair subcomité 152.01.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 23/12/2011 houdende bepalingen tot begeleiding van de begroting 2012, artikel 67</p><p>BVR van 1/07/2016 betreffende de toekenning van subsidies voor de tewerkstelling in een gewezen DAC-statuut van personeelsleden in de gesubsidieerde vrije internaten</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 23/12/2011 houdende bepalingen tot begeleiding van de begroting 2012, artikel 67</p><p>BVR van 1/07/2016 betreffende de toekenning van subsidies voor de tewerkstelling in een gewezen DAC-statuut van personeelsleden in de gesubsidieerde vrije internaten</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet van 23/12/2011 houdende bepalingen tot begeleiding van de begroting 2012, artikel 67</p><p>BVR van 1/07/2016 betreffende de toekenning van subsidies voor de tewerkstelling in een gewezen DAC-statuut van personeelsleden in de gesubsidieerde vrije internaten</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:43.160857987Z",
+      "laatstGewijzigd": "2023-08-10T14:00:32.873405362Z",
+      "laatstOntvangen": "2023-08-10T14:00:32.873406527Z",
+      "productnummer": "2215",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/40243a44-4e23-4a86-9457-c80a05c418c4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/43c8424c-7635-4127-bf35-f4402853cebf"
+    },
+    {
+      "id": "c204787d-95e7-44c2-84c2-5f2a67d1152e",
+      "generatedAtTime": "2023-08-10T14:00:32.777358Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor Dynamoprojecten",
+        "nl-BE-x-generated-formal": "Subsidies voor Dynamoprojecten",
+        "nl-BE-x-generated-informal": "Subsidies voor Dynamoprojecten"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Met dynamoPROJECT stimuleren we scholen om een creatieve samenwerking aan te gaan met externe culturele partners. Leerlingen en leerkrachten doorlopen samen met minimum één externe culturele partner een samenhangend en creatief traject dat gekoppeld is aan het lesgebeuren en gericht is op een duurzame verankering van cultuureducatie.</p>",
+        "nl": "<p>Met dynamoPROJECT stimuleren we scholen om een creatieve samenwerking aan te gaan met externe culturele partners. Leerlingen en leerkrachten doorlopen samen met minimum één externe culturele partner een samenhangend en creatief traject dat gekoppeld is aan het lesgebeuren en gericht is op een duurzame verankering van cultuureducatie.</p>",
+        "nl-BE-x-generated-informal": "<p>Met dynamoPROJECT stimuleren we scholen om een creatieve samenwerking aan te gaan met externe culturele partners. Leerlingen en leerkrachten doorlopen samen met minimum één externe culturele partner een samenhangend en creatief traject dat gekoppeld is aan het lesgebeuren en gericht is op een duurzame verankering van cultuureducatie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 25 april 2014 betreffende het onderwijs XXIV, artikel X.1 die werd vervangen door de gecodificeerde decreten sommige bepalingen voor het onderwijs van 28 oktober 2016, art. IV. 33</p><p>BVR van 20/06/2014 betreffende de nadere voorwaarden en procedure om subsidies toe te kennen voor projecten die cultuureducatie van onderwijsinstellingen stimuleren</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet van 25 april 2014 betreffende het onderwijs XXIV, artikel X.1 die werd vervangen door de gecodificeerde decreten sommige bepalingen voor het onderwijs van 28 oktober 2016, art. IV. 33</p><p>BVR van 20/06/2014 betreffende de nadere voorwaarden en procedure om subsidies toe te kennen voor projecten die cultuureducatie van onderwijsinstellingen stimuleren</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 25 april 2014 betreffende het onderwijs XXIV, artikel X.1 die werd vervangen door de gecodificeerde decreten sommige bepalingen voor het onderwijs van 28 oktober 2016, art. IV. 33</p><p>BVR van 20/06/2014 betreffende de nadere voorwaarden en procedure om subsidies toe te kennen voor projecten die cultuureducatie van onderwijsinstellingen stimuleren</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:48.948035593Z",
+      "laatstGewijzigd": "2023-08-10T14:00:32.674708788Z",
+      "laatstOntvangen": "2023-08-10T14:00:32.674710255Z",
+      "productnummer": "2214",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c204787d-95e7-44c2-84c2-5f2a67d1152e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2a88a7f9-16ad-4a23-b434-be9b4a30ae16"
+    },
+    {
+      "id": "15ea2e30-a6a5-420a-ba60-6e6e5726d402",
+      "generatedAtTime": "2023-08-10T14:00:32.576478Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie voor de Rijdende kleuterschool",
+        "nl-BE-x-generated-formal": "Subsidie voor de Rijdende kleuterschool",
+        "nl": "Subsidie voor de Rijdende kleuterschool"
+      },
+      "beschrijving": {
+        "nl": "<p>De rijdende kleuterschool is een mobiele school die het parcours van de grote kermissen in ons land volgt en voorziet in Nederlandstalig onderwijs voor de kleuters van kermisexploitanten. Via de subsidiëring van de Rijdende kleuterschool wil de overheid de deelname van kleuters van de beoogde doelgroep aan het kleuteronderwijs verhogen. Het initiatief bestaat sinds 2006 en wordt tot op vandaag behartigd door de vzw Carrousel.</p>",
+        "nl-BE-x-generated-informal": "<p>De rijdende kleuterschool is een mobiele school die het parcours van de grote kermissen in ons land volgt en voorziet in Nederlandstalig onderwijs voor de kleuters van kermisexploitanten. Via de subsidiëring van de Rijdende kleuterschool wil de overheid de deelname van kleuters van de beoogde doelgroep aan het kleuteronderwijs verhogen. Het initiatief bestaat sinds 2006 en wordt tot op vandaag behartigd door de vzw Carrousel.</p>",
+        "nl-BE-x-generated-formal": "<p>De rijdende kleuterschool is een mobiele school die het parcours van de grote kermissen in ons land volgt en voorziet in Nederlandstalig onderwijs voor de kleuters van kermisexploitanten. Via de subsidiëring van de Rijdende kleuterschool wil de overheid de deelname van kleuters van de beoogde doelgroep aan het kleuteronderwijs verhogen. Het initiatief bestaat sinds 2006 en wordt tot op vandaag behartigd door de vzw Carrousel.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 168 en 169<br />BVR van 26/09/2014 betreffende de bepaling van de regels voor de aanvraag en de toekenning van de subsidies voor de Rijdende Kleuterschool Vlaanderen.</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 168 en 169<br/>BVR van 26/09/2014 betreffende de bepaling van de regels voor de aanvraag en de toekenning van de subsidies voor de Rijdende Kleuterschool Vlaanderen.</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 168 en 169<br/>BVR van 26/09/2014 betreffende de bepaling van de regels voor de aanvraag en de toekenning van de subsidies voor de Rijdende Kleuterschool Vlaanderen.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:42.826396418Z",
+      "laatstGewijzigd": "2023-08-10T14:00:32.469804769Z",
+      "laatstOntvangen": "2023-08-10T14:00:32.469805793Z",
+      "productnummer": "2213",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/15ea2e30-a6a5-420a-ba60-6e6e5726d402",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5016c68b-fb7e-4bed-8c39-ff91f9d211ca"
+    },
+    {
+      "id": "740544a0-d65a-4f96-9c84-c9f0cf514507",
+      "generatedAtTime": "2023-08-10T14:00:32.363203Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie aan SIO",
+        "nl-BE-x-generated-formal": "Subsidie aan SIO",
+        "nl": "Subsidie aan SIO"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Synchroon internetonderwijs (SIO) biedt aan leerlingen voor wie het door ziekte, ongeval of moederschapsrust tijdelijk onmogelijk is om onderwijs te volgen in hun school de mogelijkheid om op afstand, via digitale toepassingen, rechtstreeks en in interactie met de leerkrachten en klasgenoten de lessen te volgen.</p><p>SIO ondersteunt het leerproces, beperkt de leerachterstand en bereidt de terugkeer naar school voor. Door SIO blijft de band van de afwezige leerling met zijn of haar school, leerkrachten en medeleerlingen behouden.</p>",
+        "nl-BE-x-generated-formal": "<p>Synchroon internetonderwijs (SIO) biedt aan leerlingen voor wie het door ziekte, ongeval of moederschapsrust tijdelijk onmogelijk is om onderwijs te volgen in hun school de mogelijkheid om op afstand, via digitale toepassingen, rechtstreeks en in interactie met de leerkrachten en klasgenoten de lessen te volgen.</p><p>SIO ondersteunt het leerproces, beperkt de leerachterstand en bereidt de terugkeer naar school voor. Door SIO blijft de band van de afwezige leerling met zijn of haar school, leerkrachten en medeleerlingen behouden.</p>",
+        "nl": "<p>Synchroon internetonderwijs (SIO) biedt aan leerlingen voor wie het door ziekte, ongeval of moederschapsrust tijdelijk onmogelijk is om onderwijs te volgen in hun school de mogelijkheid om op afstand, via digitale toepassingen, rechtstreeks en in interactie met de leerkrachten en klasgenoten de lessen te volgen.</p><p>SIO ondersteunt het leerproces, beperkt de leerachterstand en bereidt de terugkeer naar school voor. Door SIO blijft de band van de afwezige leerling met zijn of haar school, leerkrachten en medeleerlingen behouden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 36</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 36</p>",
+        "nl": "<p>Decreet van 25/02/1997 betreffende het basisonderwijs, artikel 36</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:42.710564161Z",
+      "laatstGewijzigd": "2023-08-10T14:00:32.260789977Z",
+      "laatstOntvangen": "2023-08-10T14:00:32.260790945Z",
+      "productnummer": "2212",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/740544a0-d65a-4f96-9c84-c9f0cf514507",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6335c5cf-f865-4364-bff6-bf6942f77201"
+    },
+    {
+      "id": "0407aa46-9169-407e-a39d-ac7eae5a5706",
+      "generatedAtTime": "2023-08-10T14:00:32.139939Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie aan SIHO",
+        "nl-BE-x-generated-formal": "Subsidie aan SIHO",
+        "nl-BE-x-generated-informal": "Subsidie aan SIHO"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Steunpunt Inclusief Hoger Onderwijs (SIHO)</p><p>Doel is het begeleiden en ondersteunen van de instellingen hoger onderwijs bij:</p><ol><li>de uitbouw van een inclusief beleid voor alle studenten</li><li>en de implementatie van de VN-conventie van 13 december 2006 over de rechten van personen met een handicap.</li></ol>",
+        "nl-BE-x-generated-informal": "<p>Steunpunt Inclusief Hoger Onderwijs (SIHO)</p><p>Doel is het begeleiden en ondersteunen van de instellingen hoger onderwijs bij:</p><ol><li>de uitbouw van een inclusief beleid voor alle studenten</li><li>en de implementatie van de VN-conventie van 13 december 2006 over de rechten van personen met een handicap.</li></ol>",
+        "nl": "<p>Steunpunt Inclusief Hoger Onderwijs (SIHO)</p><p>Doel is het begeleiden en ondersteunen van de instellingen hoger onderwijs bij:</p><ol><li>de uitbouw van een inclusief beleid voor alle studenten</li><li>en de implementatie van de VN-conventie van 13 december 2006 over de rechten van personen met een handicap.</li></ol>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.III.98</p>",
+        "nl-BE-x-generated-informal": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.III.98</p>",
+        "nl": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.III.98</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:42.60272877Z",
+      "laatstGewijzigd": "2023-08-10T14:00:32.045480511Z",
+      "laatstOntvangen": "2023-08-10T14:00:32.045481975Z",
+      "productnummer": "2211",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0407aa46-9169-407e-a39d-ac7eae5a5706",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/480ba0c6-ba4e-46fa-9629-bbd4e703151d"
+    },
+    {
+      "id": "957904db-ec0f-4dd5-8b35-1eebe19ec34e",
+      "generatedAtTime": "2023-08-10T14:00:31.942391Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies aan de RTC's",
+        "nl": "Subsidies aan de RTC's",
+        "nl-BE-x-generated-informal": "Subsidies aan de RTC's"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>De vijf Regionale Technologische Centra werken, mede ondersteund door een beheersovereenkomst, op het snijvlak tussen onderwijs en arbeidsmarkt Leerlingen in technische en beroepsgerichte opleidingen in het secundair onderwijs leren werken met de moderne apparatuur die zij op de arbeidsmarkt ook zullen bedienen. De RTC’s ondersteunen scholen hierin via samenwerking met arbeidsmarktactoren.</p>",
+        "nl": "<p>De vijf Regionale Technologische Centra werken, mede ondersteund door een beheersovereenkomst, op het snijvlak tussen onderwijs en arbeidsmarkt Leerlingen in technische en beroepsgerichte opleidingen in het secundair onderwijs leren werken met de moderne apparatuur die zij op de arbeidsmarkt ook zullen bedienen. De RTC’s ondersteunen scholen hierin via samenwerking met arbeidsmarktactoren.</p>",
+        "nl-BE-x-generated-formal": "<p>De vijf Regionale Technologische Centra werken, mede ondersteund door een beheersovereenkomst, op het snijvlak tussen onderwijs en arbeidsmarkt Leerlingen in technische en beroepsgerichte opleidingen in het secundair onderwijs leren werken met de moderne apparatuur die zij op de arbeidsmarkt ook zullen bedienen. De RTC’s ondersteunen scholen hierin via samenwerking met arbeidsmarktactoren.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>Decreet van 14/12/2007 houdende de organisatie en werking van de regionale technologische centra</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 14/12/2007 houdende de organisatie en werking van de regionale technologische centra</p>",
+        "nl": "<p>Decreet van 14/12/2007 houdende de organisatie en werking van de regionale technologische centra</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:42.470638444Z",
+      "laatstGewijzigd": "2023-08-10T14:00:31.847883581Z",
+      "laatstOntvangen": "2023-08-10T14:00:31.847885103Z",
+      "productnummer": "2210",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/957904db-ec0f-4dd5-8b35-1eebe19ec34e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/caffe91c-9c3d-4353-ae7e-692bcf140636"
+    },
+    {
+      "id": "373c91ad-0fdf-4f6f-ab95-2d6e68006cc4",
+      "generatedAtTime": "2023-08-10T14:00:31.717446Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan de vzw Epos",
+        "nl-BE-x-generated-formal": "Subsidies aan de vzw Epos",
+        "nl-BE-x-generated-informal": "Subsidies aan de vzw Epos"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>De vzw Epos is het Nationale Agentschap dat instaat voor de uitvoering van het Europees programma Erasmus+ in Vlaanderen, meer in het bijzonder voor het luik dat betrekking heeft op onderwijs, opleiding en vorming. Erasmus+ programma voorziet in 3 kernacties (KA):</p><ul><li>KA1 individuele leermobiliteiten</li><li>KA2 samenwerking tussen organisaties en instellingen</li><li>KA3 ondersteuning van beleidsontwikkeling en samenwerking.</li></ul>",
+        "nl": "<p>De vzw Epos is het Nationale Agentschap dat instaat voor de uitvoering van het Europees programma Erasmus+ in Vlaanderen, meer in het bijzonder voor het luik dat betrekking heeft op onderwijs, opleiding en vorming. Erasmus+ programma voorziet in 3 kernacties (KA):</p><ul><li>KA1 individuele leermobiliteiten</li><li>KA2 samenwerking tussen organisaties en instellingen</li><li>KA3 ondersteuning van beleidsontwikkeling en samenwerking.</li></ul>",
+        "nl-BE-x-generated-informal": "<p>De vzw Epos is het Nationale Agentschap dat instaat voor de uitvoering van het Europees programma Erasmus+ in Vlaanderen, meer in het bijzonder voor het luik dat betrekking heeft op onderwijs, opleiding en vorming. Erasmus+ programma voorziet in 3 kernacties (KA):</p><ul><li>KA1 individuele leermobiliteiten</li><li>KA2 samenwerking tussen organisaties en instellingen</li><li>KA3 ondersteuning van beleidsontwikkeling en samenwerking.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet van 16 mei 2007 betreffende dringende maatregelen voor het onderwijs, hoofdstuk V</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet van 16 mei 2007 betreffende dringende maatregelen voor het onderwijs, hoofdstuk V</p>",
+        "nl": "<p>Decreet van 16 mei 2007 betreffende dringende maatregelen voor het onderwijs, hoofdstuk V</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:42.313365077Z",
+      "laatstGewijzigd": "2023-08-10T14:00:31.515870252Z",
+      "laatstOntvangen": "2023-08-10T14:00:31.515871672Z",
+      "productnummer": "2209",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/373c91ad-0fdf-4f6f-ab95-2d6e68006cc4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e7e67e6b-1fdb-42a9-ae81-cbac59b3c856"
+    },
+    {
+      "id": "65bd9e1e-5b8b-4195-aed3-4ba39bd21895",
+      "generatedAtTime": "2023-08-10T14:00:31.348043Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies voor mobiliteitsbeurzen",
+        "nl": "Subsidies voor mobiliteitsbeurzen",
+        "nl-BE-x-generated-formal": "Subsidies voor mobiliteitsbeurzen"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Opzetten en beheren van acties die in het kader van het actieplan mobiliteit \"Brains on the Move\" worden uitgevoerd. Deze acties betreffen voornamelijk beurzenprogramma's voor studentenmobiliteit.</p>",
+        "nl-BE-x-generated-formal": "<p>Opzetten en beheren van acties die in het kader van het actieplan mobiliteit \"Brains on the Move\" worden uitgevoerd. Deze acties betreffen voornamelijk beurzenprogramma's voor studentenmobiliteit.</p>",
+        "nl": "<p>Opzetten en beheren van acties die in het kader van het actieplan mobiliteit \"Brains on the Move\" worden uitgevoerd. Deze acties betreffen voornamelijk beurzenprogramma's voor studentenmobiliteit.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.II.352 en 353</p><p>BVR van 23/10/2015 houdende vaststelling van de hoogte van de mobiliteitstoelage voor studenten of cursisten die een periode in het buitenland doorbrengen in het kader van hun opleiding.</p>",
+        "nl-BE-x-generated-formal": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.II.352 en 353</p><p>BVR van 23/10/2015 houdende vaststelling van de hoogte van de mobiliteitstoelage voor studenten of cursisten die een periode in het buitenland doorbrengen in het kader van hun opleiding.</p>",
+        "nl": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), art.II.352 en 353</p><p>BVR van 23/10/2015 houdende vaststelling van de hoogte van de mobiliteitstoelage voor studenten of cursisten die een periode in het buitenland doorbrengen in het kader van hun opleiding.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:42.192712041Z",
+      "laatstGewijzigd": "2023-08-10T14:00:31.250255544Z",
+      "laatstOntvangen": "2023-08-10T14:00:31.25025649Z",
+      "productnummer": "2208",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/65bd9e1e-5b8b-4195-aed3-4ba39bd21895",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/71ea5f2e-dd69-425f-9c84-1d84ccdd9a44"
+    },
+    {
+      "id": "95bfa938-d986-4e8c-b8d1-439daf1d5623",
+      "generatedAtTime": "2023-08-10T14:00:31.135846Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies voor prioritaire nascholing",
+        "nl-BE-x-generated-formal": "Subsidies voor prioritaire nascholing",
+        "nl": "Subsidies voor prioritaire nascholing"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>De Vlaamse minister van Onderwijs stelt om de 2 jaar prioritaire thema’s vast om het beleid te ondersteunen. Een oproep nodigt geïnteresseerde organisaties uit om de gekozen thema’s te vertalen in een specifiek nascholingsaanbod voor een specifieke doelgroep (afhankelijk van het thema). De minister maakt dan een selectie van kwaliteitsvolle projecten.</p>",
+        "nl": "<p>De Vlaamse minister van Onderwijs stelt om de 2 jaar prioritaire thema’s vast om het beleid te ondersteunen. Een oproep nodigt geïnteresseerde organisaties uit om de gekozen thema’s te vertalen in een specifiek nascholingsaanbod voor een specifieke doelgroep (afhankelijk van het thema). De minister maakt dan een selectie van kwaliteitsvolle projecten.</p>",
+        "nl-BE-x-generated-informal": "<p>De Vlaamse minister van Onderwijs stelt om de 2 jaar prioritaire thema’s vast om het beleid te ondersteunen. Een oproep nodigt geïnteresseerde organisaties uit om de gekozen thema’s te vertalen in een specifiek nascholingsaanbod voor een specifieke doelgroep (afhankelijk van het thema). De minister maakt dan een selectie van kwaliteitsvolle projecten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>Decreet van 8/05/2009 betreffende de kwaliteit van onderwijs, art.12<br/>BVR van 8/06/2012 tot regeling van de procedure voor toekenning van projectsubsidies mbt de uitvoering van nascholingsinitiatieven</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 8/05/2009 betreffende de kwaliteit van onderwijs, art.12<br/>BVR van 8/06/2012 tot regeling van de procedure voor toekenning van projectsubsidies mbt de uitvoering van nascholingsinitiatieven</p>",
+        "nl": "<p>Decreet van 8/05/2009 betreffende de kwaliteit van onderwijs, art.12<br />BVR van 8/06/2012 tot regeling van de procedure voor toekenning van projectsubsidies mbt de uitvoering van nascholingsinitiatieven</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:41.999410374Z",
+      "laatstGewijzigd": "2023-08-10T14:00:31.036741245Z",
+      "laatstOntvangen": "2023-08-10T14:00:31.036742625Z",
+      "productnummer": "2207",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/95bfa938-d986-4e8c-b8d1-439daf1d5623",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4d36e7f4-245a-4913-b9ef-4554ce34f0d8"
+    },
+    {
+      "id": "16c895d8-bb83-403a-a5be-b28a2308bd75",
+      "generatedAtTime": "2023-08-10T14:00:30.892354Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor pilootprojecten leerlingenvervoer",
+        "nl-BE-x-generated-informal": "Subsidies voor pilootprojecten leerlingenvervoer",
+        "nl-BE-x-generated-formal": "Subsidies voor pilootprojecten leerlingenvervoer"
+      },
+      "beschrijving": {
+        "nl": "<p>De subsidies voor het pilootproject leerlingenvervoer worden aangewend om het verouderde systeem van leerlingenvervoer in het buitengewoon onderwijs aan te passen aan de nieuwe noden en uitdagingen, om zo tot een eenduidig, efficiënt en transparant systeem te komen.</p>",
+        "nl-BE-x-generated-formal": "<p>De subsidies voor het pilootproject leerlingenvervoer worden aangewend om het verouderde systeem van leerlingenvervoer in het buitengewoon onderwijs aan te passen aan de nieuwe noden en uitdagingen, om zo tot een eenduidig, efficiënt en transparant systeem te komen.</p>",
+        "nl-BE-x-generated-informal": "<p>De subsidies voor het pilootproject leerlingenvervoer worden aangewend om het verouderde systeem van leerlingenvervoer in het buitengewoon onderwijs aan te passen aan de nieuwe noden en uitdagingen, om zo tot een eenduidig, efficiënt en transparant systeem te komen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>BVR van 25/01/2019 betreffende het tijdelijk project ‘Leerlingenvervoer buitengewoon onderwijs’ en bijhorend decreet van 5/04/2019 ter bekrachtiging</p>",
+        "nl-BE-x-generated-informal": "<p>BVR van 25/01/2019 betreffende het tijdelijk project ‘Leerlingenvervoer buitengewoon onderwijs’ en bijhorend decreet van 5/04/2019 ter bekrachtiging</p>",
+        "nl": "<p>BVR van 25/01/2019 betreffende het tijdelijk project ‘Leerlingenvervoer buitengewoon onderwijs’ en bijhorend decreet van 5/04/2019 ter bekrachtiging</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:41.828177736Z",
+      "laatstGewijzigd": "2023-08-10T14:00:30.802871366Z",
+      "laatstOntvangen": "2023-08-10T14:00:30.802872275Z",
+      "productnummer": "2206",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FG",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/16c895d8-bb83-403a-a5be-b28a2308bd75",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a99e496e-491d-4d82-8be8-3a14cdffa8e6"
+    },
+    {
+      "id": "0edcb26a-7e9d-4ee1-a7e6-72de71f04224",
+      "generatedAtTime": "2023-08-10T14:00:30.682955Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies aan hogere instituten en andere instellingen voor Schone Kunsten",
+        "nl-BE-x-generated-formal": "Subsidies aan hogere instituten en andere instellingen voor Schone Kunsten",
+        "nl": "Subsidies aan hogere instituten en andere instellingen voor Schone Kunsten"
+      },
+      "beschrijving": {
+        "nl": "<p>De Hogere Instituten voor Schone Kunsten en andere instellingen voor Schone Kunsten organiseren posthogeschoolvormingen inzake de opleidingen van de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. De posthogeschoolvorming wordt bekrachtigd met de titel van 'Laureaat van het Hoger Instituut voor Schone Kunsten'. Deze laureaatsvorming heeft tot doel aan afgestudeerden uit de betrokken sectoren en aan jonge kunstenaars de mogelijkheid te bieden hun artistiek talent verder te ontplooien.</p><p>PARTS biedt daarnaast ook een Bachelor in Dance en een Master in Dance aan.</p>",
+        "nl-BE-x-generated-formal": "<p>De Hogere Instituten voor Schone Kunsten en andere instellingen voor Schone Kunsten organiseren posthogeschoolvormingen inzake de opleidingen van de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. De posthogeschoolvorming wordt bekrachtigd met de titel van 'Laureaat van het Hoger Instituut voor Schone Kunsten'. Deze laureaatsvorming heeft tot doel aan afgestudeerden uit de betrokken sectoren en aan jonge kunstenaars de mogelijkheid te bieden hun artistiek talent verder te ontplooien.</p><p>PARTS biedt daarnaast ook een Bachelor in Dance en een Master in Dance aan.</p>",
+        "nl-BE-x-generated-informal": "<p>De Hogere Instituten voor Schone Kunsten en andere instellingen voor Schone Kunsten organiseren posthogeschoolvormingen inzake de opleidingen van de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. De posthogeschoolvorming wordt bekrachtigd met de titel van 'Laureaat van het Hoger Instituut voor Schone Kunsten'. Deze laureaatsvorming heeft tot doel aan afgestudeerden uit de betrokken sectoren en aan jonge kunstenaars de mogelijkheid te bieden hun artistiek talent verder te ontplooien.</p><p>PARTS biedt daarnaast ook een Bachelor in Dance en een Master in Dance aan.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.119</p>",
+        "nl": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.119</p>",
+        "nl-BE-x-generated-informal": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.119</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:41.490714145Z",
+      "laatstGewijzigd": "2023-08-10T14:00:30.574630486Z",
+      "laatstOntvangen": "2023-08-10T14:00:30.574631511Z",
+      "productnummer": "2205",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FE",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0edcb26a-7e9d-4ee1-a7e6-72de71f04224",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ae478b21-494b-4df8-a953-6e510533b338"
+    },
+    {
+      "id": "2371ee06-6726-4ce0-a7a5-ff9740c9770e",
+      "generatedAtTime": "2023-08-10T14:00:30.464084Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor Antwerp Management School (AMS) en Vlerick Business School",
+        "nl-BE-x-generated-informal": "Subsidies voor Antwerp Management School (AMS) en Vlerick Business School",
+        "nl-BE-x-generated-formal": "Subsidies voor Antwerp Management School (AMS) en Vlerick Business School"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Vlaanderen ondersteunt de werking van de Vlerick Business School en de Antwerp Management School (AMS), zodat zij opleidingen met een sterk academische onderbouw, gecombineerd met de recentste inzichten uit de<br/>dagelijkse praktijk, kunnen opzetten.</p><p>De post-initiële instellingen krijgen een niet-gereglementeerde subsidie voor wetenschappelijk onderzoek naast een subsidie voor onderwijs. De overeenkomsten (convenanten, beheersovereenkomsten) van die instellingen met enerzijds het Departement OV en anderzijds het Departement EWI werden/worden op elkaar afgestemd in het kader van de administratieve vereenvoudiging en betere financiële opvolging.</p>",
+        "nl-BE-x-generated-informal": "<p>Vlaanderen ondersteunt de werking van de Vlerick Business School en de Antwerp Management School (AMS), zodat zij opleidingen met een sterk academische onderbouw, gecombineerd met de recentste inzichten uit de<br/>dagelijkse praktijk, kunnen opzetten.</p><p>De post-initiële instellingen krijgen een niet-gereglementeerde subsidie voor wetenschappelijk onderzoek naast een subsidie voor onderwijs. De overeenkomsten (convenanten, beheersovereenkomsten) van die instellingen met enerzijds het Departement OV en anderzijds het Departement EWI werden/worden op elkaar afgestemd in het kader van de administratieve vereenvoudiging en betere financiële opvolging.</p>",
+        "nl": "<p>Vlaanderen ondersteunt de werking van de Vlerick Business School en de Antwerp Management School (AMS), zodat zij opleidingen met een sterk academische onderbouw, gecombineerd met de recentste inzichten uit de<br />dagelijkse praktijk, kunnen opzetten.</p><p>De post-initiële instellingen krijgen een niet-gereglementeerde subsidie voor wetenschappelijk onderzoek naast een subsidie voor onderwijs. De overeenkomsten (convenanten, beheersovereenkomsten) van die instellingen met enerzijds het Departement OV en anderzijds het Departement EWI werden/worden op elkaar afgestemd in het kader van de administratieve vereenvoudiging en betere financiële opvolging.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000038",
+          "@id": "OVO000038"
+        }
+      ],
+      "creatie": "2023-05-04T14:25:11.630990354Z",
+      "laatstGewijzigd": "2023-08-10T14:00:30.324439012Z",
+      "laatstOntvangen": "2023-08-10T14:00:30.324440732Z",
+      "productnummer": "2439",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "EK",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "verwanteProducten": [
+        {
+          "id": "5ffa149e-7ca4-4d3b-8f03-5066e6e7a11c",
+          "productnummer": "2204",
+          "type": "INSTANTIE",
+          "order": 0
+        }
+      ],
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2371ee06-6726-4ce0-a7a5-ff9740c9770e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b58d466a-4820-4f95-8695-7648842a4037"
+    },
+    {
+      "id": "d513ff37-e9ea-4b4d-a91d-bdd383284eb1",
+      "generatedAtTime": "2023-08-10T14:00:30.157002Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies aan instellingen voor postinitieel onderwijs",
+        "nl": "Subsidies aan instellingen voor postinitieel onderwijs",
+        "nl-BE-x-generated-informal": "Subsidies aan instellingen voor postinitieel onderwijs"
+      },
+      "beschrijving": {
+        "nl": "<p>Uitvoeren van 3 kernopdrachten:</p><ol><li>verschaffen van postinitieel onderwijs,</li><li>verrichten van wetenschappelijk onderzoek</li><li>verstrekken van wetenschappelijke dienstverlening op het gebied van managementwetenschappen, met inbegrip van de voorbereiding van doctoraatsproefschriften met het oog op het behalen van de academische graad van doctor aan een Vlaamse of buitenlandse universiteit.</li></ol>",
+        "nl-BE-x-generated-informal": "<p>Uitvoeren van 3 kernopdrachten:</p><ol><li>verschaffen van postinitieel onderwijs,</li><li>verrichten van wetenschappelijk onderzoek</li><li>verstrekken van wetenschappelijke dienstverlening op het gebied van managementwetenschappen, met inbegrip van de voorbereiding van doctoraatsproefschriften met het oog op het behalen van de academische graad van doctor aan een Vlaamse of buitenlandse universiteit.</li></ol>",
+        "nl-BE-x-generated-formal": "<p>Uitvoeren van 3 kernopdrachten:</p><ol><li>verschaffen van postinitieel onderwijs,</li><li>verrichten van wetenschappelijk onderzoek</li><li>verstrekken van wetenschappelijke dienstverlening op het gebied van managementwetenschappen, met inbegrip van de voorbereiding van doctoraatsproefschriften met het oog op het behalen van de academische graad van doctor aan een Vlaamse of buitenlandse universiteit.</li></ol>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.115 tem 118</p>",
+        "nl-BE-x-generated-informal": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.115 tem 118</p>",
+        "nl-BE-x-generated-formal": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.115 tem 118</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:41.358863412Z",
+      "laatstGewijzigd": "2023-08-10T14:00:30.059184173Z",
+      "laatstOntvangen": "2023-08-10T14:00:30.059185161Z",
+      "productnummer": "2204",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FE",
+      "metadata": {
+        "uJeVersie": "31.5.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "deminimis": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d513ff37-e9ea-4b4d-a91d-bdd383284eb1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5ffa149e-7ca4-4d3b-8f03-5066e6e7a11c"
+    }
+  ]
+}

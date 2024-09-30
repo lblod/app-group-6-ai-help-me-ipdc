@@ -1,1 +1,1280 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=99","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=100","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-04T14:15:28.090869Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=98","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-04T14:15:24.293788Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=99","@type":"EventStream","member":[{"id":"93133ccb-0e90-4409-8f9e-1ec886f2d68b","generatedAtTime":"2023-05-04T14:15:28.090869Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor het Vlaams bijenteeltprogramma"},"beschrijving":{"nl":"<p>Het driejarig Vlaamse Bijenteeltprogramma (VBP) focust op twee luiken: opleiding van imkers (met bijzondere focus op startende imkers) en bijengezondheid. Het programma wordt uitgevoerd door de onafhankelijke vzw Bijenteeltprogramma, dat gecontroleerd wordt door de Europese Unie en de Vlaamse overheid. De imkerfederaties zetelen in het Toezichtscomité. De Vlaamse overheid steunt dit financieel. </p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022</p>"},"zoektermen":{"nl":["Praktijkcentrum bijen"]},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Vlaams bijenteeltprogramma (Departement Landbouw en Visserij)"},"url":"https://lv.vlaanderen.be/nl/dier/paarden-ezels-insecten-honden/bijen/vlaams-bijenteeltprogramma","@type":"Website","order":0},{"naam":{"nl":"Praktijkcentrum bijen"},"url":"https://lv.vlaanderen.be/nl/dier/paarden-ezels-bijen-honden/praktijkcentrum-bijen","@type":"Website","order":1}],"creatie":"2023-05-04T14:15:28.07364468Z","laatstGewijzigd":"2023-05-04T14:15:28.073646086Z","laatstOntvangen":"2023-05-04T14:15:28.073646086Z","productnummer":"2115","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/93133ccb-0e90-4409-8f9e-1ec886f2d68b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/56f8c577-1a5a-4107-b354-8b6b0b66e9e8"},{"id":"4c5ccce2-4ead-4d37-a4c8-8b6eef3664a9","generatedAtTime":"2023-05-04T14:15:27.964439Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor landbouwvormingsactiviteiten"},"beschrijving":{"nl":"<p>Het is belangrijk om altijd te blijven leren. Nieuwe inzichten opdoen of kennis opfrissen hoort bij een goed ondernemerschap. Dat is ook zo in de land- en tuinbouwsector. Vormingsinstellingen en opleidingscentra kunnen hun programma en aanpak laten goedkeuren. Die lessen en vormingen kunnen ze dan aanbieden aan landbouwers en andere geïnteresseerden. De overheid komt hier dan voor een deel in tussen (GLB). </p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Vormingsaanbod (Departement Landbouw en Visserij)"},"url":"https://lv.vlaanderen.be/nl/voorlichting-info/voorlichting/vormingsaanbod","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:27.947466821Z","laatstGewijzigd":"2023-05-04T14:15:27.947467847Z","laatstOntvangen":"2023-05-04T14:15:27.947467847Z","productnummer":"2117","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4c5ccce2-4ead-4d37-a4c8-8b6eef3664a9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a91ac444-ef4a-441a-82a8-09503361e93d"},{"id":"2316b527-f884-47d7-b1cf-e94dffad6aa0","generatedAtTime":"2023-05-04T14:15:27.8479Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkingssubsidie voor VLAM (Vlaams Centrum voor Agro- en Visserijmarketing)"},"beschrijving":{"nl":"<p>Het <a href=\"https://lv.vlaanderen.be/nl/home/over-ons/vlaams-centrum-voor-agro-en-visserijmarketing-vlam\">Vlaams Centrum voor Agro- en Visserijmarketing (VLAM)</a> is een vzw binnen het beleidsdomein Landbouw en Visserij die de afzet, de toegevoegde waarde, de consumptie en het imago van producten en diensten van de Vlaamse landbouw, tuinbouw, visserij en de agroalimentaire sector bevordert in binnen- en buitenland.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Vlaams centrum voor agro-en visserijmarketing vlam (Departement Landbouw en Visserij)"},"url":"https://lv.vlaanderen.be/nl/home/over-ons/vlaams-centrum-voor-agro-en-visserijmarketing-vlam","@type":"Website","order":0},{"naam":{"nl":"Vlaams Centrum voor Agro- en Visserijmarketing (VLAM)"},"url":"https://www.vlam.be","@type":"Website","order":1}],"creatie":"2023-05-04T14:15:27.828685086Z","laatstGewijzigd":"2023-05-04T14:15:27.828686225Z","laatstOntvangen":"2023-05-04T14:15:27.828686225Z","productnummer":"2112","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2316b527-f884-47d7-b1cf-e94dffad6aa0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ba3cb72b-277e-4334-b73a-1f4f4a4b76b8"},{"id":"101e8da9-1932-4ccb-8dc9-5e64b9875ec3","generatedAtTime":"2023-05-04T14:15:27.715433Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies visserijprojecten"},"beschrijving":{"nl":"<p>Het financieringsinstrument voor de Vlaamse Visserij- en aquacultuursector (FIVA) voorziet in start- en investeringssteun voor reders en aquacultuurproducenten, net als het Vlaams Landbouwinvesteringsfonds (VLIF) dat doet voor de land- en tuinbouw in Vlaanderen. Het FIVA regelt ook steun voor verwante activiteiten zoals het onderzoek in visserij en aquacultuur, visveilingen, visverwerking en commercialisatie van vis. De overheid komt hier financieel in tussen (EFMZVA).</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 13 mei 1997 houdende oprichting van een financieringsinstrument voor de Vlaamse visserij- en aquacultuursector<br />het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Subsidies visserijprojecten (Departement Landbouw en Visserij)"},"url":"https://lv.vlaanderen.be/nl/visserij/subsidies-visserij","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:27.698620166Z","laatstGewijzigd":"2023-05-04T14:15:27.698621255Z","laatstOntvangen":"2023-05-04T14:15:27.698621255Z","productnummer":"2111","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/101e8da9-1932-4ccb-8dc9-5e64b9875ec3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/04fd77f9-46dc-45a1-b025-c504af37b861"},{"id":"e43707fb-5976-4ecd-80d7-c64115be86bc","generatedAtTime":"2023-05-04T14:15:27.60568Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"VLIF-waarborgregeling bij uitzonderlijke gebeurtenissen"},"beschrijving":{"nl":"<p>Bij uitzonderlijke gebeurtenissen kan de Vlaamse overheid extra waarborgregelingen mogelijk maken. Dit gebeurt enkel op oproep.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 22 december 1993 houdende bepaling tot begeleiding van de begroting 1994, artikel 12<br />het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"VLIF-waarborgregeling bij uitzonderlijke gebeurtenissen"},"url":"https://lv.vlaanderen.be/nl/subsidies/vlif-steun/vlif-waarborgregeling-bij-uitzonderlijke-gebeurtenissen","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:27.58903731Z","laatstGewijzigd":"2023-05-04T14:15:27.589038093Z","laatstOntvangen":"2023-05-04T14:15:27.589038093Z","productnummer":"2110","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e43707fb-5976-4ecd-80d7-c64115be86bc","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/487bca86-ba21-4952-9311-0649171619e1"},{"id":"cf85d8bb-4dd4-40ec-83db-16259c2f80f7","generatedAtTime":"2023-05-04T14:15:27.494073Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"VLIF-waarborgregeling"},"beschrijving":{"nl":"<p>Via de VLIF-waarborg wil de Vlaamse overheid de toegang tot krediet voor de land- en tuinbouwer, makkelijker maken. De kredieten die in aanmerking komen voor waarborg moeten bij een door het VLIF erkende kredietinstelling aangegaan worden. Daarnaast waarborgt het VLIF het kredietgedeelte dat wordt aangegaan om door het VLIF subsidiabele investeringen uit te voeren.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 22 december 1993 houdende bepaling tot begeleiding van de begroting 1994, artikel 12<br />het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"VLIF-waarborgregeling (Departement Landbouw en Visserij)"},"url":"https://lv.vlaanderen.be/nl/subsidies/vlif-steun/vlif-waarborgregeling","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:27.47722543Z","laatstGewijzigd":"2023-05-04T14:15:27.477226185Z","laatstOntvangen":"2023-05-04T14:15:27.477226185Z","productnummer":"2109","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cf85d8bb-4dd4-40ec-83db-16259c2f80f7","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/332d4103-1391-4b46-bfaf-74a16dc2aa3e"},{"id":"6ce6af7d-b06b-4be4-a249-e4735972bdc6","generatedAtTime":"2023-05-04T14:15:27.350503Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"VLIF-steun voor investeringen in de omkaderingssector"},"beschrijving":{"nl":"<p>Voor iedere Vlaamse land- en tuinbouwer is de ondersteuning van een innovatief en goed uitgerust praktijkcentrum en proefcentrum van groot belang. De omkaderingssector biedt immers antwoorden op de actuele uitdagingen inzake productiemethodes, waarmee de land- en tuinbouwsector geconfronteerd wordt. Dit gebeurt door het onderzoek toe te spitsen op de nieuwe evoluties. De Vlaamse overheid organiseert hier regelmatig oproepen en steunt financieel (GLB).</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Investeringssteun aan de omkaderingssector voor land- en tuinbouw"},"url":"https://lv.vlaanderen.be/nl/subsidies/vlif-steun/investeringen-omkaderingssector","@type":"Website","order":0},{"naam":{"nl":"E-loket Landbouw en Visserij"},"url":"https://www.landbouwvlaanderen.be","@type":"Website","order":1}],"creatie":"2023-05-04T14:15:27.333951373Z","laatstGewijzigd":"2023-05-04T14:15:27.333952051Z","laatstOntvangen":"2023-05-04T14:15:27.333952051Z","productnummer":"2108","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6ce6af7d-b06b-4be4-a249-e4735972bdc6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f7bd1d7b-26e8-43c7-9b57-b4e6e07f38cb"},{"id":"0ee922cc-b87c-49ad-9da5-8393ca8c206f","generatedAtTime":"2023-05-04T14:15:27.214716Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsteun voor innovaties in de landbouw"},"beschrijving":{"nl":"<p>De Vlaamse overheid steunt innovaties in de landbouw (GLB). Zo blijven de landbouw- en tuinbouwsector evolueren. Deze VLIF-maatregel stimuleert pure innovatie en vernieuwing op land- en tuinbouwbedrijven en vormt een aanvulling op de reguliere VLIF-investeringssteun.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid<br />het decreet van 22 december 1993 houdende bepaling tot begeleiding van de begroting 1994, artikel 12</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Projectsteun voor innovaties in de landbouw (Departement Landbouw en Visserij)"},"url":"https://lv.vlaanderen.be/nl/subsidies/vlif-steun/projectsteun-voor-innovaties-de-landbouw-0","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:27.198044236Z","laatstGewijzigd":"2023-05-04T14:15:27.198044923Z","laatstOntvangen":"2023-05-04T14:15:27.198044923Z","productnummer":"2107","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0ee922cc-b87c-49ad-9da5-8393ca8c206f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bd4acd96-a7f6-4d25-a263-0f9d22560de1"},{"id":"829eaf2c-daee-4707-95fd-2c85044d4158","generatedAtTime":"2023-05-04T14:15:27.04918Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor de stimulering van de biologische landbouw"},"beschrijving":{"nl":"<p>De Vlaamse overheid steunt de biologische landbouw in Vlaanderen (GLB). Hierbij worden ook startende bio-landbouwers en de overschakeling gesteund. De werking van Bioforum wordt ook mee ondersteund.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022</p>"},"zoektermen":{"nl":["Bio zoekt boer","bioforum"]},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Subsidie ikv stimulering biologische landbouw (inclusief werking bioforum)"},"url":"https://lv.vlaanderen.be/nl/beleid/landbouwbeleid-eu/steunmelding/subsidiering-biologische-landbouw/subsidiering-biologische-0","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:45.139931305Z","laatstGewijzigd":"2023-05-04T14:15:27.03317851Z","laatstOntvangen":"2023-05-04T14:15:27.03317851Z","productnummer":"2106","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/829eaf2c-daee-4707-95fd-2c85044d4158","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/89e7228c-0795-4402-82b5-45ad338bc698"},{"id":"5115837f-add6-4850-9347-33e5b2e2afc2","generatedAtTime":"2023-05-04T14:15:26.909717Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie ikv landbouweducatie"},"beschrijving":{"nl":"<p>Land- en tuinbouwers en vissers zorgen voor de productie van kwaliteitsvol voedsel. Om dit te blijven waarderen, is kennis en landbouweducatie van zowel kinderen als volwassenen zeer belangrijk. De Vlaamse overheid steunt dit op verschillende vlakken. Ook de provincies hebben een eigen werking rond landbouweducatie uitgebouwd.</p><p>Ben je als leerkracht op zoek naar ondersteuning bij je lessen? Misschien vind je via onderwijs.limburg.be interessante initiatieven om je daarbij te helpen.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Subsidies voor landbouw en visserij"},"url":"https://lv.vlaanderen.be/nl/subsidies","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:26.893235228Z","laatstGewijzigd":"2023-05-04T14:15:26.893236008Z","laatstOntvangen":"2023-05-04T14:15:26.893236008Z","productnummer":"2105","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5115837f-add6-4850-9347-33e5b2e2afc2","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/da8fdcc4-7f13-44f1-8087-c18d10d3dbeb"},{"id":"5a9e4855-1bb7-4906-93c0-eab5194365ca","generatedAtTime":"2023-05-04T14:15:26.79897Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor bedrijfsadvisering biologische landbouw"},"beschrijving":{"nl":"<p>Als land- en tuinbouwer kan je advies aanvragen bij adviesbureaus die zijn goedgekeurd door de Vlaamse overheid. Hier zijn verschillende adviezen en thema's mogelijk. De overheid draagt hier financieel bij (GLB).</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Subsidie voor bedrijfsadvisering biologische landbouw (Departement Landbouw en Visserij)"},"url":"https://lv.vlaanderen.be/nl/bio/subsidies/bedrijfsadvisering","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:26.782253579Z","laatstGewijzigd":"2023-05-04T14:15:26.782254483Z","laatstOntvangen":"2023-05-04T14:15:26.782254483Z","productnummer":"2104","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5a9e4855-1bb7-4906-93c0-eab5194365ca","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f282a056-1ffb-422e-84b0-ab1a0ed7e408"},{"id":"53e14901-31dd-4324-87a0-17da0c7d5e34","generatedAtTime":"2023-05-04T14:15:26.661134Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor oprichting producentenorganisaties"},"beschrijving":{"nl":"<p>Verenigd sta je sterker. Dat is het uitgangspunt voor de ondersteuning van de oprichting van producentenorganisaties (PO) in land- en tuinbouw en visserij. De overheid steunt deze oprichting (GLB, EFMZVA),</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Opstartsteun voor producentenorganisaties (Departement Landbouw en Visserij)"},"url":"https://lv.vlaanderen.be/nl/landbouwbeleid/samenwerking-de-keten#Steun","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:44.951426947Z","laatstGewijzigd":"2023-05-04T14:15:26.645150724Z","laatstOntvangen":"2023-05-04T14:15:26.645150724Z","productnummer":"2103","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/53e14901-31dd-4324-87a0-17da0c7d5e34","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dd6142c6-4fbb-4c36-ab68-d00ac38da865"},{"id":"adc0d307-4599-4c92-a9c7-bed677eaed8f","generatedAtTime":"2023-05-04T14:15:26.524871Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor EIP-Operationele Groepen"},"beschrijving":{"nl":"<p>Het is niet altijd eenvoudig om van onderzoek naar praktijk in land- en tuinbouw over te gaan. Een Operationele Groep vormt hier een partnerschap rond innovatie. Zo stromen nieuwe inzichten en innovaties sneller door naar de praktijk. De overheid komt hier financieel tussen (GLB).</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Europees partnerschap voor innovatie eip-operationele groepen (Departement Landbouw en Visserij)"},"url":"https://lv.vlaanderen.be/nl/voorlichting-info/voorlichting/europees-partnerschap-voor-innovatie-eip-operationele-groepen","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:26.508067054Z","laatstGewijzigd":"2023-05-04T14:15:26.50806845Z","laatstOntvangen":"2023-05-04T14:15:26.50806845Z","productnummer":"2102","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/adc0d307-4599-4c92-a9c7-bed677eaed8f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/00097725-383d-46b5-b316-0df3bf937cd6"},{"id":"403c9822-7150-4d2b-bac1-3ef49b464bf6","generatedAtTime":"2023-05-04T14:15:26.374842Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor demonstratieprojecten"},"beschrijving":{"nl":"<p>Naast lesgeven in leslokalen is het belangrijk om land- en tuinbouw in de praktijk te zien evolueren. Land- en tuinbouwers kunnen nieuwe inzichten opdoen bij de verschillende demonstratieprojecten. Op regelmatige basis organiseert het Departement Landbouw en Visserij hier oproepen voor. De overheid komt hier financieel tussen (GLB).</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Overzicht demonstratieprojecten (Departement Landbouw en Visserij)"},"url":"https://lv.vlaanderen.be/nl/voorlichting-info/voorlichting/overzicht-demonstratieprojecten","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:26.357620324Z","laatstGewijzigd":"2023-05-04T14:15:26.357621461Z","laatstOntvangen":"2023-05-04T14:15:26.357621461Z","productnummer":"2101","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/403c9822-7150-4d2b-bac1-3ef49b464bf6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/59d40819-0877-466d-811a-bb211997fcb5"},{"id":"b51d21da-7481-439e-ba0a-4ef8d19b0eda","generatedAtTime":"2023-05-04T14:15:26.163438Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsubsidies in het kader van de integrale jeugdhulpverlening"},"beschrijving":{"nl":"<p>Projectsubsidies in het kader van de integrale jeugdhulpverlening</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet betreffende de integrale jeugdhulp (12/07/2013)</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:26.146110881Z","laatstGewijzigd":"2023-05-04T14:15:26.146112372Z","laatstOntvangen":"2023-05-04T14:15:26.146112372Z","productnummer":"2100","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b51d21da-7481-439e-ba0a-4ef8d19b0eda","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7fbe8622-1650-4283-9f98-4363f3192dbb"},{"id":"26cb6cf3-ba59-4f20-9165-f032d12580ee","generatedAtTime":"2023-05-04T14:15:25.869231Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies Vlaams intersectoraal akkoord non/social profit"},"beschrijving":{"nl":"<p>Subsidies Vlaams intersectoraal akkoord non/social profit</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.85195943Z","laatstGewijzigd":"2023-05-04T14:15:25.851960586Z","laatstOntvangen":"2023-05-04T14:15:25.851960586Z","productnummer":"2099","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/26cb6cf3-ba59-4f20-9165-f032d12580ee","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/739caa5c-200a-403e-947c-627d3c639dfe"},{"id":"2b41ef59-c96d-4c68-b16d-c6b4007e20ba","generatedAtTime":"2023-05-04T14:15:25.578408Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies in het kader van het lokaal sociaal beleid"},"beschrijving":{"nl":"<p>Subsidies in het kader van het lokaal sociaal beleid</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 9 februari 2018 betreffende het lokaal sociaal beleid</li><li>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 9 februari 2018 betreffende lokaal sociaal beleid</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.56188671Z","laatstGewijzigd":"2023-05-04T14:15:25.561887481Z","laatstOntvangen":"2023-05-04T14:15:25.561887481Z","productnummer":"2097","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2b41ef59-c96d-4c68-b16d-c6b4007e20ba","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5875600e-3b09-4051-a627-ab6ea2560404"},{"id":"2502fc39-f6bc-406d-b537-a62a0816bddf","generatedAtTime":"2023-05-04T14:15:25.462456Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies herstelbemiddeling"},"beschrijving":{"nl":"<p>Subsidies herstelbemiddeling</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, art. 105;</li><li>Besluit van de Vlaamse Regering van 15 februari 2019 houdende de subsidiëring van initiatieven die voorzien in een herstelgericht en constructief hulp- en dienstverleningsaanbod voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, en voor slachtoffers van misdrijven, alsook voor hun onmiddellijke omgeving, dat niet wordt verstrekt ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid, hoofdstuk 2 </li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.445840107Z","laatstGewijzigd":"2023-05-04T14:15:25.44584095Z","laatstOntvangen":"2023-05-04T14:15:25.44584095Z","productnummer":"2096","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2502fc39-f6bc-406d-b537-a62a0816bddf","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/497b08b7-f8de-45be-8d10-7cd98934ecbf"},{"id":"d913d2fb-6934-48d6-9407-62d1188f2d7f","generatedAtTime":"2023-05-04T14:15:25.344058Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan voorzieningen algemeen welzijnswerk"},"beschrijving":{"nl":"<p>Subsidies aan voorzieningen algemeen welzijnswerk</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.327468447Z","laatstGewijzigd":"2023-05-04T14:15:25.327469267Z","laatstOntvangen":"2023-05-04T14:15:25.327469267Z","productnummer":"2095","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d913d2fb-6934-48d6-9407-62d1188f2d7f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/258c8339-970f-4517-b52e-e238610fca65"},{"id":"6f5f2af9-671e-40d2-b18d-582fada42f34","generatedAtTime":"2023-05-04T14:15:25.201394Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan samenwerkingsverbanden schuldhulpverlening"},"beschrijving":{"nl":"<p>Subsidies aan samenwerkingsverbanden schuldhulpverlening</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 5/10/1996);</li><li>Besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 30/05/1997).</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.184749328Z","laatstGewijzigd":"2023-05-04T14:15:25.184750349Z","laatstOntvangen":"2023-05-04T14:15:25.184750349Z","productnummer":"2094","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6f5f2af9-671e-40d2-b18d-582fada42f34","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/47ad7f2b-4cec-4298-8dbb-7443b2c47f63"},{"id":"c50d2e25-b114-490c-b0e2-98b4cbd988e4","generatedAtTime":"2023-05-04T14:15:25.088987Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan centra voor tele-onthaal"},"beschrijving":{"nl":"<p>Subsidies aan centra voor tele-onthaal</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009)</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.071778029Z","laatstGewijzigd":"2023-05-04T14:15:25.071779458Z","laatstOntvangen":"2023-05-04T14:15:25.071779458Z","productnummer":"2093","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c50d2e25-b114-490c-b0e2-98b4cbd988e4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/20aa56aa-b760-4655-be13-ded7503cf651"},{"id":"816e75d7-4ae2-4a0a-9c52-c8864ac6eba0","generatedAtTime":"2023-05-04T14:15:24.892603Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan casemanagers zorg"},"beschrijving":{"nl":"<p>Subsidies aan casemanagers zorg</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li> Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:24.814640654Z","laatstGewijzigd":"2023-05-04T14:15:24.814642669Z","laatstOntvangen":"2023-05-04T14:15:24.814642669Z","productnummer":"2092","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/816e75d7-4ae2-4a0a-9c52-c8864ac6eba0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bdd7b656-a237-4813-9da9-f455a2619576"},{"id":"28894d52-6016-47a0-824c-17db566f134d","generatedAtTime":"2023-05-04T14:15:24.544466Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan begeleiders van arbeidsmatige activiteiten"},"beschrijving":{"nl":"<p>Subsidies aan begeleiders van arbeidsmatige activiteiten</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:24.525913045Z","laatstGewijzigd":"2023-05-04T14:15:24.525914421Z","laatstOntvangen":"2023-05-04T14:15:24.525914421Z","productnummer":"2091","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/28894d52-6016-47a0-824c-17db566f134d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cd601045-7ee2-4249-9e9c-12481888a030"},{"id":"ee936e26-7293-4fdf-be3e-b3894381e0e6","generatedAtTime":"2023-05-04T14:15:24.426969Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Structurele werkingssubsidies welzijnswerk"},"beschrijving":{"nl":"<p>Structurele werkingssubsidies welzijnswerk</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:24.40999116Z","laatstGewijzigd":"2023-05-04T14:15:24.409992263Z","laatstOntvangen":"2023-05-04T14:15:24.409992263Z","productnummer":"2090","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ee936e26-7293-4fdf-be3e-b3894381e0e6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f4c0bc47-117f-4112-b1ec-8b20845ff335"},{"id":"81ea6b30-e1f0-4bd8-96e1-68a5b3bb87a1","generatedAtTime":"2023-05-04T14:15:24.293788Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsubsidies in het kader van het algemeen welzijnswerk"},"beschrijving":{"nl":"<p>Projectsubsidies in het kader van het algemeen welzijnswerk</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013)</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:24.276717729Z","laatstGewijzigd":"2023-05-04T14:15:24.276718803Z","laatstOntvangen":"2023-05-04T14:15:24.276718803Z","productnummer":"2089","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/81ea6b30-e1f0-4bd8-96e1-68a5b3bb87a1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/02337ed1-ea19-4d79-8fb6-8b8ff4e886fb"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=99",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=100",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-04T14:15:28.090869Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=98",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-04T14:15:24.293788Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=99",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "93133ccb-0e90-4409-8f9e-1ec886f2d68b",
+      "generatedAtTime": "2023-05-04T14:15:28.090869Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor het Vlaams bijenteeltprogramma"
+      },
+      "beschrijving": {
+        "nl": "<p>Het driejarig Vlaamse Bijenteeltprogramma (VBP) focust op twee luiken: opleiding van imkers (met bijzondere focus op startende imkers) en bijengezondheid. Het programma wordt uitgevoerd door de onafhankelijke vzw Bijenteeltprogramma, dat gecontroleerd wordt door de Europese Unie en de Vlaamse overheid. De imkerfederaties zetelen in het Toezichtscomité. De Vlaamse overheid steunt dit financieel. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "Praktijkcentrum bijen"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Vlaams bijenteeltprogramma (Departement Landbouw en Visserij)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/dier/paarden-ezels-insecten-honden/bijen/vlaams-bijenteeltprogramma",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "Praktijkcentrum bijen"
+          },
+          "url": "https://lv.vlaanderen.be/nl/dier/paarden-ezels-bijen-honden/praktijkcentrum-bijen",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-05-04T14:15:28.07364468Z",
+      "laatstGewijzigd": "2023-05-04T14:15:28.073646086Z",
+      "laatstOntvangen": "2023-05-04T14:15:28.073646086Z",
+      "productnummer": "2115",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/93133ccb-0e90-4409-8f9e-1ec886f2d68b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/56f8c577-1a5a-4107-b354-8b6b0b66e9e8"
+    },
+    {
+      "id": "4c5ccce2-4ead-4d37-a4c8-8b6eef3664a9",
+      "generatedAtTime": "2023-05-04T14:15:27.964439Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor landbouwvormingsactiviteiten"
+      },
+      "beschrijving": {
+        "nl": "<p>Het is belangrijk om altijd te blijven leren. Nieuwe inzichten opdoen of kennis opfrissen hoort bij een goed ondernemerschap. Dat is ook zo in de land- en tuinbouwsector. Vormingsinstellingen en opleidingscentra kunnen hun programma en aanpak laten goedkeuren. Die lessen en vormingen kunnen ze dan aanbieden aan landbouwers en andere geïnteresseerden. De overheid komt hier dan voor een deel in tussen (GLB). </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Vormingsaanbod (Departement Landbouw en Visserij)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/voorlichting-info/voorlichting/vormingsaanbod",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:27.947466821Z",
+      "laatstGewijzigd": "2023-05-04T14:15:27.947467847Z",
+      "laatstOntvangen": "2023-05-04T14:15:27.947467847Z",
+      "productnummer": "2117",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4c5ccce2-4ead-4d37-a4c8-8b6eef3664a9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a91ac444-ef4a-441a-82a8-09503361e93d"
+    },
+    {
+      "id": "2316b527-f884-47d7-b1cf-e94dffad6aa0",
+      "generatedAtTime": "2023-05-04T14:15:27.8479Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkingssubsidie voor VLAM (Vlaams Centrum voor Agro- en Visserijmarketing)"
+      },
+      "beschrijving": {
+        "nl": "<p>Het <a href=\"https://lv.vlaanderen.be/nl/home/over-ons/vlaams-centrum-voor-agro-en-visserijmarketing-vlam\">Vlaams Centrum voor Agro- en Visserijmarketing (VLAM)</a> is een vzw binnen het beleidsdomein Landbouw en Visserij die de afzet, de toegevoegde waarde, de consumptie en het imago van producten en diensten van de Vlaamse landbouw, tuinbouw, visserij en de agroalimentaire sector bevordert in binnen- en buitenland.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Vlaams centrum voor agro-en visserijmarketing vlam (Departement Landbouw en Visserij)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/home/over-ons/vlaams-centrum-voor-agro-en-visserijmarketing-vlam",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "Vlaams Centrum voor Agro- en Visserijmarketing (VLAM)"
+          },
+          "url": "https://www.vlam.be",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-05-04T14:15:27.828685086Z",
+      "laatstGewijzigd": "2023-05-04T14:15:27.828686225Z",
+      "laatstOntvangen": "2023-05-04T14:15:27.828686225Z",
+      "productnummer": "2112",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2316b527-f884-47d7-b1cf-e94dffad6aa0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ba3cb72b-277e-4334-b73a-1f4f4a4b76b8"
+    },
+    {
+      "id": "101e8da9-1932-4ccb-8dc9-5e64b9875ec3",
+      "generatedAtTime": "2023-05-04T14:15:27.715433Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies visserijprojecten"
+      },
+      "beschrijving": {
+        "nl": "<p>Het financieringsinstrument voor de Vlaamse Visserij- en aquacultuursector (FIVA) voorziet in start- en investeringssteun voor reders en aquacultuurproducenten, net als het Vlaams Landbouwinvesteringsfonds (VLIF) dat doet voor de land- en tuinbouw in Vlaanderen. Het FIVA regelt ook steun voor verwante activiteiten zoals het onderzoek in visserij en aquacultuur, visveilingen, visverwerking en commercialisatie van vis. De overheid komt hier financieel in tussen (EFMZVA).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 13 mei 1997 houdende oprichting van een financieringsinstrument voor de Vlaamse visserij- en aquacultuursector<br />het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidies visserijprojecten (Departement Landbouw en Visserij)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/visserij/subsidies-visserij",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:27.698620166Z",
+      "laatstGewijzigd": "2023-05-04T14:15:27.698621255Z",
+      "laatstOntvangen": "2023-05-04T14:15:27.698621255Z",
+      "productnummer": "2111",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/101e8da9-1932-4ccb-8dc9-5e64b9875ec3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/04fd77f9-46dc-45a1-b025-c504af37b861"
+    },
+    {
+      "id": "e43707fb-5976-4ecd-80d7-c64115be86bc",
+      "generatedAtTime": "2023-05-04T14:15:27.60568Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "VLIF-waarborgregeling bij uitzonderlijke gebeurtenissen"
+      },
+      "beschrijving": {
+        "nl": "<p>Bij uitzonderlijke gebeurtenissen kan de Vlaamse overheid extra waarborgregelingen mogelijk maken. Dit gebeurt enkel op oproep.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 22 december 1993 houdende bepaling tot begeleiding van de begroting 1994, artikel 12<br />het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "VLIF-waarborgregeling bij uitzonderlijke gebeurtenissen"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies/vlif-steun/vlif-waarborgregeling-bij-uitzonderlijke-gebeurtenissen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:27.58903731Z",
+      "laatstGewijzigd": "2023-05-04T14:15:27.589038093Z",
+      "laatstOntvangen": "2023-05-04T14:15:27.589038093Z",
+      "productnummer": "2110",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e43707fb-5976-4ecd-80d7-c64115be86bc",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/487bca86-ba21-4952-9311-0649171619e1"
+    },
+    {
+      "id": "cf85d8bb-4dd4-40ec-83db-16259c2f80f7",
+      "generatedAtTime": "2023-05-04T14:15:27.494073Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "VLIF-waarborgregeling"
+      },
+      "beschrijving": {
+        "nl": "<p>Via de VLIF-waarborg wil de Vlaamse overheid de toegang tot krediet voor de land- en tuinbouwer, makkelijker maken. De kredieten die in aanmerking komen voor waarborg moeten bij een door het VLIF erkende kredietinstelling aangegaan worden. Daarnaast waarborgt het VLIF het kredietgedeelte dat wordt aangegaan om door het VLIF subsidiabele investeringen uit te voeren.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 22 december 1993 houdende bepaling tot begeleiding van de begroting 1994, artikel 12<br />het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "VLIF-waarborgregeling (Departement Landbouw en Visserij)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies/vlif-steun/vlif-waarborgregeling",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:27.47722543Z",
+      "laatstGewijzigd": "2023-05-04T14:15:27.477226185Z",
+      "laatstOntvangen": "2023-05-04T14:15:27.477226185Z",
+      "productnummer": "2109",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cf85d8bb-4dd4-40ec-83db-16259c2f80f7",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/332d4103-1391-4b46-bfaf-74a16dc2aa3e"
+    },
+    {
+      "id": "6ce6af7d-b06b-4be4-a249-e4735972bdc6",
+      "generatedAtTime": "2023-05-04T14:15:27.350503Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "VLIF-steun voor investeringen in de omkaderingssector"
+      },
+      "beschrijving": {
+        "nl": "<p>Voor iedere Vlaamse land- en tuinbouwer is de ondersteuning van een innovatief en goed uitgerust praktijkcentrum en proefcentrum van groot belang. De omkaderingssector biedt immers antwoorden op de actuele uitdagingen inzake productiemethodes, waarmee de land- en tuinbouwsector geconfronteerd wordt. Dit gebeurt door het onderzoek toe te spitsen op de nieuwe evoluties. De Vlaamse overheid organiseert hier regelmatig oproepen en steunt financieel (GLB).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Investeringssteun aan de omkaderingssector voor land- en tuinbouw"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies/vlif-steun/investeringen-omkaderingssector",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "E-loket Landbouw en Visserij"
+          },
+          "url": "https://www.landbouwvlaanderen.be",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-05-04T14:15:27.333951373Z",
+      "laatstGewijzigd": "2023-05-04T14:15:27.333952051Z",
+      "laatstOntvangen": "2023-05-04T14:15:27.333952051Z",
+      "productnummer": "2108",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6ce6af7d-b06b-4be4-a249-e4735972bdc6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f7bd1d7b-26e8-43c7-9b57-b4e6e07f38cb"
+    },
+    {
+      "id": "0ee922cc-b87c-49ad-9da5-8393ca8c206f",
+      "generatedAtTime": "2023-05-04T14:15:27.214716Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsteun voor innovaties in de landbouw"
+      },
+      "beschrijving": {
+        "nl": "<p>De Vlaamse overheid steunt innovaties in de landbouw (GLB). Zo blijven de landbouw- en tuinbouwsector evolueren. Deze VLIF-maatregel stimuleert pure innovatie en vernieuwing op land- en tuinbouwbedrijven en vormt een aanvulling op de reguliere VLIF-investeringssteun.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid<br />het decreet van 22 december 1993 houdende bepaling tot begeleiding van de begroting 1994, artikel 12</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Projectsteun voor innovaties in de landbouw (Departement Landbouw en Visserij)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies/vlif-steun/projectsteun-voor-innovaties-de-landbouw-0",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:27.198044236Z",
+      "laatstGewijzigd": "2023-05-04T14:15:27.198044923Z",
+      "laatstOntvangen": "2023-05-04T14:15:27.198044923Z",
+      "productnummer": "2107",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0ee922cc-b87c-49ad-9da5-8393ca8c206f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bd4acd96-a7f6-4d25-a263-0f9d22560de1"
+    },
+    {
+      "id": "829eaf2c-daee-4707-95fd-2c85044d4158",
+      "generatedAtTime": "2023-05-04T14:15:27.04918Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor de stimulering van de biologische landbouw"
+      },
+      "beschrijving": {
+        "nl": "<p>De Vlaamse overheid steunt de biologische landbouw in Vlaanderen (GLB). Hierbij worden ook startende bio-landbouwers en de overschakeling gesteund. De werking van Bioforum wordt ook mee ondersteund.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "Bio zoekt boer",
+          "bioforum"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidie ikv stimulering biologische landbouw (inclusief werking bioforum)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/beleid/landbouwbeleid-eu/steunmelding/subsidiering-biologische-landbouw/subsidiering-biologische-0",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:45.139931305Z",
+      "laatstGewijzigd": "2023-05-04T14:15:27.03317851Z",
+      "laatstOntvangen": "2023-05-04T14:15:27.03317851Z",
+      "productnummer": "2106",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/829eaf2c-daee-4707-95fd-2c85044d4158",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/89e7228c-0795-4402-82b5-45ad338bc698"
+    },
+    {
+      "id": "5115837f-add6-4850-9347-33e5b2e2afc2",
+      "generatedAtTime": "2023-05-04T14:15:26.909717Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie ikv landbouweducatie"
+      },
+      "beschrijving": {
+        "nl": "<p>Land- en tuinbouwers en vissers zorgen voor de productie van kwaliteitsvol voedsel. Om dit te blijven waarderen, is kennis en landbouweducatie van zowel kinderen als volwassenen zeer belangrijk. De Vlaamse overheid steunt dit op verschillende vlakken. Ook de provincies hebben een eigen werking rond landbouweducatie uitgebouwd.</p><p>Ben je als leerkracht op zoek naar ondersteuning bij je lessen? Misschien vind je via onderwijs.limburg.be interessante initiatieven om je daarbij te helpen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidies voor landbouw en visserij"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:26.893235228Z",
+      "laatstGewijzigd": "2023-05-04T14:15:26.893236008Z",
+      "laatstOntvangen": "2023-05-04T14:15:26.893236008Z",
+      "productnummer": "2105",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5115837f-add6-4850-9347-33e5b2e2afc2",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/da8fdcc4-7f13-44f1-8087-c18d10d3dbeb"
+    },
+    {
+      "id": "5a9e4855-1bb7-4906-93c0-eab5194365ca",
+      "generatedAtTime": "2023-05-04T14:15:26.79897Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor bedrijfsadvisering biologische landbouw"
+      },
+      "beschrijving": {
+        "nl": "<p>Als land- en tuinbouwer kan je advies aanvragen bij adviesbureaus die zijn goedgekeurd door de Vlaamse overheid. Hier zijn verschillende adviezen en thema's mogelijk. De overheid draagt hier financieel bij (GLB).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidie voor bedrijfsadvisering biologische landbouw (Departement Landbouw en Visserij)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/bio/subsidies/bedrijfsadvisering",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:26.782253579Z",
+      "laatstGewijzigd": "2023-05-04T14:15:26.782254483Z",
+      "laatstOntvangen": "2023-05-04T14:15:26.782254483Z",
+      "productnummer": "2104",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5a9e4855-1bb7-4906-93c0-eab5194365ca",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f282a056-1ffb-422e-84b0-ab1a0ed7e408"
+    },
+    {
+      "id": "53e14901-31dd-4324-87a0-17da0c7d5e34",
+      "generatedAtTime": "2023-05-04T14:15:26.661134Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor oprichting producentenorganisaties"
+      },
+      "beschrijving": {
+        "nl": "<p>Verenigd sta je sterker. Dat is het uitgangspunt voor de ondersteuning van de oprichting van producentenorganisaties (PO) in land- en tuinbouw en visserij. De overheid steunt deze oprichting (GLB, EFMZVA),</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Opstartsteun voor producentenorganisaties (Departement Landbouw en Visserij)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/landbouwbeleid/samenwerking-de-keten#Steun",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:44.951426947Z",
+      "laatstGewijzigd": "2023-05-04T14:15:26.645150724Z",
+      "laatstOntvangen": "2023-05-04T14:15:26.645150724Z",
+      "productnummer": "2103",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/53e14901-31dd-4324-87a0-17da0c7d5e34",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dd6142c6-4fbb-4c36-ab68-d00ac38da865"
+    },
+    {
+      "id": "adc0d307-4599-4c92-a9c7-bed677eaed8f",
+      "generatedAtTime": "2023-05-04T14:15:26.524871Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor EIP-Operationele Groepen"
+      },
+      "beschrijving": {
+        "nl": "<p>Het is niet altijd eenvoudig om van onderzoek naar praktijk in land- en tuinbouw over te gaan. Een Operationele Groep vormt hier een partnerschap rond innovatie. Zo stromen nieuwe inzichten en innovaties sneller door naar de praktijk. De overheid komt hier financieel tussen (GLB).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Europees partnerschap voor innovatie eip-operationele groepen (Departement Landbouw en Visserij)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/voorlichting-info/voorlichting/europees-partnerschap-voor-innovatie-eip-operationele-groepen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:26.508067054Z",
+      "laatstGewijzigd": "2023-05-04T14:15:26.50806845Z",
+      "laatstOntvangen": "2023-05-04T14:15:26.50806845Z",
+      "productnummer": "2102",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/adc0d307-4599-4c92-a9c7-bed677eaed8f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/00097725-383d-46b5-b316-0df3bf937cd6"
+    },
+    {
+      "id": "403c9822-7150-4d2b-bac1-3ef49b464bf6",
+      "generatedAtTime": "2023-05-04T14:15:26.374842Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor demonstratieprojecten"
+      },
+      "beschrijving": {
+        "nl": "<p>Naast lesgeven in leslokalen is het belangrijk om land- en tuinbouw in de praktijk te zien evolueren. Land- en tuinbouwers kunnen nieuwe inzichten opdoen bij de verschillende demonstratieprojecten. Op regelmatige basis organiseert het Departement Landbouw en Visserij hier oproepen voor. De overheid komt hier financieel tussen (GLB).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Overzicht demonstratieprojecten (Departement Landbouw en Visserij)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/voorlichting-info/voorlichting/overzicht-demonstratieprojecten",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:26.357620324Z",
+      "laatstGewijzigd": "2023-05-04T14:15:26.357621461Z",
+      "laatstOntvangen": "2023-05-04T14:15:26.357621461Z",
+      "productnummer": "2101",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/403c9822-7150-4d2b-bac1-3ef49b464bf6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/59d40819-0877-466d-811a-bb211997fcb5"
+    },
+    {
+      "id": "b51d21da-7481-439e-ba0a-4ef8d19b0eda",
+      "generatedAtTime": "2023-05-04T14:15:26.163438Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsubsidies in het kader van de integrale jeugdhulpverlening"
+      },
+      "beschrijving": {
+        "nl": "<p>Projectsubsidies in het kader van de integrale jeugdhulpverlening</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet betreffende de integrale jeugdhulp (12/07/2013)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:26.146110881Z",
+      "laatstGewijzigd": "2023-05-04T14:15:26.146112372Z",
+      "laatstOntvangen": "2023-05-04T14:15:26.146112372Z",
+      "productnummer": "2100",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b51d21da-7481-439e-ba0a-4ef8d19b0eda",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7fbe8622-1650-4283-9f98-4363f3192dbb"
+    },
+    {
+      "id": "26cb6cf3-ba59-4f20-9165-f032d12580ee",
+      "generatedAtTime": "2023-05-04T14:15:25.869231Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies Vlaams intersectoraal akkoord non/social profit"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies Vlaams intersectoraal akkoord non/social profit</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.85195943Z",
+      "laatstGewijzigd": "2023-05-04T14:15:25.851960586Z",
+      "laatstOntvangen": "2023-05-04T14:15:25.851960586Z",
+      "productnummer": "2099",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/26cb6cf3-ba59-4f20-9165-f032d12580ee",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/739caa5c-200a-403e-947c-627d3c639dfe"
+    },
+    {
+      "id": "2b41ef59-c96d-4c68-b16d-c6b4007e20ba",
+      "generatedAtTime": "2023-05-04T14:15:25.578408Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies in het kader van het lokaal sociaal beleid"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies in het kader van het lokaal sociaal beleid</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 9 februari 2018 betreffende het lokaal sociaal beleid</li><li>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 9 februari 2018 betreffende lokaal sociaal beleid</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.56188671Z",
+      "laatstGewijzigd": "2023-05-04T14:15:25.561887481Z",
+      "laatstOntvangen": "2023-05-04T14:15:25.561887481Z",
+      "productnummer": "2097",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2b41ef59-c96d-4c68-b16d-c6b4007e20ba",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5875600e-3b09-4051-a627-ab6ea2560404"
+    },
+    {
+      "id": "2502fc39-f6bc-406d-b537-a62a0816bddf",
+      "generatedAtTime": "2023-05-04T14:15:25.462456Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies herstelbemiddeling"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies herstelbemiddeling</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, art. 105;</li><li>Besluit van de Vlaamse Regering van 15 februari 2019 houdende de subsidiëring van initiatieven die voorzien in een herstelgericht en constructief hulp- en dienstverleningsaanbod voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, en voor slachtoffers van misdrijven, alsook voor hun onmiddellijke omgeving, dat niet wordt verstrekt ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid, hoofdstuk 2 </li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.445840107Z",
+      "laatstGewijzigd": "2023-05-04T14:15:25.44584095Z",
+      "laatstOntvangen": "2023-05-04T14:15:25.44584095Z",
+      "productnummer": "2096",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2502fc39-f6bc-406d-b537-a62a0816bddf",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/497b08b7-f8de-45be-8d10-7cd98934ecbf"
+    },
+    {
+      "id": "d913d2fb-6934-48d6-9407-62d1188f2d7f",
+      "generatedAtTime": "2023-05-04T14:15:25.344058Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan voorzieningen algemeen welzijnswerk"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan voorzieningen algemeen welzijnswerk</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.327468447Z",
+      "laatstGewijzigd": "2023-05-04T14:15:25.327469267Z",
+      "laatstOntvangen": "2023-05-04T14:15:25.327469267Z",
+      "productnummer": "2095",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d913d2fb-6934-48d6-9407-62d1188f2d7f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/258c8339-970f-4517-b52e-e238610fca65"
+    },
+    {
+      "id": "6f5f2af9-671e-40d2-b18d-582fada42f34",
+      "generatedAtTime": "2023-05-04T14:15:25.201394Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan samenwerkingsverbanden schuldhulpverlening"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan samenwerkingsverbanden schuldhulpverlening</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 5/10/1996);</li><li>Besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 30/05/1997).</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.184749328Z",
+      "laatstGewijzigd": "2023-05-04T14:15:25.184750349Z",
+      "laatstOntvangen": "2023-05-04T14:15:25.184750349Z",
+      "productnummer": "2094",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6f5f2af9-671e-40d2-b18d-582fada42f34",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/47ad7f2b-4cec-4298-8dbb-7443b2c47f63"
+    },
+    {
+      "id": "c50d2e25-b114-490c-b0e2-98b4cbd988e4",
+      "generatedAtTime": "2023-05-04T14:15:25.088987Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan centra voor tele-onthaal"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan centra voor tele-onthaal</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009)</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.071778029Z",
+      "laatstGewijzigd": "2023-05-04T14:15:25.071779458Z",
+      "laatstOntvangen": "2023-05-04T14:15:25.071779458Z",
+      "productnummer": "2093",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c50d2e25-b114-490c-b0e2-98b4cbd988e4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/20aa56aa-b760-4655-be13-ded7503cf651"
+    },
+    {
+      "id": "816e75d7-4ae2-4a0a-9c52-c8864ac6eba0",
+      "generatedAtTime": "2023-05-04T14:15:24.892603Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan casemanagers zorg"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan casemanagers zorg</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li> Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:24.814640654Z",
+      "laatstGewijzigd": "2023-05-04T14:15:24.814642669Z",
+      "laatstOntvangen": "2023-05-04T14:15:24.814642669Z",
+      "productnummer": "2092",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/816e75d7-4ae2-4a0a-9c52-c8864ac6eba0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bdd7b656-a237-4813-9da9-f455a2619576"
+    },
+    {
+      "id": "28894d52-6016-47a0-824c-17db566f134d",
+      "generatedAtTime": "2023-05-04T14:15:24.544466Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan begeleiders van arbeidsmatige activiteiten"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan begeleiders van arbeidsmatige activiteiten</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:24.525913045Z",
+      "laatstGewijzigd": "2023-05-04T14:15:24.525914421Z",
+      "laatstOntvangen": "2023-05-04T14:15:24.525914421Z",
+      "productnummer": "2091",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/28894d52-6016-47a0-824c-17db566f134d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cd601045-7ee2-4249-9e9c-12481888a030"
+    },
+    {
+      "id": "ee936e26-7293-4fdf-be3e-b3894381e0e6",
+      "generatedAtTime": "2023-05-04T14:15:24.426969Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Structurele werkingssubsidies welzijnswerk"
+      },
+      "beschrijving": {
+        "nl": "<p>Structurele werkingssubsidies welzijnswerk</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:24.40999116Z",
+      "laatstGewijzigd": "2023-05-04T14:15:24.409992263Z",
+      "laatstOntvangen": "2023-05-04T14:15:24.409992263Z",
+      "productnummer": "2090",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ee936e26-7293-4fdf-be3e-b3894381e0e6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f4c0bc47-117f-4112-b1ec-8b20845ff335"
+    },
+    {
+      "id": "81ea6b30-e1f0-4bd8-96e1-68a5b3bb87a1",
+      "generatedAtTime": "2023-05-04T14:15:24.293788Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsubsidies in het kader van het algemeen welzijnswerk"
+      },
+      "beschrijving": {
+        "nl": "<p>Projectsubsidies in het kader van het algemeen welzijnswerk</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013)</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:24.276717729Z",
+      "laatstGewijzigd": "2023-05-04T14:15:24.276718803Z",
+      "laatstOntvangen": "2023-05-04T14:15:24.276718803Z",
+      "productnummer": "2089",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/81ea6b30-e1f0-4bd8-96e1-68a5b3bb87a1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/02337ed1-ea19-4d79-8fb6-8b8ff4e886fb"
+    }
+  ]
+}

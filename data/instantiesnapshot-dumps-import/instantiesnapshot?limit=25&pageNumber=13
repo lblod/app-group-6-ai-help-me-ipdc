@@ -1,1 +1,1984 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=13","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=12","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-03-24T06:05:44.86346Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=14","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-03-24T06:05:49.943804Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=13","@type":"EventStream","member":[{"id":"11d4482c-854e-47b1-a2a9-01dc1372a2f3","generatedAtTime":"2023-03-24T06:05:49.943804Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Belasting op de inverkeerstelling (BIV)"},"beschrijving":{"nl":"<p>De belasting op inverkeerstelling (BIV), ook soms inschrijvingstaks genoemd, is een <strong>eenmalige belasting</strong> die iedere eigenaar van een <strong>nieuw of tweedehands voertuig</strong> moet betalen <strong>vanaf de ingebruikname</strong> van het voertuig <strong>op de openbare weg in België</strong>. In het Vlaamse gewest wordt de BIV geïnd door de Vlaamse Belastingdienst.</p>"},"type":"FinancieleVerplichting","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"uitzonderingen":{"nl":"<p>In de volgende gevallen is er geen BIV verschuldigd: </p><ul><li>Voor de <strong>herinschrijving</strong> van eenzelfde voertuig door <strong>dezelfde belastingplichtige</strong> (bijv. de firmanaam wijzigt maar het btw-nummer blijft hetzelfde of bij een wijziging van een nummerplaat omdat er meer dan twee adreswijzigingen op het inschrijvingsbewijs vermeld staan of bij een wijziging van een <strong>oude nummerplaat</strong> naar een <strong>Europese nummerplaat</strong>).</li><li>Voor de <strong>herinschrijving </strong>van eenzelfde voertuig op naam van de overlevende echtgenoot of wettelijk samenwonende partner als de titularis van het voertuig overleden is. Als het voertuig wordt heringeschreven op naam van één van de kinderen is er<strong> wel opnieuw BIV verschuldigd.</strong></li><li>Voor voertuigen met een handelaarsplaat (Z-plaat).</li><li>Voor kampeerwagens (mobilhomes), lichte vrachtwagens en vrachtwagens met een MTT van meer dan 3,5 ton.</li><li>Voor speedpedelecs en lichte vierwielers die ingeschreven zijn bij de DIV.</li></ul>"},"zoektermen":{"nl":["biv","lichte vracht","overname overdracht","verkeersbelasting","scooter","cng","lng","uitvoer","fijnstof","inverkeersstelling","auto","autotaks","autotax","belasting","autobelasting","speed pedelecs","export","handelaarsplaat","inschrijvingstaks","boot"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De belasting op de inverkeerstelling (BIV) <strong>moet betaald worden</strong> voor personenauto's, minibussen en motorfietsen, <a href=\"https://belastingen.vlaanderen.be/vkb_boten\">boten</a> en <a href=\"https://belastingen.vlaanderen.be/vkb_vliegtuigen\">vliegtuigen</a>, die ingeschreven zijn in België.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Na de <strong>eerste inschrijving</strong> van uw voertuig bij de <strong>DIV</strong> (Dienst voor Inschrijvingen van Voertuigen) ontvangt u van de Vlaamse Belastingdienst <strong>automatisch</strong> een aanslagbiljet. Na ontvangst van het aanslagbiljet hebt u <strong>2 maanden</strong> de tijd om de BIV te betalen.</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Voor de berekening van de BIV wordt er rekening gehouden met:</p><ul><li>De <strong>milieukenmerken</strong> van het voertuig waaronder CO2-uitstoot, uitstoot fijn stof, brandstoftype, euronorm en aanwezigheid roetfilter.</li><li>De <strong>leeftijd van het voertuig</strong> volgens datum eerste inschrijving.</li></ul><p>U kunt zelf berekenen hoeveel BIV u moet betalen via de <a href=\"https://belastingen.fenb.be/ui/public/vkb/simulatie\">online simulator</a> of met de <a href=\"https://www.uat-vlaanderen.be/simulatie-verkeersbelastingen\">simulatie-app</a>. De simulatie is louter indicatief en geeft niet het officiële bedrag.</p><h3>Vrijstelling van de belasting op inverkeerstelling</h3><p>In bepaalde gevallen is een vrijstelling van de BIV mogelijk:</p><ul><li>Vrijstelling voor persoon met een handicap</li><li><a href=\"https://belastingen.vlaanderen.be/BIV-vrijstelling-voor-de-overdracht-tussen-ex-partners\">Vrijstelling voor de <strong>overdrach</strong>t tussen (ex-)echtgenoten of (ex-)wettelijk samenwonenden</a></li><li><p><a href=\"https://www.uat-vlaanderen.be/vrijstelling-van-de-belasting-op-inverkeerstelling-en-de-verkeersbelasting-wegens-uitvoer-van-het-voertuig\">Vrijstelling van de belasting op inverkeerstelling en de verkeersbelasting wegens uitvoer van het voertuig</a></p></li><li>Vrijstelling voor pure elektrische en pure waterstofvoertuigen</li><li>Tijdelijke vrijstelling voor plug-in hybride voertuigen en CNG/LNG voertuigen</li><li>Vrijstelling voor <strong>motorfietsen</strong> aangedreven op <strong>elektriciteit </strong>of <strong>waterstof. </strong>Deze vrijstelling geldt niet voor leasingbedrijven.</li></ul><p>Als u denkt in aanmerking te komen voor een vrijstelling, dan moet u dit aanvragen. Op de website van de Vlaamse Belastingdienst vindt u <a href=\"https://www.uat-vlaanderen.be/formulieren-verkeersbelastingen\">de formulieren om de vrijstelling aan te vragen of stop te zetten</a>.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:05:49.926306767Z","laatstGewijzigd":"2023-03-24T06:05:49.926308453Z","laatstOntvangen":"2023-03-24T06:05:49.926308453Z","productnummer":"566","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/11d4482c-854e-47b1-a2a9-01dc1372a2f3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/46e4c228-feee-4e66-b8f3-5791c25aae93"},{"id":"2ceddf32-b1db-4b03-8b98-fd2403006109","generatedAtTime":"2023-03-24T06:05:49.114539Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Aanvraag tot onderzoek van het binnenmilieu in een woning of openbaar gebouw"},"beschrijving":{"nl":"<p>Als u gezondheidsklachten hebt die te maken hebben met de luchtkwaliteit in uw woning, dan kunt u daarvoor de hulp inroepen van gezondheidswerkers. Zij kunnen voor u een aanvraag indienen voor een onderzoek van het binnenmilieu van uw woning.</p><p>Ook voor publieke toegankelijke openbare gebouwen zoals scholen kan een aanvraag voor een onderzoek ingediend worden.</p><p>Op de website van Zorg en Gezondheid vindt u meer informatie over de kwaliteit van het binnenmilieu.</p>"},"type":"AdviesBegeleiding","themas":["WelzijnGezondheid"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 11 juni 2004 houdende maatregelen tot bestrijding van de gezondheidsrisico's door verontreiniging van het binnenmilieu (B.S.19.10.2004).</p>"},"zoektermen":{"nl":["analyse","binnenklimaat","binnenlucht","binnenshuis","controle","klimaat","lucht","luchtverontreiniging","meting","onderzoek","ventilatie","vervuilde lucht"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Om een aanvraag in te kunnen dienen voor een onderzoek van het binnenmilieu:</p><ul><li>moet u gezondheidsklachten hebben of een potentieel gezondheidsrisico lopen door verontreiniging van het binnenmilieu</li><li>moet een dienst of tussenpersoon voor u het onderzoek aanvragen met een standaardformulier.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ol><li>Neem het best eerst contact op met een van deze tussenpersonen:<ul><li>gemeentelijke (huisvestings)ambtenaar</li><li>uw huisarts</li><li>OCMW-verpleegkundigen of maatschappelijk werker</li><li>gezondheidswerker.</li></ul></li><li>De bovenstaande tussenpersonen kunnen dan met het standaardformulier een gemotiveerde aanvraag indienen bij de Medisch Milieukundige van het Lokaal Gezondheidsoverleg (LOGO).</li><li>De Medisch Milieukundige zal op basis van de aanvraag en een vooronderzoek beslissen of een plaatsbezoek noodzakelijk is en of een meting een meerwaarde oplevert.</li></ol><p>Artsen kunnen de aanvraag voor een onderzoek ook rechtstreeks bezorgen aan de afdeling Preventie.</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Het onderzoek is gratis.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:05:49.097814909Z","laatstGewijzigd":"2023-03-24T06:05:49.09781627Z","laatstOntvangen":"2023-03-24T06:05:49.09781627Z","productnummer":"214","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2ceddf32-b1db-4b03-8b98-fd2403006109","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/99fba5f6-47ec-4dc8-bcff-c4c707bd7f0d"},{"id":"489eae8f-8e16-4fa8-bff8-d2da98daa3f9","generatedAtTime":"2023-03-24T06:05:48.947636Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Adviezen inzake de relatie tussen de kwaliteit van het milieu en gezondheid"},"beschrijving":{"nl":"<p>Het team Milieugezondheidszorg van Zorg en Gezondheid (Afdeling Preventie) draagt bij tot het vrijwaren van een gezond leefmilieu. Afhankelijk van de problematiek geeft zij advies aan provinciebesturen, gemeentebesturen, het artsenkorps en de algemene bevolking en houdt ze toezicht op de naleving van het Vlaams Reglement inzake Milieuvergunningen (VLAREM) en van milieu-effectrapportering (MER).</p><p>Het voornaamste activiteitsdomein betreft advies over de relatie tussen de kwaliteit van milieu en de gezondheid aan besturen, professionelen uit de gezondheids- of milieusector, NGO's en burgergroepen en individuele burgers:</p><ul><li>de kwaliteit van de omgevingslucht</li><li>de kwaliteit van het drinkwater (leiding- en putwater)</li><li>bodemverontreiniging</li><li>ongezonde woningen</li><li>zwembaden en open zwemgelegenheden</li></ul><p>Om die activiteiten te kunnen uitvoeren, beschikt de afdeling over een buitendienst in elke provincie. Vele tussenkomsten gebeuren ook in opdracht van provincies of gemeenten.</p>"},"type":"AdviesBegeleiding","themas":["WelzijnGezondheid"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"zoektermen":{"nl":["adviezen","gezondheid","milieu","milieugezondheidszorg"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:05:48.929991508Z","laatstGewijzigd":"2023-03-24T06:05:48.929994242Z","laatstOntvangen":"2023-03-24T06:05:48.929994242Z","productnummer":"443","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/489eae8f-8e16-4fa8-bff8-d2da98daa3f9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f08568ad-8b54-4000-8952-5dbb3011b956"},{"id":"c5bfedfd-138d-4734-b4a5-e28c1ad25c38","generatedAtTime":"2023-03-24T06:05:48.812333Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor sensibiliserende initiatieven van de Vlaamse Gebarentaal"},"beschrijving":{"nl":"<p>De gebarentaal die in Vlaanderen wordt gebruikt, heet Vlaamse Gebarentaal of VGT. </p><p>Voor de organisatie, medeorganisatie of ondersteuning van projecten die bijdragen tot de maatschappelijke verankering van de Vlaamse Gebarentaal kunt u een subsidie aanvragen.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 5 mei 2006 houdende de erkenning van de Vlaamse Gebarentaal.</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>De aanvrager is een organisatie met rechtspersoonlijkheid en is gevestigd in Vlaanderen of Brussel.</li><li>Feitelijke verenigingen en natuurlijke personen komen niet in aanmerking voor subsidiëring.</li><li>Wanneer meerdere organisaties samenwerken, dient één organisatie de aanvraag in namens het samenwerkingsverband.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Jaarlijks verschijnt in november een projectoproep.</li><li>Op basis hiervan kunt u een aanvraagdossier indienen bij het agentschap Sociaal-Cultureel Werk voor Jeugd en Volwassenen.</li><li>U dient uw aanvraagdossier in <strong>vóór 1 februari.</strong></li><li>Meer info over de procedure om subsidies aan te vragen vindt u op de website van de afdeling Sociaal-Cultureel Werk.</li></ul>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:48.79367938Z","laatstGewijzigd":"2023-03-24T06:05:48.793705082Z","laatstOntvangen":"2023-03-24T06:05:48.793705082Z","productnummer":"612","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c5bfedfd-138d-4734-b4a5-e28c1ad25c38","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a2b8216d-67a1-4e61-8f08-526f2202f4b0"},{"id":"8e55d518-8933-495c-8f79-eddec8e508fe","generatedAtTime":"2023-03-24T06:05:48.629169Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning en subsidiëring van organisaties voor sociaal-cultureel volwassenenwerk"},"beschrijving":{"nl":"<p>Binnen het sociaal-cultureel volwassenenwerk zijn er verschillende organisaties voor sociaal-cultureel volwassenenwerk.</p><h3>Vereniging</h3><p>Een vereniging is een netwerk dat gericht is op zingeving en emancipatie van leden en deelnemers, met het oog op persoonlijke en maatschappelijke ontplooiing.</p><h3>Beweging</h3><p>Een beweging is een organisatie die gericht is op maatschappelijke verandering</p><h3>Een vormingsinstelling</h3><ul><li><strong>Volkshogescholen (Vormingplus-centra)</strong><br />De volkshogescholen zijn pluralistische organisaties. Zij hebben als opdracht een eigen programma-aanbod inzake niet-formele educatie aan te bieden en samenwerkingen op te zetten met het oog op het versterken van het niet-formele educatieve aanbod in de regio.</li><li><strong>Gespecialiseerde vormingsinstelling</strong><br />Een gespecialiseerde vormingsinstelling is een sociaal-culturele organisatie die gespecialiseerd is in de ontwikkeling van een educatief aanbod. De invalshoek is hierbij thematisch.</li><li><strong>Syndicale vormingsinstellingen</strong><br />Syndicale vormingsinstellingen zijn vzw's die gelinkt zijn met erkende vakorganisaties. Deze vzw's zorgen voor een open educatief aanbod voor de leden van de vakorganisatie.</li><li><strong>Vormingsinstellingen voor personen met een handicap</strong><br />Dit zijn landelijke vormingsinstellingen die via niet-formele educatie een sociaal-culturele werking ontplooien voor personen met een handicap en hun omgeving.</li></ul>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk.</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<h3>Vereniging</h3><ul><li>Een vereniging moet bestaan uit 50 werkende afdelingen of groepen en gespreid zijn over minstens drie Vlaamse provincies.<br />Het tweetalige gebied Brussel-Hoofdstad telt als één provincie.</li></ul><h3>Beweging</h3><ul><li>Een beweging heeft een landelijke werking en richt zich hiervoor op een ruim publiek.</li></ul><p>Verdere voorwaarden voor erkenning en subsidiëring van verenigingen, bewegingen en vormingsinstellingen kunt u nalezen op de website van de afdeling Sociaal-Cultureel Werk. </p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-03-24T06:05:48.612110307Z","laatstGewijzigd":"2023-03-24T06:05:48.612112446Z","laatstOntvangen":"2023-03-24T06:05:48.612112446Z","productnummer":"619","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8e55d518-8933-495c-8f79-eddec8e508fe","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b9416c4a-a774-4352-ae29-966646b921ce"},{"id":"924609f6-7ff3-4ed6-a36d-7881fdb063d2","generatedAtTime":"2023-03-24T06:05:48.446056Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams","Derden"],"naam":{"nl":"Leerlingenkaart"},"beschrijving":{"nl":"<p>De leerlingenkaart is een <strong>voordeelkaart</strong> voor alle leerlingen <strong>secundair onderwijs</strong>. Op vertoon van een leerlingenkaart kunnen leerlingen op verschillende plaatsen en in winkels genieten van een prijskorting. Op de website van de Vlaamse scholierenkoepel vindt u een <a href=\"https://www.scholierenkoepel.be/leerlingenkaart\">overzicht van alle voordelen</a>. </p>"},"type":"Bewijs","themas":["OnderwijsWetenschap"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE1","BE2"],"uitzonderingen":{"nl":"<p>Leerlingen uit het <strong>deeltijds kunstonderwijs</strong> of <strong>volwassenenonderwijs</strong> hebben geen recht op een leerlingenkaart. </p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>Alle leerlingen in het<strong> secundair onderwijs</strong> in Vlaanderen of Brussel (bso, tso, kso, buso, dbso, OKAN, leertijd en HBO5 Verpleegkunde) hebben recht op een leerlingenkaart. </li><li>Ook leerlingen die <strong>huisonderwijs</strong> volgen hebben recht op een leerlingenkaart. </li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Kaarten worden besteld door de <strong>school</strong>, en niet door de leerlingen. Scholen kunnen hun kaarten <a href=\"https://www.scholierenkoepel.be/leerlingenkaart\">online bestellen</a> via de website van de Vlaamse Scholierenkoepel. </p><p>Wie <strong>huisonderwijs</strong> volgt kan een kaart aanvragen door een e-mail te sturen naar <a href=\"mailto:info@scholierenkoepel.be\">info@scholierenkoepel.be</a> met een kopie van de identiteitskaart van de leerling en een adres waarnaar de kaart kan verstuurd worden. </p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Leerlingenkaarten bestellen kan<strong> gratis</strong>. </p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:05:48.428480829Z","laatstGewijzigd":"2023-03-24T06:05:48.428482444Z","laatstOntvangen":"2023-03-24T06:05:48.428482444Z","productnummer":"642","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/924609f6-7ff3-4ed6-a36d-7881fdb063d2","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/669343b8-5d03-4d8c-b832-243b89734343"},{"id":"d9af8d42-615c-4d03-be9b-72ee11bfc93f","generatedAtTime":"2023-03-24T06:05:48.273969Z","bevoegdBestuursniveaus":["Federaal","Vlaams"],"uitvoerendBestuursniveaus":["Vlaams","Derden"],"naam":{"nl":"Startbanenproject 'Scholen voor Jongeren - Jongeren voor Scholen' voor een positief schoolklimaat"},"beschrijving":{"nl":"<p>Het startbanenproject ‘Scholen voor Jongeren - Jongeren voor Scholen’ (afgekort ‘JoJo’) stelt jongeren te werk in scholen in Vlaanderen en Brussel. Dit bevordert een positief schoolklimaat.</p>"},"type":"AdviesBegeleiding","themas":["OnderwijsWetenschap"],"doelgroepen":["Burger","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<ul><li>24 december 1999 - Wet ter bevordering van de werkgelegenheid.</li><li>30 maart 2000 - Koninklijk besluit tot uitvoering van de artikelen 23, §3, 32, tweede en derde lid, 33, §2, derde lid, 34, 36, 37, §1, 1°, 39, §4, tweede lid, en §5, tweede lid, 42, §2, 44, §4, derde lid, 46, eerste lid, 47, §4, eerste en vierde lid, van de wet van 24 december 1999 ter bevordering van de werkgelegenheid.</li><li>25 oktober 2000 - Samenwerkingsakkoord tussen de Staat en de Vlaamse Gemeenschap betreffende de startbaanovereenkomst.</li><li>22 december 2003 - Programmawet (cfr. Titel II - Werk / Hoofdstuk 1 - Startbanen).</li></ul>"},"zoektermen":{"nl":["Jojo","jo jo medewerker","jo-jo","jojo-medewerker","jojomedewerker","jojoproject","medewerker","startbaan","startbaanproject","startbanen","startbanenproject"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Scholen voor Jongeren – Jongeren voor Scholen’ bestaat uit drie deelprojecten:</p><ul><li><p><strong>Preventieproject</strong><br />De preventiemedewerker vervult een laagdrempelige brugfunctie tussen de school, de leerlingen en de ouders. Dat houdt in dat hij of zij taken opneemt die pedagogisch ondersteunend zijn en die verband houden met:</p><ul><li>preventie van risicogedrag</li><li>bevordering van leerling- en ouderparticipatie</li><li>naleving van het schoolreglement.</li></ul></li><li><p><strong>Voltijds onderhoudsproject</strong><br />De voltijdse onderhoudsmedewerker staat in voor het algemeen onderhoud van de schoolinfrastructuur. Als volwaardig lid van het onderhoudsteam kan hij of zij ingeschakeld worden voor allerlei klussen zoals herstellingen, groenonderhoud, schilderwerken, …</p></li><li><p><strong>Onderhoudsproject DBSO</strong><br />Leerlingen uit het deeltijds onderwijs krijgen via dit project de kans om een eerste werkervaring op te doen, in het kader van hun voltijds engagement. Als deeltijdse onderhoudsmedewerker staan zij in voor het algemeen onderhoud van de schoolinfrastructuur.</p></li></ul><p>‘Scholen voor Jongeren - Jongeren voor Scholen’ richt zich specifiek tot laaggeschoolde jongeren. Jongeren van een andere etnisch-culturele achtergrond of met een kansarme achtergrond worden in het bijzonder aangemoedigd om te solliciteren, aangezien zij zich in de meest kwetsbare positie op de arbeidsmarkt bevinden.</p><p>De startbanenprojecten willen laaggeschoolde jongeren een leerrijke eerste werkervaring aanbieden. Tegelijkertijd krijgen die jongeren de kans om bijkomende opleidingen en vormingen te volgen. Op die manier worden zij aangemoedigd om hun diploma secundair onderwijs te halen in het tweedekansonderwijs of via de Examencommissie.</p><h3>Jongeren</h3><p>Voor een baan als <strong>preventiemedewerker</strong> of <strong>voltijdse onderhoudsmedewerker </strong>kunt u solliciteren als u:</p><ul><li>niet meer leerplichtig bent</li><li>jonger bent dan 26 jaar</li><li>laaggeschoold bent (niet beschikt over een diploma secundair onderwijs)</li><li>voldoet aan de vereisten van goed zedelijk gedrag</li><li>nog alle politieke en burgerlijke rechten bezit</li><li>medisch geschikt bent.</li></ul><p>Voor een baan als <strong>onderhoudsmedewerker DBSO</strong> kunt u solliciteren als u:</p><ul><li>ingeschreven bent als leerling in het deeltijds beroepssecundair onderwijs (DBSO)</li><li>tussen 16 en 26 jaar bent</li><li>nog alle politieke en burgerlijke rechten bezit</li><li>medisch geschikt bent.</li></ul><h3>Scholen</h3><p>Als u als school wilt deelnemen aan het startbanenproject, moet u hiervoor een aanvraag indienen bij de projectcoördinatie. Pas na een officiële goedkeuring kunt u overgaan tot de aanwerving van een startbaner.</p><p>Binnen het <strong>preventieproject</strong> komen de volgende instellingen in aanmerking:</p><ul><li>scholen gewoon secundair onderwijs met GOK-uren, die minstens 100 leerlingen tellen</li><li>scholen buitengewoon secundair onderwijs die Type 1 - OV 3 aanbieden, die minstens 100 leerlingen tellen</li><li>centra voor deeltijdse vorming</li></ul><p>Binnen het <strong>voltijds onderhoudsproject </strong>en het <strong>onderhoudsproject DBSO</strong> komen alle scholengemeenschappen van het basis- en secundair onderwijs in aanmerking.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<h3>Jongeren</h3><p>Jongeren die zich kandidaat willen stellen voor een tewerkstelling als startbaner kunnen op de website van het JoJo-project <a href=\"https://www.onderwijs.vlaanderen.be/nl/directies-en-administraties/personeelszaken/startbanenprojecten-jojo-en-veve/jojo-project\">informatie en een aantal vacatures</a> vinden. Aangezien de website slechts een kleine selectie van vacatures bevat, raadpleegt u best ook de <a href=\"https://www.vdab.be\">website van de VDAB</a> of gaat u langs bij een <a href=\"http://www.werkwinkel.be/content/_master/site/4\">lokale werkwinkel</a>.</p><h3>Scholen</h3><p>Onderwijsinstellingen die interesse hebben om deel te nemen aan het startbanenproject, kunnen op de website van het JoJo-project <a href=\"https://www.onderwijs.vlaanderen.be/nl/directies-en-administraties/personeelszaken/startbanenprojecten-jojo-en-veve/jojo-project\">informatie en alle noodzakelijke documenten</a> vinden.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:48.256174459Z","laatstGewijzigd":"2023-03-24T06:05:48.256176688Z","laatstOntvangen":"2023-03-24T06:05:48.256176688Z","productnummer":"209","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d9af8d42-615c-4d03-be9b-72ee11bfc93f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5c371ffd-e05f-44f6-9a88-38551cf85192"},{"id":"dcd0d615-2ef1-4c93-b5a4-57344c73bc3d","generatedAtTime":"2023-03-24T06:05:47.901063Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Kapmachtiging"},"beschrijving":{"nl":"<p>Als de kap van <strong>bomen in een bos</strong> niet opgenomen is in een goedgekeurd beheerplan, dan hebt u in vele gevallen een kapmachtiging nodig.</p>"},"type":"Toelating","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Bosdecreet van 13 juni 1990, artikel 50 (voor openbare bossen) en artikel 81 (voor privé-bossen).</p>"},"uitzonderingen":{"nl":"<p><strong>Kappingen vanwege veiligheidsredenen</strong></p><ul><li>Een kap is nodig wanneer er <strong>direct gevaar</strong> bestaat dat personen verwond worden of eigendommen beschadigd geraken. Een boom kan direct gevaar vormen als hij bijv. een opengescheurde kruin heeft of een ingerotte stam.</li><li>De kap en de motivering ervan moet <strong>ten laatste 24 uur na het begin van de kap</strong> schriftelijk worden medegedeeld aan ANB.</li><li>De bosbeheerder moet binnen de 6 maanden na de kap een <strong>voorstel van herstelmaatregelen</strong> ter goedkeuring voorleggen aan ANB. Dat kan met hetzelfde formulier als voor aanvraag van een kapmachtiging. Vermeld in dat geval duidelijk op het formulier dat de kap al uitgevoerd is en waarom.</li></ul><p><strong>Kappingen vawege sanitaire redenen</strong></p><ul><li>De kap kan nodig zijn als de <strong>bomen ziek zijn</strong>, of om ziekten te voorkomen. Bijv. bij schorskever, vorstschade, wortelrot, ...</li><li>De kap en de motivering ervan moet minstens <strong>14 dagen vóór het begin van de kap</strong> worden meegedeeld aan ANB.</li><li>De bosbeheerder moet binnen de 6 maanden na de kap een <strong>voorstel van herstelmaatregelen</strong> ter goedkeuring voorleggen aan ANB. Dat kan met hetzelfde formulier als voor aanvraag van een kapmachtiging. Vermeld in dat geval duidelijk op het formulier dat de kap al uitgevoerd is en waarom.</li></ul>"},"zoektermen":{"nl":["bomen","boom","bos","kapmachtiging","kappen","kapvergunning","zagen","vellen","omzagen"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U hebt een kapmachtiging nodig als</p><ul><li>u wilt kappen <strong>in een bos</strong></li><li>én de kap gebeurt <strong>in het kader van bosbeheer</strong>, en dus niet met het oog op ontbossing (voor kappingen die leiden tot ontbossing gelden er andere regels)</li><li>én de kap staat <strong>niet in een goedgekeurd beheerplan</strong> (kappingen die expliciet in een goedgekeurd beheerplan staan mogen onmiddellijk uitgevoerd worden en zijn niet meldingsplichtig). </li></ul><p>Let wel: er moet geen kapmachtiging aangevraagd worden voor kappingen in een bos om <strong>veiligheidsredenen</strong> of vanwege <strong>ziekte (sanitaire redenen)</strong>. Meer informatie hierover vindt u bij de 'uitzonderingen' onderaan.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>De kapmachtiging wordt aangevraagd met een aanvraagformulier (docx) van het Agentschap voor Natuur en Bos (ANB).</li><li>ANB beslist binnen de 60 dagen of de kapping toegestaan wordt en onder welke voorwaarden. Als ANB binnen die termijn geen beslissing genomen heeft, dan wordt de machtiging geacht te zijn verleend.</li><li>Bij het kappen van bomen in bossen zonder dat dat leidt tot ontbossing, is geen stedenbouwkundige vergunning voor het kappen van bomen vereist.<br />ANB zorgt er ook voor dat de eventuele natuurvergunning geïntegreerd wordt in de kapmachtiging.<br />Als het bos in het Vlaams Ecologisch Netwerk (VEN) ligt, dan is voor bepaalde werken ook een individuele ontheffing van de VEN-verboden nodig. ANB zal deze ontheffing in één besluit met de kapmachtiging verlenen. U moet hiervoor dus geen aparte aanvraag indienen.</li><li>Na ontvangst van de kapmachtiging heeft men 3 jaar de tijd om de kapping uit te voeren.</li></ul>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:47.88380801Z","laatstGewijzigd":"2023-03-24T06:05:47.883809519Z","laatstOntvangen":"2023-03-24T06:05:47.883809519Z","productnummer":"418","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/dcd0d615-2ef1-4c93-b5a4-57344c73bc3d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/23c2fed0-ad6e-4c1f-930c-750f1319637b"},{"id":"40347aad-d33a-4737-b8e0-50dfb6c06873","generatedAtTime":"2023-03-24T06:05:47.716781Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning en subsidiëring van sportfederaties en organisaties voor sportieve vrijetijdsbesteding"},"beschrijving":{"nl":"<p>Sportfederaties en organisaties voor de sportieve vrijetijdsbesteding (OSV) kunnen zich laten erkennen en komen dan in aanmerking voor subsidies van Sport Vlaanderen.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Volgende organisaties komen in aanmerking voor subsidies:</p><ul><li>De erkende Vlaamse sportfederaties</li><li>Koepelorganisatie</li><li>Organisaties voor de sportieve vrijetijdsbesteding</li><li>G-sportplatform</li><li>Organisatie voor risicovechtsporten</li></ul><p>Om als sportfederatie erkend te worden, moet een sportfederatie sportclubs hebben in het Nederlandse taalgebied of het 2-talige gebied Brussel-Hoofdstad, en wel in ten minste 4 Vlaamse provincies. Het tweetalige gebied Brussel-Hoofdstad wordt hier gelijkgesteld met een provincie.</p><p>De sportfederatie moet ook haar zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad.</p><p>Verdere voorwaarden voor subsidiëring en erkenning vindt u in het decreet sportfederaties.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Via het ‘Platform voor de erkenning en subsidiëring van de georganiseerde sportsector’ kunt u uw aanvraag voor erkenning en subsidiëring indienen.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:47.700229148Z","laatstGewijzigd":"2023-03-24T06:05:47.700230473Z","laatstOntvangen":"2023-03-24T06:05:47.700230473Z","productnummer":"261","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/40347aad-d33a-4737-b8e0-50dfb6c06873","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/024c6c2f-14c0-459e-8f50-4387aea8ce7b"},{"id":"fd895f3a-e50f-491e-a3c2-02d37c734af0","generatedAtTime":"2023-03-24T06:05:47.589639Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Toegankelijkheidslabel voor toegankelijk logies"},"beschrijving":{"nl":"<p>Een vakantieverblijf dat toegankelijk is voor mensen met een beperkte mobiliteit, kan een toegankelijkheidslabel krijgen.</p><p>Hotels, vakantiecentra, jeugdverblijven, vakantiewoningen, campings en gastenkamers met een label krijgen een bordje om naast de ingang van het pand te hangen en een plaats in de brochures 'Toegankelijke vakantieverblijven in Vlaanderen en Brussel'.</p>"},"type":"Bewijs","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"zoektermen":{"nl":["fietsvakantie"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Er zijn 2 niveaus van het label: een label A+ en een label A.</p><ul><li>Het label A+ betekent dat beperkt mobiele mensen er comfortabel en zelfstandig kunnen verblijven.</li><li>Het A-label betekent dat het verblijf toegankelijk is voor beperkt mobiele mensen, maar dat er mogelijk een extra inspanning of een helper nodig is.</li></ul><p>De classificatie geldt ook voor Brusselse verblijven, op voorwaarde dat het logies een exploitatievergunning heeft bij het Departement Buitenlandse Zaken van de Vlaamse overheid.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Het label wordt pas toegekend na een grondige en objectieve controle ter plaatse. Een speciale labelcommissie beslist welk label aan een gebouw toegekend wordt of welke knelpunten eerst nog aangepakt moeten worden. Deze commissie bestaat uit onafhankelijke vertegenwoordigers van de handicapbeweging en van de toeristische sector.</p><p>Neem contact op met Toegankelijk Toerisme als u meer vragen hebt over de aanvraagprocedure.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:47.572628808Z","laatstGewijzigd":"2023-03-24T06:05:47.572631031Z","laatstOntvangen":"2023-03-24T06:05:47.572631031Z","productnummer":"585","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fd895f3a-e50f-491e-a3c2-02d37c734af0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7bf22cb5-1b52-40a8-ad16-3c667f7de44a"},{"id":"2b803b15-3bc2-4465-9481-cbf1f41cff64","generatedAtTime":"2023-03-24T06:05:47.445287Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning en subsidiëring van sociaal-toeristische verenigingen"},"beschrijving":{"nl":"<p>Voor bepaalde groepen in onze maatschappij is het niet evident om met vakantie te gaan. Sociaal-toeristische verenigingen organiseren daarom vakanties die specifiek gericht zijn op kinderen en gezinnen die in armoede leven. Die organisaties kunnen door Toerisme Vlaanderen worden erkend en een financiële ondersteuning krijgen voor hun werking.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<h3>Voor erkenning</h3><p>Alle private rechtspersonen die een rechtstreekse financiële ondersteuning geven om de vakantie van personen die in armoede leven mogelijk te maken, kunnen een aanvraag tot erkenning als 'sociaal-toeristische vereniging' indienen bij Toerisme Vlaanderen.</p><p>Om erkend te kunnen worden, moeten ze voldoen aan enkele specifieke voorwaarden:</p><ul><li>Het hoofddoel van de verenigingen is het organiseren van vakanties voor personen die in armoede leven. Dat doel staat vermeld in de statuten van de verenigingen.</li><li>Ze organiseren zelf de vakantie voor personen die in armoede leven. Dat omvat het organiseren van vervoer, verblijf en animatie.</li><li>Ze staan in voor het verzamelen van extra privémiddelen om de vakantie van de personen die in armoede leven, mogelijk te maken.</li><li>Ze organiseren jaarlijks<ul><li>ofwel minimaal 2 vakanties van elk minimaal 4 overnachtingen in binnen- en/of buitenland, met minimaal 70 verschillende deelnemers in totaal</li><li>ofwel minimaal 1 vakantie van minimaal 6 overnachtingen in binnen- en/of buitenland met minimaal 100 verschillende deelnemers.</li></ul></li><li>Het minimumaantal vereiste deelnemers moet afkomstig zijn uit het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad.</li><li>Ze bereiken jaarlijks minimaal een vierde nieuwe deelnemers.</li><li>Ze exploiteren zelf geen verblijven.</li><li>Ze zorgen voor een degelijk financieel beheer.</li><li>Ze worden gekenmerkt door een belangrijke vrijwilligerswerking. Per 8 deelnemers is 1 begeleider noodzakelijk. Logistieke medewerkers (kookploeg) en hoofdmonitoren worden niet meegeteld.</li><li>Ze hebben hun maatschappelijke zetel en secretariaat in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad.</li></ul><h3>Voor subsidie</h3><p>Om in aanmerking te komen voor subsidie, moet uw vereniging een erkenning hebben als sociaal-toeristische vereniging.</p><p>De financiële ondersteuning kan toegekend worden voor de volgende kosten die verbonden zijn aan de organisatie van vakanties:</p><ul><li>vervoerskosten</li><li>verblijfskosten</li><li>animatiekosten</li><li>verzekeringskosten.</li></ul><p><strong>Verenigingen met een uitgebreidere werking</strong> kunnen ook een beroep doen op <strong>subsidie voor een coördinator</strong> die instaat voor de organisatie van de vakanties. Uw vereniging moet dan wel per jaar minimaal 5 vakanties van elk 4 overnachtingen in binnen- en/of buitenland organiseren voor een totaal van minimaal 150 verschillende deelnemers.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Om een aanvraag in te dienen, bezorgt u de volgende documenten aan Toerisme Vlaanderen:</p><ul><li>een ingevuld inlichtingenblad dat Toerisme Vlaanderen ter beschikking stelt op zijn website</li><li>een exemplaar van de statuten en, voor zover beschikbaar, van de laatste twee balansen</li><li>een omschrijving van de structuur en de werkzaamheden van de organisatie.</li></ul>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<ul><li>De terugbetaling van de kosten betreft maximaal 75% van de werkelijke kostprijs.</li><li>De subsidie voor de loonkosten van een coördinator bedraagt maximaal 12.500 euro per jaar.</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:05:47.348847477Z","laatstGewijzigd":"2023-03-24T06:05:47.348849738Z","laatstOntvangen":"2023-03-24T06:05:47.348849738Z","productnummer":"577","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2b803b15-3bc2-4465-9481-cbf1f41cff64","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ff5a2b71-3912-4f99-8a95-da210e318582"},{"id":"3369e0f4-954b-4ece-a5f4-c2d3c7a04355","generatedAtTime":"2023-03-24T06:05:47.202684Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning als verblijf Toerisme voor Allen"},"beschrijving":{"nl":"<p>Jeugdverblijven en vakantiecentra kunnen een erkenning behalen als verblijf Toerisme voor Allen. Dat houdt in dat zij specifieke inspanningen leveren om bepaalde groepen in onze samenleving van een vakantie te laten genieten. Daarnaast moeten die verblijven voldoen aan specifieke criteria voor veiligheid, comfort en hygiëne.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"zoektermen":{"nl":["vakantieparticipatie","Toerisme voor Allenbedrijf","Toerisme voor Allen-bedrijf"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Op de website van Toerisme Vlaanderen leest u hoe u een erkenning als verblijf Toerisme voor Allen aanvraagt.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:47.185853852Z","laatstGewijzigd":"2023-03-24T06:05:47.185855976Z","laatstOntvangen":"2023-03-24T06:05:47.185855976Z","productnummer":"575","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3369e0f4-954b-4ece-a5f4-c2d3c7a04355","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3f546346-8d9a-4f00-9b78-1b101dec21b3"},{"id":"b763a328-d03c-48d1-9540-5fe3bb48de93","generatedAtTime":"2023-03-24T06:05:47.078611Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning en vergunning van diensten en voorzieningen die ondersteuning bieden aan personen met een handicap"},"beschrijving":{"nl":"<p>Het Vlaams Agentschap voor Personen met een Handicap (VAPH) erkent en/of vergunt verschillende diensten en voorzieningen die ondersteuning bieden aan personen met een handicap, zowel aan kinderen als aan volwassenen.</p><h3>Multifunctionele centra (MFC)</h3><p>Een multifunctioneel centrum (MFC) richt zich tot personen met handicap tot en met 21 jaar (uitzonderlijk verlengbaar tot en met 25 jaar) die nood hebben aan specifieke ondersteuning. Daarvoor is een jeugdhulpbeslissing van de intersectorale toegangspoort (ITP) vereist.</p><p>Een multifunctioneel centrum biedt begeleiding, dagopvang, verblijf en diagnostiek. Een aantal gespecialiseerde centra bieden ook diagnostiek en intensieve behandeling.</p><p>Vanaf 1 januari 2016 werden de voorzieningen die voorheen een erkenning hadden als internaat, semi-internaat, tehuis voor kortverblijf voor minderjarigen of observatie- en behandelingscentrum, erkend als MFC voor een aantal personeelspunten.</p><h3>Multidisciplinair team (MDT)</h3><p>Een multidisciplinair team is een dienst die personen met een (vermoeden van) handicap bijstaat bij de aanvraag voor ondersteuning bij het VAPH.</p><p>Meer informatie over de voorwaarden en de aanvraag voor een erkenning tot MDT vindt u op de website van het VAPH.</p><h3>Vergunde zorgaanbieders</h3><p>Een vergunde zorgaanbieder is een zorgaanbieder bij wie meerderjarigen die beschikken over een persoonsvolgend budget, terecht kunnen voor niet-rechtstreeks toegankelijke zorg of ondersteuning. Een vergunde zorgaanbieder kan volgende ondersteuning aanbieden: woonondersteuning, dagondersteuning, individuele psychosociale begeleiding, individuele praktische hulp, globale individuele ondersteuning en oproepbare permanentie.</p><p>Een vergunning geeft de toelating om een bepaalde activiteit uit te oefenen, maar geeft niet automatisch recht op subsidiëring. Bij de vergunde zorgaanbieders hangt de subsidiëring direct samen met het aantal personen met een voucher die met de betrokken vergunde zorgaanbieder een overeenkomst hebben afgesloten voor ondersteuning, én met de hoogte van hun budgetten.</p><p>Een vergunning wordt in eerste instantie altijd verleend voor 3 jaar. Na 2,5 jaar kan dan een verlenging van de vergunning aangevraagd worden. Die verlenging geldt voor onbepaalde duur.</p><p>Naast de vergunde zorgaanbieders blijven er ook erkende organisaties bestaan. Een erkenning bepaalt een capaciteit in plaatsen, begeleidingen of personeelspunten waaraan een subsidie verbonden is. In de toekomst zal het VAPH nog steeds een aantal organisaties erkennen. In een aantal gevallen zal de subsidiëring (mits bepaalde voorwaarden) nauw samenhangen met de erkende capaciteit.</p><p> </p><h3>Aanbieders van rechtstreeks toegankelijke hulp (RTH-aanbieders)</h3><p>Het VAPH erkent en subsidieert de aanbieders van rechtstreeks toegankelijke hulp. Rechtstreeks toegankelijke hulp richt zich zowel op meerder- als minderjarigen die voldoende geholpen zijn met beperkte handicapspecifieke ondersteuning.</p><p>Een vergunde zorgaanbieder en een multifunctioneel centrum kunnen naast hun eigen vergunning en of erkenning nog een aparte erkenning als RTH-dienst krijgen. Deze erkenning voor RTH wordt uitgedrukt in personeelspunten. Om als RTH-dienst blijven erkend te worden, moet de dienst minimaal beschikken over 35 personeelspunten op 31 december 2018.</p><p> </p><h3>Diensten ondersteuningsplan (DOP)</h3><p>Een dienst ondersteuningsplan helpt zowel meerderjarigen als minderjarigen om hun ondersteuningsnood in kaart te brengen en helpt zoeken naar de meest geschikte ondersteuning. Dat traject resulteert in een ondersteuningsplan dat al de mogelijkheden van de persoon met een handicap en zijn omgeving op een rijtje zet.</p><p>Als uit de gesprekken met de dienst ondersteuningsplan blijkt dat een meerderjarige meer intensieve en frequente handicapspecifieke ondersteuning nodig heeft, dan kan de dienst ondersteuningsplan een ondersteuningsplan persoonsvolgend budget opstellen en indienen voor deze persoon.</p><p>Het VAPH erkent en subsidieert de diensten ondersteuningsplan. In iedere Vlaamse provincie is er een dienst ondersteuningsplan (DOP) actief. De inwoners van Vlaams-Brabant en Brussel kunnen terecht bij DOP Vlaams-Brabant – Brussel.</p><h3>Groenezorginitiatieven</h3><p>Een groenezorginitiatief is een initiatief van een bedrijf, vereniging of particulier waarin activiteiten van land- of tuinbouwproductie of andere activiteiten die betrekking hebben op de omgang met planten of dieren, deel uitmaken van de dagactiviteiten voor mensen uit kwetsbare groepen.</p><p>De activiteiten gebeuren onder begeleiding. Voorbeelden van een groenezorginitiatief zijn bijvoorbeeld een zorgboerderij, een dierenasiel, een dierenpension, een belevingshoeve, ...</p><p>Meerderjarige personen kunnen hun persoonsvolgend budget besteden aan dagondersteuning op basis van een overeenkomst met een groenezorginitiatief als het groenezorginitiatief voldoet aan de voorwaarden zoals bepaald in het ministerieel besluit van 20 februari 2017. Groenezorginitiatieven worden door het VAPH geregistreerd conform het ministerieel besluit van 20 februari 2017. De registratie start ten vroegste op 1 januari 2017 en is geldig voor vijf jaar.</p><p>De registratie gebeurt via een aanvraagformulier.</p><h3>Gemachtigde experts</h3><p>Een gemachtigde expert is een organisatie die door het VAPH gemachtigd is om gespecialiseerd persoonlijk advies te verlenen over hulpmiddelen en aanpassingen in het kader van een aanvraag voor hulpmiddelen en aanpassingen.</p><p>Op de website van het VAPH kunt u nalezen aan welke voorwaarden u moet voldoen om als organisatie voor een machtiging in aanmerking te komen.</p><h3>Bijstandsorganisatie</h3><p>Een bijstandsorganisatie helpt PVB-budgethouders bij de opstart en het beheer van hun persoonsvolgend budget (PVB) en de organisatie van hun ondersteuning.</p><p>Een bijstandsorganisatie kan ook de houders van een persoonlijke-assistentiebudget (PAB) deskundig advies verlenen over hun verplichtingen en activiteiten als werkgever (aanwerving van assistenten, richtlijnen van het VAPH, overeenkomsten, reglementering interimarbeid ...).</p><p>De vergunningsvoorwaarden kunt u terugvinden op de website van het VAPH.</p><h3>Ouderinitiatieven</h3><p>Initiatieven van ouders en/of andere familieleden van personen die zorg en ondersteuning willen organiseren voor een groep van maximaal 15 personen met een handicap, kunnen zich laten registreren bij het VAPH. Bij een geregistreerd ouderinitiatief kunnen personen met én zonder persoonsvolgend budget (PVB) terecht voor zorg en ondersteuning.</p><p>Meer informatie over de voorwaarden en aanvraag van de registratie vindt u terug op de website van het VAPH.</p>"},"type":"Toelating","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"zoektermen":{"nl":["erkenning","niet-werkenden","opvang","vergunning","volwassenen","werkenden"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:05:47.06136187Z","laatstGewijzigd":"2023-03-24T06:05:47.061363257Z","laatstOntvangen":"2023-03-24T06:05:47.061363257Z","productnummer":"586","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b763a328-d03c-48d1-9540-5fe3bb48de93","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/159d66c5-15d8-4aa0-8701-1743147dc81c"},{"id":"ad40e618-b85e-4dc5-a9a2-9b7d279897b0","generatedAtTime":"2023-03-24T06:05:46.892274Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning en subsidiëring van amateurkunsten"},"beschrijving":{"nl":"<p>Onder amateurkunsten wordt verstaan: theater, dans, beeld en beeldende kunst, muziek en letteren. Elk van deze (deel)disciplines wordt gecoördineerd door een organisatie, gesubsidieerd door de Vlaamse overheid. Het Forum voor Amateurkunsten biedt ondersteuning.</p><p>Verder bestaat er ook de mogelijkheid om afzonderlijke initiatieven, hoofdzakelijk internationale projecten en nieuwe disciplines, te subsidiëren.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 22 december 2000 betreffende de Amateurkunsten.</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p><strong>Subsidiëring van projecten</strong></p><p>Projecten kunnen gesubsidieerd worden als de vereniging:</p><ul><li>beschikt over rechtspersoonlijkheid</li><li>gevestigd is in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, voor zover het gaat om verenigingen of instellingen die wegens hun activiteiten moeten worden beschouwd uitsluitend te behoren tot de Vlaamse Gemeenschap.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>De subsidiesmogelijkheden van uw stad of gemeente kunt u via de dienst cultuur/dienst vrije tijd opsporen. </p><p>Om de verschillende andere subsidiekanalen op te sporen, kunnen individuele amateurkunstenaars, groepen en verenigingen de online subsidiewijzer gebruiken. Gebruik de zoektermen om een geschikt subsidiereglement te vinden voor uw discipline, locatie en situatie. </p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:46.875300074Z","laatstGewijzigd":"2023-03-24T06:05:46.875301606Z","laatstOntvangen":"2023-03-24T06:05:46.875301606Z","productnummer":"611","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ad40e618-b85e-4dc5-a9a2-9b7d279897b0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a3b19b86-4763-4492-81a4-06aa85f89391"},{"id":"a4c4a8b3-b134-4678-a51f-b03fbd5540a3","generatedAtTime":"2023-03-24T06:05:46.753856Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor circuskunsten"},"beschrijving":{"nl":"<p>Het Circusdecreet biedt heel wat organisaties en artiesten de kans om mooie, kwalitatieve projecten op touw te zetten. </p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 21 november 2008 betreffende de ondersteuning van de circuskunsten in Vlaanderen (Circusdecreet)</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U kunt een subsidie aanvragen voor volgende initiatieven:</p><ul><li>Creatie van circuskunstproductie</li><li>Spreiding van circusproducties via nomadische circustournee</li><li>Organisatie van circusfestival</li><li>Internationale spreiding van circuskunstproductie</li><li>Promotie van circuskunsten</li><li>Internationale bijscholing/voortgezette opleiding als circuskunstenaar</li><li>Opleiding als docent in circuskunsten</li></ul><p>Op de website van de afdeling Sociaal-Cultureel Werk vindt u de voorwaarden om in aanmerking te komen voor subsidies.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Op de website van de afdeling Sociaal-Cultureel Werk vindt u alle informatie over de procedure, waaronder:</p><ul><li>aanvraagformulieren</li><li>contactpersonen</li><li>deadlines</li><li>bijkomende info over de in te dienen stukken.</li></ul>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:46.736482954Z","laatstGewijzigd":"2023-03-24T06:05:46.73648443Z","laatstOntvangen":"2023-03-24T06:05:46.73648443Z","productnummer":"610","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a4c4a8b3-b134-4678-a51f-b03fbd5540a3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/54ae164e-7157-49b6-9317-e1dc1fc78e7a"},{"id":"e2405e3d-5fbb-461b-9395-f38baab9d582","generatedAtTime":"2023-03-24T06:05:46.549064Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning en subsidiëring van kunstenaars en professionele kunstenorganisaties"},"beschrijving":{"nl":"<p>Individuele kunstenaars en professionele kunstenorganisaties kunnen ondersteuning genieten van de Vlaamse overheid via het Kunstendecreet.</p><p>Het Kunstendecreet biedt subsidies voor podiumkunsten, muziek, beeldende en (multiscreen) audiovisuele kunsten, architectuur en vormgeving, en mengvormen hiervan.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Op 13 december 2013 werd het Kunstendecreet goedgekeurd door het Vlaams Parlement. Dit decreet creëerde een nieuw kader voor de ondersteuning van de professionele kunsten in Vlaanderen.</p>"},"uitzonderingen":{"nl":"<p>Kunstvormen op het vlak van literatuur en film vallen niet onder het Kunstendecreet maar behoren tot de bevoegdheid van respectievelijk het Vlaams Fonds voor de Letteren en het Vlaams Audiovisueel Fonds.</p>"},"zoektermen":{"nl":["cultuur","kunst"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De volgende doelgroepen komen in aanmerking voor subsidie:</p><ul><li><strong>Individuele kunstenaars</strong><br />Individuele kunstenaars worden ondersteund met projecten, beurzen, kunstenaarstoelagen en residenties.</li><li><strong>Kunstenorganisaties</strong><br />Kunstenorganisaties kunnen op meerjarige basis ondersteund worden voor een periode van vijf jaar. Organisaties die niet op meerjarige basis worden ondersteund, kunnen wel voor projectsubsidiëring in aanmerking komen.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U kunt online subsidies aanvragen via de webapplicatie KIOSK. <br /><br />Meer info over het gebruik van deze webapplicatie vindt u in de handleiding KIOSK en in het overzicht met veelgestelde vragen.</p><p>Subsidies worden toegekend door de politieke overheid, op basis van advies:</p><ul><li><strong>artistiek-inhoudelijk advies</strong> door beoordelingscommissies (samengesteld uit deskundigen en actieve participanten)</li><li><strong>zakelijk advies</strong> door het team Kunsten en Cultureel Erfgoed</li></ul><p>Op basis van beide adviezen beslist de Vlaamse minister van Cultuur voor niet-meerjarige subsidies. Voor meerjarige subsidies formuleert de minister een voorstel aan de Vlaamse Regering, die uiteindelijk beslist.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:46.531879879Z","laatstGewijzigd":"2023-03-24T06:05:46.531882189Z","laatstOntvangen":"2023-03-24T06:05:46.531882189Z","productnummer":"259","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e2405e3d-5fbb-461b-9395-f38baab9d582","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4a0787f8-8ad5-4cdd-8573-74f4bdd850fa"},{"id":"284d08a0-4d54-4ae6-9533-df2255494e92","generatedAtTime":"2023-03-24T06:05:46.32857Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Verzekering burgerlijke aansprakelijkheid voor beheerders van bossen en natuurreservaten"},"beschrijving":{"nl":"<p>Het Agentschap voor Natuur en Bos heeft een verzekering afgesloten die de <strong>burgerlijke aansprakelijkheid</strong> dekt van alle Vlaamse <strong>beheerders van bossen en natuurreservaten</strong> (zowel Vlaamse als erkende), in geval van schade aan derden als gevolg van het toegankelijk stellen van hun eigendommen. Zowel private als openbare bosbeheerders zijn verzekerd.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"uitzonderingen":{"nl":"<p>In deze gevallen is de schade niet gedekt:</p><ul><li>schade bij een jachtongeval;</li><li>schade door gebruik van motorrijtuigen;</li><li>schade bij organisatie van wedstrijden;</li><li>schade aan derden die niet te gast zijn in het bos of natuurreservaat (bijv. schade aan de omheining van een landbouwer);</li><li>burgerlijke aansprakelijkheid die persoonlijk ten laste van vrijwilligers kan worden gelegd.</li></ul>"},"zoektermen":{"nl":["bomen","boom","bos","bosbeheerder","boseigenaar","boseigenaars","bossen","boswachter","ethias","schade","schadegeval","verzekerd","verzekering"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De verzekering komt alleen tussen</p><ul><li>als de beheerder aansprakelijk gesteld wordt bij een ongeval met schade aan derden in zijn bos</li><li>bij gebrek aan of na tussenkomst van de verzekering onderschreven door de eigenaars van de bossen en natuurreservaten.</li></ul><p>De verzekering dekt (zowel lichamelijke als materiële) schade aan personen die gebruik maken van bossen en natuurreservaten in Vlaanderen, conform de geldende toegankelijkheidswetgeving en -regels van het betreffende gebied.</p><p>Op de website van het Agentschap voor Natuur en Bos vindt u meer details over deze verzekering en voorbeelden van wat gedekt is en wat niet.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Bij een ongeval moet u <strong>binnen de 15 dagen</strong> aangifte doen bij verzekeringsmaatschappij Ethias.</p><p>De aangifte moet gedateerd en ondertekend zijn en deze gegevens bevatten:</p><ul><li>plaats</li><li>datum en uur</li><li>oorzaken</li><li>aard van het ongeval</li><li>omstandigheden waarin het ongeval zich voorgedaan heeft</li><li>gegevens van de getuigen.</li></ul><p>Het is ook nuttig om beheersdocumenten in te sluiten i.v.m. het gevoerd bosbeheer. Ethias neemt vervolgens contact op met de betrokkenen om de zaak af te handelen.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:46.31090758Z","laatstGewijzigd":"2023-03-24T06:05:46.310909384Z","laatstOntvangen":"2023-03-24T06:05:46.310909384Z","productnummer":"415","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/284d08a0-4d54-4ae6-9533-df2255494e92","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0a2cce8a-98df-452a-98fc-0f11e2308cac"},{"id":"e687e982-689b-416c-9417-704a0547ff36","generatedAtTime":"2023-03-24T06:05:46.143791Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Verplichte haalbaarheidsstudie naar alternatieve energiesystemen voor grote gebouwen"},"beschrijving":{"nl":"<p>Bij de bouw van grote gebouwen is een haalbaarheidsstudie naar alternatieve energiesystemen <strong>verplicht</strong>. Die studie moet uitgevoerd worden bij nieuwe gebouwen die groter dan 1000 m² zijn. De verplichting staat in de Europese Richtlijn over energieprestaties van gebouwen.</p>"},"type":"Bewijs","themas":["EconomieWerk","MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"zoektermen":{"nl":["haalbaarheidstudie"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De verplichting geldt voor gebouwen die aan de volgende kenmerken voldoen:</p><ul><li>het nieuw op te richten (deel van een) gebouw is groter dan 1000 m²</li><li>de stedenbouwkundige vergunning is aangevraagd na 31 januari 2008</li><li>het gebouw of de delen in kwestie worden verwarmd om ten behoeve van mensen een specifieke binnentemperatuur te bekomen (dus vb. geen parkings)</li><li>onder 'nieuw op te richten (deel van een) gebouw' wordt verstaan:<ul><li>nieuwbouw</li><li>herbouw na volledige afbraak van een gebouw</li><li>afbraak gevolgd door herbouw van een deel van een gebouw</li><li>nieuw gebouwd toegevoegd deel van een gebouw dat uitgebreid wordt</li><li>ontmanteling.</li></ul></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>De haalbaarheidsstudie moet via een samenvattend webformulier worden ingediend bij het Vlaamse Energieagentschap (VEA) binnen de maand na het aanvragen van de stedenbouwkundige vergunning.</li><li>De uitvoerder van de haalbaarheidsstudie en de bouwheer moeten ook een <strong>papieren versie</strong> ervan ondertekenen.</li><li>De bouwheer moet die papieren versie 3 jaar bijhouden.</li></ul>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:46.126779408Z","laatstGewijzigd":"2023-03-24T06:05:46.126781048Z","laatstOntvangen":"2023-03-24T06:05:46.126781048Z","productnummer":"435","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e687e982-689b-416c-9417-704a0547ff36","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0542fa8b-4d73-46a9-b766-a8acf991572e"},{"id":"7c0ae26d-2632-4a2b-83f2-5043d0d4a909","generatedAtTime":"2023-03-24T06:05:45.985386Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning en subsidiëring van voorzieningen van de bijzondere jeugdbijstand"},"beschrijving":{"nl":"<p>Jongeren in problematische opvoedingssituaties of die een als misdrijf omschreven feit hebben gepleegd, kunnen door een Comité voor Bijzondere Jeugdzorg of door de jeugdrechter aan een private voorziening worden toevertrouwd.</p><p>Er zijn verschillende soorten voorzieningen waar jongeren in Vlaanderen of Brussel gebruik van kunnen maken:</p><ul><li>Begeleidingstehuizen (residentieel)</li><li>Gezinstehuizen (residentieel)</li><li>Onthaal-, oriëntatie- en observatiecentra (residentieel)</li><li>Dagcentra (semi-residentieel)</li><li>Thuisbegeleidingsdiensten (ambulant)</li><li>Diensten voor Begeleid Zelfstandig Wonen (BZW) (ambulant)</li><li>Diensten voor Pleegzorg</li><li>Diensten voor Herstelgerichte en Constructieve Afhandeling (HCA)</li><li>Diensten voor Crisishulp aan Huis (CAH)</li><li>Multifunctionele centra (experiment tot eind 2012).</li></ul><p>Jongerenwelzijn zorgt voor de erkenning en subsidiëring van deze voorzieningen.</p>"},"type":"Toelating","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 7 mei 2004 inzake Integrale Jeugdhulp</li><li>Decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de Integrale Jeugdhulp</li><li>Decreet inzake bijzondere jeugdbijstand van 7 maart 2008.<br /></li></ul>"},"zoektermen":{"nl":["bijzondere jeugdzorg","dagcentra","gezinshuis","gezinstehuis","plaatsing jongeren","pleegzorg","tehuis voor jongeren","thuisbegeleiding"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De voorwaarden voor erkenning kunnen betrekking hebben op :</p><ul><li>de infrastructuur</li><li>het opleidingsniveau en de aanvullende vorming van het personeel</li><li>de verzorging, het onderwijs, de beroepsopleiding en het opvoedingsregime van de minderjarigen</li><li>het pedagogische concept en programma</li><li>de ruimte binnen de programmatie, opgesteld door de Vlaamse overheid. De programmatie is een behoefteraming voor een bepaald type voorziening.</li></ul><p>Voor meer informatie over de voorwaarden voor een erkenning, kan u terecht bij de Afdeling Voorzieningenbeleid van het Agentschap Jongerenwelzijn.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U moet de erkenning aanvragen bij de Afdeling Voorzieningenbeleid van het Agentschap Jongerenwelzijn. De aanvraagformulieren voor een erkenning en de formulieren voor een wijziging van de erkenning vindt u op de website van Jongerenwelzijn.</p><p>De voorzieningen worden erkend voor een hernieuwbare erkenningstermijn van maximaal vijf jaar.</p><p>Voor meer informatie over de procedure voor een erkenning, kan u terecht bij de Afdeling Voorzieningenbeleid van het Agentschap Jongerenwelzijn.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:45.967921984Z","laatstGewijzigd":"2023-03-24T06:05:45.967924714Z","laatstOntvangen":"2023-03-24T06:05:45.967924714Z","productnummer":"593","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7c0ae26d-2632-4a2b-83f2-5043d0d4a909","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/71535030-8042-4c6a-becd-4a3284b2ab33"},{"id":"569b61f9-aeb2-4453-b6f6-342a459f670e","generatedAtTime":"2023-03-24T06:05:45.721298Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidiëring van projecten en bijzondere initiatieven inzake Jeugdhulp"},"beschrijving":{"nl":"<p>Het agentschap Opgroeien (Jeugdhulp) subsidieert naast verschillende soorten voorzieningen ook projecten, bijzondere initiatieven die zich richten tot een specifieke doelgroep of op een bijzondere probleemsituatie.</p><p>Er zijn verschillende soorten projecten: onthemende projecten, pedagogische projecten, projecten voor pleegzorg, time-out projecten en andere projecten (vb. Youth at Risk en de proeftuin).</p>"},"type":"Toelating","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"zoektermen":{"nl":["jeugd","jeugdbijstand","jeugdzorg","jongeren","projecten","subsidies","subsidiëring"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Voor <a href=\"https://www.jeugdhulp.be/themas/projecten\">meer informatie over de projecten en de subsidiëring ervan</a> kunt u terecht op de website van Jeugdhulp.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:45.704592679Z","laatstGewijzigd":"2023-03-24T06:05:45.704594746Z","laatstOntvangen":"2023-03-24T06:05:45.704594746Z","productnummer":"458","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/569b61f9-aeb2-4453-b6f6-342a459f670e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/9a0a9da0-4b04-47f9-97d5-9112e439b98f"},{"id":"860917a5-b261-418c-a517-88a8d551e06a","generatedAtTime":"2023-03-24T06:05:45.56192Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Bevolkingsonderzoek bij pasgeborenen naar aangeboren aandoeningen via een bloedonderzoek"},"beschrijving":{"nl":"<p>Alle pasgeboren baby’s in Vlaanderen kunnen tussen de 3e en de 5e dag na de geboorte getest worden op 12 aangeboren aandoeningen. Dat gebeurt via een bloedonderzoek. De kosten van het onderzoek worden betaald door de Vlaamse overheid. Voor de ouders zelf is het onderzoek gratis.</p>"},"type":"AdviesBegeleiding","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 6 mei 1997 betreffende de centra voor metabolische aandoeningen.</p>"},"zoektermen":{"nl":["aandoeningen","aangeboren","hielprik","metabole afwijkingen","metabolische afwijkingen","stofwisselingsziekten"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Door een prik in de rug van het handje van de baby, worden enkele druppels bloed op een kaartje met filterpapier (bloedkaartje) opgevangen. De bloedkaartjes worden voor onderzoek opgestuurd naar één van de Vlaamse centra voor opsporing van aangeboren metabole aandoeningen. </p><p>Het resultaat van het bloedonderzoek wordt alleen gemeld aan de ouders als het afwijkend is. In dat geval wordt de behandelende arts van de pasgeborenen verwittigd. In samenspraak met de ouders worden er bijkomende onderzoeken gedaan. Zodra de diagnose gekend is, kan een gepaste behandeling starten.</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Gratis voor de ouders van de pasgeborene.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:05:45.543943106Z","laatstGewijzigd":"2023-03-24T06:05:45.543944721Z","laatstOntvangen":"2023-03-24T06:05:45.543944721Z","productnummer":"212","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/860917a5-b261-418c-a517-88a8d551e06a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/474bcf99-18cf-4a17-b8bb-fffbab698009"},{"id":"a0b2cf8a-c279-487b-9940-5009d6bf73a3","generatedAtTime":"2023-03-24T06:05:45.415335Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning en financiering/subsidiëring van woonzorgcentra"},"beschrijving":{"nl":"<p>De Vlaamse overheid is bevoegd voor de programmatie, het toezicht, de erkenning en de financiering/subsidiëring van de woonzorgcentra in Vlaanderen en Brussel. Een woonzorgcentrum biedt permanente opvang en verzorging aan ouderen.</p>"},"type":"Toelating","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p><strong>Financiering:</strong></p><ul><li>Decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</li><li>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</li><li>Besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten</li></ul>"},"zoektermen":{"nl":["erkenning","inspectie","ouderentehuis","rusthuis","rustoord","rvt","verzorgingstehuis","woonzorgcentra"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<h3>Erkenning</h3><ul><li>De programmatie geeft aan hoeveel zorginstellingen van elk type nodig zullen zijn per gemeente. Een woonzorgcentrum kan pas een erkenning krijgen, als de aangevraagde capaciteit of de wijziging van capaciteit van een voorziening past binnen de<strong> programmatie</strong>. U moet daarvoor een <strong>planningsvergunning </strong>aanvragen bij Zorg en Gezondheid. </li><li>Zorg en Gezondheid erkent woonzorgcentra. Het woonzorgcentrum moet aan een aantal <strong>erkenningsvoorwaarden </strong>voldoen.</li></ul><h3>Financiering/subsidiëring</h3><p>Woonzorgcentra komen, mits het voldoen aan bepaalde voorwaarden, in aanmerking voor volgende financiering/subsidies, toegekend door het agentschap Zorg en Gezondheid:</p><ul><li>De tegemoetkoming voor zorg, te factureren aan de zorgkas waarbij de bewoner in kwestie is aangesloten. <br />Onder de tegemoetkoming voor zorg valt enerzijds de <strong>basistegemoetkoming voor zorg</strong>. Deze wordt bepaald op basis van het zorgprofiel van de bewoners en het aanwezige personeel in de voorziening in kwestie.<br />Daarnaast valt onder de tegemoetkoming voor zorg ook de <strong>tegemoetkoming in de kosten voor incontinentiemateriaal</strong> van zwaar zorgbehoevenden of van niet-afhankelijke personen;</li><li><p><strong>Aanvullende financiering </strong>voor de woonzorgcentra na de integratie van het derde luik in de basistegemoetkoming voor zorg;</p></li><li><p>Nieuwe en vernieuwde woonzorgcentra en centra voor kortverblijf komen in aanmerking voor een <strong>infrastructuurforfait </strong>van 5,40 euro per dag (gezondheidsindex december 2021), per woongelegenheid. Hiermee wil de Vlaamse Regering de verhoging van de dagprijs van een kamer in een woonzorgcentrum of een centrum voor kortverblijf na een infrastructuurinvestering beperken;</p></li><li><p>Subsidie voor woonzorgcentra met een bijzondere erkenning voor de opvang van personen met <strong>jongdementie;</strong></p></li><li><p>Volgende tegemoetkomingen naar aanleiding van met de sector afgesloten <strong>sociale akkoorden</strong>:<br />- Tegemoetkoming voor de maatregel vrijstelling arbeidsprestaties en eindeloopbaan<br />- Betaling van de IFIC-meerkost<br />- Syndicale premie;</p></li><li><p>Subsidie voor de tewerkstelling van personeelsleden met een <strong>ex-DAC</strong>-statuut;</p></li><li><p>Subsidie voor de tewerkstelling van personeelsleden met een <strong>ex-gesco</strong>-statuut;</p></li><li><p>Subsidie <strong>bijzondere beoepstitels en -kwalificaties</strong>;</p></li><li><p>Een <strong>informaticapremie </strong>voor elk nieuw erkend woonzorgcentrum;</p></li><li><p>Subsidies voor <strong>ad-hoc-projecten</strong> gerelateerd aan de werking van woonzorgcentra.</p></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Alle nodige <a href=\"https://www.zorg-en-gezondheid.be/de-erkenning-aanvragen-voor-een-woonzorgcentrum\">formulieren en informatie over de aanvraagprocedure</a> voor een erkenning als woonzorgcentrum en meer informatie over de financiering van de woonzorgcentra kunt u terugvinden op de website van Zorg en Gezondheid.</p><p>De inspectie van woonzorgcentra gebeurt door het agentschap Zorginspectie. Zorg en Gezondheid baseert zich op die inspecties voor het al dan niet toekennen, inkorten of opheffen van de erkenning.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:05:45.398336633Z","laatstGewijzigd":"2023-03-24T06:05:45.398338727Z","laatstOntvangen":"2023-03-24T06:05:45.398338727Z","productnummer":"592","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a0b2cf8a-c279-487b-9940-5009d6bf73a3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/98f83393-2bd1-413e-b767-2040ea72aa78"},{"id":"bdb5c2e4-eaa3-4918-afb9-cec995459438","generatedAtTime":"2023-03-24T06:05:45.217583Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Gratis abonnement van NMBS en De Lijn voor oorlogsinvaliden en oud-strijders"},"beschrijving":{"nl":"<p>Als oorlogsinvalide kunt u bij De Lijn aanspraak maken op een gratis jaarabonnement (Omnipas).</p>"},"type":"Bewijs","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"zoektermen":{"nl":["abonnement","gratis","jaarabonnement","oorlogsinvalide","oorlogsinvaliden","oud-strijders","oudstrijder"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Het gratis jaarabonnement is er voor:</p><ul><li>oorlogsinvaliden in het bezit van een verminderingskaart 75 % met code 30, 31, 32, 50, 51 en 52</li><li>oud-strijders in het bezit van de verminderingskaarten van 75 % en 50 %</li><li>daarmee gelijkgestelden die op wettelijke basis het recht op vermindering genieten.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>De verminderingskaarten worden uitgereikt door:</p><ul><li>FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu</li><li>FOD Financiën</li></ul><p>Deze gratis abonnementen worden afgeleverd door de NMBS en zijn geldig op alle openbare vervoernetten van België met uitzondering van de MIVB en de TEC, die zelf een vervoerbewijs uitreiken.</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Het jaarabonnement is gratis.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:05:45.198716031Z","laatstGewijzigd":"2023-03-24T06:05:45.198718421Z","laatstOntvangen":"2023-03-24T06:05:45.198718421Z","productnummer":"250","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bdb5c2e4-eaa3-4918-afb9-cec995459438","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c70f0055-c8b7-431e-a296-d944b6a2e961"},{"id":"867918a9-10f3-4f41-b82d-1bc188966b46","generatedAtTime":"2023-03-24T06:05:44.993727Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Buzzy Pazz of Omnipas 'Vervoersgarantie' (VG)"},"beschrijving":{"nl":"<p>Mensen met een leefloon, inkomensgarantie en ouderen met een gewaarborgd inkomen kunnen tegen verminderde prijs een Buzzy Pazz of Omnipas Vervoersgarantie (VG) voor twaalf maanden kopen. Dit vervoerbewijs geeft recht op onbeperkt gebruik van alle vervoerdiensten van De Lijn.</p><p>Ook jongeren in Begeleid Zelfstandig Wonen of asielzoekers kunnen een VG-abonnement krijgen.</p>"},"type":"Bewijs","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"uitzonderingen":{"nl":"<p>In tegenstelling tot de gewone Buzzy Pazz of Omnipas, betaalt de Lijn niets terug in geval van opzegging.</p>"},"zoektermen":{"nl":["abonnement","buzzy pazz","inkomensgarantie","korting","leefloon","lokaal opvanginitiatief","ocmw","omnipas","vervoergarantie","vervoersgarantie","vg","tarief"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U komt in aanmerking voor een Buzzy Pazz of Omnipas aan verminderd tarief als u:</p><ul><li>recht hebt op het leefloon of gelijkgesteld bent door<ul><li>inwonende schoolgaande kinderen, minderjarig of meerderjarig</li><li>inwonende ouders</li><li>personen met wie de gerechtigde een gezin vormt, voor zover hun inkomsten meegerekend werden.</li></ul></li><li>recht hebt op het equivalent leefloon</li><li>in een lokaal opvanginitiatief (LOI) verblijft.</li><li>het gewaarborgd inkomen voor bejaarden (GIB) ontvangt</li><li>een inkomensgarantie voor ouderen (IGO) ontvangt.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li><div><strong>Persoon die het leefloon (of equivalent ervan) krijgt of die verblijft in een lokaal opvanginitiatief.</strong><br />De Lijn stuurt u een overschrijvingsformulier op basis van een bestand met rechthebbenden dat ze ontvangt van de instellingen in kwestie. Na betaling ontvangt u uw VG-abonnement.</div></li><li><div><strong>Oudere met een gewaarborgd inkomen of een inkomensgarantie</strong>.<br />U hebt het attest nodig dat afgeleverd wordt door de Rijksdienst voor Pensioenen om het VG-abonnement aan te vragen, aan het loket van een Lijnwinkel of door uw aanvraag op te sturen naar De Lijn.</div></li><li><div><strong>Asielzoeker</strong>.<br />Fedasil (Federaal Agentschap voor de Opvang van Asielzoekers) of het Rode Kruis vragen het VG-netabonnement aan. U krijgt een overschrijvingsformulier van De Lijn. Na betaling door overschrijving of in de Lijnwinkel ontvangt u uw abonnement.</div></li><li><div><strong>Jongere in Begeleid Zelfstandig Wonen</strong>.<br />U kunt dit VG-abonnement alleen aanvragen via de dienst Bijzondere Jeugdzorg. U krijgt een overschrijvingsformulier van De Lijn. Na betaling door overschrijving of in de Lijnwinkel ontvangt u uw abonnement.</div></li></ul>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Een Buzzy Pazz of Omnipas Vervoersgarantie (VG) kost 44 euro voor 1 jaar.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:05:44.976621569Z","laatstGewijzigd":"2023-03-24T06:05:44.976623603Z","laatstOntvangen":"2023-03-24T06:05:44.976623603Z","productnummer":"248","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/867918a9-10f3-4f41-b82d-1bc188966b46","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c82dcd00-9366-44c9-8909-36d3e736ebf7"},{"id":"8d77f50f-4ecd-4a61-b8cb-46ca318bb036","generatedAtTime":"2023-03-24T06:05:44.86346Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Omnipas 65+"},"beschrijving":{"nl":"<p>De <strong>Omnipas 65+</strong> is een jaarabonnement dat op een <strong>MOBIB-kaart</strong> geladen wordt. Zo'n MOBIB-kaart is een stevige, kleine, kaart met een computerchip erin. Het jaarabonnement kost 54 euro.</p><p>Als u minder dan 17 keer per jaar bus of tram van De Lijn neemt, dan zijn een Lijnkaart, m-ticket, m-card10, sms-ticket of biljet voordeliger.</p>"},"type":"Bewijs","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE"],"uitzonderingen":{"nl":"<p>Met de Omnipas 65+ op MOBIB-kaart van De Lijn kunt u <strong>niet </strong>gratis reizen:</p><ul><li>op de Limburgse snellijnen</li><li>in geval van evenementenvervoer</li><li>met het openbaar vervoer van de MIVB (Brussel) en de TEC (Wallonië).</li></ul>"},"zoektermen":{"nl":["65 +","65 plus","65+","65-plussers","65plus","abonnement","bejaarden","brussel","bus","de lijn","gepensioneerd","gratis","mobib","mobib 65 plus","mobib-65 plus","mobib-65+","mobib-kaart","mobib-kaart 65+","omnipas 65 plus","omnipas 65+","onmi","senioren","seniors","vlaams gewest","wallonie","woont"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>Om een Omnipas 65+ op MOBIB-kaart van De Lijn te kunnen kopen, moet u <strong>65 jaar</strong> zijn of worden.</li><li>Met de Omnipas 65+ kunt u een jaar lang onbeperkt reizen met De Lijn. Er zijn enkele uitzonderingen (zie bij 'Uitzonderingen').</li></ul><h3>Gebruik</h3><p>Bij elke op- en overstap moet u de <strong>MOBIB-kaart scannen</strong>: hou uw MOBIB-kaart<strong> voor de blauwe cirkel </strong>onderaan de MOBIB-kaartlezer. Zodra de kaartlezer uw kaart herkent, verschijnt er op het scherm een <strong>vinkje </strong>('V') <strong>op een groen veld</strong>. In dat geval is uw rit goed gescand en mag u doorlopen. Bij het afstappen hoeft u niets te doen.</p><p>Hoe met MOBIB-kaart registreren op bus of tram van De Lijn?</p><ul><li>De Omnipas 65+ of MOBIB-kaart is een vervoerbewijs <strong>op naam</strong>: alleen de houder mag de kaart gebruiken.</li><li>Bij een controle moet u uw MOBIB-kaart en uw identiteitskaart kunnen tonen. Als u de kaart niet bij u hebt, moet u dus op voorhand een ander vervoerbewijs kopen.</li><li>Kinderen <strong>tot en met 5 jaar</strong> mogen gratis meereizen.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Hebt u nog <strong>geen MOBIB-kaart</strong>? Koop uw MOBIB-kaart met Omnipas 65+ online, per post, of in een Lijnwinkel.</li><li>Hebt u al een <strong>MOBIB-kaart van De Lijn</strong> maar nog geen Omnipas 65+? Koop uw Omnipas 65+ online, per post, of in een Lijnwinkel.<strong> </strong>Na betaling wordt uw abonnement, bij uw eerste registratie op een bus of tram van De Lijn, automatisch op uw kaart geladen.</li><li>Hebt u een <strong>MOBIB-kaart van een andere vervoersmaatschappij</strong> (NMBS, TEC of MIVB)? Dan moet u geen nieuwe kaart kopen. U kunt het abonnement op uw kaart laten toevoegen. Ga daarvoor eenmalig langs bij een Lijnwinkel.</li></ul>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Voor de aanmaak van de <strong>MOBIB-kaart</strong> betaalt u <strong>5 euro</strong> per vijf jaar.<br />Het abonnement zelf, de Omnipas 65+, kost <strong>53 euro</strong> per jaar.</p><p><strong>Kortingen</strong></p><ul><li>Mensen met een leefloon, personen die verblijven in een lokaal opvanginitiatief (LOI), ouderen met een gewaarborgd inkomen of inkomensgarantie en asielzoekers komen in aanmerking voor de Omnipas Vervoersgarantie (VG).</li><li><strong>Personen met een handicap</strong> (PMH-abonnement) kunnen <strong>gratis </strong>reizen met De Lijn. U gebruikt hiervoor uw kartonnen Omnipas. Die blijft geldig tot herroeping. </li></ul>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:05:44.846163433Z","laatstGewijzigd":"2023-03-24T06:05:44.846165055Z","laatstOntvangen":"2023-03-24T06:05:44.846165055Z","productnummer":"245","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8d77f50f-4ecd-4a61-b8cb-46ca318bb036","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3da18483-ff8c-4196-9e3a-c6d1ed9f6e4a"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=13",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=12",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-03-24T06:05:44.86346Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=14",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-03-24T06:05:49.943804Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=13",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "11d4482c-854e-47b1-a2a9-01dc1372a2f3",
+      "generatedAtTime": "2023-03-24T06:05:49.943804Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Belasting op de inverkeerstelling (BIV)"
+      },
+      "beschrijving": {
+        "nl": "<p>De belasting op inverkeerstelling (BIV), ook soms inschrijvingstaks genoemd, is een <strong>eenmalige belasting</strong> die iedere eigenaar van een <strong>nieuw of tweedehands voertuig</strong> moet betalen <strong>vanaf de ingebruikname</strong> van het voertuig <strong>op de openbare weg in België</strong>. In het Vlaamse gewest wordt de BIV geïnd door de Vlaamse Belastingdienst.</p>"
+      },
+      "type": "FinancieleVerplichting",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "uitzonderingen": {
+        "nl": "<p>In de volgende gevallen is er geen BIV verschuldigd: </p><ul><li>Voor de <strong>herinschrijving</strong> van eenzelfde voertuig door <strong>dezelfde belastingplichtige</strong> (bijv. de firmanaam wijzigt maar het btw-nummer blijft hetzelfde of bij een wijziging van een nummerplaat omdat er meer dan twee adreswijzigingen op het inschrijvingsbewijs vermeld staan of bij een wijziging van een <strong>oude nummerplaat</strong> naar een <strong>Europese nummerplaat</strong>).</li><li>Voor de <strong>herinschrijving </strong>van eenzelfde voertuig op naam van de overlevende echtgenoot of wettelijk samenwonende partner als de titularis van het voertuig overleden is. Als het voertuig wordt heringeschreven op naam van één van de kinderen is er<strong> wel opnieuw BIV verschuldigd.</strong></li><li>Voor voertuigen met een handelaarsplaat (Z-plaat).</li><li>Voor kampeerwagens (mobilhomes), lichte vrachtwagens en vrachtwagens met een MTT van meer dan 3,5 ton.</li><li>Voor speedpedelecs en lichte vierwielers die ingeschreven zijn bij de DIV.</li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "biv",
+          "lichte vracht",
+          "overname overdracht",
+          "verkeersbelasting",
+          "scooter",
+          "cng",
+          "lng",
+          "uitvoer",
+          "fijnstof",
+          "inverkeersstelling",
+          "auto",
+          "autotaks",
+          "autotax",
+          "belasting",
+          "autobelasting",
+          "speed pedelecs",
+          "export",
+          "handelaarsplaat",
+          "inschrijvingstaks",
+          "boot"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De belasting op de inverkeerstelling (BIV) <strong>moet betaald worden</strong> voor personenauto's, minibussen en motorfietsen, <a href=\"https://belastingen.vlaanderen.be/vkb_boten\">boten</a> en <a href=\"https://belastingen.vlaanderen.be/vkb_vliegtuigen\">vliegtuigen</a>, die ingeschreven zijn in België.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Na de <strong>eerste inschrijving</strong> van uw voertuig bij de <strong>DIV</strong> (Dienst voor Inschrijvingen van Voertuigen) ontvangt u van de Vlaamse Belastingdienst <strong>automatisch</strong> een aanslagbiljet. Na ontvangst van het aanslagbiljet hebt u <strong>2 maanden</strong> de tijd om de BIV te betalen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Voor de berekening van de BIV wordt er rekening gehouden met:</p><ul><li>De <strong>milieukenmerken</strong> van het voertuig waaronder CO2-uitstoot, uitstoot fijn stof, brandstoftype, euronorm en aanwezigheid roetfilter.</li><li>De <strong>leeftijd van het voertuig</strong> volgens datum eerste inschrijving.</li></ul><p>U kunt zelf berekenen hoeveel BIV u moet betalen via de <a href=\"https://belastingen.fenb.be/ui/public/vkb/simulatie\">online simulator</a> of met de <a href=\"https://www.uat-vlaanderen.be/simulatie-verkeersbelastingen\">simulatie-app</a>. De simulatie is louter indicatief en geeft niet het officiële bedrag.</p><h3>Vrijstelling van de belasting op inverkeerstelling</h3><p>In bepaalde gevallen is een vrijstelling van de BIV mogelijk:</p><ul><li>Vrijstelling voor persoon met een handicap</li><li><a href=\"https://belastingen.vlaanderen.be/BIV-vrijstelling-voor-de-overdracht-tussen-ex-partners\">Vrijstelling voor de <strong>overdrach</strong>t tussen (ex-)echtgenoten of (ex-)wettelijk samenwonenden</a></li><li><p><a href=\"https://www.uat-vlaanderen.be/vrijstelling-van-de-belasting-op-inverkeerstelling-en-de-verkeersbelasting-wegens-uitvoer-van-het-voertuig\">Vrijstelling van de belasting op inverkeerstelling en de verkeersbelasting wegens uitvoer van het voertuig</a></p></li><li>Vrijstelling voor pure elektrische en pure waterstofvoertuigen</li><li>Tijdelijke vrijstelling voor plug-in hybride voertuigen en CNG/LNG voertuigen</li><li>Vrijstelling voor <strong>motorfietsen</strong> aangedreven op <strong>elektriciteit </strong>of <strong>waterstof. </strong>Deze vrijstelling geldt niet voor leasingbedrijven.</li></ul><p>Als u denkt in aanmerking te komen voor een vrijstelling, dan moet u dit aanvragen. Op de website van de Vlaamse Belastingdienst vindt u <a href=\"https://www.uat-vlaanderen.be/formulieren-verkeersbelastingen\">de formulieren om de vrijstelling aan te vragen of stop te zetten</a>.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:49.926306767Z",
+      "laatstGewijzigd": "2023-03-24T06:05:49.926308453Z",
+      "laatstOntvangen": "2023-03-24T06:05:49.926308453Z",
+      "productnummer": "566",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/11d4482c-854e-47b1-a2a9-01dc1372a2f3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/46e4c228-feee-4e66-b8f3-5791c25aae93"
+    },
+    {
+      "id": "2ceddf32-b1db-4b03-8b98-fd2403006109",
+      "generatedAtTime": "2023-03-24T06:05:49.114539Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Aanvraag tot onderzoek van het binnenmilieu in een woning of openbaar gebouw"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u gezondheidsklachten hebt die te maken hebben met de luchtkwaliteit in uw woning, dan kunt u daarvoor de hulp inroepen van gezondheidswerkers. Zij kunnen voor u een aanvraag indienen voor een onderzoek van het binnenmilieu van uw woning.</p><p>Ook voor publieke toegankelijke openbare gebouwen zoals scholen kan een aanvraag voor een onderzoek ingediend worden.</p><p>Op de website van Zorg en Gezondheid vindt u meer informatie over de kwaliteit van het binnenmilieu.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 11 juni 2004 houdende maatregelen tot bestrijding van de gezondheidsrisico's door verontreiniging van het binnenmilieu (B.S.19.10.2004).</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "analyse",
+          "binnenklimaat",
+          "binnenlucht",
+          "binnenshuis",
+          "controle",
+          "klimaat",
+          "lucht",
+          "luchtverontreiniging",
+          "meting",
+          "onderzoek",
+          "ventilatie",
+          "vervuilde lucht"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Om een aanvraag in te kunnen dienen voor een onderzoek van het binnenmilieu:</p><ul><li>moet u gezondheidsklachten hebben of een potentieel gezondheidsrisico lopen door verontreiniging van het binnenmilieu</li><li>moet een dienst of tussenpersoon voor u het onderzoek aanvragen met een standaardformulier.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ol><li>Neem het best eerst contact op met een van deze tussenpersonen:<ul><li>gemeentelijke (huisvestings)ambtenaar</li><li>uw huisarts</li><li>OCMW-verpleegkundigen of maatschappelijk werker</li><li>gezondheidswerker.</li></ul></li><li>De bovenstaande tussenpersonen kunnen dan met het standaardformulier een gemotiveerde aanvraag indienen bij de Medisch Milieukundige van het Lokaal Gezondheidsoverleg (LOGO).</li><li>De Medisch Milieukundige zal op basis van de aanvraag en een vooronderzoek beslissen of een plaatsbezoek noodzakelijk is en of een meting een meerwaarde oplevert.</li></ol><p>Artsen kunnen de aanvraag voor een onderzoek ook rechtstreeks bezorgen aan de afdeling Preventie.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het onderzoek is gratis.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:49.097814909Z",
+      "laatstGewijzigd": "2023-03-24T06:05:49.09781627Z",
+      "laatstOntvangen": "2023-03-24T06:05:49.09781627Z",
+      "productnummer": "214",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2ceddf32-b1db-4b03-8b98-fd2403006109",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/99fba5f6-47ec-4dc8-bcff-c4c707bd7f0d"
+    },
+    {
+      "id": "489eae8f-8e16-4fa8-bff8-d2da98daa3f9",
+      "generatedAtTime": "2023-03-24T06:05:48.947636Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Adviezen inzake de relatie tussen de kwaliteit van het milieu en gezondheid"
+      },
+      "beschrijving": {
+        "nl": "<p>Het team Milieugezondheidszorg van Zorg en Gezondheid (Afdeling Preventie) draagt bij tot het vrijwaren van een gezond leefmilieu. Afhankelijk van de problematiek geeft zij advies aan provinciebesturen, gemeentebesturen, het artsenkorps en de algemene bevolking en houdt ze toezicht op de naleving van het Vlaams Reglement inzake Milieuvergunningen (VLAREM) en van milieu-effectrapportering (MER).</p><p>Het voornaamste activiteitsdomein betreft advies over de relatie tussen de kwaliteit van milieu en de gezondheid aan besturen, professionelen uit de gezondheids- of milieusector, NGO's en burgergroepen en individuele burgers:</p><ul><li>de kwaliteit van de omgevingslucht</li><li>de kwaliteit van het drinkwater (leiding- en putwater)</li><li>bodemverontreiniging</li><li>ongezonde woningen</li><li>zwembaden en open zwemgelegenheden</li></ul><p>Om die activiteiten te kunnen uitvoeren, beschikt de afdeling over een buitendienst in elke provincie. Vele tussenkomsten gebeuren ook in opdracht van provincies of gemeenten.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "adviezen",
+          "gezondheid",
+          "milieu",
+          "milieugezondheidszorg"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:05:48.929991508Z",
+      "laatstGewijzigd": "2023-03-24T06:05:48.929994242Z",
+      "laatstOntvangen": "2023-03-24T06:05:48.929994242Z",
+      "productnummer": "443",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/489eae8f-8e16-4fa8-bff8-d2da98daa3f9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f08568ad-8b54-4000-8952-5dbb3011b956"
+    },
+    {
+      "id": "c5bfedfd-138d-4734-b4a5-e28c1ad25c38",
+      "generatedAtTime": "2023-03-24T06:05:48.812333Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor sensibiliserende initiatieven van de Vlaamse Gebarentaal"
+      },
+      "beschrijving": {
+        "nl": "<p>De gebarentaal die in Vlaanderen wordt gebruikt, heet Vlaamse Gebarentaal of VGT. </p><p>Voor de organisatie, medeorganisatie of ondersteuning van projecten die bijdragen tot de maatschappelijke verankering van de Vlaamse Gebarentaal kunt u een subsidie aanvragen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 5 mei 2006 houdende de erkenning van de Vlaamse Gebarentaal.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>De aanvrager is een organisatie met rechtspersoonlijkheid en is gevestigd in Vlaanderen of Brussel.</li><li>Feitelijke verenigingen en natuurlijke personen komen niet in aanmerking voor subsidiëring.</li><li>Wanneer meerdere organisaties samenwerken, dient één organisatie de aanvraag in namens het samenwerkingsverband.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Jaarlijks verschijnt in november een projectoproep.</li><li>Op basis hiervan kunt u een aanvraagdossier indienen bij het agentschap Sociaal-Cultureel Werk voor Jeugd en Volwassenen.</li><li>U dient uw aanvraagdossier in <strong>vóór 1 februari.</strong></li><li>Meer info over de procedure om subsidies aan te vragen vindt u op de website van de afdeling Sociaal-Cultureel Werk.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:48.79367938Z",
+      "laatstGewijzigd": "2023-03-24T06:05:48.793705082Z",
+      "laatstOntvangen": "2023-03-24T06:05:48.793705082Z",
+      "productnummer": "612",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c5bfedfd-138d-4734-b4a5-e28c1ad25c38",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a2b8216d-67a1-4e61-8f08-526f2202f4b0"
+    },
+    {
+      "id": "8e55d518-8933-495c-8f79-eddec8e508fe",
+      "generatedAtTime": "2023-03-24T06:05:48.629169Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning en subsidiëring van organisaties voor sociaal-cultureel volwassenenwerk"
+      },
+      "beschrijving": {
+        "nl": "<p>Binnen het sociaal-cultureel volwassenenwerk zijn er verschillende organisaties voor sociaal-cultureel volwassenenwerk.</p><h3>Vereniging</h3><p>Een vereniging is een netwerk dat gericht is op zingeving en emancipatie van leden en deelnemers, met het oog op persoonlijke en maatschappelijke ontplooiing.</p><h3>Beweging</h3><p>Een beweging is een organisatie die gericht is op maatschappelijke verandering</p><h3>Een vormingsinstelling</h3><ul><li><strong>Volkshogescholen (Vormingplus-centra)</strong><br />De volkshogescholen zijn pluralistische organisaties. Zij hebben als opdracht een eigen programma-aanbod inzake niet-formele educatie aan te bieden en samenwerkingen op te zetten met het oog op het versterken van het niet-formele educatieve aanbod in de regio.</li><li><strong>Gespecialiseerde vormingsinstelling</strong><br />Een gespecialiseerde vormingsinstelling is een sociaal-culturele organisatie die gespecialiseerd is in de ontwikkeling van een educatief aanbod. De invalshoek is hierbij thematisch.</li><li><strong>Syndicale vormingsinstellingen</strong><br />Syndicale vormingsinstellingen zijn vzw's die gelinkt zijn met erkende vakorganisaties. Deze vzw's zorgen voor een open educatief aanbod voor de leden van de vakorganisatie.</li><li><strong>Vormingsinstellingen voor personen met een handicap</strong><br />Dit zijn landelijke vormingsinstellingen die via niet-formele educatie een sociaal-culturele werking ontplooien voor personen met een handicap en hun omgeving.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<h3>Vereniging</h3><ul><li>Een vereniging moet bestaan uit 50 werkende afdelingen of groepen en gespreid zijn over minstens drie Vlaamse provincies.<br />Het tweetalige gebied Brussel-Hoofdstad telt als één provincie.</li></ul><h3>Beweging</h3><ul><li>Een beweging heeft een landelijke werking en richt zich hiervoor op een ruim publiek.</li></ul><p>Verdere voorwaarden voor erkenning en subsidiëring van verenigingen, bewegingen en vormingsinstellingen kunt u nalezen op de website van de afdeling Sociaal-Cultureel Werk. </p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:48.612110307Z",
+      "laatstGewijzigd": "2023-03-24T06:05:48.612112446Z",
+      "laatstOntvangen": "2023-03-24T06:05:48.612112446Z",
+      "productnummer": "619",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8e55d518-8933-495c-8f79-eddec8e508fe",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b9416c4a-a774-4352-ae29-966646b921ce"
+    },
+    {
+      "id": "924609f6-7ff3-4ed6-a36d-7881fdb063d2",
+      "generatedAtTime": "2023-03-24T06:05:48.446056Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams",
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Leerlingenkaart"
+      },
+      "beschrijving": {
+        "nl": "<p>De leerlingenkaart is een <strong>voordeelkaart</strong> voor alle leerlingen <strong>secundair onderwijs</strong>. Op vertoon van een leerlingenkaart kunnen leerlingen op verschillende plaatsen en in winkels genieten van een prijskorting. Op de website van de Vlaamse scholierenkoepel vindt u een <a href=\"https://www.scholierenkoepel.be/leerlingenkaart\">overzicht van alle voordelen</a>. </p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "uitzonderingen": {
+        "nl": "<p>Leerlingen uit het <strong>deeltijds kunstonderwijs</strong> of <strong>volwassenenonderwijs</strong> hebben geen recht op een leerlingenkaart. </p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Alle leerlingen in het<strong> secundair onderwijs</strong> in Vlaanderen of Brussel (bso, tso, kso, buso, dbso, OKAN, leertijd en HBO5 Verpleegkunde) hebben recht op een leerlingenkaart. </li><li>Ook leerlingen die <strong>huisonderwijs</strong> volgen hebben recht op een leerlingenkaart. </li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Kaarten worden besteld door de <strong>school</strong>, en niet door de leerlingen. Scholen kunnen hun kaarten <a href=\"https://www.scholierenkoepel.be/leerlingenkaart\">online bestellen</a> via de website van de Vlaamse Scholierenkoepel. </p><p>Wie <strong>huisonderwijs</strong> volgt kan een kaart aanvragen door een e-mail te sturen naar <a href=\"mailto:info@scholierenkoepel.be\">info@scholierenkoepel.be</a> met een kopie van de identiteitskaart van de leerling en een adres waarnaar de kaart kan verstuurd worden. </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Leerlingenkaarten bestellen kan<strong> gratis</strong>. </p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:48.428480829Z",
+      "laatstGewijzigd": "2023-03-24T06:05:48.428482444Z",
+      "laatstOntvangen": "2023-03-24T06:05:48.428482444Z",
+      "productnummer": "642",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/924609f6-7ff3-4ed6-a36d-7881fdb063d2",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/669343b8-5d03-4d8c-b832-243b89734343"
+    },
+    {
+      "id": "d9af8d42-615c-4d03-be9b-72ee11bfc93f",
+      "generatedAtTime": "2023-03-24T06:05:48.273969Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal",
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams",
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Startbanenproject 'Scholen voor Jongeren - Jongeren voor Scholen' voor een positief schoolklimaat"
+      },
+      "beschrijving": {
+        "nl": "<p>Het startbanenproject ‘Scholen voor Jongeren - Jongeren voor Scholen’ (afgekort ‘JoJo’) stelt jongeren te werk in scholen in Vlaanderen en Brussel. Dit bevordert een positief schoolklimaat.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>24 december 1999 - Wet ter bevordering van de werkgelegenheid.</li><li>30 maart 2000 - Koninklijk besluit tot uitvoering van de artikelen 23, §3, 32, tweede en derde lid, 33, §2, derde lid, 34, 36, 37, §1, 1°, 39, §4, tweede lid, en §5, tweede lid, 42, §2, 44, §4, derde lid, 46, eerste lid, 47, §4, eerste en vierde lid, van de wet van 24 december 1999 ter bevordering van de werkgelegenheid.</li><li>25 oktober 2000 - Samenwerkingsakkoord tussen de Staat en de Vlaamse Gemeenschap betreffende de startbaanovereenkomst.</li><li>22 december 2003 - Programmawet (cfr. Titel II - Werk / Hoofdstuk 1 - Startbanen).</li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "Jojo",
+          "jo jo medewerker",
+          "jo-jo",
+          "jojo-medewerker",
+          "jojomedewerker",
+          "jojoproject",
+          "medewerker",
+          "startbaan",
+          "startbaanproject",
+          "startbanen",
+          "startbanenproject"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Scholen voor Jongeren – Jongeren voor Scholen’ bestaat uit drie deelprojecten:</p><ul><li><p><strong>Preventieproject</strong><br />De preventiemedewerker vervult een laagdrempelige brugfunctie tussen de school, de leerlingen en de ouders. Dat houdt in dat hij of zij taken opneemt die pedagogisch ondersteunend zijn en die verband houden met:</p><ul><li>preventie van risicogedrag</li><li>bevordering van leerling- en ouderparticipatie</li><li>naleving van het schoolreglement.</li></ul></li><li><p><strong>Voltijds onderhoudsproject</strong><br />De voltijdse onderhoudsmedewerker staat in voor het algemeen onderhoud van de schoolinfrastructuur. Als volwaardig lid van het onderhoudsteam kan hij of zij ingeschakeld worden voor allerlei klussen zoals herstellingen, groenonderhoud, schilderwerken, …</p></li><li><p><strong>Onderhoudsproject DBSO</strong><br />Leerlingen uit het deeltijds onderwijs krijgen via dit project de kans om een eerste werkervaring op te doen, in het kader van hun voltijds engagement. Als deeltijdse onderhoudsmedewerker staan zij in voor het algemeen onderhoud van de schoolinfrastructuur.</p></li></ul><p>‘Scholen voor Jongeren - Jongeren voor Scholen’ richt zich specifiek tot laaggeschoolde jongeren. Jongeren van een andere etnisch-culturele achtergrond of met een kansarme achtergrond worden in het bijzonder aangemoedigd om te solliciteren, aangezien zij zich in de meest kwetsbare positie op de arbeidsmarkt bevinden.</p><p>De startbanenprojecten willen laaggeschoolde jongeren een leerrijke eerste werkervaring aanbieden. Tegelijkertijd krijgen die jongeren de kans om bijkomende opleidingen en vormingen te volgen. Op die manier worden zij aangemoedigd om hun diploma secundair onderwijs te halen in het tweedekansonderwijs of via de Examencommissie.</p><h3>Jongeren</h3><p>Voor een baan als <strong>preventiemedewerker</strong> of <strong>voltijdse onderhoudsmedewerker </strong>kunt u solliciteren als u:</p><ul><li>niet meer leerplichtig bent</li><li>jonger bent dan 26 jaar</li><li>laaggeschoold bent (niet beschikt over een diploma secundair onderwijs)</li><li>voldoet aan de vereisten van goed zedelijk gedrag</li><li>nog alle politieke en burgerlijke rechten bezit</li><li>medisch geschikt bent.</li></ul><p>Voor een baan als <strong>onderhoudsmedewerker DBSO</strong> kunt u solliciteren als u:</p><ul><li>ingeschreven bent als leerling in het deeltijds beroepssecundair onderwijs (DBSO)</li><li>tussen 16 en 26 jaar bent</li><li>nog alle politieke en burgerlijke rechten bezit</li><li>medisch geschikt bent.</li></ul><h3>Scholen</h3><p>Als u als school wilt deelnemen aan het startbanenproject, moet u hiervoor een aanvraag indienen bij de projectcoördinatie. Pas na een officiële goedkeuring kunt u overgaan tot de aanwerving van een startbaner.</p><p>Binnen het <strong>preventieproject</strong> komen de volgende instellingen in aanmerking:</p><ul><li>scholen gewoon secundair onderwijs met GOK-uren, die minstens 100 leerlingen tellen</li><li>scholen buitengewoon secundair onderwijs die Type 1 - OV 3 aanbieden, die minstens 100 leerlingen tellen</li><li>centra voor deeltijdse vorming</li></ul><p>Binnen het <strong>voltijds onderhoudsproject </strong>en het <strong>onderhoudsproject DBSO</strong> komen alle scholengemeenschappen van het basis- en secundair onderwijs in aanmerking.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<h3>Jongeren</h3><p>Jongeren die zich kandidaat willen stellen voor een tewerkstelling als startbaner kunnen op de website van het JoJo-project <a href=\"https://www.onderwijs.vlaanderen.be/nl/directies-en-administraties/personeelszaken/startbanenprojecten-jojo-en-veve/jojo-project\">informatie en een aantal vacatures</a> vinden. Aangezien de website slechts een kleine selectie van vacatures bevat, raadpleegt u best ook de <a href=\"https://www.vdab.be\">website van de VDAB</a> of gaat u langs bij een <a href=\"http://www.werkwinkel.be/content/_master/site/4\">lokale werkwinkel</a>.</p><h3>Scholen</h3><p>Onderwijsinstellingen die interesse hebben om deel te nemen aan het startbanenproject, kunnen op de website van het JoJo-project <a href=\"https://www.onderwijs.vlaanderen.be/nl/directies-en-administraties/personeelszaken/startbanenprojecten-jojo-en-veve/jojo-project\">informatie en alle noodzakelijke documenten</a> vinden.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:48.256174459Z",
+      "laatstGewijzigd": "2023-03-24T06:05:48.256176688Z",
+      "laatstOntvangen": "2023-03-24T06:05:48.256176688Z",
+      "productnummer": "209",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d9af8d42-615c-4d03-be9b-72ee11bfc93f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5c371ffd-e05f-44f6-9a88-38551cf85192"
+    },
+    {
+      "id": "dcd0d615-2ef1-4c93-b5a4-57344c73bc3d",
+      "generatedAtTime": "2023-03-24T06:05:47.901063Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Kapmachtiging"
+      },
+      "beschrijving": {
+        "nl": "<p>Als de kap van <strong>bomen in een bos</strong> niet opgenomen is in een goedgekeurd beheerplan, dan hebt u in vele gevallen een kapmachtiging nodig.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Bosdecreet van 13 juni 1990, artikel 50 (voor openbare bossen) en artikel 81 (voor privé-bossen).</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p><strong>Kappingen vanwege veiligheidsredenen</strong></p><ul><li>Een kap is nodig wanneer er <strong>direct gevaar</strong> bestaat dat personen verwond worden of eigendommen beschadigd geraken. Een boom kan direct gevaar vormen als hij bijv. een opengescheurde kruin heeft of een ingerotte stam.</li><li>De kap en de motivering ervan moet <strong>ten laatste 24 uur na het begin van de kap</strong> schriftelijk worden medegedeeld aan ANB.</li><li>De bosbeheerder moet binnen de 6 maanden na de kap een <strong>voorstel van herstelmaatregelen</strong> ter goedkeuring voorleggen aan ANB. Dat kan met hetzelfde formulier als voor aanvraag van een kapmachtiging. Vermeld in dat geval duidelijk op het formulier dat de kap al uitgevoerd is en waarom.</li></ul><p><strong>Kappingen vawege sanitaire redenen</strong></p><ul><li>De kap kan nodig zijn als de <strong>bomen ziek zijn</strong>, of om ziekten te voorkomen. Bijv. bij schorskever, vorstschade, wortelrot, ...</li><li>De kap en de motivering ervan moet minstens <strong>14 dagen vóór het begin van de kap</strong> worden meegedeeld aan ANB.</li><li>De bosbeheerder moet binnen de 6 maanden na de kap een <strong>voorstel van herstelmaatregelen</strong> ter goedkeuring voorleggen aan ANB. Dat kan met hetzelfde formulier als voor aanvraag van een kapmachtiging. Vermeld in dat geval duidelijk op het formulier dat de kap al uitgevoerd is en waarom.</li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "bomen",
+          "boom",
+          "bos",
+          "kapmachtiging",
+          "kappen",
+          "kapvergunning",
+          "zagen",
+          "vellen",
+          "omzagen"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U hebt een kapmachtiging nodig als</p><ul><li>u wilt kappen <strong>in een bos</strong></li><li>én de kap gebeurt <strong>in het kader van bosbeheer</strong>, en dus niet met het oog op ontbossing (voor kappingen die leiden tot ontbossing gelden er andere regels)</li><li>én de kap staat <strong>niet in een goedgekeurd beheerplan</strong> (kappingen die expliciet in een goedgekeurd beheerplan staan mogen onmiddellijk uitgevoerd worden en zijn niet meldingsplichtig). </li></ul><p>Let wel: er moet geen kapmachtiging aangevraagd worden voor kappingen in een bos om <strong>veiligheidsredenen</strong> of vanwege <strong>ziekte (sanitaire redenen)</strong>. Meer informatie hierover vindt u bij de 'uitzonderingen' onderaan.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>De kapmachtiging wordt aangevraagd met een aanvraagformulier (docx) van het Agentschap voor Natuur en Bos (ANB).</li><li>ANB beslist binnen de 60 dagen of de kapping toegestaan wordt en onder welke voorwaarden. Als ANB binnen die termijn geen beslissing genomen heeft, dan wordt de machtiging geacht te zijn verleend.</li><li>Bij het kappen van bomen in bossen zonder dat dat leidt tot ontbossing, is geen stedenbouwkundige vergunning voor het kappen van bomen vereist.<br />ANB zorgt er ook voor dat de eventuele natuurvergunning geïntegreerd wordt in de kapmachtiging.<br />Als het bos in het Vlaams Ecologisch Netwerk (VEN) ligt, dan is voor bepaalde werken ook een individuele ontheffing van de VEN-verboden nodig. ANB zal deze ontheffing in één besluit met de kapmachtiging verlenen. U moet hiervoor dus geen aparte aanvraag indienen.</li><li>Na ontvangst van de kapmachtiging heeft men 3 jaar de tijd om de kapping uit te voeren.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:47.88380801Z",
+      "laatstGewijzigd": "2023-03-24T06:05:47.883809519Z",
+      "laatstOntvangen": "2023-03-24T06:05:47.883809519Z",
+      "productnummer": "418",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/dcd0d615-2ef1-4c93-b5a4-57344c73bc3d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/23c2fed0-ad6e-4c1f-930c-750f1319637b"
+    },
+    {
+      "id": "40347aad-d33a-4737-b8e0-50dfb6c06873",
+      "generatedAtTime": "2023-03-24T06:05:47.716781Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning en subsidiëring van sportfederaties en organisaties voor sportieve vrijetijdsbesteding"
+      },
+      "beschrijving": {
+        "nl": "<p>Sportfederaties en organisaties voor de sportieve vrijetijdsbesteding (OSV) kunnen zich laten erkennen en komen dan in aanmerking voor subsidies van Sport Vlaanderen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Volgende organisaties komen in aanmerking voor subsidies:</p><ul><li>De erkende Vlaamse sportfederaties</li><li>Koepelorganisatie</li><li>Organisaties voor de sportieve vrijetijdsbesteding</li><li>G-sportplatform</li><li>Organisatie voor risicovechtsporten</li></ul><p>Om als sportfederatie erkend te worden, moet een sportfederatie sportclubs hebben in het Nederlandse taalgebied of het 2-talige gebied Brussel-Hoofdstad, en wel in ten minste 4 Vlaamse provincies. Het tweetalige gebied Brussel-Hoofdstad wordt hier gelijkgesteld met een provincie.</p><p>De sportfederatie moet ook haar zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad.</p><p>Verdere voorwaarden voor subsidiëring en erkenning vindt u in het decreet sportfederaties.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Via het ‘Platform voor de erkenning en subsidiëring van de georganiseerde sportsector’ kunt u uw aanvraag voor erkenning en subsidiëring indienen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:47.700229148Z",
+      "laatstGewijzigd": "2023-03-24T06:05:47.700230473Z",
+      "laatstOntvangen": "2023-03-24T06:05:47.700230473Z",
+      "productnummer": "261",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/40347aad-d33a-4737-b8e0-50dfb6c06873",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/024c6c2f-14c0-459e-8f50-4387aea8ce7b"
+    },
+    {
+      "id": "fd895f3a-e50f-491e-a3c2-02d37c734af0",
+      "generatedAtTime": "2023-03-24T06:05:47.589639Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Toegankelijkheidslabel voor toegankelijk logies"
+      },
+      "beschrijving": {
+        "nl": "<p>Een vakantieverblijf dat toegankelijk is voor mensen met een beperkte mobiliteit, kan een toegankelijkheidslabel krijgen.</p><p>Hotels, vakantiecentra, jeugdverblijven, vakantiewoningen, campings en gastenkamers met een label krijgen een bordje om naast de ingang van het pand te hangen en een plaats in de brochures 'Toegankelijke vakantieverblijven in Vlaanderen en Brussel'.</p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "fietsvakantie"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Er zijn 2 niveaus van het label: een label A+ en een label A.</p><ul><li>Het label A+ betekent dat beperkt mobiele mensen er comfortabel en zelfstandig kunnen verblijven.</li><li>Het A-label betekent dat het verblijf toegankelijk is voor beperkt mobiele mensen, maar dat er mogelijk een extra inspanning of een helper nodig is.</li></ul><p>De classificatie geldt ook voor Brusselse verblijven, op voorwaarde dat het logies een exploitatievergunning heeft bij het Departement Buitenlandse Zaken van de Vlaamse overheid.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Het label wordt pas toegekend na een grondige en objectieve controle ter plaatse. Een speciale labelcommissie beslist welk label aan een gebouw toegekend wordt of welke knelpunten eerst nog aangepakt moeten worden. Deze commissie bestaat uit onafhankelijke vertegenwoordigers van de handicapbeweging en van de toeristische sector.</p><p>Neem contact op met Toegankelijk Toerisme als u meer vragen hebt over de aanvraagprocedure.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:47.572628808Z",
+      "laatstGewijzigd": "2023-03-24T06:05:47.572631031Z",
+      "laatstOntvangen": "2023-03-24T06:05:47.572631031Z",
+      "productnummer": "585",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fd895f3a-e50f-491e-a3c2-02d37c734af0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7bf22cb5-1b52-40a8-ad16-3c667f7de44a"
+    },
+    {
+      "id": "2b803b15-3bc2-4465-9481-cbf1f41cff64",
+      "generatedAtTime": "2023-03-24T06:05:47.445287Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning en subsidiëring van sociaal-toeristische verenigingen"
+      },
+      "beschrijving": {
+        "nl": "<p>Voor bepaalde groepen in onze maatschappij is het niet evident om met vakantie te gaan. Sociaal-toeristische verenigingen organiseren daarom vakanties die specifiek gericht zijn op kinderen en gezinnen die in armoede leven. Die organisaties kunnen door Toerisme Vlaanderen worden erkend en een financiële ondersteuning krijgen voor hun werking.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<h3>Voor erkenning</h3><p>Alle private rechtspersonen die een rechtstreekse financiële ondersteuning geven om de vakantie van personen die in armoede leven mogelijk te maken, kunnen een aanvraag tot erkenning als 'sociaal-toeristische vereniging' indienen bij Toerisme Vlaanderen.</p><p>Om erkend te kunnen worden, moeten ze voldoen aan enkele specifieke voorwaarden:</p><ul><li>Het hoofddoel van de verenigingen is het organiseren van vakanties voor personen die in armoede leven. Dat doel staat vermeld in de statuten van de verenigingen.</li><li>Ze organiseren zelf de vakantie voor personen die in armoede leven. Dat omvat het organiseren van vervoer, verblijf en animatie.</li><li>Ze staan in voor het verzamelen van extra privémiddelen om de vakantie van de personen die in armoede leven, mogelijk te maken.</li><li>Ze organiseren jaarlijks<ul><li>ofwel minimaal 2 vakanties van elk minimaal 4 overnachtingen in binnen- en/of buitenland, met minimaal 70 verschillende deelnemers in totaal</li><li>ofwel minimaal 1 vakantie van minimaal 6 overnachtingen in binnen- en/of buitenland met minimaal 100 verschillende deelnemers.</li></ul></li><li>Het minimumaantal vereiste deelnemers moet afkomstig zijn uit het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad.</li><li>Ze bereiken jaarlijks minimaal een vierde nieuwe deelnemers.</li><li>Ze exploiteren zelf geen verblijven.</li><li>Ze zorgen voor een degelijk financieel beheer.</li><li>Ze worden gekenmerkt door een belangrijke vrijwilligerswerking. Per 8 deelnemers is 1 begeleider noodzakelijk. Logistieke medewerkers (kookploeg) en hoofdmonitoren worden niet meegeteld.</li><li>Ze hebben hun maatschappelijke zetel en secretariaat in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad.</li></ul><h3>Voor subsidie</h3><p>Om in aanmerking te komen voor subsidie, moet uw vereniging een erkenning hebben als sociaal-toeristische vereniging.</p><p>De financiële ondersteuning kan toegekend worden voor de volgende kosten die verbonden zijn aan de organisatie van vakanties:</p><ul><li>vervoerskosten</li><li>verblijfskosten</li><li>animatiekosten</li><li>verzekeringskosten.</li></ul><p><strong>Verenigingen met een uitgebreidere werking</strong> kunnen ook een beroep doen op <strong>subsidie voor een coördinator</strong> die instaat voor de organisatie van de vakanties. Uw vereniging moet dan wel per jaar minimaal 5 vakanties van elk 4 overnachtingen in binnen- en/of buitenland organiseren voor een totaal van minimaal 150 verschillende deelnemers.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Om een aanvraag in te dienen, bezorgt u de volgende documenten aan Toerisme Vlaanderen:</p><ul><li>een ingevuld inlichtingenblad dat Toerisme Vlaanderen ter beschikking stelt op zijn website</li><li>een exemplaar van de statuten en, voor zover beschikbaar, van de laatste twee balansen</li><li>een omschrijving van de structuur en de werkzaamheden van de organisatie.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>De terugbetaling van de kosten betreft maximaal 75% van de werkelijke kostprijs.</li><li>De subsidie voor de loonkosten van een coördinator bedraagt maximaal 12.500 euro per jaar.</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:47.348847477Z",
+      "laatstGewijzigd": "2023-03-24T06:05:47.348849738Z",
+      "laatstOntvangen": "2023-03-24T06:05:47.348849738Z",
+      "productnummer": "577",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2b803b15-3bc2-4465-9481-cbf1f41cff64",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ff5a2b71-3912-4f99-8a95-da210e318582"
+    },
+    {
+      "id": "3369e0f4-954b-4ece-a5f4-c2d3c7a04355",
+      "generatedAtTime": "2023-03-24T06:05:47.202684Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning als verblijf Toerisme voor Allen"
+      },
+      "beschrijving": {
+        "nl": "<p>Jeugdverblijven en vakantiecentra kunnen een erkenning behalen als verblijf Toerisme voor Allen. Dat houdt in dat zij specifieke inspanningen leveren om bepaalde groepen in onze samenleving van een vakantie te laten genieten. Daarnaast moeten die verblijven voldoen aan specifieke criteria voor veiligheid, comfort en hygiëne.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "vakantieparticipatie",
+          "Toerisme voor Allenbedrijf",
+          "Toerisme voor Allen-bedrijf"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Op de website van Toerisme Vlaanderen leest u hoe u een erkenning als verblijf Toerisme voor Allen aanvraagt.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:47.185853852Z",
+      "laatstGewijzigd": "2023-03-24T06:05:47.185855976Z",
+      "laatstOntvangen": "2023-03-24T06:05:47.185855976Z",
+      "productnummer": "575",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3369e0f4-954b-4ece-a5f4-c2d3c7a04355",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3f546346-8d9a-4f00-9b78-1b101dec21b3"
+    },
+    {
+      "id": "b763a328-d03c-48d1-9540-5fe3bb48de93",
+      "generatedAtTime": "2023-03-24T06:05:47.078611Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning en vergunning van diensten en voorzieningen die ondersteuning bieden aan personen met een handicap"
+      },
+      "beschrijving": {
+        "nl": "<p>Het Vlaams Agentschap voor Personen met een Handicap (VAPH) erkent en/of vergunt verschillende diensten en voorzieningen die ondersteuning bieden aan personen met een handicap, zowel aan kinderen als aan volwassenen.</p><h3>Multifunctionele centra (MFC)</h3><p>Een multifunctioneel centrum (MFC) richt zich tot personen met handicap tot en met 21 jaar (uitzonderlijk verlengbaar tot en met 25 jaar) die nood hebben aan specifieke ondersteuning. Daarvoor is een jeugdhulpbeslissing van de intersectorale toegangspoort (ITP) vereist.</p><p>Een multifunctioneel centrum biedt begeleiding, dagopvang, verblijf en diagnostiek. Een aantal gespecialiseerde centra bieden ook diagnostiek en intensieve behandeling.</p><p>Vanaf 1 januari 2016 werden de voorzieningen die voorheen een erkenning hadden als internaat, semi-internaat, tehuis voor kortverblijf voor minderjarigen of observatie- en behandelingscentrum, erkend als MFC voor een aantal personeelspunten.</p><h3>Multidisciplinair team (MDT)</h3><p>Een multidisciplinair team is een dienst die personen met een (vermoeden van) handicap bijstaat bij de aanvraag voor ondersteuning bij het VAPH.</p><p>Meer informatie over de voorwaarden en de aanvraag voor een erkenning tot MDT vindt u op de website van het VAPH.</p><h3>Vergunde zorgaanbieders</h3><p>Een vergunde zorgaanbieder is een zorgaanbieder bij wie meerderjarigen die beschikken over een persoonsvolgend budget, terecht kunnen voor niet-rechtstreeks toegankelijke zorg of ondersteuning. Een vergunde zorgaanbieder kan volgende ondersteuning aanbieden: woonondersteuning, dagondersteuning, individuele psychosociale begeleiding, individuele praktische hulp, globale individuele ondersteuning en oproepbare permanentie.</p><p>Een vergunning geeft de toelating om een bepaalde activiteit uit te oefenen, maar geeft niet automatisch recht op subsidiëring. Bij de vergunde zorgaanbieders hangt de subsidiëring direct samen met het aantal personen met een voucher die met de betrokken vergunde zorgaanbieder een overeenkomst hebben afgesloten voor ondersteuning, én met de hoogte van hun budgetten.</p><p>Een vergunning wordt in eerste instantie altijd verleend voor 3 jaar. Na 2,5 jaar kan dan een verlenging van de vergunning aangevraagd worden. Die verlenging geldt voor onbepaalde duur.</p><p>Naast de vergunde zorgaanbieders blijven er ook erkende organisaties bestaan. Een erkenning bepaalt een capaciteit in plaatsen, begeleidingen of personeelspunten waaraan een subsidie verbonden is. In de toekomst zal het VAPH nog steeds een aantal organisaties erkennen. In een aantal gevallen zal de subsidiëring (mits bepaalde voorwaarden) nauw samenhangen met de erkende capaciteit.</p><p> </p><h3>Aanbieders van rechtstreeks toegankelijke hulp (RTH-aanbieders)</h3><p>Het VAPH erkent en subsidieert de aanbieders van rechtstreeks toegankelijke hulp. Rechtstreeks toegankelijke hulp richt zich zowel op meerder- als minderjarigen die voldoende geholpen zijn met beperkte handicapspecifieke ondersteuning.</p><p>Een vergunde zorgaanbieder en een multifunctioneel centrum kunnen naast hun eigen vergunning en of erkenning nog een aparte erkenning als RTH-dienst krijgen. Deze erkenning voor RTH wordt uitgedrukt in personeelspunten. Om als RTH-dienst blijven erkend te worden, moet de dienst minimaal beschikken over 35 personeelspunten op 31 december 2018.</p><p> </p><h3>Diensten ondersteuningsplan (DOP)</h3><p>Een dienst ondersteuningsplan helpt zowel meerderjarigen als minderjarigen om hun ondersteuningsnood in kaart te brengen en helpt zoeken naar de meest geschikte ondersteuning. Dat traject resulteert in een ondersteuningsplan dat al de mogelijkheden van de persoon met een handicap en zijn omgeving op een rijtje zet.</p><p>Als uit de gesprekken met de dienst ondersteuningsplan blijkt dat een meerderjarige meer intensieve en frequente handicapspecifieke ondersteuning nodig heeft, dan kan de dienst ondersteuningsplan een ondersteuningsplan persoonsvolgend budget opstellen en indienen voor deze persoon.</p><p>Het VAPH erkent en subsidieert de diensten ondersteuningsplan. In iedere Vlaamse provincie is er een dienst ondersteuningsplan (DOP) actief. De inwoners van Vlaams-Brabant en Brussel kunnen terecht bij DOP Vlaams-Brabant – Brussel.</p><h3>Groenezorginitiatieven</h3><p>Een groenezorginitiatief is een initiatief van een bedrijf, vereniging of particulier waarin activiteiten van land- of tuinbouwproductie of andere activiteiten die betrekking hebben op de omgang met planten of dieren, deel uitmaken van de dagactiviteiten voor mensen uit kwetsbare groepen.</p><p>De activiteiten gebeuren onder begeleiding. Voorbeelden van een groenezorginitiatief zijn bijvoorbeeld een zorgboerderij, een dierenasiel, een dierenpension, een belevingshoeve, ...</p><p>Meerderjarige personen kunnen hun persoonsvolgend budget besteden aan dagondersteuning op basis van een overeenkomst met een groenezorginitiatief als het groenezorginitiatief voldoet aan de voorwaarden zoals bepaald in het ministerieel besluit van 20 februari 2017. Groenezorginitiatieven worden door het VAPH geregistreerd conform het ministerieel besluit van 20 februari 2017. De registratie start ten vroegste op 1 januari 2017 en is geldig voor vijf jaar.</p><p>De registratie gebeurt via een aanvraagformulier.</p><h3>Gemachtigde experts</h3><p>Een gemachtigde expert is een organisatie die door het VAPH gemachtigd is om gespecialiseerd persoonlijk advies te verlenen over hulpmiddelen en aanpassingen in het kader van een aanvraag voor hulpmiddelen en aanpassingen.</p><p>Op de website van het VAPH kunt u nalezen aan welke voorwaarden u moet voldoen om als organisatie voor een machtiging in aanmerking te komen.</p><h3>Bijstandsorganisatie</h3><p>Een bijstandsorganisatie helpt PVB-budgethouders bij de opstart en het beheer van hun persoonsvolgend budget (PVB) en de organisatie van hun ondersteuning.</p><p>Een bijstandsorganisatie kan ook de houders van een persoonlijke-assistentiebudget (PAB) deskundig advies verlenen over hun verplichtingen en activiteiten als werkgever (aanwerving van assistenten, richtlijnen van het VAPH, overeenkomsten, reglementering interimarbeid ...).</p><p>De vergunningsvoorwaarden kunt u terugvinden op de website van het VAPH.</p><h3>Ouderinitiatieven</h3><p>Initiatieven van ouders en/of andere familieleden van personen die zorg en ondersteuning willen organiseren voor een groep van maximaal 15 personen met een handicap, kunnen zich laten registreren bij het VAPH. Bij een geregistreerd ouderinitiatief kunnen personen met én zonder persoonsvolgend budget (PVB) terecht voor zorg en ondersteuning.</p><p>Meer informatie over de voorwaarden en aanvraag van de registratie vindt u terug op de website van het VAPH.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "erkenning",
+          "niet-werkenden",
+          "opvang",
+          "vergunning",
+          "volwassenen",
+          "werkenden"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:05:47.06136187Z",
+      "laatstGewijzigd": "2023-03-24T06:05:47.061363257Z",
+      "laatstOntvangen": "2023-03-24T06:05:47.061363257Z",
+      "productnummer": "586",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b763a328-d03c-48d1-9540-5fe3bb48de93",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/159d66c5-15d8-4aa0-8701-1743147dc81c"
+    },
+    {
+      "id": "ad40e618-b85e-4dc5-a9a2-9b7d279897b0",
+      "generatedAtTime": "2023-03-24T06:05:46.892274Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning en subsidiëring van amateurkunsten"
+      },
+      "beschrijving": {
+        "nl": "<p>Onder amateurkunsten wordt verstaan: theater, dans, beeld en beeldende kunst, muziek en letteren. Elk van deze (deel)disciplines wordt gecoördineerd door een organisatie, gesubsidieerd door de Vlaamse overheid. Het Forum voor Amateurkunsten biedt ondersteuning.</p><p>Verder bestaat er ook de mogelijkheid om afzonderlijke initiatieven, hoofdzakelijk internationale projecten en nieuwe disciplines, te subsidiëren.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 22 december 2000 betreffende de Amateurkunsten.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p><strong>Subsidiëring van projecten</strong></p><p>Projecten kunnen gesubsidieerd worden als de vereniging:</p><ul><li>beschikt over rechtspersoonlijkheid</li><li>gevestigd is in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, voor zover het gaat om verenigingen of instellingen die wegens hun activiteiten moeten worden beschouwd uitsluitend te behoren tot de Vlaamse Gemeenschap.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>De subsidiesmogelijkheden van uw stad of gemeente kunt u via de dienst cultuur/dienst vrije tijd opsporen. </p><p>Om de verschillende andere subsidiekanalen op te sporen, kunnen individuele amateurkunstenaars, groepen en verenigingen de online subsidiewijzer gebruiken. Gebruik de zoektermen om een geschikt subsidiereglement te vinden voor uw discipline, locatie en situatie. </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:46.875300074Z",
+      "laatstGewijzigd": "2023-03-24T06:05:46.875301606Z",
+      "laatstOntvangen": "2023-03-24T06:05:46.875301606Z",
+      "productnummer": "611",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ad40e618-b85e-4dc5-a9a2-9b7d279897b0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a3b19b86-4763-4492-81a4-06aa85f89391"
+    },
+    {
+      "id": "a4c4a8b3-b134-4678-a51f-b03fbd5540a3",
+      "generatedAtTime": "2023-03-24T06:05:46.753856Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor circuskunsten"
+      },
+      "beschrijving": {
+        "nl": "<p>Het Circusdecreet biedt heel wat organisaties en artiesten de kans om mooie, kwalitatieve projecten op touw te zetten. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 21 november 2008 betreffende de ondersteuning van de circuskunsten in Vlaanderen (Circusdecreet)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U kunt een subsidie aanvragen voor volgende initiatieven:</p><ul><li>Creatie van circuskunstproductie</li><li>Spreiding van circusproducties via nomadische circustournee</li><li>Organisatie van circusfestival</li><li>Internationale spreiding van circuskunstproductie</li><li>Promotie van circuskunsten</li><li>Internationale bijscholing/voortgezette opleiding als circuskunstenaar</li><li>Opleiding als docent in circuskunsten</li></ul><p>Op de website van de afdeling Sociaal-Cultureel Werk vindt u de voorwaarden om in aanmerking te komen voor subsidies.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Op de website van de afdeling Sociaal-Cultureel Werk vindt u alle informatie over de procedure, waaronder:</p><ul><li>aanvraagformulieren</li><li>contactpersonen</li><li>deadlines</li><li>bijkomende info over de in te dienen stukken.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:46.736482954Z",
+      "laatstGewijzigd": "2023-03-24T06:05:46.73648443Z",
+      "laatstOntvangen": "2023-03-24T06:05:46.73648443Z",
+      "productnummer": "610",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a4c4a8b3-b134-4678-a51f-b03fbd5540a3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/54ae164e-7157-49b6-9317-e1dc1fc78e7a"
+    },
+    {
+      "id": "e2405e3d-5fbb-461b-9395-f38baab9d582",
+      "generatedAtTime": "2023-03-24T06:05:46.549064Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning en subsidiëring van kunstenaars en professionele kunstenorganisaties"
+      },
+      "beschrijving": {
+        "nl": "<p>Individuele kunstenaars en professionele kunstenorganisaties kunnen ondersteuning genieten van de Vlaamse overheid via het Kunstendecreet.</p><p>Het Kunstendecreet biedt subsidies voor podiumkunsten, muziek, beeldende en (multiscreen) audiovisuele kunsten, architectuur en vormgeving, en mengvormen hiervan.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Op 13 december 2013 werd het Kunstendecreet goedgekeurd door het Vlaams Parlement. Dit decreet creëerde een nieuw kader voor de ondersteuning van de professionele kunsten in Vlaanderen.</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Kunstvormen op het vlak van literatuur en film vallen niet onder het Kunstendecreet maar behoren tot de bevoegdheid van respectievelijk het Vlaams Fonds voor de Letteren en het Vlaams Audiovisueel Fonds.</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "cultuur",
+          "kunst"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De volgende doelgroepen komen in aanmerking voor subsidie:</p><ul><li><strong>Individuele kunstenaars</strong><br />Individuele kunstenaars worden ondersteund met projecten, beurzen, kunstenaarstoelagen en residenties.</li><li><strong>Kunstenorganisaties</strong><br />Kunstenorganisaties kunnen op meerjarige basis ondersteund worden voor een periode van vijf jaar. Organisaties die niet op meerjarige basis worden ondersteund, kunnen wel voor projectsubsidiëring in aanmerking komen.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U kunt online subsidies aanvragen via de webapplicatie KIOSK. <br /><br />Meer info over het gebruik van deze webapplicatie vindt u in de handleiding KIOSK en in het overzicht met veelgestelde vragen.</p><p>Subsidies worden toegekend door de politieke overheid, op basis van advies:</p><ul><li><strong>artistiek-inhoudelijk advies</strong> door beoordelingscommissies (samengesteld uit deskundigen en actieve participanten)</li><li><strong>zakelijk advies</strong> door het team Kunsten en Cultureel Erfgoed</li></ul><p>Op basis van beide adviezen beslist de Vlaamse minister van Cultuur voor niet-meerjarige subsidies. Voor meerjarige subsidies formuleert de minister een voorstel aan de Vlaamse Regering, die uiteindelijk beslist.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:46.531879879Z",
+      "laatstGewijzigd": "2023-03-24T06:05:46.531882189Z",
+      "laatstOntvangen": "2023-03-24T06:05:46.531882189Z",
+      "productnummer": "259",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e2405e3d-5fbb-461b-9395-f38baab9d582",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4a0787f8-8ad5-4cdd-8573-74f4bdd850fa"
+    },
+    {
+      "id": "284d08a0-4d54-4ae6-9533-df2255494e92",
+      "generatedAtTime": "2023-03-24T06:05:46.32857Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Verzekering burgerlijke aansprakelijkheid voor beheerders van bossen en natuurreservaten"
+      },
+      "beschrijving": {
+        "nl": "<p>Het Agentschap voor Natuur en Bos heeft een verzekering afgesloten die de <strong>burgerlijke aansprakelijkheid</strong> dekt van alle Vlaamse <strong>beheerders van bossen en natuurreservaten</strong> (zowel Vlaamse als erkende), in geval van schade aan derden als gevolg van het toegankelijk stellen van hun eigendommen. Zowel private als openbare bosbeheerders zijn verzekerd.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "uitzonderingen": {
+        "nl": "<p>In deze gevallen is de schade niet gedekt:</p><ul><li>schade bij een jachtongeval;</li><li>schade door gebruik van motorrijtuigen;</li><li>schade bij organisatie van wedstrijden;</li><li>schade aan derden die niet te gast zijn in het bos of natuurreservaat (bijv. schade aan de omheining van een landbouwer);</li><li>burgerlijke aansprakelijkheid die persoonlijk ten laste van vrijwilligers kan worden gelegd.</li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "bomen",
+          "boom",
+          "bos",
+          "bosbeheerder",
+          "boseigenaar",
+          "boseigenaars",
+          "bossen",
+          "boswachter",
+          "ethias",
+          "schade",
+          "schadegeval",
+          "verzekerd",
+          "verzekering"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De verzekering komt alleen tussen</p><ul><li>als de beheerder aansprakelijk gesteld wordt bij een ongeval met schade aan derden in zijn bos</li><li>bij gebrek aan of na tussenkomst van de verzekering onderschreven door de eigenaars van de bossen en natuurreservaten.</li></ul><p>De verzekering dekt (zowel lichamelijke als materiële) schade aan personen die gebruik maken van bossen en natuurreservaten in Vlaanderen, conform de geldende toegankelijkheidswetgeving en -regels van het betreffende gebied.</p><p>Op de website van het Agentschap voor Natuur en Bos vindt u meer details over deze verzekering en voorbeelden van wat gedekt is en wat niet.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Bij een ongeval moet u <strong>binnen de 15 dagen</strong> aangifte doen bij verzekeringsmaatschappij Ethias.</p><p>De aangifte moet gedateerd en ondertekend zijn en deze gegevens bevatten:</p><ul><li>plaats</li><li>datum en uur</li><li>oorzaken</li><li>aard van het ongeval</li><li>omstandigheden waarin het ongeval zich voorgedaan heeft</li><li>gegevens van de getuigen.</li></ul><p>Het is ook nuttig om beheersdocumenten in te sluiten i.v.m. het gevoerd bosbeheer. Ethias neemt vervolgens contact op met de betrokkenen om de zaak af te handelen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:46.31090758Z",
+      "laatstGewijzigd": "2023-03-24T06:05:46.310909384Z",
+      "laatstOntvangen": "2023-03-24T06:05:46.310909384Z",
+      "productnummer": "415",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/284d08a0-4d54-4ae6-9533-df2255494e92",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0a2cce8a-98df-452a-98fc-0f11e2308cac"
+    },
+    {
+      "id": "e687e982-689b-416c-9417-704a0547ff36",
+      "generatedAtTime": "2023-03-24T06:05:46.143791Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Verplichte haalbaarheidsstudie naar alternatieve energiesystemen voor grote gebouwen"
+      },
+      "beschrijving": {
+        "nl": "<p>Bij de bouw van grote gebouwen is een haalbaarheidsstudie naar alternatieve energiesystemen <strong>verplicht</strong>. Die studie moet uitgevoerd worden bij nieuwe gebouwen die groter dan 1000 m² zijn. De verplichting staat in de Europese Richtlijn over energieprestaties van gebouwen.</p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "EconomieWerk",
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "haalbaarheidstudie"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De verplichting geldt voor gebouwen die aan de volgende kenmerken voldoen:</p><ul><li>het nieuw op te richten (deel van een) gebouw is groter dan 1000 m²</li><li>de stedenbouwkundige vergunning is aangevraagd na 31 januari 2008</li><li>het gebouw of de delen in kwestie worden verwarmd om ten behoeve van mensen een specifieke binnentemperatuur te bekomen (dus vb. geen parkings)</li><li>onder 'nieuw op te richten (deel van een) gebouw' wordt verstaan:<ul><li>nieuwbouw</li><li>herbouw na volledige afbraak van een gebouw</li><li>afbraak gevolgd door herbouw van een deel van een gebouw</li><li>nieuw gebouwd toegevoegd deel van een gebouw dat uitgebreid wordt</li><li>ontmanteling.</li></ul></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>De haalbaarheidsstudie moet via een samenvattend webformulier worden ingediend bij het Vlaamse Energieagentschap (VEA) binnen de maand na het aanvragen van de stedenbouwkundige vergunning.</li><li>De uitvoerder van de haalbaarheidsstudie en de bouwheer moeten ook een <strong>papieren versie</strong> ervan ondertekenen.</li><li>De bouwheer moet die papieren versie 3 jaar bijhouden.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:46.126779408Z",
+      "laatstGewijzigd": "2023-03-24T06:05:46.126781048Z",
+      "laatstOntvangen": "2023-03-24T06:05:46.126781048Z",
+      "productnummer": "435",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e687e982-689b-416c-9417-704a0547ff36",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0542fa8b-4d73-46a9-b766-a8acf991572e"
+    },
+    {
+      "id": "7c0ae26d-2632-4a2b-83f2-5043d0d4a909",
+      "generatedAtTime": "2023-03-24T06:05:45.985386Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning en subsidiëring van voorzieningen van de bijzondere jeugdbijstand"
+      },
+      "beschrijving": {
+        "nl": "<p>Jongeren in problematische opvoedingssituaties of die een als misdrijf omschreven feit hebben gepleegd, kunnen door een Comité voor Bijzondere Jeugdzorg of door de jeugdrechter aan een private voorziening worden toevertrouwd.</p><p>Er zijn verschillende soorten voorzieningen waar jongeren in Vlaanderen of Brussel gebruik van kunnen maken:</p><ul><li>Begeleidingstehuizen (residentieel)</li><li>Gezinstehuizen (residentieel)</li><li>Onthaal-, oriëntatie- en observatiecentra (residentieel)</li><li>Dagcentra (semi-residentieel)</li><li>Thuisbegeleidingsdiensten (ambulant)</li><li>Diensten voor Begeleid Zelfstandig Wonen (BZW) (ambulant)</li><li>Diensten voor Pleegzorg</li><li>Diensten voor Herstelgerichte en Constructieve Afhandeling (HCA)</li><li>Diensten voor Crisishulp aan Huis (CAH)</li><li>Multifunctionele centra (experiment tot eind 2012).</li></ul><p>Jongerenwelzijn zorgt voor de erkenning en subsidiëring van deze voorzieningen.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 7 mei 2004 inzake Integrale Jeugdhulp</li><li>Decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de Integrale Jeugdhulp</li><li>Decreet inzake bijzondere jeugdbijstand van 7 maart 2008.<br /></li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "bijzondere jeugdzorg",
+          "dagcentra",
+          "gezinshuis",
+          "gezinstehuis",
+          "plaatsing jongeren",
+          "pleegzorg",
+          "tehuis voor jongeren",
+          "thuisbegeleiding"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De voorwaarden voor erkenning kunnen betrekking hebben op :</p><ul><li>de infrastructuur</li><li>het opleidingsniveau en de aanvullende vorming van het personeel</li><li>de verzorging, het onderwijs, de beroepsopleiding en het opvoedingsregime van de minderjarigen</li><li>het pedagogische concept en programma</li><li>de ruimte binnen de programmatie, opgesteld door de Vlaamse overheid. De programmatie is een behoefteraming voor een bepaald type voorziening.</li></ul><p>Voor meer informatie over de voorwaarden voor een erkenning, kan u terecht bij de Afdeling Voorzieningenbeleid van het Agentschap Jongerenwelzijn.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U moet de erkenning aanvragen bij de Afdeling Voorzieningenbeleid van het Agentschap Jongerenwelzijn. De aanvraagformulieren voor een erkenning en de formulieren voor een wijziging van de erkenning vindt u op de website van Jongerenwelzijn.</p><p>De voorzieningen worden erkend voor een hernieuwbare erkenningstermijn van maximaal vijf jaar.</p><p>Voor meer informatie over de procedure voor een erkenning, kan u terecht bij de Afdeling Voorzieningenbeleid van het Agentschap Jongerenwelzijn.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:45.967921984Z",
+      "laatstGewijzigd": "2023-03-24T06:05:45.967924714Z",
+      "laatstOntvangen": "2023-03-24T06:05:45.967924714Z",
+      "productnummer": "593",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7c0ae26d-2632-4a2b-83f2-5043d0d4a909",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/71535030-8042-4c6a-becd-4a3284b2ab33"
+    },
+    {
+      "id": "569b61f9-aeb2-4453-b6f6-342a459f670e",
+      "generatedAtTime": "2023-03-24T06:05:45.721298Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidiëring van projecten en bijzondere initiatieven inzake Jeugdhulp"
+      },
+      "beschrijving": {
+        "nl": "<p>Het agentschap Opgroeien (Jeugdhulp) subsidieert naast verschillende soorten voorzieningen ook projecten, bijzondere initiatieven die zich richten tot een specifieke doelgroep of op een bijzondere probleemsituatie.</p><p>Er zijn verschillende soorten projecten: onthemende projecten, pedagogische projecten, projecten voor pleegzorg, time-out projecten en andere projecten (vb. Youth at Risk en de proeftuin).</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "jeugd",
+          "jeugdbijstand",
+          "jeugdzorg",
+          "jongeren",
+          "projecten",
+          "subsidies",
+          "subsidiëring"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Voor <a href=\"https://www.jeugdhulp.be/themas/projecten\">meer informatie over de projecten en de subsidiëring ervan</a> kunt u terecht op de website van Jeugdhulp.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:45.704592679Z",
+      "laatstGewijzigd": "2023-03-24T06:05:45.704594746Z",
+      "laatstOntvangen": "2023-03-24T06:05:45.704594746Z",
+      "productnummer": "458",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/569b61f9-aeb2-4453-b6f6-342a459f670e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/9a0a9da0-4b04-47f9-97d5-9112e439b98f"
+    },
+    {
+      "id": "860917a5-b261-418c-a517-88a8d551e06a",
+      "generatedAtTime": "2023-03-24T06:05:45.56192Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Bevolkingsonderzoek bij pasgeborenen naar aangeboren aandoeningen via een bloedonderzoek"
+      },
+      "beschrijving": {
+        "nl": "<p>Alle pasgeboren baby’s in Vlaanderen kunnen tussen de 3e en de 5e dag na de geboorte getest worden op 12 aangeboren aandoeningen. Dat gebeurt via een bloedonderzoek. De kosten van het onderzoek worden betaald door de Vlaamse overheid. Voor de ouders zelf is het onderzoek gratis.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 6 mei 1997 betreffende de centra voor metabolische aandoeningen.</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "aandoeningen",
+          "aangeboren",
+          "hielprik",
+          "metabole afwijkingen",
+          "metabolische afwijkingen",
+          "stofwisselingsziekten"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Door een prik in de rug van het handje van de baby, worden enkele druppels bloed op een kaartje met filterpapier (bloedkaartje) opgevangen. De bloedkaartjes worden voor onderzoek opgestuurd naar één van de Vlaamse centra voor opsporing van aangeboren metabole aandoeningen. </p><p>Het resultaat van het bloedonderzoek wordt alleen gemeld aan de ouders als het afwijkend is. In dat geval wordt de behandelende arts van de pasgeborenen verwittigd. In samenspraak met de ouders worden er bijkomende onderzoeken gedaan. Zodra de diagnose gekend is, kan een gepaste behandeling starten.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Gratis voor de ouders van de pasgeborene.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:45.543943106Z",
+      "laatstGewijzigd": "2023-03-24T06:05:45.543944721Z",
+      "laatstOntvangen": "2023-03-24T06:05:45.543944721Z",
+      "productnummer": "212",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/860917a5-b261-418c-a517-88a8d551e06a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/474bcf99-18cf-4a17-b8bb-fffbab698009"
+    },
+    {
+      "id": "a0b2cf8a-c279-487b-9940-5009d6bf73a3",
+      "generatedAtTime": "2023-03-24T06:05:45.415335Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning en financiering/subsidiëring van woonzorgcentra"
+      },
+      "beschrijving": {
+        "nl": "<p>De Vlaamse overheid is bevoegd voor de programmatie, het toezicht, de erkenning en de financiering/subsidiëring van de woonzorgcentra in Vlaanderen en Brussel. Een woonzorgcentrum biedt permanente opvang en verzorging aan ouderen.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p><strong>Financiering:</strong></p><ul><li>Decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</li><li>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</li><li>Besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten</li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "erkenning",
+          "inspectie",
+          "ouderentehuis",
+          "rusthuis",
+          "rustoord",
+          "rvt",
+          "verzorgingstehuis",
+          "woonzorgcentra"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<h3>Erkenning</h3><ul><li>De programmatie geeft aan hoeveel zorginstellingen van elk type nodig zullen zijn per gemeente. Een woonzorgcentrum kan pas een erkenning krijgen, als de aangevraagde capaciteit of de wijziging van capaciteit van een voorziening past binnen de<strong> programmatie</strong>. U moet daarvoor een <strong>planningsvergunning </strong>aanvragen bij Zorg en Gezondheid. </li><li>Zorg en Gezondheid erkent woonzorgcentra. Het woonzorgcentrum moet aan een aantal <strong>erkenningsvoorwaarden </strong>voldoen.</li></ul><h3>Financiering/subsidiëring</h3><p>Woonzorgcentra komen, mits het voldoen aan bepaalde voorwaarden, in aanmerking voor volgende financiering/subsidies, toegekend door het agentschap Zorg en Gezondheid:</p><ul><li>De tegemoetkoming voor zorg, te factureren aan de zorgkas waarbij de bewoner in kwestie is aangesloten. <br />Onder de tegemoetkoming voor zorg valt enerzijds de <strong>basistegemoetkoming voor zorg</strong>. Deze wordt bepaald op basis van het zorgprofiel van de bewoners en het aanwezige personeel in de voorziening in kwestie.<br />Daarnaast valt onder de tegemoetkoming voor zorg ook de <strong>tegemoetkoming in de kosten voor incontinentiemateriaal</strong> van zwaar zorgbehoevenden of van niet-afhankelijke personen;</li><li><p><strong>Aanvullende financiering </strong>voor de woonzorgcentra na de integratie van het derde luik in de basistegemoetkoming voor zorg;</p></li><li><p>Nieuwe en vernieuwde woonzorgcentra en centra voor kortverblijf komen in aanmerking voor een <strong>infrastructuurforfait </strong>van 5,40 euro per dag (gezondheidsindex december 2021), per woongelegenheid. Hiermee wil de Vlaamse Regering de verhoging van de dagprijs van een kamer in een woonzorgcentrum of een centrum voor kortverblijf na een infrastructuurinvestering beperken;</p></li><li><p>Subsidie voor woonzorgcentra met een bijzondere erkenning voor de opvang van personen met <strong>jongdementie;</strong></p></li><li><p>Volgende tegemoetkomingen naar aanleiding van met de sector afgesloten <strong>sociale akkoorden</strong>:<br />- Tegemoetkoming voor de maatregel vrijstelling arbeidsprestaties en eindeloopbaan<br />- Betaling van de IFIC-meerkost<br />- Syndicale premie;</p></li><li><p>Subsidie voor de tewerkstelling van personeelsleden met een <strong>ex-DAC</strong>-statuut;</p></li><li><p>Subsidie voor de tewerkstelling van personeelsleden met een <strong>ex-gesco</strong>-statuut;</p></li><li><p>Subsidie <strong>bijzondere beoepstitels en -kwalificaties</strong>;</p></li><li><p>Een <strong>informaticapremie </strong>voor elk nieuw erkend woonzorgcentrum;</p></li><li><p>Subsidies voor <strong>ad-hoc-projecten</strong> gerelateerd aan de werking van woonzorgcentra.</p></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Alle nodige <a href=\"https://www.zorg-en-gezondheid.be/de-erkenning-aanvragen-voor-een-woonzorgcentrum\">formulieren en informatie over de aanvraagprocedure</a> voor een erkenning als woonzorgcentrum en meer informatie over de financiering van de woonzorgcentra kunt u terugvinden op de website van Zorg en Gezondheid.</p><p>De inspectie van woonzorgcentra gebeurt door het agentschap Zorginspectie. Zorg en Gezondheid baseert zich op die inspecties voor het al dan niet toekennen, inkorten of opheffen van de erkenning.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:45.398336633Z",
+      "laatstGewijzigd": "2023-03-24T06:05:45.398338727Z",
+      "laatstOntvangen": "2023-03-24T06:05:45.398338727Z",
+      "productnummer": "592",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a0b2cf8a-c279-487b-9940-5009d6bf73a3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/98f83393-2bd1-413e-b767-2040ea72aa78"
+    },
+    {
+      "id": "bdb5c2e4-eaa3-4918-afb9-cec995459438",
+      "generatedAtTime": "2023-03-24T06:05:45.217583Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Gratis abonnement van NMBS en De Lijn voor oorlogsinvaliden en oud-strijders"
+      },
+      "beschrijving": {
+        "nl": "<p>Als oorlogsinvalide kunt u bij De Lijn aanspraak maken op een gratis jaarabonnement (Omnipas).</p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "abonnement",
+          "gratis",
+          "jaarabonnement",
+          "oorlogsinvalide",
+          "oorlogsinvaliden",
+          "oud-strijders",
+          "oudstrijder"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het gratis jaarabonnement is er voor:</p><ul><li>oorlogsinvaliden in het bezit van een verminderingskaart 75 % met code 30, 31, 32, 50, 51 en 52</li><li>oud-strijders in het bezit van de verminderingskaarten van 75 % en 50 %</li><li>daarmee gelijkgestelden die op wettelijke basis het recht op vermindering genieten.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>De verminderingskaarten worden uitgereikt door:</p><ul><li>FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu</li><li>FOD Financiën</li></ul><p>Deze gratis abonnementen worden afgeleverd door de NMBS en zijn geldig op alle openbare vervoernetten van België met uitzondering van de MIVB en de TEC, die zelf een vervoerbewijs uitreiken.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het jaarabonnement is gratis.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:45.198716031Z",
+      "laatstGewijzigd": "2023-03-24T06:05:45.198718421Z",
+      "laatstOntvangen": "2023-03-24T06:05:45.198718421Z",
+      "productnummer": "250",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bdb5c2e4-eaa3-4918-afb9-cec995459438",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c70f0055-c8b7-431e-a296-d944b6a2e961"
+    },
+    {
+      "id": "867918a9-10f3-4f41-b82d-1bc188966b46",
+      "generatedAtTime": "2023-03-24T06:05:44.993727Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Buzzy Pazz of Omnipas 'Vervoersgarantie' (VG)"
+      },
+      "beschrijving": {
+        "nl": "<p>Mensen met een leefloon, inkomensgarantie en ouderen met een gewaarborgd inkomen kunnen tegen verminderde prijs een Buzzy Pazz of Omnipas Vervoersgarantie (VG) voor twaalf maanden kopen. Dit vervoerbewijs geeft recht op onbeperkt gebruik van alle vervoerdiensten van De Lijn.</p><p>Ook jongeren in Begeleid Zelfstandig Wonen of asielzoekers kunnen een VG-abonnement krijgen.</p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "uitzonderingen": {
+        "nl": "<p>In tegenstelling tot de gewone Buzzy Pazz of Omnipas, betaalt de Lijn niets terug in geval van opzegging.</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "abonnement",
+          "buzzy pazz",
+          "inkomensgarantie",
+          "korting",
+          "leefloon",
+          "lokaal opvanginitiatief",
+          "ocmw",
+          "omnipas",
+          "vervoergarantie",
+          "vervoersgarantie",
+          "vg",
+          "tarief"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U komt in aanmerking voor een Buzzy Pazz of Omnipas aan verminderd tarief als u:</p><ul><li>recht hebt op het leefloon of gelijkgesteld bent door<ul><li>inwonende schoolgaande kinderen, minderjarig of meerderjarig</li><li>inwonende ouders</li><li>personen met wie de gerechtigde een gezin vormt, voor zover hun inkomsten meegerekend werden.</li></ul></li><li>recht hebt op het equivalent leefloon</li><li>in een lokaal opvanginitiatief (LOI) verblijft.</li><li>het gewaarborgd inkomen voor bejaarden (GIB) ontvangt</li><li>een inkomensgarantie voor ouderen (IGO) ontvangt.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li><div><strong>Persoon die het leefloon (of equivalent ervan) krijgt of die verblijft in een lokaal opvanginitiatief.</strong><br />De Lijn stuurt u een overschrijvingsformulier op basis van een bestand met rechthebbenden dat ze ontvangt van de instellingen in kwestie. Na betaling ontvangt u uw VG-abonnement.</div></li><li><div><strong>Oudere met een gewaarborgd inkomen of een inkomensgarantie</strong>.<br />U hebt het attest nodig dat afgeleverd wordt door de Rijksdienst voor Pensioenen om het VG-abonnement aan te vragen, aan het loket van een Lijnwinkel of door uw aanvraag op te sturen naar De Lijn.</div></li><li><div><strong>Asielzoeker</strong>.<br />Fedasil (Federaal Agentschap voor de Opvang van Asielzoekers) of het Rode Kruis vragen het VG-netabonnement aan. U krijgt een overschrijvingsformulier van De Lijn. Na betaling door overschrijving of in de Lijnwinkel ontvangt u uw abonnement.</div></li><li><div><strong>Jongere in Begeleid Zelfstandig Wonen</strong>.<br />U kunt dit VG-abonnement alleen aanvragen via de dienst Bijzondere Jeugdzorg. U krijgt een overschrijvingsformulier van De Lijn. Na betaling door overschrijving of in de Lijnwinkel ontvangt u uw abonnement.</div></li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Een Buzzy Pazz of Omnipas Vervoersgarantie (VG) kost 44 euro voor 1 jaar.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:44.976621569Z",
+      "laatstGewijzigd": "2023-03-24T06:05:44.976623603Z",
+      "laatstOntvangen": "2023-03-24T06:05:44.976623603Z",
+      "productnummer": "248",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/867918a9-10f3-4f41-b82d-1bc188966b46",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c82dcd00-9366-44c9-8909-36d3e736ebf7"
+    },
+    {
+      "id": "8d77f50f-4ecd-4a61-b8cb-46ca318bb036",
+      "generatedAtTime": "2023-03-24T06:05:44.86346Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Omnipas 65+"
+      },
+      "beschrijving": {
+        "nl": "<p>De <strong>Omnipas 65+</strong> is een jaarabonnement dat op een <strong>MOBIB-kaart</strong> geladen wordt. Zo'n MOBIB-kaart is een stevige, kleine, kaart met een computerchip erin. Het jaarabonnement kost 54 euro.</p><p>Als u minder dan 17 keer per jaar bus of tram van De Lijn neemt, dan zijn een Lijnkaart, m-ticket, m-card10, sms-ticket of biljet voordeliger.</p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "uitzonderingen": {
+        "nl": "<p>Met de Omnipas 65+ op MOBIB-kaart van De Lijn kunt u <strong>niet </strong>gratis reizen:</p><ul><li>op de Limburgse snellijnen</li><li>in geval van evenementenvervoer</li><li>met het openbaar vervoer van de MIVB (Brussel) en de TEC (Wallonië).</li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "65 +",
+          "65 plus",
+          "65+",
+          "65-plussers",
+          "65plus",
+          "abonnement",
+          "bejaarden",
+          "brussel",
+          "bus",
+          "de lijn",
+          "gepensioneerd",
+          "gratis",
+          "mobib",
+          "mobib 65 plus",
+          "mobib-65 plus",
+          "mobib-65+",
+          "mobib-kaart",
+          "mobib-kaart 65+",
+          "omnipas 65 plus",
+          "omnipas 65+",
+          "onmi",
+          "senioren",
+          "seniors",
+          "vlaams gewest",
+          "wallonie",
+          "woont"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Om een Omnipas 65+ op MOBIB-kaart van De Lijn te kunnen kopen, moet u <strong>65 jaar</strong> zijn of worden.</li><li>Met de Omnipas 65+ kunt u een jaar lang onbeperkt reizen met De Lijn. Er zijn enkele uitzonderingen (zie bij 'Uitzonderingen').</li></ul><h3>Gebruik</h3><p>Bij elke op- en overstap moet u de <strong>MOBIB-kaart scannen</strong>: hou uw MOBIB-kaart<strong> voor de blauwe cirkel </strong>onderaan de MOBIB-kaartlezer. Zodra de kaartlezer uw kaart herkent, verschijnt er op het scherm een <strong>vinkje </strong>('V') <strong>op een groen veld</strong>. In dat geval is uw rit goed gescand en mag u doorlopen. Bij het afstappen hoeft u niets te doen.</p><p>Hoe met MOBIB-kaart registreren op bus of tram van De Lijn?</p><ul><li>De Omnipas 65+ of MOBIB-kaart is een vervoerbewijs <strong>op naam</strong>: alleen de houder mag de kaart gebruiken.</li><li>Bij een controle moet u uw MOBIB-kaart en uw identiteitskaart kunnen tonen. Als u de kaart niet bij u hebt, moet u dus op voorhand een ander vervoerbewijs kopen.</li><li>Kinderen <strong>tot en met 5 jaar</strong> mogen gratis meereizen.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Hebt u nog <strong>geen MOBIB-kaart</strong>? Koop uw MOBIB-kaart met Omnipas 65+ online, per post, of in een Lijnwinkel.</li><li>Hebt u al een <strong>MOBIB-kaart van De Lijn</strong> maar nog geen Omnipas 65+? Koop uw Omnipas 65+ online, per post, of in een Lijnwinkel.<strong> </strong>Na betaling wordt uw abonnement, bij uw eerste registratie op een bus of tram van De Lijn, automatisch op uw kaart geladen.</li><li>Hebt u een <strong>MOBIB-kaart van een andere vervoersmaatschappij</strong> (NMBS, TEC of MIVB)? Dan moet u geen nieuwe kaart kopen. U kunt het abonnement op uw kaart laten toevoegen. Ga daarvoor eenmalig langs bij een Lijnwinkel.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Voor de aanmaak van de <strong>MOBIB-kaart</strong> betaalt u <strong>5 euro</strong> per vijf jaar.<br />Het abonnement zelf, de Omnipas 65+, kost <strong>53 euro</strong> per jaar.</p><p><strong>Kortingen</strong></p><ul><li>Mensen met een leefloon, personen die verblijven in een lokaal opvanginitiatief (LOI), ouderen met een gewaarborgd inkomen of inkomensgarantie en asielzoekers komen in aanmerking voor de Omnipas Vervoersgarantie (VG).</li><li><strong>Personen met een handicap</strong> (PMH-abonnement) kunnen <strong>gratis </strong>reizen met De Lijn. U gebruikt hiervoor uw kartonnen Omnipas. Die blijft geldig tot herroeping. </li></ul>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:44.846163433Z",
+      "laatstGewijzigd": "2023-03-24T06:05:44.846165055Z",
+      "laatstOntvangen": "2023-03-24T06:05:44.846165055Z",
+      "productnummer": "245",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8d77f50f-4ecd-4a61-b8cb-46ca318bb036",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3da18483-ff8c-4196-9e3a-c6d1ed9f6e4a"
+    }
+  ]
+}

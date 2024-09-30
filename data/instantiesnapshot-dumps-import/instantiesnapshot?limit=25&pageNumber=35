@@ -1,1 +1,2126 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=35","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=34","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-03-24T17:30:12.650084Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=36","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-03-24T17:30:16.91985Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=35","@type":"EventStream","member":[{"id":"0a97ba31-f3b0-435d-b93c-1e4e06a966fd","generatedAtTime":"2023-03-24T17:30:16.91985Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Voorschot op de alimentatievordering"},"beschrijving":{"nl":"<p>Betaalt de onderhoudsplichtige na een echtscheiding u niet het onderhoudsgeld waar u recht op hebt? Dan kunt u de Dienst voor alimentatievorderingen (DAVO) vragen om het maandelijkse onderhoudsgeld en de achterstallen in te vorderen. Deze dienst kan u onder bepaalde voorwaarden ook een voorschot op het onderhoudsgeld voor de kinderen uitbetalen.</p>"},"type":"FinancieleVerplichting","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["alimentatievordering","onderhoudsgeld","voorschot"]},"bevoegdeOverheden":[{"id":"OVO027263","@id":"OVO027263"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>U woont in België.</li><li>Het onderhoudsgeld is tweemaal niet of onvolledig betaald in een periode van twaalf maanden voor de aanvraag.</li><li>Het onderhoudsgeld werd vastgesteld in een uitvoerbare gerechtelijke beslissing of in een authentieke akte opgesteld door de notaris.</li></ul><p>Op de website van de FOD Financiën kunt u <a href=\"https://financien.belgium.be/nl/particulieren/gezin/onderhoudsgeld/davo/ik_ben_onderhoudsgerechtigde/voorschotten_krijgen\">meer lezen over de voorwaarden</a> waaraan u moet voldoen om voorschotten op onderhoudsgeld te krijgen.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Op de website van de FOD Financiën vindt u <a href=\"https://financien.belgium.be/nl/particulieren/gezin/onderhoudsgeld/davo/ik_ben_onderhoudsgerechtigde/een-aanvraag-indienen/een\">hoe u voorschotten of de verlenging van het recht op voorschotten aanvraagt</a>.</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Het bedrag van het voorschot komt overeen met het bedrag dat werd vastgesteld in de gerechtelijke beslissing of in de notariële akte. Er is wel een <strong>maximum bedrag </strong>bepaald <strong>per maand </strong>en<strong> per kind</strong>.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:10:49.616913476Z","laatstGewijzigd":"2023-03-24T17:30:16.901942865Z","laatstOntvangen":"2023-03-24T17:30:16.901942865Z","productnummer":"860","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0a97ba31-f3b0-435d-b93c-1e4e06a966fd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/afc91e56-8bf7-4f82-bec3-4a263c0bc02a"},{"id":"646cde38-0ca9-4eb5-95a5-d98f416e50a0","generatedAtTime":"2023-03-24T17:30:16.787381Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Hulp bij het betalen van onderhoudsgeld of alimentatie"},"beschrijving":{"nl":"<p>Het OCMW kent bijzondere hulp toe aan personen die problemen hebben om het onderhoudsgeld voor hun kinderen te betalen of om de bijdrage voor een geplaatst kind te betalen.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["onderhoudsgeld"]},"bevoegdeOverheden":[{"id":"OVO027263","@id":"OVO027263"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>U hebt recht op het <a href=\"https://www.uat-vlaanderen.be/leefloon\">leefloon</a> of een <a href=\"https://www.uat-vlaanderen.be/equivalent-leefloon\">equivalent leefloon</a>.</li><li>U bent onderhoudsgeld verschuldigd voor uw kinderen of u betaalt een bijdrage voor geplaatste kinderen.</li><li>U levert een betalingsbewijs van het onderhoudsgeld of de bijdrage.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U vraagt de bijzondere hulp aan bij het OCMW dat u het (equivalent) leefloon uitbetaalt.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"OCMW-tussenkomst bij onderhoudsgeld (Agentschap Integratie en Inburgering)"},"url":"https://www.agii.be/thema/sociaal-medisch/ocmw-steun/bijzondere-vormen-van-ocmw-dienstverlening/ocmw-tussenkomst-na-betaling-onderhoudsgeld-kinderen-of-bijdragen-geplaatste-kinderen#2","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De hulp bedraagt 50% van het onderhoudsgeld of de bijdrage, met een maximum van 91,67 euro per maand (1.100 euro per jaar).</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:49.191869394Z","laatstGewijzigd":"2023-03-24T17:30:16.769820364Z","laatstOntvangen":"2023-03-24T17:30:16.769820364Z","productnummer":"859","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/646cde38-0ca9-4eb5-95a5-d98f416e50a0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/72b9e61d-ede8-4de1-ae2a-0d10a112cb52"},{"id":"85aa040a-0ee3-4f38-b516-6e930e75d756","generatedAtTime":"2023-03-24T17:30:16.596665Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Inkomstenvrijstelling voor leefloners"},"beschrijving":{"nl":"<p>Ontvangt u een leefloon en volgt u een erkende beroepsopleiding of werkt u en ontvangt u een vergoeding of een loon, dan kunt u in aanmerking komen voor een socio-professionele vrijstelling. Tot een bepaald bedrag - de socio-professionele vrijstelling - worden de inkomsten die u ontvangt niet afgetrokken van uw leefloon.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["leefloon","socio-professionele vrijstelling"]},"bevoegdeOverheden":[{"id":"OVO027345","@id":"OVO027345"}],"websites":[{"naam":{"nl":"Socio-professionele vrijstelling (POD Maatschappelijke Integratie)"},"url":"https://www.mi-is.be/nl/themas/maatschappelijke-integratie/socio-professionele-vrijstelling-spi","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het bedrag van de vrijstelling verschilt naargelang het gaat om inkomsten uit:</p><ul><li>socio-professionele integratie</li><li>artistieke activiteiten</li><li>studentenarbeid. Hierbij wordt een onderscheid gemaakt of u een student bent met of zonder studiebeurs.</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:48.590274898Z","laatstGewijzigd":"2023-03-24T17:30:16.579055383Z","laatstOntvangen":"2023-03-24T17:30:16.579055383Z","productnummer":"851","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/85aa040a-0ee3-4f38-b516-6e930e75d756","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/31c10abb-2261-4c50-993a-46a615eb2aa5"},{"id":"da2aa793-3d02-48d6-9bb6-8722766c0d1c","generatedAtTime":"2023-03-24T17:30:16.489409Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Tegemoetkoming in de reiskosten van kankerpatiënten"},"beschrijving":{"nl":"<p>Als u radiotherapie of chemotherapie tegen kanker volgt, kunt u een tegemoetkoming krijgen voor de reiskosten naar het ziekenhuis. Ook als ouder of wettelijke voogd van een kankerpatiënt jonger dan 18 jaar die in een ziekenhuis is opgenomen, krijgt u een tegemoetkoming in de verplaatsingskosten.</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken","WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["kankerpatiënten","reiskosten","tegemoetkoming"]},"bevoegdeOverheden":[{"id":"OVO004200","@id":"OVO004200"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U vraagt deze toelage aan bij uw <strong>ziekenfonds</strong> met een formulier, ingevuld door de behandelende arts van het ziekenhuis.</p><ul><li><a href=\"https://www.inami.fgov.be/nl/themas/kost-terugbetaling/ziekten/chronische-ziekten/Paginas/tegemoetkoming-reiskosten-kankerpatient.aspx\">Aanvraagformulier voor de kankerpatiënt zelf</a></li><li><a href=\"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/ziekten/chronische-ziekten/Paginas/tegemoetkoming-reiskosten-kankerpatient.aspx\">Aanvraagformulier voor vader, moeder of voogd</a></li></ul>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p><strong>Kankerpatiënt</strong></p><ul><li>Openbaar vervoer: integrale terugbetaling</li><li>Ander vervoer: een toelage van 0,25 euro per kilometer</li></ul><p><strong>Ouder of voogd van een kankerpatiënt jonger dan 18 jaar opgenomen in het ziekenhuis</strong></p><ul><li>Per hospitalisatiedag van het kind bedraagt de vergoeding 0,25 euro per kilometer voor één heen- en terugreis (beperkt tot 75 euro per dag).</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:48.400605156Z","laatstGewijzigd":"2023-03-24T17:30:16.47217143Z","laatstOntvangen":"2023-03-24T17:30:16.47217143Z","productnummer":"838","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/da2aa793-3d02-48d6-9bb6-8722766c0d1c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c66bcec0-fff1-424d-90b4-dbb1df5857cd"},{"id":"d318352f-2a4e-49df-98cf-9ddfbad33eba","generatedAtTime":"2023-03-24T17:30:16.36982Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl":"Jobkorting federale overheid"},"beschrijving":{"nl":"<p>Als werknemer kunt u genieten van een federale jobkorting. Dit is een vermindering van de bedrijfsvoorheffing wegens beroepskosten. U krijgt een maandelijks federale jobkorting. Hierdoor is het maandelijks nettoloon hoger.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["jobkorting"]},"bevoegdeOverheden":[{"id":"OVO005190","@id":"OVO005190"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Deze jobkorting krijgt u automatisch.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:10:48.066707428Z","laatstGewijzigd":"2023-03-24T17:30:16.352457822Z","laatstOntvangen":"2023-03-24T17:30:16.352457822Z","productnummer":"836","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d318352f-2a4e-49df-98cf-9ddfbad33eba","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f99a97ed-2a79-4bbf-a0ec-baae6b4d79e6"},{"id":"768b1e67-ff4a-45bd-aa5c-b08f7b601663","generatedAtTime":"2023-03-24T17:30:16.264719Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Incontinentieforfait\t"},"beschrijving":{"nl":"<p>Het incontinentieforfait is een jaarlijkse tegemoetkoming in de kosten voor incontinentiemateriaal van zwaar zorgbehoevenden of van niet-afhankelijke personen.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["incontinentie","incontinentieforfait"]},"bevoegdeOverheden":[{"id":"OVO004200","@id":"OVO004200"}],"voorwaarden":[{"beschrijving":{"nl":"<h3>Zwaar zorgbehoevenden</h3><p>U hebt recht op een incontinentieforfait voor zwaar zorgbehoevenden als:</p><ul><li>u recht hebt op het forfait B of C in de thuisverpleging gedurende minstens 4 van de laatste 12 maanden.</li><li>u een score 3 of 4 voor het criterium ‘incontinentie’ hebt.</li><li>u de laatste dag van de periode van 4 maanden niet in een verzorgingsinrichting verblijft waarvoor de ziekteverzekering een tegemoetkoming voorziet.</li></ul><p>U hebt dus geen recht op het incontinentieforfait bij opname in een:</p><ul><li>algemeen of psychiatrisch ziekenhuis</li><li>rust- en verzorgingstehuis (RVT)</li><li>rustoord voor bejaarden (ROB)</li><li>psychiatrisch verzorgingstehuis (PVT)</li><li>initiatief voor beschut wonen of bepaalde revalidatiecentra.</li></ul><p>Als u opgenomen bent in een instelling van het Vlaams Agentschap voor Personen met een Handicap, vormt dit geen probleem.</p><h3>Niet-afhankelijke personen</h3><p>U hebt recht op een incontinentieforfait voor niet-afhankelijke personen<strong> </strong>als:</p><ul><li>u lijdt aan een onbehandelbare vorm van urinaire incontinentie</li><li>u geen recht hebt op het incontinentieforfait omdat u niet voldoet aan het afhankelijkheidscriterium</li><li>u nog geen tegemoetkoming voor autosondage of incontinentiemateriaal ontvangen hebt</li><li>u niet verblijft in een rustoord of verzorgingsinrichting waarvoor de ziekteverzekering een tegemoetkoming voorziet (uitgezonderd opname in een acute dienst en bij opvang in een dagverzorgingscentrum).</li></ul><p> </p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<h3>Zwaar zorgbehoevenden</h3><p>De aanvraag van een incontinentieforfait voor zwaar zorgbehoevenden<strong> </strong>gebeurt als volgt:</p><ul><li>Uw thuisverpleegkundige dient uw aanvraag in bij uw ziekenfonds.</li><li>Als u geen beroep doet op thuisverpleging, neemt u best contact op met een thuisverpleegkundige of met de dienst maatschappelijk werk van het ziekenfonds.</li><li>U vraagt het forfait jaarlijks aan.</li></ul><h3>Niet-afhankelijke personen</h3><p>De aanvraag van een incontinentieforfait voor niet-afhankelijke personen<strong> </strong>gebeurt als volgt:</p><ul><li>Vraag het aanvraagformulier ‘onbehandelbare incontinentie-forfait’ aan bij uw ziekenfonds.</li><li>Laat het invullen door uw huisarts.</li><li>Stuur het formulier naar de adviserend arts van uw regionaal ziekenfonds.</li><li>De adviserend arts geeft zijn goedkeuring voor drie jaar. Het ziekenfonds zal jaarlijks onderzoeken of u nog aan alle administratieve voorwaarden voldoet.</li><li>Na drie jaar dient u een nieuwe aanvraag in.</li></ul>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het incontinentieforfait voor <strong>zwaar zorgbehoevenden </strong>bedraagt <strong>532,37 euro</strong> per jaar (in 2022) en wordt jaarlijks geïndexeerd.</p><p>Het incontinentieforfait voor <strong>niet-afhankelijke personen</strong> bedraagt <strong>173,76 euro</strong> per jaar (in 2022) en wordt jaarlijks geïndexeerd.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:47.862101716Z","laatstGewijzigd":"2023-03-24T17:30:16.247123341Z","laatstOntvangen":"2023-03-24T17:30:16.247123341Z","productnummer":"832","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/768b1e67-ff4a-45bd-aa5c-b08f7b601663","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/85e1fef3-9fe6-4d3c-ae8e-99ff50e78ee5"},{"id":"3495b93c-b9cf-4a87-a2ba-c5471ef3101a","generatedAtTime":"2023-03-24T17:30:16.155556Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl":"Belastingvermindering voor de kosten voor kinderopvang"},"beschrijving":{"nl":"<p>U krijgt een belastingvermindering voor de kosten die u maakt voor de opvang van uw kinderen. Kinderopvang is ruim opgevat: ook onkosten voor activiteiten van erkende of gesubsidieerde jeugdwerkverenigingen of sportorganisaties komen in aanmerking voor belastingvermindering. Voorbeelden zijn: kosten voor deelname aan een kamp, speelpleinwerking, deelnemen aan een atelier,…</p><p>Sinds aanslagjaar 2021 (inkomsten 2020) komen ook de uitgaven voor de professionele thuisopvang van zieke kinderen in aanmerking voor een belastingvermindering.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["belastingvermindering","fiscaal aftrek","kinderopvang"]},"bevoegdeOverheden":[{"id":"OVO005190","@id":"OVO005190"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>Op de dag van de opvang activiteit moet uw kind jonger zijn dan 14 jaar of jonger dan 21 jaar, als het kind een zware handicap heeft.</li><li>De instelling of opvangvoorziening is rechtstreeks erkend, gesubsidieerd of gecontroleerd door een openbaar bestuur.</li></ul><p>U moet:</p><ul><li>uw kind fiscaal ten laste hebben</li><li>beroepsinkomsten hebben</li><li>kosten van opvang aan welbepaalde instellingen of personen betaald hebben</li><li>schriftelijk bewijs leveren van de opvang en het betaalde bedrag.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U brengt de uitgaven voor de opvang in op uw belastingaangifte.</p><p>Hebt u een kind dat jonger is dan 3 jaar, dan zult u bij het invullen van uw belastingbrief een keuze moeten maken:</p><ul><li>Ofwel kiest u voor een verhoging van de belastingvrije som. Voor het aanslagjaar 2022 (inkomsten 2021) bedraagt die verhoging 610 euro. Dit is aangewezen, als u geen beroepsinkomsten hebt of als uw opvangkosten zo laag zijn dat de belastingvrije som u voordeliger uitkomt.</li><li>Ofwel kiest u ervoor om de uitgaven in te brengen voor de opvang van uw kind.</li></ul><p>Om de kosten te kunnen aftrekken moet u als ouder over bewijzen beschikken voor de uitgaven die u maakte voor de kinderopvang. Vraag hiervoor een fiscaal attest aan de initiatiefnemers. Initiatiefnemers van kinderopvang vinden <a href=\"https://www.vlaanderen.be/cjm/nl/jeugd/andere-diensten/belastingvermindering-voor-kinderopvang\">meer informatie over het afleveren van attesten</a> op de website van het Departement Cultuur, Jeugd en Media.</p><h3>Inkomstenjaar 2020: tij­de­lij­ke maat­re­gel in het ka­der van coronacrisis</h3><p>Door de coronamaatregelen werden vanaf 14 maart 2020 jeugdactiviteiten geschrapt. Ouders vroegen soms, vanwege hun solidariteit met de organisatoren, het reeds betaalde inschrijvingsgeld niet terug. Zij kunnen toch recht hebben op de belastingvermindering, ook al heeft er geen effectieve opvang plaatsgevonden.</p><p><a href=\"https://www.vlaanderen.be/cjm/nl/jeugd/andere-diensten/belastingvermindering-voor-kinderopvang\">Meer informatie over de tijdelijke maatregel</a> vindt u op de website van het Departement Cultuur, Jeugd en Media.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Belastingvermindering voor kinderopvangkosten"},"url":"https://www.vlaanderen.be/cjm/nl/jeugd/andere-diensten/belastingvermindering-voor-kinderopvang","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>U mag alle opvangkosten inbrengen, tot maximaal 14,00 euro per oppasdag en per kind (aanslagjaar 2022 - inkomstenjaar 2021). Het bedrag wordt elk jaar geïndexeerd.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:47.721531988Z","laatstGewijzigd":"2023-03-24T17:30:16.136825454Z","laatstOntvangen":"2023-03-24T17:30:16.136825454Z","productnummer":"828","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3495b93c-b9cf-4a87-a2ba-c5471ef3101a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/043a4dab-89c4-423a-b3be-7d137b05a20a"},{"id":"5f0a734c-b045-46b2-a7f2-e46cb9e203a3","generatedAtTime":"2023-03-24T17:30:15.938436Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Dringende medische hulp voor mensen zonder wettig verblijf "},"beschrijving":{"nl":"<p>Als vreemdeling zonder wettig verblijfsstatuut, hebt u recht op dringende medische hulp als u dringende medische zorgen nodig heeft. Het OCMW betaalt in dit geval uw kosten voor dringende medische hulp.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["dringende medische hulp"]},"bevoegdeOverheden":[{"id":"OVO027345","@id":"OVO027345"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>U hebt geen wettig verblijfsstatuut in België, u verblijft zonder papieren in België.</li><li>Uit een sociaal onderzoek blijkt dat u dringend medische zorgen nodig hebt.</li><li>U verblijft op het grondgebied van het OCMW.</li><li>U hebt geen eigen financiële middelen om de medische zorgen te betalen.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>U gaat eerst naar de huisarts en hij geeft u een attest Dringende Medische Hulp.</li><li>Met dit attest gaat u naar het OCMW van de plaats waar u gewoonlijk verblijft.</li><li>Het OCMW zal, na controle van de dringende medische hulp en het illegaal verblijf, een betalingsverbintenis meegeven.</li><li>Met deze medische kaart kunt u de ingreep of consultatie laten uitvoeren.</li></ul><p>Als u ernstig ziek of gewond bent en heel dringend hulp nodig heeft, gaat u onmiddellijk naar een dokter of een ziekenhuis. Het OCMW bevoegd voor het grondgebied waar het ziekenhuis zich bevindt, moet dan gewaarschuwd worden en de behandelende arts moet een attest Dringende Medische Hulp opmaken. Daarna zal het OCMW eventueel nog een onderzoek doen naar de behoeftigheid.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:10:47.395983989Z","laatstGewijzigd":"2023-03-24T17:30:15.919628875Z","laatstOntvangen":"2023-03-24T17:30:15.919628875Z","productnummer":"823","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5f0a734c-b045-46b2-a7f2-e46cb9e203a3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/790a83dc-3789-428c-b480-d667a0c4b6b5"},{"id":"1c2bd8ee-c0ca-4f6c-b548-8fb6d3f5c303","generatedAtTime":"2023-03-24T17:30:15.829631Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Tegemoetkoming chronische wonden "},"beschrijving":{"nl":"<p>Patiënten met chronische wonden krijgen een forfaitaire tegemoetkoming en een bijkomende tegemoetkoming voor bepaalde verbandmiddelen. Chronische wonden zijn wonden die na 6 weken behandeling onvoldoende genezen zijn.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["chronische wonden"]},"bevoegdeOverheden":[{"id":"OVO004200","@id":"OVO004200"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Uw behandelende arts stuurt een 'kennisgeving' op aan de adviserend geneesheer van uw ziekenfonds.</li><li>Deze kennisgeving geeft recht op de tegemoetkomingen voor maximum 3 maanden en is 3 keer hernieuwbaar.</li><li>Op de voorschriften voor de apotheker moet uw behandelende arts de vermelding \"derdebetalersregeling van toepassing\" aanduiden.</li></ul>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De tegemoetkoming bestaat uit een <a href=\"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/door-ziekenfonds/geneesmiddel-gezondheidsproduct/terugbetalen/Paginas/terugbetaling-actieve-verbandmiddelen-chronische-wonden.aspx\">maandelijkse forfaitaire tegemoetkoming en een bijkomende tegemoetkoming voor bepaalde verbandmiddelen.</a> Deze verbandmiddelen zijn opgenomen in de <a href=\"http://www.riziv.fgov.be/SiteCollectionDocuments/list-bandages-actifs.xls\">lijst actieve verbandmiddelen</a>.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:47.265479505Z","laatstGewijzigd":"2023-03-24T17:30:15.811938199Z","laatstOntvangen":"2023-03-24T17:30:15.811938199Z","productnummer":"821","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1c2bd8ee-c0ca-4f6c-b548-8fb6d3f5c303","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/478b36fe-d464-4f2b-a06c-3e8bc70e299c"},{"id":"f8feda43-48a7-4fb9-8ea8-455176923627","generatedAtTime":"2023-03-24T17:30:15.63278Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Blindenstok "},"beschrijving":{"nl":"<p>De blindenstok of witte stok helpt blinden en slechtzienden om zich op straat te verplaatsen en wijst andere weggebruikers op de handicap. U kunt een dergelijk taststok verkrijgen bij verschillende gespecialiseerde organisaties.</p>"},"type":"Voorwerp","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["blindenstok"]},"bevoegdeOverheden":[{"id":"OVO008238","@id":"OVO008238"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U komt in aanmerking voor een blindenstok als u ofwel:</p><ul><li>een visuele handicap hebt van minstens 60 %</li><li>een getuigschrift kunt voorleggen van een oogarts die erkend is inzake revalidatie.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Als u voldoet aan de voorwaarden, kunt u een witte stok verkrijgen bij verschillende gespecialiseerde organisaties.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:10:46.938081644Z","laatstGewijzigd":"2023-03-24T17:30:15.614587262Z","laatstOntvangen":"2023-03-24T17:30:15.614587262Z","productnummer":"820","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f8feda43-48a7-4fb9-8ea8-455176923627","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/10765a46-1018-4058-a185-aea4331c23e7"},{"id":"31d3f963-3dc7-47b6-8cd2-08a7f338b8ad","generatedAtTime":"2023-03-24T17:30:15.521862Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Bijzonder Solidariteitsfonds voor uitzonderlijke gezondheidskosten"},"beschrijving":{"nl":"<p>Het Bijzonder Solidariteitsfonds is een bijkomend vangnet naast de gewone dekking van de verzekering voor geneeskundige verzorging. Dit fonds geeft een financiële tegemoetkoming aan patiënten met zeer ernstige aandoeningen die voor bepaalde behandelingen geen terugbetaling krijgen.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["Bijzonder Solidariteitsfonds","gezondheidskosten"]},"bevoegdeOverheden":[{"id":"OVO025169","@id":"OVO025169"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>Uw aanvraag gaat over een geneeskundige verstrekking</li><li>U hebt eerst alle vergoedingsmogelijkheden uitgeput:<ul><li>verplichte verzekering voor geneeskundige verzorging</li><li>andere wetgeving betreffende de arbeidsongevallen, de beroepsziekten, de personen met een handicap...</li><li>privéverzekeringen (hospitalisatieverzekering, aanvullende verzekering...) in België of elders in de wereld.</li></ul></li></ul><p>U kunt een beroep doen op het Bijzonder Solidariteitsfonds als alle voorwaarden tegelijkertijd vervuld zijn en in geval van:</p><ul><li>een zeldzame indicatie</li><li>een zeldzame aandoening</li><li>een zeldzame aandoening die een continue en complexe verzorging vereist</li><li>een aanvraag die betrekking heeft op medische hulpmiddelen en/of verstrekkingen die innovatieve medische technieken zijn, met uitzondering van de geneesmiddelen</li><li>chronisch zieke kinderen</li><li>een in het buitenland verleende verzorging.</li></ul>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<ul><li>doktersvoorschrift van uw geneesheer-specialist</li><li>omstandig medisch verslag van uw geneesheer-specialist</li><li>kostenraming of een gedetailleerde factuur van de kosten</li><li>verklaring op erewoord dat u op geen andere wijze terugbetaling van de prestaties krijgt.</li></ul>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U dient de aanvraag per aangetekende brief in bij de adviserende geneesheer van uw ziekenfonds.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Het Bijzonder Solidariteitsfonds (RIZIV)"},"url":"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/door-ziekenfonds/bijzonder-solidariteitsfonds/Paginas/default.aspx","@type":"Website","order":0}],"creatie":"2023-03-24T06:10:46.804130512Z","laatstGewijzigd":"2023-03-24T17:30:15.504295689Z","laatstOntvangen":"2023-03-24T17:30:15.504295689Z","productnummer":"819","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/31d3f963-3dc7-47b6-8cd2-08a7f338b8ad","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0d21558f-e270-43a2-889c-d8dd4b92a410"},{"id":"59e87499-bfe6-4e3f-b379-ec4186f4ac28","generatedAtTime":"2023-03-24T17:30:15.409919Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Bemiddeling"},"beschrijving":{"nl":"<p>Bevindt u zich in een conflict met een familielid, uw huisbaas of een buur? Bemiddeling is één van de mogelijke alternatieven om geschillen op te lossen voor een gerechtelijke procedure gestart wordt.</p><p>De bemiddeling is een gestructureerde procedure, waarin twee of meer partijen bij een geschil zelf pogen om op vrijwillige basis met de hulp van een bemiddelaar/mediator hun geschil te schikken. De bemiddelaar is een neutrale persoon, die in een strikt vertrouwelijke sfeer samen met u en de andere partij(en) een akkoord zoekt, dat aanvaardbaar is voor iedereen. Deze procedure kan door een van de partijen worden ingeleid of door een rechterlijke instantie worden voorgesteld of gelast. Bemiddeling kan bij:</p><ul><li><strong>familiezaken</strong>: voor geschillen over een (echt)scheiding, nalatenschap, samenwonen en generatieconflict</li><li><strong>burgerlijke zaken en handelszaken</strong>: voor geschillen tussen klant en leverancier, tussen aandeelhouders, bij betaling van een factuur, geschillen in verband met huisvesting of mede-eigendom</li><li><strong>sociale zaken</strong>: voor geschillen in verband met het ontslag van een werknemer of collectief arbeidsconflict</li></ul>"},"type":"AdviesBegeleiding","themas":["BurgerOverheid"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["bemiddeling"]},"bevoegdeOverheden":[{"id":"OVO003988","@id":"OVO003988"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p><strong>In het geval van vrijwillige bemiddeling</strong> kan de ene partij per aangetekende brief het voorstel tot bemiddeling aan de wederpartij overmaken. Dit voorstel heeft dan de waarde van een ingebrekestelling: het gaat hier dus om een formeel verzoek. De verjaringstermijn wordt gedurende een maand opgeschort, waardoor alle partijen tijd genoeg hebben om het voorstel rustig te bekijken.</p><p><strong>In het geval van gerechtelijke bemiddeling</strong> kunnen ofwel de partijen of de rechter zelf een bemiddeling voorstellen. De rechter kan echter alleen maar een bemiddeling bevelen als alle partijen akkoord gaan.</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>De kostprijs van een bemiddeling hangt af van de geleverde diensten, de duurtijd van het bemiddelingstraject, het aantal partijen, het ereloon en de bijkomende kosten van de bemiddelaar.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:10:46.602095362Z","laatstGewijzigd":"2023-03-24T17:30:15.384421437Z","laatstOntvangen":"2023-03-24T17:30:15.384421437Z","productnummer":"817","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/59e87499-bfe6-4e3f-b379-ec4186f4ac28","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/de1e6cca-8767-47f2-984c-0bd9ca977f70"},{"id":"273757cd-f2bf-4101-ac91-3c62dbafbfff","generatedAtTime":"2023-03-24T17:30:15.243604Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Inhaalpremie voor langdurige arbeidsongeschiktheid"},"beschrijving":{"nl":"<p>Als u arbeidsongeschikt bent en aan de voorwaarden voldoet, ontvangt u jaarlijks een inhaalpremie voor langdurige invaliditeit. Deze premie ontvangt u in de maand mei en komt bovenop uw uitkering.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["arbeidsongeschiktheid"]},"bevoegdeOverheden":[{"id":"OVO004018","@id":"OVO004018"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>U bent op <strong>31 december</strong> van het voorbije jaar minstens 1 jaar arbeidsongeschikt.</li><li>En u bent nog arbeidsongeschikt op <strong>1 mei</strong> van het lopende jaar.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Als u recht hebt op de premie, betaalt uw <a href=\"https://riziv.fgov.be/nl/professionals/andere-professionals/ziekenfonds/Paginas/contacteer-ziekenfondsen.aspx\">ziekenfonds</a> deze<strong> eind mei </strong>automatisch uit. U moet geen aanvraag indienen.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"RIZIV - Inhaalpremie"},"url":"https://www.riziv.fgov.be/nl/themas/arbeidsongeschiktheid/werknemers-werklozen/Paginas/inhaalpremie-werknemers-werklozen-arbeidsongeschikt.aspx","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het <a href=\"https://www.riziv.fgov.be/nl/themas/arbeidsongeschiktheid/bedragen/werknemers-werklozen/Paginas/inhaalpremie-arbeidsongeschiktheid-werknemer.aspx\">bedrag</a> dat u jaarlijks ontvangt, hangt af van uw gezinslast en hoe lang u al arbeidsongeschikt bent.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:46.47126455Z","laatstGewijzigd":"2023-03-24T17:30:15.224699962Z","laatstOntvangen":"2023-03-24T17:30:15.224699962Z","productnummer":"807","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/273757cd-f2bf-4101-ac91-3c62dbafbfff","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/84d6edcd-30d4-4e22-8f26-c579f1d69acb"},{"id":"d987dd74-1990-4a7c-bf0b-76c2b62fa2d5","generatedAtTime":"2023-03-24T17:30:15.047737Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Tegemoetkoming voor hulp van derden bij arbeidsongeschiktheid"},"beschrijving":{"nl":"<p>Bent u arbeidsongeschikt en hebt u voor bepaalde taken in het dagelijks leven hulp van anderen nodig, dan kunt u bovenop uw ziekte-uitkering een tegemoetkoming voor hulp van derden krijgen. Deze tegemoetkoming is forfaitair.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"bevoegdeOverheden":[{"id":"OVO004018","@id":"OVO004018"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>U kunt deze tegemoetkoming ten vroegste aanvragen<strong> vanaf de vierde maand </strong>van uw arbeidsongeschiktheid en <strong>uiterlijk tot het einde</strong> van uw arbeidsongeschiktheid.</li><li>U ontvangt een ziekte- of invaliditeitsuitkering.</li><li>U bent <strong>ernstig zorgbehoevend</strong>. Dit betekent dat u ernstige problemen hebt op het vlak van mobiliteit, huishouding, zelfzorg, communicatie en sociale contacten.<ul><li>U scoort <strong>minstens 11 op 18 punten</strong> op de schaal van zelfredzaamheid</li><li>De arts oordeelt dat hulp van derden onmisbaar is voor een periode van <strong>ten minste 3 maanden</strong>. </li></ul></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Neem contact op met uw <a href=\"https://riziv.fgov.be/nl/professionals/andere-professionals/ziekenfonds/Paginas/contacteer-ziekenfondsen.aspx\">ziekenfonds</a> om de erkenning van de behoefte aan hulp van derden aan te vragen. De <strong>adviserend arts</strong> van uw ziekenfonds onderzoekt of u voldoet aan de voorwaarden voor de toekenning van de behoefte hulp van derden.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"RIZIV - Hulp van derden"},"url":"https://www.riziv.fgov.be/nl/themas/arbeidsongeschiktheid/werknemers-werklozen/Paginas/hulp-derden.aspx","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Werknemers, werklozen en zelfstandigen ontvangen hetzelfde <a href=\"https://www.riziv.fgov.be/nl/themas/arbeidsongeschiktheid/bedragen/zelfstandigen/Paginas/forfaitaire-tegemoetkoming-hulp-derden.aspx\">forfaitair bedrag</a> per dag.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:46.098054562Z","laatstGewijzigd":"2023-03-24T17:30:15.030036084Z","laatstOntvangen":"2023-03-24T17:30:15.030036084Z","productnummer":"808","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d987dd74-1990-4a7c-bf0b-76c2b62fa2d5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/59de8606-67fd-4a06-9873-74560fcb1999"},{"id":"1b85238f-b89e-4356-981d-c8a1f93bf6b8","generatedAtTime":"2023-03-24T17:30:14.796638Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Ziekte- en invaliditeitsuitkering"},"beschrijving":{"nl":"<p>Kunt u als werknemer, werkloze of zelfstandige door een ziekte of een ongeval niet meer werken of stempelen, dan hebt u recht op een uitkering voor arbeidsongeschiktheid.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk","WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["Invaliditeitsuitkering","arbeidsongeschiktheid"]},"bevoegdeOverheden":[{"id":"OVO004018","@id":"OVO004018"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U bent arbeidsongeschikt door ziekte of door een ongeval.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>U laat het 'Getuigschrift van arbeidsongeschiktheid' (document 'vertrouwelijk') invullen door uw behandelde geneesheer.</li><li>U bezorgt het ingevulde document binnen de 2 dagen aan de adviserende geneesheer van uw ziekenfonds.</li></ul>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De berekening van het bedrag verschilt voor werknemers, werklozen en zelfstandigen.</p><p>Bij <strong>werknemers en werklozen</strong> wordt het bedrag bepaald op basis van:</p><ul><li>het loon of werkloosheidsuitkering</li><li>de duur van uw arbeidsongeschiktheid</li><li>de gezinssituatie.</li></ul><p><strong>Zelfstandigen</strong> krijgen een forfaitair bedrag dat afhankelijk is van:</p><ul><li>de gezinssituatie</li><li>na één jaar wordt de uitkering verhoogd als de onderneming of het vrije beroep stopgezet is.</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:45.779407998Z","laatstGewijzigd":"2023-03-24T17:30:14.778995314Z","laatstOntvangen":"2023-03-24T17:30:14.778995314Z","productnummer":"809","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1b85238f-b89e-4356-981d-c8a1f93bf6b8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c0a7e750-ee2f-4dfc-b205-ddc175b7b03c"},{"id":"b78cd700-68c7-48d4-8243-8e1ecc9aedd7","generatedAtTime":"2023-03-24T17:30:14.658345Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Nachtvergunning voor de horeca"},"beschrijving":{"nl":"<p>Als uitbater van een café, hotel of dancing, hebt u een vergunning nodig als u langer wilt openblijven dan het verplichte sluitingsuur. Het verplichte sluitingsuur staat vermeld in het politiereglement. Het verplichte sluitingsuur maakt een onderscheid tussen weeknachten en weekendnachten, waardoor het sluitingsuur in het weekend later is.</p><p>Als u altijd langer open blijft dan het verplichte sluitingsuur, vraagt u een permanente nachtvergunning aan. Wilt u een tijdelijke uitzondering op het sluitingsuur, dan vraagt u een tijdelijke nachtvergunning aan.</p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["horeca","nachtvergunning","vergunning"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U doet de aanvraag schriftelijk, met vermelding van de gewenste afwijking (dagen en uren).</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:10:45.630376703Z","laatstGewijzigd":"2023-03-24T17:30:14.640395275Z","laatstOntvangen":"2023-03-24T17:30:14.640395275Z","productnummer":"757","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b78cd700-68c7-48d4-8243-8e1ecc9aedd7","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3a40e868-2709-436e-b652-66a40f676bee"},{"id":"500cd419-672a-49ac-a7a7-69e5768e95a5","generatedAtTime":"2023-03-24T17:30:14.509554Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl":"Sociaal telefoontarief"},"beschrijving":{"nl":"<p>Het sociaal tarief is een korting op de (vaste of mobiele) telefoon- of internetrekening. Als u in aanmerking komt voor het sociaal tarief, betaalt u minder voor de telefoonaansluiting, betaalt u een lager abonnementsgeld en een lager gesprekstarief.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid","WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<p>Wet van 13 juni 2005 betreffende de elektronische communicatie (art 3 van de bijlage)</p>"},"zoektermen":{"nl":["korting","sociaal tarief","telefonie"]},"bevoegdeOverheden":[{"id":"OVO019809","@id":"OVO019809"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U kunt in aanmerking komen voor het sociaal telefoontarief als u:</p><ul><li>nog niet van het sociaal tarief geniet en als er in uw gezin niemand is die van dat tarief geniet</li><li>aangesloten bent bij een <a href=\"https://www.bipt.be/consumenten/faq/welke-operatoren-verstrekken-het-sociale-tarief\">operator die het sociaal telefoontarief aanbiedt</a>.</li></ul><p>Daarnaast behoort u tot <strong>één van onderstaande doelgroepen</strong>:</p><ul><li>65+ met bepaalde inkomensvoorwaarden</li><li>voor meer dan 66% gehandicapt</li><li>u ontvangt een <a href=\"https://www.uat-vlaanderen.be/leefloon\">leefloon</a></li><li>slechthorend</li><li>een laryngectomie ondergaan</li><li>militaire oorlogsblinde</li></ul><p><a href=\"https://www.bipt.be/consumenten/faq/wie-kan-het-sociale-tarief-genieten\">Uitgebreidere voorwaarden bij bovenstaande doelgroepen</a> vindt u op de website van het Belgisch Instituut voor postdiensten en telecommunicatie (BIPT).</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Als u denkt aan de voorwaarden voor het sociale telefoontarief te voldoen, dient u uw aanvraag in bij de operator van uw keuze. De operator bezorgt uw gegevens aan het BIPT. Voldoet u aan de voorwaarden, dan kent het BIPT u het sociaal telefoontarief toe.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"BIPT - Sociaal telefoontarief"},"url":"https://www.bipt.be/consumenten/sociaal-tarief","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De <a href=\"https://www.bipt.be/consumenten/faq/sociaal-tarief-waaruit-bestaan-die-kortingen\">korting</a> waar u recht op hebt, hangt af van de doelgroep waartoe u behoort.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-07T15:12:46.553173232Z","laatstGewijzigd":"2023-03-24T17:30:14.491311469Z","laatstOntvangen":"2023-03-24T17:30:14.491311469Z","productnummer":"750","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/500cd419-672a-49ac-a7a7-69e5768e95a5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cfa3e6d7-81e2-49b1-9a8f-12a9dbfbe939"},{"id":"48d5b3d3-2db0-4561-bb68-4ad1a2973952","generatedAtTime":"2023-03-24T17:30:14.055912Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl":"Handelaarsvergunning ethylalcohol en alcoholhoudende dranken "},"beschrijving":{"nl":"<p>Elke persoon (kleinhandelaar, groothandelaar, vereniging, …) die alcohol wil verkopen, moet een handelaarsvergunning ethylalcohol of alcoholhoudende dranken hebben.</p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<ul><li><p>Ministerieel Besluit van 30.10.2009 betreffende het accijnsstelsel van ethylalcohol en de uitvoeringsmodaliteiten betreffende de vrijstellingen inzake ethylalcohol en alcoholhoudende dranken </p></li><li><p>Ministerieel besluit van 16.11.2011 tot wijziging van het MB van 30.10.2009 betreffende het accijnsstelsel van ethylalcohol en de uitvoeringsmodaliteiten betreffende de vrijstellingen inzake ethylalcohol en alcoholhoudende dranken. </p></li></ul>"},"zoektermen":{"nl":["alcohol","drank","drankvergunning","vergunning gegiste dranken","sterke dranken","alcoholvergunning","schenkvergunning","Vergunning voor de verkoop van alcoholische dranken","verkoop alcoholische dranken","alcoholverkoop","sterkedrank"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De vergunning is alleen van toepassing op:</p><ul><li>ethylalcohol en alcoholhoudende dranken waarvoor de accijnzen al betaald zijn (de zogenaamde regeling ‘in verbruik’). </li><li><p>elke verkoop die niet bestemd is voor gebruik ter plaatse (in horeca, …), want dáárvoor is een drankvergunning nodig (vaste, reizende of occasionele drankgelegenheid). </p></li></ul><p>Er zijn geen specifieke voorwaarden verbonden aan deze vergunning. </p><p>De vergunning is geldig tot de stopzetting van de activiteit of een wijziging op het niveau van de onderneming of vestiging(en).</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U bezorgt het ingevulde aanvraagformulier aan: </p><ul><li><p>de Gewestelijke directie van Douane en Accijnzen van de regio waar uw onderneming gevestigd is. Voor ambulante handelaars is de locatie van de maatschappelijke zetel bepalend (zelfs als de handelsactiviteiten in andere/meerdere regio’s plaatsvinden) </p></li><li><p>de Algemene Administratie van Douane en Accijnzen, als er sprake is van meerdere vestigingen in verschillende regio’s. </p></li></ul>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Brochure alcoholhoudende dranken (website FOD Financiën)"},"url":"https://financien.belgium.be/nl/douane_accijnzen/ondernemingen/accijnzen/accijnsgoederen/alcohol-en-alcoholhoudende-dranken/brochure","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>De aanvraag en de vergunning zijn kosteloos. </p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:10:44.005723651Z","laatstGewijzigd":"2023-03-24T17:30:14.038276399Z","laatstOntvangen":"2023-03-24T17:30:14.038276399Z","productnummer":"734","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/48d5b3d3-2db0-4561-bb68-4ad1a2973952","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b18991b5-3ed1-4062-ba05-48ff3a0dafb4"},{"id":"5ec50100-f7a7-4ccf-ba7b-52b4df2040bb","generatedAtTime":"2023-03-24T17:30:13.775745Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl":"Rustpensioen"},"beschrijving":{"nl":"<p>Een rustpensioen is een uitkering die u ontvangt als werknemer als u een bepaalde leeftijd hebt bereikt, voor een eerdere werkperiode. Of u werknemer, zelfstandige of ambtenaar was, bepaalt hoe uw pensioen berekend wordt.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid","EconomieWerk"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["aanvraag","pensioen","pensioenaanvraag"]},"bevoegdeOverheden":[{"id":"OVO024764","@id":"OVO024764"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De wettelijke pensioenleeftijd is in principe 65 jaar zowel voor werknemers, zelfstandigen als ambtenaren. Voor bepaalde categorieën van ambtenaren kan de leeftijdsgrens hoger (bijvoorbeeld voor magistraten) of lager (bijvoorbeeld voor bepaalde militairen of personeelsleden van de geïntegreerde politie) liggen.</p><p>Om een rustpensioen te ontvangen, moet u aan de volgende drie voorwaarden beantwoorden:</p><ul><li>u moet een bepaalde leeftijd hebben bereikt,</li><li>u mag geen inkomen uit een beroepsactiviteit ontvangen dat een bepaalde grens overschrijdt,</li><li>uw wettelijke bijdragen moeten tijdens de tewerkstelling door uw werkgever zijn ingehouden op uw werknemersloon.</li></ul><p><a href=\"https://www.sfpd.fgov.be/nl/pensioenleeftijd/wanneer\">Onder bepaalde voorwaarden</a>, die verschillen naargelang uw leeftijd en de duur van uw beroepsloopbaan, kunt u met vervroegd pensioen gaan.</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<ul><li>Identiteitskaart met pincode</li><li>Rekeningnummer</li></ul>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Welke procedure u moet volgen, hangt af of u werkt als werknemer, zelfstandige of ambtenaar.</p><p>Werknemers en zelfstandigen die hun hoofdverblijfplaats in België hebben en er werknemer geweest zijn, worden vrijgesteld van het indienen van een aanvraag als ze hun pensioen opnemen op de pensioengerechtigde leeftijd, dit is 65 jaar.</p><p>U bent verplicht uw pensioen zelf aan te vragen als u:</p><ul><li>uw rustpensioen vervroegd wilt opnemen, dus vóór de leeftijd van 65 jaar</li><li>uw rustpensioen wilt opnemen na de leeftijd van 65 jaar</li><li>uw rustpensioen wilt opnemen op de leeftijd eigen aan een bijzonder stelsel (mijnwerkers, zeevarenden, vliegend personeel van de burgerluchtvaart)</li><li>uw hoofdverblijfplaats in het buitenland heeft.</li></ul><p>U kunt dit ten vroegste één jaar voor de ingangsdatum aanvragen. Dit kan ofwel:</p><ul><li>via de website <a href=\"http://www.pensioenaanvraag.be\">www.pensioenaanvraag.be</a></li><li>via uw gemeentebestuur.</li></ul><p>Als werknemer kunt u ook terecht bij de Federale Pensioendienst (FPD), ofwel in een gewestelijk kantoor, ofwel tijdens een zitdag. Als zelfstandige kunt u terecht bij het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen (RSVZ).</p><p>Statutaire ambtenaren dienen hun aanvraag in bij de laatste werkgever in de overheidssector.</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het bedrag hangt af van:</p><ul><li>het stelsel waarin u werkt</li><li>het aantal jaren dat u werkt</li><li>uw gezinssituatie.</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:43.582140176Z","laatstGewijzigd":"2023-03-24T17:30:13.757655884Z","laatstOntvangen":"2023-03-24T17:30:13.757655884Z","productnummer":"728","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5ec50100-f7a7-4ccf-ba7b-52b4df2040bb","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/86e6f342-31e9-4837-83b4-7322f949e3d4"},{"id":"e4c90184-bc5c-4dbb-9261-c6f819b387da","generatedAtTime":"2023-03-24T17:30:13.631062Z","bevoegdBestuursniveaus":["Europees"],"uitvoerendBestuursniveaus":["Federaal","Vlaams"],"naam":{"nl":"Europese handicapkaart of European Disability Card (EDC)"},"beschrijving":{"nl":"<p>De European Disability Card (EDC) is een Europese handicapkaart waarmee u als persoon met een handicap voordelen kunt genieten bij cultuur-, sport- of vrijetijdsactiviteiten. De kaart is geldig in België en in zeven andere deelnemende Europese landen: Cyprus, Estland, Finland, Italië , Malta, Slovenië en Roemenië. De kaart is strikt persoonlijk en bewijst dat u een handicap hebt.</p>"},"type":"Bewijs","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["europese","gehandicaptenkaart","kaart","gehandicapten","mindervaliden","personen","beperking","eu disability card","eu disability"]},"bevoegdeOverheden":[{"id":"OVO000060","@id":"OVO000060"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U kunt de kaart aanvragen als u erkend bent:</p><ul><li>als persoon met een handicap door het Vlaams Agentschap voor Personen met een Handicap (VAPH)</li><li>door de Federale Overheidsdienst Sociale Zekerheid</li><li>of wanneer uw kind in aanmerking komt voor een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte (binnen het Groeipakket).</li></ul><h3>Erkend door het VAPH</h3><p>Wanneer bent u erkend als persoon met een handicap door het VAPH?</p><p><strong>Meerderjarig</strong></p><ul><li>U kreeg een toewijzing of een terbeschikkingstelling van een persoonsvolgend budget.</li><li>U hebt een hulpmiddelendossier bij het VAPH: u kreeg een tegemoetkoming voor hulpmiddelen en aanpassingen aan uw woning of uw wagen.</li><li>U kreeg in het verleden een goedkeuring voor hulp bij opleiding en tewerkstelling. Omdat de hulp bij opleiding en tewerkstelling ondertussen is overgeheveld naar de VDAB, betekent dat wel dat u uw aanvraag bij het VAPH voor tewerkstellingsbevorderende maatregelen vóór 1 oktober 2008 indiende.</li><li>U kreeg in het verleden een goedkeuring van het VAPH voor een of meerdere zorgvormen (thuisbegeleiding, begeleid wonen, dagcentrum, tehuis niet-werkenden ...) maar u hebt daar nooit gebruik van gemaakt en u hebt zich ook nooit geregistreerd op de Centrale Registratie van Zorgvragen. Dat betekent dat u wel erkend bent als persoon met een handicap, maar dat er in het kader van de transitie persoonsvolgende financiering, u geen persoonsvolgend budget werd toegewezen.</li></ul><p>Als u gebruik maakt van rechtstreeks toegankelijke hulp (RtH) van het VAPH, dan kunt u de kaart enkel aanvragen in bovenstaande gevallen. U beschikt dan over een dossiernummer bij het VAPH.</p><p><strong>Minderjarig</strong></p><ul><li>U beschikt over een goedgekeurd en geldig indicatiestellingsverslag van de intersectorale toegangspoort (ITP), met een goedkeuring voor een of meerdere typemodules voor personen met een handicap (hulpmiddelen, zorg of PAB);</li><li>U kreeg vóór Integrale Jeugdhulp van start ging (1 maart 2014) reeds een goedkeuring voor zorg, PAB of hulpmiddelen bij het VAPH.</li></ul><h3>Erkend door de FOD Sociale Zekerheid</h3><p>U komt in aanmerking voor de European Disability Card (EDC) als uw handicap wordt erkend door de FOD Sociale Zekerheid (Directie-generaal Personen met een Handicap) en/of als u daarvan voordelen krijgt zoals een tegemoetkoming, een <a href=\"https://www.uat-vlaanderen.be/parkeerkaart-voor-personen-met-een-handicap\">parkeerkaart</a>,…</p><h3>Zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte (Groeipakket)</h3><p>Uw kind komt in aanmerking voor een zorgtoeslag wanneer het voldoende punten scoort op de medisch-sociale schaal (minstens 4 punten in pijler 1 of 6 punten in totaal). Deze inschaling gebeurt door een evaluerend arts van Opgroeien.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<h3>De European Disability Card (EDC) aanvragen</h3><ul><li><p>Als u erkend bent door het VAPH, kunt u de kaart aanvragen bij het VAPH. U kunt deze kaart enkel digitaal aanvragen via het <a href=\"http://www.mijnvaph.be\">digitale loket mijnvaph.be</a>. In uw persoonlijk dossier gaat u naar de tab ‘EDC’ waarna u op de tekst ‘vraag een nieuwe kaart aan’ klikt. De kaart wordt dan aangemaakt en met de post naar uw persoonlijk adres verstuurd.</p></li><li><p>Als u erkend bent door het VAPH, maar geen toegang hebt tot internet of mijnvaph met een e-ID kaartlezer, kan het provinciaal kantoor van het VAPH deze aanvraag voor u indienen via het <a href=\"http://www.mijnvaph.be\">digitale loket mijnvaph.be</a>.</p></li><li><p>Als u erkend bent door de FOD Sociale Zekerheid, kunt u de kaart aanvragen via <a href=\"https://forms.handicap.fgov.be/nl\">het online contactformulier van de Directie-generaal voor Personen met een Handicap.</a></p></li><li><p>Als u een erkenning zorgtoeslag hebt via het Groeipakket kunt u 30 dagen na ontvangst van de beslissing, de kaart digitaal aanvragen via het <a href=\"http://www.mijnvaph.be\">digitale loket mijnvaph.be</a>.</p></li></ul><p>De totale verwerkingstijd, van VAPH aanvraag tot het afleveren van de kaart, neemt in totaal een 30-tal dagen in beslag. De aanvraag wordt, na het VAPH, ook nog verder gecheckt door de FOD Sociale Zekerheid en vervolgens verwerkt door het bedrijf dat de kaarten maakt.</p><p>Wanneer u uw kaart verliest, kan u er een nieuwe aanvragen bij een van de vijf instanties waar u erkend bent.</p><h3>De European Disability Card (EDC) gebruiken</h3><p>Met de European Disability Card (EDC) kunt u bij de <a href=\"https://eudisabilitycard.be/nl/de-partners-van-de-european-disability-card\">deelnemende partners</a> (musea, pretparken, toeristische verblijven…) genieten van bepaalde maatregelen om uw bezoek te vergemakkelijken (kortingen, brochures in eenvoudige taal, vlottere toegang tot attracties, assistentie, gespecialiseerde gidsen,...). Neem contact op met de organisator van de plaats die u bezoekt of raadpleeg de website van de organisatie om te weten welke voordelen u als kaarthouder geniet.</p><h3>Geldigheid van de EDC-kaart</h3><p>De European Disability Card (EDC) is vijf jaar geldig. Na die vijf jaar dient men opnieuw een aanvraag te doen via het digitale loket mijnvaph. Die aanvraag gebeurt dus niet automatisch. </p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Europese Handicapkaart (EDC)"},"url":"http://www.eudisabilitycard.be/nl","@type":"Website","order":0},{"naam":{"nl":"European Disability Card (EDC) voor dienstverleners"},"url":"https://eudisabilitycard.be/nl/voor-dienstverleners","@type":"Website","order":1}],"creatie":"2023-03-24T06:10:43.28801842Z","laatstGewijzigd":"2023-03-24T17:30:13.613189081Z","laatstOntvangen":"2023-03-24T17:30:13.613189081Z","productnummer":"1466","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e4c90184-bc5c-4dbb-9261-c6f819b387da","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5f051b16-b1df-43d9-80e6-5aa41177ea68"},{"id":"b3107459-7008-43a2-89f6-946a9711ff6a","generatedAtTime":"2023-03-24T17:30:13.399212Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Kortingkaart NMBS 'Verhoogde tegemoetkoming'"},"beschrijving":{"nl":"<p>De NMBS-kortingkaart ‘Verhoogde tegemoetkoming’ geeft recht op 50% korting bij aankoop van biljetten in 2de klas op het Belgische spoorwegnet.</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["nmbs","mutualiteit","kortingskaart"]},"bevoegdeOverheden":[{"id":"OVO003863","@id":"OVO003863"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>Deze NMBS-kortingkaart is er enkel <strong>voor personen</strong> die recht hebben op de <a href=\"https://www.uat-vlaanderen.be/verhoogde-tegemoetkoming-voor-gezondheidszorgen\">verhoogde tegemoetkoming in de terugbetaling van de gezondheidskosten</a>.<br />De levenspartner en de personen ten laste hebben ook recht op de kortingkaart.</li><li>Deze <strong>NMBS-kortingkaart</strong> is 5 jaar geldig. Bij de NMBS-kortingkaart hoort een valideringsbiljet. Dat valideringsbiljet is 1 jaar geldig. Vanaf 65 jaar is het valideringsbiljet 5 jaar geldig.</li><li>Als u een gevalideerde NMBS-kortingkaart 'Verhoogde tegemoetkoming' hebt kunt u een biljet 'Verhoogde tegemoetkoming' kopen (ook <a href=\"https://www.belgiantrain.be/nl/search\">online</a>). Op de trein moet u altijd uw NMBS-kortingskaart kunnen tonen aan de treinbegeleider.</li></ul>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Aan het NMBS-loket moet u volgende documenten voorleggen.</p><ul><li><strong>Aanvraag met eID</strong>: enkel uw elektronische identiteitskaart (eID).</li><li><strong>Aanvraag met attest van het ziekenfonds (per rechthebbende)</strong>:<ul><li>origineel en geldig <strong>attest van het ziekenfonds</strong>. Op dit attest moeten volgende zaken staan:<ul><li>logo van de mutualiteit in kleur</li><li>naam en voornaam van de rechthebbende</li><li>adres</li><li>geboortedatum</li><li>het feit dat u van het statuut ‘verhoogde tegemoetkoming’ geniet</li></ul></li><li>recente pasfoto of foto via e-id</li><li>identiteitsbewijs of een gelijkwaardig document.</li></ul></li></ul>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Er zijn 2 manieren om de NMBS-kortingkaart 'Verhoogde tegemoetkoming' aan te vragen.</p><h3>Met elektronische identiteitskaart (eID)</h3><p>Aan het <strong>NMBS-loket </strong>zal de loketbediende aan de hand van uw <strong>eID</strong> uw aanvraag onderzoeken. Dat gebeurt door via uw rijksregisternummer verbinding te maken met de Kruispuntdatabank Sociale Zekerheid. In die databank worden de sociale gegevens van persoonlijke aard bewaard en beheerd door het betrokken ziekenfonds. Bij een positief antwoord van de databank zal de moederkaart worden afgedrukt. Opgelet: er kan slechts een verbinding gemaakt worden met de Kruispuntbank van 7.30 tot 19 uur.</p><h3>Met attest van het ziekenfonds</h3><p>Indien er geen verbinding kan gemaakt worden met de Kruispuntdatabank, moet u bij uw <strong>ziekenfonds </strong>langsgaan om een attest aan te vragen. Dat attest is 3 maand geldig. U hebt een attest nodig per rechthebbende. Met dat attest gaat u naar een NMBS-loket om de kortingkaart aan te vragen.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Kortingkaart 'Verhoogde tegemoetkoming' aanvragen (NMBS)"},"url":"https://www.belgiantrain.be/nl/tickets-and-railcards/overview-discount/preferential-reimbursement-ticket","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De NMBS-kortingkaart 'Verhoogde tegemoetkoming' (moederkaart en valideringsbiljet) is gratis.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:42.789727781Z","laatstGewijzigd":"2023-03-24T17:30:13.381770491Z","laatstOntvangen":"2023-03-24T17:30:13.381770491Z","productnummer":"881","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b3107459-7008-43a2-89f6-946a9711ff6a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fe9112ba-5f0f-471a-ad3e-76b66135d594"},{"id":"0521639a-e864-4605-9428-2b38f703fa3a","generatedAtTime":"2023-03-24T17:30:13.229695Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Verhoogde tegemoetkoming voor gezondheidszorgen"},"beschrijving":{"nl":"<p>In bepaalde situaties hebt u recht op een verhoogde tegemoetkoming voor gezondheidszorgen. U betaalt dan minder voor uw gezondheidszorgen, bijvoorbeeld voor een raadpleging bij de dokter, voor een ziekenhuisopname of voor geneesmiddelen.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["gezondheidszorgen","voorkeursregeling","tussenkomst","verhoogde","tegemoetkoming","VT","omnio-statuut","omnio statuut","omnio","wigw","wigw-statuut","RVV","VIPO"]},"bevoegdeOverheden":[{"id":"OVO004200","@id":"OVO004200"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U hebt <strong>automatisch </strong>recht op verhoogde tegemoetkoming als u:</p><ul><li><strong>meer dan 3 maanden </strong>een leefloon van het OCMW krijgt</li><li>gepensioneerd bent met een laag inkomen (de Inkomensgarantie voor Ouderen)</li><li>een handicap hebt en hiervoor <strong>ook </strong>een toelage krijgt van de Federale overheidsdienst (FOD) Sociale Zekerheid</li><li>minderjarig bent en een erkende handicap van minstens 66% heeft</li><li>een niet-begeleide minderjarige bent</li><li>minderjarig bent en wees</li></ul><p>U moet <strong>een aanvraag indienen </strong>om verhoogde tegemoetkoming te krijgen als u:</p><ul><li>een inkomen hebt dat lager is dan een <a href=\"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/financiele-toegankelijkheid/Paginas/verhoogde-tegemoetkoming-grensbedragen-inkomsten.aspx#1._Jaarlijks_grensbedrag_van_de_actuele_inkomens_-%C2%A0bedragen%C2%A0in%C2%A0EUR\">jaarlijks grensbedrag</a> en:<ul><li>weduwenaar/weduwe bent</li><li>een invaliditeitsuitkering krijgt (=langer dan 1 jaar arbeidsongeschikt)</li><li>erkend bent als persoon met een handicap en <strong>(nog) geen</strong> tegemoetkoming van de FOD sociale zekerheid</li><li>alleenstaande ouder bent</li></ul></li><li>zich in geen van bovenstaande situatie bevindt, maar een inkomen hebt dat lager is dan dit <a href=\"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/financiele-toegankelijkheid/Paginas/verhoogde-tegemoetkoming-grensbedragen-inkomsten.aspx#1._Jaarlijks_grensbedrag_van_de_actuele_inkomens_-%C2%A0bedragen%C2%A0in%C2%A0EUR\">jaarlijks grensbedrag</a>.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Als u de verhoogde tegemoetkoming niet automatisch ontvangt, kunt u de verhoogde tegemoetkoming voor gezondheidszorgen aanvragen bij uw ziekenfonds.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"RIZIV - Verhoogde tegemoetkoming: betere vergoeding van medische kosten "},"url":"http://www.riziv.fgov.be/nl/themas/kost-terugbetaling/financiele-toegankelijkheid/Paginas/verhoogde-tegemoetkoming-betere-vergoeding-medische-kosten.aspx","@type":"Website","order":0}],"creatie":"2023-03-24T06:10:42.336207779Z","laatstGewijzigd":"2023-03-24T17:30:13.212150843Z","laatstOntvangen":"2023-03-24T17:30:13.212150843Z","productnummer":"885","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0521639a-e864-4605-9428-2b38f703fa3a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/69aae6d0-12d8-4a57-88dd-6eb8a07d69ea"},{"id":"b54ed821-8dc2-4537-bf23-b4a3676cdace","generatedAtTime":"2023-03-24T17:30:12.948169Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Sloop- en heropbouwpremie"},"beschrijving":{"nl":"<p>Sommige gebouwen zijn er zo slecht aan toe dat afbreken en vervangen door nieuwbouw een betere optie is dan renoveren. Onder bepaalde voorwaarden moet u slechts 6% btw betalen voor sloop en heropbouw van een woning. In alle andere gevallen betaalt u 21% btw. In die gevallen kunnen particulieren in het Vlaamse gewest een Vlaamse sloop- en heropbouwpremie aanvragen bij het Vlaams Energie- en Klimaatagentschap (VEKA).</p><p>Onderstaande voorwaarden gelden voor bouwaanvragen tot en met 31-12-2022. Voor bouwaanvragen in 2023 wordt deze premie verlengd met E-peileis E24 i.p.v. E30 (onder voorbehoud van definitieve goedkeuring).</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p><a href=\"https://codex.vlaanderen.be/portals/codex/documenten/1019755.html#H1091177\">Besluit van de Vlaamse Regering houdende wijziging van het Energiebesluit van 19 november 2010 (hoofdstuk XII),</a> wat betreft de invoering van een sloop- en heropbouwpremie</p>"},"zoektermen":{"nl":["vernieuwbouw","hernieuwbouw","slooppremie","vernieuwbouwpremie","hernieuwbouwpremie","afbraak","sloop","sloopkorting","afbraakpremie"]},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<h3>Eigendom</h3><p>De grond, het af te breken gebouw of de af te breken gebouwen, en de op te richten woning(en) of appartementsgebouw(en) zijn op moment van de aanvraag van de omgevingsvergunning voor de geheelheid <strong>volle eigendom van één of meer natuurlijke personen</strong>.</p><h3>Combinatie van afbraak en wederopbouw</h3><p>U kunt de premie enkel aanvragen voor een bouwproject waarbij de <strong>afbraak </strong>van één of meer gebouwen en de <strong>herbouw </strong>van één of meer woningen of een appartementsgebouw <strong>gecombineerd</strong> wordt.</p><h3>Btw-tarief 21%</h3><p>De premie geldt enkel voor gebouwen in het <strong>Vlaamse Gewest</strong> waar het <a href=\"https://financien.belgium.be/nl/particulieren/woning/bouwen/afbraak-wederopbouw\">verlaagd btw-tarief voor afbraak en wederopbouw</a> (6% i.p.v. 21%) <strong>niet van toepassing</strong> is.</p><p> </p><p><a href=\"https://www.energiesparen.be/slooppremie\">Meer voorwaarden en info over de procedure</a> vindt u op Energiesparen.be.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"websites":[{"naam":{"nl":"Sloop- en heropbouwpremie"},"url":"https://www.energiesparen.be/slooppremie","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De premie kan per bouwproject slechts eenmaal worden verkregen, ook al gaat het om verschillende gebouwen. Voor aanvragen van <strong>omgevingsvergunningen in 2021 en 2022</strong> bedraagt de sloop- en heropbouwpremie <strong>10.000 euro</strong> per bouwproject.</p><p>Medegefinancierd door de Europese Unie - NextGenerationEU.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:41.832092099Z","laatstGewijzigd":"2023-03-24T17:30:12.93050469Z","laatstOntvangen":"2023-03-24T17:30:12.93050469Z","productnummer":"1558","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b54ed821-8dc2-4537-bf23-b4a3676cdace","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/eb0c911a-cab5-4514-9902-ebf1d2f317fc"},{"id":"164201aa-a240-40db-9d0c-70ce9bde3b9b","generatedAtTime":"2023-03-24T17:30:12.763837Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl":"Inkomensgarantie-uitkering"},"beschrijving":{"nl":"<p>Als u als werkloze opnieuw aan de slag gaat in een <strong>deeltijdse baan</strong>, dan kunt u onder bepaalde voorwaarden, boven op uw deeltijdse nettoloon, <strong>een extra uitkering van de RVA</strong> krijgen. Door die inkomensgarantie-uitkering (IGU) is uw totale inkomen, dus uw nettoloon plus die extra uitkering, minstens even hoog als de werkloosheidsuitkering die u kreeg voordat u weer aan het werk ging. Door de IGU toe te kennen, wil de overheid vermijden dat het loon dat u als werknemer krijgt, niet of maar een klein beetje hoger ligt dan de werkloosheidsuitkering die u ontving. Een fenomeen dat de 'werkloosheidsval' wordt genoemd.</p>"},"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE1","BE2"],"zoektermen":{"nl":["inkomengarantie","minimuminkomen"]},"bevoegdeOverheden":[{"id":"OVO025169","@id":"OVO025169"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Om recht te hebben om de inkomensgarantie-uitkering,</p><ul><li>moet uw gemiddelde brutomaandloon<strong> minder dan 1.562,59 euro</strong> bedragen</li><li>moet uw loon voor de beschouwde maand lager zijn dan <strong>1.562,59 euro</strong>.</li><li>mag uw deeltijdse werkregime niet meer dan 4/5 zijn</li><li>mag u geen recht meer hebben op een loon ten laste van uw vorige werkgever (als uw deeltijdse baan begint tijdens een opzeggingsperiode of als u nog een verbrekingsvergoeding krijgt)</li><li>moet u aan uw werkgever vragen dat hij uw arbeidsovereenkomst aanpast als u geregeld meer uren moet presteren dan in die arbeidsovereenkomst is vastgelegd.</li></ul><p>Als u <strong>op vrijwillige basis</strong> van een voltijdse naar een deeltijdse baan overstapt, dan hebt u geen recht op een IGU.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Doe bij de VDAB (of, als u in het Brussels Hoofdstedelijk Gewest woont, bij Actiris) aangifte van uw deeltijdse betrekking en schrijf u in als werkzoekende voor een voltijdse baan.</p><p>De eigenlijke inkomensgarantie-uitkering vraagt u aan via uw uitbetalingsinstelling.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Inkomensgarantie-uitkering  (op RVA.be) "},"url":"http://www.rva.be/nl/documentatie/infoblad/t70","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Op de website van de RVA vindt u een simulatieprogramma waarmee u zelf kunt uitrekenen hoeveel uw IGU bedraagt.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:10:41.506499566Z","laatstGewijzigd":"2023-03-24T17:30:12.746679449Z","laatstOntvangen":"2023-03-24T17:30:12.746679449Z","productnummer":"1656","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/164201aa-a240-40db-9d0c-70ce9bde3b9b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fe0a817f-4700-431a-a6e0-90622bbd6edf"},{"id":"40eba1c8-6a26-420a-a22b-026e8e80cc94","generatedAtTime":"2023-03-24T17:30:12.650084Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl":"Inkomensgarantie voor ouderen"},"beschrijving":{"nl":"<p>De inkomensgarantie voor ouderen (IGO) is een minimuminkomen dat de overheid verstrekt aan 65-plussers die niet genoeg financiële middelen hebben. </p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk","WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["inkomensgarantie","inkomengarantie","minimuminkomen","igo","gepensioneerden","armoede"]},"bevoegdeOverheden":[{"id":"OVO024764","@id":"OVO024764"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Om na te gaan of u recht hebt op de IGO, worden uw bestaansmiddelen en die van uw eventuele huwelijkspartner of wettelijk samenwonende in kaart gebracht. Meer informatie over de berekening van uw financiële middelen en de inkomensgrens waaronder u recht kunt hebben op een IGO, vindt u op de website van de Federale Pensioendienst.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>In de meeste gevallen hoeft u zelf geen aanvraag in te dienen voor uw IGO.</p><p>Meer informatie over het aanvragen van uw pensioen en/of de IGO vindt u op de website van de Federale Pensioendienst.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Inkomensgarantie voor ouderen (IGO) - Federale Pensioendienst "},"url":"https://www.sfpd.fgov.be/nl/recht-op-pensioen/igo","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het bedrag dat u kunt ontvangen, is afhankelijk van uw financiële middelen en uw gezinssituatie.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:41.322858347Z","laatstGewijzigd":"2023-03-24T17:30:12.633034939Z","laatstOntvangen":"2023-03-24T17:30:12.633034939Z","productnummer":"833","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/40eba1c8-6a26-420a-a22b-026e8e80cc94","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/93b029d7-9f2a-4f7d-8b2e-e963308fdd1e"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=35",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=34",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-03-24T17:30:12.650084Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=36",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-03-24T17:30:16.91985Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=35",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "0a97ba31-f3b0-435d-b93c-1e4e06a966fd",
+      "generatedAtTime": "2023-03-24T17:30:16.91985Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Voorschot op de alimentatievordering"
+      },
+      "beschrijving": {
+        "nl": "<p>Betaalt de onderhoudsplichtige na een echtscheiding u niet het onderhoudsgeld waar u recht op hebt? Dan kunt u de Dienst voor alimentatievorderingen (DAVO) vragen om het maandelijkse onderhoudsgeld en de achterstallen in te vorderen. Deze dienst kan u onder bepaalde voorwaarden ook een voorschot op het onderhoudsgeld voor de kinderen uitbetalen.</p>"
+      },
+      "type": "FinancieleVerplichting",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "alimentatievordering",
+          "onderhoudsgeld",
+          "voorschot"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO027263",
+          "@id": "OVO027263"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>U woont in België.</li><li>Het onderhoudsgeld is tweemaal niet of onvolledig betaald in een periode van twaalf maanden voor de aanvraag.</li><li>Het onderhoudsgeld werd vastgesteld in een uitvoerbare gerechtelijke beslissing of in een authentieke akte opgesteld door de notaris.</li></ul><p>Op de website van de FOD Financiën kunt u <a href=\"https://financien.belgium.be/nl/particulieren/gezin/onderhoudsgeld/davo/ik_ben_onderhoudsgerechtigde/voorschotten_krijgen\">meer lezen over de voorwaarden</a> waaraan u moet voldoen om voorschotten op onderhoudsgeld te krijgen.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Op de website van de FOD Financiën vindt u <a href=\"https://financien.belgium.be/nl/particulieren/gezin/onderhoudsgeld/davo/ik_ben_onderhoudsgerechtigde/een-aanvraag-indienen/een\">hoe u voorschotten of de verlenging van het recht op voorschotten aanvraagt</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het bedrag van het voorschot komt overeen met het bedrag dat werd vastgesteld in de gerechtelijke beslissing of in de notariële akte. Er is wel een <strong>maximum bedrag </strong>bepaald <strong>per maand </strong>en<strong> per kind</strong>.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:49.616913476Z",
+      "laatstGewijzigd": "2023-03-24T17:30:16.901942865Z",
+      "laatstOntvangen": "2023-03-24T17:30:16.901942865Z",
+      "productnummer": "860",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0a97ba31-f3b0-435d-b93c-1e4e06a966fd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/afc91e56-8bf7-4f82-bec3-4a263c0bc02a"
+    },
+    {
+      "id": "646cde38-0ca9-4eb5-95a5-d98f416e50a0",
+      "generatedAtTime": "2023-03-24T17:30:16.787381Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Hulp bij het betalen van onderhoudsgeld of alimentatie"
+      },
+      "beschrijving": {
+        "nl": "<p>Het OCMW kent bijzondere hulp toe aan personen die problemen hebben om het onderhoudsgeld voor hun kinderen te betalen of om de bijdrage voor een geplaatst kind te betalen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "onderhoudsgeld"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO027263",
+          "@id": "OVO027263"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>U hebt recht op het <a href=\"https://www.uat-vlaanderen.be/leefloon\">leefloon</a> of een <a href=\"https://www.uat-vlaanderen.be/equivalent-leefloon\">equivalent leefloon</a>.</li><li>U bent onderhoudsgeld verschuldigd voor uw kinderen of u betaalt een bijdrage voor geplaatste kinderen.</li><li>U levert een betalingsbewijs van het onderhoudsgeld of de bijdrage.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U vraagt de bijzondere hulp aan bij het OCMW dat u het (equivalent) leefloon uitbetaalt.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "OCMW-tussenkomst bij onderhoudsgeld (Agentschap Integratie en Inburgering)"
+          },
+          "url": "https://www.agii.be/thema/sociaal-medisch/ocmw-steun/bijzondere-vormen-van-ocmw-dienstverlening/ocmw-tussenkomst-na-betaling-onderhoudsgeld-kinderen-of-bijdragen-geplaatste-kinderen#2",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De hulp bedraagt 50% van het onderhoudsgeld of de bijdrage, met een maximum van 91,67 euro per maand (1.100 euro per jaar).</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:49.191869394Z",
+      "laatstGewijzigd": "2023-03-24T17:30:16.769820364Z",
+      "laatstOntvangen": "2023-03-24T17:30:16.769820364Z",
+      "productnummer": "859",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/646cde38-0ca9-4eb5-95a5-d98f416e50a0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/72b9e61d-ede8-4de1-ae2a-0d10a112cb52"
+    },
+    {
+      "id": "85aa040a-0ee3-4f38-b516-6e930e75d756",
+      "generatedAtTime": "2023-03-24T17:30:16.596665Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Inkomstenvrijstelling voor leefloners"
+      },
+      "beschrijving": {
+        "nl": "<p>Ontvangt u een leefloon en volgt u een erkende beroepsopleiding of werkt u en ontvangt u een vergoeding of een loon, dan kunt u in aanmerking komen voor een socio-professionele vrijstelling. Tot een bepaald bedrag - de socio-professionele vrijstelling - worden de inkomsten die u ontvangt niet afgetrokken van uw leefloon.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "leefloon",
+          "socio-professionele vrijstelling"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO027345",
+          "@id": "OVO027345"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Socio-professionele vrijstelling (POD Maatschappelijke Integratie)"
+          },
+          "url": "https://www.mi-is.be/nl/themas/maatschappelijke-integratie/socio-professionele-vrijstelling-spi",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het bedrag van de vrijstelling verschilt naargelang het gaat om inkomsten uit:</p><ul><li>socio-professionele integratie</li><li>artistieke activiteiten</li><li>studentenarbeid. Hierbij wordt een onderscheid gemaakt of u een student bent met of zonder studiebeurs.</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:48.590274898Z",
+      "laatstGewijzigd": "2023-03-24T17:30:16.579055383Z",
+      "laatstOntvangen": "2023-03-24T17:30:16.579055383Z",
+      "productnummer": "851",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/85aa040a-0ee3-4f38-b516-6e930e75d756",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/31c10abb-2261-4c50-993a-46a615eb2aa5"
+    },
+    {
+      "id": "da2aa793-3d02-48d6-9bb6-8722766c0d1c",
+      "generatedAtTime": "2023-03-24T17:30:16.489409Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Tegemoetkoming in de reiskosten van kankerpatiënten"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u radiotherapie of chemotherapie tegen kanker volgt, kunt u een tegemoetkoming krijgen voor de reiskosten naar het ziekenhuis. Ook als ouder of wettelijke voogd van een kankerpatiënt jonger dan 18 jaar die in een ziekenhuis is opgenomen, krijgt u een tegemoetkoming in de verplaatsingskosten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken",
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "kankerpatiënten",
+          "reiskosten",
+          "tegemoetkoming"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004200",
+          "@id": "OVO004200"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U vraagt deze toelage aan bij uw <strong>ziekenfonds</strong> met een formulier, ingevuld door de behandelende arts van het ziekenhuis.</p><ul><li><a href=\"https://www.inami.fgov.be/nl/themas/kost-terugbetaling/ziekten/chronische-ziekten/Paginas/tegemoetkoming-reiskosten-kankerpatient.aspx\">Aanvraagformulier voor de kankerpatiënt zelf</a></li><li><a href=\"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/ziekten/chronische-ziekten/Paginas/tegemoetkoming-reiskosten-kankerpatient.aspx\">Aanvraagformulier voor vader, moeder of voogd</a></li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p><strong>Kankerpatiënt</strong></p><ul><li>Openbaar vervoer: integrale terugbetaling</li><li>Ander vervoer: een toelage van 0,25 euro per kilometer</li></ul><p><strong>Ouder of voogd van een kankerpatiënt jonger dan 18 jaar opgenomen in het ziekenhuis</strong></p><ul><li>Per hospitalisatiedag van het kind bedraagt de vergoeding 0,25 euro per kilometer voor één heen- en terugreis (beperkt tot 75 euro per dag).</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:48.400605156Z",
+      "laatstGewijzigd": "2023-03-24T17:30:16.47217143Z",
+      "laatstOntvangen": "2023-03-24T17:30:16.47217143Z",
+      "productnummer": "838",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/da2aa793-3d02-48d6-9bb6-8722766c0d1c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c66bcec0-fff1-424d-90b4-dbb1df5857cd"
+    },
+    {
+      "id": "d318352f-2a4e-49df-98cf-9ddfbad33eba",
+      "generatedAtTime": "2023-03-24T17:30:16.36982Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Jobkorting federale overheid"
+      },
+      "beschrijving": {
+        "nl": "<p>Als werknemer kunt u genieten van een federale jobkorting. Dit is een vermindering van de bedrijfsvoorheffing wegens beroepskosten. U krijgt een maandelijks federale jobkorting. Hierdoor is het maandelijks nettoloon hoger.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "jobkorting"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO005190",
+          "@id": "OVO005190"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Deze jobkorting krijgt u automatisch.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:48.066707428Z",
+      "laatstGewijzigd": "2023-03-24T17:30:16.352457822Z",
+      "laatstOntvangen": "2023-03-24T17:30:16.352457822Z",
+      "productnummer": "836",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d318352f-2a4e-49df-98cf-9ddfbad33eba",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f99a97ed-2a79-4bbf-a0ec-baae6b4d79e6"
+    },
+    {
+      "id": "768b1e67-ff4a-45bd-aa5c-b08f7b601663",
+      "generatedAtTime": "2023-03-24T17:30:16.264719Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Incontinentieforfait\t"
+      },
+      "beschrijving": {
+        "nl": "<p>Het incontinentieforfait is een jaarlijkse tegemoetkoming in de kosten voor incontinentiemateriaal van zwaar zorgbehoevenden of van niet-afhankelijke personen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "incontinentie",
+          "incontinentieforfait"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004200",
+          "@id": "OVO004200"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<h3>Zwaar zorgbehoevenden</h3><p>U hebt recht op een incontinentieforfait voor zwaar zorgbehoevenden als:</p><ul><li>u recht hebt op het forfait B of C in de thuisverpleging gedurende minstens 4 van de laatste 12 maanden.</li><li>u een score 3 of 4 voor het criterium ‘incontinentie’ hebt.</li><li>u de laatste dag van de periode van 4 maanden niet in een verzorgingsinrichting verblijft waarvoor de ziekteverzekering een tegemoetkoming voorziet.</li></ul><p>U hebt dus geen recht op het incontinentieforfait bij opname in een:</p><ul><li>algemeen of psychiatrisch ziekenhuis</li><li>rust- en verzorgingstehuis (RVT)</li><li>rustoord voor bejaarden (ROB)</li><li>psychiatrisch verzorgingstehuis (PVT)</li><li>initiatief voor beschut wonen of bepaalde revalidatiecentra.</li></ul><p>Als u opgenomen bent in een instelling van het Vlaams Agentschap voor Personen met een Handicap, vormt dit geen probleem.</p><h3>Niet-afhankelijke personen</h3><p>U hebt recht op een incontinentieforfait voor niet-afhankelijke personen<strong> </strong>als:</p><ul><li>u lijdt aan een onbehandelbare vorm van urinaire incontinentie</li><li>u geen recht hebt op het incontinentieforfait omdat u niet voldoet aan het afhankelijkheidscriterium</li><li>u nog geen tegemoetkoming voor autosondage of incontinentiemateriaal ontvangen hebt</li><li>u niet verblijft in een rustoord of verzorgingsinrichting waarvoor de ziekteverzekering een tegemoetkoming voorziet (uitgezonderd opname in een acute dienst en bij opvang in een dagverzorgingscentrum).</li></ul><p> </p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<h3>Zwaar zorgbehoevenden</h3><p>De aanvraag van een incontinentieforfait voor zwaar zorgbehoevenden<strong> </strong>gebeurt als volgt:</p><ul><li>Uw thuisverpleegkundige dient uw aanvraag in bij uw ziekenfonds.</li><li>Als u geen beroep doet op thuisverpleging, neemt u best contact op met een thuisverpleegkundige of met de dienst maatschappelijk werk van het ziekenfonds.</li><li>U vraagt het forfait jaarlijks aan.</li></ul><h3>Niet-afhankelijke personen</h3><p>De aanvraag van een incontinentieforfait voor niet-afhankelijke personen<strong> </strong>gebeurt als volgt:</p><ul><li>Vraag het aanvraagformulier ‘onbehandelbare incontinentie-forfait’ aan bij uw ziekenfonds.</li><li>Laat het invullen door uw huisarts.</li><li>Stuur het formulier naar de adviserend arts van uw regionaal ziekenfonds.</li><li>De adviserend arts geeft zijn goedkeuring voor drie jaar. Het ziekenfonds zal jaarlijks onderzoeken of u nog aan alle administratieve voorwaarden voldoet.</li><li>Na drie jaar dient u een nieuwe aanvraag in.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het incontinentieforfait voor <strong>zwaar zorgbehoevenden </strong>bedraagt <strong>532,37 euro</strong> per jaar (in 2022) en wordt jaarlijks geïndexeerd.</p><p>Het incontinentieforfait voor <strong>niet-afhankelijke personen</strong> bedraagt <strong>173,76 euro</strong> per jaar (in 2022) en wordt jaarlijks geïndexeerd.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:47.862101716Z",
+      "laatstGewijzigd": "2023-03-24T17:30:16.247123341Z",
+      "laatstOntvangen": "2023-03-24T17:30:16.247123341Z",
+      "productnummer": "832",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/768b1e67-ff4a-45bd-aa5c-b08f7b601663",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/85e1fef3-9fe6-4d3c-ae8e-99ff50e78ee5"
+    },
+    {
+      "id": "3495b93c-b9cf-4a87-a2ba-c5471ef3101a",
+      "generatedAtTime": "2023-03-24T17:30:16.155556Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Belastingvermindering voor de kosten voor kinderopvang"
+      },
+      "beschrijving": {
+        "nl": "<p>U krijgt een belastingvermindering voor de kosten die u maakt voor de opvang van uw kinderen. Kinderopvang is ruim opgevat: ook onkosten voor activiteiten van erkende of gesubsidieerde jeugdwerkverenigingen of sportorganisaties komen in aanmerking voor belastingvermindering. Voorbeelden zijn: kosten voor deelname aan een kamp, speelpleinwerking, deelnemen aan een atelier,…</p><p>Sinds aanslagjaar 2021 (inkomsten 2020) komen ook de uitgaven voor de professionele thuisopvang van zieke kinderen in aanmerking voor een belastingvermindering.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "belastingvermindering",
+          "fiscaal aftrek",
+          "kinderopvang"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO005190",
+          "@id": "OVO005190"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Op de dag van de opvang activiteit moet uw kind jonger zijn dan 14 jaar of jonger dan 21 jaar, als het kind een zware handicap heeft.</li><li>De instelling of opvangvoorziening is rechtstreeks erkend, gesubsidieerd of gecontroleerd door een openbaar bestuur.</li></ul><p>U moet:</p><ul><li>uw kind fiscaal ten laste hebben</li><li>beroepsinkomsten hebben</li><li>kosten van opvang aan welbepaalde instellingen of personen betaald hebben</li><li>schriftelijk bewijs leveren van de opvang en het betaalde bedrag.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U brengt de uitgaven voor de opvang in op uw belastingaangifte.</p><p>Hebt u een kind dat jonger is dan 3 jaar, dan zult u bij het invullen van uw belastingbrief een keuze moeten maken:</p><ul><li>Ofwel kiest u voor een verhoging van de belastingvrije som. Voor het aanslagjaar 2022 (inkomsten 2021) bedraagt die verhoging 610 euro. Dit is aangewezen, als u geen beroepsinkomsten hebt of als uw opvangkosten zo laag zijn dat de belastingvrije som u voordeliger uitkomt.</li><li>Ofwel kiest u ervoor om de uitgaven in te brengen voor de opvang van uw kind.</li></ul><p>Om de kosten te kunnen aftrekken moet u als ouder over bewijzen beschikken voor de uitgaven die u maakte voor de kinderopvang. Vraag hiervoor een fiscaal attest aan de initiatiefnemers. Initiatiefnemers van kinderopvang vinden <a href=\"https://www.vlaanderen.be/cjm/nl/jeugd/andere-diensten/belastingvermindering-voor-kinderopvang\">meer informatie over het afleveren van attesten</a> op de website van het Departement Cultuur, Jeugd en Media.</p><h3>Inkomstenjaar 2020: tij­de­lij­ke maat­re­gel in het ka­der van coronacrisis</h3><p>Door de coronamaatregelen werden vanaf 14 maart 2020 jeugdactiviteiten geschrapt. Ouders vroegen soms, vanwege hun solidariteit met de organisatoren, het reeds betaalde inschrijvingsgeld niet terug. Zij kunnen toch recht hebben op de belastingvermindering, ook al heeft er geen effectieve opvang plaatsgevonden.</p><p><a href=\"https://www.vlaanderen.be/cjm/nl/jeugd/andere-diensten/belastingvermindering-voor-kinderopvang\">Meer informatie over de tijdelijke maatregel</a> vindt u op de website van het Departement Cultuur, Jeugd en Media.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Belastingvermindering voor kinderopvangkosten"
+          },
+          "url": "https://www.vlaanderen.be/cjm/nl/jeugd/andere-diensten/belastingvermindering-voor-kinderopvang",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>U mag alle opvangkosten inbrengen, tot maximaal 14,00 euro per oppasdag en per kind (aanslagjaar 2022 - inkomstenjaar 2021). Het bedrag wordt elk jaar geïndexeerd.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:47.721531988Z",
+      "laatstGewijzigd": "2023-03-24T17:30:16.136825454Z",
+      "laatstOntvangen": "2023-03-24T17:30:16.136825454Z",
+      "productnummer": "828",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3495b93c-b9cf-4a87-a2ba-c5471ef3101a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/043a4dab-89c4-423a-b3be-7d137b05a20a"
+    },
+    {
+      "id": "5f0a734c-b045-46b2-a7f2-e46cb9e203a3",
+      "generatedAtTime": "2023-03-24T17:30:15.938436Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Dringende medische hulp voor mensen zonder wettig verblijf "
+      },
+      "beschrijving": {
+        "nl": "<p>Als vreemdeling zonder wettig verblijfsstatuut, hebt u recht op dringende medische hulp als u dringende medische zorgen nodig heeft. Het OCMW betaalt in dit geval uw kosten voor dringende medische hulp.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "dringende medische hulp"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO027345",
+          "@id": "OVO027345"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>U hebt geen wettig verblijfsstatuut in België, u verblijft zonder papieren in België.</li><li>Uit een sociaal onderzoek blijkt dat u dringend medische zorgen nodig hebt.</li><li>U verblijft op het grondgebied van het OCMW.</li><li>U hebt geen eigen financiële middelen om de medische zorgen te betalen.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>U gaat eerst naar de huisarts en hij geeft u een attest Dringende Medische Hulp.</li><li>Met dit attest gaat u naar het OCMW van de plaats waar u gewoonlijk verblijft.</li><li>Het OCMW zal, na controle van de dringende medische hulp en het illegaal verblijf, een betalingsverbintenis meegeven.</li><li>Met deze medische kaart kunt u de ingreep of consultatie laten uitvoeren.</li></ul><p>Als u ernstig ziek of gewond bent en heel dringend hulp nodig heeft, gaat u onmiddellijk naar een dokter of een ziekenhuis. Het OCMW bevoegd voor het grondgebied waar het ziekenhuis zich bevindt, moet dan gewaarschuwd worden en de behandelende arts moet een attest Dringende Medische Hulp opmaken. Daarna zal het OCMW eventueel nog een onderzoek doen naar de behoeftigheid.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:47.395983989Z",
+      "laatstGewijzigd": "2023-03-24T17:30:15.919628875Z",
+      "laatstOntvangen": "2023-03-24T17:30:15.919628875Z",
+      "productnummer": "823",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5f0a734c-b045-46b2-a7f2-e46cb9e203a3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/790a83dc-3789-428c-b480-d667a0c4b6b5"
+    },
+    {
+      "id": "1c2bd8ee-c0ca-4f6c-b548-8fb6d3f5c303",
+      "generatedAtTime": "2023-03-24T17:30:15.829631Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Tegemoetkoming chronische wonden "
+      },
+      "beschrijving": {
+        "nl": "<p>Patiënten met chronische wonden krijgen een forfaitaire tegemoetkoming en een bijkomende tegemoetkoming voor bepaalde verbandmiddelen. Chronische wonden zijn wonden die na 6 weken behandeling onvoldoende genezen zijn.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "chronische wonden"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004200",
+          "@id": "OVO004200"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Uw behandelende arts stuurt een 'kennisgeving' op aan de adviserend geneesheer van uw ziekenfonds.</li><li>Deze kennisgeving geeft recht op de tegemoetkomingen voor maximum 3 maanden en is 3 keer hernieuwbaar.</li><li>Op de voorschriften voor de apotheker moet uw behandelende arts de vermelding \"derdebetalersregeling van toepassing\" aanduiden.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De tegemoetkoming bestaat uit een <a href=\"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/door-ziekenfonds/geneesmiddel-gezondheidsproduct/terugbetalen/Paginas/terugbetaling-actieve-verbandmiddelen-chronische-wonden.aspx\">maandelijkse forfaitaire tegemoetkoming en een bijkomende tegemoetkoming voor bepaalde verbandmiddelen.</a> Deze verbandmiddelen zijn opgenomen in de <a href=\"http://www.riziv.fgov.be/SiteCollectionDocuments/list-bandages-actifs.xls\">lijst actieve verbandmiddelen</a>.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:47.265479505Z",
+      "laatstGewijzigd": "2023-03-24T17:30:15.811938199Z",
+      "laatstOntvangen": "2023-03-24T17:30:15.811938199Z",
+      "productnummer": "821",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1c2bd8ee-c0ca-4f6c-b548-8fb6d3f5c303",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/478b36fe-d464-4f2b-a06c-3e8bc70e299c"
+    },
+    {
+      "id": "f8feda43-48a7-4fb9-8ea8-455176923627",
+      "generatedAtTime": "2023-03-24T17:30:15.63278Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Blindenstok "
+      },
+      "beschrijving": {
+        "nl": "<p>De blindenstok of witte stok helpt blinden en slechtzienden om zich op straat te verplaatsen en wijst andere weggebruikers op de handicap. U kunt een dergelijk taststok verkrijgen bij verschillende gespecialiseerde organisaties.</p>"
+      },
+      "type": "Voorwerp",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "blindenstok"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO008238",
+          "@id": "OVO008238"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U komt in aanmerking voor een blindenstok als u ofwel:</p><ul><li>een visuele handicap hebt van minstens 60 %</li><li>een getuigschrift kunt voorleggen van een oogarts die erkend is inzake revalidatie.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Als u voldoet aan de voorwaarden, kunt u een witte stok verkrijgen bij verschillende gespecialiseerde organisaties.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:46.938081644Z",
+      "laatstGewijzigd": "2023-03-24T17:30:15.614587262Z",
+      "laatstOntvangen": "2023-03-24T17:30:15.614587262Z",
+      "productnummer": "820",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f8feda43-48a7-4fb9-8ea8-455176923627",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/10765a46-1018-4058-a185-aea4331c23e7"
+    },
+    {
+      "id": "31d3f963-3dc7-47b6-8cd2-08a7f338b8ad",
+      "generatedAtTime": "2023-03-24T17:30:15.521862Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Bijzonder Solidariteitsfonds voor uitzonderlijke gezondheidskosten"
+      },
+      "beschrijving": {
+        "nl": "<p>Het Bijzonder Solidariteitsfonds is een bijkomend vangnet naast de gewone dekking van de verzekering voor geneeskundige verzorging. Dit fonds geeft een financiële tegemoetkoming aan patiënten met zeer ernstige aandoeningen die voor bepaalde behandelingen geen terugbetaling krijgen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "Bijzonder Solidariteitsfonds",
+          "gezondheidskosten"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO025169",
+          "@id": "OVO025169"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Uw aanvraag gaat over een geneeskundige verstrekking</li><li>U hebt eerst alle vergoedingsmogelijkheden uitgeput:<ul><li>verplichte verzekering voor geneeskundige verzorging</li><li>andere wetgeving betreffende de arbeidsongevallen, de beroepsziekten, de personen met een handicap...</li><li>privéverzekeringen (hospitalisatieverzekering, aanvullende verzekering...) in België of elders in de wereld.</li></ul></li></ul><p>U kunt een beroep doen op het Bijzonder Solidariteitsfonds als alle voorwaarden tegelijkertijd vervuld zijn en in geval van:</p><ul><li>een zeldzame indicatie</li><li>een zeldzame aandoening</li><li>een zeldzame aandoening die een continue en complexe verzorging vereist</li><li>een aanvraag die betrekking heeft op medische hulpmiddelen en/of verstrekkingen die innovatieve medische technieken zijn, met uitzondering van de geneesmiddelen</li><li>chronisch zieke kinderen</li><li>een in het buitenland verleende verzorging.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<ul><li>doktersvoorschrift van uw geneesheer-specialist</li><li>omstandig medisch verslag van uw geneesheer-specialist</li><li>kostenraming of een gedetailleerde factuur van de kosten</li><li>verklaring op erewoord dat u op geen andere wijze terugbetaling van de prestaties krijgt.</li></ul>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U dient de aanvraag per aangetekende brief in bij de adviserende geneesheer van uw ziekenfonds.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Het Bijzonder Solidariteitsfonds (RIZIV)"
+          },
+          "url": "https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/door-ziekenfonds/bijzonder-solidariteitsfonds/Paginas/default.aspx",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:46.804130512Z",
+      "laatstGewijzigd": "2023-03-24T17:30:15.504295689Z",
+      "laatstOntvangen": "2023-03-24T17:30:15.504295689Z",
+      "productnummer": "819",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/31d3f963-3dc7-47b6-8cd2-08a7f338b8ad",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0d21558f-e270-43a2-889c-d8dd4b92a410"
+    },
+    {
+      "id": "59e87499-bfe6-4e3f-b379-ec4186f4ac28",
+      "generatedAtTime": "2023-03-24T17:30:15.409919Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Bemiddeling"
+      },
+      "beschrijving": {
+        "nl": "<p>Bevindt u zich in een conflict met een familielid, uw huisbaas of een buur? Bemiddeling is één van de mogelijke alternatieven om geschillen op te lossen voor een gerechtelijke procedure gestart wordt.</p><p>De bemiddeling is een gestructureerde procedure, waarin twee of meer partijen bij een geschil zelf pogen om op vrijwillige basis met de hulp van een bemiddelaar/mediator hun geschil te schikken. De bemiddelaar is een neutrale persoon, die in een strikt vertrouwelijke sfeer samen met u en de andere partij(en) een akkoord zoekt, dat aanvaardbaar is voor iedereen. Deze procedure kan door een van de partijen worden ingeleid of door een rechterlijke instantie worden voorgesteld of gelast. Bemiddeling kan bij:</p><ul><li><strong>familiezaken</strong>: voor geschillen over een (echt)scheiding, nalatenschap, samenwonen en generatieconflict</li><li><strong>burgerlijke zaken en handelszaken</strong>: voor geschillen tussen klant en leverancier, tussen aandeelhouders, bij betaling van een factuur, geschillen in verband met huisvesting of mede-eigendom</li><li><strong>sociale zaken</strong>: voor geschillen in verband met het ontslag van een werknemer of collectief arbeidsconflict</li></ul>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "bemiddeling"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003988",
+          "@id": "OVO003988"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p><strong>In het geval van vrijwillige bemiddeling</strong> kan de ene partij per aangetekende brief het voorstel tot bemiddeling aan de wederpartij overmaken. Dit voorstel heeft dan de waarde van een ingebrekestelling: het gaat hier dus om een formeel verzoek. De verjaringstermijn wordt gedurende een maand opgeschort, waardoor alle partijen tijd genoeg hebben om het voorstel rustig te bekijken.</p><p><strong>In het geval van gerechtelijke bemiddeling</strong> kunnen ofwel de partijen of de rechter zelf een bemiddeling voorstellen. De rechter kan echter alleen maar een bemiddeling bevelen als alle partijen akkoord gaan.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>De kostprijs van een bemiddeling hangt af van de geleverde diensten, de duurtijd van het bemiddelingstraject, het aantal partijen, het ereloon en de bijkomende kosten van de bemiddelaar.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:46.602095362Z",
+      "laatstGewijzigd": "2023-03-24T17:30:15.384421437Z",
+      "laatstOntvangen": "2023-03-24T17:30:15.384421437Z",
+      "productnummer": "817",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/59e87499-bfe6-4e3f-b379-ec4186f4ac28",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/de1e6cca-8767-47f2-984c-0bd9ca977f70"
+    },
+    {
+      "id": "273757cd-f2bf-4101-ac91-3c62dbafbfff",
+      "generatedAtTime": "2023-03-24T17:30:15.243604Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Inhaalpremie voor langdurige arbeidsongeschiktheid"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u arbeidsongeschikt bent en aan de voorwaarden voldoet, ontvangt u jaarlijks een inhaalpremie voor langdurige invaliditeit. Deze premie ontvangt u in de maand mei en komt bovenop uw uitkering.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "arbeidsongeschiktheid"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004018",
+          "@id": "OVO004018"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>U bent op <strong>31 december</strong> van het voorbije jaar minstens 1 jaar arbeidsongeschikt.</li><li>En u bent nog arbeidsongeschikt op <strong>1 mei</strong> van het lopende jaar.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Als u recht hebt op de premie, betaalt uw <a href=\"https://riziv.fgov.be/nl/professionals/andere-professionals/ziekenfonds/Paginas/contacteer-ziekenfondsen.aspx\">ziekenfonds</a> deze<strong> eind mei </strong>automatisch uit. U moet geen aanvraag indienen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "RIZIV - Inhaalpremie"
+          },
+          "url": "https://www.riziv.fgov.be/nl/themas/arbeidsongeschiktheid/werknemers-werklozen/Paginas/inhaalpremie-werknemers-werklozen-arbeidsongeschikt.aspx",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het <a href=\"https://www.riziv.fgov.be/nl/themas/arbeidsongeschiktheid/bedragen/werknemers-werklozen/Paginas/inhaalpremie-arbeidsongeschiktheid-werknemer.aspx\">bedrag</a> dat u jaarlijks ontvangt, hangt af van uw gezinslast en hoe lang u al arbeidsongeschikt bent.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:46.47126455Z",
+      "laatstGewijzigd": "2023-03-24T17:30:15.224699962Z",
+      "laatstOntvangen": "2023-03-24T17:30:15.224699962Z",
+      "productnummer": "807",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/273757cd-f2bf-4101-ac91-3c62dbafbfff",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/84d6edcd-30d4-4e22-8f26-c579f1d69acb"
+    },
+    {
+      "id": "d987dd74-1990-4a7c-bf0b-76c2b62fa2d5",
+      "generatedAtTime": "2023-03-24T17:30:15.047737Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Tegemoetkoming voor hulp van derden bij arbeidsongeschiktheid"
+      },
+      "beschrijving": {
+        "nl": "<p>Bent u arbeidsongeschikt en hebt u voor bepaalde taken in het dagelijks leven hulp van anderen nodig, dan kunt u bovenop uw ziekte-uitkering een tegemoetkoming voor hulp van derden krijgen. Deze tegemoetkoming is forfaitair.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004018",
+          "@id": "OVO004018"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>U kunt deze tegemoetkoming ten vroegste aanvragen<strong> vanaf de vierde maand </strong>van uw arbeidsongeschiktheid en <strong>uiterlijk tot het einde</strong> van uw arbeidsongeschiktheid.</li><li>U ontvangt een ziekte- of invaliditeitsuitkering.</li><li>U bent <strong>ernstig zorgbehoevend</strong>. Dit betekent dat u ernstige problemen hebt op het vlak van mobiliteit, huishouding, zelfzorg, communicatie en sociale contacten.<ul><li>U scoort <strong>minstens 11 op 18 punten</strong> op de schaal van zelfredzaamheid</li><li>De arts oordeelt dat hulp van derden onmisbaar is voor een periode van <strong>ten minste 3 maanden</strong>. </li></ul></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Neem contact op met uw <a href=\"https://riziv.fgov.be/nl/professionals/andere-professionals/ziekenfonds/Paginas/contacteer-ziekenfondsen.aspx\">ziekenfonds</a> om de erkenning van de behoefte aan hulp van derden aan te vragen. De <strong>adviserend arts</strong> van uw ziekenfonds onderzoekt of u voldoet aan de voorwaarden voor de toekenning van de behoefte hulp van derden.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "RIZIV - Hulp van derden"
+          },
+          "url": "https://www.riziv.fgov.be/nl/themas/arbeidsongeschiktheid/werknemers-werklozen/Paginas/hulp-derden.aspx",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Werknemers, werklozen en zelfstandigen ontvangen hetzelfde <a href=\"https://www.riziv.fgov.be/nl/themas/arbeidsongeschiktheid/bedragen/zelfstandigen/Paginas/forfaitaire-tegemoetkoming-hulp-derden.aspx\">forfaitair bedrag</a> per dag.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:46.098054562Z",
+      "laatstGewijzigd": "2023-03-24T17:30:15.030036084Z",
+      "laatstOntvangen": "2023-03-24T17:30:15.030036084Z",
+      "productnummer": "808",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d987dd74-1990-4a7c-bf0b-76c2b62fa2d5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/59de8606-67fd-4a06-9873-74560fcb1999"
+    },
+    {
+      "id": "1b85238f-b89e-4356-981d-c8a1f93bf6b8",
+      "generatedAtTime": "2023-03-24T17:30:14.796638Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Ziekte- en invaliditeitsuitkering"
+      },
+      "beschrijving": {
+        "nl": "<p>Kunt u als werknemer, werkloze of zelfstandige door een ziekte of een ongeval niet meer werken of stempelen, dan hebt u recht op een uitkering voor arbeidsongeschiktheid.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk",
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "Invaliditeitsuitkering",
+          "arbeidsongeschiktheid"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004018",
+          "@id": "OVO004018"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U bent arbeidsongeschikt door ziekte of door een ongeval.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>U laat het 'Getuigschrift van arbeidsongeschiktheid' (document 'vertrouwelijk') invullen door uw behandelde geneesheer.</li><li>U bezorgt het ingevulde document binnen de 2 dagen aan de adviserende geneesheer van uw ziekenfonds.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De berekening van het bedrag verschilt voor werknemers, werklozen en zelfstandigen.</p><p>Bij <strong>werknemers en werklozen</strong> wordt het bedrag bepaald op basis van:</p><ul><li>het loon of werkloosheidsuitkering</li><li>de duur van uw arbeidsongeschiktheid</li><li>de gezinssituatie.</li></ul><p><strong>Zelfstandigen</strong> krijgen een forfaitair bedrag dat afhankelijk is van:</p><ul><li>de gezinssituatie</li><li>na één jaar wordt de uitkering verhoogd als de onderneming of het vrije beroep stopgezet is.</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:45.779407998Z",
+      "laatstGewijzigd": "2023-03-24T17:30:14.778995314Z",
+      "laatstOntvangen": "2023-03-24T17:30:14.778995314Z",
+      "productnummer": "809",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1b85238f-b89e-4356-981d-c8a1f93bf6b8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c0a7e750-ee2f-4dfc-b205-ddc175b7b03c"
+    },
+    {
+      "id": "b78cd700-68c7-48d4-8243-8e1ecc9aedd7",
+      "generatedAtTime": "2023-03-24T17:30:14.658345Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Nachtvergunning voor de horeca"
+      },
+      "beschrijving": {
+        "nl": "<p>Als uitbater van een café, hotel of dancing, hebt u een vergunning nodig als u langer wilt openblijven dan het verplichte sluitingsuur. Het verplichte sluitingsuur staat vermeld in het politiereglement. Het verplichte sluitingsuur maakt een onderscheid tussen weeknachten en weekendnachten, waardoor het sluitingsuur in het weekend later is.</p><p>Als u altijd langer open blijft dan het verplichte sluitingsuur, vraagt u een permanente nachtvergunning aan. Wilt u een tijdelijke uitzondering op het sluitingsuur, dan vraagt u een tijdelijke nachtvergunning aan.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "horeca",
+          "nachtvergunning",
+          "vergunning"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U doet de aanvraag schriftelijk, met vermelding van de gewenste afwijking (dagen en uren).</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:45.630376703Z",
+      "laatstGewijzigd": "2023-03-24T17:30:14.640395275Z",
+      "laatstOntvangen": "2023-03-24T17:30:14.640395275Z",
+      "productnummer": "757",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b78cd700-68c7-48d4-8243-8e1ecc9aedd7",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3a40e868-2709-436e-b652-66a40f676bee"
+    },
+    {
+      "id": "500cd419-672a-49ac-a7a7-69e5768e95a5",
+      "generatedAtTime": "2023-03-24T17:30:14.509554Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Sociaal telefoontarief"
+      },
+      "beschrijving": {
+        "nl": "<p>Het sociaal tarief is een korting op de (vaste of mobiele) telefoon- of internetrekening. Als u in aanmerking komt voor het sociaal tarief, betaalt u minder voor de telefoonaansluiting, betaalt u een lager abonnementsgeld en een lager gesprekstarief.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid",
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Wet van 13 juni 2005 betreffende de elektronische communicatie (art 3 van de bijlage)</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "korting",
+          "sociaal tarief",
+          "telefonie"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO019809",
+          "@id": "OVO019809"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U kunt in aanmerking komen voor het sociaal telefoontarief als u:</p><ul><li>nog niet van het sociaal tarief geniet en als er in uw gezin niemand is die van dat tarief geniet</li><li>aangesloten bent bij een <a href=\"https://www.bipt.be/consumenten/faq/welke-operatoren-verstrekken-het-sociale-tarief\">operator die het sociaal telefoontarief aanbiedt</a>.</li></ul><p>Daarnaast behoort u tot <strong>één van onderstaande doelgroepen</strong>:</p><ul><li>65+ met bepaalde inkomensvoorwaarden</li><li>voor meer dan 66% gehandicapt</li><li>u ontvangt een <a href=\"https://www.uat-vlaanderen.be/leefloon\">leefloon</a></li><li>slechthorend</li><li>een laryngectomie ondergaan</li><li>militaire oorlogsblinde</li></ul><p><a href=\"https://www.bipt.be/consumenten/faq/wie-kan-het-sociale-tarief-genieten\">Uitgebreidere voorwaarden bij bovenstaande doelgroepen</a> vindt u op de website van het Belgisch Instituut voor postdiensten en telecommunicatie (BIPT).</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Als u denkt aan de voorwaarden voor het sociale telefoontarief te voldoen, dient u uw aanvraag in bij de operator van uw keuze. De operator bezorgt uw gegevens aan het BIPT. Voldoet u aan de voorwaarden, dan kent het BIPT u het sociaal telefoontarief toe.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "BIPT - Sociaal telefoontarief"
+          },
+          "url": "https://www.bipt.be/consumenten/sociaal-tarief",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De <a href=\"https://www.bipt.be/consumenten/faq/sociaal-tarief-waaruit-bestaan-die-kortingen\">korting</a> waar u recht op hebt, hangt af van de doelgroep waartoe u behoort.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-07T15:12:46.553173232Z",
+      "laatstGewijzigd": "2023-03-24T17:30:14.491311469Z",
+      "laatstOntvangen": "2023-03-24T17:30:14.491311469Z",
+      "productnummer": "750",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/500cd419-672a-49ac-a7a7-69e5768e95a5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cfa3e6d7-81e2-49b1-9a8f-12a9dbfbe939"
+    },
+    {
+      "id": "48d5b3d3-2db0-4561-bb68-4ad1a2973952",
+      "generatedAtTime": "2023-03-24T17:30:14.055912Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Handelaarsvergunning ethylalcohol en alcoholhoudende dranken "
+      },
+      "beschrijving": {
+        "nl": "<p>Elke persoon (kleinhandelaar, groothandelaar, vereniging, …) die alcohol wil verkopen, moet een handelaarsvergunning ethylalcohol of alcoholhoudende dranken hebben.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li><p>Ministerieel Besluit van 30.10.2009 betreffende het accijnsstelsel van ethylalcohol en de uitvoeringsmodaliteiten betreffende de vrijstellingen inzake ethylalcohol en alcoholhoudende dranken </p></li><li><p>Ministerieel besluit van 16.11.2011 tot wijziging van het MB van 30.10.2009 betreffende het accijnsstelsel van ethylalcohol en de uitvoeringsmodaliteiten betreffende de vrijstellingen inzake ethylalcohol en alcoholhoudende dranken. </p></li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "alcohol",
+          "drank",
+          "drankvergunning",
+          "vergunning gegiste dranken",
+          "sterke dranken",
+          "alcoholvergunning",
+          "schenkvergunning",
+          "Vergunning voor de verkoop van alcoholische dranken",
+          "verkoop alcoholische dranken",
+          "alcoholverkoop",
+          "sterkedrank"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De vergunning is alleen van toepassing op:</p><ul><li>ethylalcohol en alcoholhoudende dranken waarvoor de accijnzen al betaald zijn (de zogenaamde regeling ‘in verbruik’). </li><li><p>elke verkoop die niet bestemd is voor gebruik ter plaatse (in horeca, …), want dáárvoor is een drankvergunning nodig (vaste, reizende of occasionele drankgelegenheid). </p></li></ul><p>Er zijn geen specifieke voorwaarden verbonden aan deze vergunning. </p><p>De vergunning is geldig tot de stopzetting van de activiteit of een wijziging op het niveau van de onderneming of vestiging(en).</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U bezorgt het ingevulde aanvraagformulier aan: </p><ul><li><p>de Gewestelijke directie van Douane en Accijnzen van de regio waar uw onderneming gevestigd is. Voor ambulante handelaars is de locatie van de maatschappelijke zetel bepalend (zelfs als de handelsactiviteiten in andere/meerdere regio’s plaatsvinden) </p></li><li><p>de Algemene Administratie van Douane en Accijnzen, als er sprake is van meerdere vestigingen in verschillende regio’s. </p></li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Brochure alcoholhoudende dranken (website FOD Financiën)"
+          },
+          "url": "https://financien.belgium.be/nl/douane_accijnzen/ondernemingen/accijnzen/accijnsgoederen/alcohol-en-alcoholhoudende-dranken/brochure",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>De aanvraag en de vergunning zijn kosteloos. </p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:44.005723651Z",
+      "laatstGewijzigd": "2023-03-24T17:30:14.038276399Z",
+      "laatstOntvangen": "2023-03-24T17:30:14.038276399Z",
+      "productnummer": "734",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/48d5b3d3-2db0-4561-bb68-4ad1a2973952",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b18991b5-3ed1-4062-ba05-48ff3a0dafb4"
+    },
+    {
+      "id": "5ec50100-f7a7-4ccf-ba7b-52b4df2040bb",
+      "generatedAtTime": "2023-03-24T17:30:13.775745Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Rustpensioen"
+      },
+      "beschrijving": {
+        "nl": "<p>Een rustpensioen is een uitkering die u ontvangt als werknemer als u een bepaalde leeftijd hebt bereikt, voor een eerdere werkperiode. Of u werknemer, zelfstandige of ambtenaar was, bepaalt hoe uw pensioen berekend wordt.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid",
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "aanvraag",
+          "pensioen",
+          "pensioenaanvraag"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO024764",
+          "@id": "OVO024764"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De wettelijke pensioenleeftijd is in principe 65 jaar zowel voor werknemers, zelfstandigen als ambtenaren. Voor bepaalde categorieën van ambtenaren kan de leeftijdsgrens hoger (bijvoorbeeld voor magistraten) of lager (bijvoorbeeld voor bepaalde militairen of personeelsleden van de geïntegreerde politie) liggen.</p><p>Om een rustpensioen te ontvangen, moet u aan de volgende drie voorwaarden beantwoorden:</p><ul><li>u moet een bepaalde leeftijd hebben bereikt,</li><li>u mag geen inkomen uit een beroepsactiviteit ontvangen dat een bepaalde grens overschrijdt,</li><li>uw wettelijke bijdragen moeten tijdens de tewerkstelling door uw werkgever zijn ingehouden op uw werknemersloon.</li></ul><p><a href=\"https://www.sfpd.fgov.be/nl/pensioenleeftijd/wanneer\">Onder bepaalde voorwaarden</a>, die verschillen naargelang uw leeftijd en de duur van uw beroepsloopbaan, kunt u met vervroegd pensioen gaan.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<ul><li>Identiteitskaart met pincode</li><li>Rekeningnummer</li></ul>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Welke procedure u moet volgen, hangt af of u werkt als werknemer, zelfstandige of ambtenaar.</p><p>Werknemers en zelfstandigen die hun hoofdverblijfplaats in België hebben en er werknemer geweest zijn, worden vrijgesteld van het indienen van een aanvraag als ze hun pensioen opnemen op de pensioengerechtigde leeftijd, dit is 65 jaar.</p><p>U bent verplicht uw pensioen zelf aan te vragen als u:</p><ul><li>uw rustpensioen vervroegd wilt opnemen, dus vóór de leeftijd van 65 jaar</li><li>uw rustpensioen wilt opnemen na de leeftijd van 65 jaar</li><li>uw rustpensioen wilt opnemen op de leeftijd eigen aan een bijzonder stelsel (mijnwerkers, zeevarenden, vliegend personeel van de burgerluchtvaart)</li><li>uw hoofdverblijfplaats in het buitenland heeft.</li></ul><p>U kunt dit ten vroegste één jaar voor de ingangsdatum aanvragen. Dit kan ofwel:</p><ul><li>via de website <a href=\"http://www.pensioenaanvraag.be\">www.pensioenaanvraag.be</a></li><li>via uw gemeentebestuur.</li></ul><p>Als werknemer kunt u ook terecht bij de Federale Pensioendienst (FPD), ofwel in een gewestelijk kantoor, ofwel tijdens een zitdag. Als zelfstandige kunt u terecht bij het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen (RSVZ).</p><p>Statutaire ambtenaren dienen hun aanvraag in bij de laatste werkgever in de overheidssector.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het bedrag hangt af van:</p><ul><li>het stelsel waarin u werkt</li><li>het aantal jaren dat u werkt</li><li>uw gezinssituatie.</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:43.582140176Z",
+      "laatstGewijzigd": "2023-03-24T17:30:13.757655884Z",
+      "laatstOntvangen": "2023-03-24T17:30:13.757655884Z",
+      "productnummer": "728",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5ec50100-f7a7-4ccf-ba7b-52b4df2040bb",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/86e6f342-31e9-4837-83b4-7322f949e3d4"
+    },
+    {
+      "id": "e4c90184-bc5c-4dbb-9261-c6f819b387da",
+      "generatedAtTime": "2023-03-24T17:30:13.631062Z",
+      "bevoegdBestuursniveaus": [
+        "Europees"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal",
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Europese handicapkaart of European Disability Card (EDC)"
+      },
+      "beschrijving": {
+        "nl": "<p>De European Disability Card (EDC) is een Europese handicapkaart waarmee u als persoon met een handicap voordelen kunt genieten bij cultuur-, sport- of vrijetijdsactiviteiten. De kaart is geldig in België en in zeven andere deelnemende Europese landen: Cyprus, Estland, Finland, Italië , Malta, Slovenië en Roemenië. De kaart is strikt persoonlijk en bewijst dat u een handicap hebt.</p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "europese",
+          "gehandicaptenkaart",
+          "kaart",
+          "gehandicapten",
+          "mindervaliden",
+          "personen",
+          "beperking",
+          "eu disability card",
+          "eu disability"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000060",
+          "@id": "OVO000060"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U kunt de kaart aanvragen als u erkend bent:</p><ul><li>als persoon met een handicap door het Vlaams Agentschap voor Personen met een Handicap (VAPH)</li><li>door de Federale Overheidsdienst Sociale Zekerheid</li><li>of wanneer uw kind in aanmerking komt voor een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte (binnen het Groeipakket).</li></ul><h3>Erkend door het VAPH</h3><p>Wanneer bent u erkend als persoon met een handicap door het VAPH?</p><p><strong>Meerderjarig</strong></p><ul><li>U kreeg een toewijzing of een terbeschikkingstelling van een persoonsvolgend budget.</li><li>U hebt een hulpmiddelendossier bij het VAPH: u kreeg een tegemoetkoming voor hulpmiddelen en aanpassingen aan uw woning of uw wagen.</li><li>U kreeg in het verleden een goedkeuring voor hulp bij opleiding en tewerkstelling. Omdat de hulp bij opleiding en tewerkstelling ondertussen is overgeheveld naar de VDAB, betekent dat wel dat u uw aanvraag bij het VAPH voor tewerkstellingsbevorderende maatregelen vóór 1 oktober 2008 indiende.</li><li>U kreeg in het verleden een goedkeuring van het VAPH voor een of meerdere zorgvormen (thuisbegeleiding, begeleid wonen, dagcentrum, tehuis niet-werkenden ...) maar u hebt daar nooit gebruik van gemaakt en u hebt zich ook nooit geregistreerd op de Centrale Registratie van Zorgvragen. Dat betekent dat u wel erkend bent als persoon met een handicap, maar dat er in het kader van de transitie persoonsvolgende financiering, u geen persoonsvolgend budget werd toegewezen.</li></ul><p>Als u gebruik maakt van rechtstreeks toegankelijke hulp (RtH) van het VAPH, dan kunt u de kaart enkel aanvragen in bovenstaande gevallen. U beschikt dan over een dossiernummer bij het VAPH.</p><p><strong>Minderjarig</strong></p><ul><li>U beschikt over een goedgekeurd en geldig indicatiestellingsverslag van de intersectorale toegangspoort (ITP), met een goedkeuring voor een of meerdere typemodules voor personen met een handicap (hulpmiddelen, zorg of PAB);</li><li>U kreeg vóór Integrale Jeugdhulp van start ging (1 maart 2014) reeds een goedkeuring voor zorg, PAB of hulpmiddelen bij het VAPH.</li></ul><h3>Erkend door de FOD Sociale Zekerheid</h3><p>U komt in aanmerking voor de European Disability Card (EDC) als uw handicap wordt erkend door de FOD Sociale Zekerheid (Directie-generaal Personen met een Handicap) en/of als u daarvan voordelen krijgt zoals een tegemoetkoming, een <a href=\"https://www.uat-vlaanderen.be/parkeerkaart-voor-personen-met-een-handicap\">parkeerkaart</a>,…</p><h3>Zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte (Groeipakket)</h3><p>Uw kind komt in aanmerking voor een zorgtoeslag wanneer het voldoende punten scoort op de medisch-sociale schaal (minstens 4 punten in pijler 1 of 6 punten in totaal). Deze inschaling gebeurt door een evaluerend arts van Opgroeien.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<h3>De European Disability Card (EDC) aanvragen</h3><ul><li><p>Als u erkend bent door het VAPH, kunt u de kaart aanvragen bij het VAPH. U kunt deze kaart enkel digitaal aanvragen via het <a href=\"http://www.mijnvaph.be\">digitale loket mijnvaph.be</a>. In uw persoonlijk dossier gaat u naar de tab ‘EDC’ waarna u op de tekst ‘vraag een nieuwe kaart aan’ klikt. De kaart wordt dan aangemaakt en met de post naar uw persoonlijk adres verstuurd.</p></li><li><p>Als u erkend bent door het VAPH, maar geen toegang hebt tot internet of mijnvaph met een e-ID kaartlezer, kan het provinciaal kantoor van het VAPH deze aanvraag voor u indienen via het <a href=\"http://www.mijnvaph.be\">digitale loket mijnvaph.be</a>.</p></li><li><p>Als u erkend bent door de FOD Sociale Zekerheid, kunt u de kaart aanvragen via <a href=\"https://forms.handicap.fgov.be/nl\">het online contactformulier van de Directie-generaal voor Personen met een Handicap.</a></p></li><li><p>Als u een erkenning zorgtoeslag hebt via het Groeipakket kunt u 30 dagen na ontvangst van de beslissing, de kaart digitaal aanvragen via het <a href=\"http://www.mijnvaph.be\">digitale loket mijnvaph.be</a>.</p></li></ul><p>De totale verwerkingstijd, van VAPH aanvraag tot het afleveren van de kaart, neemt in totaal een 30-tal dagen in beslag. De aanvraag wordt, na het VAPH, ook nog verder gecheckt door de FOD Sociale Zekerheid en vervolgens verwerkt door het bedrijf dat de kaarten maakt.</p><p>Wanneer u uw kaart verliest, kan u er een nieuwe aanvragen bij een van de vijf instanties waar u erkend bent.</p><h3>De European Disability Card (EDC) gebruiken</h3><p>Met de European Disability Card (EDC) kunt u bij de <a href=\"https://eudisabilitycard.be/nl/de-partners-van-de-european-disability-card\">deelnemende partners</a> (musea, pretparken, toeristische verblijven…) genieten van bepaalde maatregelen om uw bezoek te vergemakkelijken (kortingen, brochures in eenvoudige taal, vlottere toegang tot attracties, assistentie, gespecialiseerde gidsen,...). Neem contact op met de organisator van de plaats die u bezoekt of raadpleeg de website van de organisatie om te weten welke voordelen u als kaarthouder geniet.</p><h3>Geldigheid van de EDC-kaart</h3><p>De European Disability Card (EDC) is vijf jaar geldig. Na die vijf jaar dient men opnieuw een aanvraag te doen via het digitale loket mijnvaph. Die aanvraag gebeurt dus niet automatisch. </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Europese Handicapkaart (EDC)"
+          },
+          "url": "http://www.eudisabilitycard.be/nl",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "European Disability Card (EDC) voor dienstverleners"
+          },
+          "url": "https://eudisabilitycard.be/nl/voor-dienstverleners",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-24T06:10:43.28801842Z",
+      "laatstGewijzigd": "2023-03-24T17:30:13.613189081Z",
+      "laatstOntvangen": "2023-03-24T17:30:13.613189081Z",
+      "productnummer": "1466",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e4c90184-bc5c-4dbb-9261-c6f819b387da",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5f051b16-b1df-43d9-80e6-5aa41177ea68"
+    },
+    {
+      "id": "b3107459-7008-43a2-89f6-946a9711ff6a",
+      "generatedAtTime": "2023-03-24T17:30:13.399212Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Kortingkaart NMBS 'Verhoogde tegemoetkoming'"
+      },
+      "beschrijving": {
+        "nl": "<p>De NMBS-kortingkaart ‘Verhoogde tegemoetkoming’ geeft recht op 50% korting bij aankoop van biljetten in 2de klas op het Belgische spoorwegnet.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "nmbs",
+          "mutualiteit",
+          "kortingskaart"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003863",
+          "@id": "OVO003863"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Deze NMBS-kortingkaart is er enkel <strong>voor personen</strong> die recht hebben op de <a href=\"https://www.uat-vlaanderen.be/verhoogde-tegemoetkoming-voor-gezondheidszorgen\">verhoogde tegemoetkoming in de terugbetaling van de gezondheidskosten</a>.<br />De levenspartner en de personen ten laste hebben ook recht op de kortingkaart.</li><li>Deze <strong>NMBS-kortingkaart</strong> is 5 jaar geldig. Bij de NMBS-kortingkaart hoort een valideringsbiljet. Dat valideringsbiljet is 1 jaar geldig. Vanaf 65 jaar is het valideringsbiljet 5 jaar geldig.</li><li>Als u een gevalideerde NMBS-kortingkaart 'Verhoogde tegemoetkoming' hebt kunt u een biljet 'Verhoogde tegemoetkoming' kopen (ook <a href=\"https://www.belgiantrain.be/nl/search\">online</a>). Op de trein moet u altijd uw NMBS-kortingskaart kunnen tonen aan de treinbegeleider.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Aan het NMBS-loket moet u volgende documenten voorleggen.</p><ul><li><strong>Aanvraag met eID</strong>: enkel uw elektronische identiteitskaart (eID).</li><li><strong>Aanvraag met attest van het ziekenfonds (per rechthebbende)</strong>:<ul><li>origineel en geldig <strong>attest van het ziekenfonds</strong>. Op dit attest moeten volgende zaken staan:<ul><li>logo van de mutualiteit in kleur</li><li>naam en voornaam van de rechthebbende</li><li>adres</li><li>geboortedatum</li><li>het feit dat u van het statuut ‘verhoogde tegemoetkoming’ geniet</li></ul></li><li>recente pasfoto of foto via e-id</li><li>identiteitsbewijs of een gelijkwaardig document.</li></ul></li></ul>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Er zijn 2 manieren om de NMBS-kortingkaart 'Verhoogde tegemoetkoming' aan te vragen.</p><h3>Met elektronische identiteitskaart (eID)</h3><p>Aan het <strong>NMBS-loket </strong>zal de loketbediende aan de hand van uw <strong>eID</strong> uw aanvraag onderzoeken. Dat gebeurt door via uw rijksregisternummer verbinding te maken met de Kruispuntdatabank Sociale Zekerheid. In die databank worden de sociale gegevens van persoonlijke aard bewaard en beheerd door het betrokken ziekenfonds. Bij een positief antwoord van de databank zal de moederkaart worden afgedrukt. Opgelet: er kan slechts een verbinding gemaakt worden met de Kruispuntbank van 7.30 tot 19 uur.</p><h3>Met attest van het ziekenfonds</h3><p>Indien er geen verbinding kan gemaakt worden met de Kruispuntdatabank, moet u bij uw <strong>ziekenfonds </strong>langsgaan om een attest aan te vragen. Dat attest is 3 maand geldig. U hebt een attest nodig per rechthebbende. Met dat attest gaat u naar een NMBS-loket om de kortingkaart aan te vragen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Kortingkaart 'Verhoogde tegemoetkoming' aanvragen (NMBS)"
+          },
+          "url": "https://www.belgiantrain.be/nl/tickets-and-railcards/overview-discount/preferential-reimbursement-ticket",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De NMBS-kortingkaart 'Verhoogde tegemoetkoming' (moederkaart en valideringsbiljet) is gratis.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:42.789727781Z",
+      "laatstGewijzigd": "2023-03-24T17:30:13.381770491Z",
+      "laatstOntvangen": "2023-03-24T17:30:13.381770491Z",
+      "productnummer": "881",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b3107459-7008-43a2-89f6-946a9711ff6a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fe9112ba-5f0f-471a-ad3e-76b66135d594"
+    },
+    {
+      "id": "0521639a-e864-4605-9428-2b38f703fa3a",
+      "generatedAtTime": "2023-03-24T17:30:13.229695Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Verhoogde tegemoetkoming voor gezondheidszorgen"
+      },
+      "beschrijving": {
+        "nl": "<p>In bepaalde situaties hebt u recht op een verhoogde tegemoetkoming voor gezondheidszorgen. U betaalt dan minder voor uw gezondheidszorgen, bijvoorbeeld voor een raadpleging bij de dokter, voor een ziekenhuisopname of voor geneesmiddelen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "gezondheidszorgen",
+          "voorkeursregeling",
+          "tussenkomst",
+          "verhoogde",
+          "tegemoetkoming",
+          "VT",
+          "omnio-statuut",
+          "omnio statuut",
+          "omnio",
+          "wigw",
+          "wigw-statuut",
+          "RVV",
+          "VIPO"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004200",
+          "@id": "OVO004200"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U hebt <strong>automatisch </strong>recht op verhoogde tegemoetkoming als u:</p><ul><li><strong>meer dan 3 maanden </strong>een leefloon van het OCMW krijgt</li><li>gepensioneerd bent met een laag inkomen (de Inkomensgarantie voor Ouderen)</li><li>een handicap hebt en hiervoor <strong>ook </strong>een toelage krijgt van de Federale overheidsdienst (FOD) Sociale Zekerheid</li><li>minderjarig bent en een erkende handicap van minstens 66% heeft</li><li>een niet-begeleide minderjarige bent</li><li>minderjarig bent en wees</li></ul><p>U moet <strong>een aanvraag indienen </strong>om verhoogde tegemoetkoming te krijgen als u:</p><ul><li>een inkomen hebt dat lager is dan een <a href=\"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/financiele-toegankelijkheid/Paginas/verhoogde-tegemoetkoming-grensbedragen-inkomsten.aspx#1._Jaarlijks_grensbedrag_van_de_actuele_inkomens_-%C2%A0bedragen%C2%A0in%C2%A0EUR\">jaarlijks grensbedrag</a> en:<ul><li>weduwenaar/weduwe bent</li><li>een invaliditeitsuitkering krijgt (=langer dan 1 jaar arbeidsongeschikt)</li><li>erkend bent als persoon met een handicap en <strong>(nog) geen</strong> tegemoetkoming van de FOD sociale zekerheid</li><li>alleenstaande ouder bent</li></ul></li><li>zich in geen van bovenstaande situatie bevindt, maar een inkomen hebt dat lager is dan dit <a href=\"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/financiele-toegankelijkheid/Paginas/verhoogde-tegemoetkoming-grensbedragen-inkomsten.aspx#1._Jaarlijks_grensbedrag_van_de_actuele_inkomens_-%C2%A0bedragen%C2%A0in%C2%A0EUR\">jaarlijks grensbedrag</a>.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Als u de verhoogde tegemoetkoming niet automatisch ontvangt, kunt u de verhoogde tegemoetkoming voor gezondheidszorgen aanvragen bij uw ziekenfonds.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "RIZIV - Verhoogde tegemoetkoming: betere vergoeding van medische kosten "
+          },
+          "url": "http://www.riziv.fgov.be/nl/themas/kost-terugbetaling/financiele-toegankelijkheid/Paginas/verhoogde-tegemoetkoming-betere-vergoeding-medische-kosten.aspx",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:42.336207779Z",
+      "laatstGewijzigd": "2023-03-24T17:30:13.212150843Z",
+      "laatstOntvangen": "2023-03-24T17:30:13.212150843Z",
+      "productnummer": "885",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0521639a-e864-4605-9428-2b38f703fa3a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/69aae6d0-12d8-4a57-88dd-6eb8a07d69ea"
+    },
+    {
+      "id": "b54ed821-8dc2-4537-bf23-b4a3676cdace",
+      "generatedAtTime": "2023-03-24T17:30:12.948169Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Sloop- en heropbouwpremie"
+      },
+      "beschrijving": {
+        "nl": "<p>Sommige gebouwen zijn er zo slecht aan toe dat afbreken en vervangen door nieuwbouw een betere optie is dan renoveren. Onder bepaalde voorwaarden moet u slechts 6% btw betalen voor sloop en heropbouw van een woning. In alle andere gevallen betaalt u 21% btw. In die gevallen kunnen particulieren in het Vlaamse gewest een Vlaamse sloop- en heropbouwpremie aanvragen bij het Vlaams Energie- en Klimaatagentschap (VEKA).</p><p>Onderstaande voorwaarden gelden voor bouwaanvragen tot en met 31-12-2022. Voor bouwaanvragen in 2023 wordt deze premie verlengd met E-peileis E24 i.p.v. E30 (onder voorbehoud van definitieve goedkeuring).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p><a href=\"https://codex.vlaanderen.be/portals/codex/documenten/1019755.html#H1091177\">Besluit van de Vlaamse Regering houdende wijziging van het Energiebesluit van 19 november 2010 (hoofdstuk XII),</a> wat betreft de invoering van een sloop- en heropbouwpremie</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "vernieuwbouw",
+          "hernieuwbouw",
+          "slooppremie",
+          "vernieuwbouwpremie",
+          "hernieuwbouwpremie",
+          "afbraak",
+          "sloop",
+          "sloopkorting",
+          "afbraakpremie"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<h3>Eigendom</h3><p>De grond, het af te breken gebouw of de af te breken gebouwen, en de op te richten woning(en) of appartementsgebouw(en) zijn op moment van de aanvraag van de omgevingsvergunning voor de geheelheid <strong>volle eigendom van één of meer natuurlijke personen</strong>.</p><h3>Combinatie van afbraak en wederopbouw</h3><p>U kunt de premie enkel aanvragen voor een bouwproject waarbij de <strong>afbraak </strong>van één of meer gebouwen en de <strong>herbouw </strong>van één of meer woningen of een appartementsgebouw <strong>gecombineerd</strong> wordt.</p><h3>Btw-tarief 21%</h3><p>De premie geldt enkel voor gebouwen in het <strong>Vlaamse Gewest</strong> waar het <a href=\"https://financien.belgium.be/nl/particulieren/woning/bouwen/afbraak-wederopbouw\">verlaagd btw-tarief voor afbraak en wederopbouw</a> (6% i.p.v. 21%) <strong>niet van toepassing</strong> is.</p><p> </p><p><a href=\"https://www.energiesparen.be/slooppremie\">Meer voorwaarden en info over de procedure</a> vindt u op Energiesparen.be.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Sloop- en heropbouwpremie"
+          },
+          "url": "https://www.energiesparen.be/slooppremie",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De premie kan per bouwproject slechts eenmaal worden verkregen, ook al gaat het om verschillende gebouwen. Voor aanvragen van <strong>omgevingsvergunningen in 2021 en 2022</strong> bedraagt de sloop- en heropbouwpremie <strong>10.000 euro</strong> per bouwproject.</p><p>Medegefinancierd door de Europese Unie - NextGenerationEU.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:41.832092099Z",
+      "laatstGewijzigd": "2023-03-24T17:30:12.93050469Z",
+      "laatstOntvangen": "2023-03-24T17:30:12.93050469Z",
+      "productnummer": "1558",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b54ed821-8dc2-4537-bf23-b4a3676cdace",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/eb0c911a-cab5-4514-9902-ebf1d2f317fc"
+    },
+    {
+      "id": "164201aa-a240-40db-9d0c-70ce9bde3b9b",
+      "generatedAtTime": "2023-03-24T17:30:12.763837Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Inkomensgarantie-uitkering"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u als werkloze opnieuw aan de slag gaat in een <strong>deeltijdse baan</strong>, dan kunt u onder bepaalde voorwaarden, boven op uw deeltijdse nettoloon, <strong>een extra uitkering van de RVA</strong> krijgen. Door die inkomensgarantie-uitkering (IGU) is uw totale inkomen, dus uw nettoloon plus die extra uitkering, minstens even hoog als de werkloosheidsuitkering die u kreeg voordat u weer aan het werk ging. Door de IGU toe te kennen, wil de overheid vermijden dat het loon dat u als werknemer krijgt, niet of maar een klein beetje hoger ligt dan de werkloosheidsuitkering die u ontving. Een fenomeen dat de 'werkloosheidsval' wordt genoemd.</p>"
+      },
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "inkomengarantie",
+          "minimuminkomen"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO025169",
+          "@id": "OVO025169"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Om recht te hebben om de inkomensgarantie-uitkering,</p><ul><li>moet uw gemiddelde brutomaandloon<strong> minder dan 1.562,59 euro</strong> bedragen</li><li>moet uw loon voor de beschouwde maand lager zijn dan <strong>1.562,59 euro</strong>.</li><li>mag uw deeltijdse werkregime niet meer dan 4/5 zijn</li><li>mag u geen recht meer hebben op een loon ten laste van uw vorige werkgever (als uw deeltijdse baan begint tijdens een opzeggingsperiode of als u nog een verbrekingsvergoeding krijgt)</li><li>moet u aan uw werkgever vragen dat hij uw arbeidsovereenkomst aanpast als u geregeld meer uren moet presteren dan in die arbeidsovereenkomst is vastgelegd.</li></ul><p>Als u <strong>op vrijwillige basis</strong> van een voltijdse naar een deeltijdse baan overstapt, dan hebt u geen recht op een IGU.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Doe bij de VDAB (of, als u in het Brussels Hoofdstedelijk Gewest woont, bij Actiris) aangifte van uw deeltijdse betrekking en schrijf u in als werkzoekende voor een voltijdse baan.</p><p>De eigenlijke inkomensgarantie-uitkering vraagt u aan via uw uitbetalingsinstelling.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Inkomensgarantie-uitkering  (op RVA.be) "
+          },
+          "url": "http://www.rva.be/nl/documentatie/infoblad/t70",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Op de website van de RVA vindt u een simulatieprogramma waarmee u zelf kunt uitrekenen hoeveel uw IGU bedraagt.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:41.506499566Z",
+      "laatstGewijzigd": "2023-03-24T17:30:12.746679449Z",
+      "laatstOntvangen": "2023-03-24T17:30:12.746679449Z",
+      "productnummer": "1656",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/164201aa-a240-40db-9d0c-70ce9bde3b9b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fe0a817f-4700-431a-a6e0-90622bbd6edf"
+    },
+    {
+      "id": "40eba1c8-6a26-420a-a22b-026e8e80cc94",
+      "generatedAtTime": "2023-03-24T17:30:12.650084Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Inkomensgarantie voor ouderen"
+      },
+      "beschrijving": {
+        "nl": "<p>De inkomensgarantie voor ouderen (IGO) is een minimuminkomen dat de overheid verstrekt aan 65-plussers die niet genoeg financiële middelen hebben. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk",
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "inkomensgarantie",
+          "inkomengarantie",
+          "minimuminkomen",
+          "igo",
+          "gepensioneerden",
+          "armoede"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO024764",
+          "@id": "OVO024764"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Om na te gaan of u recht hebt op de IGO, worden uw bestaansmiddelen en die van uw eventuele huwelijkspartner of wettelijk samenwonende in kaart gebracht. Meer informatie over de berekening van uw financiële middelen en de inkomensgrens waaronder u recht kunt hebben op een IGO, vindt u op de website van de Federale Pensioendienst.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>In de meeste gevallen hoeft u zelf geen aanvraag in te dienen voor uw IGO.</p><p>Meer informatie over het aanvragen van uw pensioen en/of de IGO vindt u op de website van de Federale Pensioendienst.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Inkomensgarantie voor ouderen (IGO) - Federale Pensioendienst "
+          },
+          "url": "https://www.sfpd.fgov.be/nl/recht-op-pensioen/igo",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het bedrag dat u kunt ontvangen, is afhankelijk van uw financiële middelen en uw gezinssituatie.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:41.322858347Z",
+      "laatstGewijzigd": "2023-03-24T17:30:12.633034939Z",
+      "laatstOntvangen": "2023-03-24T17:30:12.633034939Z",
+      "productnummer": "833",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/40eba1c8-6a26-420a-a22b-026e8e80cc94",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/93b029d7-9f2a-4f7d-8b2e-e963308fdd1e"
+    }
+  ]
+}

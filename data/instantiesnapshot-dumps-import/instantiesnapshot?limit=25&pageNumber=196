@@ -1,1 +1,1910 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=196","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=195","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-08T13:54:47.152777Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=197","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-08T13:58:00.008861Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=196","@type":"EventStream","member":[{"id":"2637217f-07b0-42f8-a759-a01a53ab7d9d","generatedAtTime":"2023-05-08T13:58:00.008861Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Premie investeringssteun na uitvoering van een energieaudit in niet-residentiële gebouwen aangesloten op het plaatselijk vervoernet van elektriciteit"},"beschrijving":{"nl":"<p>Voor energiebesparende investeringen in niet-woongebouwen geeft Elia investeringssteun wanneer een energiestudie of energieaudit aantoont dat de investeringen een belangrijke energiebesparing opleveren en een terugverdientermijn hebben die langer is dan 2 jaar. Deze premie geldt enkel voor klanten van Elia, de beheerder van het plaatselijk vervoernet van elektriciteit.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Energiebesluit van 19 november 2010</p>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"creatie":"2023-03-24T06:45:09.903937172Z","laatstGewijzigd":"2023-05-05T18:00:31.319310633Z","laatstOntvangen":"2023-05-05T18:00:31.319310633Z","productnummer":"2431","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2637217f-07b0-42f8-a759-a01a53ab7d9d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ddb1e07d-4d87-436f-963f-81fdfb1c9ba4"},{"id":"a843b0a4-6a2b-4819-b344-513ec9839000","generatedAtTime":"2023-05-08T13:57:59.988293Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Gendergerelateerd geweld"},"beschrijving":{"nl":"<p>Onder gendergerelateerd geweld vallen drie kernzaken:</p><p>- ketenaanpak intrafamilaal geweld = De Ketenaanpak Intrafamiliaal Geweld is een samenwerking tussen politie en parket, hulpverlening en bestuur. Door samen te werken pakken ze intrafamiliaal geweld op een <strong>multidisciplinaire manier</strong> aan. </p><p>- Vlaams actieplan seksueel geweld = Het Vlaams actieplan seksueel geweld wil de noden van slachtoffers van seksueel geweld beantwoorden en nieuwe slachtoffers voorkomen. Het plan zet in op preventie en gepaste maatregelen voor daders en slachtoffers. Daarnaast investeert het in kwaliteitsvolle hulpverlening.</p><p>- erkennings -en bemiddelingscommissie historisch misbruik = De erkennings- en bemiddelingscommissie historisch misbruik geeft slachtoffers van geweld en misbruik erkenning voor wat hen werd aangedaan. Het gaat om gevallen van misbruik die minstens 10 jaar geleden plaatsvonden.</p><p><a href=\"https://www.vlaanderen.be/agentschap-justitie-en-handhaving/justitie/gendergerelateerd-geweld\">Meer info</a> op de website van agentschap J&amp;H</p>"},"type":"AdviesBegeleiding","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO049871","@id":"OVO049871"}],"creatie":"2023-03-24T06:45:10.313597021Z","laatstGewijzigd":"2023-05-05T18:00:35.987196023Z","laatstOntvangen":"2023-05-05T18:00:35.987196023Z","productnummer":"2451","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a843b0a4-6a2b-4819-b344-513ec9839000","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/70307156-39c6-46ad-9ce0-dfb430e99e68"},{"id":"1a4b017a-fc2a-42cf-828b-21c8e65499b3","generatedAtTime":"2023-05-08T13:57:59.834535Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal","Vlaams","Provinciaal","Lokaal"],"naam":{"nl":"Wettelijke hypotheek op onroerende goederen"},"beschrijving":{"nl":"<p>Een wettelijke hypotheek bestaat van rechtswege, krachtens de wet zelf, vanaf het ogenblik dat een belastingschuld is ontstaan, dus niet vanaf het ogenblik van de inschrijving.</p><p>De belastingwetten stellen een hypotheek in ten gunste van de schatkist. De belastingontvanger kan zonder instemming een hypotheek nemen op eigendom(men) van nalatige belastingschuldenaars. De inschrijving van de hypotheek beoogt de ranginname en het tegenstelbaar maken van de wettelijke hypotheek jegens derden.</p>"},"type":"FinancieleVerplichting","themas":["BurgerOverheid"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE"],"bevoegdeOverheden":[{"id":"OVO005190","@id":"OVO005190"}],"creatie":"2023-03-24T06:45:12.009517277Z","laatstGewijzigd":"2023-05-04T12:41:17.658956817Z","laatstOntvangen":"2023-05-04T12:41:17.658956817Z","productnummer":"2456","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1a4b017a-fc2a-42cf-828b-21c8e65499b3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e6df1670-d2bd-42e9-933e-23e4899cf39d"},{"id":"e8e9c648-92c9-4eda-ab66-fcf2ced5982c","generatedAtTime":"2023-05-08T13:57:59.830496Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal","Vlaams","Provinciaal","Lokaal"],"naam":{"nl":"Bewarend en uitvoerend onroerend beslag"},"beschrijving":{"nl":"<p>De overheid kan als schuldeiser onroerende goederen in beslag nemen. Dat kan op twee manieren;</p><ul><li>uitvoerend onroerend beslag</li><li>bewarend onroerend beslag.</li></ul>"},"type":"FinancieleVerplichting","themas":["BurgerOverheid"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE"],"bevoegdeOverheden":[{"id":"OVO005190","@id":"OVO005190"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<h3>Uitvoerend onroerend beslag</h3><p>Het onroerend goed wordt gedwongen verkocht. De opbrengst van die verkoop komt toe aan de schuldeiser. Dit is enkel mogelijk wanneer de schuldeiser beschikt over een vonnis van een rechter of een ander document met dezelfde rechtskracht bv. notariële akte (in geval van hypotheek bij een bank) of dwangbevel.</p><h3>Bewarend beslag</h3><p>Bewarend beslag is een preventieve maatregel die de schuldeiser neemt om te verhinderen dat uw vermogen zou verminderen. De onroerende goederen waarop beslag wordt gelegd blijven uw eigendom en u kunt ze ook verder blijven gebruiken. Ze komen dus niet toe aan uw schuldeiser. Het bewarend beslag heeft wel voor gevolg dat u uw goederen niet mag verkopen of wegschenken. Als u blijvend uw schuldeiser niet betaalt, kan een bewarend beslag finaal omgezet worden in een uitvoerend beslag.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:45:12.133360582Z","laatstGewijzigd":"2023-05-04T12:41:17.942936712Z","laatstOntvangen":"2023-05-04T12:41:17.942936712Z","productnummer":"2457","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e8e9c648-92c9-4eda-ab66-fcf2ced5982c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3ac56c8b-4aa6-4a43-b011-2cc7edf96e13"},{"id":"bc38d226-d0e6-4102-9670-5bf082cd8e9f","generatedAtTime":"2023-05-08T13:57:59.724629Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal","Vlaams","Provinciaal","Lokaal"],"naam":{"nl":"Gedwongen verkoop van onroerende goederen"},"beschrijving":{"nl":"<p>De overheid kan als schuldeiser een onroerend goed toebehorend aan een schuldenaar gedwongen laten verkopen wanneer:</p><ul><li>een uitvoerend onroerend beslag op het onroerend goed is gelegd</li><li>een wettelijke hypotheek op het onroerend goed is gevestigd.</li></ul>"},"type":"FinancieleVerplichting","themas":["BurgerOverheid"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE"],"bevoegdeOverheden":[{"id":"OVO005190","@id":"OVO005190"}],"creatie":"2023-03-24T06:45:12.257292261Z","laatstGewijzigd":"2023-05-04T12:41:18.172088601Z","laatstOntvangen":"2023-05-04T12:41:18.172088601Z","productnummer":"2459","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bc38d226-d0e6-4102-9670-5bf082cd8e9f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e8412296-5f97-4453-a551-91a453851170"},{"id":"c68ca0df-2031-4755-af7e-48aab0122b80","generatedAtTime":"2023-05-08T13:57:59.672012Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Call groene stroom: 2022 call 2"},"beschrijving":{"nl":"<p>Deze call omvat zowel subcall 1 (drijvende PV-installaties, PV installaties op marginale gronden en kleine en middelgrote windturbines) als subcall 2 (overige PV-installaties).</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>De subsidieregeling wordt geregeld door enerzijds een <strong>Besluit van de Vlaamse Regering</strong>, dat de contouren en bepalingen van de steunregeling vastlegt, en anderzijds door een <strong>ministerieel besluit</strong> dat voor elke call de nadere regels vastlegt. Beide vormen voor elke call het zogenaamd <strong>subsidiereglement </strong>waaraan u moet voldoen. </p><ul><li>Calls 2022: <a href=\"https://codex.vlaanderen.be/PrintDocument.ashx?id=1019755&amp;datum=&amp;geannoteerd=false&amp;print=false#H1088375\">Besluit van de Vlaamse Regering van 10 december 2021 tot wijziging van het Energiebesluit van 19 november 2010</a></li><li>Call 2, 2022: Met het <a href=\"https://assets.vlaanderen.be/image/upload/v1651577286/Ministerieel_besluit_tot_wijziging_van_het_ministerieel_besluit_van_28_januari_2022_houdende_de_organisatie_van_calls_voor_het_jaar_2022_uyxwrs.pdf\">ministerieel besluit van 26 april 2022</a> wijzigt de minister van energie het ministerieel besluit houdende de organisatie van calls voor het jaar 2022 voor call 2 van 2022. Beiden ministeriële besluiten moeten samen gelezen worden om het geheel van voorwaarden te hebben. Het ministerieel besluit van 26 april 2022 is nog niet gepubliceerd in het Belgisch Staatsblad. Vanaf publicatie wordt het van kracht. </li></ul>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>De tweede call van 2022 loopt<ul><li>van <strong>14 juni 2022 </strong>om 9 uur<strong> </strong></li><li>tot en met<strong> 28 juni 2022 </strong>om 16 uur. </li></ul></li><li>De installaties die in aanmerking komen voor de tweede call zijn <ul><li>subcall 1: drijvende PV-installaties, PV installaties op marginale gronden en kleine en middelgrote windturbines</li><li>subcall 2: overige PV-installaties</li></ul></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<h3>Digitale aanvraag voorbereiden</h3><p>Om een digitale aanvraag succesvol in te dienen, hebt u enkele <strong>documenten </strong>nodig. Het gaat hierbij om documenten die u moet consulteren en documenten die u moet invullen, ondertekenen en opladen in het digitaal aanvraagformulier.</p><p>Meer informatie over het raadplegen en invullen van de documenten, vindt u in de <strong>‘<a href=\"https://assets.vlaanderen.be/image/upload/v1679672646/Interactieve_handleiding_voor_de_Call_Groene_Stroom_z1ihuj.pdf\">Interactieve handleiding voor de Call groene stroom</a>’.</strong></p><ul><li>Toelichting bij het begrip ‘onderneming’ binnen de call: zie handleiding ‘Bijlage C: een onderneming als aanvrager’</li><li><a href=\"https://assets.vlaanderen.be/raw/upload/v1653046448/Call_PV_KWT_rekenmethode_wind_berekeningsexcel_beveiligd_0_4_bpkulk.xlsx\">Excel-rekenmodule voor kleine en middelgrote windturbines</a>: zie handleiding ‘Bijlage K: berekening van de jaarlijkse energieopbrengst van een Windturbines’</li><li><a href=\"https://re.jrc.ec.europa.eu/pvg_tools/en/#PVP\" rel=\"noreferrer noopener\" target=\"_blank\">PVGIS</a>: zie handleiding ‘Bijlage I: berekening van de jaarlijkse energieopbrengst van een PV-installatie’</li><li><a href=\"https://eservices.minfin.fgov.be/ecad-web/#\" rel=\"noreferrer noopener\" target=\"_blank\">CadGis</a>: zie handleiding ‘Bijlage G: adres en kadastraal perceel installatie’</li><li><a href=\"https://assets.vlaanderen.be/raw/upload/v1651573209/Verklaring_op_eer_-_geen_onderneming_in_moeilijkheden_bs3tuf.docx\" rel=\"noreferrer noopener\" target=\"_blank\">Verklaring op eer: geen onderneming in moeilijkheden</a>: zie handleiding ‘Bijlage C: een onderneming als aanvrager’</li><li><a href=\"https://financien.belgium.be/nl/betalingen/e-depo\" rel=\"noreferrer noopener\" target=\"_blank\">E-depo</a>: zie handleiding ‘Bijlage N: de deposito- en consignatiekas’</li><li><a href=\"https://myebox.be/nl\">My e-box</a>: zie handleiding ‘Bijlage D: e-box, het beveiligde, snelle en digitale communicatiemiddel met de aanvrager’</li></ul><h3>Het Digitaal aanvraagformulier invullen en indienen</h3><p>Vanaf alle documenten correct zijn ingevuld en ondertekend, kunt u een <a href=\"https://energieportaal.vlaanderen.be\">subsidieaanvraag indienen via het Energieportaal</a>. Meer informatie over het invullen van het aanvraagformulier kunt u terugvinden in <strong>‘<a href=\"https://assets.vlaanderen.be/image/upload/v1679672646/Interactieve_handleiding_voor_de_Call_Groene_Stroom_z1ihuj.pdf\">Interactieve handleiding voor de Call groene stroom</a>’.</strong></p><h3>Na de betekening van de steunaanvraag</h3><h4>Het stellen van een borg</h4><p>De eerstvolgende belangrijkste stap voor winnende projectaanvragers is het tijdig bezorgen van het <strong>bewijs van de gestelde borg</strong>. Dit gebeurt digitaal via het Energieportaal. </p><p>De termijn voor het stellen van een borg en het bezorgen van bewijs is<strong> 60 dagen</strong>.</p><h4>Het stellen van de indienstname</h4><p>Voordat u de uitbetaling van de toegekende steun kan aanvragen, moet u de indienstname van de gesteunde installatie aanmelden. Het bewijs van de indienstname moet uiterlijk <strong>30 dagen</strong> na de indienstname van de installatie doorgegeven worden aan het VEKA. Dit doet u door de indienstname aan te melden in het energieportaal.</p><p>Projecten op basis van zonne-energie moeten uiterlijk binnen <strong>18 maanden</strong> na de datum van de betekening van de steun in dienst genomen zijn. Projecten op basis van windenergie moeten binnen 24 maanden in dienst genomen zijn</p><h3>De digitale aanvraag tot uitbetaling invullen en indienen</h3><p>Eens de indienstname ingediend is, kunt u een <a href=\"https://energieportaal.vlaanderen.be\">aanvraag tot uitbetaling indienen via het Energieportaal</a>. Meer informatie over het invullen van de aanvraag tot uitbetaling kan u terugvinden in <strong>‘<a href=\"https://assets.vlaanderen.be/image/upload/v1679672646/Interactieve_handleiding_voor_de_Call_Groene_Stroom_z1ihuj.pdf\">Interactieve handleiding voor de Call groene stroom</a>’.</strong></p><ul></ul>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<ul><li><p>Subcall 1 heeft een budget van 500.000 euro.</p></li><li><p>Subcall 2 heeft een budget van 9.500.000 euro. </p></li></ul><h3> </h3>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:48.737757191Z","laatstGewijzigd":"2023-05-04T12:41:03.128423599Z","laatstOntvangen":"2023-05-04T12:41:03.128423599Z","productnummer":"2468","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c68ca0df-2031-4755-af7e-48aab0122b80","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/469933f4-e47b-4d9a-aac9-125b76ef0ede"},{"id":"1564cff9-7ded-41c6-aa96-d62735e6ff84","generatedAtTime":"2023-05-08T13:57:59.640162Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Procedure 1ste call 2022 groene warmte, restwarmte en energie-efficiënte stadsverwarming"},"beschrijving":{"nl":"<p>Bij het aanvragen van steun tijdens een call komt heel wat kijken. Op deze webpagina worden een aantal belangrijke onderdelen overlopen om zo’n steunaanvraag goed te kunnen voorbereiden, indienen en opvolgen. </p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>De <a href=\"https://www.uat-vlaanderen.be/procedure-groene-warmte-restwarmte-en-energie-efficiente-stadsverwarming/wetgeving-call-groene-warmte\">relevante wetgeving per call</a> is terug te vinden op de pagina ‘Wetgeving call groene warmte’.</p>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<h3>Wanneer kan een steunaanvraag worden ingediend? </h3><p>De eerste call van 2022 staat open tussen 2 mei 2022 en 16 mei 2022. Er kan enkel steun worden aangevraagd tijdens een open call. </p><h3>Wie kan een steunaanvraag indienen?</h3><p>De doelgroep van de call is heel breed, iedereen kan een steunaanvraag indienen, maar door de grootte van de projecten zijn het vooral grotere ondernemingen, besturen of gemeentes die een steunaanvraag indienen.</p><p>Belangrijk voor <strong>ondernemingen</strong>: De steunregeling valt onder de voorwaarden vermeld in de Algemene Groepsvrijstellingsverordening. De aanvrager is verantwoordelijk voor de naleving van de voorwaarden van de Algemene Groepsvrijstellingsverordening. Controleer steeds of u onder <a href=\"https://assets.vlaanderen.be/image/upload/v1656578289/definitie_onderneming_mavl6n.pdf\">de Europese definitie van een onderneming of kmo</a> valt en of u voldoet aan de voorwaarden voor de steunaanvragers.</p><h3>Welke installaties komen in aanmerking voor steun?</h3><p>Om een steunaanvraag te kunnen indienen, moeten installaties voldoen aan enkele algemene voorwaarden. Daarnaast zijn er ook voorwaarden die gelden voor de projecten, afhankelijk van de gebruikte technologieën. </p><p>Alle <a href=\"https://www.uat-vlaanderen.be/procedure-groene-warmte-restwarmte-en-energie-efficiente-stadsverwarming/voorwaarden-voor-projecten-en-installaties-gesteund-via-de-call-groene-warmte\">algemene en specifieke voorwaarden</a> kunt u nalezen op de pagina ‘Voorwaarden projecten en installaties gesteund via de call groene warmte’.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<h3>Digitale aanvraag voorbereiden</h3><p>Om een digitale aanvraag succesvol in te dienen, hebt u enkele <strong>documenten </strong>nodig. Het gaat hierbij om documenten die u moet <strong>consulteren </strong>en documenten die u moet <strong>invullen, ondertekenen en opladen</strong> in het digitaal aanvraagformulier.</p><p>Meer informatie over het raadplegen en invullen van de documenten, vindt u in de ‘<a href=\"https://assets.vlaanderen.be/raw/upload/v1677664809/principeaanvraag_groenewarmte_restwarmte_warmtenet2022_1_dbdw5o.docx\">Handleiding call groene warmte, restwarmte en energie-efficiënte stadsverwarming</a>’.</p><div data-table=\"\"><table data-table-type=\"grid\"><thead><tr><th>Link naar document</th><th>Voor wie?</th></tr></thead><tbody><tr><td>Sjabloon voor de verklaring op eer dat de aanvrager geen onderneming in moeilijkheden is</td><td>Iedereen</td></tr><tr><td>Sjabloon voor de verklaring dat indiener van de steunaanvraag gemachtigd is om de steunaanvraag in te vullen in naam van de aanvrager </td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1677575529/Warmte_en_koude_leveringsplan_pogeja.xlsx\">Sjabloon voor het warmte- en/of koude-leveringsplan van de installatie of de stadsverwarming in de aanvraag</a></td><td>Iedereen</td></tr><tr><td>Sjabloon voor het ingeven van de geschatte investeringskosten voor uw project</td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1677059166/Berekening_IRR_en_exploitatiewinsten_lqvmhh.xlsx\">Sjabloon voor de berekening van de exploitatiewinsten en de IRR over de levensduur van uw installatie</a></td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1651845133/Garantie_warmtetransport_van_warmtebron_naar_stadsverwarming_indnid.docx\">Sjabloon voor de garantie van het warmtetransport aan de stadsverwarming door de leverancier</a></td><td>Energie-efficiënte stadsverwarming of koeling</td></tr><tr><td><a href=\"https://www.energiesparen.be/EPB-pedia/externe-warmtelevering/rekenbladen\">Sjabloon voor de berekening van het aandeel hernieuwbare energiebronnen en/of restwarmte in de inputstroom van stadsverwarming of koeling</a></td><td>Energie-efficiënte stadsverwarming of koeling</td></tr><tr><td>Sjabloon voor de intentieovereenkomst voor warmteafnemers met een geplande afname van &gt; 100 MWh </td><td>Energie-efficiënte stadsverwarming of koeling met afnemers &gt; 100 MWh</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1651845131/DNSH-analyse_wfvz3l.docx\">Sjabloon voor de DNSH-analyse</a></td><td>Iedereen</td></tr></tbody></table></div><h3>Digitaal aanvraagformulier indienen</h3><ul><li>Een steunaanvraag wordt <a href=\"https://apps.energiesparen.be/groene-restwarmte-warmtenetten-2022-2\">ingediend via het online aanvraagformulier</a>.</li><li>Het indienen van een steunaanvraag kan alleen <strong>tijdens een openstaande call</strong>:<ul><li>Enkel aanvragen ingediend wanneer de call geopend is kunnen in aanmerking komen voor steun. </li><li>Wanneer er geen call geopend is, kunt u het formulier testen en een testaanvraag indienen.</li><li>Aanvragen ingediend voor het openen of na het sluiten van de call worden automatisch verwijderd.</li></ul></li><li>Het gebruik van dit aanvraagformulier is <strong>verplicht</strong>. Het formulier moet volledig en correct worden ingevuld.</li><li>Er kan <strong>per installatie hoogstens 1 steunaanvraag</strong> ingediend worden binnen deze call. Er zijn dan ook geen wijzigingen meer mogelijk in de ingediende projectvoorstellen.</li></ul><h3>Na goedkeuring</h3><p>Als de steunaanvraag goedgekeurd werd, brengt het VEKA de aanvrager op de hoogte van de principebeslissing. Vanaf de goedkeuring is het aan de aanvrager om nog enkele zaken in orde te brengen. </p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<h3>Steunbedrag</h3><p>Het beschikbare budget is in 2022 call 1 <strong>meer dan 32 miljoen euro</strong>.</p><p>De aanvrager vraagt als steun een percentage aan van de investeringskosten van het project die in aanmerking komen binnen de call. De <strong>in aanmerking komende kosten</strong> worden berekend als de extra investeringskosten van de installatie ten opzichte van de investeringskosten van een referentie-installatie zonder de exploitatiekosten en –baten in rekening te nemen. De kosten moeten bij de uitbetalingsaanvraag altijd gestaafd worden door facturen.</p><p>De steun wordt toegekend in de vorm van een <strong>investeringssubsidie</strong>.</p><h3>Maximaal aan te vragen steunpercentage</h3><p>Het steunpercentage hangt af van het type project, of de aanvrager een onderneming is en van de grootte van de onderneming.</p><ul><li>Nuttige-groenewarmte-installaties en energie-efficiënte warmtenetten met een ontwerptoevoertemperatuur aan productiezijde van <strong>minder dan 70° C</strong><ul><li>65% voor kleine ondernemingen</li><li>55% voor middelgrote ondernemingen</li><li>45% voor grote ondernemingen</li><li>65% voor andere aanvragers.</li></ul></li><li>Benutting van restwarmte en energie-efficiënte warmtenetten met een ontwerptoevoertemperatuur aan productiezijde van <strong>70°C of meer</strong><ul><li>50% voor kleine ondernemingen</li><li>40% voor middelgrote ondernemingen</li><li>30% voor grote ondernemingen</li><li>50% voor andere aanvragers.</li></ul></li></ul><h3>Verdeling subsidiebedrag</h3><p>De ontvankelijke investeringsprojecten worden op een objectieve wijze beoordeeld en vervolgens gerangschikt. Deze <strong>rangschikking </strong>gebeurt op basis van twee elementen: kostenefficiëntie en de CO<sub>2</sub>-besparing van het project. Hoe dat precies gebeurt, leest u in het document ‘<a href=\"https://assets.vlaanderen.be/image/upload/v1652096767/call_groene_warmte_rangschikkingprojecten_qlgrvx.pdf\">Call groene warmte: rangschikking projecten</a>’.</p><p>Het voor de call beschikbare subsidiebedrag zal verdeeld worden over de gunstig gerangschikte investeringsprojecten tot de beschikbare budgettaire enveloppe is opgebruikt.</p><p>Als er meer dan 1 ontvankelijk project is ingediend, komen van de gerangschikte projecten de 10% projecten met het laagste puntentotaal en in ieder geval het project met het laagste puntentotaal niet in aanmerking voor steun. </p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:50.045737714Z","laatstGewijzigd":"2023-05-04T12:41:04.074601714Z","laatstOntvangen":"2023-05-04T12:41:04.074601714Z","productnummer":"2471","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1564cff9-7ded-41c6-aa96-d62735e6ff84","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7b6c52d4-19ab-435d-8e34-635991addb3a"},{"id":"acb1b9f8-6c5a-4589-96e4-2815bb594473","generatedAtTime":"2023-05-08T13:57:59.555991Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Procedure groene warmte, restwarmte en energie-efficiënte stadsverwarming"},"beschrijving":{"nl":"<p>Bij het aanvragen van steun tijdens een call komt heel wat kijken. Op deze webpagina worden een aantal belangrijke onderdelen overlopen om zo’n steunaanvraag goed te kunnen voorbereiden, indienen en opvolgen. </p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>De <a href=\"https://www.uat-vlaanderen.be/procedure-groene-warmte-restwarmte-en-energie-efficiente-stadsverwarming/wetgeving-call-groene-warmte\">relevante wetgeving per call</a> is terug te vinden op de pagina ‘Wetgeving call groene warmte’.</p>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<h3>Wanneer kan een steunaanvraag worden ingediend? </h3><p>De huidige call staat open van 3 oktober tot en met 17 oktober 2022. Er kan enkel steun worden aangevraagd tijdens een open call. </p><h3>Wie kan een steunaanvraag indienen?</h3><p>De doelgroep van de call is heel breed, iedereen kan een steunaanvraag indienen, maar door de grootte van de projecten zijn het vooral grotere ondernemingen, besturen of gemeentes die een steunaanvraag indienen.</p><p>Belangrijk voor <strong>ondernemingen</strong>: De steunregeling valt onder de voorwaarden vermeld in de Algemene Groepsvrijstellingsverordening. De aanvrager is verantwoordelijk voor de naleving van de voorwaarden van de Algemene Groepsvrijstellingsverordening. Controleer steeds of u onder <a href=\"https://assets.vlaanderen.be/image/upload/v1656578289/definitie_onderneming_mavl6n.pdf\">de Europese definitie van een onderneming of kmo </a>valt en of u voldoet aan de voorwaarden voor de steunaanvragers.</p><h3>Welke installaties komen in aanmerking voor steun?</h3><p>Om een steunaanvraag te kunnen indienen, moeten installaties voldoen aan enkele algemene voorwaarden. Daarnaast zijn er ook voorwaarden die gelden voor de projecten, afhankelijk van de gebruikte technologieën. </p><p>Alle <a href=\"https://www.uat-vlaanderen.be/procedure-groene-warmte-restwarmte-en-energie-efficiente-stadsverwarming/voorwaarden-voor-projecten-en-installaties-gesteund-via-de-call-groene-warmte\">algemene en specifieke voorwaarden</a> kunt u nalezen op de pagina ‘Voorwaarden projecten en installaties gesteund via de call groene warmte’.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<h3>Digitale aanvraag voorbereiden</h3><p>Om een digitale aanvraag succesvol in te dienen, hebt u enkele <strong>documenten </strong>nodig. Het gaat hierbij om documenten die u moet <strong>consulteren </strong>en documenten die u moet <strong>invullen, ondertekenen en opladen</strong> in het digitaal aanvraagformulier.</p><p>Meer informatie over het raadplegen en invullen van de documenten, vindt u in de ‘<a href=\"https://assets.vlaanderen.be/raw/upload/v1677664809/principeaanvraag_groenewarmte_restwarmte_warmtenet2022_1_dbdw5o.docx\">Handleiding call groene warmte, restwarmte en energie-efficiënte stadsverwarming</a>’.</p><div data-table=\"\"><table data-table-type=\"grid\"><thead><tr><th>Link naar document</th><th>Voor wie?</th></tr></thead><tbody><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1663660214/sjabloon_blokdiagram-van-aandeelhoudersstructuur_yuvuoe.docx\">Sjabloon voor het blokdiagram van de aandeelhoudersstructuur</a></td><td>Iedereen</td></tr><tr><td>Sjabloon voor de verklaring op eer dat de aanvrager geen onderneming in moeilijkheden is</td><td>Iedereen</td></tr><tr><td>Sjabloon voor de verklaring dat indiener van de steunaanvraag gemachtigd is om de steunaanvraag in te vullen in naam van de aanvrager </td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1677575529/Warmte_en_koude_leveringsplan_pogeja.xlsx\">Sjabloon voor het warmte- en/of koude-leveringsplan van de installatie of de stadsverwarming in de aanvraag</a></td><td>Iedereen</td></tr><tr><td>Sjabloon voor het ingeven van de geschatte investeringskosten voor uw project</td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1677059166/Berekening_IRR_en_exploitatiewinsten_lqvmhh.xlsx\">Sjabloon voor de berekening van de exploitatiewinsten en de IRR over de levensduur van uw installatie</a></td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1651845133/Garantie_warmtetransport_van_warmtebron_naar_stadsverwarming_indnid.docx\">Sjabloon voor de garantie van het warmtetransport aan de stadsverwarming door de leverancier</a></td><td>Energie-efficiënte stadsverwarming of koeling</td></tr><tr><td><a href=\"https://www.energiesparen.be/EPB-pedia/externe-warmtelevering/rekenbladen\">Sjabloon voor de berekening van het aandeel hernieuwbare energiebronnen en/of restwarmte in de inputstroom van stadsverwarming of koeling</a></td><td>Energie-efficiënte stadsverwarming of koeling</td></tr><tr><td>Sjabloon voor de intentieovereenkomst voor warmteafnemers met een geplande afname van &gt; 100 MWh </td><td>Energie-efficiënte stadsverwarming of koeling met afnemers &gt; 100 MWh</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1651845131/DNSH-analyse_wfvz3l.docx\">Sjabloon voor de DNSH-analyse</a></td><td>Iedereen</td></tr></tbody></table></div><h3>Digitaal aanvraagformulier indienen</h3><ul><li>Een steunaanvraag wordt <a href=\"https://apps.energiesparen.be/groene-restwarmte-warmtenetten-2022-2\">ingediend via het online aanvraagformulier</a>.</li><li>Het indienen van een steunaanvraag kan alleen <strong>tijdens een openstaande call</strong>:<ul><li>Enkel aanvragen ingediend wanneer de call geopend is kunnen in aanmerking komen voor steun. </li><li>Wanneer er geen call geopend is, kunt u het formulier testen en een testaanvraag indienen.</li><li>Aanvragen ingediend voor het openen of na het sluiten van de call worden automatisch verwijderd.</li></ul></li><li>Het gebruik van dit aanvraagformulier is <strong>verplicht</strong>. Het formulier moet volledig en correct worden ingevuld.</li><li>Er kan <strong>per installatie hoogstens 1 steunaanvraag</strong> ingediend worden binnen deze call. Er zijn dan ook geen wijzigingen meer mogelijk in de ingediende projectvoorstellen.</li></ul><h3>Na goedkeuring</h3><p>Als de steunaanvraag goedgekeurd is, brengt het VEKA de aanvrager op de hoogte van de principebeslissing. <a href=\"https://www.uat-vlaanderen.be/procedure-groene-warmte-restwarmte-en-energie-efficiente-stadsverwarming/na-goedkeuring-van-de-steunaanvraag\">Vanaf de goedkeuring is het aan de aanvrager om nog enkele zaken in orde te brengen</a>. </p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<h3>Steunbedrag</h3><p>Het beschikbare budget voor de tweede call van 2022 wordt nog bekend gemaakt. </p><p>De aanvrager vraagt als steun een percentage aan van de investeringskosten van het project die in aanmerking komen binnen de call. De <strong>in aanmerking komende kosten</strong> worden berekend als de extra investeringskosten van de installatie ten opzichte van de investeringskosten van een referentie-installatie zonder de exploitatiekosten en –baten in rekening te nemen. De kosten moeten bij de uitbetalingsaanvraag altijd gestaafd worden door facturen.</p><p>De steun wordt toegekend in de vorm van een <strong>investeringssubsidie</strong>.</p><h3>Maximaal aan te vragen steunpercentage</h3><p>Het steunpercentage hangt af van het type project, of de aanvrager een onderneming is en van de grootte van de onderneming.</p><ul><li>Nuttige-groenewarmte-installaties en energie-efficiënte warmtenetten met een ontwerptoevoertemperatuur aan productiezijde van <strong>minder dan 70° C</strong><ul><li>65% voor kleine ondernemingen</li><li>55% voor middelgrote ondernemingen</li><li>45% voor grote ondernemingen</li><li>65% voor andere aanvragers.</li></ul></li><li>Benutting van restwarmte en energie-efficiënte warmtenetten met een ontwerptoevoertemperatuur aan productiezijde van <strong>70°C of meer</strong><ul><li>50% voor kleine ondernemingen</li><li>40% voor middelgrote ondernemingen</li><li>30% voor grote ondernemingen</li><li>50% voor andere aanvragers.</li></ul></li></ul><h3>Verdeling subsidiebedrag</h3><p>De ontvankelijke investeringsprojecten worden op een objectieve wijze beoordeeld en vervolgens gerangschikt. Deze <strong>rangschikking </strong>gebeurt op basis van twee elementen: kostenefficiëntie en de CO<sub>2</sub>-besparing van het project. Hoe dat precies gebeurt, leest u in het document ‘<a href=\"https://assets.vlaanderen.be/image/upload/v1652096767/call_groene_warmte_rangschikkingprojecten_qlgrvx.pdf\">Call groene warmte: rangschikking projecten</a>’.</p><p>Het voor de call beschikbare subsidiebedrag zal verdeeld worden over de gunstig gerangschikte investeringsprojecten tot de beschikbare budgettaire enveloppe is opgebruikt.</p><p>Als er meer dan 1 ontvankelijk project is ingediend, komen van de gerangschikte projecten de 10% projecten met het laagste puntentotaal en in ieder geval het project met het laagste puntentotaal niet in aanmerking voor steun. </p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:45:11.886609181Z","laatstGewijzigd":"2023-05-04T12:41:17.428743574Z","laatstOntvangen":"2023-05-04T12:41:17.428743574Z","productnummer":"2470","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/acb1b9f8-6c5a-4589-96e4-2815bb594473","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/872a62bc-a96a-40a4-a1f5-87d967f6b435"},{"id":"e8a27acb-b5ce-4990-9b9c-e2c99fe39411","generatedAtTime":"2023-05-08T13:57:59.508225Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies in het kader van de Toeleidingsprocedure voor personen met een handicap: subsidies voor de multidisciplinaire verslagen (MDV) uitgevoerd door de multidisciplinaire teams (MDT)"},"beschrijving":{"nl":"<div>Multidisciplinaire teams (MDT’s) worden vergoed volgens een modulair systeem dat de verschillende onderdelen of modules van het multidisciplinaire verslag (MDV) in rekening brengt.</div>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>BVR van 24/07/1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams agentschap voor personen met een Handicap</p>"},"bevoegdeOverheden":[{"id":"OVO000060","@id":"OVO000060"}],"voorwaarden":[{"beschrijving":{"nl":"<div>De vergoeding gebeurt volgens een modulair systeem dat de verschillende onderdelen of modules van het multidisciplinaire verslag (MDV) in rekening brengt:</div><ul><li>Module A Objectivering handicap</li><li>Module B Objectivering ondersteuningsnood: ZZI</li><li>Module C Objectivering van de dringendheid (checklist prioritering)</li><li>Module D Adviesrapport - Vaststelling van de behoefte aan IMB</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De vergoedingen voor de onderdelen A tot en met D van een multidisciplinair verslag zijn verschillend naargelang de verschillende situaties van aanvragen: aanvraag van een persoon die nog niet erkend is, aanvraag van een persoon die al wel erkend is, gecombineerde aanvragen.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:45:12.39279041Z","laatstGewijzigd":"2023-05-05T18:05:07.842785238Z","laatstOntvangen":"2023-05-05T18:05:07.842785238Z","productnummer":"2472","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e8a27acb-b5ce-4990-9b9c-e2c99fe39411","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cf51ee80-846b-4dd5-add8-f66fd83dec96"},{"id":"1d364587-d239-4f29-814f-adb42e4aaf94","generatedAtTime":"2023-05-08T13:57:59.378172Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies in het kader van Rechtstreeks Toegankelijke Hulp: subsidies aan vergunde zorgaanbieders voor rechtstreeks toegankelijke hulp voor personen met een handicap."},"beschrijving":{"nl":"<div>Rechtstreeks toegankelijke hulp (RTH) is beperkte, handicapspecifieke ondersteuning in de vorm van begeleiding, dagopvang of verblijf voor wie af en toe hulp nodig heeft.</div>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>BVR van 22/02/2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap.</p>"},"bevoegdeOverheden":[{"id":"OVO000060","@id":"OVO000060"}],"voorwaarden":[{"beschrijving":{"nl":"<div>Voor rechtstreeks toegankelijke hulp moet geen aanvraag ingediend worden bij het VAPH of de intersectorale toegangspoort. Personen met een (vermoeden van) handicap kunnen rechtstreeks contact opnemen met een zorgaanbieder.</div><div> </div><div>Het VAPH erkent en subsidieert de aanbieders van rechtstreeks toegankelijke hulp.</div>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"websites":[{"naam":{"nl":"VAPH - Hulpmiddelen en aanpassingen"},"url":"https://www.vaph.be/hulpmiddelen/algemeen","@type":"Website","order":0}],"creatie":"2023-03-24T06:45:12.555639753Z","laatstGewijzigd":"2023-05-05T18:05:08.019034222Z","laatstOntvangen":"2023-05-05T18:05:08.019034222Z","productnummer":"2473","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1d364587-d239-4f29-814f-adb42e4aaf94","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/59a58289-f29b-43a5-9d64-99852547090f"},{"id":"6e5dd8eb-2a08-4172-ae87-57a479290cf7","generatedAtTime":"2023-05-08T13:57:59.280141Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie"},"beschrijving":{"nl":"<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2023-03-24T06:45:13.877810941Z","laatstGewijzigd":"2023-05-05T18:05:20.930910975Z","laatstOntvangen":"2023-05-05T18:05:20.930910975Z","productnummer":"2535","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6e5dd8eb-2a08-4172-ae87-57a479290cf7","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6a7a9052-4077-432f-873d-83f103647385"},{"id":"e782355b-4829-4fb9-8627-4d48368a4bbf","generatedAtTime":"2023-05-08T13:57:59.210441Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Circusdecreet van 1 maart 2019: Internationale Reistoelage Circuskunsten"},"beschrijving":{"nl":"<p>Deze dienst is actief.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet houdende een circusbeleid van 1 maart 2019</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-03-24T06:45:13.993367953Z","laatstGewijzigd":"2023-05-05T18:05:25.412363677Z","laatstOntvangen":"2023-05-05T18:05:25.412363677Z","productnummer":"2556","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e782355b-4829-4fb9-8627-4d48368a4bbf","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc9fb27a-ccc9-4cb7-9cb3-5a2eaf4ac6e9"},{"id":"cc031a09-27d9-4b81-b0a8-8c22f8948805","generatedAtTime":"2023-05-08T13:57:59.172938Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Energieprestatiecertificaat"},"beschrijving":{"nl":"<p>Een energieprestatiecertificaat (EPC) is een document dat toont hoe <strong>energiezuinig</strong> een gebouw(eenheid) is. Zo vindt u op uw EPC informatie over hoe goed de gebouw(eenheid) geïsoleerd is, welke beglazing aanwezig is, hoe zuinig de verwarming is en de installatie voor warm water, …</p><p>Op het EPC staan ook aanbevelingen om de gebouw(eenheid) energiezuiniger te maken, want samen streven we naar een energiezuinig gebouwenpark.</p><p>Het Vlaamse gebouwenpark is erg divers. Om de informatie uit het <strong>EPC op maat</strong> van de gebouw(eenheid) te kunnen aanbieden, krijgt elk type gebouw(eenheid) dan ook een eigen gepast EPC.</p>"},"type":"Bewijs","themas":["MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"creatie":"2023-03-24T06:45:14.345476656Z","laatstGewijzigd":"2023-05-05T18:15:17.341380879Z","laatstOntvangen":"2023-05-05T18:15:17.341380879Z","productnummer":"2793","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cc031a09-27d9-4b81-b0a8-8c22f8948805","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3648934d-b08d-4c2a-b6f8-cbaa6eca507b"},{"id":"d8a6b9a4-eaa9-4cce-b59f-78e27ae3876c","generatedAtTime":"2023-05-08T13:57:59.122147Z","naam":{"nl":"Product test Yves"},"beschrijving":{"nl":"<p>Test inleiding</p>"},"type":"AdviesBegeleiding","doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002949","@id":"OVO002949"}],"kosten":[{"beschrijving":{"nl":"<p>test kost beschrijving</p>"},"naam":{"nl":"test kost"},"@type":"Kost","order":0}],"creatie":"2023-03-09T16:20:35.583242871Z","laatstGewijzigd":"2023-05-05T18:15:22.640770437Z","laatstOntvangen":"2023-05-05T18:15:22.640770437Z","productnummer":"2822","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d8a6b9a4-eaa9-4cce-b59f-78e27ae3876c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2d9d1083-3c7d-4574-a888-9bf8f7a7dcb1"},{"id":"009b50f3-02b4-453d-a88b-b1a94426d9f6","generatedAtTime":"2023-05-08T13:57:58.98991Z","naam":{"nl":"Premie 1 minimaal","en":"Premium 1 minimal"},"beschrijving":{"nl":"<p>Dit gaat over de eerste premie. Enkel de verplichte velden van de premie zijn ingevuld. </p>","en":"<p>This is the first premium. Only the obligatory fields are filled in.</p>"},"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE","BE1"],"bevoegdeOverheden":[{"id":"OVO000357","@id":"OVO000357"}],"creatie":"2023-03-09T16:20:48.534971095Z","laatstGewijzigd":"2023-05-05T18:15:23.128063107Z","laatstOntvangen":"2023-05-05T18:15:23.128063107Z","productnummer":"2825","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/009b50f3-02b4-453d-a88b-b1a94426d9f6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/86b07be2-d904-40f5-a8d3-0acaed715921"},{"id":"13ec5220-2cb3-4b53-b4d0-8c56bf95e9c3","generatedAtTime":"2023-05-08T13:57:58.974746Z","naam":{"nl":"Premie 3 - verplicht + thematische gebieden","en":"Premium 3 - obligatory + your europe category"},"beschrijving":{"en":"<p>Introduction of a minimal premium with your europe category.</p>","nl":"<p>Inleiding van minimale premie met thematische gebieden.</p>"},"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE"],"yourEuropeCategorieen":["ConsumentenrechtenNutsvoorzieningen"],"bevoegdeOverheden":[{"id":"OVO000110","@id":"OVO000110"}],"creatie":"2023-03-09T16:15:37.363667229Z","laatstGewijzigd":"2023-05-05T18:15:23.361395465Z","laatstOntvangen":"2023-05-05T18:15:23.361395465Z","productnummer":"2827","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/13ec5220-2cb3-4b53-b4d0-8c56bf95e9c3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/03418520-49a0-435b-8c8c-30b368709739"},{"id":"a5377da2-7d19-4a1b-a9d9-16fd0e453062","generatedAtTime":"2023-05-08T13:57:58.969591Z","bevoegdBestuursniveaus":["Europees"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"en":"Test volledige instantie engels","nl":"Subsidies ontwikkelingssamenwerking in Vlaanderen"},"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Deze subsidies worden aangewend voor acties in Vlaanderen, met als doel de Vlaamse bevolking te betrekken bij de internationale ontwikkelingsagenda. Dit gebeurt via werkingssubsidies aan actoren met een groot publieksbereik.</p><p> </p>"},"verdereBeschrijving":{"nl":"<p>Voor verschillende organisaties, die zich inzetten voor ontwikkelingssamenwerking, worden loonsubsidies verleend. Verder wordt er aan vzw VVOB (Vlaamse Vereniging voor Ontwikkelingssamenwerking en technische Bijstand), een nominatim financiering verleend. Vlaanderen zet ook in op inclusieve financiering.</p>","en":"<p>Test volledige instantie engels</p>"},"startDienstVerlening":"2022-10-05T12:00:00Z","eindeDienstVerlening":"2023-02-24T12:00:00Z","type":"Bewijs","themas":["BurgerOverheid","MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur","Vereniging"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","en":"<p>Test volledige instantie en</p>"},"uitzonderingen":{"en":"<p>Test volledige instantie en</p>","nl":"<p>Verder wordt er aan vzw VVOB (Vlaamse Vereniging voor Ontwikkelingssamenwerking en technische Bijstand), een nominatim financiering verleend. Vlaanderen zet ook in op inclusieve financiering.</p>"},"zoektermen":{"en":["hotten"],"nl":["hotten"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"uitvoerendeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Zie voorwaarden in </p><p>Uitgavendecreet</p>"},"naam":{"nl":"Voorwaarden","en":"Requirements"},"bewijs":{"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Dit is de bewijsstukken tekst.</p>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"en":"Procedure","nl":"Procedure"},"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Dit is de procedure tekst.</p>"},"websites":[{"naam":{"nl":"Ontwikkelingssamenwerking van de Vlaamse overheid"},"url":"https://www.fdfa.be/nl/duurzame-ontwikkeling/ontwikkelingssamenwerking","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":0},{"naam":{"en":"English example","nl":"Website voorbeeld"},"url":"http://example.com","@type":"Website","order":1},{"naam":{"en":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":2}],"kosten":[{"beschrijving":{"nl":"<p>Test voor de kosten</p>","en":"<p>Test volledige instantie engels</p>"},"naam":{"en":"Cost","nl":"Kost"},"@type":"Kost","order":0},{"beschrijving":{"nl":"<p>Dit is de tweede kostenbeschrijving</p>"},"naam":{"nl":"Kost 2"},"@type":"Kost","order":1}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Voor verschillende organisaties, die zich inzetten voor ontwikkelingssamenwerking, worden loonsubsidies verleend. Verder wordt er aan vzw VVOB (Vlaamse Vereniging voor Ontwikkelingssamenwerking en technische Bijstand), een nominatim financiering verleend. Vlaanderen zet ook in op inclusieve financiering.</p>"},"naam":{"nl":"Subsidie"},"@type":"FinancieelVoordeel","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:10:40.524328719Z","laatstGewijzigd":"2023-05-05T18:15:22.932403218Z","laatstOntvangen":"2023-05-05T18:15:22.932403218Z","productnummer":"2824","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a5377da2-7d19-4a1b-a9d9-16fd0e453062","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6544b626-f87a-4730-b118-56c55c443227"},{"id":"f081d257-b848-4be5-85a9-902cf2fc22fc","generatedAtTime":"2023-05-08T13:57:58.807969Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"en":"Test 5 - Premium 2 - maximal","nl":"Subsidies voor projectoproepen departement Omgeving binnen het omgevingsbeleid ruimte en milieu"},"beschrijving":{"nl":"<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>","en":"<p>Test 5 - Premium 2 - maximal</p>"},"verdereBeschrijving":{"nl":"<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>","en":"<p>Test 5 - Premium 2 - maximal</p>"},"startDienstVerlening":"2022-11-14T12:00:00Z","eindeDienstVerlening":"2023-05-18T12:00:00Z","type":"Bewijs","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>","en":"<p>Test 5 - Premium 2 - maximal</p>"},"uitzonderingen":{"nl":"<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>","en":"<p>Test 5 - Premium 2 - maximal</p>"},"bevoegdeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"uitvoerendeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>","en":"<p>Test 5 - Premium 2 - maximal</p>"},"naam":{"nl":"Voorwaarden","en":"Requirements"},"bewijs":{"beschrijving":{"nl":"<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>","en":"<p>Test 5 - Premium 2 - maximal</p>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"en":"Procedure","nl":"Procedure"},"beschrijving":{"nl":"<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>","en":"<p>Test 5 - Premium 2 - maximal</p>"},"websites":[{"naam":{"en":"Starterscontract","nl":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"en":"Starterscontract","nl":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>","en":"<p>Test 5 - Premium 2 - maximal</p>"},"naam":{"en":"Cost","nl":"Kost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:20:30.341224598Z","laatstGewijzigd":"2023-05-05T18:15:23.854435971Z","laatstOntvangen":"2023-05-05T18:15:23.854435971Z","productnummer":"2837","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f081d257-b848-4be5-85a9-902cf2fc22fc","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4a84cd58-7b91-4ded-9621-1fdc9c395a11"},{"id":"ce36a36d-51df-4986-ace2-4d92eec08175","generatedAtTime":"2023-05-08T13:57:58.785301Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor het lokaal sportbeleid"},"beschrijving":{"nl":"<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p><p> </p><p>Maximaal</p><p><a href=\"https://www.gamingcommission.be/sites/default/files/2021-02/vergunningC.pdf\">Testlink</a></p>"},"verdereBeschrijving":{"nl":"<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"},"startDienstVerlening":"2023-02-10T12:00:00Z","eindeDienstVerlening":"2023-04-20T12:00:00Z","type":"AdviesBegeleiding","themas":["BurgerOverheid"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"},"uitzonderingen":{"nl":"<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"},"zoektermen":{"nl":["'s nachts","4-punten-isolatietest","A attest"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"uitvoerendeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"},"websites":[{"naam":{"nl":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Lage-emissiezone Gent"},"url":"https://stad.gent/nl/mobiliteit-openbare-werken/lage-emissiezone","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:30:38.823887115Z","laatstGewijzigd":"2023-05-05T18:15:24.178257444Z","laatstOntvangen":"2023-05-05T18:15:24.178257444Z","productnummer":"2845","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ce36a36d-51df-4986-ace2-4d92eec08175","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/48f08219-31d2-4056-861e-9daf4f6e2c2e"},{"id":"464de237-f6d8-4310-baef-d74491d02da8","generatedAtTime":"2023-05-08T13:57:58.777483Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Europees"],"naam":{"nl":"Subsidie bevordering dierenwelzijn en steun dierenasielen"},"beschrijving":{"nl":"<p>De afdeling Dierenwelzijn voorziet in een structurele ondersteuning van Vlaamse dierenasielen die voldoen aan bepaalde criteria. Daarnaast wordt een compensatieregeling voorzien voor pelsdierhouderijen of producenten van foie gras die hun activiteiten stopzetten. Tot slot worden op ad hoc basis subsidies verleend aan specifieke dierenwelzijnsprojecten van onderzoeksinstellingen of vzw’s.</p><p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"},"verdereBeschrijving":{"nl":"<p>Dit is de verdere beschrijving tekst</p>"},"type":"Voorwerp","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Dit is de regelgeving</p>"},"uitzonderingen":{"nl":"<p>Dit zijn de uitzonderingen</p>"},"zoektermen":{"nl":["testzoekterm","afsprakenbeheer prenatale consultaties","12 december","be","*acties","1/10 ouderschapsverlof","-buitenland; -buitenlander","testterm"]},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Dit zijn de voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Dit zijn de bewijsstukken</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Dit is de beschrijving van de procedure</p>"},"websites":[{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":0},{"naam":{"nl":"Link naar kiosk"},"url":"https://www.cjm.be/kiosk","@type":"Website","order":1}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Departement Cultuur, Jeugd en Media"},"url":"https://www.vlaanderen.be/cjm","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Dit is de beschrijving van de kosten</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"},"naam":{"nl":"Financiële voordelen"},"@type":"FinancieelVoordeel","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-15T12:55:06.97857876Z","laatstGewijzigd":"2023-05-05T18:15:24.542979498Z","laatstOntvangen":"2023-05-05T18:15:24.542979498Z","productnummer":"2853","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/464de237-f6d8-4310-baef-d74491d02da8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"},{"id":"d8b1f7f3-ffa9-466c-8072-111332f77252","generatedAtTime":"2023-05-08T13:57:58.592284Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Perencrumble (test 7)"},"beschrijving":{"nl":"<p>Dit is een test.</p><p>Burgers met te veel peren, havermout en speculaas in huis kunnen het teveel aan peer, havermout en speculaas wegwerken door een perencrumble te maken.</p>"},"verdereBeschrijving":{"nl":"<p>Voor het maken van een perencrumble hebt u wel een goed recept nodig.</p>"},"startDienstVerlening":"2023-03-20T12:00:00Z","eindeDienstVerlening":"2024-03-10T12:00:00Z","type":"Toelating","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Beschuit van de Vlaamse Regering</p>"},"uitzonderingen":{"nl":"<p>Hebt u enkel appelen, maar geen peren, dan kunt u enkel een appelcrumble maken.</p>"},"zoektermen":{"nl":["crumble"]},"bevoegdeOverheden":[{"id":"OVO000474","@id":"OVO000474"}],"uitvoerendeOverheden":[{"id":"OVO002209","@id":"OVO002209"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U hebt de volgende ingrediënten nodig:</p><ul><li>150 g bloem</li><li>150 g donkerbruine suiker</li><li>75 g havermout</li><li><p>150 g speculaas</p></li><li><p>150 g boter</p></li><li>6 harde peren (type Conference)</li><li>een halve citroen</li><li>75 g blonde rozijnen</li><li>1,5 vanillestok</li><li>1,5 koffielepel speculaaskruiden</li><li>roomijs</li></ul>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<ul><li>horecavergunning</li></ul>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Verwarm de oven voor tot 200 °C.</p><p>Schil de peren en snijd ze in blokjes. Leg ze in een ovenschaal en besprenkel ze met citroensap.</p><p>Doe er de rozijnen bij. Wie wil kan er eventueel wat gehakte noten aan toevoegen.</p><p>Snijd de vanillestok in de lengte open. Schraap er de zaadjes uit en meng ze door de peren. Voeg er de speculaaskruiden aan toe en meng alles goed door elkaar. Hebt u geen speculaaskruiden? Neem dan kaneelpoeder.</p><p><strong>Crumbledeeg</strong></p><p>Meng de bloem met de bruine suiker en de havermout.</p><p>Verkruimel de speculaas in de vijzel en doe hem bij het mengsel.</p><p>Snijd de koude boter in stukjes en wrijf ze door het deeg zodat je crumble krijgt.</p><p>Strooi de crumble over het fruit.</p><p>Zet 25 minuten in de voorverwarmde oven.</p><p>Serveer de crumble warm met een bolletje ijs.</p>"},"websites":[{"naam":{"nl":"Tweeperenboom"},"url":"https://tweeperenboom.be","@type":"Website","order":0},{"naam":{"nl":"Taaladvies.net: Dronk / drink / borrel / receptie"},"url":"https://taaladvies.net/dronk-of-drink-of-borrel-of-receptie","@type":"Website","order":1}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Taaladvies.net: Dronk / drink / borrel / receptie"},"url":"https://taaladvies.net/dronk-of-drink-of-borrel-of-receptie","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>De ingrediënten hebt u al, dus er zijn weinig kosten aan.</p>"},"naam":{"nl":"Prijs van ingrediënten"},"@type":"Kost","order":0},{"beschrijving":{"nl":"<p>Uw oven werkt op gas, zegt u? Aiiiiii...</p>"},"naam":{"nl":"Energieverbruik"},"@type":"Kost","order":1}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Alles samen hebben de ingrediënten en het energieverbruik u waarschijnlijk meer gekost dan de prijs van een taartje bij uw bakker. Maar u bespaart zich wel het lange wachten aan de toog.</p>"},"naam":{"nl":"Besparing"},"@type":"FinancieelVoordeel","order":0},{"beschrijving":{"nl":"<p>Hey, als het lekker smaakt, waarom niet een eigen winkeltje beginnen?</p>"},"naam":{"nl":"Business opportunities"},"@type":"FinancieelVoordeel","order":1}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015383&param=informatie&ref=search&AVIDS=1082977","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015383&param=informatie&ref=search&AVIDS=1082977","@type":"Regelgeving","order":0},{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018306&param=informatie&ref=search&AVIDS=1141597","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018306&param=informatie&ref=search&AVIDS=1141597","@type":"Regelgeving","order":1}],"creatie":"2023-03-22T09:25:06.585773791Z","laatstGewijzigd":"2023-05-05T18:15:24.986758214Z","laatstOntvangen":"2023-05-05T18:15:24.986758214Z","productnummer":"2854","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d8b1f7f3-ffa9-466c-8072-111332f77252","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bc4256dc-5a8f-42c4-8442-6be2d2f8f0df"},{"id":"7d5b0c89-67b1-4011-ba92-7067f409518e","generatedAtTime":"2023-05-08T13:57:58.592102Z","naam":{"nl":"p3b"},"beschrijving":{"nl":"<p>tet</p>"},"geografischToepassingsgebieden":["BE1"],"bevoegdeOverheden":[{"id":"OVO008742","@id":"OVO008742"}],"creatie":"2023-05-04T14:35:14.901393287Z","laatstGewijzigd":"2023-05-05T18:15:25.422527196Z","laatstOntvangen":"2023-05-05T18:15:25.422527196Z","productnummer":"2857","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7d5b0c89-67b1-4011-ba92-7067f409518e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/09874b68-7ae0-4232-810b-e50556e1fada"},{"id":"3d88579b-6bc4-4e90-ba7b-09c6eae9a5d0","generatedAtTime":"2023-05-08T13:57:58.574769Z","naam":{"nl":"p2b"},"beschrijving":{"nl":"<p>tet</p>"},"geografischToepassingsgebieden":["BE1"],"bevoegdeOverheden":[{"id":"OVO008742","@id":"OVO008742"}],"creatie":"2023-05-04T14:35:14.771027011Z","laatstGewijzigd":"2023-05-05T18:15:25.263894385Z","laatstOntvangen":"2023-05-05T18:15:25.263894385Z","productnummer":"2856","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3d88579b-6bc4-4e90-ba7b-09c6eae9a5d0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e907f8e3-2445-465a-97d6-649df19ed81a"},{"id":"6e207b99-2162-45c8-b985-bce823bc5b21","generatedAtTime":"2023-05-08T13:54:47.185057Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor projecten van armoedebestrijding"},"beschrijving":{"nl":"<p>Het armoededecreet voorziet in de subsidiëring van projecten met een experimenteel, aanvullend en/of vernieuwend karakter. Ze zijn vernieuwend qua doelgroep, processen en methodieken. De subsidies zijn bedoeld om maatschappelijk relevante projecten tijdelijk te ondersteunen op het vlak van personeels- en werkingskosten. </p><p> </p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Vlaams armoededecreet</p>"},"zoektermen":{"nl":["armoede","armoedebestrijding","bestrijding","projecten","subsidies","subsidiëring"]},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>De bevoegde Vlaamse minister lanceert af en toe (niet jaarlijks) een oproep om voorstellen in te dienen rond de bestrijding van een bepaald type armoede (bijvoorbeeld kinderarmoede).</p><p><a href=\"https://armoede.vlaanderen.be/projecten\">Meer informatie over de projectoproep en het aanvraagformulier</a> vindt u op de website armoede.vlaanderen.be.</p><p>De resultaten van deze projecten moeten na een positieve evaluatie op termijn implementeerbaar worden in andere beleidsdomeinen</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:10:33.433167121Z","laatstGewijzigd":"2023-05-05T17:25:27.507063976Z","laatstOntvangen":"2023-05-05T17:25:27.507063976Z","productnummer":"328","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6e207b99-2162-45c8-b985-bce823bc5b21","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/23204d0e-226b-4373-95dc-4266ccc8f03a"},{"id":"306df70a-6abd-4a47-8076-14bda2188214","generatedAtTime":"2023-05-08T13:54:47.152777Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor schoolfruit, schoolgroenten en schoolmelk"},"beschrijving":{"nl":"<p>Basisscholen en scholen voor buitengewoon secundair onderwijs kunnen een subsidie krijgen als ze schoolfruit, schoolgroenten en/ of schoolmelk verdelen onder de leerlingen.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"zoektermen":{"nl":["fruit","gezonde voeding op school","kind","leerling","premie","scholen","school","schoolfruit","steun","schoolmelk","zuivel","melk op school","melk in de klas"]},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p><a href=\"https://lv.vlaanderen.be/nl/subsidies/scholen/schoolfruit-groenten-en-melk\" target=\"_blank\">Meer informatie over de procedure om deel te nemen, de subsidie bedragen en de steunaanvraag</a> vindt u op de website van het Departement Landbouw en Visserij.</p><p> </p><p>Op de campagnewebsite oogvoorlekkers.be vindt u onder meer <a href=\"https://www.oogvoorlekkers.be/lesmateriaal\"><u>het aanbod aan educatieve hulpmiddelen</u></a>.</p><p> </p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Subsidie voor schoolfruit, schoolgroenten en schoolmelk"},"url":"https://lv.vlaanderen.be/nl/subsidies/scholen/schoolfruit-groenten-en-melk","@type":"Website","order":0}],"creatie":"2023-03-21T15:35:24.273623552Z","laatstGewijzigd":"2023-05-05T16:55:34.024719684Z","laatstOntvangen":"2023-05-05T16:55:34.024719684Z","productnummer":"382","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/306df70a-6abd-4a47-8076-14bda2188214","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7b68cdf4-d8be-4a55-99df-a64972ab01d6"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=196",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=195",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-08T13:54:47.152777Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=197",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-08T13:58:00.008861Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=196",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "2637217f-07b0-42f8-a759-a01a53ab7d9d",
+      "generatedAtTime": "2023-05-08T13:58:00.008861Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Premie investeringssteun na uitvoering van een energieaudit in niet-residentiële gebouwen aangesloten op het plaatselijk vervoernet van elektriciteit"
+      },
+      "beschrijving": {
+        "nl": "<p>Voor energiebesparende investeringen in niet-woongebouwen geeft Elia investeringssteun wanneer een energiestudie of energieaudit aantoont dat de investeringen een belangrijke energiebesparing opleveren en een terugverdientermijn hebben die langer is dan 2 jaar. Deze premie geldt enkel voor klanten van Elia, de beheerder van het plaatselijk vervoernet van elektriciteit.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Energiebesluit van 19 november 2010</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:09.903937172Z",
+      "laatstGewijzigd": "2023-05-05T18:00:31.319310633Z",
+      "laatstOntvangen": "2023-05-05T18:00:31.319310633Z",
+      "productnummer": "2431",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2637217f-07b0-42f8-a759-a01a53ab7d9d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ddb1e07d-4d87-436f-963f-81fdfb1c9ba4"
+    },
+    {
+      "id": "a843b0a4-6a2b-4819-b344-513ec9839000",
+      "generatedAtTime": "2023-05-08T13:57:59.988293Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Gendergerelateerd geweld"
+      },
+      "beschrijving": {
+        "nl": "<p>Onder gendergerelateerd geweld vallen drie kernzaken:</p><p>- ketenaanpak intrafamilaal geweld = De Ketenaanpak Intrafamiliaal Geweld is een samenwerking tussen politie en parket, hulpverlening en bestuur. Door samen te werken pakken ze intrafamiliaal geweld op een <strong>multidisciplinaire manier</strong> aan. </p><p>- Vlaams actieplan seksueel geweld = Het Vlaams actieplan seksueel geweld wil de noden van slachtoffers van seksueel geweld beantwoorden en nieuwe slachtoffers voorkomen. Het plan zet in op preventie en gepaste maatregelen voor daders en slachtoffers. Daarnaast investeert het in kwaliteitsvolle hulpverlening.</p><p>- erkennings -en bemiddelingscommissie historisch misbruik = De erkennings- en bemiddelingscommissie historisch misbruik geeft slachtoffers van geweld en misbruik erkenning voor wat hen werd aangedaan. Het gaat om gevallen van misbruik die minstens 10 jaar geleden plaatsvonden.</p><p><a href=\"https://www.vlaanderen.be/agentschap-justitie-en-handhaving/justitie/gendergerelateerd-geweld\">Meer info</a> op de website van agentschap J&amp;H</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO049871",
+          "@id": "OVO049871"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:10.313597021Z",
+      "laatstGewijzigd": "2023-05-05T18:00:35.987196023Z",
+      "laatstOntvangen": "2023-05-05T18:00:35.987196023Z",
+      "productnummer": "2451",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a843b0a4-6a2b-4819-b344-513ec9839000",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/70307156-39c6-46ad-9ce0-dfb430e99e68"
+    },
+    {
+      "id": "1a4b017a-fc2a-42cf-828b-21c8e65499b3",
+      "generatedAtTime": "2023-05-08T13:57:59.834535Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal",
+        "Vlaams",
+        "Provinciaal",
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Wettelijke hypotheek op onroerende goederen"
+      },
+      "beschrijving": {
+        "nl": "<p>Een wettelijke hypotheek bestaat van rechtswege, krachtens de wet zelf, vanaf het ogenblik dat een belastingschuld is ontstaan, dus niet vanaf het ogenblik van de inschrijving.</p><p>De belastingwetten stellen een hypotheek in ten gunste van de schatkist. De belastingontvanger kan zonder instemming een hypotheek nemen op eigendom(men) van nalatige belastingschuldenaars. De inschrijving van de hypotheek beoogt de ranginname en het tegenstelbaar maken van de wettelijke hypotheek jegens derden.</p>"
+      },
+      "type": "FinancieleVerplichting",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO005190",
+          "@id": "OVO005190"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:12.009517277Z",
+      "laatstGewijzigd": "2023-05-04T12:41:17.658956817Z",
+      "laatstOntvangen": "2023-05-04T12:41:17.658956817Z",
+      "productnummer": "2456",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1a4b017a-fc2a-42cf-828b-21c8e65499b3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e6df1670-d2bd-42e9-933e-23e4899cf39d"
+    },
+    {
+      "id": "e8e9c648-92c9-4eda-ab66-fcf2ced5982c",
+      "generatedAtTime": "2023-05-08T13:57:59.830496Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal",
+        "Vlaams",
+        "Provinciaal",
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Bewarend en uitvoerend onroerend beslag"
+      },
+      "beschrijving": {
+        "nl": "<p>De overheid kan als schuldeiser onroerende goederen in beslag nemen. Dat kan op twee manieren;</p><ul><li>uitvoerend onroerend beslag</li><li>bewarend onroerend beslag.</li></ul>"
+      },
+      "type": "FinancieleVerplichting",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO005190",
+          "@id": "OVO005190"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<h3>Uitvoerend onroerend beslag</h3><p>Het onroerend goed wordt gedwongen verkocht. De opbrengst van die verkoop komt toe aan de schuldeiser. Dit is enkel mogelijk wanneer de schuldeiser beschikt over een vonnis van een rechter of een ander document met dezelfde rechtskracht bv. notariële akte (in geval van hypotheek bij een bank) of dwangbevel.</p><h3>Bewarend beslag</h3><p>Bewarend beslag is een preventieve maatregel die de schuldeiser neemt om te verhinderen dat uw vermogen zou verminderen. De onroerende goederen waarop beslag wordt gelegd blijven uw eigendom en u kunt ze ook verder blijven gebruiken. Ze komen dus niet toe aan uw schuldeiser. Het bewarend beslag heeft wel voor gevolg dat u uw goederen niet mag verkopen of wegschenken. Als u blijvend uw schuldeiser niet betaalt, kan een bewarend beslag finaal omgezet worden in een uitvoerend beslag.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:45:12.133360582Z",
+      "laatstGewijzigd": "2023-05-04T12:41:17.942936712Z",
+      "laatstOntvangen": "2023-05-04T12:41:17.942936712Z",
+      "productnummer": "2457",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e8e9c648-92c9-4eda-ab66-fcf2ced5982c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3ac56c8b-4aa6-4a43-b011-2cc7edf96e13"
+    },
+    {
+      "id": "bc38d226-d0e6-4102-9670-5bf082cd8e9f",
+      "generatedAtTime": "2023-05-08T13:57:59.724629Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal",
+        "Vlaams",
+        "Provinciaal",
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Gedwongen verkoop van onroerende goederen"
+      },
+      "beschrijving": {
+        "nl": "<p>De overheid kan als schuldeiser een onroerend goed toebehorend aan een schuldenaar gedwongen laten verkopen wanneer:</p><ul><li>een uitvoerend onroerend beslag op het onroerend goed is gelegd</li><li>een wettelijke hypotheek op het onroerend goed is gevestigd.</li></ul>"
+      },
+      "type": "FinancieleVerplichting",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO005190",
+          "@id": "OVO005190"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:12.257292261Z",
+      "laatstGewijzigd": "2023-05-04T12:41:18.172088601Z",
+      "laatstOntvangen": "2023-05-04T12:41:18.172088601Z",
+      "productnummer": "2459",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bc38d226-d0e6-4102-9670-5bf082cd8e9f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e8412296-5f97-4453-a551-91a453851170"
+    },
+    {
+      "id": "c68ca0df-2031-4755-af7e-48aab0122b80",
+      "generatedAtTime": "2023-05-08T13:57:59.672012Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Call groene stroom: 2022 call 2"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze call omvat zowel subcall 1 (drijvende PV-installaties, PV installaties op marginale gronden en kleine en middelgrote windturbines) als subcall 2 (overige PV-installaties).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>De subsidieregeling wordt geregeld door enerzijds een <strong>Besluit van de Vlaamse Regering</strong>, dat de contouren en bepalingen van de steunregeling vastlegt, en anderzijds door een <strong>ministerieel besluit</strong> dat voor elke call de nadere regels vastlegt. Beide vormen voor elke call het zogenaamd <strong>subsidiereglement </strong>waaraan u moet voldoen. </p><ul><li>Calls 2022: <a href=\"https://codex.vlaanderen.be/PrintDocument.ashx?id=1019755&amp;datum=&amp;geannoteerd=false&amp;print=false#H1088375\">Besluit van de Vlaamse Regering van 10 december 2021 tot wijziging van het Energiebesluit van 19 november 2010</a></li><li>Call 2, 2022: Met het <a href=\"https://assets.vlaanderen.be/image/upload/v1651577286/Ministerieel_besluit_tot_wijziging_van_het_ministerieel_besluit_van_28_januari_2022_houdende_de_organisatie_van_calls_voor_het_jaar_2022_uyxwrs.pdf\">ministerieel besluit van 26 april 2022</a> wijzigt de minister van energie het ministerieel besluit houdende de organisatie van calls voor het jaar 2022 voor call 2 van 2022. Beiden ministeriële besluiten moeten samen gelezen worden om het geheel van voorwaarden te hebben. Het ministerieel besluit van 26 april 2022 is nog niet gepubliceerd in het Belgisch Staatsblad. Vanaf publicatie wordt het van kracht. </li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>De tweede call van 2022 loopt<ul><li>van <strong>14 juni 2022 </strong>om 9 uur<strong> </strong></li><li>tot en met<strong> 28 juni 2022 </strong>om 16 uur. </li></ul></li><li>De installaties die in aanmerking komen voor de tweede call zijn <ul><li>subcall 1: drijvende PV-installaties, PV installaties op marginale gronden en kleine en middelgrote windturbines</li><li>subcall 2: overige PV-installaties</li></ul></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<h3>Digitale aanvraag voorbereiden</h3><p>Om een digitale aanvraag succesvol in te dienen, hebt u enkele <strong>documenten </strong>nodig. Het gaat hierbij om documenten die u moet consulteren en documenten die u moet invullen, ondertekenen en opladen in het digitaal aanvraagformulier.</p><p>Meer informatie over het raadplegen en invullen van de documenten, vindt u in de <strong>‘<a href=\"https://assets.vlaanderen.be/image/upload/v1679672646/Interactieve_handleiding_voor_de_Call_Groene_Stroom_z1ihuj.pdf\">Interactieve handleiding voor de Call groene stroom</a>’.</strong></p><ul><li>Toelichting bij het begrip ‘onderneming’ binnen de call: zie handleiding ‘Bijlage C: een onderneming als aanvrager’</li><li><a href=\"https://assets.vlaanderen.be/raw/upload/v1653046448/Call_PV_KWT_rekenmethode_wind_berekeningsexcel_beveiligd_0_4_bpkulk.xlsx\">Excel-rekenmodule voor kleine en middelgrote windturbines</a>: zie handleiding ‘Bijlage K: berekening van de jaarlijkse energieopbrengst van een Windturbines’</li><li><a href=\"https://re.jrc.ec.europa.eu/pvg_tools/en/#PVP\" rel=\"noreferrer noopener\" target=\"_blank\">PVGIS</a>: zie handleiding ‘Bijlage I: berekening van de jaarlijkse energieopbrengst van een PV-installatie’</li><li><a href=\"https://eservices.minfin.fgov.be/ecad-web/#\" rel=\"noreferrer noopener\" target=\"_blank\">CadGis</a>: zie handleiding ‘Bijlage G: adres en kadastraal perceel installatie’</li><li><a href=\"https://assets.vlaanderen.be/raw/upload/v1651573209/Verklaring_op_eer_-_geen_onderneming_in_moeilijkheden_bs3tuf.docx\" rel=\"noreferrer noopener\" target=\"_blank\">Verklaring op eer: geen onderneming in moeilijkheden</a>: zie handleiding ‘Bijlage C: een onderneming als aanvrager’</li><li><a href=\"https://financien.belgium.be/nl/betalingen/e-depo\" rel=\"noreferrer noopener\" target=\"_blank\">E-depo</a>: zie handleiding ‘Bijlage N: de deposito- en consignatiekas’</li><li><a href=\"https://myebox.be/nl\">My e-box</a>: zie handleiding ‘Bijlage D: e-box, het beveiligde, snelle en digitale communicatiemiddel met de aanvrager’</li></ul><h3>Het Digitaal aanvraagformulier invullen en indienen</h3><p>Vanaf alle documenten correct zijn ingevuld en ondertekend, kunt u een <a href=\"https://energieportaal.vlaanderen.be\">subsidieaanvraag indienen via het Energieportaal</a>. Meer informatie over het invullen van het aanvraagformulier kunt u terugvinden in <strong>‘<a href=\"https://assets.vlaanderen.be/image/upload/v1679672646/Interactieve_handleiding_voor_de_Call_Groene_Stroom_z1ihuj.pdf\">Interactieve handleiding voor de Call groene stroom</a>’.</strong></p><h3>Na de betekening van de steunaanvraag</h3><h4>Het stellen van een borg</h4><p>De eerstvolgende belangrijkste stap voor winnende projectaanvragers is het tijdig bezorgen van het <strong>bewijs van de gestelde borg</strong>. Dit gebeurt digitaal via het Energieportaal. </p><p>De termijn voor het stellen van een borg en het bezorgen van bewijs is<strong> 60 dagen</strong>.</p><h4>Het stellen van de indienstname</h4><p>Voordat u de uitbetaling van de toegekende steun kan aanvragen, moet u de indienstname van de gesteunde installatie aanmelden. Het bewijs van de indienstname moet uiterlijk <strong>30 dagen</strong> na de indienstname van de installatie doorgegeven worden aan het VEKA. Dit doet u door de indienstname aan te melden in het energieportaal.</p><p>Projecten op basis van zonne-energie moeten uiterlijk binnen <strong>18 maanden</strong> na de datum van de betekening van de steun in dienst genomen zijn. Projecten op basis van windenergie moeten binnen 24 maanden in dienst genomen zijn</p><h3>De digitale aanvraag tot uitbetaling invullen en indienen</h3><p>Eens de indienstname ingediend is, kunt u een <a href=\"https://energieportaal.vlaanderen.be\">aanvraag tot uitbetaling indienen via het Energieportaal</a>. Meer informatie over het invullen van de aanvraag tot uitbetaling kan u terugvinden in <strong>‘<a href=\"https://assets.vlaanderen.be/image/upload/v1679672646/Interactieve_handleiding_voor_de_Call_Groene_Stroom_z1ihuj.pdf\">Interactieve handleiding voor de Call groene stroom</a>’.</strong></p><ul></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li><p>Subcall 1 heeft een budget van 500.000 euro.</p></li><li><p>Subcall 2 heeft een budget van 9.500.000 euro. </p></li></ul><h3> </h3>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:48.737757191Z",
+      "laatstGewijzigd": "2023-05-04T12:41:03.128423599Z",
+      "laatstOntvangen": "2023-05-04T12:41:03.128423599Z",
+      "productnummer": "2468",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c68ca0df-2031-4755-af7e-48aab0122b80",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/469933f4-e47b-4d9a-aac9-125b76ef0ede"
+    },
+    {
+      "id": "1564cff9-7ded-41c6-aa96-d62735e6ff84",
+      "generatedAtTime": "2023-05-08T13:57:59.640162Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Procedure 1ste call 2022 groene warmte, restwarmte en energie-efficiënte stadsverwarming"
+      },
+      "beschrijving": {
+        "nl": "<p>Bij het aanvragen van steun tijdens een call komt heel wat kijken. Op deze webpagina worden een aantal belangrijke onderdelen overlopen om zo’n steunaanvraag goed te kunnen voorbereiden, indienen en opvolgen. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>De <a href=\"https://www.uat-vlaanderen.be/procedure-groene-warmte-restwarmte-en-energie-efficiente-stadsverwarming/wetgeving-call-groene-warmte\">relevante wetgeving per call</a> is terug te vinden op de pagina ‘Wetgeving call groene warmte’.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<h3>Wanneer kan een steunaanvraag worden ingediend? </h3><p>De eerste call van 2022 staat open tussen 2 mei 2022 en 16 mei 2022. Er kan enkel steun worden aangevraagd tijdens een open call. </p><h3>Wie kan een steunaanvraag indienen?</h3><p>De doelgroep van de call is heel breed, iedereen kan een steunaanvraag indienen, maar door de grootte van de projecten zijn het vooral grotere ondernemingen, besturen of gemeentes die een steunaanvraag indienen.</p><p>Belangrijk voor <strong>ondernemingen</strong>: De steunregeling valt onder de voorwaarden vermeld in de Algemene Groepsvrijstellingsverordening. De aanvrager is verantwoordelijk voor de naleving van de voorwaarden van de Algemene Groepsvrijstellingsverordening. Controleer steeds of u onder <a href=\"https://assets.vlaanderen.be/image/upload/v1656578289/definitie_onderneming_mavl6n.pdf\">de Europese definitie van een onderneming of kmo</a> valt en of u voldoet aan de voorwaarden voor de steunaanvragers.</p><h3>Welke installaties komen in aanmerking voor steun?</h3><p>Om een steunaanvraag te kunnen indienen, moeten installaties voldoen aan enkele algemene voorwaarden. Daarnaast zijn er ook voorwaarden die gelden voor de projecten, afhankelijk van de gebruikte technologieën. </p><p>Alle <a href=\"https://www.uat-vlaanderen.be/procedure-groene-warmte-restwarmte-en-energie-efficiente-stadsverwarming/voorwaarden-voor-projecten-en-installaties-gesteund-via-de-call-groene-warmte\">algemene en specifieke voorwaarden</a> kunt u nalezen op de pagina ‘Voorwaarden projecten en installaties gesteund via de call groene warmte’.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<h3>Digitale aanvraag voorbereiden</h3><p>Om een digitale aanvraag succesvol in te dienen, hebt u enkele <strong>documenten </strong>nodig. Het gaat hierbij om documenten die u moet <strong>consulteren </strong>en documenten die u moet <strong>invullen, ondertekenen en opladen</strong> in het digitaal aanvraagformulier.</p><p>Meer informatie over het raadplegen en invullen van de documenten, vindt u in de ‘<a href=\"https://assets.vlaanderen.be/raw/upload/v1677664809/principeaanvraag_groenewarmte_restwarmte_warmtenet2022_1_dbdw5o.docx\">Handleiding call groene warmte, restwarmte en energie-efficiënte stadsverwarming</a>’.</p><div data-table=\"\"><table data-table-type=\"grid\"><thead><tr><th>Link naar document</th><th>Voor wie?</th></tr></thead><tbody><tr><td>Sjabloon voor de verklaring op eer dat de aanvrager geen onderneming in moeilijkheden is</td><td>Iedereen</td></tr><tr><td>Sjabloon voor de verklaring dat indiener van de steunaanvraag gemachtigd is om de steunaanvraag in te vullen in naam van de aanvrager </td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1677575529/Warmte_en_koude_leveringsplan_pogeja.xlsx\">Sjabloon voor het warmte- en/of koude-leveringsplan van de installatie of de stadsverwarming in de aanvraag</a></td><td>Iedereen</td></tr><tr><td>Sjabloon voor het ingeven van de geschatte investeringskosten voor uw project</td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1677059166/Berekening_IRR_en_exploitatiewinsten_lqvmhh.xlsx\">Sjabloon voor de berekening van de exploitatiewinsten en de IRR over de levensduur van uw installatie</a></td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1651845133/Garantie_warmtetransport_van_warmtebron_naar_stadsverwarming_indnid.docx\">Sjabloon voor de garantie van het warmtetransport aan de stadsverwarming door de leverancier</a></td><td>Energie-efficiënte stadsverwarming of koeling</td></tr><tr><td><a href=\"https://www.energiesparen.be/EPB-pedia/externe-warmtelevering/rekenbladen\">Sjabloon voor de berekening van het aandeel hernieuwbare energiebronnen en/of restwarmte in de inputstroom van stadsverwarming of koeling</a></td><td>Energie-efficiënte stadsverwarming of koeling</td></tr><tr><td>Sjabloon voor de intentieovereenkomst voor warmteafnemers met een geplande afname van &gt; 100 MWh </td><td>Energie-efficiënte stadsverwarming of koeling met afnemers &gt; 100 MWh</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1651845131/DNSH-analyse_wfvz3l.docx\">Sjabloon voor de DNSH-analyse</a></td><td>Iedereen</td></tr></tbody></table></div><h3>Digitaal aanvraagformulier indienen</h3><ul><li>Een steunaanvraag wordt <a href=\"https://apps.energiesparen.be/groene-restwarmte-warmtenetten-2022-2\">ingediend via het online aanvraagformulier</a>.</li><li>Het indienen van een steunaanvraag kan alleen <strong>tijdens een openstaande call</strong>:<ul><li>Enkel aanvragen ingediend wanneer de call geopend is kunnen in aanmerking komen voor steun. </li><li>Wanneer er geen call geopend is, kunt u het formulier testen en een testaanvraag indienen.</li><li>Aanvragen ingediend voor het openen of na het sluiten van de call worden automatisch verwijderd.</li></ul></li><li>Het gebruik van dit aanvraagformulier is <strong>verplicht</strong>. Het formulier moet volledig en correct worden ingevuld.</li><li>Er kan <strong>per installatie hoogstens 1 steunaanvraag</strong> ingediend worden binnen deze call. Er zijn dan ook geen wijzigingen meer mogelijk in de ingediende projectvoorstellen.</li></ul><h3>Na goedkeuring</h3><p>Als de steunaanvraag goedgekeurd werd, brengt het VEKA de aanvrager op de hoogte van de principebeslissing. Vanaf de goedkeuring is het aan de aanvrager om nog enkele zaken in orde te brengen. </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<h3>Steunbedrag</h3><p>Het beschikbare budget is in 2022 call 1 <strong>meer dan 32 miljoen euro</strong>.</p><p>De aanvrager vraagt als steun een percentage aan van de investeringskosten van het project die in aanmerking komen binnen de call. De <strong>in aanmerking komende kosten</strong> worden berekend als de extra investeringskosten van de installatie ten opzichte van de investeringskosten van een referentie-installatie zonder de exploitatiekosten en –baten in rekening te nemen. De kosten moeten bij de uitbetalingsaanvraag altijd gestaafd worden door facturen.</p><p>De steun wordt toegekend in de vorm van een <strong>investeringssubsidie</strong>.</p><h3>Maximaal aan te vragen steunpercentage</h3><p>Het steunpercentage hangt af van het type project, of de aanvrager een onderneming is en van de grootte van de onderneming.</p><ul><li>Nuttige-groenewarmte-installaties en energie-efficiënte warmtenetten met een ontwerptoevoertemperatuur aan productiezijde van <strong>minder dan 70° C</strong><ul><li>65% voor kleine ondernemingen</li><li>55% voor middelgrote ondernemingen</li><li>45% voor grote ondernemingen</li><li>65% voor andere aanvragers.</li></ul></li><li>Benutting van restwarmte en energie-efficiënte warmtenetten met een ontwerptoevoertemperatuur aan productiezijde van <strong>70°C of meer</strong><ul><li>50% voor kleine ondernemingen</li><li>40% voor middelgrote ondernemingen</li><li>30% voor grote ondernemingen</li><li>50% voor andere aanvragers.</li></ul></li></ul><h3>Verdeling subsidiebedrag</h3><p>De ontvankelijke investeringsprojecten worden op een objectieve wijze beoordeeld en vervolgens gerangschikt. Deze <strong>rangschikking </strong>gebeurt op basis van twee elementen: kostenefficiëntie en de CO<sub>2</sub>-besparing van het project. Hoe dat precies gebeurt, leest u in het document ‘<a href=\"https://assets.vlaanderen.be/image/upload/v1652096767/call_groene_warmte_rangschikkingprojecten_qlgrvx.pdf\">Call groene warmte: rangschikking projecten</a>’.</p><p>Het voor de call beschikbare subsidiebedrag zal verdeeld worden over de gunstig gerangschikte investeringsprojecten tot de beschikbare budgettaire enveloppe is opgebruikt.</p><p>Als er meer dan 1 ontvankelijk project is ingediend, komen van de gerangschikte projecten de 10% projecten met het laagste puntentotaal en in ieder geval het project met het laagste puntentotaal niet in aanmerking voor steun. </p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:50.045737714Z",
+      "laatstGewijzigd": "2023-05-04T12:41:04.074601714Z",
+      "laatstOntvangen": "2023-05-04T12:41:04.074601714Z",
+      "productnummer": "2471",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1564cff9-7ded-41c6-aa96-d62735e6ff84",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7b6c52d4-19ab-435d-8e34-635991addb3a"
+    },
+    {
+      "id": "acb1b9f8-6c5a-4589-96e4-2815bb594473",
+      "generatedAtTime": "2023-05-08T13:57:59.555991Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Procedure groene warmte, restwarmte en energie-efficiënte stadsverwarming"
+      },
+      "beschrijving": {
+        "nl": "<p>Bij het aanvragen van steun tijdens een call komt heel wat kijken. Op deze webpagina worden een aantal belangrijke onderdelen overlopen om zo’n steunaanvraag goed te kunnen voorbereiden, indienen en opvolgen. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>De <a href=\"https://www.uat-vlaanderen.be/procedure-groene-warmte-restwarmte-en-energie-efficiente-stadsverwarming/wetgeving-call-groene-warmte\">relevante wetgeving per call</a> is terug te vinden op de pagina ‘Wetgeving call groene warmte’.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<h3>Wanneer kan een steunaanvraag worden ingediend? </h3><p>De huidige call staat open van 3 oktober tot en met 17 oktober 2022. Er kan enkel steun worden aangevraagd tijdens een open call. </p><h3>Wie kan een steunaanvraag indienen?</h3><p>De doelgroep van de call is heel breed, iedereen kan een steunaanvraag indienen, maar door de grootte van de projecten zijn het vooral grotere ondernemingen, besturen of gemeentes die een steunaanvraag indienen.</p><p>Belangrijk voor <strong>ondernemingen</strong>: De steunregeling valt onder de voorwaarden vermeld in de Algemene Groepsvrijstellingsverordening. De aanvrager is verantwoordelijk voor de naleving van de voorwaarden van de Algemene Groepsvrijstellingsverordening. Controleer steeds of u onder <a href=\"https://assets.vlaanderen.be/image/upload/v1656578289/definitie_onderneming_mavl6n.pdf\">de Europese definitie van een onderneming of kmo </a>valt en of u voldoet aan de voorwaarden voor de steunaanvragers.</p><h3>Welke installaties komen in aanmerking voor steun?</h3><p>Om een steunaanvraag te kunnen indienen, moeten installaties voldoen aan enkele algemene voorwaarden. Daarnaast zijn er ook voorwaarden die gelden voor de projecten, afhankelijk van de gebruikte technologieën. </p><p>Alle <a href=\"https://www.uat-vlaanderen.be/procedure-groene-warmte-restwarmte-en-energie-efficiente-stadsverwarming/voorwaarden-voor-projecten-en-installaties-gesteund-via-de-call-groene-warmte\">algemene en specifieke voorwaarden</a> kunt u nalezen op de pagina ‘Voorwaarden projecten en installaties gesteund via de call groene warmte’.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<h3>Digitale aanvraag voorbereiden</h3><p>Om een digitale aanvraag succesvol in te dienen, hebt u enkele <strong>documenten </strong>nodig. Het gaat hierbij om documenten die u moet <strong>consulteren </strong>en documenten die u moet <strong>invullen, ondertekenen en opladen</strong> in het digitaal aanvraagformulier.</p><p>Meer informatie over het raadplegen en invullen van de documenten, vindt u in de ‘<a href=\"https://assets.vlaanderen.be/raw/upload/v1677664809/principeaanvraag_groenewarmte_restwarmte_warmtenet2022_1_dbdw5o.docx\">Handleiding call groene warmte, restwarmte en energie-efficiënte stadsverwarming</a>’.</p><div data-table=\"\"><table data-table-type=\"grid\"><thead><tr><th>Link naar document</th><th>Voor wie?</th></tr></thead><tbody><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1663660214/sjabloon_blokdiagram-van-aandeelhoudersstructuur_yuvuoe.docx\">Sjabloon voor het blokdiagram van de aandeelhoudersstructuur</a></td><td>Iedereen</td></tr><tr><td>Sjabloon voor de verklaring op eer dat de aanvrager geen onderneming in moeilijkheden is</td><td>Iedereen</td></tr><tr><td>Sjabloon voor de verklaring dat indiener van de steunaanvraag gemachtigd is om de steunaanvraag in te vullen in naam van de aanvrager </td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1677575529/Warmte_en_koude_leveringsplan_pogeja.xlsx\">Sjabloon voor het warmte- en/of koude-leveringsplan van de installatie of de stadsverwarming in de aanvraag</a></td><td>Iedereen</td></tr><tr><td>Sjabloon voor het ingeven van de geschatte investeringskosten voor uw project</td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1677059166/Berekening_IRR_en_exploitatiewinsten_lqvmhh.xlsx\">Sjabloon voor de berekening van de exploitatiewinsten en de IRR over de levensduur van uw installatie</a></td><td>Iedereen</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1651845133/Garantie_warmtetransport_van_warmtebron_naar_stadsverwarming_indnid.docx\">Sjabloon voor de garantie van het warmtetransport aan de stadsverwarming door de leverancier</a></td><td>Energie-efficiënte stadsverwarming of koeling</td></tr><tr><td><a href=\"https://www.energiesparen.be/EPB-pedia/externe-warmtelevering/rekenbladen\">Sjabloon voor de berekening van het aandeel hernieuwbare energiebronnen en/of restwarmte in de inputstroom van stadsverwarming of koeling</a></td><td>Energie-efficiënte stadsverwarming of koeling</td></tr><tr><td>Sjabloon voor de intentieovereenkomst voor warmteafnemers met een geplande afname van &gt; 100 MWh </td><td>Energie-efficiënte stadsverwarming of koeling met afnemers &gt; 100 MWh</td></tr><tr><td><a href=\"https://assets.vlaanderen.be/raw/upload/v1651845131/DNSH-analyse_wfvz3l.docx\">Sjabloon voor de DNSH-analyse</a></td><td>Iedereen</td></tr></tbody></table></div><h3>Digitaal aanvraagformulier indienen</h3><ul><li>Een steunaanvraag wordt <a href=\"https://apps.energiesparen.be/groene-restwarmte-warmtenetten-2022-2\">ingediend via het online aanvraagformulier</a>.</li><li>Het indienen van een steunaanvraag kan alleen <strong>tijdens een openstaande call</strong>:<ul><li>Enkel aanvragen ingediend wanneer de call geopend is kunnen in aanmerking komen voor steun. </li><li>Wanneer er geen call geopend is, kunt u het formulier testen en een testaanvraag indienen.</li><li>Aanvragen ingediend voor het openen of na het sluiten van de call worden automatisch verwijderd.</li></ul></li><li>Het gebruik van dit aanvraagformulier is <strong>verplicht</strong>. Het formulier moet volledig en correct worden ingevuld.</li><li>Er kan <strong>per installatie hoogstens 1 steunaanvraag</strong> ingediend worden binnen deze call. Er zijn dan ook geen wijzigingen meer mogelijk in de ingediende projectvoorstellen.</li></ul><h3>Na goedkeuring</h3><p>Als de steunaanvraag goedgekeurd is, brengt het VEKA de aanvrager op de hoogte van de principebeslissing. <a href=\"https://www.uat-vlaanderen.be/procedure-groene-warmte-restwarmte-en-energie-efficiente-stadsverwarming/na-goedkeuring-van-de-steunaanvraag\">Vanaf de goedkeuring is het aan de aanvrager om nog enkele zaken in orde te brengen</a>. </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<h3>Steunbedrag</h3><p>Het beschikbare budget voor de tweede call van 2022 wordt nog bekend gemaakt. </p><p>De aanvrager vraagt als steun een percentage aan van de investeringskosten van het project die in aanmerking komen binnen de call. De <strong>in aanmerking komende kosten</strong> worden berekend als de extra investeringskosten van de installatie ten opzichte van de investeringskosten van een referentie-installatie zonder de exploitatiekosten en –baten in rekening te nemen. De kosten moeten bij de uitbetalingsaanvraag altijd gestaafd worden door facturen.</p><p>De steun wordt toegekend in de vorm van een <strong>investeringssubsidie</strong>.</p><h3>Maximaal aan te vragen steunpercentage</h3><p>Het steunpercentage hangt af van het type project, of de aanvrager een onderneming is en van de grootte van de onderneming.</p><ul><li>Nuttige-groenewarmte-installaties en energie-efficiënte warmtenetten met een ontwerptoevoertemperatuur aan productiezijde van <strong>minder dan 70° C</strong><ul><li>65% voor kleine ondernemingen</li><li>55% voor middelgrote ondernemingen</li><li>45% voor grote ondernemingen</li><li>65% voor andere aanvragers.</li></ul></li><li>Benutting van restwarmte en energie-efficiënte warmtenetten met een ontwerptoevoertemperatuur aan productiezijde van <strong>70°C of meer</strong><ul><li>50% voor kleine ondernemingen</li><li>40% voor middelgrote ondernemingen</li><li>30% voor grote ondernemingen</li><li>50% voor andere aanvragers.</li></ul></li></ul><h3>Verdeling subsidiebedrag</h3><p>De ontvankelijke investeringsprojecten worden op een objectieve wijze beoordeeld en vervolgens gerangschikt. Deze <strong>rangschikking </strong>gebeurt op basis van twee elementen: kostenefficiëntie en de CO<sub>2</sub>-besparing van het project. Hoe dat precies gebeurt, leest u in het document ‘<a href=\"https://assets.vlaanderen.be/image/upload/v1652096767/call_groene_warmte_rangschikkingprojecten_qlgrvx.pdf\">Call groene warmte: rangschikking projecten</a>’.</p><p>Het voor de call beschikbare subsidiebedrag zal verdeeld worden over de gunstig gerangschikte investeringsprojecten tot de beschikbare budgettaire enveloppe is opgebruikt.</p><p>Als er meer dan 1 ontvankelijk project is ingediend, komen van de gerangschikte projecten de 10% projecten met het laagste puntentotaal en in ieder geval het project met het laagste puntentotaal niet in aanmerking voor steun. </p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:45:11.886609181Z",
+      "laatstGewijzigd": "2023-05-04T12:41:17.428743574Z",
+      "laatstOntvangen": "2023-05-04T12:41:17.428743574Z",
+      "productnummer": "2470",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/acb1b9f8-6c5a-4589-96e4-2815bb594473",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/872a62bc-a96a-40a4-a1f5-87d967f6b435"
+    },
+    {
+      "id": "e8a27acb-b5ce-4990-9b9c-e2c99fe39411",
+      "generatedAtTime": "2023-05-08T13:57:59.508225Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies in het kader van de Toeleidingsprocedure voor personen met een handicap: subsidies voor de multidisciplinaire verslagen (MDV) uitgevoerd door de multidisciplinaire teams (MDT)"
+      },
+      "beschrijving": {
+        "nl": "<div>Multidisciplinaire teams (MDT’s) worden vergoed volgens een modulair systeem dat de verschillende onderdelen of modules van het multidisciplinaire verslag (MDV) in rekening brengt.</div>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>BVR van 24/07/1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams agentschap voor personen met een Handicap</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000060",
+          "@id": "OVO000060"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<div>De vergoeding gebeurt volgens een modulair systeem dat de verschillende onderdelen of modules van het multidisciplinaire verslag (MDV) in rekening brengt:</div><ul><li>Module A Objectivering handicap</li><li>Module B Objectivering ondersteuningsnood: ZZI</li><li>Module C Objectivering van de dringendheid (checklist prioritering)</li><li>Module D Adviesrapport - Vaststelling van de behoefte aan IMB</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De vergoedingen voor de onderdelen A tot en met D van een multidisciplinair verslag zijn verschillend naargelang de verschillende situaties van aanvragen: aanvraag van een persoon die nog niet erkend is, aanvraag van een persoon die al wel erkend is, gecombineerde aanvragen.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:45:12.39279041Z",
+      "laatstGewijzigd": "2023-05-05T18:05:07.842785238Z",
+      "laatstOntvangen": "2023-05-05T18:05:07.842785238Z",
+      "productnummer": "2472",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e8a27acb-b5ce-4990-9b9c-e2c99fe39411",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cf51ee80-846b-4dd5-add8-f66fd83dec96"
+    },
+    {
+      "id": "1d364587-d239-4f29-814f-adb42e4aaf94",
+      "generatedAtTime": "2023-05-08T13:57:59.378172Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies in het kader van Rechtstreeks Toegankelijke Hulp: subsidies aan vergunde zorgaanbieders voor rechtstreeks toegankelijke hulp voor personen met een handicap."
+      },
+      "beschrijving": {
+        "nl": "<div>Rechtstreeks toegankelijke hulp (RTH) is beperkte, handicapspecifieke ondersteuning in de vorm van begeleiding, dagopvang of verblijf voor wie af en toe hulp nodig heeft.</div>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>BVR van 22/02/2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000060",
+          "@id": "OVO000060"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<div>Voor rechtstreeks toegankelijke hulp moet geen aanvraag ingediend worden bij het VAPH of de intersectorale toegangspoort. Personen met een (vermoeden van) handicap kunnen rechtstreeks contact opnemen met een zorgaanbieder.</div><div> </div><div>Het VAPH erkent en subsidieert de aanbieders van rechtstreeks toegankelijke hulp.</div>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "VAPH - Hulpmiddelen en aanpassingen"
+          },
+          "url": "https://www.vaph.be/hulpmiddelen/algemeen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:45:12.555639753Z",
+      "laatstGewijzigd": "2023-05-05T18:05:08.019034222Z",
+      "laatstOntvangen": "2023-05-05T18:05:08.019034222Z",
+      "productnummer": "2473",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1d364587-d239-4f29-814f-adb42e4aaf94",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/59a58289-f29b-43a5-9d64-99852547090f"
+    },
+    {
+      "id": "6e5dd8eb-2a08-4172-ae87-57a479290cf7",
+      "generatedAtTime": "2023-05-08T13:57:59.280141Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.877810941Z",
+      "laatstGewijzigd": "2023-05-05T18:05:20.930910975Z",
+      "laatstOntvangen": "2023-05-05T18:05:20.930910975Z",
+      "productnummer": "2535",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6e5dd8eb-2a08-4172-ae87-57a479290cf7",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6a7a9052-4077-432f-873d-83f103647385"
+    },
+    {
+      "id": "e782355b-4829-4fb9-8627-4d48368a4bbf",
+      "generatedAtTime": "2023-05-08T13:57:59.210441Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Circusdecreet van 1 maart 2019: Internationale Reistoelage Circuskunsten"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet houdende een circusbeleid van 1 maart 2019</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.993367953Z",
+      "laatstGewijzigd": "2023-05-05T18:05:25.412363677Z",
+      "laatstOntvangen": "2023-05-05T18:05:25.412363677Z",
+      "productnummer": "2556",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e782355b-4829-4fb9-8627-4d48368a4bbf",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc9fb27a-ccc9-4cb7-9cb3-5a2eaf4ac6e9"
+    },
+    {
+      "id": "cc031a09-27d9-4b81-b0a8-8c22f8948805",
+      "generatedAtTime": "2023-05-08T13:57:59.172938Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Energieprestatiecertificaat"
+      },
+      "beschrijving": {
+        "nl": "<p>Een energieprestatiecertificaat (EPC) is een document dat toont hoe <strong>energiezuinig</strong> een gebouw(eenheid) is. Zo vindt u op uw EPC informatie over hoe goed de gebouw(eenheid) geïsoleerd is, welke beglazing aanwezig is, hoe zuinig de verwarming is en de installatie voor warm water, …</p><p>Op het EPC staan ook aanbevelingen om de gebouw(eenheid) energiezuiniger te maken, want samen streven we naar een energiezuinig gebouwenpark.</p><p>Het Vlaamse gebouwenpark is erg divers. Om de informatie uit het <strong>EPC op maat</strong> van de gebouw(eenheid) te kunnen aanbieden, krijgt elk type gebouw(eenheid) dan ook een eigen gepast EPC.</p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:14.345476656Z",
+      "laatstGewijzigd": "2023-05-05T18:15:17.341380879Z",
+      "laatstOntvangen": "2023-05-05T18:15:17.341380879Z",
+      "productnummer": "2793",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cc031a09-27d9-4b81-b0a8-8c22f8948805",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3648934d-b08d-4c2a-b6f8-cbaa6eca507b"
+    },
+    {
+      "id": "d8a6b9a4-eaa9-4cce-b59f-78e27ae3876c",
+      "generatedAtTime": "2023-05-08T13:57:59.122147Z",
+      "naam": {
+        "nl": "Product test Yves"
+      },
+      "beschrijving": {
+        "nl": "<p>Test inleiding</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002949",
+          "@id": "OVO002949"
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>test kost beschrijving</p>"
+          },
+          "naam": {
+            "nl": "test kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:20:35.583242871Z",
+      "laatstGewijzigd": "2023-05-05T18:15:22.640770437Z",
+      "laatstOntvangen": "2023-05-05T18:15:22.640770437Z",
+      "productnummer": "2822",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d8a6b9a4-eaa9-4cce-b59f-78e27ae3876c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2d9d1083-3c7d-4574-a888-9bf8f7a7dcb1"
+    },
+    {
+      "id": "009b50f3-02b4-453d-a88b-b1a94426d9f6",
+      "generatedAtTime": "2023-05-08T13:57:58.98991Z",
+      "naam": {
+        "nl": "Premie 1 minimaal",
+        "en": "Premium 1 minimal"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit gaat over de eerste premie. Enkel de verplichte velden van de premie zijn ingevuld. </p>",
+        "en": "<p>This is the first premium. Only the obligatory fields are filled in.</p>"
+      },
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE",
+        "BE1"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000357",
+          "@id": "OVO000357"
+        }
+      ],
+      "creatie": "2023-03-09T16:20:48.534971095Z",
+      "laatstGewijzigd": "2023-05-05T18:15:23.128063107Z",
+      "laatstOntvangen": "2023-05-05T18:15:23.128063107Z",
+      "productnummer": "2825",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/009b50f3-02b4-453d-a88b-b1a94426d9f6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/86b07be2-d904-40f5-a8d3-0acaed715921"
+    },
+    {
+      "id": "13ec5220-2cb3-4b53-b4d0-8c56bf95e9c3",
+      "generatedAtTime": "2023-05-08T13:57:58.974746Z",
+      "naam": {
+        "nl": "Premie 3 - verplicht + thematische gebieden",
+        "en": "Premium 3 - obligatory + your europe category"
+      },
+      "beschrijving": {
+        "en": "<p>Introduction of a minimal premium with your europe category.</p>",
+        "nl": "<p>Inleiding van minimale premie met thematische gebieden.</p>"
+      },
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "yourEuropeCategorieen": [
+        "ConsumentenrechtenNutsvoorzieningen"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000110",
+          "@id": "OVO000110"
+        }
+      ],
+      "creatie": "2023-03-09T16:15:37.363667229Z",
+      "laatstGewijzigd": "2023-05-05T18:15:23.361395465Z",
+      "laatstOntvangen": "2023-05-05T18:15:23.361395465Z",
+      "productnummer": "2827",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/13ec5220-2cb3-4b53-b4d0-8c56bf95e9c3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/03418520-49a0-435b-8c8c-30b368709739"
+    },
+    {
+      "id": "a5377da2-7d19-4a1b-a9d9-16fd0e453062",
+      "generatedAtTime": "2023-05-08T13:57:58.969591Z",
+      "bevoegdBestuursniveaus": [
+        "Europees"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "en": "Test volledige instantie engels",
+        "nl": "Subsidies ontwikkelingssamenwerking in Vlaanderen"
+      },
+      "beschrijving": {
+        "en": "<p>Test volledige instantie engels</p>",
+        "nl": "<p>Deze subsidies worden aangewend voor acties in Vlaanderen, met als doel de Vlaamse bevolking te betrekken bij de internationale ontwikkelingsagenda. Dit gebeurt via werkingssubsidies aan actoren met een groot publieksbereik.</p><p> </p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Voor verschillende organisaties, die zich inzetten voor ontwikkelingssamenwerking, worden loonsubsidies verleend. Verder wordt er aan vzw VVOB (Vlaamse Vereniging voor Ontwikkelingssamenwerking en technische Bijstand), een nominatim financiering verleend. Vlaanderen zet ook in op inclusieve financiering.</p>",
+        "en": "<p>Test volledige instantie engels</p>"
+      },
+      "startDienstVerlening": "2022-10-05T12:00:00Z",
+      "eindeDienstVerlening": "2023-02-24T12:00:00Z",
+      "type": "Bewijs",
+      "themas": [
+        "BurgerOverheid",
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "en": "<p>Test volledige instantie en</p>"
+      },
+      "uitzonderingen": {
+        "en": "<p>Test volledige instantie en</p>",
+        "nl": "<p>Verder wordt er aan vzw VVOB (Vlaamse Vereniging voor Ontwikkelingssamenwerking en technische Bijstand), een nominatim financiering verleend. Vlaanderen zet ook in op inclusieve financiering.</p>"
+      },
+      "zoektermen": {
+        "en": [
+          "hotten"
+        ],
+        "nl": [
+          "hotten"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "en": "<p>Test volledige instantie engels</p>",
+            "nl": "<p>Zie voorwaarden in </p><p>Uitgavendecreet</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Requirements"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "en": "<p>Test volledige instantie engels</p>",
+              "nl": "<p>Dit is de bewijsstukken tekst.</p>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "en": "Procedure",
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>Test volledige instantie engels</p>",
+            "nl": "<p>Dit is de procedure tekst.</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Ontwikkelingssamenwerking van de Vlaamse overheid"
+              },
+              "url": "https://www.fdfa.be/nl/duurzame-ontwikkeling/ontwikkelingssamenwerking",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Vergunning C rechtsreeks aanvragen"
+          },
+          "url": "https://www.gamingcommission.be/nl",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "en": "English example",
+            "nl": "Website voorbeeld"
+          },
+          "url": "http://example.com",
+          "@type": "Website",
+          "order": 1
+        },
+        {
+          "naam": {
+            "en": "Starterscontract"
+          },
+          "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+          "@type": "Website",
+          "order": 2
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test voor de kosten</p>",
+            "en": "<p>Test volledige instantie engels</p>"
+          },
+          "naam": {
+            "en": "Cost",
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>Dit is de tweede kostenbeschrijving</p>"
+          },
+          "naam": {
+            "nl": "Kost 2"
+          },
+          "@type": "Kost",
+          "order": 1
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Voor verschillende organisaties, die zich inzetten voor ontwikkelingssamenwerking, worden loonsubsidies verleend. Verder wordt er aan vzw VVOB (Vlaamse Vereniging voor Ontwikkelingssamenwerking en technische Bijstand), een nominatim financiering verleend. Vlaanderen zet ook in op inclusieve financiering.</p>"
+          },
+          "naam": {
+            "nl": "Subsidie"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:10:40.524328719Z",
+      "laatstGewijzigd": "2023-05-05T18:15:22.932403218Z",
+      "laatstOntvangen": "2023-05-05T18:15:22.932403218Z",
+      "productnummer": "2824",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a5377da2-7d19-4a1b-a9d9-16fd0e453062",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6544b626-f87a-4730-b118-56c55c443227"
+    },
+    {
+      "id": "f081d257-b848-4be5-85a9-902cf2fc22fc",
+      "generatedAtTime": "2023-05-08T13:57:58.807969Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "en": "Test 5 - Premium 2 - maximal",
+        "nl": "Subsidies voor projectoproepen departement Omgeving binnen het omgevingsbeleid ruimte en milieu"
+      },
+      "beschrijving": {
+        "nl": "<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>",
+        "en": "<p>Test 5 - Premium 2 - maximal</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>",
+        "en": "<p>Test 5 - Premium 2 - maximal</p>"
+      },
+      "startDienstVerlening": "2022-11-14T12:00:00Z",
+      "eindeDienstVerlening": "2023-05-18T12:00:00Z",
+      "type": "Bewijs",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>",
+        "en": "<p>Test 5 - Premium 2 - maximal</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>",
+        "en": "<p>Test 5 - Premium 2 - maximal</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>",
+            "en": "<p>Test 5 - Premium 2 - maximal</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Requirements"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>",
+              "en": "<p>Test 5 - Premium 2 - maximal</p>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "en": "Procedure",
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>",
+            "en": "<p>Test 5 - Premium 2 - maximal</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "en": "Starterscontract",
+                "nl": "Starterscontract"
+              },
+              "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "en": "Starterscontract",
+            "nl": "Starterscontract"
+          },
+          "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>",
+            "en": "<p>Test 5 - Premium 2 - maximal</p>"
+          },
+          "naam": {
+            "en": "Cost",
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:20:30.341224598Z",
+      "laatstGewijzigd": "2023-05-05T18:15:23.854435971Z",
+      "laatstOntvangen": "2023-05-05T18:15:23.854435971Z",
+      "productnummer": "2837",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f081d257-b848-4be5-85a9-902cf2fc22fc",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4a84cd58-7b91-4ded-9621-1fdc9c395a11"
+    },
+    {
+      "id": "ce36a36d-51df-4986-ace2-4d92eec08175",
+      "generatedAtTime": "2023-05-08T13:57:58.785301Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor het lokaal sportbeleid"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p><p> </p><p>Maximaal</p><p><a href=\"https://www.gamingcommission.be/sites/default/files/2021-02/vergunningC.pdf\">Testlink</a></p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"
+      },
+      "startDienstVerlening": "2023-02-10T12:00:00Z",
+      "eindeDienstVerlening": "2023-04-20T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "'s nachts",
+          "4-punten-isolatietest",
+          "A attest"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Starterscontract"
+              },
+              "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Lage-emissiezone Gent"
+          },
+          "url": "https://stad.gent/nl/mobiliteit-openbare-werken/lage-emissiezone",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:30:38.823887115Z",
+      "laatstGewijzigd": "2023-05-05T18:15:24.178257444Z",
+      "laatstOntvangen": "2023-05-05T18:15:24.178257444Z",
+      "productnummer": "2845",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ce36a36d-51df-4986-ace2-4d92eec08175",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/48f08219-31d2-4056-861e-9daf4f6e2c2e"
+    },
+    {
+      "id": "464de237-f6d8-4310-baef-d74491d02da8",
+      "generatedAtTime": "2023-05-08T13:57:58.777483Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Europees"
+      ],
+      "naam": {
+        "nl": "Subsidie bevordering dierenwelzijn en steun dierenasielen"
+      },
+      "beschrijving": {
+        "nl": "<p>De afdeling Dierenwelzijn voorziet in een structurele ondersteuning van Vlaamse dierenasielen die voldoen aan bepaalde criteria. Daarnaast wordt een compensatieregeling voorzien voor pelsdierhouderijen of producenten van foie gras die hun activiteiten stopzetten. Tot slot worden op ad hoc basis subsidies verleend aan specifieke dierenwelzijnsprojecten van onderzoeksinstellingen of vzw’s.</p><p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Dit is de verdere beschrijving tekst</p>"
+      },
+      "type": "Voorwerp",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Dit is de regelgeving</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Dit zijn de uitzonderingen</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "testzoekterm",
+          "afsprakenbeheer prenatale consultaties",
+          "12 december",
+          "be",
+          "*acties",
+          "1/10 ouderschapsverlof",
+          "-buitenland; -buitenlander",
+          "testterm"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Dit zijn de bewijsstukken</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de procedure</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Vergunning C rechtsreeks aanvragen"
+              },
+              "url": "https://www.gamingcommission.be/nl",
+              "@type": "Website",
+              "order": 0
+            },
+            {
+              "naam": {
+                "nl": "Link naar kiosk"
+              },
+              "url": "https://www.cjm.be/kiosk",
+              "@type": "Website",
+              "order": 1
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Departement Cultuur, Jeugd en Media"
+          },
+          "url": "https://www.vlaanderen.be/cjm",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de kosten</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"
+          },
+          "naam": {
+            "nl": "Financiële voordelen"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-15T12:55:06.97857876Z",
+      "laatstGewijzigd": "2023-05-05T18:15:24.542979498Z",
+      "laatstOntvangen": "2023-05-05T18:15:24.542979498Z",
+      "productnummer": "2853",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/464de237-f6d8-4310-baef-d74491d02da8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"
+    },
+    {
+      "id": "d8b1f7f3-ffa9-466c-8072-111332f77252",
+      "generatedAtTime": "2023-05-08T13:57:58.592284Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Perencrumble (test 7)"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit is een test.</p><p>Burgers met te veel peren, havermout en speculaas in huis kunnen het teveel aan peer, havermout en speculaas wegwerken door een perencrumble te maken.</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Voor het maken van een perencrumble hebt u wel een goed recept nodig.</p>"
+      },
+      "startDienstVerlening": "2023-03-20T12:00:00Z",
+      "eindeDienstVerlening": "2024-03-10T12:00:00Z",
+      "type": "Toelating",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Beschuit van de Vlaamse Regering</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Hebt u enkel appelen, maar geen peren, dan kunt u enkel een appelcrumble maken.</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "crumble"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000474",
+          "@id": "OVO000474"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO002209",
+          "@id": "OVO002209"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U hebt de volgende ingrediënten nodig:</p><ul><li>150 g bloem</li><li>150 g donkerbruine suiker</li><li>75 g havermout</li><li><p>150 g speculaas</p></li><li><p>150 g boter</p></li><li>6 harde peren (type Conference)</li><li>een halve citroen</li><li>75 g blonde rozijnen</li><li>1,5 vanillestok</li><li>1,5 koffielepel speculaaskruiden</li><li>roomijs</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<ul><li>horecavergunning</li></ul>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Verwarm de oven voor tot 200 °C.</p><p>Schil de peren en snijd ze in blokjes. Leg ze in een ovenschaal en besprenkel ze met citroensap.</p><p>Doe er de rozijnen bij. Wie wil kan er eventueel wat gehakte noten aan toevoegen.</p><p>Snijd de vanillestok in de lengte open. Schraap er de zaadjes uit en meng ze door de peren. Voeg er de speculaaskruiden aan toe en meng alles goed door elkaar. Hebt u geen speculaaskruiden? Neem dan kaneelpoeder.</p><p><strong>Crumbledeeg</strong></p><p>Meng de bloem met de bruine suiker en de havermout.</p><p>Verkruimel de speculaas in de vijzel en doe hem bij het mengsel.</p><p>Snijd de koude boter in stukjes en wrijf ze door het deeg zodat je crumble krijgt.</p><p>Strooi de crumble over het fruit.</p><p>Zet 25 minuten in de voorverwarmde oven.</p><p>Serveer de crumble warm met een bolletje ijs.</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Tweeperenboom"
+              },
+              "url": "https://tweeperenboom.be",
+              "@type": "Website",
+              "order": 0
+            },
+            {
+              "naam": {
+                "nl": "Taaladvies.net: Dronk / drink / borrel / receptie"
+              },
+              "url": "https://taaladvies.net/dronk-of-drink-of-borrel-of-receptie",
+              "@type": "Website",
+              "order": 1
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Taaladvies.net: Dronk / drink / borrel / receptie"
+          },
+          "url": "https://taaladvies.net/dronk-of-drink-of-borrel-of-receptie",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>De ingrediënten hebt u al, dus er zijn weinig kosten aan.</p>"
+          },
+          "naam": {
+            "nl": "Prijs van ingrediënten"
+          },
+          "@type": "Kost",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>Uw oven werkt op gas, zegt u? Aiiiiii...</p>"
+          },
+          "naam": {
+            "nl": "Energieverbruik"
+          },
+          "@type": "Kost",
+          "order": 1
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Alles samen hebben de ingrediënten en het energieverbruik u waarschijnlijk meer gekost dan de prijs van een taartje bij uw bakker. Maar u bespaart zich wel het lange wachten aan de toog.</p>"
+          },
+          "naam": {
+            "nl": "Besparing"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>Hey, als het lekker smaakt, waarom niet een eigen winkeltje beginnen?</p>"
+          },
+          "naam": {
+            "nl": "Business opportunities"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 1
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015383&param=informatie&ref=search&AVIDS=1082977",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015383&param=informatie&ref=search&AVIDS=1082977",
+          "@type": "Regelgeving",
+          "order": 0
+        },
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018306&param=informatie&ref=search&AVIDS=1141597",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018306&param=informatie&ref=search&AVIDS=1141597",
+          "@type": "Regelgeving",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-22T09:25:06.585773791Z",
+      "laatstGewijzigd": "2023-05-05T18:15:24.986758214Z",
+      "laatstOntvangen": "2023-05-05T18:15:24.986758214Z",
+      "productnummer": "2854",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d8b1f7f3-ffa9-466c-8072-111332f77252",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bc4256dc-5a8f-42c4-8442-6be2d2f8f0df"
+    },
+    {
+      "id": "7d5b0c89-67b1-4011-ba92-7067f409518e",
+      "generatedAtTime": "2023-05-08T13:57:58.592102Z",
+      "naam": {
+        "nl": "p3b"
+      },
+      "beschrijving": {
+        "nl": "<p>tet</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE1"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO008742",
+          "@id": "OVO008742"
+        }
+      ],
+      "creatie": "2023-05-04T14:35:14.901393287Z",
+      "laatstGewijzigd": "2023-05-05T18:15:25.422527196Z",
+      "laatstOntvangen": "2023-05-05T18:15:25.422527196Z",
+      "productnummer": "2857",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7d5b0c89-67b1-4011-ba92-7067f409518e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/09874b68-7ae0-4232-810b-e50556e1fada"
+    },
+    {
+      "id": "3d88579b-6bc4-4e90-ba7b-09c6eae9a5d0",
+      "generatedAtTime": "2023-05-08T13:57:58.574769Z",
+      "naam": {
+        "nl": "p2b"
+      },
+      "beschrijving": {
+        "nl": "<p>tet</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE1"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO008742",
+          "@id": "OVO008742"
+        }
+      ],
+      "creatie": "2023-05-04T14:35:14.771027011Z",
+      "laatstGewijzigd": "2023-05-05T18:15:25.263894385Z",
+      "laatstOntvangen": "2023-05-05T18:15:25.263894385Z",
+      "productnummer": "2856",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3d88579b-6bc4-4e90-ba7b-09c6eae9a5d0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e907f8e3-2445-465a-97d6-649df19ed81a"
+    },
+    {
+      "id": "6e207b99-2162-45c8-b985-bce823bc5b21",
+      "generatedAtTime": "2023-05-08T13:54:47.185057Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor projecten van armoedebestrijding"
+      },
+      "beschrijving": {
+        "nl": "<p>Het armoededecreet voorziet in de subsidiëring van projecten met een experimenteel, aanvullend en/of vernieuwend karakter. Ze zijn vernieuwend qua doelgroep, processen en methodieken. De subsidies zijn bedoeld om maatschappelijk relevante projecten tijdelijk te ondersteunen op het vlak van personeels- en werkingskosten. </p><p> </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaams armoededecreet</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "armoede",
+          "armoedebestrijding",
+          "bestrijding",
+          "projecten",
+          "subsidies",
+          "subsidiëring"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>De bevoegde Vlaamse minister lanceert af en toe (niet jaarlijks) een oproep om voorstellen in te dienen rond de bestrijding van een bepaald type armoede (bijvoorbeeld kinderarmoede).</p><p><a href=\"https://armoede.vlaanderen.be/projecten\">Meer informatie over de projectoproep en het aanvraagformulier</a> vindt u op de website armoede.vlaanderen.be.</p><p>De resultaten van deze projecten moeten na een positieve evaluatie op termijn implementeerbaar worden in andere beleidsdomeinen</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:33.433167121Z",
+      "laatstGewijzigd": "2023-05-05T17:25:27.507063976Z",
+      "laatstOntvangen": "2023-05-05T17:25:27.507063976Z",
+      "productnummer": "328",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6e207b99-2162-45c8-b985-bce823bc5b21",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/23204d0e-226b-4373-95dc-4266ccc8f03a"
+    },
+    {
+      "id": "306df70a-6abd-4a47-8076-14bda2188214",
+      "generatedAtTime": "2023-05-08T13:54:47.152777Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor schoolfruit, schoolgroenten en schoolmelk"
+      },
+      "beschrijving": {
+        "nl": "<p>Basisscholen en scholen voor buitengewoon secundair onderwijs kunnen een subsidie krijgen als ze schoolfruit, schoolgroenten en/ of schoolmelk verdelen onder de leerlingen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "fruit",
+          "gezonde voeding op school",
+          "kind",
+          "leerling",
+          "premie",
+          "scholen",
+          "school",
+          "schoolfruit",
+          "steun",
+          "schoolmelk",
+          "zuivel",
+          "melk op school",
+          "melk in de klas"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p><a href=\"https://lv.vlaanderen.be/nl/subsidies/scholen/schoolfruit-groenten-en-melk\" target=\"_blank\">Meer informatie over de procedure om deel te nemen, de subsidie bedragen en de steunaanvraag</a> vindt u op de website van het Departement Landbouw en Visserij.</p><p> </p><p>Op de campagnewebsite oogvoorlekkers.be vindt u onder meer <a href=\"https://www.oogvoorlekkers.be/lesmateriaal\"><u>het aanbod aan educatieve hulpmiddelen</u></a>.</p><p> </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidie voor schoolfruit, schoolgroenten en schoolmelk"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies/scholen/schoolfruit-groenten-en-melk",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-21T15:35:24.273623552Z",
+      "laatstGewijzigd": "2023-05-05T16:55:34.024719684Z",
+      "laatstOntvangen": "2023-05-05T16:55:34.024719684Z",
+      "productnummer": "382",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/306df70a-6abd-4a47-8076-14bda2188214",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7b68cdf4-d8be-4a55-99df-a64972ab01d6"
+    }
+  ]
+}

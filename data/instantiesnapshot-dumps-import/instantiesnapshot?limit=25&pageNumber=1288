@@ -1,1 +1,1526 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1288","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1287","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2024-01-30T15:10:24.580758Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1289","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2024-01-30T15:10:29.374405Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1288","@type":"EventStream","member":[{"id":"248582d2-987f-4628-866d-1cd1589668d3","generatedAtTime":"2024-01-30T15:10:29.374405Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning als classificeerder voor slachthuizen","nl-BE-x-formal":"Erkenning als classificeerder voor slachthuizen","nl-BE-x-generated-informal":"Erkenning als classificeerder voor slachthuizen"},"beschrijving":{"nl":"<p>Sommige slachthuizen zijn verplicht de karkassen van de geslachte varkens of runderen in te delen. De indelingsmethoden voor varkens bestaan uit toestellen die volautomatisch (camera’s/scanners) werken of worden bediend door erkende classificeerders (priktoestellen, meetlat). Karkassen van runderen worden visueel beoordeeld door erkende classificeerders. Classificeerders moeten daartoe erkend worden door het Departement Landbouw en Visserij.</p><p>De prestaties van de erkende classificeerders worden regelmatig op de slachtlijn gecontroleerd en geëvalueerd met het oog op het behoud van hun erkenning.</p>","nl-BE-x-formal":"<p>Sommige slachthuizen zijn verplicht de karkassen van de geslachte varkens of runderen in te delen. De indelingsmethoden voor varkens bestaan uit toestellen die volautomatisch (camera’s/scanners) werken of worden bediend door erkende classificeerders (priktoestellen, meetlat). Karkassen van runderen worden visueel beoordeeld door erkende classificeerders. Classificeerders moeten daartoe erkend worden door het Departement Landbouw en Visserij.</p><p>De prestaties van de erkende classificeerders worden regelmatig op de slachtlijn gecontroleerd en geëvalueerd met het oog op het behoud van hun erkenning.</p>","nl-BE-x-generated-informal":"<p>Sommige slachthuizen zijn verplicht de karkassen van de geslachte varkens of runderen in te delen. De indelingsmethoden voor varkens bestaan uit toestellen die volautomatisch (camera’s/scanners) werken of worden bediend door erkende classificeerders (priktoestellen, meetlat). Karkassen van runderen worden visueel beoordeeld door erkende classificeerders. Classificeerders moeten daartoe erkend worden door het Departement Landbouw en Visserij.</p><p>De prestaties van de erkende classificeerders worden regelmatig op de slachtlijn gecontroleerd en geëvalueerd met het oog op het behoud van hun erkenning.</p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens</p>","nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens</p>","nl":"<p>Besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"contactOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"voorwaarden":[{"beschrijving":{"nl-BE-x-generated-informal":"<p>De voorwaarden staan opgesomd in artikel 46 van het besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens:</p><ul><li>uittreksel strafregister</li><li>vorming gevolgd bij CBKc</li><li>geslaagd voor het examen</li><li>bewijs op de hoogte zijn van de wetgeving inzake indeling van geslachte runderen of varkens</li><li>bewijs correct toepassen indelingsschema geslachte runderen of bewijs goed hanteren indelingstoestel geslachte varkens.</li></ul>","nl-BE-x-formal":"<p>De voorwaarden staan opgesomd in artikel 46 van het besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens:</p><ul><li>uittreksel strafregister</li><li>vorming gevolgd bij CBKc</li><li>geslaagd voor het examen</li><li>bewijs op de hoogte zijn van de wetgeving inzake indeling van geslachte runderen of varkens</li><li>bewijs correct toepassen indelingsschema geslachte runderen of bewijs goed hanteren indelingstoestel geslachte varkens.</li></ul>","nl":"<p>De voorwaarden staan opgesomd in artikel 46 van het besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens:</p><ul><li>uittreksel strafregister</li><li>vorming gevolgd bij CBKc</li><li>geslaagd voor het examen</li><li>bewijs op de hoogte zijn van de wetgeving inzake indeling van geslachte runderen of varkens</li><li>bewijs correct toepassen indelingsschema geslachte runderen of bewijs goed hanteren indelingstoestel geslachte varkens.</li></ul>"},"naam":{"nl-BE-x-formal":"Voorwaarden","nl-BE-x-generated-informal":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Volgens artikel 45 van het besluit van 26 april 2013 moet de inrichting (het slachthuis) aanvraag doen bij de bevoegde autoriteit. De aanvraag bevat de identificatiegegevens van de inrichting en de identiteit van de classificeerder. De inrichting richt gelijktijdig ook een verzoek aan de CBKc tot het volgen van een vorming.</p>","nl-BE-x-formal":"<p>Volgens artikel 45 van het besluit van 26 april 2013 moet de inrichting (het slachthuis) aanvraag doen bij de bevoegde autoriteit. De aanvraag bevat de identificatiegegevens van de inrichting en de identiteit van de classificeerder. De inrichting richt gelijktijdig ook een verzoek aan de CBKc tot het volgen van een vorming.</p>","nl":"<p>Volgens artikel 45 van het besluit van 26 april 2013 moet de inrichting (het slachthuis) aanvraag doen bij de bevoegde autoriteit. De aanvraag bevat de identificatiegegevens van de inrichting en de identiteit van de classificeerder. De inrichting richt gelijktijdig ook een verzoek aan de CBKc tot het volgen van een vorming.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl-BE-x-generated-informal":"Karkasclassificatie varkens","nl":"Karkasclassificatie varkens","nl-BE-x-formal":"Karkasclassificatie varkens"},"url":"https://lv.vlaanderen.be/dier/varkens/karkasclassificatie","@type":"Website","order":0},{"naam":{"nl-BE-x-generated-informal":"Karkasclassificatie runderen","nl-BE-x-formal":"Karkasclassificatie runderen","nl":"Karkasclassificatie runderen"},"url":"https://lv.vlaanderen.be/dier/runderen/karkasclassificatie","@type":"Website","order":1}],"kosten":[{"beschrijving":{"nl-BE-x-formal":"<p>De eerste vijf classificeerders per inrichting kunnen kosteloos een erkenning verkrijgen.</p>","nl":"<p>De eerste vijf classificeerders per inrichting kunnen kosteloos een erkenning verkrijgen.</p>","nl-BE-x-generated-informal":"<p>De eerste vijf classificeerders per inrichting kunnen kosteloos een erkenning verkrijgen.</p>"},"naam":{"nl":"Kost","nl-BE-x-formal":"Kost","nl-BE-x-generated-informal":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-02-15T08:22:23Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:29.213619885Z","productnummer":"2915","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/248582d2-987f-4628-866d-1cd1589668d3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4457fe48-31ee-44fd-a8ec-fcc922f89e62"},{"id":"2cf46dea-975b-4dbf-a5e4-1090451ee30e","generatedAtTime":"2024-01-30T15:10:29.059819Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Aanvraag document met betrekking tot de homologatie van een individueel voertuig","nl-BE-x-generated-informal":"Aanvraag document met betrekking tot de homologatie van een individueel voertuig","nl":"Aanvraag document met betrekking tot de homologatie van een individueel voertuig"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Het afleveren van een document met betrekking tot de homologatie van een individueel voertuig (afgifte duplicaat gelijkvormigheidsattest / identificatieplaatje, herinslaan chassisnummer, bevestigen originaliteit van ingeslagen chassisnummer, montage tuning onderdeel (uitlaat, zetel, …), wijziging van de motor bij een oldtimer).</p>","nl":"<p>Het afleveren van een document met betrekking tot de homologatie van een individueel voertuig (afgifte duplicaat gelijkvormigheidsattest / identificatieplaatje, herinslaan chassisnummer, bevestigen originaliteit van ingeslagen chassisnummer, montage tuning onderdeel (uitlaat, zetel, …), wijziging van de motor bij een oldtimer).</p>","nl-BE-x-formal":"<p>Het afleveren van een document met betrekking tot de homologatie van een individueel voertuig (afgifte duplicaat gelijkvormigheidsattest / identificatieplaatje, herinslaan chassisnummer, bevestigen originaliteit van ingeslagen chassisnummer, montage tuning onderdeel (uitlaat, zetel, …), wijziging van de motor bij een oldtimer).</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-02-10T12:27:46Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:28.97571943Z","productnummer":"2913","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2cf46dea-975b-4dbf-a5e4-1090451ee30e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b8cffff7-e890-4811-80e7-e055e455413e"},{"id":"9a078984-bd73-4a1f-8ced-4ecaca47563a","generatedAtTime":"2024-01-30T15:10:28.847218Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Certificaat eerste erkenning voertuigfabrikant","nl-BE-x-generated-informal":"Certificaat eerste erkenning voertuigfabrikant","nl":"Certificaat eerste erkenning voertuigfabrikant"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Het afleveren van een certificaat met betrekking tot de initiële erkenning van een fabrikant van voertuigen / voertuigonderdelen (COP, PVB/PVG).</p>","nl":"<p>Het afleveren van een certificaat met betrekking tot de initiële erkenning van een fabrikant van voertuigen / voertuigonderdelen (COP, PVB/PVG).</p>","nl-BE-x-formal":"<p>Het afleveren van een certificaat met betrekking tot de initiële erkenning van een fabrikant van voertuigen / voertuigonderdelen (COP, PVB/PVG).</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-02-10T12:27:46Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:28.800637481Z","productnummer":"2912","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9a078984-bd73-4a1f-8ced-4ecaca47563a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6d18cb47-eba9-4003-9f45-b8db0c49f9c7"},{"id":"f7244217-2e1f-4b44-aefd-de0da280236c","generatedAtTime":"2024-01-30T15:10:28.680041Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Validatie-attest voor een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets)","nl":"Validatie-attest voor een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets)","nl-BE-x-generated-informal":"Validatie-attest voor een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets)"},"beschrijving":{"nl-BE-x-formal":"<p>Het afleveren van een validatiecertificaat ter validering van de technische gegevens van een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets) op basis van het buitenlands kentekenbewijs.</p>","nl":"<p>Het afleveren van een validatiecertificaat ter validering van de technische gegevens van een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets) op basis van het buitenlands kentekenbewijs.</p>","nl-BE-x-generated-informal":"<p>Het afleveren van een validatiecertificaat ter validering van de technische gegevens van een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets) op basis van het buitenlands kentekenbewijs.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-02-10T12:27:46Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:28.632128505Z","productnummer":"2911","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f7244217-2e1f-4b44-aefd-de0da280236c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f694b09c-1345-437a-b965-4036a224f6be"},{"id":"f9f309a2-7d9f-44b2-b739-96f05cad1823","generatedAtTime":"2024-01-30T15:10:28.518394Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Proces-verbaal van benaming (PVB) voor een individueel voertuig van speciale constructie","nl":"Proces-verbaal van benaming (PVB) voor een individueel voertuig van speciale constructie","nl-BE-x-generated-informal":"Proces-verbaal van benaming (PVB) voor een individueel voertuig van speciale constructie"},"beschrijving":{"nl-BE-x-formal":"<p>Het afleveren van een erkenning voor een voertuig van speciale constructie om het te kunnen registreren voor de verplaatsing van het ledige voertuig op de openbare weg.</p><p>Dit document is bestemd voor voertuigen van speciale constructie die uitsluitend bestemd zijn om als werktuig te worden gebruikt. Hiertoe behoren bepaalde landbouwvoertuigen en industriële voertuigen. Inzonderheid het zelfrijdend bedrijfsmaterieel, het zelfrijdend landbouwmaterieel en de werktuigaanhangwagens die niet onder een Europese kaderverordening vallen.</p>","nl":"<p>Het afleveren van een erkenning voor een voertuig van speciale constructie om het te kunnen registreren voor de verplaatsing van het ledige voertuig op de openbare weg.</p><p>Dit document is bestemd voor voertuigen van speciale constructie die uitsluitend bestemd zijn om als werktuig te worden gebruikt. Hiertoe behoren bepaalde landbouwvoertuigen en industriële voertuigen. Inzonderheid het zelfrijdend bedrijfsmaterieel, het zelfrijdend landbouwmaterieel en de werktuigaanhangwagens die niet onder een Europese kaderverordening vallen.</p>","nl-BE-x-generated-informal":"<p>Het afleveren van een erkenning voor een voertuig van speciale constructie om het te kunnen registreren voor de verplaatsing van het ledige voertuig op de openbare weg.</p><p>Dit document is bestemd voor voertuigen van speciale constructie die uitsluitend bestemd zijn om als werktuig te worden gebruikt. Hiertoe behoren bepaalde landbouwvoertuigen en industriële voertuigen. Inzonderheid het zelfrijdend bedrijfsmaterieel, het zelfrijdend landbouwmaterieel en de werktuigaanhangwagens die niet onder een Europese kaderverordening vallen.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-02-10T12:27:46Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:28.461797817Z","productnummer":"2910","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f9f309a2-7d9f-44b2-b739-96f05cad1823","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3f0ca5fe-8f17-49ab-9c99-12830c339119"},{"id":"dbe9ba88-f08c-4fbc-8c59-4e13156f6677","generatedAtTime":"2024-01-30T15:10:28.214722Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"AZG - projectsubsidies algemeen","nl-BE-x-formal":"AZG - projectsubsidies algemeen","nl-BE-x-generated-informal":"AZG - projectsubsidies algemeen"},"beschrijving":{"nl-BE-x-formal":"<p>Dit zijn subsidies voor Zorg en Gezondheid die passen binnen het algemene gezondheidsbeleid.</p>","nl-BE-x-generated-informal":"<p>Dit zijn subsidies voor Zorg en Gezondheid die passen binnen het algemene gezondheidsbeleid.</p>","nl":"<p>Dit zijn subsidies voor Zorg en Gezondheid die passen binnen het algemene gezondheidsbeleid.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-02-02T12:46:21Z","laatstGewijzigd":"2023-05-31T14:11:34Z","laatstOntvangen":"2024-01-30T15:10:28.169796297Z","productnummer":"2908","gearchiveerd":false,"subsidiemaatregel":"GI","metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/dbe9ba88-f08c-4fbc-8c59-4e13156f6677","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e9cf9216-929e-4630-802d-a91ca0f2ec2b"},{"id":"146b86d8-7a66-4dbb-a1cb-033fe8ecf521","generatedAtTime":"2024-01-30T15:10:28.041447Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Brownfieldconvenant","nl-BE-x-formal":"Brownfieldconvenant","nl-BE-x-generated-informal":"Brownfieldconvenant"},"beschrijving":{"nl-BE-x-generated-informal":"<p>In het Brownfieldconvenant worden afspraken vastgelegd tussen de Vlaamse regering enerzijds en private en publieke actoren anderzijds rond het hergebruik van verwaarloosde of onderbenutte gronden. Dat kan onder meer gaan over het verwerven van gronden noodzakelijk voor het project.</p><p>Natuurlijke en rechtspersonen die op grond van hun eigendomsrechten of overige zakelijke rechten toestemming moeten verlenen voor handelingen of activiteiten in het kader van een Brownfieldproject kunnen een rol als actor opnemen binnen deze convenanten.</p>","nl":"<p>In het Brownfieldconvenant worden afspraken vastgelegd tussen de Vlaamse regering enerzijds en private en publieke actoren anderzijds rond het hergebruik van verwaarloosde of onderbenutte gronden. Dat kan onder meer gaan over het verwerven van gronden noodzakelijk voor het project.</p><p>Natuurlijke en rechtspersonen die op grond van hun eigendomsrechten of overige zakelijke rechten toestemming moeten verlenen voor handelingen of activiteiten in het kader van een Brownfieldproject kunnen een rol als actor opnemen binnen deze convenanten.</p>","nl-BE-x-formal":"<p>In het Brownfieldconvenant worden afspraken vastgelegd tussen de Vlaamse regering enerzijds en private en publieke actoren anderzijds rond het hergebruik van verwaarloosde of onderbenutte gronden. Dat kan onder meer gaan over het verwerven van gronden noodzakelijk voor het project.</p><p>Natuurlijke en rechtspersonen die op grond van hun eigendomsrechten of overige zakelijke rechten toestemming moeten verlenen voor handelingen of activiteiten in het kader van een Brownfieldproject kunnen een rol als actor opnemen binnen deze convenanten.</p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Burger","LokaalBestuur","Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-formal":"<p>Een aanvraag voor een Brownfieldconvenant moet minstens ondertekend zijn door alle actoren die gezamenlijk beschikken over het eigendomsrecht of de overige zakelijke rechten op meer dan 70% van de oppervlakte van de projectgronden. De eigenaars en de houders van andere zakelijke rechten op projectgronden die niet optreden als actor worden met een aangetekende brief op de hoogte gebracht van de voorlopige afbakening van het projectgebied, vermeld in het aanvraagformulier.</p><p>Alle belanghebbenden kunnen tegen de voorlopige afbakening van het projectgebied bezwaar indienen.</p>","nl":"<p>Een aanvraag voor een Brownfieldconvenant moet minstens ondertekend zijn door alle actoren die gezamenlijk beschikken over het eigendomsrecht of de overige zakelijke rechten op meer dan 70% van de oppervlakte van de projectgronden. De eigenaars en de houders van andere zakelijke rechten op projectgronden die niet optreden als actor worden met een aangetekende brief op de hoogte gebracht van de voorlopige afbakening van het projectgebied, vermeld in het aanvraagformulier.</p><p>Alle belanghebbenden kunnen tegen de voorlopige afbakening van het projectgebied bezwaar indienen.</p>","nl-BE-x-generated-informal":"<p>Een aanvraag voor een Brownfieldconvenant moet minstens ondertekend zijn door alle actoren die gezamenlijk beschikken over het eigendomsrecht of de overige zakelijke rechten op meer dan 70% van de oppervlakte van de projectgronden. De eigenaars en de houders van andere zakelijke rechten op projectgronden die niet optreden als actor worden met een aangetekende brief op de hoogte gebracht van de voorlopige afbakening van het projectgebied, vermeld in het aanvraagformulier.</p><p>Alle belanghebbenden kunnen tegen de voorlopige afbakening van het projectgebied bezwaar indienen.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Brownfieldconvenant","nl-BE-x-formal":"Brownfieldconvenant","nl-BE-x-generated-informal":"Brownfieldconvenant"},"url":"https://www.vlaio.be/nl/subsidies-financiering/brownfieldconvenant","@type":"Website","order":0}],"creatie":"2023-02-02T10:33:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:27.954763371Z","productnummer":"2907","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/146b86d8-7a66-4dbb-a1cb-033fe8ecf521","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/99c97372-5706-48a3-a0de-baabbadd9111"},{"id":"36a31e61-f918-4458-83f3-f130eb1254c1","generatedAtTime":"2024-01-30T15:10:27.810512Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"VLAIO - Waterscan","nl-BE-x-formal":"VLAIO - Waterscan","nl-BE-x-generated-informal":"VLAIO - Waterscan"},"beschrijving":{"nl":"<p>Sinds begin 2023 biedt VLAIO een <strong>gratis waterscan voor ondernemingen</strong> aan. Een deskundige van één van de geselecteerde studiebureaus zal het waterverbruik visualiseren en suggesties bieden voor waterbesparende maatregelen. De onderneming ontvangt een rapport met een gedetailleerde waterbalans en concrete suggesties voor waterbesparing.</p>","nl-BE-x-generated-informal":"<p>Sinds begin 2023 biedt VLAIO een <strong>gratis waterscan voor ondernemingen</strong> aan. Een deskundige van één van de geselecteerde studiebureaus zal het waterverbruik visualiseren en suggesties bieden voor waterbesparende maatregelen. De onderneming ontvangt een rapport met een gedetailleerde waterbalans en concrete suggesties voor waterbesparing.</p>","nl-BE-x-formal":"<p>Sinds begin 2023 biedt VLAIO een <strong>gratis waterscan voor ondernemingen</strong> aan. Een deskundige van één van de geselecteerde studiebureaus zal het waterverbruik visualiseren en suggesties bieden voor waterbesparende maatregelen. De onderneming ontvangt een rapport met een gedetailleerde waterbalans en concrete suggesties voor waterbesparing.</p>"},"type":"AdviesBegeleiding","themas":["MilieuEnergie"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"zoektermen":{"nl":["waterscan","water","water besparen","waterbesparend","waterbesparende maatregelen"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"voorwaarden":[{"beschrijving":{"nl-BE-x-formal":"<p>De onderneming die een waterscan aanvraagt, moet voldoen aan volgende voorwaarden:</p><ul><li>een kleine of middelgrote onderneming zijn volgens de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/kmo-definitie-verschil-europese-en-fiscale\">Europese kmo-definitie</a></li><li>niet wettelijk verplicht zijn om een waterscan te laten uitvoeren</li><li>een totaal waterverbruik hebben van meer dan 500 m³ per jaar op vestigingsniveau</li><li>een waterscan aanvragen voor niet meer dan 2 vestigingen per onderneming</li><li>voldoen aan de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/veelgestelde-vragen-de-minimis\">Europese de-minimis regelgeving</a></li><li>geen land- of tuinbouwactiviteit als hoofdactiviteit te hebben</li></ul>","nl":"<p>De onderneming die een waterscan aanvraagt, moet voldoen aan volgende voorwaarden:</p><ul><li>een kleine of middelgrote onderneming zijn volgens de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/kmo-definitie-verschil-europese-en-fiscale\">Europese kmo-definitie</a></li><li>niet wettelijk verplicht zijn om een waterscan te laten uitvoeren</li><li>een totaal waterverbruik hebben van meer dan 500 m³ per jaar op vestigingsniveau</li><li>een waterscan aanvragen voor niet meer dan 2 vestigingen per onderneming</li><li>voldoen aan de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/veelgestelde-vragen-de-minimis\">Europese de-minimis regelgeving</a></li><li>geen land- of tuinbouwactiviteit als hoofdactiviteit te hebben</li></ul>","nl-BE-x-generated-informal":"<p>De onderneming die een waterscan aanvraagt, moet voldoen aan volgende voorwaarden:</p><ul><li>een kleine of middelgrote onderneming zijn volgens de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/kmo-definitie-verschil-europese-en-fiscale\">Europese kmo-definitie</a></li><li>niet wettelijk verplicht zijn om een waterscan te laten uitvoeren</li><li>een totaal waterverbruik hebben van meer dan 500 m³ per jaar op vestigingsniveau</li><li>een waterscan aanvragen voor niet meer dan 2 vestigingen per onderneming</li><li>voldoen aan de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/veelgestelde-vragen-de-minimis\">Europese de-minimis regelgeving</a></li><li>geen land- of tuinbouwactiviteit als hoofdactiviteit te hebben</li></ul>"},"naam":{"nl-BE-x-formal":"Voorwaarden","nl-BE-x-generated-informal":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Is een onderneming geïnteresseerd om een waterscan te laten uitvoeren, dan moet die contact opnemen met één van de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/waterscan/hoe-vraag-je-een-waterscan-aan\">geselecteerde studiebureaus</a>, die de waterscan in opdracht van VLAIO uitvoeren. Er zullen middelen beschikbaar zijn tussen 1 januari 2023 tot eind 2025 of tot uitputting van de middelen. </p>","nl-BE-x-formal":"<p>Is een onderneming geïnteresseerd om een waterscan te laten uitvoeren, dan moet die contact opnemen met één van de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/waterscan/hoe-vraag-je-een-waterscan-aan\">geselecteerde studiebureaus</a>, die de waterscan in opdracht van VLAIO uitvoeren. Er zullen middelen beschikbaar zijn tussen 1 januari 2023 tot eind 2025 of tot uitputting van de middelen. </p>","nl":"<p>Is een onderneming geïnteresseerd om een waterscan te laten uitvoeren, dan moet die contact opnemen met één van de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/waterscan/hoe-vraag-je-een-waterscan-aan\">geselecteerde studiebureaus</a>, die de waterscan in opdracht van VLAIO uitvoeren. Er zullen middelen beschikbaar zijn tussen 1 januari 2023 tot eind 2025 of tot uitputting van de middelen. </p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl-BE-x-formal":"VLAIO - waterscan","nl":"VLAIO - waterscan","nl-BE-x-generated-informal":"VLAIO - waterscan"},"url":"https://www.vlaio.be/nl/subsidies-financiering/waterscan","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl-BE-x-generated-informal":"<p>De eerstelijnswaterscan is gratis. Voor de uitgebreide waterscan draagt de onderneming 20% van de reële kost van de scan. Bij aanvang van de scan zal het uitvoerend studiebureau aangeven wat het concrete bedrag is. </p>","nl-BE-x-formal":"<p>De eerstelijnswaterscan is gratis. Voor de uitgebreide waterscan draagt de onderneming 20% van de reële kost van de scan. Bij aanvang van de scan zal het uitvoerend studiebureau aangeven wat het concrete bedrag is. </p>","nl":"<p>De eerstelijnswaterscan is gratis. Voor de uitgebreide waterscan draagt de onderneming 20% van de reële kost van de scan. Bij aanvang van de scan zal het uitvoerend studiebureau aangeven wat het concrete bedrag is. </p>"},"naam":{"nl":"Kost","nl-BE-x-formal":"Kost","nl-BE-x-generated-informal":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-02-01T08:03:43Z","laatstGewijzigd":"2023-05-22T09:42:49Z","laatstOntvangen":"2024-01-30T15:10:27.678873922Z","productnummer":"3133","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/36a31e61-f918-4458-83f3-f130eb1254c1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e66f733c-d90a-4867-8190-41a9b6522b5a"},{"id":"7be2f138-6188-4877-bee3-eb7e5e5c63ee","generatedAtTime":"2024-01-30T15:10:27.416493Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":" Projectsubsidie Natuur in je school - Natuur","nl-BE-x-formal":" Projectsubsidie Natuur in je school - Natuur","nl-BE-x-generated-informal":" Projectsubsidie Natuur in je school - Natuur"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>","nl":"<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>","nl-BE-x-generated-informal":"<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>","nl-BE-x-formal":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-01-31T10:28:36Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:27.367670275Z","productnummer":"2906","gearchiveerd":false,"subsidiemaatregel":"QF","metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7be2f138-6188-4877-bee3-eb7e5e5c63ee","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6ab1a1e6-61c6-44e0-b274-e8f1436f4455"},{"id":"376e852f-72f5-485d-b2e2-9ba010d9a881","generatedAtTime":"2024-01-30T15:10:27.252228Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vergunning en erkenning voor (internationaal) geregeld vervoer","nl-BE-x-formal":"Vergunning en erkenning voor (internationaal) geregeld vervoer","nl-BE-x-generated-informal":"Vergunning en erkenning voor (internationaal) geregeld vervoer"},"beschrijving":{"nl-BE-x-formal":"<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>","nl":"<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:54Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:27.206001464Z","productnummer":"2905","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/376e852f-72f5-485d-b2e2-9ba010d9a881","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/289e5cc0-5095-482e-a69f-f505cc9b43b8"},{"id":"e8723506-5ae1-4c86-a36b-a4370a179eb5","generatedAtTime":"2024-01-30T15:10:27.092602Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Erkenning als technische dienst","nl":"Erkenning als technische dienst","nl-BE-x-formal":"Erkenning als technische dienst"},"beschrijving":{"nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:54Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:27.052119862Z","productnummer":"2904","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e8723506-5ae1-4c86-a36b-a4370a179eb5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/1bfa7e3b-3a97-4fca-9040-176a32c3b284"},{"id":"19cd7660-d8d1-458f-ad5b-a9ed20c21de6","generatedAtTime":"2024-01-30T15:10:26.933227Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Erkenning als rijschool","nl-BE-x-formal":"Erkenning als rijschool","nl":"Erkenning als rijschool"},"beschrijving":{"nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend rijschool te worden.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend rijschool te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend rijschool te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:54Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:26.890715863Z","productnummer":"2903","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/19cd7660-d8d1-458f-ad5b-a9ed20c21de6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/42b77bfe-016f-43e0-a57e-6f270589fbcb"},{"id":"ffe022ae-37e2-4f7b-b12c-ab965acf5aa5","generatedAtTime":"2024-01-30T15:10:26.714403Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Erkenning als opleidingscentrum voor nascholing vakbekwaamheid","nl":"Erkenning als opleidingscentrum voor nascholing vakbekwaamheid","nl-BE-x-generated-informal":"Erkenning als opleidingscentrum voor nascholing vakbekwaamheid"},"beschrijving":{"nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:26.672114982Z","productnummer":"2902","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ffe022ae-37e2-4f7b-b12c-ab965acf5aa5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/45e50346-810c-4878-90dc-211e86d2dd7d"},{"id":"26f6514c-41ab-4109-9e4f-899dc240df21","generatedAtTime":"2024-01-30T15:10:26.522773Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)","nl":"Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)","nl-BE-x-generated-informal":"Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:26.476660953Z","productnummer":"2901","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/26f6514c-41ab-4109-9e4f-899dc240df21","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/8083492d-272c-47d4-af52-426c0b4b76b3"},{"id":"5a382a2d-62bb-46d5-828f-858e2af1c0f6","generatedAtTime":"2024-01-30T15:10:26.364767Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)","nl-BE-x-generated-informal":"Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)","nl-BE-x-formal":"Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:26.321545979Z","productnummer":"2900","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5a382a2d-62bb-46d5-828f-858e2af1c0f6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fdb0d42e-376b-420e-9113-45ab672d8632"},{"id":"37af6961-2eee-4d59-8e93-73ceb8c13200","generatedAtTime":"2024-01-30T15:10:26.188492Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning als instelling voor het terugkommoment","nl-BE-x-formal":"Erkenning als instelling voor het terugkommoment","nl-BE-x-generated-informal":"Erkenning als instelling voor het terugkommoment"},"beschrijving":{"nl":"<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:26.14452665Z","productnummer":"2899","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/37af6961-2eee-4d59-8e93-73ceb8c13200","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/50754efd-b247-4751-833c-3307b894956c"},{"id":"414a845b-524c-4cf5-9648-d105fd7a788d","generatedAtTime":"2024-01-30T15:10:26.033232Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Erkenning als fabrikant voor Conformiteit van Productie (COP)","nl":"Erkenning als fabrikant voor Conformiteit van Productie (COP)","nl-BE-x-formal":"Erkenning als fabrikant voor Conformiteit van Productie (COP)"},"beschrijving":{"nl":"<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:25.988967684Z","productnummer":"2898","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/414a845b-524c-4cf5-9648-d105fd7a788d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/adee96a8-b573-4a04-944f-9a9f41bb81f8"},{"id":"a911c889-5575-46d7-8ac0-95772473d7f9","generatedAtTime":"2024-01-30T15:10:25.841012Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Communautaire vergunning","nl":"Communautaire vergunning","nl-BE-x-formal":"Communautaire vergunning"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>","nl":"<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:25.779273Z","productnummer":"2897","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a911c889-5575-46d7-8ac0-95772473d7f9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e9119093-6d6a-4bcc-b120-e82883fe4a1d"},{"id":"3e398448-fc8c-44e8-8dc0-a3dbfd8018c3","generatedAtTime":"2024-01-30T15:10:25.665591Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning als LZV-bestuurder","nl-BE-x-formal":"Erkenning als LZV-bestuurder","nl-BE-x-generated-informal":"Erkenning als LZV-bestuurder"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend LZV-bestuurder te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend LZV-bestuurder te worden.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend LZV-bestuurder te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:25.624608934Z","productnummer":"2896","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3e398448-fc8c-44e8-8dc0-a3dbfd8018c3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/9b3754a0-7c58-4adb-ae00-37c8fa504167"},{"id":"790f75ce-5a43-42aa-8efd-8dfae22d0c12","generatedAtTime":"2024-01-30T15:10:25.486382Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning als rij-instructeur","nl-BE-x-formal":"Erkenning als rij-instructeur","nl-BE-x-generated-informal":"Erkenning als rij-instructeur"},"beschrijving":{"nl":"<p>Procedure en voorwaarden om erkend rij-instructeur te worden.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend rij-instructeur te worden.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend rij-instructeur te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:25.443627682Z","productnummer":"2895","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/790f75ce-5a43-42aa-8efd-8dfae22d0c12","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/29604d55-b29d-4310-8bb6-1da1b8ad68d9"},{"id":"fd21c48f-70e9-41ce-9433-3d57e7974e1d","generatedAtTime":"2024-01-30T15:10:25.315074Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Erkenning als rijschooldirecteur","nl":"Erkenning als rijschooldirecteur","nl-BE-x-formal":"Erkenning als rijschooldirecteur"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend rijschooldirecteur te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend rijschooldirecteur te worden.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend rijschooldirecteur te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:25.273820752Z","productnummer":"2894","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fd21c48f-70e9-41ce-9433-3d57e7974e1d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/522d929a-8fcf-41cd-805f-615ec572cfee"},{"id":"c93c48cb-1cf0-4655-be6c-5b4ab979225e","generatedAtTime":"2024-01-30T15:10:25.119924Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Erkenning als lesgever voor het terugkommoment","nl":"Erkenning als lesgever voor het terugkommoment","nl-BE-x-formal":"Erkenning als lesgever voor het terugkommoment"},"beschrijving":{"nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend lesgever te worden voor het terugkommoment.</p>","nl":"<p>Procedure en voorwaarden om erkend lesgever te worden voor het terugkommoment.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend lesgever te worden voor het terugkommoment.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:25.075541247Z","productnummer":"2893","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c93c48cb-1cf0-4655-be6c-5b4ab979225e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3f1e5e8f-617a-4a86-b879-7e31ff96652a"},{"id":"424e106c-e34b-4a85-939b-a84b0bef6172","generatedAtTime":"2024-01-30T15:10:24.935058Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Persoonlijke datakluis","nl-BE-x-formal":"Persoonlijke datakluis","nl-BE-x-generated-informal":"Persoonlijke datakluis"},"beschrijving":{"nl":"<p>Burgers en bedrijven ervaren een groeiend wantrouwen bij het delen van data. Meer en meer Vlamingen geven expliciet aan dat het voorop plaatsen van privacy in dienstverlening een belangrijke reden is om het ene bedrijf boven het andere te verkiezen. Transparantie, overzicht en controle spelen daarbij een grote rol.</p><p>Door de introductie van de nieuwe technologie van persoonlijke datakluizen, in combinatie met een datasluis, kunnen burgers kiezen welke data ze delen met welke organisaties voor welke periode. Het platform van persoonlijke datakluizen moet burgers en bedrijven de volledige controle geven over het delen van hun persoonlijke data.</p>","nl-BE-x-generated-informal":"<p>Burgers en bedrijven ervaren een groeiend wantrouwen bij het delen van data. Meer en meer Vlamingen geven expliciet aan dat het voorop plaatsen van privacy in dienstverlening een belangrijke reden is om het ene bedrijf boven het andere te verkiezen. Transparantie, overzicht en controle spelen daarbij een grote rol.</p><p>Door de introductie van de nieuwe technologie van persoonlijke datakluizen, in combinatie met een datasluis, kunnen burgers kiezen welke data ze delen met welke organisaties voor welke periode. Het platform van persoonlijke datakluizen moet burgers en bedrijven de volledige controle geven over het delen van hun persoonlijke data.</p>","nl-BE-x-formal":"<p>Burgers en bedrijven ervaren een groeiend wantrouwen bij het delen van data. Meer en meer Vlamingen geven expliciet aan dat het voorop plaatsen van privacy in dienstverlening een belangrijke reden is om het ene bedrijf boven het andere te verkiezen. Transparantie, overzicht en controle spelen daarbij een grote rol.</p><p>Door de introductie van de nieuwe technologie van persoonlijke datakluizen, in combinatie met een datasluis, kunnen burgers kiezen welke data ze delen met welke organisaties voor welke periode. Het platform van persoonlijke datakluizen moet burgers en bedrijven de volledige controle geven over het delen van hun persoonlijke data.</p>"},"type":"InfrastructuurMateriaal","themas":["BurgerOverheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002949","@id":"OVO002949"}],"creatie":"2023-01-26T19:40:24Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:24.878224926Z","productnummer":"2892","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/424e106c-e34b-4a85-939b-a84b0bef6172","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/379168ee-4eb9-43c8-b12a-d0937f5e868f"},{"id":"f535df71-86e0-42df-8aa5-1e304a6c2603","generatedAtTime":"2024-01-30T15:10:24.76063Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"AZG - Bijkomende subsidies sectoren overnamedecreet","nl-BE-x-formal":"AZG - Bijkomende subsidies sectoren overnamedecreet","nl":"AZG - Bijkomende subsidies sectoren overnamedecreet"},"beschrijving":{"nl":"<p>AZG - Bijkomende subsidies sectoren overnamedecreet</p>","nl-BE-x-formal":"<p>AZG - Bijkomende subsidies sectoren overnamedecreet</p>","nl-BE-x-generated-informal":"<p>AZG - Bijkomende subsidies sectoren overnamedecreet</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>- Besluit van de Vlaamse Regering houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging</p><p>- Het programmadecreet van 8 juli 2022 bij de aanpassing van de begroting</p><p> </p>","nl-BE-x-formal":"<p>- Besluit van de Vlaamse Regering houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging</p><p>- Het programmadecreet van 8 juli 2022 bij de aanpassing van de begroting</p><p> </p>","nl":"<p>- Besluit van de Vlaamse Regering houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging</p><p>- Het programmadecreet van 8 juli 2022 bij de aanpassing van de begroting</p><p> </p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-01-26T14:03:56Z","laatstGewijzigd":"2023-05-31T14:11:54Z","laatstOntvangen":"2024-01-30T15:10:24.701589812Z","productnummer":"2891","gearchiveerd":false,"subsidiemaatregel":"GT_01","metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f535df71-86e0-42df-8aa5-1e304a6c2603","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/081b165b-ab24-4eee-b52a-e52ea1ae02e0"},{"id":"49b637b3-917a-4f39-ab1f-8ddaff20e1a0","generatedAtTime":"2024-01-30T15:10:24.580758Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Innovatieve Starterssteun","nl-BE-x-generated-informal":"Innovatieve Starterssteun","nl":"Innovatieve Starterssteun"},"beschrijving":{"nl-BE-x-formal":"<p><strong>Update 1/3/23:</strong></p><p>Momenteel is er geen lopende oproep. Starters konden zich aanmelden tem. 28/02/2023, 23.30 uur. VLAIO zal uit de voorstellen de 100 sterkste starters selecteren die toegelaten worden tot het indienen van een subsidieaanvraag tegen 27 april 2023.<br />De beslissing betreffende de subsidietoekenning is voorzien voor de tweede helft van juni 2023.</p><p>Innovatieve starterssteun omvat steun voor innovatieve starters met een sterk groeipotentieel. De steun bestaat uit een begeleiding van de starter door een VLAIO bedrijfsadviseur en een vast steunbedrag van € 50.000. </p>","nl-BE-x-generated-informal":"<p><strong>Update 1/3/23:</strong></p><p>Momenteel is er geen lopende oproep. Starters konden zich aanmelden tem. 28/02/2023, 23.30 uur. VLAIO zal uit de voorstellen de 100 sterkste starters selecteren die toegelaten worden tot het indienen van een subsidieaanvraag tegen 27 april 2023.<br/>De beslissing betreffende de subsidietoekenning is voorzien voor de tweede helft van juni 2023.</p><p>Innovatieve starterssteun omvat steun voor innovatieve starters met een sterk groeipotentieel. De steun bestaat uit een begeleiding van de starter door een VLAIO bedrijfsadviseur en een vast steunbedrag van € 50.000. </p>","nl":"<p><strong>Update 1/3/23:</strong></p><p>Momenteel is er geen lopende oproep. Starters konden zich aanmelden tem. 28/02/2023, 23.30 uur. VLAIO zal uit de voorstellen de 100 sterkste starters selecteren die toegelaten worden tot het indienen van een subsidieaanvraag tegen 27 april 2023.<br />De beslissing betreffende de subsidietoekenning is voorzien voor de tweede helft van juni 2023.</p><p>Innovatieve starterssteun omvat steun voor innovatieve starters met een sterk groeipotentieel. De steun bestaat uit een begeleiding van de starter door een VLAIO bedrijfsadviseur en een vast steunbedrag van € 50.000. </p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"zoektermen":{"nl":["innovatieve","starterssteun","subsidie","innovatie","VLAIO","innoveren","steun"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"contactOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"voorwaarden":[{"beschrijving":{"nl-BE-x-generated-informal":"<p>Alleen vennootschappen die voldoen aan de Europse kmo-definitie van een kleine onderneming komen in aanmerking voor innovatieve starterssteun.</p><p>De onderneming mag maximaal 2 jaar oud zijn op datum van de deadline voor de indiening van de subsidieaanvraag. </p><p>Bekijk alle <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/voorwaarden-om-aanmerking-te-komen-voor\">voorwaarden op de website van VLAIO</a>.</p><p> </p>","nl":"<p>Alleen vennootschappen die voldoen aan de Europse kmo-definitie van een kleine onderneming komen in aanmerking voor innovatieve starterssteun.</p><p>De onderneming mag maximaal 2 jaar oud zijn op datum van de deadline voor de indiening van de subsidieaanvraag. </p><p>Bekijk alle <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/voorwaarden-om-aanmerking-te-komen-voor\">voorwaarden op de website van VLAIO</a>.</p><p> </p>","nl-BE-x-formal":"<p>Alleen vennootschappen die voldoen aan de Europse kmo-definitie van een kleine onderneming komen in aanmerking voor innovatieve starterssteun.</p><p>De onderneming mag maximaal 2 jaar oud zijn op datum van de deadline voor de indiening van de subsidieaanvraag. </p><p>Bekijk alle <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/voorwaarden-om-aanmerking-te-komen-voor\">voorwaarden op de website van VLAIO</a>.</p><p> </p>"},"naam":{"nl-BE-x-formal":"Voorwaarden","nl-BE-x-generated-informal":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p>De steunmaatregel Innovatieve starterssteun werkt met oproepen, met een aanmelding en een preselectie, in samenwerking met geselecteerde VLAIO-partners.</p><p>Aanmelden kan van eind januari 2023 tot 28 februari 2023, 23.30 uur.</p><p>De aanmelding gebeurt door de starter zelf. Deze kiest hierbij voor <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/hoe-vraag-je-innovatieve-starterssteun-aan#Keuze-VLAIO-partners\">één van de VLAIO-partners</a>. </p><p> </p>","nl-BE-x-formal":"<p>De steunmaatregel Innovatieve starterssteun werkt met oproepen, met een aanmelding en een preselectie, in samenwerking met geselecteerde VLAIO-partners.</p><p>Aanmelden kan van eind januari 2023 tot 28 februari 2023, 23.30 uur.</p><p>De aanmelding gebeurt door de starter zelf. Deze kiest hierbij voor <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/hoe-vraag-je-innovatieve-starterssteun-aan#Keuze-VLAIO-partners\">één van de VLAIO-partners</a>. </p><p> </p>","nl":"<p>De steunmaatregel Innovatieve starterssteun werkt met oproepen, met een aanmelding en een preselectie, in samenwerking met geselecteerde VLAIO-partners.</p><p>Aanmelden kan van eind januari 2023 tot 28 februari 2023, 23.30 uur.</p><p>De aanmelding gebeurt door de starter zelf. Deze kiest hierbij voor <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/hoe-vraag-je-innovatieve-starterssteun-aan#Keuze-VLAIO-partners\">één van de VLAIO-partners</a>. </p><p> </p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl-BE-x-formal":"<p>De financiële steun bestaat uit een vast bedrag van € 50.000. Tegenover dit bedrag staat een overtuigende inschatting van te maken kosten ter waarde van € 70.000. We hanteren de regel dat interne personeelsinspanningen mogen verrekend worden aan € 70.000 per mensjaar.</p>","nl":"<p>De financiële steun bestaat uit een vast bedrag van € 50.000. Tegenover dit bedrag staat een overtuigende inschatting van te maken kosten ter waarde van € 70.000. We hanteren de regel dat interne personeelsinspanningen mogen verrekend worden aan € 70.000 per mensjaar.</p>","nl-BE-x-generated-informal":"<p>De financiële steun bestaat uit een vast bedrag van € 50.000. Tegenover dit bedrag staat een overtuigende inschatting van te maken kosten ter waarde van € 70.000. We hanteren de regel dat interne personeelsinspanningen mogen verrekend worden aan € 70.000 per mensjaar.</p>"},"naam":{"nl":"Financieel voordeel","nl-BE-x-formal":"Financieel voordeel","nl-BE-x-generated-informal":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-01-25T07:55:07Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-01-30T15:10:24.455508923Z","productnummer":"2889","gearchiveerd":false,"metadata":{"uJeVersie":"33.4.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/49b637b3-917a-4f39-ab1f-8ddaff20e1a0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/01f26b76-e733-463e-9b5a-3381c138f692"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1288",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1287",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2024-01-30T15:10:24.580758Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1289",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2024-01-30T15:10:29.374405Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1288",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "248582d2-987f-4628-866d-1cd1589668d3",
+      "generatedAtTime": "2024-01-30T15:10:29.374405Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning als classificeerder voor slachthuizen",
+        "nl-BE-x-formal": "Erkenning als classificeerder voor slachthuizen",
+        "nl-BE-x-generated-informal": "Erkenning als classificeerder voor slachthuizen"
+      },
+      "beschrijving": {
+        "nl": "<p>Sommige slachthuizen zijn verplicht de karkassen van de geslachte varkens of runderen in te delen. De indelingsmethoden voor varkens bestaan uit toestellen die volautomatisch (camera’s/scanners) werken of worden bediend door erkende classificeerders (priktoestellen, meetlat). Karkassen van runderen worden visueel beoordeeld door erkende classificeerders. Classificeerders moeten daartoe erkend worden door het Departement Landbouw en Visserij.</p><p>De prestaties van de erkende classificeerders worden regelmatig op de slachtlijn gecontroleerd en geëvalueerd met het oog op het behoud van hun erkenning.</p>",
+        "nl-BE-x-formal": "<p>Sommige slachthuizen zijn verplicht de karkassen van de geslachte varkens of runderen in te delen. De indelingsmethoden voor varkens bestaan uit toestellen die volautomatisch (camera’s/scanners) werken of worden bediend door erkende classificeerders (priktoestellen, meetlat). Karkassen van runderen worden visueel beoordeeld door erkende classificeerders. Classificeerders moeten daartoe erkend worden door het Departement Landbouw en Visserij.</p><p>De prestaties van de erkende classificeerders worden regelmatig op de slachtlijn gecontroleerd en geëvalueerd met het oog op het behoud van hun erkenning.</p>",
+        "nl-BE-x-generated-informal": "<p>Sommige slachthuizen zijn verplicht de karkassen van de geslachte varkens of runderen in te delen. De indelingsmethoden voor varkens bestaan uit toestellen die volautomatisch (camera’s/scanners) werken of worden bediend door erkende classificeerders (priktoestellen, meetlat). Karkassen van runderen worden visueel beoordeeld door erkende classificeerders. Classificeerders moeten daartoe erkend worden door het Departement Landbouw en Visserij.</p><p>De prestaties van de erkende classificeerders worden regelmatig op de slachtlijn gecontroleerd en geëvalueerd met het oog op het behoud van hun erkenning.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens</p>",
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens</p>",
+        "nl": "<p>Besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>De voorwaarden staan opgesomd in artikel 46 van het besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens:</p><ul><li>uittreksel strafregister</li><li>vorming gevolgd bij CBKc</li><li>geslaagd voor het examen</li><li>bewijs op de hoogte zijn van de wetgeving inzake indeling van geslachte runderen of varkens</li><li>bewijs correct toepassen indelingsschema geslachte runderen of bewijs goed hanteren indelingstoestel geslachte varkens.</li></ul>",
+            "nl-BE-x-formal": "<p>De voorwaarden staan opgesomd in artikel 46 van het besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens:</p><ul><li>uittreksel strafregister</li><li>vorming gevolgd bij CBKc</li><li>geslaagd voor het examen</li><li>bewijs op de hoogte zijn van de wetgeving inzake indeling van geslachte runderen of varkens</li><li>bewijs correct toepassen indelingsschema geslachte runderen of bewijs goed hanteren indelingstoestel geslachte varkens.</li></ul>",
+            "nl": "<p>De voorwaarden staan opgesomd in artikel 46 van het besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens:</p><ul><li>uittreksel strafregister</li><li>vorming gevolgd bij CBKc</li><li>geslaagd voor het examen</li><li>bewijs op de hoogte zijn van de wetgeving inzake indeling van geslachte runderen of varkens</li><li>bewijs correct toepassen indelingsschema geslachte runderen of bewijs goed hanteren indelingstoestel geslachte varkens.</li></ul>"
+          },
+          "naam": {
+            "nl-BE-x-formal": "Voorwaarden",
+            "nl-BE-x-generated-informal": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>Volgens artikel 45 van het besluit van 26 april 2013 moet de inrichting (het slachthuis) aanvraag doen bij de bevoegde autoriteit. De aanvraag bevat de identificatiegegevens van de inrichting en de identiteit van de classificeerder. De inrichting richt gelijktijdig ook een verzoek aan de CBKc tot het volgen van een vorming.</p>",
+            "nl-BE-x-formal": "<p>Volgens artikel 45 van het besluit van 26 april 2013 moet de inrichting (het slachthuis) aanvraag doen bij de bevoegde autoriteit. De aanvraag bevat de identificatiegegevens van de inrichting en de identiteit van de classificeerder. De inrichting richt gelijktijdig ook een verzoek aan de CBKc tot het volgen van een vorming.</p>",
+            "nl": "<p>Volgens artikel 45 van het besluit van 26 april 2013 moet de inrichting (het slachthuis) aanvraag doen bij de bevoegde autoriteit. De aanvraag bevat de identificatiegegevens van de inrichting en de identiteit van de classificeerder. De inrichting richt gelijktijdig ook een verzoek aan de CBKc tot het volgen van een vorming.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Karkasclassificatie varkens",
+            "nl": "Karkasclassificatie varkens",
+            "nl-BE-x-formal": "Karkasclassificatie varkens"
+          },
+          "url": "https://lv.vlaanderen.be/dier/varkens/karkasclassificatie",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Karkasclassificatie runderen",
+            "nl-BE-x-formal": "Karkasclassificatie runderen",
+            "nl": "Karkasclassificatie runderen"
+          },
+          "url": "https://lv.vlaanderen.be/dier/runderen/karkasclassificatie",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>De eerste vijf classificeerders per inrichting kunnen kosteloos een erkenning verkrijgen.</p>",
+            "nl": "<p>De eerste vijf classificeerders per inrichting kunnen kosteloos een erkenning verkrijgen.</p>",
+            "nl-BE-x-generated-informal": "<p>De eerste vijf classificeerders per inrichting kunnen kosteloos een erkenning verkrijgen.</p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "nl-BE-x-formal": "Kost",
+            "nl-BE-x-generated-informal": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-02-15T08:22:23Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:29.213619885Z",
+      "productnummer": "2915",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/248582d2-987f-4628-866d-1cd1589668d3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4457fe48-31ee-44fd-a8ec-fcc922f89e62"
+    },
+    {
+      "id": "2cf46dea-975b-4dbf-a5e4-1090451ee30e",
+      "generatedAtTime": "2024-01-30T15:10:29.059819Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Aanvraag document met betrekking tot de homologatie van een individueel voertuig",
+        "nl-BE-x-generated-informal": "Aanvraag document met betrekking tot de homologatie van een individueel voertuig",
+        "nl": "Aanvraag document met betrekking tot de homologatie van een individueel voertuig"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Het afleveren van een document met betrekking tot de homologatie van een individueel voertuig (afgifte duplicaat gelijkvormigheidsattest / identificatieplaatje, herinslaan chassisnummer, bevestigen originaliteit van ingeslagen chassisnummer, montage tuning onderdeel (uitlaat, zetel, …), wijziging van de motor bij een oldtimer).</p>",
+        "nl": "<p>Het afleveren van een document met betrekking tot de homologatie van een individueel voertuig (afgifte duplicaat gelijkvormigheidsattest / identificatieplaatje, herinslaan chassisnummer, bevestigen originaliteit van ingeslagen chassisnummer, montage tuning onderdeel (uitlaat, zetel, …), wijziging van de motor bij een oldtimer).</p>",
+        "nl-BE-x-formal": "<p>Het afleveren van een document met betrekking tot de homologatie van een individueel voertuig (afgifte duplicaat gelijkvormigheidsattest / identificatieplaatje, herinslaan chassisnummer, bevestigen originaliteit van ingeslagen chassisnummer, montage tuning onderdeel (uitlaat, zetel, …), wijziging van de motor bij een oldtimer).</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-02-10T12:27:46Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:28.97571943Z",
+      "productnummer": "2913",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2cf46dea-975b-4dbf-a5e4-1090451ee30e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b8cffff7-e890-4811-80e7-e055e455413e"
+    },
+    {
+      "id": "9a078984-bd73-4a1f-8ced-4ecaca47563a",
+      "generatedAtTime": "2024-01-30T15:10:28.847218Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Certificaat eerste erkenning voertuigfabrikant",
+        "nl-BE-x-generated-informal": "Certificaat eerste erkenning voertuigfabrikant",
+        "nl": "Certificaat eerste erkenning voertuigfabrikant"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Het afleveren van een certificaat met betrekking tot de initiële erkenning van een fabrikant van voertuigen / voertuigonderdelen (COP, PVB/PVG).</p>",
+        "nl": "<p>Het afleveren van een certificaat met betrekking tot de initiële erkenning van een fabrikant van voertuigen / voertuigonderdelen (COP, PVB/PVG).</p>",
+        "nl-BE-x-formal": "<p>Het afleveren van een certificaat met betrekking tot de initiële erkenning van een fabrikant van voertuigen / voertuigonderdelen (COP, PVB/PVG).</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-02-10T12:27:46Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:28.800637481Z",
+      "productnummer": "2912",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9a078984-bd73-4a1f-8ced-4ecaca47563a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6d18cb47-eba9-4003-9f45-b8db0c49f9c7"
+    },
+    {
+      "id": "f7244217-2e1f-4b44-aefd-de0da280236c",
+      "generatedAtTime": "2024-01-30T15:10:28.680041Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Validatie-attest voor een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets)",
+        "nl": "Validatie-attest voor een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets)",
+        "nl-BE-x-generated-informal": "Validatie-attest voor een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets)"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Het afleveren van een validatiecertificaat ter validering van de technische gegevens van een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets) op basis van het buitenlands kentekenbewijs.</p>",
+        "nl": "<p>Het afleveren van een validatiecertificaat ter validering van de technische gegevens van een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets) op basis van het buitenlands kentekenbewijs.</p>",
+        "nl-BE-x-generated-informal": "<p>Het afleveren van een validatiecertificaat ter validering van de technische gegevens van een uit een andere EU-lidstaat ingevoerd voertuig van categorie L (brom- of motorfiets) op basis van het buitenlands kentekenbewijs.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-02-10T12:27:46Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:28.632128505Z",
+      "productnummer": "2911",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f7244217-2e1f-4b44-aefd-de0da280236c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f694b09c-1345-437a-b965-4036a224f6be"
+    },
+    {
+      "id": "f9f309a2-7d9f-44b2-b739-96f05cad1823",
+      "generatedAtTime": "2024-01-30T15:10:28.518394Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Proces-verbaal van benaming (PVB) voor een individueel voertuig van speciale constructie",
+        "nl": "Proces-verbaal van benaming (PVB) voor een individueel voertuig van speciale constructie",
+        "nl-BE-x-generated-informal": "Proces-verbaal van benaming (PVB) voor een individueel voertuig van speciale constructie"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Het afleveren van een erkenning voor een voertuig van speciale constructie om het te kunnen registreren voor de verplaatsing van het ledige voertuig op de openbare weg.</p><p>Dit document is bestemd voor voertuigen van speciale constructie die uitsluitend bestemd zijn om als werktuig te worden gebruikt. Hiertoe behoren bepaalde landbouwvoertuigen en industriële voertuigen. Inzonderheid het zelfrijdend bedrijfsmaterieel, het zelfrijdend landbouwmaterieel en de werktuigaanhangwagens die niet onder een Europese kaderverordening vallen.</p>",
+        "nl": "<p>Het afleveren van een erkenning voor een voertuig van speciale constructie om het te kunnen registreren voor de verplaatsing van het ledige voertuig op de openbare weg.</p><p>Dit document is bestemd voor voertuigen van speciale constructie die uitsluitend bestemd zijn om als werktuig te worden gebruikt. Hiertoe behoren bepaalde landbouwvoertuigen en industriële voertuigen. Inzonderheid het zelfrijdend bedrijfsmaterieel, het zelfrijdend landbouwmaterieel en de werktuigaanhangwagens die niet onder een Europese kaderverordening vallen.</p>",
+        "nl-BE-x-generated-informal": "<p>Het afleveren van een erkenning voor een voertuig van speciale constructie om het te kunnen registreren voor de verplaatsing van het ledige voertuig op de openbare weg.</p><p>Dit document is bestemd voor voertuigen van speciale constructie die uitsluitend bestemd zijn om als werktuig te worden gebruikt. Hiertoe behoren bepaalde landbouwvoertuigen en industriële voertuigen. Inzonderheid het zelfrijdend bedrijfsmaterieel, het zelfrijdend landbouwmaterieel en de werktuigaanhangwagens die niet onder een Europese kaderverordening vallen.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-02-10T12:27:46Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:28.461797817Z",
+      "productnummer": "2910",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f9f309a2-7d9f-44b2-b739-96f05cad1823",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3f0ca5fe-8f17-49ab-9c99-12830c339119"
+    },
+    {
+      "id": "dbe9ba88-f08c-4fbc-8c59-4e13156f6677",
+      "generatedAtTime": "2024-01-30T15:10:28.214722Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "AZG - projectsubsidies algemeen",
+        "nl-BE-x-formal": "AZG - projectsubsidies algemeen",
+        "nl-BE-x-generated-informal": "AZG - projectsubsidies algemeen"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Dit zijn subsidies voor Zorg en Gezondheid die passen binnen het algemene gezondheidsbeleid.</p>",
+        "nl-BE-x-generated-informal": "<p>Dit zijn subsidies voor Zorg en Gezondheid die passen binnen het algemene gezondheidsbeleid.</p>",
+        "nl": "<p>Dit zijn subsidies voor Zorg en Gezondheid die passen binnen het algemene gezondheidsbeleid.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-02-02T12:46:21Z",
+      "laatstGewijzigd": "2023-05-31T14:11:34Z",
+      "laatstOntvangen": "2024-01-30T15:10:28.169796297Z",
+      "productnummer": "2908",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GI",
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/dbe9ba88-f08c-4fbc-8c59-4e13156f6677",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e9cf9216-929e-4630-802d-a91ca0f2ec2b"
+    },
+    {
+      "id": "146b86d8-7a66-4dbb-a1cb-033fe8ecf521",
+      "generatedAtTime": "2024-01-30T15:10:28.041447Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Brownfieldconvenant",
+        "nl-BE-x-formal": "Brownfieldconvenant",
+        "nl-BE-x-generated-informal": "Brownfieldconvenant"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>In het Brownfieldconvenant worden afspraken vastgelegd tussen de Vlaamse regering enerzijds en private en publieke actoren anderzijds rond het hergebruik van verwaarloosde of onderbenutte gronden. Dat kan onder meer gaan over het verwerven van gronden noodzakelijk voor het project.</p><p>Natuurlijke en rechtspersonen die op grond van hun eigendomsrechten of overige zakelijke rechten toestemming moeten verlenen voor handelingen of activiteiten in het kader van een Brownfieldproject kunnen een rol als actor opnemen binnen deze convenanten.</p>",
+        "nl": "<p>In het Brownfieldconvenant worden afspraken vastgelegd tussen de Vlaamse regering enerzijds en private en publieke actoren anderzijds rond het hergebruik van verwaarloosde of onderbenutte gronden. Dat kan onder meer gaan over het verwerven van gronden noodzakelijk voor het project.</p><p>Natuurlijke en rechtspersonen die op grond van hun eigendomsrechten of overige zakelijke rechten toestemming moeten verlenen voor handelingen of activiteiten in het kader van een Brownfieldproject kunnen een rol als actor opnemen binnen deze convenanten.</p>",
+        "nl-BE-x-formal": "<p>In het Brownfieldconvenant worden afspraken vastgelegd tussen de Vlaamse regering enerzijds en private en publieke actoren anderzijds rond het hergebruik van verwaarloosde of onderbenutte gronden. Dat kan onder meer gaan over het verwerven van gronden noodzakelijk voor het project.</p><p>Natuurlijke en rechtspersonen die op grond van hun eigendomsrechten of overige zakelijke rechten toestemming moeten verlenen voor handelingen of activiteiten in het kader van een Brownfieldproject kunnen een rol als actor opnemen binnen deze convenanten.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>Een aanvraag voor een Brownfieldconvenant moet minstens ondertekend zijn door alle actoren die gezamenlijk beschikken over het eigendomsrecht of de overige zakelijke rechten op meer dan 70% van de oppervlakte van de projectgronden. De eigenaars en de houders van andere zakelijke rechten op projectgronden die niet optreden als actor worden met een aangetekende brief op de hoogte gebracht van de voorlopige afbakening van het projectgebied, vermeld in het aanvraagformulier.</p><p>Alle belanghebbenden kunnen tegen de voorlopige afbakening van het projectgebied bezwaar indienen.</p>",
+            "nl": "<p>Een aanvraag voor een Brownfieldconvenant moet minstens ondertekend zijn door alle actoren die gezamenlijk beschikken over het eigendomsrecht of de overige zakelijke rechten op meer dan 70% van de oppervlakte van de projectgronden. De eigenaars en de houders van andere zakelijke rechten op projectgronden die niet optreden als actor worden met een aangetekende brief op de hoogte gebracht van de voorlopige afbakening van het projectgebied, vermeld in het aanvraagformulier.</p><p>Alle belanghebbenden kunnen tegen de voorlopige afbakening van het projectgebied bezwaar indienen.</p>",
+            "nl-BE-x-generated-informal": "<p>Een aanvraag voor een Brownfieldconvenant moet minstens ondertekend zijn door alle actoren die gezamenlijk beschikken over het eigendomsrecht of de overige zakelijke rechten op meer dan 70% van de oppervlakte van de projectgronden. De eigenaars en de houders van andere zakelijke rechten op projectgronden die niet optreden als actor worden met een aangetekende brief op de hoogte gebracht van de voorlopige afbakening van het projectgebied, vermeld in het aanvraagformulier.</p><p>Alle belanghebbenden kunnen tegen de voorlopige afbakening van het projectgebied bezwaar indienen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Brownfieldconvenant",
+            "nl-BE-x-formal": "Brownfieldconvenant",
+            "nl-BE-x-generated-informal": "Brownfieldconvenant"
+          },
+          "url": "https://www.vlaio.be/nl/subsidies-financiering/brownfieldconvenant",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-02-02T10:33:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:27.954763371Z",
+      "productnummer": "2907",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/146b86d8-7a66-4dbb-a1cb-033fe8ecf521",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/99c97372-5706-48a3-a0de-baabbadd9111"
+    },
+    {
+      "id": "36a31e61-f918-4458-83f3-f130eb1254c1",
+      "generatedAtTime": "2024-01-30T15:10:27.810512Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "VLAIO - Waterscan",
+        "nl-BE-x-formal": "VLAIO - Waterscan",
+        "nl-BE-x-generated-informal": "VLAIO - Waterscan"
+      },
+      "beschrijving": {
+        "nl": "<p>Sinds begin 2023 biedt VLAIO een <strong>gratis waterscan voor ondernemingen</strong> aan. Een deskundige van één van de geselecteerde studiebureaus zal het waterverbruik visualiseren en suggesties bieden voor waterbesparende maatregelen. De onderneming ontvangt een rapport met een gedetailleerde waterbalans en concrete suggesties voor waterbesparing.</p>",
+        "nl-BE-x-generated-informal": "<p>Sinds begin 2023 biedt VLAIO een <strong>gratis waterscan voor ondernemingen</strong> aan. Een deskundige van één van de geselecteerde studiebureaus zal het waterverbruik visualiseren en suggesties bieden voor waterbesparende maatregelen. De onderneming ontvangt een rapport met een gedetailleerde waterbalans en concrete suggesties voor waterbesparing.</p>",
+        "nl-BE-x-formal": "<p>Sinds begin 2023 biedt VLAIO een <strong>gratis waterscan voor ondernemingen</strong> aan. Een deskundige van één van de geselecteerde studiebureaus zal het waterverbruik visualiseren en suggesties bieden voor waterbesparende maatregelen. De onderneming ontvangt een rapport met een gedetailleerde waterbalans en concrete suggesties voor waterbesparing.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "waterscan",
+          "water",
+          "water besparen",
+          "waterbesparend",
+          "waterbesparende maatregelen"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>De onderneming die een waterscan aanvraagt, moet voldoen aan volgende voorwaarden:</p><ul><li>een kleine of middelgrote onderneming zijn volgens de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/kmo-definitie-verschil-europese-en-fiscale\">Europese kmo-definitie</a></li><li>niet wettelijk verplicht zijn om een waterscan te laten uitvoeren</li><li>een totaal waterverbruik hebben van meer dan 500 m³ per jaar op vestigingsniveau</li><li>een waterscan aanvragen voor niet meer dan 2 vestigingen per onderneming</li><li>voldoen aan de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/veelgestelde-vragen-de-minimis\">Europese de-minimis regelgeving</a></li><li>geen land- of tuinbouwactiviteit als hoofdactiviteit te hebben</li></ul>",
+            "nl": "<p>De onderneming die een waterscan aanvraagt, moet voldoen aan volgende voorwaarden:</p><ul><li>een kleine of middelgrote onderneming zijn volgens de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/kmo-definitie-verschil-europese-en-fiscale\">Europese kmo-definitie</a></li><li>niet wettelijk verplicht zijn om een waterscan te laten uitvoeren</li><li>een totaal waterverbruik hebben van meer dan 500 m³ per jaar op vestigingsniveau</li><li>een waterscan aanvragen voor niet meer dan 2 vestigingen per onderneming</li><li>voldoen aan de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/veelgestelde-vragen-de-minimis\">Europese de-minimis regelgeving</a></li><li>geen land- of tuinbouwactiviteit als hoofdactiviteit te hebben</li></ul>",
+            "nl-BE-x-generated-informal": "<p>De onderneming die een waterscan aanvraagt, moet voldoen aan volgende voorwaarden:</p><ul><li>een kleine of middelgrote onderneming zijn volgens de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/kmo-definitie-verschil-europese-en-fiscale\">Europese kmo-definitie</a></li><li>niet wettelijk verplicht zijn om een waterscan te laten uitvoeren</li><li>een totaal waterverbruik hebben van meer dan 500 m³ per jaar op vestigingsniveau</li><li>een waterscan aanvragen voor niet meer dan 2 vestigingen per onderneming</li><li>voldoen aan de <a href=\"https://www.vlaio.be/nl/begeleiding-advies/financiering/overheidsmaatregelen/veelgestelde-vragen-de-minimis\">Europese de-minimis regelgeving</a></li><li>geen land- of tuinbouwactiviteit als hoofdactiviteit te hebben</li></ul>"
+          },
+          "naam": {
+            "nl-BE-x-formal": "Voorwaarden",
+            "nl-BE-x-generated-informal": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>Is een onderneming geïnteresseerd om een waterscan te laten uitvoeren, dan moet die contact opnemen met één van de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/waterscan/hoe-vraag-je-een-waterscan-aan\">geselecteerde studiebureaus</a>, die de waterscan in opdracht van VLAIO uitvoeren. Er zullen middelen beschikbaar zijn tussen 1 januari 2023 tot eind 2025 of tot uitputting van de middelen. </p>",
+            "nl-BE-x-formal": "<p>Is een onderneming geïnteresseerd om een waterscan te laten uitvoeren, dan moet die contact opnemen met één van de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/waterscan/hoe-vraag-je-een-waterscan-aan\">geselecteerde studiebureaus</a>, die de waterscan in opdracht van VLAIO uitvoeren. Er zullen middelen beschikbaar zijn tussen 1 januari 2023 tot eind 2025 of tot uitputting van de middelen. </p>",
+            "nl": "<p>Is een onderneming geïnteresseerd om een waterscan te laten uitvoeren, dan moet die contact opnemen met één van de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/waterscan/hoe-vraag-je-een-waterscan-aan\">geselecteerde studiebureaus</a>, die de waterscan in opdracht van VLAIO uitvoeren. Er zullen middelen beschikbaar zijn tussen 1 januari 2023 tot eind 2025 of tot uitputting van de middelen. </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-formal": "VLAIO - waterscan",
+            "nl": "VLAIO - waterscan",
+            "nl-BE-x-generated-informal": "VLAIO - waterscan"
+          },
+          "url": "https://www.vlaio.be/nl/subsidies-financiering/waterscan",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>De eerstelijnswaterscan is gratis. Voor de uitgebreide waterscan draagt de onderneming 20% van de reële kost van de scan. Bij aanvang van de scan zal het uitvoerend studiebureau aangeven wat het concrete bedrag is. </p>",
+            "nl-BE-x-formal": "<p>De eerstelijnswaterscan is gratis. Voor de uitgebreide waterscan draagt de onderneming 20% van de reële kost van de scan. Bij aanvang van de scan zal het uitvoerend studiebureau aangeven wat het concrete bedrag is. </p>",
+            "nl": "<p>De eerstelijnswaterscan is gratis. Voor de uitgebreide waterscan draagt de onderneming 20% van de reële kost van de scan. Bij aanvang van de scan zal het uitvoerend studiebureau aangeven wat het concrete bedrag is. </p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "nl-BE-x-formal": "Kost",
+            "nl-BE-x-generated-informal": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-02-01T08:03:43Z",
+      "laatstGewijzigd": "2023-05-22T09:42:49Z",
+      "laatstOntvangen": "2024-01-30T15:10:27.678873922Z",
+      "productnummer": "3133",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/36a31e61-f918-4458-83f3-f130eb1254c1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e66f733c-d90a-4867-8190-41a9b6522b5a"
+    },
+    {
+      "id": "7be2f138-6188-4877-bee3-eb7e5e5c63ee",
+      "generatedAtTime": "2024-01-30T15:10:27.416493Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": " Projectsubsidie Natuur in je school - Natuur",
+        "nl-BE-x-formal": " Projectsubsidie Natuur in je school - Natuur",
+        "nl-BE-x-generated-informal": " Projectsubsidie Natuur in je school - Natuur"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>",
+        "nl": "<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-formal": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-01-31T10:28:36Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:27.367670275Z",
+      "productnummer": "2906",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QF",
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7be2f138-6188-4877-bee3-eb7e5e5c63ee",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6ab1a1e6-61c6-44e0-b274-e8f1436f4455"
+    },
+    {
+      "id": "376e852f-72f5-485d-b2e2-9ba010d9a881",
+      "generatedAtTime": "2024-01-30T15:10:27.252228Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vergunning en erkenning voor (internationaal) geregeld vervoer",
+        "nl-BE-x-formal": "Vergunning en erkenning voor (internationaal) geregeld vervoer",
+        "nl-BE-x-generated-informal": "Vergunning en erkenning voor (internationaal) geregeld vervoer"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>",
+        "nl": "<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:54Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:27.206001464Z",
+      "productnummer": "2905",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/376e852f-72f5-485d-b2e2-9ba010d9a881",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/289e5cc0-5095-482e-a69f-f505cc9b43b8"
+    },
+    {
+      "id": "e8723506-5ae1-4c86-a36b-a4370a179eb5",
+      "generatedAtTime": "2024-01-30T15:10:27.092602Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Erkenning als technische dienst",
+        "nl": "Erkenning als technische dienst",
+        "nl-BE-x-formal": "Erkenning als technische dienst"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:54Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:27.052119862Z",
+      "productnummer": "2904",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e8723506-5ae1-4c86-a36b-a4370a179eb5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/1bfa7e3b-3a97-4fca-9040-176a32c3b284"
+    },
+    {
+      "id": "19cd7660-d8d1-458f-ad5b-a9ed20c21de6",
+      "generatedAtTime": "2024-01-30T15:10:26.933227Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Erkenning als rijschool",
+        "nl-BE-x-formal": "Erkenning als rijschool",
+        "nl": "Erkenning als rijschool"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend rijschool te worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend rijschool te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend rijschool te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:54Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:26.890715863Z",
+      "productnummer": "2903",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/19cd7660-d8d1-458f-ad5b-a9ed20c21de6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/42b77bfe-016f-43e0-a57e-6f270589fbcb"
+    },
+    {
+      "id": "ffe022ae-37e2-4f7b-b12c-ab965acf5aa5",
+      "generatedAtTime": "2024-01-30T15:10:26.714403Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Erkenning als opleidingscentrum voor nascholing vakbekwaamheid",
+        "nl": "Erkenning als opleidingscentrum voor nascholing vakbekwaamheid",
+        "nl-BE-x-generated-informal": "Erkenning als opleidingscentrum voor nascholing vakbekwaamheid"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:26.672114982Z",
+      "productnummer": "2902",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ffe022ae-37e2-4f7b-b12c-ab965acf5aa5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/45e50346-810c-4878-90dc-211e86d2dd7d"
+    },
+    {
+      "id": "26f6514c-41ab-4109-9e4f-899dc240df21",
+      "generatedAtTime": "2024-01-30T15:10:26.522773Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)",
+        "nl": "Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)",
+        "nl-BE-x-generated-informal": "Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:26.476660953Z",
+      "productnummer": "2901",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/26f6514c-41ab-4109-9e4f-899dc240df21",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/8083492d-272c-47d4-af52-426c0b4b76b3"
+    },
+    {
+      "id": "5a382a2d-62bb-46d5-828f-858e2af1c0f6",
+      "generatedAtTime": "2024-01-30T15:10:26.364767Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)",
+        "nl-BE-x-generated-informal": "Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)",
+        "nl-BE-x-formal": "Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:26.321545979Z",
+      "productnummer": "2900",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5a382a2d-62bb-46d5-828f-858e2af1c0f6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fdb0d42e-376b-420e-9113-45ab672d8632"
+    },
+    {
+      "id": "37af6961-2eee-4d59-8e93-73ceb8c13200",
+      "generatedAtTime": "2024-01-30T15:10:26.188492Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning als instelling voor het terugkommoment",
+        "nl-BE-x-formal": "Erkenning als instelling voor het terugkommoment",
+        "nl-BE-x-generated-informal": "Erkenning als instelling voor het terugkommoment"
+      },
+      "beschrijving": {
+        "nl": "<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:26.14452665Z",
+      "productnummer": "2899",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/37af6961-2eee-4d59-8e93-73ceb8c13200",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/50754efd-b247-4751-833c-3307b894956c"
+    },
+    {
+      "id": "414a845b-524c-4cf5-9648-d105fd7a788d",
+      "generatedAtTime": "2024-01-30T15:10:26.033232Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Erkenning als fabrikant voor Conformiteit van Productie (COP)",
+        "nl": "Erkenning als fabrikant voor Conformiteit van Productie (COP)",
+        "nl-BE-x-formal": "Erkenning als fabrikant voor Conformiteit van Productie (COP)"
+      },
+      "beschrijving": {
+        "nl": "<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:25.988967684Z",
+      "productnummer": "2898",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/414a845b-524c-4cf5-9648-d105fd7a788d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/adee96a8-b573-4a04-944f-9a9f41bb81f8"
+    },
+    {
+      "id": "a911c889-5575-46d7-8ac0-95772473d7f9",
+      "generatedAtTime": "2024-01-30T15:10:25.841012Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Communautaire vergunning",
+        "nl": "Communautaire vergunning",
+        "nl-BE-x-formal": "Communautaire vergunning"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>",
+        "nl": "<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:25.779273Z",
+      "productnummer": "2897",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a911c889-5575-46d7-8ac0-95772473d7f9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e9119093-6d6a-4bcc-b120-e82883fe4a1d"
+    },
+    {
+      "id": "3e398448-fc8c-44e8-8dc0-a3dbfd8018c3",
+      "generatedAtTime": "2024-01-30T15:10:25.665591Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning als LZV-bestuurder",
+        "nl-BE-x-formal": "Erkenning als LZV-bestuurder",
+        "nl-BE-x-generated-informal": "Erkenning als LZV-bestuurder"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend LZV-bestuurder te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend LZV-bestuurder te worden.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend LZV-bestuurder te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:25.624608934Z",
+      "productnummer": "2896",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3e398448-fc8c-44e8-8dc0-a3dbfd8018c3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/9b3754a0-7c58-4adb-ae00-37c8fa504167"
+    },
+    {
+      "id": "790f75ce-5a43-42aa-8efd-8dfae22d0c12",
+      "generatedAtTime": "2024-01-30T15:10:25.486382Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning als rij-instructeur",
+        "nl-BE-x-formal": "Erkenning als rij-instructeur",
+        "nl-BE-x-generated-informal": "Erkenning als rij-instructeur"
+      },
+      "beschrijving": {
+        "nl": "<p>Procedure en voorwaarden om erkend rij-instructeur te worden.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend rij-instructeur te worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend rij-instructeur te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:25.443627682Z",
+      "productnummer": "2895",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/790f75ce-5a43-42aa-8efd-8dfae22d0c12",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/29604d55-b29d-4310-8bb6-1da1b8ad68d9"
+    },
+    {
+      "id": "fd21c48f-70e9-41ce-9433-3d57e7974e1d",
+      "generatedAtTime": "2024-01-30T15:10:25.315074Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Erkenning als rijschooldirecteur",
+        "nl": "Erkenning als rijschooldirecteur",
+        "nl-BE-x-formal": "Erkenning als rijschooldirecteur"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend rijschooldirecteur te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend rijschooldirecteur te worden.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend rijschooldirecteur te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:25.273820752Z",
+      "productnummer": "2894",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fd21c48f-70e9-41ce-9433-3d57e7974e1d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/522d929a-8fcf-41cd-805f-615ec572cfee"
+    },
+    {
+      "id": "c93c48cb-1cf0-4655-be6c-5b4ab979225e",
+      "generatedAtTime": "2024-01-30T15:10:25.119924Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Erkenning als lesgever voor het terugkommoment",
+        "nl": "Erkenning als lesgever voor het terugkommoment",
+        "nl-BE-x-formal": "Erkenning als lesgever voor het terugkommoment"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend lesgever te worden voor het terugkommoment.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend lesgever te worden voor het terugkommoment.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend lesgever te worden voor het terugkommoment.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:25.075541247Z",
+      "productnummer": "2893",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c93c48cb-1cf0-4655-be6c-5b4ab979225e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3f1e5e8f-617a-4a86-b879-7e31ff96652a"
+    },
+    {
+      "id": "424e106c-e34b-4a85-939b-a84b0bef6172",
+      "generatedAtTime": "2024-01-30T15:10:24.935058Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Persoonlijke datakluis",
+        "nl-BE-x-formal": "Persoonlijke datakluis",
+        "nl-BE-x-generated-informal": "Persoonlijke datakluis"
+      },
+      "beschrijving": {
+        "nl": "<p>Burgers en bedrijven ervaren een groeiend wantrouwen bij het delen van data. Meer en meer Vlamingen geven expliciet aan dat het voorop plaatsen van privacy in dienstverlening een belangrijke reden is om het ene bedrijf boven het andere te verkiezen. Transparantie, overzicht en controle spelen daarbij een grote rol.</p><p>Door de introductie van de nieuwe technologie van persoonlijke datakluizen, in combinatie met een datasluis, kunnen burgers kiezen welke data ze delen met welke organisaties voor welke periode. Het platform van persoonlijke datakluizen moet burgers en bedrijven de volledige controle geven over het delen van hun persoonlijke data.</p>",
+        "nl-BE-x-generated-informal": "<p>Burgers en bedrijven ervaren een groeiend wantrouwen bij het delen van data. Meer en meer Vlamingen geven expliciet aan dat het voorop plaatsen van privacy in dienstverlening een belangrijke reden is om het ene bedrijf boven het andere te verkiezen. Transparantie, overzicht en controle spelen daarbij een grote rol.</p><p>Door de introductie van de nieuwe technologie van persoonlijke datakluizen, in combinatie met een datasluis, kunnen burgers kiezen welke data ze delen met welke organisaties voor welke periode. Het platform van persoonlijke datakluizen moet burgers en bedrijven de volledige controle geven over het delen van hun persoonlijke data.</p>",
+        "nl-BE-x-formal": "<p>Burgers en bedrijven ervaren een groeiend wantrouwen bij het delen van data. Meer en meer Vlamingen geven expliciet aan dat het voorop plaatsen van privacy in dienstverlening een belangrijke reden is om het ene bedrijf boven het andere te verkiezen. Transparantie, overzicht en controle spelen daarbij een grote rol.</p><p>Door de introductie van de nieuwe technologie van persoonlijke datakluizen, in combinatie met een datasluis, kunnen burgers kiezen welke data ze delen met welke organisaties voor welke periode. Het platform van persoonlijke datakluizen moet burgers en bedrijven de volledige controle geven over het delen van hun persoonlijke data.</p>"
+      },
+      "type": "InfrastructuurMateriaal",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002949",
+          "@id": "OVO002949"
+        }
+      ],
+      "creatie": "2023-01-26T19:40:24Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:24.878224926Z",
+      "productnummer": "2892",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/424e106c-e34b-4a85-939b-a84b0bef6172",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/379168ee-4eb9-43c8-b12a-d0937f5e868f"
+    },
+    {
+      "id": "f535df71-86e0-42df-8aa5-1e304a6c2603",
+      "generatedAtTime": "2024-01-30T15:10:24.76063Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "AZG - Bijkomende subsidies sectoren overnamedecreet",
+        "nl-BE-x-formal": "AZG - Bijkomende subsidies sectoren overnamedecreet",
+        "nl": "AZG - Bijkomende subsidies sectoren overnamedecreet"
+      },
+      "beschrijving": {
+        "nl": "<p>AZG - Bijkomende subsidies sectoren overnamedecreet</p>",
+        "nl-BE-x-formal": "<p>AZG - Bijkomende subsidies sectoren overnamedecreet</p>",
+        "nl-BE-x-generated-informal": "<p>AZG - Bijkomende subsidies sectoren overnamedecreet</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>- Besluit van de Vlaamse Regering houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging</p><p>- Het programmadecreet van 8 juli 2022 bij de aanpassing van de begroting</p><p> </p>",
+        "nl-BE-x-formal": "<p>- Besluit van de Vlaamse Regering houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging</p><p>- Het programmadecreet van 8 juli 2022 bij de aanpassing van de begroting</p><p> </p>",
+        "nl": "<p>- Besluit van de Vlaamse Regering houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging</p><p>- Het programmadecreet van 8 juli 2022 bij de aanpassing van de begroting</p><p> </p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-01-26T14:03:56Z",
+      "laatstGewijzigd": "2023-05-31T14:11:54Z",
+      "laatstOntvangen": "2024-01-30T15:10:24.701589812Z",
+      "productnummer": "2891",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GT_01",
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f535df71-86e0-42df-8aa5-1e304a6c2603",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/081b165b-ab24-4eee-b52a-e52ea1ae02e0"
+    },
+    {
+      "id": "49b637b3-917a-4f39-ab1f-8ddaff20e1a0",
+      "generatedAtTime": "2024-01-30T15:10:24.580758Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Innovatieve Starterssteun",
+        "nl-BE-x-generated-informal": "Innovatieve Starterssteun",
+        "nl": "Innovatieve Starterssteun"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p><strong>Update 1/3/23:</strong></p><p>Momenteel is er geen lopende oproep. Starters konden zich aanmelden tem. 28/02/2023, 23.30 uur. VLAIO zal uit de voorstellen de 100 sterkste starters selecteren die toegelaten worden tot het indienen van een subsidieaanvraag tegen 27 april 2023.<br />De beslissing betreffende de subsidietoekenning is voorzien voor de tweede helft van juni 2023.</p><p>Innovatieve starterssteun omvat steun voor innovatieve starters met een sterk groeipotentieel. De steun bestaat uit een begeleiding van de starter door een VLAIO bedrijfsadviseur en een vast steunbedrag van € 50.000. </p>",
+        "nl-BE-x-generated-informal": "<p><strong>Update 1/3/23:</strong></p><p>Momenteel is er geen lopende oproep. Starters konden zich aanmelden tem. 28/02/2023, 23.30 uur. VLAIO zal uit de voorstellen de 100 sterkste starters selecteren die toegelaten worden tot het indienen van een subsidieaanvraag tegen 27 april 2023.<br/>De beslissing betreffende de subsidietoekenning is voorzien voor de tweede helft van juni 2023.</p><p>Innovatieve starterssteun omvat steun voor innovatieve starters met een sterk groeipotentieel. De steun bestaat uit een begeleiding van de starter door een VLAIO bedrijfsadviseur en een vast steunbedrag van € 50.000. </p>",
+        "nl": "<p><strong>Update 1/3/23:</strong></p><p>Momenteel is er geen lopende oproep. Starters konden zich aanmelden tem. 28/02/2023, 23.30 uur. VLAIO zal uit de voorstellen de 100 sterkste starters selecteren die toegelaten worden tot het indienen van een subsidieaanvraag tegen 27 april 2023.<br />De beslissing betreffende de subsidietoekenning is voorzien voor de tweede helft van juni 2023.</p><p>Innovatieve starterssteun omvat steun voor innovatieve starters met een sterk groeipotentieel. De steun bestaat uit een begeleiding van de starter door een VLAIO bedrijfsadviseur en een vast steunbedrag van € 50.000. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "innovatieve",
+          "starterssteun",
+          "subsidie",
+          "innovatie",
+          "VLAIO",
+          "innoveren",
+          "steun"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>Alleen vennootschappen die voldoen aan de Europse kmo-definitie van een kleine onderneming komen in aanmerking voor innovatieve starterssteun.</p><p>De onderneming mag maximaal 2 jaar oud zijn op datum van de deadline voor de indiening van de subsidieaanvraag. </p><p>Bekijk alle <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/voorwaarden-om-aanmerking-te-komen-voor\">voorwaarden op de website van VLAIO</a>.</p><p> </p>",
+            "nl": "<p>Alleen vennootschappen die voldoen aan de Europse kmo-definitie van een kleine onderneming komen in aanmerking voor innovatieve starterssteun.</p><p>De onderneming mag maximaal 2 jaar oud zijn op datum van de deadline voor de indiening van de subsidieaanvraag. </p><p>Bekijk alle <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/voorwaarden-om-aanmerking-te-komen-voor\">voorwaarden op de website van VLAIO</a>.</p><p> </p>",
+            "nl-BE-x-formal": "<p>Alleen vennootschappen die voldoen aan de Europse kmo-definitie van een kleine onderneming komen in aanmerking voor innovatieve starterssteun.</p><p>De onderneming mag maximaal 2 jaar oud zijn op datum van de deadline voor de indiening van de subsidieaanvraag. </p><p>Bekijk alle <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/voorwaarden-om-aanmerking-te-komen-voor\">voorwaarden op de website van VLAIO</a>.</p><p> </p>"
+          },
+          "naam": {
+            "nl-BE-x-formal": "Voorwaarden",
+            "nl-BE-x-generated-informal": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>De steunmaatregel Innovatieve starterssteun werkt met oproepen, met een aanmelding en een preselectie, in samenwerking met geselecteerde VLAIO-partners.</p><p>Aanmelden kan van eind januari 2023 tot 28 februari 2023, 23.30 uur.</p><p>De aanmelding gebeurt door de starter zelf. Deze kiest hierbij voor <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/hoe-vraag-je-innovatieve-starterssteun-aan#Keuze-VLAIO-partners\">één van de VLAIO-partners</a>. </p><p> </p>",
+            "nl-BE-x-formal": "<p>De steunmaatregel Innovatieve starterssteun werkt met oproepen, met een aanmelding en een preselectie, in samenwerking met geselecteerde VLAIO-partners.</p><p>Aanmelden kan van eind januari 2023 tot 28 februari 2023, 23.30 uur.</p><p>De aanmelding gebeurt door de starter zelf. Deze kiest hierbij voor <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/hoe-vraag-je-innovatieve-starterssteun-aan#Keuze-VLAIO-partners\">één van de VLAIO-partners</a>. </p><p> </p>",
+            "nl": "<p>De steunmaatregel Innovatieve starterssteun werkt met oproepen, met een aanmelding en een preselectie, in samenwerking met geselecteerde VLAIO-partners.</p><p>Aanmelden kan van eind januari 2023 tot 28 februari 2023, 23.30 uur.</p><p>De aanmelding gebeurt door de starter zelf. Deze kiest hierbij voor <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun/hoe-vraag-je-innovatieve-starterssteun-aan#Keuze-VLAIO-partners\">één van de VLAIO-partners</a>. </p><p> </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>De financiële steun bestaat uit een vast bedrag van € 50.000. Tegenover dit bedrag staat een overtuigende inschatting van te maken kosten ter waarde van € 70.000. We hanteren de regel dat interne personeelsinspanningen mogen verrekend worden aan € 70.000 per mensjaar.</p>",
+            "nl": "<p>De financiële steun bestaat uit een vast bedrag van € 50.000. Tegenover dit bedrag staat een overtuigende inschatting van te maken kosten ter waarde van € 70.000. We hanteren de regel dat interne personeelsinspanningen mogen verrekend worden aan € 70.000 per mensjaar.</p>",
+            "nl-BE-x-generated-informal": "<p>De financiële steun bestaat uit een vast bedrag van € 50.000. Tegenover dit bedrag staat een overtuigende inschatting van te maken kosten ter waarde van € 70.000. We hanteren de regel dat interne personeelsinspanningen mogen verrekend worden aan € 70.000 per mensjaar.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel",
+            "nl-BE-x-formal": "Financieel voordeel",
+            "nl-BE-x-generated-informal": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-01-25T07:55:07Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-01-30T15:10:24.455508923Z",
+      "productnummer": "2889",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "33.4.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/49b637b3-917a-4f39-ab1f-8ddaff20e1a0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/01f26b76-e733-463e-9b5a-3381c138f692"
+    }
+  ]
+}

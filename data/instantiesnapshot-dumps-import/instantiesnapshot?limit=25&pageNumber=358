@@ -1,1 +1,1926 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=358","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=357","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-06-13T12:12:18.696418Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=359","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-06-13T12:12:18.696465Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=358","@type":"EventStream","member":[{"id":"916503ff-759b-4c9f-8dea-65a4aebfc1b9","generatedAtTime":"2023-06-13T12:12:18.696465Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vlaams beschermingsmechanisme 7","nl/je":"Vlaams beschermingsmechanisme 7","nl/u":"Vlaams beschermingsmechanisme 7"},"beschrijving":{"nl/u":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>","nl/je":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>","nl":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"zoektermen":{"nl":["VBM7","VB7","beschermingsmechanisme","corona","vlaio"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl/u":"Procedure","nl":"Procedure","nl/je":"Procedure"},"beschrijving":{"nl/u":"<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>","nl":"<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>","nl/je":"<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl/u":"<h3>.</h3>","nl":"<h3>.</h3>","nl/je":"<h3>.</h3>"},"naam":{"nl/je":"Financieel voordeel","nl":"Financieel voordeel","nl/u":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:10:40.995809405Z","laatstGewijzigd":"2023-05-05T17:40:33.741811816Z","laatstOntvangen":"2023-05-05T17:40:33.741811816Z","productnummer":"1964","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/916503ff-759b-4c9f-8dea-65a4aebfc1b9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/da553edb-0060-4327-bfff-bf64aa5ea99a"},{"id":"9e567ce1-1c4e-4dc4-a452-fb513a92a0d6","generatedAtTime":"2023-06-13T12:12:18.696464Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/je":"Individueel Maatwerk","nl":"Individueel Maatwerk","nl/u":"Individueel Maatwerk"},"beschrijving":{"nl/je":"<p>Ben je werkgever en hebt een van jouw huidige of toekomstige werknemers een arbeidsbeperking? Of ben je zelfstandige en heb je een arbeidsbeperking? Dan kom je mogelijk in aanmerking voor individueel maatwerk (IMW). IMW compenseert de eventuele extra kosten, begeleiding op de werkvloer en lagere productiviteit die de arbeidsbeperking met je meebrengt.</p>","nl":"<p>Bent u werkgever en heeft een van uw huidige of toekomstige werknemers een arbeidsbeperking? Of bent u zelfstandige en hebt u een arbeidsbeperking? Dan komt u mogelijk in aanmerking voor individueel maatwerk (IMW). IMW compenseert de eventuele extra kosten, begeleiding op de werkvloer en lagere productiviteit die de arbeidsbeperking met zich meebrengt.</p>","nl/u":"<p>Bent u werkgever en heeft een van uw huidige of toekomstige werknemers een arbeidsbeperking? Of bent u zelfstandige en hebt u een arbeidsbeperking? Dan komt u mogelijk in aanmerking voor individueel maatwerk (IMW). IMW compenseert de eventuele extra kosten, begeleiding op de werkvloer en lagere productiviteit die de arbeidsbeperking met zich meebrengt.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000076","@id":"OVO000076"}],"voorwaarden":[{"beschrijving":{"nl":"<p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-werkgevers\">Als werkgever</a> kunt u mogelijk een premie aanvragen voor een werknemer met een arbeidsbeperking.</p><p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-zelfstandigen\">Als zelfstandige </a>kunt u mogelijk een premie aanvragen voor uzelf.</p>","nl/je":"<p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-werkgevers\">Als werkgever</a> kan je mogelijk een premie aanvragen voor een werknemer met een arbeidsbeperking.</p><p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-zelfstandigen\">Als zelfstandige </a>kan je mogelijk een premie aanvragen voor uzelf.</p>","nl/u":"<p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-werkgevers\">Als werkgever</a> kunt u mogelijk een premie aanvragen voor een werknemer met een arbeidsbeperking.</p><p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-zelfstandigen\">Als zelfstandige </a>kunt u mogelijk een premie aanvragen voor uzelf.</p>"},"naam":{"nl/u":"Voorwaarden","nl/je":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl/u":"Procedure","nl":"Procedure","nl/je":"Procedure"},"beschrijving":{"nl/u":"<p>U kunt individueel maatwerk pas aanvragen vanaf 1 juli 2023.</p>","nl/je":"<p>Je kan individueel maatwerk pas aanvragen vanaf 1 juli 2023.</p>","nl":"<p>U kunt individueel maatwerk pas aanvragen vanaf 1 juli 2023.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-05-04T14:15:34.008750383Z","laatstGewijzigd":"2023-05-05T17:50:16.647375209Z","laatstOntvangen":"2023-05-05T17:50:16.647375209Z","productnummer":"2153","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9e567ce1-1c4e-4dc4-a452-fb513a92a0d6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d9e8d60a-18b8-4a40-99b6-aa327a89c07d"},{"id":"6aa38d70-346f-4d72-91d8-e86b1dc342d1","generatedAtTime":"2023-06-13T12:12:18.696462Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl/u":"Schoolcheques","en":"Cheques for schools","nl":"Schoolcheques","nl/je":"Schoolcheques"},"beschrijving":{"nl":"<p data-indentation-level=\"0\">Beschrijving van schoolcheques</p>","nl/je":"<p data-indentation-level=\"0\">Beschrijving van schoolcheques</p>","en":"<p data-indentation-level=\"0\">Description of school cheques</p>","nl/u":"<p data-indentation-level=\"0\">Beschrijving van schoolcheques</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk","WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE25434022"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/8fd5ea9aeb61c45ec79986650bee55142b2f8a599d5d611dd578114216a58430","@id":"http://data.lblod.info/id/bestuurseenheden/8fd5ea9aeb61c45ec79986650bee55142b2f8a599d5d611dd578114216a58430"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/8fd5ea9aeb61c45ec79986650bee55142b2f8a599d5d611dd578114216a58430","@id":"http://data.lblod.info/id/bestuurseenheden/8fd5ea9aeb61c45ec79986650bee55142b2f8a599d5d611dd578114216a58430"}],"websites":[{"beschrijving":{"nl":"<p data-indentation-level=\"0\"></p>","nl/u":"<p data-indentation-level=\"0\"></p>","en":"<p data-indentation-level=\"0\"></p>","nl/je":"<p data-indentation-level=\"0\"></p>"},"naam":{"nl/u":"Sien online","en":"Sien online","nl/je":"Sien online","nl":"Sien online"},"url":"https://www.sienonline.be","@type":"Website","order":0},{"beschrijving":{"nl":"<p data-indentation-level=\"0\"></p>","nl/u":"<p data-indentation-level=\"0\"></p>","en":"<p data-indentation-level=\"0\"></p>","nl/je":"<p data-indentation-level=\"0\"></p>"},"naam":{"nl/u":"-","en":"-","nl":"-","nl/je":"-"},"url":"","@type":"Website","order":1}],"creatie":"2023-03-31T10:14:35.146Z","laatstGewijzigd":"2023-04-21T12:09:19.723Z","laatstOntvangen":"2023-04-21T12:09:19.723Z","productnummer":"10136","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6aa38d70-346f-4d72-91d8-e86b1dc342d1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d99df470-9d60-4b44-a02d-69c37b618cb0"},{"id":"5e55fa25-f97a-4c67-831f-5a5e729f59d8","generatedAtTime":"2023-06-13T12:12:18.696459Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/u":"Decreet Lokaal Cultuurbeleid van 6 juli 2012: Werking Bibliotheek Brusselse Hoofdstedelijke Gewest","nl":"Decreet Lokaal Cultuurbeleid van 6 juli 2012: Werking Bibliotheek Brusselse Hoofdstedelijke Gewest","nl/je":"Decreet Lokaal Cultuurbeleid van 6 juli 2012: Werking Bibliotheek Brusselse Hoofdstedelijke Gewest"},"beschrijving":{"nl":"<p>Deze dienst is actief.</p>","nl/u":"<p>Deze dienst is actief.</p>","nl/je":"<p>Deze dienst is actief.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1"],"regelgevingTekst":{"nl/u":"<p>Decreet betreffende het Lokaal Cultuurbeleid van 6 juli 2012</p>","nl/je":"<p>Decreet betreffende het Lokaal Cultuurbeleid van 6 juli 2012</p>","nl":"<p>Decreet betreffende het Lokaal Cultuurbeleid van 6 juli 2012</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:25:35.694765851Z","laatstGewijzigd":"2023-05-05T18:10:08.659041561Z","laatstOntvangen":"2023-05-05T18:10:08.659041561Z","productnummer":"2607","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5e55fa25-f97a-4c67-831f-5a5e729f59d8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d98b0e90-5c67-428e-bc7e-a25e89b73ff4"},{"id":"7d9ec8ef-4c06-4d7c-8452-a04b9af179e2","generatedAtTime":"2023-06-13T12:12:18.696457Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/je":"Kunstendecreet van 13 december 2013: Residentiebeurs (eerder: Residentietoelage)","nl":"Kunstendecreet van 13 december 2013: Residentiebeurs (eerder: Residentietoelage)","nl/u":"Kunstendecreet van 13 december 2013: Residentiebeurs (eerder: Residentietoelage)"},"beschrijving":{"nl/u":"<p>Deze dienst is niet meer actief. Deze regelgeving is opgeheven.</p>","nl/je":"<p>Deze dienst is niet meer actief. Deze regelgeving is opgeheven.</p>","nl":"<p>Deze dienst is niet meer actief. Deze regelgeving is opgeheven.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>","nl/je":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>","nl/u":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:35:10.994822474Z","laatstGewijzigd":"2023-05-05T18:15:19.991838083Z","laatstOntvangen":"2023-05-05T18:15:19.991838083Z","productnummer":"2806","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7d9ec8ef-4c06-4d7c-8452-a04b9af179e2","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d96a4390-f055-482f-94ec-caba95ab7858"},{"id":"45917bba-bf35-4e57-8bf4-8b338d462322","generatedAtTime":"2023-06-13T12:12:18.696456Z","naam":{"nl":"Elektronische identiteitskaart (eID)","nl/u":"Elektronische identiteitskaart (eID)","nl/je":"Elektronische identiteitskaart (eID)","en":"ID"},"beschrijving":{"nl/je":"<p data-indentation-level=\"0\">Elektronische identiteitskaart (eID)</p>","nl/u":"<p data-indentation-level=\"0\">Elektronische identiteitskaart (eID)</p>","en":"<p data-indentation-level=\"0\">ID</p>","nl":"<p data-indentation-level=\"0\">Elektronische identiteitskaart (eID)</p>"},"publicatiekanalen":["YourEurope"],"geografischToepassingsgebieden":["BE211"],"yourEuropeCategorieen":["ConsumentenrechtenNutsvoorzieningen"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77","@id":"http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77"}],"contactgegevens":[{"telefoonnummer":"056273854","openingsuren":" ","url":"http://www.google.com","@type":"Contactgegevens","order":0}],"creatie":"2023-05-30T08:59:01.545Z","laatstGewijzigd":"2023-05-30T11:37:30.026Z","laatstOntvangen":"2023-05-30T11:37:30.026Z","linkedConcept":"https://ipdc.tni-vlaanderen.be/id/concept/a09a26a3-d1e8-40f5-bc81-da64ee819e1e","linkedConceptId":"a09a26a3-d1e8-40f5-bc81-da64ee819e1e","linkedConceptProductnummer":"148","productnummer":"28133","gearchiveerd":false,"metadata":{"generatedFormeleFields":false,"generatedInformeleFields":false},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/45917bba-bf35-4e57-8bf4-8b338d462322","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d96620f4-8018-4bfd-90b9-4d4be3947bfc"},{"id":"51e4415c-01a5-4341-9b1f-bcce965cc148","generatedAtTime":"2023-06-13T12:12:18.696454Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"en":"a","nl/u":"Gemeentelijke aanpassingspremie voor personen met een handicap","nl/je":"Gemeentelijke aanpassingspremie voor personen met een handicap","nl":"Gemeentelijke aanpassingspremie voor personen met een handicap"},"beschrijving":{"nl/u":"<p data-indentation-level=\"0\">Hebt u uw woning aangepast aan de noden van een persoon met een handicap en hebt u hiervoor een tussenkomst van het Vlaams Agentschap voor Personen met een Handicap (VAPH) gekregen, dan kunt u een bijkomende gemeentelijk premie aanvragen.  Het gaat om aanpassingen die het comfort en de veiligheid verhogen zoals goede verlichting, hellende vlakken in plaats van drempels, leuningen aan de trap, werkbladen, laden en kasten op een handige hoogte, handgrepen aan bad, douche en toilet, antislipmatjes, brede deurenopeningen, toilet en badkamer binnenshuis, het ombouwen van de garage tot bad- of slaapkamer, ...</p>","nl/je":"<p data-indentation-level=\"0\">Heb je jouw woning aangepast aan de noden van een persoon met een handicap en heb je hiervoor een tussenkomst van het Vlaams Agentschap voor Personen met een Handicap (VAPH) gekregen, dan kan je een bijkomende gemeentelijk premie aanvragen.  Het gaat om aanpassingen die het comfort en de veiligheid verhogen zoals goede verlichting, hellende vlakken in plaats van drempels, leuningen aan de trap, werkbladen, laden en kasten op een handige hoogte, handgrepen aan bad, douche en toilet, antislipmatjes, brede deurenopeningen, toilet en badkamer binnenshuis, het ombouwen van de garage tot bad- of slaapkamer, ...</p>","nl":"<p data-indentation-level=\"0\">Hebt u uw woning aangepast aan de noden van een persoon met een handicap en hebt u hiervoor een tussenkomst van het Vlaams Agentschap voor Personen met een Handicap (VAPH) gekregen, dan kunt u een bijkomende gemeentelijk premie aanvragen.  Het gaat om aanpassingen die het comfort en de veiligheid verhogen zoals goede verlichting, hellende vlakken in plaats van drempels, leuningen aan de trap, werkbladen, laden en kasten op een handige hoogte, handgrepen aan bad, douche en toilet, antislipmatjes, brede deurenopeningen, toilet en badkamer binnenshuis, het ombouwen van de garage tot bad- of slaapkamer, ...</p>","en":"<p data-indentation-level=\"0\">a</p>"},"startDienstVerlening":"2020-01-01T00:00:00Z","eindeDienstVerlening":"2030-12-31T00:00:00Z","publicatiekanalen":["YourEurope"],"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE23444011"],"yourEuropeCategorieen":["WerknemersArbeidsvoorwaarden"],"bevoegdeOverheden":[{"id":"OVO004718","@id":"OVO004718"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"},{"id":"OVO004718","@id":"OVO004718"}],"voorwaarden":[{"beschrijving":{"nl":"<p data-indentation-level=\"0\"></p><ul __rdfaid=\"a8e5e10f-6bab-49b1-bdc0-73eb829e6b71\"><li __rdfaid=\"ab6e5067-c24e-4867-ba57-f16ce2032409\"><p data-indentation-level=\"0\">U hebt een tussenkomst voor een woningaanpassing ontvangen van het Vlaams Agentschap voor Personen met een Handicap.</p></li><li __rdfaid=\"7e816b97-47d6-4728-9a78-9bc668db92ba\"><p data-indentation-level=\"0\">De aanpassingen verhogen het comfort en de veiligheid en maken zelfstandig wonen mogelijk.</p></li></ul><p data-indentation-level=\"0\"></p>","nl/je":"<p data-indentation-level=\"0\"></p><ul __rdfaid=\"a8e5e10f-6bab-49b1-bdc0-73eb829e6b71\"><li __rdfaid=\"ab6e5067-c24e-4867-ba57-f16ce2032409\"><p data-indentation-level=\"0\">Je hebt een tussenkomst voor een woningaanpassing ontvangen van het Vlaams Agentschap voor Personen met een Handicap.</p></li><li __rdfaid=\"7e816b97-47d6-4728-9a78-9bc668db92ba\"><p data-indentation-level=\"0\">De aanpassingen verhogen het comfort en de veiligheid en maken zelfstandig wonen mogelijk.</p></li></ul><p data-indentation-level=\"0\"></p>","nl/u":"<p data-indentation-level=\"0\"></p><ul __rdfaid=\"a8e5e10f-6bab-49b1-bdc0-73eb829e6b71\"><li __rdfaid=\"ab6e5067-c24e-4867-ba57-f16ce2032409\"><p data-indentation-level=\"0\">U hebt een tussenkomst voor een woningaanpassing ontvangen van het Vlaams Agentschap voor Personen met een Handicap.</p></li><li __rdfaid=\"7e816b97-47d6-4728-9a78-9bc668db92ba\"><p data-indentation-level=\"0\">De aanpassingen verhogen het comfort en de veiligheid en maken zelfstandig wonen mogelijk.</p></li></ul><p data-indentation-level=\"0\"></p>"},"naam":{"nl":"Voorwaarde","nl/u":"Voorwaarde","nl/je":"Voorwaarde"},"bewijs":{"beschrijving":{"nl/je":"<p data-indentation-level=\"0\"></p><p data-indentation-level=\"0\">Als je het document zelf ophaalt:</p><ul __rdfaid=\"e5d40b3b-173f-4f4b-8d57-aadd543da307\"><li __rdfaid=\"bdc0821c-85f4-4b1b-9e4f-5829c1c934ec\"><p data-indentation-level=\"0\">jouw eigen identiteitskaart of verblijfsvergunning.</p></li></ul><p data-indentation-level=\"0\">Als je het document voor iemand anders aanvraagt:</p><ul __rdfaid=\"ca0251e7-2906-46a8-9955-53e25304f603\"><li __rdfaid=\"d1d22948-3c1a-4515-a8c7-073f82d4b089\"><p data-indentation-level=\"0\">een volmacht van de betrokkene en een kopie van zijn of haar identiteitskaart</p></li><li __rdfaid=\"7da8d0c5-caaa-40ba-a94f-7eee6fa20124\"><p data-indentation-level=\"0\">jouw eigen identiteitskaart.</p></li></ul><p data-indentation-level=\"0\">a</p>","nl":"<p data-indentation-level=\"0\"></p><p data-indentation-level=\"0\">Als u het document zelf ophaalt:</p><ul __rdfaid=\"e5d40b3b-173f-4f4b-8d57-aadd543da307\"><li __rdfaid=\"bdc0821c-85f4-4b1b-9e4f-5829c1c934ec\"><p data-indentation-level=\"0\">uw eigen identiteitskaart of verblijfsvergunning.</p></li></ul><p data-indentation-level=\"0\">Als u het document voor iemand anders aanvraagt:</p><ul __rdfaid=\"ca0251e7-2906-46a8-9955-53e25304f603\"><li __rdfaid=\"d1d22948-3c1a-4515-a8c7-073f82d4b089\"><p data-indentation-level=\"0\">een volmacht van de betrokkene en een kopie van zijn of haar identiteitskaart</p></li><li __rdfaid=\"7da8d0c5-caaa-40ba-a94f-7eee6fa20124\"><p data-indentation-level=\"0\">uw eigen identiteitskaart.</p></li></ul><p data-indentation-level=\"0\">a</p>","nl/u":"<p data-indentation-level=\"0\"></p><p data-indentation-level=\"0\">Als u het document zelf ophaalt:</p><ul __rdfaid=\"e5d40b3b-173f-4f4b-8d57-aadd543da307\"><li __rdfaid=\"bdc0821c-85f4-4b1b-9e4f-5829c1c934ec\"><p data-indentation-level=\"0\">uw eigen identiteitskaart of verblijfsvergunning.</p></li></ul><p data-indentation-level=\"0\">Als u het document voor iemand anders aanvraagt:</p><ul __rdfaid=\"ca0251e7-2906-46a8-9955-53e25304f603\"><li __rdfaid=\"d1d22948-3c1a-4515-a8c7-073f82d4b089\"><p data-indentation-level=\"0\">een volmacht van de betrokkene en een kopie van zijn of haar identiteitskaart</p></li><li __rdfaid=\"7da8d0c5-caaa-40ba-a94f-7eee6fa20124\"><p data-indentation-level=\"0\">uw eigen identiteitskaart.</p></li></ul><p data-indentation-level=\"0\">a</p>"},"naam":{"nl/je":"Wat meebrengen","nl":"Wat meebrengen","nl/u":"Wat meebrengen"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl/u":"-","en":"-","nl":"-","nl/je":"-"},"beschrijving":{"nl/u":"-","en":"-","nl":"-","nl/je":"-"},"websites":[{"beschrijving":{"nl/u":"-","en":"-","nl":"-","nl/je":"-"},"naam":{"nl/u":"-","en":"-","nl":"-","nl/je":"-"},"url":"","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"beschrijving":{"nl/u":"-","en":"-","nl":"-","nl/je":"-"},"naam":{"nl/u":"-","en":"-","nl":"-","nl/je":"-"},"url":"","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl/u":"-","en":"-","nl":"-","nl/je":"-"},"naam":{"nl/u":"-","en":"-","nl":"-","nl/je":"-"},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl/u":"-","en":"-","nl":"-","nl/je":"-"},"naam":{"nl/u":"-","en":"-","nl":"-","nl/je":"-"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-04-25T13:48:18.251Z","laatstGewijzigd":"2023-04-25T16:25:24.295Z","laatstOntvangen":"2023-04-25T16:25:24.295Z","linkedConcept":"https://ipdc.tni-vlaanderen.be/id/concept/ebc18832-3c42-4fa5-9767-e1f13cac1ca7","linkedConceptId":"ebc18832-3c42-4fa5-9767-e1f13cac1ca7","linkedConceptProductnummer":"10078","productnummer":"10164","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/51e4415c-01a5-4341-9b1f-bcce965cc148","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d9270800-a1fe-450a-8a14-14d580f9f09a"},{"id":"a33ba4e7-6f3b-48de-b376-e87c7d9cb4ca","generatedAtTime":"2023-06-13T12:12:18.696451Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/u":"Jaarlijks Uitgavendecreet: Project Inhaalbeweging Digitale Collectieregistratie","nl/je":"Jaarlijks Uitgavendecreet: Project Inhaalbeweging Digitale Collectieregistratie","nl":"Jaarlijks Uitgavendecreet: Project Inhaalbeweging Digitale Collectieregistratie"},"beschrijving":{"nl":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl/je":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl/u":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl/u":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>","nl/je":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>","nl":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:23.258451896Z","laatstGewijzigd":"2023-05-05T18:10:26.30675865Z","laatstOntvangen":"2023-05-05T18:10:26.30675865Z","productnummer":"2692","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a33ba4e7-6f3b-48de-b376-e87c7d9cb4ca","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d8e4fcfa-c952-45f7-b20f-0e542f859612"},{"id":"77cffe8f-0655-4964-96d4-cbb22427a7b3","generatedAtTime":"2023-06-13T12:12:18.696449Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/u":"Decreet KANTL van 12 oktober 2018: Werking Koninklijke Academie voor Nederlandse Taal en Letteren (eerder: Koninklijke Academie voor Nederlandse Taal- en Letterkunde)","nl/je":"Decreet KANTL van 12 oktober 2018: Werking Koninklijke Academie voor Nederlandse Taal en Letteren (eerder: Koninklijke Academie voor Nederlandse Taal- en Letterkunde)","nl":"Decreet KANTL van 12 oktober 2018: Werking Koninklijke Academie voor Nederlandse Taal en Letteren (eerder: Koninklijke Academie voor Nederlandse Taal- en Letterkunde)"},"beschrijving":{"nl/u":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>","nl":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>","nl/je":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet betreffende de Koninklijke Academie voor Nederlandse Taal- en Letterkunde van 12 oktober 2018</p>","nl/u":"<p>Decreet betreffende de Koninklijke Academie voor Nederlandse Taal- en Letterkunde van 12 oktober 2018</p>","nl/je":"<p>Decreet betreffende de Koninklijke Academie voor Nederlandse Taal- en Letterkunde van 12 oktober 2018</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:32.731151131Z","laatstGewijzigd":"2023-05-05T18:15:07.575054156Z","laatstOntvangen":"2023-05-05T18:15:07.575054156Z","productnummer":"2743","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/77cffe8f-0655-4964-96d4-cbb22427a7b3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d8a3d9d6-2e12-4238-be2a-5c0906d1b4d8"},{"id":"88ceeb5b-2f68-489a-99f1-87632aff1fb7","generatedAtTime":"2023-06-13T12:12:18.696448Z","bevoegdBestuursniveaus":["Federaal","Vlaams","Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl/u":"Permanente bewegwijzering van een onderneming","nl/je":"Permanente bewegwijzering van een onderneming","nl":"Permanente bewegwijzering van een onderneming"},"beschrijving":{"nl/u":"<p>Ondernemingen kunnen een aanvraag indienen om langs de openbare weg permanente wegwijzers te plaatsen naar hun onderneming. De wegbeheerder beoordeelt de aanvraag. Voor gemeentewegen is de gemeente bevoegd, voor gewestwegen is het Agentschap Wegen en Verkeer bevoegd.</p>","nl/je":"<p>Ondernemingen kunnen een aanvraag indienen om langs de openbare weg permanente wegwijzers te plaatsen naar hun onderneming. De wegbeheerder beoordeelt de aanvraag. Voor gemeentewegen is de gemeente bevoegd, voor gewestwegen is het Agentschap Wegen en Verkeer bevoegd.</p>","nl":"<p>Ondernemingen kunnen een aanvraag indienen om langs de openbare weg permanente wegwijzers te plaatsen naar hun onderneming. De wegbeheerder beoordeelt de aanvraag. Voor gemeentewegen is de gemeente bevoegd, voor gewestwegen is het Agentschap Wegen en Verkeer bevoegd.</p>"},"type":"Toelating","themas":["EconomieWerk","MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000098","@id":"OVO000098"}],"voorwaarden":[{"beschrijving":{"nl/je":"<p>De plaatsing van de bewegwijzering voldoet aan de voorwaarden bepaald in de gemeentelijke, gewestelijke en federale wetgeving.</p>","nl":"<p>De plaatsing van de bewegwijzering voldoet aan de voorwaarden bepaald in de gemeentelijke, gewestelijke en federale wetgeving.</p>","nl/u":"<p>De plaatsing van de bewegwijzering voldoet aan de voorwaarden bepaald in de gemeentelijke, gewestelijke en federale wetgeving.</p>"},"naam":{"nl/u":"Voorwaarden","nl/je":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl/u":"Procedure","nl":"Procedure","nl/je":"Procedure"},"beschrijving":{"nl/je":"<p>Je dient jouw aanvraag voor permanente bewegwijzering in bij de gemeente.</p><p>Gaat het om verkeersborden die geplaatst worden langs een gewestweg, dan bezorgt de gemeente de aanvraag aan het Agentschap Wegen en Verkeer (AWV). Keurt het AWV jouw aanvraag goed, dan levert en plaatst het AWV de bewegwijzeringsborden.</p>","nl/u":"<p>U dient uw aanvraag voor permanente bewegwijzering in bij de gemeente.</p><p>Gaat het om verkeersborden die geplaatst worden langs een gewestweg, dan bezorgt de gemeente de aanvraag aan het Agentschap Wegen en Verkeer (AWV). Keurt het AWV uw aanvraag goed, dan levert en plaatst het AWV de bewegwijzeringsborden.</p>","nl":"<p>U dient uw aanvraag voor permanente bewegwijzering in bij de gemeente.</p><p>Gaat het om verkeersborden die geplaatst worden langs een gewestweg, dan bezorgt de gemeente de aanvraag aan het Agentschap Wegen en Verkeer (AWV). Keurt het AWV uw aanvraag goed, dan levert en plaatst het AWV de bewegwijzeringsborden.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl/u":"Bewegwijzering langs gewestwegen. Wat mag, wat niet? (Wegenenverkeer.be)","nl/je":"Bewegwijzering langs gewestwegen. Wat mag, wat niet? (Wegenenverkeer.be)","nl":"Bewegwijzering langs gewestwegen. Wat mag, wat niet? (Wegenenverkeer.be)"},"url":"https://wegenenverkeer.be/veelgestelde-vragen/regelgeving/bewegwijzering-langs-gewestwegen-wat-mag-wat-niet","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl/je":"<p>De kosten voor plaatsing en onderhoud van de bewegwijzering worden gedragen</p><ul><li>door de gemeente voor de gemeentewegen</li><li>door het Agentschap Wegen en Verkeer voor de gewestwegen.</li></ul>","nl":"<p>De kosten voor plaatsing en onderhoud van de bewegwijzering worden gedragen</p><ul><li>door de gemeente voor de gemeentewegen</li><li>door het Agentschap Wegen en Verkeer voor de gewestwegen.</li></ul>","nl/u":"<p>De kosten voor plaatsing en onderhoud van de bewegwijzering worden gedragen</p><ul><li>door de gemeente voor de gemeentewegen</li><li>door het Agentschap Wegen en Verkeer voor de gewestwegen.</li></ul>"},"naam":{"nl":"Kost","nl/je":"Kost","nl/u":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:10:53.841130186Z","laatstGewijzigd":"2023-05-04T12:40:34.618509765Z","laatstOntvangen":"2023-05-04T12:40:34.618509765Z","productnummer":"1383","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/88ceeb5b-2f68-489a-99f1-87632aff1fb7","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d857e4b4-fcbf-49bc-8c4e-356a81bf3b41"},{"id":"57867275-f0bc-4ca2-95be-38ff59039987","generatedAtTime":"2023-06-13T12:12:18.696446Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/je":"Premie voor buitensporige opgravingskosten bij verplicht archeologisch onderzoek","nl/u":"Premie voor buitensporige opgravingskosten bij verplicht archeologisch onderzoek","nl":"Premie voor buitensporige opgravingskosten bij verplicht archeologisch onderzoek"},"beschrijving":{"nl/u":"<p>Wie de bodem verstoort, betaalt de kosten voor het archeologisch onderzoek. Om de kosten te helpen dragen, kunt u in welbepaalde gevallen een premie aanvragen voor buitensporige directe kosten die voortvloeien uit verplichte archeologische opgravingen, ook wel de premie voor buitensporige opgravingskosten genoemd.</p>","nl":"<p>Wie de bodem verstoort, betaalt de kosten voor het archeologisch onderzoek. Om de kosten te helpen dragen, kunt u in welbepaalde gevallen een premie aanvragen voor buitensporige directe kosten die voortvloeien uit verplichte archeologische opgravingen, ook wel de premie voor buitensporige opgravingskosten genoemd.</p>","nl/je":"<p>Wie de bodem verstoort, betaalt de kosten voor het archeologisch onderzoek. Om de kosten te helpen dragen, kan je in welbepaalde gevallen een premie aanvragen voor buitensporige directe kosten die voortvloeien uit verplichte archeologische opgravingen, ook wel de premie voor buitensporige opgravingskosten genoemd.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl/je":"<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br/>Hoofdstuk 11 - premies</p>","nl":"<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 11 - premies</p>","nl/u":"<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br/>Hoofdstuk 11 - premies</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"voorwaarden":[{"beschrijving":{"nl/u":"<p>De premie is bestemd voor <strong>occasionele bouwheren</strong> die de kosten voor het verplicht archeologisch onderzoek dat zij moeten uitvoeren, niet zomaar kunnen spreiden. De volgende bouwprojecten komen NIET in aanmerking:</p><ul><li>projecten van bouwheren die beroepsmatig vastgoed ontwikkelen</li><li>vastgoed dat men ontwikkelt om te verkopen</li><li>verkavelingen</li><li>projecten van regelmatige bouwheren.</li></ul><p>De premie kan aangevraagd worden zodra het archeologierapport ingediend is bij het agentschap Onroerend Erfgoed.</p><p><a href=\"https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten\">Alle informatie en voorwaarden van de archeologiepremie</a> leest u op de website Onroerenderfgoed.be.</p>","nl/je":"<p>De premie is bestemd voor <strong>occasionele bouwheren</strong> die de kosten voor het verplicht archeologisch onderzoek dat zij moeten uitvoeren, niet zomaar kunnen spreiden. De volgende bouwprojecten komen NIET in aanmerking:</p><ul><li>projecten van bouwheren die beroepsmatig vastgoed ontwikkelen</li><li>vastgoed dat men ontwikkelt om te verkopen</li><li>verkavelingen</li><li>projecten van regelmatige bouwheren.</li></ul><p>De premie kan aangevraagd worden zodra het archeologierapport ingediend is bij het agentschap Onroerend Erfgoed.</p><p><a href=\"https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten\">Alle informatie en voorwaarden van de archeologiepremie</a> lees je op de website Onroerenderfgoed.be.</p>","nl":"<p>De premie is bestemd voor <strong>occasionele bouwheren</strong> die de kosten voor het verplicht archeologisch onderzoek dat zij moeten uitvoeren, niet zomaar kunnen spreiden. De volgende bouwprojecten komen NIET in aanmerking:</p><ul><li>projecten van bouwheren die beroepsmatig vastgoed ontwikkelen</li><li>vastgoed dat men ontwikkelt om te verkopen</li><li>verkavelingen</li><li>projecten van regelmatige bouwheren.</li></ul><p>De premie kan aangevraagd worden zodra het archeologierapport ingediend is bij het agentschap Onroerend Erfgoed.</p><p><a href=\"https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten\">Alle informatie en voorwaarden van de archeologiepremie</a> leest u op de website Onroerenderfgoed.be.</p>"},"naam":{"nl/u":"Voorwaarden","nl/je":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het premiebedrag wordt op forfaitaire basis bepaald aan de hand van een formule:</p><ul><li>Het vertrekpunt is een vaste basiskost die 12.123 euro bedraagt.</li><li>Die wordt vermeerderd en verminderd met bedragen die afhangen van de uitgevoerde archeologische opgraving en de aangetroffen toestand (variabelen).</li><li>Tot slot wordt het bekomen bedrag verminderd met een franchise van 1.500 euro. Die staat voor het niet buitensporige deel van de kosten en blijft hoe dan ook voor rekening van de initiatiefnemer.</li></ul>","nl/u":"<p>Het premiebedrag wordt op forfaitaire basis bepaald aan de hand van een formule:</p><ul><li>Het vertrekpunt is een vaste basiskost die 12.123 euro bedraagt.</li><li>Die wordt vermeerderd en verminderd met bedragen die afhangen van de uitgevoerde archeologische opgraving en de aangetroffen toestand (variabelen).</li><li>Tot slot wordt het bekomen bedrag verminderd met een franchise van 1.500 euro. Die staat voor het niet buitensporige deel van de kosten en blijft hoe dan ook voor rekening van de initiatiefnemer.</li></ul>","nl/je":"<p>Het premiebedrag wordt op forfaitaire basis bepaald aan de hand van een formule:</p><ul><li>Het vertrekpunt is een vaste basiskost die 12.123 euro bedraagt.</li><li>Die wordt vermeerderd en verminderd met bedragen die afhangen van de uitgevoerde archeologische opgraving en de aangetroffen toestand (variabelen).</li><li>Tot slot wordt het bekomen bedrag verminderd met een franchise van 1.500 euro. Die staat voor het niet buitensporige deel van de kosten en blijft hoe dan ook voor rekening van de initiatiefnemer.</li></ul>"},"naam":{"nl/je":"Financieel voordeel","nl":"Financieel voordeel","nl/u":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:20:25.895096233Z","laatstGewijzigd":"2023-05-05T18:00:08.619316608Z","laatstOntvangen":"2023-05-05T18:00:08.619316608Z","productnummer":"2344","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/57867275-f0bc-4ca2-95be-38ff59039987","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d84ccf9a-f95c-4cbf-92b2-bcd1992a933a"},{"id":"f8981d79-eb28-42fa-b44e-b6a5999c9517","generatedAtTime":"2023-06-13T12:12:18.696443Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl/u":"Globaal medisch dossier ","nl/je":"Globaal medisch dossier ","nl":"Globaal medisch dossier "},"beschrijving":{"nl":"<p>Een Globaal Medisch Dossier (GMD) is een elektronisch medisch dossier van u bij uw huisarts. Het bevat al uw medische gegevens en geeft een totaalbeeld van uw gezondheidssituatie. Dit dossier zorgt voor een betere individuele begeleiding en een beter overleg tussen de artsen.</p><p> </p>","nl/je":"<p>Een Globaal Medisch Dossier (GMD) is een elektronisch medisch dossier van jou bij jouw huisarts. Het bevat al jouw medische gegevens en geeft een totaalbeeld van jouw gezondheidssituatie. Dit dossier zorgt voor een betere individuele begeleiding en een beter overleg tussen de artsen.</p><p> </p>","nl/u":"<p>Een Globaal Medisch Dossier (GMD) is een elektronisch medisch dossier van u bij uw huisarts. Het bevat al uw medische gegevens en geeft een totaalbeeld van uw gezondheidssituatie. Dit dossier zorgt voor een betere individuele begeleiding en een beter overleg tussen de artsen.</p><p> </p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["GMD","globaal medisch dossier"]},"bevoegdeOverheden":[{"id":"OVO008217","@id":"OVO008217"}],"procedures":[{"naam":{"nl/u":"Procedure","nl":"Procedure","nl/je":"Procedure"},"beschrijving":{"nl/je":"<ul><li>Je vraagt aan jouw huisarts om een Globaal Medisch Dossier aan te leggen en bij te houden.</li><li>Het toevertrouwen van het beheer van jouw medisch dossier blijft geldig tot het einde van het tweede kalenderjaar dat volgt op het jaar van de opening. Jouw arts en jouw ziekenfonds zorgen voor de verlenging.</li><li>Je kan op elk ogenblik van huisarts veranderen en vragen of hij het beheer van jouw GMD overneemt. In dat geval onderneemt jouw nieuwe huisarts de nodige stappen voor de overdracht van jouw dossier.</li></ul>","nl/u":"<ul><li>U vraagt aan uw huisarts om een Globaal Medisch Dossier aan te leggen en bij te houden.</li><li>Het toevertrouwen van het beheer van uw medisch dossier blijft geldig tot het einde van het tweede kalenderjaar dat volgt op het jaar van de opening. Uw arts en uw ziekenfonds zorgen voor de verlenging.</li><li>U kunt op elk ogenblik van huisarts veranderen en vragen of hij het beheer van uw GMD overneemt. In dat geval onderneemt uw nieuwe huisarts de nodige stappen voor de overdracht van uw dossier.</li></ul>","nl":"<ul><li>U vraagt aan uw huisarts om een Globaal Medisch Dossier aan te leggen en bij te houden.</li><li>Het toevertrouwen van het beheer van uw medisch dossier blijft geldig tot het einde van het tweede kalenderjaar dat volgt op het jaar van de opening. Uw arts en uw ziekenfonds zorgen voor de verlenging.</li><li>U kunt op elk ogenblik van huisarts veranderen en vragen of hij het beheer van uw GMD overneemt. In dat geval onderneemt uw nieuwe huisarts de nodige stappen voor de overdracht van uw dossier.</li></ul>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl/je":"RIZIV - Globaal Medisch Dossier","nl":"RIZIV - Globaal Medisch Dossier","nl/u":"RIZIV - Globaal Medisch Dossier"},"url":"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/financiele-toegankelijkheid/Paginas/globaal-medisch-dossier.aspx","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl/u":"<p>U betaalt jaarlijks een bepaald bedrag, maar het ziekenfonds betaalt u deze kosten volledig terug. Het Globaal Medisch Dossier is dus <strong>gratis</strong>.</p><p>Als u een GMD aanvraagt, krijgt u tot 30% meer terugbetaald voor een raadpleging van uw huisarts. Het percentage is afhankelijk van uw situatie.</p>","nl/je":"<p>Je betaalt jaarlijks een bepaald bedrag, maar het ziekenfonds betaal je deze kosten volledig terug. Het Globaal Medisch Dossier is dus <strong>gratis</strong>.</p><p>Als je een GMD aanvraagt, krijg je tot 30% meer terugbetaald voor een raadpleging van jouw huisarts. Het percentage is afhankelijk van jouw situatie.</p>","nl":"<p>U betaalt jaarlijks een bepaald bedrag, maar het ziekenfonds betaalt u deze kosten volledig terug. Het Globaal Medisch Dossier is dus <strong>gratis</strong>.</p><p>Als u een GMD aanvraagt, krijgt u tot 30% meer terugbetaald voor een raadpleging van uw huisarts. Het percentage is afhankelijk van uw situatie.</p>"},"naam":{"nl/je":"Financieel voordeel","nl":"Financieel voordeel","nl/u":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:00:28.775259889Z","laatstGewijzigd":"2023-05-05T17:30:29.277246154Z","laatstOntvangen":"2023-05-05T17:30:29.277246154Z","productnummer":"831","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f8981d79-eb28-42fa-b44e-b6a5999c9517","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d7c0dbf4-a5a7-4cf1-a8c2-f7eea0f69518"},{"id":"c8c1c0bc-16fb-4e51-a725-be5f2d8c0019","generatedAtTime":"2023-06-13T12:12:18.696442Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Cultureel Erfgoeddecreet van 23 december 2021: Werking Cultureel Erfgoed","nl/je":"Cultureel Erfgoeddecreet van 23 december 2021: Werking Cultureel Erfgoed","nl/u":"Cultureel Erfgoeddecreet van 23 december 2021: Werking Cultureel Erfgoed"},"beschrijving":{"nl":"<p>Deze dienst is actief.</p>","nl/u":"<p>Deze dienst is actief.</p>","nl/je":"<p>Deze dienst is actief.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet houdende de ondersteuning van cultureelerfgoedwerking van 23 december 2021</p>","nl/je":"<p>Decreet houdende de ondersteuning van cultureelerfgoedwerking van 23 december 2021</p>","nl/u":"<p>Decreet houdende de ondersteuning van cultureelerfgoedwerking van 23 december 2021</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:25:26.372283029Z","laatstGewijzigd":"2023-05-05T18:05:23.915458667Z","laatstOntvangen":"2023-05-05T18:05:23.915458667Z","productnummer":"2549","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c8c1c0bc-16fb-4e51-a725-be5f2d8c0019","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d7b871e5-6fe4-4950-8155-2a0fdc5d99f1"},{"id":"6d0c0d45-1e8f-4772-a9e0-9d6e10472e92","generatedAtTime":"2023-06-13T12:12:18.69644Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/u":"Nominatieve subsidies Sport Vlaanderen","nl":"Nominatieve subsidies Sport Vlaanderen","nl/je":"Nominatieve subsidies Sport Vlaanderen"},"beschrijving":{"nl":"<p>Subsidies die voor een specifiek project of specifiek initiatief in de sportsector worden toegekend.</p>","nl/je":"<p>Subsidies die voor een specifiek project of specifiek initiatief in de sportsector worden toegekend.</p>","nl/u":"<p>Subsidies die voor een specifiek project of specifiek initiatief in de sportsector worden toegekend.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl/u":"<p>Uitgavendecreet</p>","nl/je":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-05-04T14:15:30.557305845Z","laatstGewijzigd":"2023-05-05T17:50:12.283311912Z","laatstOntvangen":"2023-05-05T17:50:12.283311912Z","productnummer":"2136","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6d0c0d45-1e8f-4772-a9e0-9d6e10472e92","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d75ef519-0699-4bd9-9701-10e215c9904f"},{"id":"6768847c-03a3-4eb8-aad8-b6e476208dfb","generatedAtTime":"2023-06-13T12:12:18.696438Z","naam":{"en":"Test 6 - Minimaal English"},"beschrijving":{"en":"<p>Test 6 - Minimaal English</p>"},"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T17:10:54.235697201Z","laatstGewijzigd":"2023-05-05T09:10:32.242569351Z","laatstOntvangen":"2023-05-05T09:10:32.242569351Z","productnummer":"2844","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6768847c-03a3-4eb8-aad8-b6e476208dfb","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d70e1636-25ca-4c21-a675-a02a1e90e3ed"},{"id":"67e7bfd4-1809-4595-8904-5b2213cd29b9","generatedAtTime":"2023-06-13T12:12:18.696436Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/u":"Programmadecreet van 19 december 1998: Tussenkomst in kosten voor Energiescan","nl/je":"Programmadecreet van 19 december 1998: Tussenkomst in kosten voor Energiescan","nl":"Programmadecreet van 19 december 1998: Tussenkomst in kosten voor Energiescan"},"beschrijving":{"nl":"<p>Deze dienst is actief.</p>","nl/u":"<p>Deze dienst is actief.</p>","nl/je":"<p>Deze dienst is actief.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl/je":"<p>Decreet houdende bepalingen tot begeleiding van de begroting 1999 van 19 december 1998</p>","nl":"<p>Decreet houdende bepalingen tot begeleiding van de begroting 1999 van 19 december 1998</p>","nl/u":"<p>Decreet houdende bepalingen tot begeleiding van de begroting 1999 van 19 december 1998</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:16.888707886Z","laatstGewijzigd":"2023-05-05T18:10:20.3888561Z","laatstOntvangen":"2023-05-05T18:10:20.3888561Z","productnummer":"2664","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/67e7bfd4-1809-4595-8904-5b2213cd29b9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d681f307-98e2-41bb-8b5b-05270701dff4"},{"id":"69766369-6c30-487f-a9db-9b7ec3286f41","generatedAtTime":"2023-06-13T12:12:18.696434Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging","nl/je":"Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging","nl/u":"Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging"},"beschrijving":{"nl/je":"<p>De Vlaamse overheid erkent en subsidieert verenigingen die aan jeugdwerk doen. Jeugdwerk is sociaal-cultureel werk op basis van niet-commerciële doelen voor of door de jeugd van 3 tot en met 30 jaar, in de vrije tijd, onder educatieve begeleiding en ter bevordering van de algemene en integrale ontwikkeling van de jeugd die daaraan deelneemt op vrijwillige basis.</p>","nl":"<p>De Vlaamse overheid erkent en subsidieert verenigingen die aan jeugdwerk doen. Jeugdwerk is sociaal-cultureel werk op basis van niet-commerciële doelen voor of door de jeugd van 3 tot en met 30 jaar, in de vrije tijd, onder educatieve begeleiding en ter bevordering van de algemene en integrale ontwikkeling van de jeugd die daaraan deelneemt op vrijwillige basis.</p>","nl/u":"<p>De Vlaamse overheid erkent en subsidieert verenigingen die aan jeugdwerk doen. Jeugdwerk is sociaal-cultureel werk op basis van niet-commerciële doelen voor of door de jeugd van 3 tot en met 30 jaar, in de vrije tijd, onder educatieve begeleiding en ter bevordering van de algemene en integrale ontwikkeling van de jeugd die daaraan deelneemt op vrijwillige basis.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 20 januari 2012 houdende het voeren van een vernieuwd jeugd- en kinderrechtenbeleid.</p>","nl/u":"<p>Decreet van 20 januari 2012 houdende het voeren van een vernieuwd jeugd- en kinderrechtenbeleid.</p>","nl/je":"<p>Decreet van 20 januari 2012 houdende het voeren van een vernieuwd jeugd- en kinderrechtenbeleid.</p>"},"zoektermen":{"nl":["erkenning","georganiseerd","jeugdbeleid","jeugdvereniging","jeugdwerk","landelijk","subsidie"]},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De belangrijkste voorwaarde is dat de vereniging aan jeugdwerk doet met deelnemers uit minstens 4 provincies van het Nederlandse taalgebied of uit 3 provincies van het Nederlandse taalgebied en het 2-talige gebied Brussel-Hoofdstad.</p><p>Daarnaast moet u als landelijk georganiseerde jeugdvereniging aan een aantal algemene en bijkomende voorwaarden voldoen.</p>","nl/u":"<p>De belangrijkste voorwaarde is dat de vereniging aan jeugdwerk doet met deelnemers uit minstens 4 provincies van het Nederlandse taalgebied of uit 3 provincies van het Nederlandse taalgebied en het 2-talige gebied Brussel-Hoofdstad.</p><p>Daarnaast moet u als landelijk georganiseerde jeugdvereniging aan een aantal algemene en bijkomende voorwaarden voldoen.</p>","nl/je":"<p>De belangrijkste voorwaarde is dat de vereniging aan jeugdwerk doet met deelnemers uit minstens 4 provincies van het Nederlandse taalgebied of uit 3 provincies van het Nederlandse taalgebied en het 2-talige gebied Brussel-Hoofdstad.</p><p>Daarnaast moet je als landelijk georganiseerde jeugdvereniging aan een aantal algemene en bijkomende voorwaarden voldoen.</p>"},"naam":{"nl/u":"Voorwaarden","nl/je":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl/u":"Procedure","nl":"Procedure","nl/je":"Procedure"},"beschrijving":{"nl":"<h3>Erkenning</h3><p>Nieuwe verenigingen die als landelijk georganiseerde vereniging erkend willen worden, moeten een erkenningsaanvraag indienen bij de afdeling Jeugd.</p><ul><li>In <strong>2017</strong> werd een <strong>nieuwe erkenningsprocedure</strong> van kracht. Niet-erkende verenigingen zullen vanaf 2020 nog slechts 1 keer per 4 jaar een erkenningsaanvraag kunnen indienen. In de tussenliggende jaren (2017, 2018, 2019) kan er geen erkenning meer worden toegekend, met uitzondering van verenigingen die nog op basis van 3 modules gesubsidieerd worden. Zij zullen nog elk van hun 4-jarig traject erkend kunnen worden.</li></ul><h3>Subsidiëring</h3><p>Verenigingen die erkend worden krijgen een <strong>werkingssubsidie</strong>, maar kunnen ook een <strong>projectsubsidie</strong> aanvragen.</p><p><strong>Werkingssubsidie</strong></p><p>Een erkende vereniging krijgt jaarlijks een <strong>vaste basissubsidie</strong>. Deze geldt voor onbepaalde duur, zolang de vereniging voldoet aan de subsidie- en erkenningsvoorwaarden. Door een beleidsnota in te dienen kunt u ook aanspraak maken op <strong>variabele subsidies</strong>.</p><p><strong>Projectsubsidie</strong></p><p>Landelijk georganiseerde jeugdverenigingen die een werkingssubsidie ontvangen, kunnen ook projectsubsidies aanvragen voor initiatieven op het terrein van het jeugdwerk.</p><p>Alleen projecten die inspelen op ontwikkelingen of opportuniteiten die niet konden worden voorzien bij het opstellen van de beleidsnota en die voor de vereniging een bijzonder karakter hebben, komen in aanmerking voor subsidiëring.</p><p>Er is 1 indiendatum per jaar: <strong>1 september</strong>.</p>","nl/je":"<h3>Erkenning</h3><p>Nieuwe verenigingen die als landelijk georganiseerde vereniging erkend willen worden, moeten een erkenningsaanvraag indienen bij de afdeling Jeugd.</p><ul><li>In <strong>2017</strong> werd een <strong>nieuwe erkenningsprocedure</strong> van kracht. Niet-erkende verenigingen zullen vanaf 2020 nog slechts 1 keer per 4 jaar een erkenningsaanvraag kunnen indienen. In de tussenliggende jaren (2017, 2018, 2019) kan er geen erkenning meer worden toegekend, met uitzondering van verenigingen die nog op basis van 3 modules gesubsidieerd worden. Zij zullen nog elk van hun 4-jarig traject erkend kunnen worden.</li></ul><h3>Subsidiëring</h3><p>Verenigingen die erkend worden krijgen een <strong>werkingssubsidie</strong>, maar kunnen ook een <strong>projectsubsidie</strong> aanvragen.</p><p><strong>Werkingssubsidie</strong></p><p>Een erkende vereniging krijgt jaarlijks een <strong>vaste basissubsidie</strong>. Deze geldt voor onbepaalde duur, zolang de vereniging voldoet aan de subsidie- en erkenningsvoorwaarden. Door een beleidsnota in te dienen kan je ook aanspraak maken op <strong>variabele subsidies</strong>.</p><p><strong>Projectsubsidie</strong></p><p>Landelijk georganiseerde jeugdverenigingen die een werkingssubsidie ontvangen, kunnen ook projectsubsidies aanvragen voor initiatieven op het terrein van het jeugdwerk.</p><p>Alleen projecten die inspelen op ontwikkelingen of opportuniteiten die niet konden worden voorzien bij het opstellen van de beleidsnota en die voor de vereniging een bijzonder karakter hebben, komen in aanmerking voor subsidiëring.</p><p>Er is 1 indiendatum per jaar: <strong>1 september</strong>.</p>","nl/u":"<h3>Erkenning</h3><p>Nieuwe verenigingen die als landelijk georganiseerde vereniging erkend willen worden, moeten een erkenningsaanvraag indienen bij de afdeling Jeugd.</p><ul><li>In <strong>2017</strong> werd een <strong>nieuwe erkenningsprocedure</strong> van kracht. Niet-erkende verenigingen zullen vanaf 2020 nog slechts 1 keer per 4 jaar een erkenningsaanvraag kunnen indienen. In de tussenliggende jaren (2017, 2018, 2019) kan er geen erkenning meer worden toegekend, met uitzondering van verenigingen die nog op basis van 3 modules gesubsidieerd worden. Zij zullen nog elk van hun 4-jarig traject erkend kunnen worden.</li></ul><h3>Subsidiëring</h3><p>Verenigingen die erkend worden krijgen een <strong>werkingssubsidie</strong>, maar kunnen ook een <strong>projectsubsidie</strong> aanvragen.</p><p><strong>Werkingssubsidie</strong></p><p>Een erkende vereniging krijgt jaarlijks een <strong>vaste basissubsidie</strong>. Deze geldt voor onbepaalde duur, zolang de vereniging voldoet aan de subsidie- en erkenningsvoorwaarden. Door een beleidsnota in te dienen kunt u ook aanspraak maken op <strong>variabele subsidies</strong>.</p><p><strong>Projectsubsidie</strong></p><p>Landelijk georganiseerde jeugdverenigingen die een werkingssubsidie ontvangen, kunnen ook projectsubsidies aanvragen voor initiatieven op het terrein van het jeugdwerk.</p><p>Alleen projecten die inspelen op ontwikkelingen of opportuniteiten die niet konden worden voorzien bij het opstellen van de beleidsnota en die voor de vereniging een bijzonder karakter hebben, komen in aanmerking voor subsidiëring.</p><p>Er is 1 indiendatum per jaar: <strong>1 september</strong>.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging","nl/je":"Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging","nl/u":"Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging"},"url":"https://www.vlaanderen.be/cjm/nl/jeugd/subsidies/landelijk-georganiseerde-jeugdverenigingen","@type":"Website","order":0}],"creatie":"2023-03-21T15:35:33.623146126Z","laatstGewijzigd":"2023-05-05T17:10:13.519382262Z","laatstOntvangen":"2023-05-05T17:10:13.519382262Z","productnummer":"634","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/69766369-6c30-487f-a9db-9b7ec3286f41","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d63a4f7b-8aee-411d-a96a-03fb88e216b7"},{"id":"b2c605e1-cbf1-491a-8b5e-e967a137bf2b","generatedAtTime":"2023-06-13T12:12:18.696432Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/je":"Kapitaalschadecompensatie voor eigenaars van landbouwgronden","nl/u":"Kapitaalschadecompensatie voor eigenaars van landbouwgronden","nl":"Kapitaalschadecompensatie voor eigenaars van landbouwgronden"},"beschrijving":{"nl/u":"<p>Kapitaalschade is de schade die de eigenaar van landbouwgrond ondervindt door:</p><ul><li>een bestemmingswijziging van landbouw in natuur, bos of overig groen</li><li>de opname in een plan van een overdruk die de economische aanwending van landbouwgrond beïnvloedt</li><li>het opleggen van een erfdienstbaarheid die de economische aanwending van landbouwgrond beïnvloedt.</li></ul><p>Wie <strong>kapitaalschade</strong> ondervindt, kan een kapitaalschadecompensatie aanvragen.</p>","nl/je":"<p>Kapitaalschade is de schade die de eigenaar van landbouwgrond ondervindt door:</p><ul><li>een bestemmingswijziging van landbouw in natuur, bos of overig groen</li><li>de opname in een plan van een overdruk die de economische aanwending van landbouwgrond beïnvloedt</li><li>het opleggen van een erfdienstbaarheid die de economische aanwending van landbouwgrond beïnvloedt.</li></ul><p>Wie <strong>kapitaalschade</strong> ondervindt, kan een kapitaalschadecompensatie aanvragen.</p>","nl":"<p>Kapitaalschade is de schade die de eigenaar van landbouwgrond ondervindt door:</p><ul><li>een bestemmingswijziging van landbouw in natuur, bos of overig groen</li><li>de opname in een plan van een overdruk die de economische aanwending van landbouwgrond beïnvloedt</li><li>het opleggen van een erfdienstbaarheid die de economische aanwending van landbouwgrond beïnvloedt.</li></ul><p>Wie <strong>kapitaalschade</strong> ondervindt, kan een kapitaalschadecompensatie aanvragen.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl/je":"<p>De regeling over de kapitaalschadecompensatie is te vinden in artikel 6.2.1 tot en met 6.3.3 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.</p><p>De voorwaarden, de randvoorwaarden en de wijze waarop de vergoedingen bepaald worden, zijn geregeld in het besluit van de Vlaamse Regering van 3 juli 2009 houdende de oprichting van de kapitaalschadecommissies en tot regeling van de kapitaalschadecompensatie.</p>","nl/u":"<p>De regeling over de kapitaalschadecompensatie is te vinden in artikel 6.2.1 tot en met 6.3.3 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.</p><p>De voorwaarden, de randvoorwaarden en de wijze waarop de vergoedingen bepaald worden, zijn geregeld in het besluit van de Vlaamse Regering van 3 juli 2009 houdende de oprichting van de kapitaalschadecommissies en tot regeling van de kapitaalschadecompensatie.</p>","nl":"<p>De regeling over de kapitaalschadecompensatie is te vinden in artikel 6.2.1 tot en met 6.3.3 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.</p><p>De voorwaarden, de randvoorwaarden en de wijze waarop de vergoedingen bepaald worden, zijn geregeld in het besluit van de Vlaamse Regering van 3 juli 2009 houdende de oprichting van de kapitaalschadecommissies en tot regeling van de kapitaalschadecompensatie.</p>"},"zoektermen":{"nl":["planschade"]},"bevoegdeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"voorwaarden":[{"beschrijving":{"nl/je":"<p>Het <strong>perceel</strong>:</p><ul><li>is geregistreerd in het geïntegreerd beheers- en controlesysteem van de landbouwadministratie</li><li>heeft een oppervlakte van ten minste 0,5 hectare of behoort tot een groep getroffen percelen van dezelfde eigenaar met een totale oppervlakte van ten minste 0,5 hectare.</li></ul>","nl":"<p>Het <strong>perceel</strong>:</p><ul><li>is geregistreerd in het geïntegreerd beheers- en controlesysteem van de landbouwadministratie</li><li>heeft een oppervlakte van ten minste 0,5 hectare of behoort tot een groep getroffen percelen van dezelfde eigenaar met een totale oppervlakte van ten minste 0,5 hectare.</li></ul>","nl/u":"<p>Het <strong>perceel</strong>:</p><ul><li>is geregistreerd in het geïntegreerd beheers- en controlesysteem van de landbouwadministratie</li><li>heeft een oppervlakte van ten minste 0,5 hectare of behoort tot een groep getroffen percelen van dezelfde eigenaar met een totale oppervlakte van ten minste 0,5 hectare.</li></ul>"},"naam":{"nl/u":"Voorwaarden","nl/je":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl/u":"Procedure","nl":"Procedure","nl/je":"Procedure"},"beschrijving":{"nl/u":"<p>De kapitaalschadecompensatie wordt niet automatisch toegekend. De eigenaar die er recht op meent te hebben, dient een aanvraag in bij de Vlaamse Landmaatschappij (VLM).</p><p>Voor elk plan dat kapitaalschade veroorzaakt, maakt een provinciale kapitaalschadecommissie een kapitaalschaderapport.</p><p>De <strong>aanvraag</strong> moet worden ingediend binnen een jaar na de inwerkingtreding van het plan dat kapitaalschade veroorzaakt.</p><p>Op de website vindt u de aanvraagformulieren en informatie over de aanvraagprocedure en de aanvraagtermijn.</p>","nl/je":"<p>De kapitaalschadecompensatie wordt niet automatisch toegekend. De eigenaar die er recht op meent te hebben, dient een aanvraag in bij de Vlaamse Landmaatschappij (VLM).</p><p>Voor elk plan dat kapitaalschade veroorzaakt, maakt een provinciale kapitaalschadecommissie een kapitaalschaderapport.</p><p>De <strong>aanvraag</strong> moet worden ingediend binnen een jaar na de inwerkingtreding van het plan dat kapitaalschade veroorzaakt.</p><p>Op de website vind je de aanvraagformulieren en informatie over de aanvraagprocedure en de aanvraagtermijn.</p>","nl":"<p>De kapitaalschadecompensatie wordt niet automatisch toegekend. De eigenaar die er recht op meent te hebben, dient een aanvraag in bij de Vlaamse Landmaatschappij (VLM).</p><p>Voor elk plan dat kapitaalschade veroorzaakt, maakt een provinciale kapitaalschadecommissie een kapitaalschaderapport.</p><p>De <strong>aanvraag</strong> moet worden ingediend binnen een jaar na de inwerkingtreding van het plan dat kapitaalschade veroorzaakt.</p><p>Op de website vindt u de aanvraagformulieren en informatie over de aanvraagprocedure en de aanvraagtermijn.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl/u":"VLM - Kapitaalschade en gebruikerscompensatie","nl/je":"VLM - Kapitaalschade en gebruikerscompensatie","nl":"VLM - Kapitaalschade en gebruikerscompensatie"},"url":"https://www.vlm.be/nl/themas/kapitaalschadegebruikerscompensatie","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De compensatie voor kapitaalschade bedraagt 80% van de in het kapitaalschaderapport geraamde waardevermindering.</p>","nl/je":"<p>De compensatie voor kapitaalschade bedraagt 80% van de in het kapitaalschaderapport geraamde waardevermindering.</p>","nl/u":"<p>De compensatie voor kapitaalschade bedraagt 80% van de in het kapitaalschaderapport geraamde waardevermindering.</p>"},"naam":{"nl/je":"Financieel voordeel","nl":"Financieel voordeel","nl/u":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T13:20:31.527885033Z","laatstGewijzigd":"2023-05-05T17:25:21.96386464Z","laatstOntvangen":"2023-05-05T17:25:21.96386464Z","productnummer":"558","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b2c605e1-cbf1-491a-8b5e-e967a137bf2b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d638ab58-b329-498f-9b9d-19d7bb0ff8c2"},{"id":"8a98de77-14f3-4175-a172-8f51636d097c","generatedAtTime":"2023-06-13T12:12:18.696431Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/je":"Subsidies voor de letterensector","nl":"Subsidies voor de letterensector","nl/u":"Subsidies voor de letterensector"},"beschrijving":{"nl/u":"<p>Literatuur Vlaanderen ondersteunt de boekensector in Vlaanderen van auteur tot lezer.</p>","nl":"<p>Literatuur Vlaanderen ondersteunt de boekensector in Vlaanderen van auteur tot lezer.</p>","nl/je":"<p>Literatuur Vlaanderen ondersteunt de boekensector in Vlaanderen van auteur tot lezer.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"zoektermen":{"nl":["literaire sector"]},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl/je":"<p>Literatuur Vlaanderen ondersteunt:</p><ul><li><strong>Auteurs</strong>: subsidies voor auteurs, illustratoren, stripauteurs en theatertekstauteurs</li><li><strong>Vertalers</strong>: subsidies voor vertalers en vertalingen in en uit het Nederlands</li><li><strong>Uitgevers: </strong>subsidies voor het uitgeven van bijzondere boekpublicaties en literaire tijdschriften</li><li><strong>Organisatoren: </strong>subsidies voor literaire activiteiten, leesbevorderingsprojecten, auteurslezingen, …</li></ul>","nl":"<p>Literatuur Vlaanderen ondersteunt:</p><ul><li><strong>Auteurs</strong>: subsidies voor auteurs, illustratoren, stripauteurs en theatertekstauteurs</li><li><strong>Vertalers</strong>: subsidies voor vertalers en vertalingen in en uit het Nederlands</li><li><strong>Uitgevers: </strong>subsidies voor het uitgeven van bijzondere boekpublicaties en literaire tijdschriften</li><li><strong>Organisatoren: </strong>subsidies voor literaire activiteiten, leesbevorderingsprojecten, auteurslezingen, …</li></ul>","nl/u":"<p>Literatuur Vlaanderen ondersteunt:</p><ul><li><strong>Auteurs</strong>: subsidies voor auteurs, illustratoren, stripauteurs en theatertekstauteurs</li><li><strong>Vertalers</strong>: subsidies voor vertalers en vertalingen in en uit het Nederlands</li><li><strong>Uitgevers: </strong>subsidies voor het uitgeven van bijzondere boekpublicaties en literaire tijdschriften</li><li><strong>Organisatoren: </strong>subsidies voor literaire activiteiten, leesbevorderingsprojecten, auteurslezingen, …</li></ul>"},"naam":{"nl/u":"Voorwaarden","nl/je":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl/u":"Procedure","nl":"Procedure","nl/je":"Procedure"},"beschrijving":{"nl":"<p>Op de website van Literatuur Vlaanderen vindt u <a href=\"https://www.literatuurvlaanderen.be/subsidies\">meer info over de procedure om een subsidie aan te vragen.</a></p>","nl/je":"<p>Op de website van Literatuur Vlaanderen vind je <a href=\"https://www.literatuurvlaanderen.be/subsidies\">meer info over de procedure om een subsidie aan te vragen.</a></p>","nl/u":"<p>Op de website van Literatuur Vlaanderen vindt u <a href=\"https://www.literatuurvlaanderen.be/subsidies\">meer info over de procedure om een subsidie aan te vragen.</a></p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl/je":"Subsidies voor de letterensector","nl":"Subsidies voor de letterensector","nl/u":"Subsidies voor de letterensector"},"url":"http://www.literatuurvlaanderen.be/ondersteuning","@type":"Website","order":0}],"creatie":"2023-05-04T13:15:19.678927934Z","laatstGewijzigd":"2023-05-05T17:10:28.715357216Z","laatstOntvangen":"2023-05-05T17:10:28.715357216Z","productnummer":"524","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8a98de77-14f3-4175-a172-8f51636d097c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d5fd3018-a7a0-4c1b-9ece-20d8fcd62bfa"},{"id":"420ee2bc-b962-48e4-b985-7bb68d2f8aff","generatedAtTime":"2023-06-13T12:12:18.696428Z","naam":{"nl":"b","nl/je":"b","en":"b","nl/u":"b"},"beschrijving":{"nl/je":"<p>b</p>","nl":"<p>b</p>","en":"<p>b</p>","nl/u":"<p>b</p>"},"geografischToepassingsgebieden":["BE23444011"],"yourEuropeCategorieen":["ConsumentenrechtenNutsvoorzieningen"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"creatie":"2023-04-03T14:55:37.658Z","laatstGewijzigd":"2023-04-03T15:01:00.529493863Z","laatstOntvangen":"2023-04-03T15:01:00.529493863Z","productnummer":"10140","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/420ee2bc-b962-48e4-b985-7bb68d2f8aff","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d5c962f1-70eb-4b4a-bf3e-f0c87b330014"},{"id":"658a0935-94cb-49c5-935f-101d4fa0ecee","generatedAtTime":"2023-06-13T12:12:18.696426Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/u":"Decreet Sociaal-Cultureel Volwassenenwerk van 7 juli 2017: Werking Belangenbehartiging Sociaal-Cultureel Volwassenenwerk","nl/je":"Decreet Sociaal-Cultureel Volwassenenwerk van 7 juli 2017: Werking Belangenbehartiging Sociaal-Cultureel Volwassenenwerk","nl":"Decreet Sociaal-Cultureel Volwassenenwerk van 7 juli 2017: Werking Belangenbehartiging Sociaal-Cultureel Volwassenenwerk"},"beschrijving":{"nl":"<p>Deze dienst is actief.</p>","nl/u":"<p>Deze dienst is actief.</p>","nl/je":"<p>Deze dienst is actief.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl/u":"<p>Decreet houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk van 7 juli 2017</p>","nl/je":"<p>Decreet houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk van 7 juli 2017</p>","nl":"<p>Decreet houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk van 7 juli 2017</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:09.180675517Z","laatstGewijzigd":"2023-05-05T18:10:10.918428461Z","laatstOntvangen":"2023-05-05T18:10:10.918428461Z","productnummer":"2617","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/658a0935-94cb-49c5-935f-101d4fa0ecee","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d5c590b6-f98c-48da-8be5-aa039bce2d37"},{"id":"1abe6f5d-b283-4037-bf2b-799fafb070cc","generatedAtTime":"2023-06-13T12:12:18.696425Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Decreet Jeugd- en Kinderrechtenbeleid van 20 januari 2012: Project JKB - Oproep Vernieuwend Project","nl/u":"Decreet Jeugd- en Kinderrechtenbeleid van 20 januari 2012: Project JKB - Oproep Vernieuwend Project","nl/je":"Decreet Jeugd- en Kinderrechtenbeleid van 20 januari 2012: Project JKB - Oproep Vernieuwend Project"},"beschrijving":{"nl":"<p>Deze dienst is actief.</p>","nl/u":"<p>Deze dienst is actief.</p>","nl/je":"<p>Deze dienst is actief.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl/u":"<p>Decreet houdende een vernieuwd jeugd- en kinderrechtenbeleid van 20 januari 2012</p>","nl":"<p>Decreet houdende een vernieuwd jeugd- en kinderrechtenbeleid van 20 januari 2012</p>","nl/je":"<p>Decreet houdende een vernieuwd jeugd- en kinderrechtenbeleid van 20 januari 2012</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:25:32.943254085Z","laatstGewijzigd":"2023-05-05T18:05:33.990336663Z","laatstOntvangen":"2023-05-05T18:05:33.990336663Z","productnummer":"2591","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1abe6f5d-b283-4037-bf2b-799fafb070cc","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d5057ecd-be35-420f-8ba2-7c73a90ba638"},{"id":"95a18df1-c6fa-4585-8c96-d9797081af02","generatedAtTime":"2023-06-13T12:12:18.696423Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl/u":"Loopbaanonderbreking in de openbare sector","nl/je":"Loopbaanonderbreking in de openbare sector","nl":"Loopbaanonderbreking in de openbare sector"},"beschrijving":{"nl/je":"<p>Via loopbaanonderbreking kunnen bepaalde werknemers in de openbare sector ervoor kiezen tijdelijk niet of minder te gaan werken.</p>","nl":"<p>Via loopbaanonderbreking kunnen bepaalde werknemers in de openbare sector ervoor kiezen tijdelijk niet of minder te gaan werken.</p>","nl/u":"<p>Via loopbaanonderbreking kunnen bepaalde werknemers in de openbare sector ervoor kiezen tijdelijk niet of minder te gaan werken.</p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["balans werk-privé","betaald verlof","deeltijds","einde loopbaan","eindeloopbaan","eindeloopbaanregeling","eindeloopbaansysteem","evenwicht","half-time","halftime","haltijds","minder werken","palliatief","part-time","parttime","privé","thematisch","themaverlof","tijdskrediet","verlofstelsel","zorgkrediet","zorgvakantie","zorgverlof","eindeloopbaanstelsel","einde loopbaan stelsel","lo"]},"bevoegdeOverheden":[{"id":"OVO025169","@id":"OVO025169"}],"voorwaarden":[{"beschrijving":{"nl/u":"<ul></ul><p>De regeling van de loopbaanonderbreking in de openbare sector geldt alleen voor:</p><ul><li>personeelsleden van de openbare sector die <strong>niet </strong>tot de <strong>Vlaamse openbare sector behoren. </strong>Het gaat onder meer om:<ul><li>federale ambtenaren</li><li>lokale en federale politie</li><li>ambtenaren van andere gewesten en gemeenschappen.</li></ul></li><li>personeelsleden van de <strong>Vlaamse openbare sector</strong> die al vóór 2 september 2016 in loopbaanonderbreking waren gegaan. Personeelsleden van de<strong> Vlaamse openbare sector </strong>hebben sinds die dag een eigen, apart verlofstelsel: het <a href=\"https://www.uat-vlaanderen.be/vlaams-zorgkrediet\">Vlaams zorgkrediet</a>.</li></ul><p>Neem voor de voorwaarden van de loopbaanonderbreking contact op met uw werkgever/personeelsdienst, uw vakbond of uw <a href=\"https://www.rva.be/nl/kantoren\">plaatselijke RVA-kantoor</a>.</p>","nl/je":"<ul></ul><p>De regeling van de loopbaanonderbreking in de openbare sector geldt alleen voor:</p><ul><li>personeelsleden van de openbare sector die <strong>niet </strong>tot de <strong>Vlaamse openbare sector behoren. </strong>Het gaat onder meer om:<ul><li>federale ambtenaren</li><li>lokale en federale politie</li><li>ambtenaren van andere gewesten en gemeenschappen.</li></ul></li><li>personeelsleden van de <strong>Vlaamse openbare sector</strong> die al vóór 2 september 2016 in loopbaanonderbreking waren gegaan. Personeelsleden van de<strong> Vlaamse openbare sector </strong>hebben sinds die dag een eigen, apart verlofstelsel: het <a href=\"https://www.uat-vlaanderen.be/vlaams-zorgkrediet\">Vlaams zorgkrediet</a>.</li></ul><p>Neem voor de voorwaarden van de loopbaanonderbreking contact op met jouw werkgever/personeelsdienst, jouw vakbond of jouw <a href=\"https://www.rva.be/nl/kantoren\">plaatselijke RVA-kantoor</a>.</p>","nl":"<ul></ul><p>De regeling van de loopbaanonderbreking in de openbare sector geldt alleen voor:</p><ul><li>personeelsleden van de openbare sector die <strong>niet </strong>tot de <strong>Vlaamse openbare sector behoren. </strong>Het gaat onder meer om:<ul><li>federale ambtenaren</li><li>lokale en federale politie</li><li>ambtenaren van andere gewesten en gemeenschappen.</li></ul></li><li>personeelsleden van de <strong>Vlaamse openbare sector</strong> die al vóór 2 september 2016 in loopbaanonderbreking waren gegaan. Personeelsleden van de<strong> Vlaamse openbare sector </strong>hebben sinds die dag een eigen, apart verlofstelsel: het <a href=\"https://www.uat-vlaanderen.be/vlaams-zorgkrediet\">Vlaams zorgkrediet</a>.</li></ul><p>Neem voor de voorwaarden van de loopbaanonderbreking contact op met uw werkgever/personeelsdienst, uw vakbond of uw <a href=\"https://www.rva.be/nl/kantoren\">plaatselijke RVA-kantoor</a>.</p>"},"naam":{"nl/u":"Voorwaarden","nl/je":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl/u":"Procedure","nl":"Procedure","nl/je":"Procedure"},"beschrijving":{"nl/je":"<p>De loopbaanonderbreking wordt aangevraagd bij de RVA.</p>","nl":"<p>De loopbaanonderbreking wordt aangevraagd bij de RVA.</p>","nl/u":"<p>De loopbaanonderbreking wordt aangevraagd bij de RVA.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Loopbaanonderbreking (op RVA.be)","nl/u":"Loopbaanonderbreking (op RVA.be)","nl/je":"Loopbaanonderbreking (op RVA.be)"},"url":"http://www.rva.be/nl/burgers/loopbaanonderbreking%20en%20tijdskrediet/loopbaanonderbreking","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Tijdens uw loopbaanonderbreking krijgt u van de RVA een vervangingsinkomen.</p>","nl/je":"<p>Tijdens jouw loopbaanonderbreking krijg je van de RVA een vervangingsinkomen.</p>","nl/u":"<p>Tijdens uw loopbaanonderbreking krijgt u van de RVA een vervangingsinkomen.</p>"},"naam":{"nl":"Kost","nl/je":"Kost","nl/u":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:10:34.555868488Z","laatstGewijzigd":"2023-05-05T17:25:31.744754865Z","laatstOntvangen":"2023-05-05T17:25:31.744754865Z","productnummer":"1224","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/95a18df1-c6fa-4585-8c96-d9797081af02","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d4d3ef8f-abb3-4fdc-94a4-541b95ecd0f8"},{"id":"abb2c2ed-22a0-4127-8498-e9557a84e102","generatedAtTime":"2023-06-13T12:12:18.69642Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/u":"Subsidie voor ex-DAC-ers aan polders en wateringen","nl/je":"Subsidie voor ex-DAC-ers aan polders en wateringen","nl":"Subsidie voor ex-DAC-ers aan polders en wateringen"},"beschrijving":{"nl/u":"<p>Subsidie voor loonkost van werknemers tewerkgesteld in een gewezen DAC-statuut bij polders en wateringen</p>","nl/je":"<p>Subsidie voor loonkost van werknemers tewerkgesteld in een gewezen DAC-statuut bij polders en wateringen</p>","nl":"<p>Subsidie voor loonkost van werknemers tewerkgesteld in een gewezen DAC-statuut bij polders en wateringen</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl/je":"<p>BVR van 14 mei 2004 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut</p>","nl":"<p>BVR van 14 mei 2004 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut</p>","nl/u":"<p>BVR van 14 mei 2004 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut</p>"},"bevoegdeOverheden":[{"id":"OVO000092","@id":"OVO000092"}],"creatie":"2023-05-04T14:20:29.738793226Z","laatstGewijzigd":"2023-05-05T18:00:13.766151933Z","laatstOntvangen":"2023-05-05T18:00:13.766151933Z","productnummer":"2366","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/abb2c2ed-22a0-4127-8498-e9557a84e102","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d4bcc9f7-fc7d-4a88-b26b-23c7593523cd"},{"id":"43204afc-8294-4348-9e49-5dce89edeee5","generatedAtTime":"2023-06-13T12:12:18.696418Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl/u":"Toelating tot invoer van dierlijke bijproducten (DBP) vanuit een andere Europese lidstaat","nl/je":"Toelating tot invoer van dierlijke bijproducten (DBP) vanuit een andere Europese lidstaat","nl":"Toelating tot invoer van dierlijke bijproducten (DBP) vanuit een andere Europese lidstaat"},"beschrijving":{"nl":"<p>Deze toelating hebt u nodig om dierlijke bijproducten (DBP) die als afvalstoffen worden beschouwd, vanuit een andere EU-lidstaat in Vlaanderen in te voeren. Dat is nodig om te voldoen aan de Europese verordening inzake dierlijke bijproducten die niet voor menselijke consumptie zijn bestemd.</p><p>De OVAM reikt één toelating uit per type DBP, per bedrijf van oorsprong, per plaats van bestemming, per wijze van nuttige toepassing of verwijdering, en per aanvrager. Een toelating is maximaal één jaar geldig.</p>","nl/u":"<p>Deze toelating hebt u nodig om dierlijke bijproducten (DBP) die als afvalstoffen worden beschouwd, vanuit een andere EU-lidstaat in Vlaanderen in te voeren. Dat is nodig om te voldoen aan de Europese verordening inzake dierlijke bijproducten die niet voor menselijke consumptie zijn bestemd.</p><p>De OVAM reikt één toelating uit per type DBP, per bedrijf van oorsprong, per plaats van bestemming, per wijze van nuttige toepassing of verwijdering, en per aanvrager. Een toelating is maximaal één jaar geldig.</p>","nl/je":"<p>Deze toelating heb je nodig om dierlijke bijproducten (DBP) die als afvalstoffen worden beschouwd, vanuit een andere EU-lidstaat in Vlaanderen in te voeren. Dat is nodig om te voldoen aan de Europese verordening inzake dierlijke bijproducten die niet voor menselijke consumptie zijn bestemd.</p><p>De OVAM reikt één toelating uit per type DBP, per bedrijf van oorsprong, per plaats van bestemming, per wijze van nuttige toepassing of verwijdering, en per aanvrager. Een toelating is maximaal één jaar geldig.</p>"},"type":"Toelating","themas":["MilieuEnergie"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"zoektermen":{"nl":["afvalstoffen","dbp","dierlijke bijproducten","europees handelsdocument","europese lidstaten","formulier","intracommunautair handelsverkeer","invoer","melding","toelating","tracering","traces","transport","uitvoer","verwerving","verzending"]},"bevoegdeOverheden":[{"id":"OVO000091","@id":"OVO000091"}],"procedures":[{"naam":{"nl/u":"Procedure","nl":"Procedure","nl/je":"Procedure"},"beschrijving":{"nl":"<p>Informatie over de procedures en formulieren voor het grensoverschrijdend vervoer van dierlijke bijproducten, vindt u op de website van de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM).</p>","nl/u":"<p>Informatie over de procedures en formulieren voor het grensoverschrijdend vervoer van dierlijke bijproducten, vindt u op de website van de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM).</p>","nl/je":"<p>Informatie over de procedures en formulieren voor het grensoverschrijdend vervoer van dierlijke bijproducten, vind je op de website van de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM).</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl/u":"OVAM - Grensoverschrijdende verzending dierlijke bijproducten (DBP) en afgeleide producten","nl":"OVAM - Grensoverschrijdende verzending dierlijke bijproducten (DBP) en afgeleide producten","nl/je":"OVAM - Grensoverschrijdende verzending dierlijke bijproducten (DBP) en afgeleide producten"},"url":"https://ovam.vlaanderen.be/export-van-dierlijke-bijproducten","@type":"Website","order":0}],"creatie":"2023-05-04T13:15:23.87007766Z","laatstGewijzigd":"2023-05-05T17:15:05.98062027Z","laatstOntvangen":"2023-05-05T17:15:05.98062027Z","productnummer":"430","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/43204afc-8294-4348-9e49-5dce89edeee5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d4ad313c-fb65-456f-a078-b2e1e9bd2256"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=358",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=357",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-06-13T12:12:18.696418Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=359",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-06-13T12:12:18.696465Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=358",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "916503ff-759b-4c9f-8dea-65a4aebfc1b9",
+      "generatedAtTime": "2023-06-13T12:12:18.696465Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vlaams beschermingsmechanisme 7",
+        "nl/je": "Vlaams beschermingsmechanisme 7",
+        "nl/u": "Vlaams beschermingsmechanisme 7"
+      },
+      "beschrijving": {
+        "nl/u": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>",
+        "nl/je": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>",
+        "nl": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "VBM7",
+          "VB7",
+          "beschermingsmechanisme",
+          "corona",
+          "vlaio"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl/u": "Procedure",
+            "nl": "Procedure",
+            "nl/je": "Procedure"
+          },
+          "beschrijving": {
+            "nl/u": "<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>",
+            "nl": "<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>",
+            "nl/je": "<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl/u": "<h3>.</h3>",
+            "nl": "<h3>.</h3>",
+            "nl/je": "<h3>.</h3>"
+          },
+          "naam": {
+            "nl/je": "Financieel voordeel",
+            "nl": "Financieel voordeel",
+            "nl/u": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:10:40.995809405Z",
+      "laatstGewijzigd": "2023-05-05T17:40:33.741811816Z",
+      "laatstOntvangen": "2023-05-05T17:40:33.741811816Z",
+      "productnummer": "1964",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/916503ff-759b-4c9f-8dea-65a4aebfc1b9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/da553edb-0060-4327-bfff-bf64aa5ea99a"
+    },
+    {
+      "id": "9e567ce1-1c4e-4dc4-a452-fb513a92a0d6",
+      "generatedAtTime": "2023-06-13T12:12:18.696464Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/je": "Individueel Maatwerk",
+        "nl": "Individueel Maatwerk",
+        "nl/u": "Individueel Maatwerk"
+      },
+      "beschrijving": {
+        "nl/je": "<p>Ben je werkgever en hebt een van jouw huidige of toekomstige werknemers een arbeidsbeperking? Of ben je zelfstandige en heb je een arbeidsbeperking? Dan kom je mogelijk in aanmerking voor individueel maatwerk (IMW). IMW compenseert de eventuele extra kosten, begeleiding op de werkvloer en lagere productiviteit die de arbeidsbeperking met je meebrengt.</p>",
+        "nl": "<p>Bent u werkgever en heeft een van uw huidige of toekomstige werknemers een arbeidsbeperking? Of bent u zelfstandige en hebt u een arbeidsbeperking? Dan komt u mogelijk in aanmerking voor individueel maatwerk (IMW). IMW compenseert de eventuele extra kosten, begeleiding op de werkvloer en lagere productiviteit die de arbeidsbeperking met zich meebrengt.</p>",
+        "nl/u": "<p>Bent u werkgever en heeft een van uw huidige of toekomstige werknemers een arbeidsbeperking? Of bent u zelfstandige en hebt u een arbeidsbeperking? Dan komt u mogelijk in aanmerking voor individueel maatwerk (IMW). IMW compenseert de eventuele extra kosten, begeleiding op de werkvloer en lagere productiviteit die de arbeidsbeperking met zich meebrengt.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000076",
+          "@id": "OVO000076"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-werkgevers\">Als werkgever</a> kunt u mogelijk een premie aanvragen voor een werknemer met een arbeidsbeperking.</p><p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-zelfstandigen\">Als zelfstandige </a>kunt u mogelijk een premie aanvragen voor uzelf.</p>",
+            "nl/je": "<p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-werkgevers\">Als werkgever</a> kan je mogelijk een premie aanvragen voor een werknemer met een arbeidsbeperking.</p><p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-zelfstandigen\">Als zelfstandige </a>kan je mogelijk een premie aanvragen voor uzelf.</p>",
+            "nl/u": "<p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-werkgevers\">Als werkgever</a> kunt u mogelijk een premie aanvragen voor een werknemer met een arbeidsbeperking.</p><p><a href=\"https://www.uat-vlaanderen.be/individueel-maatwerk/individueel-maatwerk-voor-zelfstandigen\">Als zelfstandige </a>kunt u mogelijk een premie aanvragen voor uzelf.</p>"
+          },
+          "naam": {
+            "nl/u": "Voorwaarden",
+            "nl/je": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl/u": "Procedure",
+            "nl": "Procedure",
+            "nl/je": "Procedure"
+          },
+          "beschrijving": {
+            "nl/u": "<p>U kunt individueel maatwerk pas aanvragen vanaf 1 juli 2023.</p>",
+            "nl/je": "<p>Je kan individueel maatwerk pas aanvragen vanaf 1 juli 2023.</p>",
+            "nl": "<p>U kunt individueel maatwerk pas aanvragen vanaf 1 juli 2023.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:34.008750383Z",
+      "laatstGewijzigd": "2023-05-05T17:50:16.647375209Z",
+      "laatstOntvangen": "2023-05-05T17:50:16.647375209Z",
+      "productnummer": "2153",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9e567ce1-1c4e-4dc4-a452-fb513a92a0d6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d9e8d60a-18b8-4a40-99b6-aa327a89c07d"
+    },
+    {
+      "id": "6aa38d70-346f-4d72-91d8-e86b1dc342d1",
+      "generatedAtTime": "2023-06-13T12:12:18.696462Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl/u": "Schoolcheques",
+        "en": "Cheques for schools",
+        "nl": "Schoolcheques",
+        "nl/je": "Schoolcheques"
+      },
+      "beschrijving": {
+        "nl": "<p data-indentation-level=\"0\">Beschrijving van schoolcheques</p>",
+        "nl/je": "<p data-indentation-level=\"0\">Beschrijving van schoolcheques</p>",
+        "en": "<p data-indentation-level=\"0\">Description of school cheques</p>",
+        "nl/u": "<p data-indentation-level=\"0\">Beschrijving van schoolcheques</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk",
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE25434022"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/8fd5ea9aeb61c45ec79986650bee55142b2f8a599d5d611dd578114216a58430",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/8fd5ea9aeb61c45ec79986650bee55142b2f8a599d5d611dd578114216a58430"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/8fd5ea9aeb61c45ec79986650bee55142b2f8a599d5d611dd578114216a58430",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/8fd5ea9aeb61c45ec79986650bee55142b2f8a599d5d611dd578114216a58430"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p data-indentation-level=\"0\"></p>",
+            "nl/u": "<p data-indentation-level=\"0\"></p>",
+            "en": "<p data-indentation-level=\"0\"></p>",
+            "nl/je": "<p data-indentation-level=\"0\"></p>"
+          },
+          "naam": {
+            "nl/u": "Sien online",
+            "en": "Sien online",
+            "nl/je": "Sien online",
+            "nl": "Sien online"
+          },
+          "url": "https://www.sienonline.be",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p data-indentation-level=\"0\"></p>",
+            "nl/u": "<p data-indentation-level=\"0\"></p>",
+            "en": "<p data-indentation-level=\"0\"></p>",
+            "nl/je": "<p data-indentation-level=\"0\"></p>"
+          },
+          "naam": {
+            "nl/u": "-",
+            "en": "-",
+            "nl": "-",
+            "nl/je": "-"
+          },
+          "url": "",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-31T10:14:35.146Z",
+      "laatstGewijzigd": "2023-04-21T12:09:19.723Z",
+      "laatstOntvangen": "2023-04-21T12:09:19.723Z",
+      "productnummer": "10136",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6aa38d70-346f-4d72-91d8-e86b1dc342d1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d99df470-9d60-4b44-a02d-69c37b618cb0"
+    },
+    {
+      "id": "5e55fa25-f97a-4c67-831f-5a5e729f59d8",
+      "generatedAtTime": "2023-06-13T12:12:18.696459Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/u": "Decreet Lokaal Cultuurbeleid van 6 juli 2012: Werking Bibliotheek Brusselse Hoofdstedelijke Gewest",
+        "nl": "Decreet Lokaal Cultuurbeleid van 6 juli 2012: Werking Bibliotheek Brusselse Hoofdstedelijke Gewest",
+        "nl/je": "Decreet Lokaal Cultuurbeleid van 6 juli 2012: Werking Bibliotheek Brusselse Hoofdstedelijke Gewest"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief.</p>",
+        "nl/u": "<p>Deze dienst is actief.</p>",
+        "nl/je": "<p>Deze dienst is actief.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1"
+      ],
+      "regelgevingTekst": {
+        "nl/u": "<p>Decreet betreffende het Lokaal Cultuurbeleid van 6 juli 2012</p>",
+        "nl/je": "<p>Decreet betreffende het Lokaal Cultuurbeleid van 6 juli 2012</p>",
+        "nl": "<p>Decreet betreffende het Lokaal Cultuurbeleid van 6 juli 2012</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:25:35.694765851Z",
+      "laatstGewijzigd": "2023-05-05T18:10:08.659041561Z",
+      "laatstOntvangen": "2023-05-05T18:10:08.659041561Z",
+      "productnummer": "2607",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5e55fa25-f97a-4c67-831f-5a5e729f59d8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d98b0e90-5c67-428e-bc7e-a25e89b73ff4"
+    },
+    {
+      "id": "7d9ec8ef-4c06-4d7c-8452-a04b9af179e2",
+      "generatedAtTime": "2023-06-13T12:12:18.696457Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/je": "Kunstendecreet van 13 december 2013: Residentiebeurs (eerder: Residentietoelage)",
+        "nl": "Kunstendecreet van 13 december 2013: Residentiebeurs (eerder: Residentietoelage)",
+        "nl/u": "Kunstendecreet van 13 december 2013: Residentiebeurs (eerder: Residentietoelage)"
+      },
+      "beschrijving": {
+        "nl/u": "<p>Deze dienst is niet meer actief. Deze regelgeving is opgeheven.</p>",
+        "nl/je": "<p>Deze dienst is niet meer actief. Deze regelgeving is opgeheven.</p>",
+        "nl": "<p>Deze dienst is niet meer actief. Deze regelgeving is opgeheven.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>",
+        "nl/je": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>",
+        "nl/u": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:35:10.994822474Z",
+      "laatstGewijzigd": "2023-05-05T18:15:19.991838083Z",
+      "laatstOntvangen": "2023-05-05T18:15:19.991838083Z",
+      "productnummer": "2806",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7d9ec8ef-4c06-4d7c-8452-a04b9af179e2",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d96a4390-f055-482f-94ec-caba95ab7858"
+    },
+    {
+      "id": "45917bba-bf35-4e57-8bf4-8b338d462322",
+      "generatedAtTime": "2023-06-13T12:12:18.696456Z",
+      "naam": {
+        "nl": "Elektronische identiteitskaart (eID)",
+        "nl/u": "Elektronische identiteitskaart (eID)",
+        "nl/je": "Elektronische identiteitskaart (eID)",
+        "en": "ID"
+      },
+      "beschrijving": {
+        "nl/je": "<p data-indentation-level=\"0\">Elektronische identiteitskaart (eID)</p>",
+        "nl/u": "<p data-indentation-level=\"0\">Elektronische identiteitskaart (eID)</p>",
+        "en": "<p data-indentation-level=\"0\">ID</p>",
+        "nl": "<p data-indentation-level=\"0\">Elektronische identiteitskaart (eID)</p>"
+      },
+      "publicatiekanalen": [
+        "YourEurope"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE211"
+      ],
+      "yourEuropeCategorieen": [
+        "ConsumentenrechtenNutsvoorzieningen"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77"
+        }
+      ],
+      "contactgegevens": [
+        {
+          "telefoonnummer": "056273854",
+          "openingsuren": " ",
+          "url": "http://www.google.com",
+          "@type": "Contactgegevens",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-30T08:59:01.545Z",
+      "laatstGewijzigd": "2023-05-30T11:37:30.026Z",
+      "laatstOntvangen": "2023-05-30T11:37:30.026Z",
+      "linkedConcept": "https://ipdc.tni-vlaanderen.be/id/concept/a09a26a3-d1e8-40f5-bc81-da64ee819e1e",
+      "linkedConceptId": "a09a26a3-d1e8-40f5-bc81-da64ee819e1e",
+      "linkedConceptProductnummer": "148",
+      "productnummer": "28133",
+      "gearchiveerd": false,
+      "metadata": {
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": false
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/45917bba-bf35-4e57-8bf4-8b338d462322",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d96620f4-8018-4bfd-90b9-4d4be3947bfc"
+    },
+    {
+      "id": "51e4415c-01a5-4341-9b1f-bcce965cc148",
+      "generatedAtTime": "2023-06-13T12:12:18.696454Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "en": "a",
+        "nl/u": "Gemeentelijke aanpassingspremie voor personen met een handicap",
+        "nl/je": "Gemeentelijke aanpassingspremie voor personen met een handicap",
+        "nl": "Gemeentelijke aanpassingspremie voor personen met een handicap"
+      },
+      "beschrijving": {
+        "nl/u": "<p data-indentation-level=\"0\">Hebt u uw woning aangepast aan de noden van een persoon met een handicap en hebt u hiervoor een tussenkomst van het Vlaams Agentschap voor Personen met een Handicap (VAPH) gekregen, dan kunt u een bijkomende gemeentelijk premie aanvragen.  Het gaat om aanpassingen die het comfort en de veiligheid verhogen zoals goede verlichting, hellende vlakken in plaats van drempels, leuningen aan de trap, werkbladen, laden en kasten op een handige hoogte, handgrepen aan bad, douche en toilet, antislipmatjes, brede deurenopeningen, toilet en badkamer binnenshuis, het ombouwen van de garage tot bad- of slaapkamer, ...</p>",
+        "nl/je": "<p data-indentation-level=\"0\">Heb je jouw woning aangepast aan de noden van een persoon met een handicap en heb je hiervoor een tussenkomst van het Vlaams Agentschap voor Personen met een Handicap (VAPH) gekregen, dan kan je een bijkomende gemeentelijk premie aanvragen.  Het gaat om aanpassingen die het comfort en de veiligheid verhogen zoals goede verlichting, hellende vlakken in plaats van drempels, leuningen aan de trap, werkbladen, laden en kasten op een handige hoogte, handgrepen aan bad, douche en toilet, antislipmatjes, brede deurenopeningen, toilet en badkamer binnenshuis, het ombouwen van de garage tot bad- of slaapkamer, ...</p>",
+        "nl": "<p data-indentation-level=\"0\">Hebt u uw woning aangepast aan de noden van een persoon met een handicap en hebt u hiervoor een tussenkomst van het Vlaams Agentschap voor Personen met een Handicap (VAPH) gekregen, dan kunt u een bijkomende gemeentelijk premie aanvragen.  Het gaat om aanpassingen die het comfort en de veiligheid verhogen zoals goede verlichting, hellende vlakken in plaats van drempels, leuningen aan de trap, werkbladen, laden en kasten op een handige hoogte, handgrepen aan bad, douche en toilet, antislipmatjes, brede deurenopeningen, toilet en badkamer binnenshuis, het ombouwen van de garage tot bad- of slaapkamer, ...</p>",
+        "en": "<p data-indentation-level=\"0\">a</p>"
+      },
+      "startDienstVerlening": "2020-01-01T00:00:00Z",
+      "eindeDienstVerlening": "2030-12-31T00:00:00Z",
+      "publicatiekanalen": [
+        "YourEurope"
+      ],
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "yourEuropeCategorieen": [
+        "WerknemersArbeidsvoorwaarden"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004718",
+          "@id": "OVO004718"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        },
+        {
+          "id": "OVO004718",
+          "@id": "OVO004718"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p data-indentation-level=\"0\"></p><ul __rdfaid=\"a8e5e10f-6bab-49b1-bdc0-73eb829e6b71\"><li __rdfaid=\"ab6e5067-c24e-4867-ba57-f16ce2032409\"><p data-indentation-level=\"0\">U hebt een tussenkomst voor een woningaanpassing ontvangen van het Vlaams Agentschap voor Personen met een Handicap.</p></li><li __rdfaid=\"7e816b97-47d6-4728-9a78-9bc668db92ba\"><p data-indentation-level=\"0\">De aanpassingen verhogen het comfort en de veiligheid en maken zelfstandig wonen mogelijk.</p></li></ul><p data-indentation-level=\"0\"></p>",
+            "nl/je": "<p data-indentation-level=\"0\"></p><ul __rdfaid=\"a8e5e10f-6bab-49b1-bdc0-73eb829e6b71\"><li __rdfaid=\"ab6e5067-c24e-4867-ba57-f16ce2032409\"><p data-indentation-level=\"0\">Je hebt een tussenkomst voor een woningaanpassing ontvangen van het Vlaams Agentschap voor Personen met een Handicap.</p></li><li __rdfaid=\"7e816b97-47d6-4728-9a78-9bc668db92ba\"><p data-indentation-level=\"0\">De aanpassingen verhogen het comfort en de veiligheid en maken zelfstandig wonen mogelijk.</p></li></ul><p data-indentation-level=\"0\"></p>",
+            "nl/u": "<p data-indentation-level=\"0\"></p><ul __rdfaid=\"a8e5e10f-6bab-49b1-bdc0-73eb829e6b71\"><li __rdfaid=\"ab6e5067-c24e-4867-ba57-f16ce2032409\"><p data-indentation-level=\"0\">U hebt een tussenkomst voor een woningaanpassing ontvangen van het Vlaams Agentschap voor Personen met een Handicap.</p></li><li __rdfaid=\"7e816b97-47d6-4728-9a78-9bc668db92ba\"><p data-indentation-level=\"0\">De aanpassingen verhogen het comfort en de veiligheid en maken zelfstandig wonen mogelijk.</p></li></ul><p data-indentation-level=\"0\"></p>"
+          },
+          "naam": {
+            "nl": "Voorwaarde",
+            "nl/u": "Voorwaarde",
+            "nl/je": "Voorwaarde"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl/je": "<p data-indentation-level=\"0\"></p><p data-indentation-level=\"0\">Als je het document zelf ophaalt:</p><ul __rdfaid=\"e5d40b3b-173f-4f4b-8d57-aadd543da307\"><li __rdfaid=\"bdc0821c-85f4-4b1b-9e4f-5829c1c934ec\"><p data-indentation-level=\"0\">jouw eigen identiteitskaart of verblijfsvergunning.</p></li></ul><p data-indentation-level=\"0\">Als je het document voor iemand anders aanvraagt:</p><ul __rdfaid=\"ca0251e7-2906-46a8-9955-53e25304f603\"><li __rdfaid=\"d1d22948-3c1a-4515-a8c7-073f82d4b089\"><p data-indentation-level=\"0\">een volmacht van de betrokkene en een kopie van zijn of haar identiteitskaart</p></li><li __rdfaid=\"7da8d0c5-caaa-40ba-a94f-7eee6fa20124\"><p data-indentation-level=\"0\">jouw eigen identiteitskaart.</p></li></ul><p data-indentation-level=\"0\">a</p>",
+              "nl": "<p data-indentation-level=\"0\"></p><p data-indentation-level=\"0\">Als u het document zelf ophaalt:</p><ul __rdfaid=\"e5d40b3b-173f-4f4b-8d57-aadd543da307\"><li __rdfaid=\"bdc0821c-85f4-4b1b-9e4f-5829c1c934ec\"><p data-indentation-level=\"0\">uw eigen identiteitskaart of verblijfsvergunning.</p></li></ul><p data-indentation-level=\"0\">Als u het document voor iemand anders aanvraagt:</p><ul __rdfaid=\"ca0251e7-2906-46a8-9955-53e25304f603\"><li __rdfaid=\"d1d22948-3c1a-4515-a8c7-073f82d4b089\"><p data-indentation-level=\"0\">een volmacht van de betrokkene en een kopie van zijn of haar identiteitskaart</p></li><li __rdfaid=\"7da8d0c5-caaa-40ba-a94f-7eee6fa20124\"><p data-indentation-level=\"0\">uw eigen identiteitskaart.</p></li></ul><p data-indentation-level=\"0\">a</p>",
+              "nl/u": "<p data-indentation-level=\"0\"></p><p data-indentation-level=\"0\">Als u het document zelf ophaalt:</p><ul __rdfaid=\"e5d40b3b-173f-4f4b-8d57-aadd543da307\"><li __rdfaid=\"bdc0821c-85f4-4b1b-9e4f-5829c1c934ec\"><p data-indentation-level=\"0\">uw eigen identiteitskaart of verblijfsvergunning.</p></li></ul><p data-indentation-level=\"0\">Als u het document voor iemand anders aanvraagt:</p><ul __rdfaid=\"ca0251e7-2906-46a8-9955-53e25304f603\"><li __rdfaid=\"d1d22948-3c1a-4515-a8c7-073f82d4b089\"><p data-indentation-level=\"0\">een volmacht van de betrokkene en een kopie van zijn of haar identiteitskaart</p></li><li __rdfaid=\"7da8d0c5-caaa-40ba-a94f-7eee6fa20124\"><p data-indentation-level=\"0\">uw eigen identiteitskaart.</p></li></ul><p data-indentation-level=\"0\">a</p>"
+            },
+            "naam": {
+              "nl/je": "Wat meebrengen",
+              "nl": "Wat meebrengen",
+              "nl/u": "Wat meebrengen"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl/u": "-",
+            "en": "-",
+            "nl": "-",
+            "nl/je": "-"
+          },
+          "beschrijving": {
+            "nl/u": "-",
+            "en": "-",
+            "nl": "-",
+            "nl/je": "-"
+          },
+          "websites": [
+            {
+              "beschrijving": {
+                "nl/u": "-",
+                "en": "-",
+                "nl": "-",
+                "nl/je": "-"
+              },
+              "naam": {
+                "nl/u": "-",
+                "en": "-",
+                "nl": "-",
+                "nl/je": "-"
+              },
+              "url": "",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl/u": "-",
+            "en": "-",
+            "nl": "-",
+            "nl/je": "-"
+          },
+          "naam": {
+            "nl/u": "-",
+            "en": "-",
+            "nl": "-",
+            "nl/je": "-"
+          },
+          "url": "",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl/u": "-",
+            "en": "-",
+            "nl": "-",
+            "nl/je": "-"
+          },
+          "naam": {
+            "nl/u": "-",
+            "en": "-",
+            "nl": "-",
+            "nl/je": "-"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl/u": "-",
+            "en": "-",
+            "nl": "-",
+            "nl/je": "-"
+          },
+          "naam": {
+            "nl/u": "-",
+            "en": "-",
+            "nl": "-",
+            "nl/je": "-"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-25T13:48:18.251Z",
+      "laatstGewijzigd": "2023-04-25T16:25:24.295Z",
+      "laatstOntvangen": "2023-04-25T16:25:24.295Z",
+      "linkedConcept": "https://ipdc.tni-vlaanderen.be/id/concept/ebc18832-3c42-4fa5-9767-e1f13cac1ca7",
+      "linkedConceptId": "ebc18832-3c42-4fa5-9767-e1f13cac1ca7",
+      "linkedConceptProductnummer": "10078",
+      "productnummer": "10164",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/51e4415c-01a5-4341-9b1f-bcce965cc148",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d9270800-a1fe-450a-8a14-14d580f9f09a"
+    },
+    {
+      "id": "a33ba4e7-6f3b-48de-b376-e87c7d9cb4ca",
+      "generatedAtTime": "2023-06-13T12:12:18.696451Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/u": "Jaarlijks Uitgavendecreet: Project Inhaalbeweging Digitale Collectieregistratie",
+        "nl/je": "Jaarlijks Uitgavendecreet: Project Inhaalbeweging Digitale Collectieregistratie",
+        "nl": "Jaarlijks Uitgavendecreet: Project Inhaalbeweging Digitale Collectieregistratie"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl/je": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl/u": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl/u": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>",
+        "nl/je": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>",
+        "nl": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:23.258451896Z",
+      "laatstGewijzigd": "2023-05-05T18:10:26.30675865Z",
+      "laatstOntvangen": "2023-05-05T18:10:26.30675865Z",
+      "productnummer": "2692",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a33ba4e7-6f3b-48de-b376-e87c7d9cb4ca",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d8e4fcfa-c952-45f7-b20f-0e542f859612"
+    },
+    {
+      "id": "77cffe8f-0655-4964-96d4-cbb22427a7b3",
+      "generatedAtTime": "2023-06-13T12:12:18.696449Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/u": "Decreet KANTL van 12 oktober 2018: Werking Koninklijke Academie voor Nederlandse Taal en Letteren (eerder: Koninklijke Academie voor Nederlandse Taal- en Letterkunde)",
+        "nl/je": "Decreet KANTL van 12 oktober 2018: Werking Koninklijke Academie voor Nederlandse Taal en Letteren (eerder: Koninklijke Academie voor Nederlandse Taal- en Letterkunde)",
+        "nl": "Decreet KANTL van 12 oktober 2018: Werking Koninklijke Academie voor Nederlandse Taal en Letteren (eerder: Koninklijke Academie voor Nederlandse Taal- en Letterkunde)"
+      },
+      "beschrijving": {
+        "nl/u": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>",
+        "nl": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>",
+        "nl/je": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet betreffende de Koninklijke Academie voor Nederlandse Taal- en Letterkunde van 12 oktober 2018</p>",
+        "nl/u": "<p>Decreet betreffende de Koninklijke Academie voor Nederlandse Taal- en Letterkunde van 12 oktober 2018</p>",
+        "nl/je": "<p>Decreet betreffende de Koninklijke Academie voor Nederlandse Taal- en Letterkunde van 12 oktober 2018</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:32.731151131Z",
+      "laatstGewijzigd": "2023-05-05T18:15:07.575054156Z",
+      "laatstOntvangen": "2023-05-05T18:15:07.575054156Z",
+      "productnummer": "2743",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/77cffe8f-0655-4964-96d4-cbb22427a7b3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d8a3d9d6-2e12-4238-be2a-5c0906d1b4d8"
+    },
+    {
+      "id": "88ceeb5b-2f68-489a-99f1-87632aff1fb7",
+      "generatedAtTime": "2023-06-13T12:12:18.696448Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal",
+        "Vlaams",
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl/u": "Permanente bewegwijzering van een onderneming",
+        "nl/je": "Permanente bewegwijzering van een onderneming",
+        "nl": "Permanente bewegwijzering van een onderneming"
+      },
+      "beschrijving": {
+        "nl/u": "<p>Ondernemingen kunnen een aanvraag indienen om langs de openbare weg permanente wegwijzers te plaatsen naar hun onderneming. De wegbeheerder beoordeelt de aanvraag. Voor gemeentewegen is de gemeente bevoegd, voor gewestwegen is het Agentschap Wegen en Verkeer bevoegd.</p>",
+        "nl/je": "<p>Ondernemingen kunnen een aanvraag indienen om langs de openbare weg permanente wegwijzers te plaatsen naar hun onderneming. De wegbeheerder beoordeelt de aanvraag. Voor gemeentewegen is de gemeente bevoegd, voor gewestwegen is het Agentschap Wegen en Verkeer bevoegd.</p>",
+        "nl": "<p>Ondernemingen kunnen een aanvraag indienen om langs de openbare weg permanente wegwijzers te plaatsen naar hun onderneming. De wegbeheerder beoordeelt de aanvraag. Voor gemeentewegen is de gemeente bevoegd, voor gewestwegen is het Agentschap Wegen en Verkeer bevoegd.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk",
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000098",
+          "@id": "OVO000098"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl/je": "<p>De plaatsing van de bewegwijzering voldoet aan de voorwaarden bepaald in de gemeentelijke, gewestelijke en federale wetgeving.</p>",
+            "nl": "<p>De plaatsing van de bewegwijzering voldoet aan de voorwaarden bepaald in de gemeentelijke, gewestelijke en federale wetgeving.</p>",
+            "nl/u": "<p>De plaatsing van de bewegwijzering voldoet aan de voorwaarden bepaald in de gemeentelijke, gewestelijke en federale wetgeving.</p>"
+          },
+          "naam": {
+            "nl/u": "Voorwaarden",
+            "nl/je": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl/u": "Procedure",
+            "nl": "Procedure",
+            "nl/je": "Procedure"
+          },
+          "beschrijving": {
+            "nl/je": "<p>Je dient jouw aanvraag voor permanente bewegwijzering in bij de gemeente.</p><p>Gaat het om verkeersborden die geplaatst worden langs een gewestweg, dan bezorgt de gemeente de aanvraag aan het Agentschap Wegen en Verkeer (AWV). Keurt het AWV jouw aanvraag goed, dan levert en plaatst het AWV de bewegwijzeringsborden.</p>",
+            "nl/u": "<p>U dient uw aanvraag voor permanente bewegwijzering in bij de gemeente.</p><p>Gaat het om verkeersborden die geplaatst worden langs een gewestweg, dan bezorgt de gemeente de aanvraag aan het Agentschap Wegen en Verkeer (AWV). Keurt het AWV uw aanvraag goed, dan levert en plaatst het AWV de bewegwijzeringsborden.</p>",
+            "nl": "<p>U dient uw aanvraag voor permanente bewegwijzering in bij de gemeente.</p><p>Gaat het om verkeersborden die geplaatst worden langs een gewestweg, dan bezorgt de gemeente de aanvraag aan het Agentschap Wegen en Verkeer (AWV). Keurt het AWV uw aanvraag goed, dan levert en plaatst het AWV de bewegwijzeringsborden.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl/u": "Bewegwijzering langs gewestwegen. Wat mag, wat niet? (Wegenenverkeer.be)",
+            "nl/je": "Bewegwijzering langs gewestwegen. Wat mag, wat niet? (Wegenenverkeer.be)",
+            "nl": "Bewegwijzering langs gewestwegen. Wat mag, wat niet? (Wegenenverkeer.be)"
+          },
+          "url": "https://wegenenverkeer.be/veelgestelde-vragen/regelgeving/bewegwijzering-langs-gewestwegen-wat-mag-wat-niet",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl/je": "<p>De kosten voor plaatsing en onderhoud van de bewegwijzering worden gedragen</p><ul><li>door de gemeente voor de gemeentewegen</li><li>door het Agentschap Wegen en Verkeer voor de gewestwegen.</li></ul>",
+            "nl": "<p>De kosten voor plaatsing en onderhoud van de bewegwijzering worden gedragen</p><ul><li>door de gemeente voor de gemeentewegen</li><li>door het Agentschap Wegen en Verkeer voor de gewestwegen.</li></ul>",
+            "nl/u": "<p>De kosten voor plaatsing en onderhoud van de bewegwijzering worden gedragen</p><ul><li>door de gemeente voor de gemeentewegen</li><li>door het Agentschap Wegen en Verkeer voor de gewestwegen.</li></ul>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "nl/je": "Kost",
+            "nl/u": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:53.841130186Z",
+      "laatstGewijzigd": "2023-05-04T12:40:34.618509765Z",
+      "laatstOntvangen": "2023-05-04T12:40:34.618509765Z",
+      "productnummer": "1383",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/88ceeb5b-2f68-489a-99f1-87632aff1fb7",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d857e4b4-fcbf-49bc-8c4e-356a81bf3b41"
+    },
+    {
+      "id": "57867275-f0bc-4ca2-95be-38ff59039987",
+      "generatedAtTime": "2023-06-13T12:12:18.696446Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/je": "Premie voor buitensporige opgravingskosten bij verplicht archeologisch onderzoek",
+        "nl/u": "Premie voor buitensporige opgravingskosten bij verplicht archeologisch onderzoek",
+        "nl": "Premie voor buitensporige opgravingskosten bij verplicht archeologisch onderzoek"
+      },
+      "beschrijving": {
+        "nl/u": "<p>Wie de bodem verstoort, betaalt de kosten voor het archeologisch onderzoek. Om de kosten te helpen dragen, kunt u in welbepaalde gevallen een premie aanvragen voor buitensporige directe kosten die voortvloeien uit verplichte archeologische opgravingen, ook wel de premie voor buitensporige opgravingskosten genoemd.</p>",
+        "nl": "<p>Wie de bodem verstoort, betaalt de kosten voor het archeologisch onderzoek. Om de kosten te helpen dragen, kunt u in welbepaalde gevallen een premie aanvragen voor buitensporige directe kosten die voortvloeien uit verplichte archeologische opgravingen, ook wel de premie voor buitensporige opgravingskosten genoemd.</p>",
+        "nl/je": "<p>Wie de bodem verstoort, betaalt de kosten voor het archeologisch onderzoek. Om de kosten te helpen dragen, kan je in welbepaalde gevallen een premie aanvragen voor buitensporige directe kosten die voortvloeien uit verplichte archeologische opgravingen, ook wel de premie voor buitensporige opgravingskosten genoemd.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl/je": "<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br/>Hoofdstuk 11 - premies</p>",
+        "nl": "<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 11 - premies</p>",
+        "nl/u": "<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br/>Hoofdstuk 11 - premies</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl/u": "<p>De premie is bestemd voor <strong>occasionele bouwheren</strong> die de kosten voor het verplicht archeologisch onderzoek dat zij moeten uitvoeren, niet zomaar kunnen spreiden. De volgende bouwprojecten komen NIET in aanmerking:</p><ul><li>projecten van bouwheren die beroepsmatig vastgoed ontwikkelen</li><li>vastgoed dat men ontwikkelt om te verkopen</li><li>verkavelingen</li><li>projecten van regelmatige bouwheren.</li></ul><p>De premie kan aangevraagd worden zodra het archeologierapport ingediend is bij het agentschap Onroerend Erfgoed.</p><p><a href=\"https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten\">Alle informatie en voorwaarden van de archeologiepremie</a> leest u op de website Onroerenderfgoed.be.</p>",
+            "nl/je": "<p>De premie is bestemd voor <strong>occasionele bouwheren</strong> die de kosten voor het verplicht archeologisch onderzoek dat zij moeten uitvoeren, niet zomaar kunnen spreiden. De volgende bouwprojecten komen NIET in aanmerking:</p><ul><li>projecten van bouwheren die beroepsmatig vastgoed ontwikkelen</li><li>vastgoed dat men ontwikkelt om te verkopen</li><li>verkavelingen</li><li>projecten van regelmatige bouwheren.</li></ul><p>De premie kan aangevraagd worden zodra het archeologierapport ingediend is bij het agentschap Onroerend Erfgoed.</p><p><a href=\"https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten\">Alle informatie en voorwaarden van de archeologiepremie</a> lees je op de website Onroerenderfgoed.be.</p>",
+            "nl": "<p>De premie is bestemd voor <strong>occasionele bouwheren</strong> die de kosten voor het verplicht archeologisch onderzoek dat zij moeten uitvoeren, niet zomaar kunnen spreiden. De volgende bouwprojecten komen NIET in aanmerking:</p><ul><li>projecten van bouwheren die beroepsmatig vastgoed ontwikkelen</li><li>vastgoed dat men ontwikkelt om te verkopen</li><li>verkavelingen</li><li>projecten van regelmatige bouwheren.</li></ul><p>De premie kan aangevraagd worden zodra het archeologierapport ingediend is bij het agentschap Onroerend Erfgoed.</p><p><a href=\"https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten\">Alle informatie en voorwaarden van de archeologiepremie</a> leest u op de website Onroerenderfgoed.be.</p>"
+          },
+          "naam": {
+            "nl/u": "Voorwaarden",
+            "nl/je": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het premiebedrag wordt op forfaitaire basis bepaald aan de hand van een formule:</p><ul><li>Het vertrekpunt is een vaste basiskost die 12.123 euro bedraagt.</li><li>Die wordt vermeerderd en verminderd met bedragen die afhangen van de uitgevoerde archeologische opgraving en de aangetroffen toestand (variabelen).</li><li>Tot slot wordt het bekomen bedrag verminderd met een franchise van 1.500 euro. Die staat voor het niet buitensporige deel van de kosten en blijft hoe dan ook voor rekening van de initiatiefnemer.</li></ul>",
+            "nl/u": "<p>Het premiebedrag wordt op forfaitaire basis bepaald aan de hand van een formule:</p><ul><li>Het vertrekpunt is een vaste basiskost die 12.123 euro bedraagt.</li><li>Die wordt vermeerderd en verminderd met bedragen die afhangen van de uitgevoerde archeologische opgraving en de aangetroffen toestand (variabelen).</li><li>Tot slot wordt het bekomen bedrag verminderd met een franchise van 1.500 euro. Die staat voor het niet buitensporige deel van de kosten en blijft hoe dan ook voor rekening van de initiatiefnemer.</li></ul>",
+            "nl/je": "<p>Het premiebedrag wordt op forfaitaire basis bepaald aan de hand van een formule:</p><ul><li>Het vertrekpunt is een vaste basiskost die 12.123 euro bedraagt.</li><li>Die wordt vermeerderd en verminderd met bedragen die afhangen van de uitgevoerde archeologische opgraving en de aangetroffen toestand (variabelen).</li><li>Tot slot wordt het bekomen bedrag verminderd met een franchise van 1.500 euro. Die staat voor het niet buitensporige deel van de kosten en blijft hoe dan ook voor rekening van de initiatiefnemer.</li></ul>"
+          },
+          "naam": {
+            "nl/je": "Financieel voordeel",
+            "nl": "Financieel voordeel",
+            "nl/u": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:20:25.895096233Z",
+      "laatstGewijzigd": "2023-05-05T18:00:08.619316608Z",
+      "laatstOntvangen": "2023-05-05T18:00:08.619316608Z",
+      "productnummer": "2344",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/57867275-f0bc-4ca2-95be-38ff59039987",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d84ccf9a-f95c-4cbf-92b2-bcd1992a933a"
+    },
+    {
+      "id": "f8981d79-eb28-42fa-b44e-b6a5999c9517",
+      "generatedAtTime": "2023-06-13T12:12:18.696443Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl/u": "Globaal medisch dossier ",
+        "nl/je": "Globaal medisch dossier ",
+        "nl": "Globaal medisch dossier "
+      },
+      "beschrijving": {
+        "nl": "<p>Een Globaal Medisch Dossier (GMD) is een elektronisch medisch dossier van u bij uw huisarts. Het bevat al uw medische gegevens en geeft een totaalbeeld van uw gezondheidssituatie. Dit dossier zorgt voor een betere individuele begeleiding en een beter overleg tussen de artsen.</p><p> </p>",
+        "nl/je": "<p>Een Globaal Medisch Dossier (GMD) is een elektronisch medisch dossier van jou bij jouw huisarts. Het bevat al jouw medische gegevens en geeft een totaalbeeld van jouw gezondheidssituatie. Dit dossier zorgt voor een betere individuele begeleiding en een beter overleg tussen de artsen.</p><p> </p>",
+        "nl/u": "<p>Een Globaal Medisch Dossier (GMD) is een elektronisch medisch dossier van u bij uw huisarts. Het bevat al uw medische gegevens en geeft een totaalbeeld van uw gezondheidssituatie. Dit dossier zorgt voor een betere individuele begeleiding en een beter overleg tussen de artsen.</p><p> </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "GMD",
+          "globaal medisch dossier"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO008217",
+          "@id": "OVO008217"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl/u": "Procedure",
+            "nl": "Procedure",
+            "nl/je": "Procedure"
+          },
+          "beschrijving": {
+            "nl/je": "<ul><li>Je vraagt aan jouw huisarts om een Globaal Medisch Dossier aan te leggen en bij te houden.</li><li>Het toevertrouwen van het beheer van jouw medisch dossier blijft geldig tot het einde van het tweede kalenderjaar dat volgt op het jaar van de opening. Jouw arts en jouw ziekenfonds zorgen voor de verlenging.</li><li>Je kan op elk ogenblik van huisarts veranderen en vragen of hij het beheer van jouw GMD overneemt. In dat geval onderneemt jouw nieuwe huisarts de nodige stappen voor de overdracht van jouw dossier.</li></ul>",
+            "nl/u": "<ul><li>U vraagt aan uw huisarts om een Globaal Medisch Dossier aan te leggen en bij te houden.</li><li>Het toevertrouwen van het beheer van uw medisch dossier blijft geldig tot het einde van het tweede kalenderjaar dat volgt op het jaar van de opening. Uw arts en uw ziekenfonds zorgen voor de verlenging.</li><li>U kunt op elk ogenblik van huisarts veranderen en vragen of hij het beheer van uw GMD overneemt. In dat geval onderneemt uw nieuwe huisarts de nodige stappen voor de overdracht van uw dossier.</li></ul>",
+            "nl": "<ul><li>U vraagt aan uw huisarts om een Globaal Medisch Dossier aan te leggen en bij te houden.</li><li>Het toevertrouwen van het beheer van uw medisch dossier blijft geldig tot het einde van het tweede kalenderjaar dat volgt op het jaar van de opening. Uw arts en uw ziekenfonds zorgen voor de verlenging.</li><li>U kunt op elk ogenblik van huisarts veranderen en vragen of hij het beheer van uw GMD overneemt. In dat geval onderneemt uw nieuwe huisarts de nodige stappen voor de overdracht van uw dossier.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl/je": "RIZIV - Globaal Medisch Dossier",
+            "nl": "RIZIV - Globaal Medisch Dossier",
+            "nl/u": "RIZIV - Globaal Medisch Dossier"
+          },
+          "url": "https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/financiele-toegankelijkheid/Paginas/globaal-medisch-dossier.aspx",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl/u": "<p>U betaalt jaarlijks een bepaald bedrag, maar het ziekenfonds betaalt u deze kosten volledig terug. Het Globaal Medisch Dossier is dus <strong>gratis</strong>.</p><p>Als u een GMD aanvraagt, krijgt u tot 30% meer terugbetaald voor een raadpleging van uw huisarts. Het percentage is afhankelijk van uw situatie.</p>",
+            "nl/je": "<p>Je betaalt jaarlijks een bepaald bedrag, maar het ziekenfonds betaal je deze kosten volledig terug. Het Globaal Medisch Dossier is dus <strong>gratis</strong>.</p><p>Als je een GMD aanvraagt, krijg je tot 30% meer terugbetaald voor een raadpleging van jouw huisarts. Het percentage is afhankelijk van jouw situatie.</p>",
+            "nl": "<p>U betaalt jaarlijks een bepaald bedrag, maar het ziekenfonds betaalt u deze kosten volledig terug. Het Globaal Medisch Dossier is dus <strong>gratis</strong>.</p><p>Als u een GMD aanvraagt, krijgt u tot 30% meer terugbetaald voor een raadpleging van uw huisarts. Het percentage is afhankelijk van uw situatie.</p>"
+          },
+          "naam": {
+            "nl/je": "Financieel voordeel",
+            "nl": "Financieel voordeel",
+            "nl/u": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:28.775259889Z",
+      "laatstGewijzigd": "2023-05-05T17:30:29.277246154Z",
+      "laatstOntvangen": "2023-05-05T17:30:29.277246154Z",
+      "productnummer": "831",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f8981d79-eb28-42fa-b44e-b6a5999c9517",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d7c0dbf4-a5a7-4cf1-a8c2-f7eea0f69518"
+    },
+    {
+      "id": "c8c1c0bc-16fb-4e51-a725-be5f2d8c0019",
+      "generatedAtTime": "2023-06-13T12:12:18.696442Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Cultureel Erfgoeddecreet van 23 december 2021: Werking Cultureel Erfgoed",
+        "nl/je": "Cultureel Erfgoeddecreet van 23 december 2021: Werking Cultureel Erfgoed",
+        "nl/u": "Cultureel Erfgoeddecreet van 23 december 2021: Werking Cultureel Erfgoed"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief.</p>",
+        "nl/u": "<p>Deze dienst is actief.</p>",
+        "nl/je": "<p>Deze dienst is actief.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet houdende de ondersteuning van cultureelerfgoedwerking van 23 december 2021</p>",
+        "nl/je": "<p>Decreet houdende de ondersteuning van cultureelerfgoedwerking van 23 december 2021</p>",
+        "nl/u": "<p>Decreet houdende de ondersteuning van cultureelerfgoedwerking van 23 december 2021</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:25:26.372283029Z",
+      "laatstGewijzigd": "2023-05-05T18:05:23.915458667Z",
+      "laatstOntvangen": "2023-05-05T18:05:23.915458667Z",
+      "productnummer": "2549",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c8c1c0bc-16fb-4e51-a725-be5f2d8c0019",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d7b871e5-6fe4-4950-8155-2a0fdc5d99f1"
+    },
+    {
+      "id": "6d0c0d45-1e8f-4772-a9e0-9d6e10472e92",
+      "generatedAtTime": "2023-06-13T12:12:18.69644Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/u": "Nominatieve subsidies Sport Vlaanderen",
+        "nl": "Nominatieve subsidies Sport Vlaanderen",
+        "nl/je": "Nominatieve subsidies Sport Vlaanderen"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies die voor een specifiek project of specifiek initiatief in de sportsector worden toegekend.</p>",
+        "nl/je": "<p>Subsidies die voor een specifiek project of specifiek initiatief in de sportsector worden toegekend.</p>",
+        "nl/u": "<p>Subsidies die voor een specifiek project of specifiek initiatief in de sportsector worden toegekend.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl/u": "<p>Uitgavendecreet</p>",
+        "nl/je": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:30.557305845Z",
+      "laatstGewijzigd": "2023-05-05T17:50:12.283311912Z",
+      "laatstOntvangen": "2023-05-05T17:50:12.283311912Z",
+      "productnummer": "2136",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6d0c0d45-1e8f-4772-a9e0-9d6e10472e92",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d75ef519-0699-4bd9-9701-10e215c9904f"
+    },
+    {
+      "id": "6768847c-03a3-4eb8-aad8-b6e476208dfb",
+      "generatedAtTime": "2023-06-13T12:12:18.696438Z",
+      "naam": {
+        "en": "Test 6 - Minimaal English"
+      },
+      "beschrijving": {
+        "en": "<p>Test 6 - Minimaal English</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T17:10:54.235697201Z",
+      "laatstGewijzigd": "2023-05-05T09:10:32.242569351Z",
+      "laatstOntvangen": "2023-05-05T09:10:32.242569351Z",
+      "productnummer": "2844",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6768847c-03a3-4eb8-aad8-b6e476208dfb",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d70e1636-25ca-4c21-a675-a02a1e90e3ed"
+    },
+    {
+      "id": "67e7bfd4-1809-4595-8904-5b2213cd29b9",
+      "generatedAtTime": "2023-06-13T12:12:18.696436Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/u": "Programmadecreet van 19 december 1998: Tussenkomst in kosten voor Energiescan",
+        "nl/je": "Programmadecreet van 19 december 1998: Tussenkomst in kosten voor Energiescan",
+        "nl": "Programmadecreet van 19 december 1998: Tussenkomst in kosten voor Energiescan"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief.</p>",
+        "nl/u": "<p>Deze dienst is actief.</p>",
+        "nl/je": "<p>Deze dienst is actief.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl/je": "<p>Decreet houdende bepalingen tot begeleiding van de begroting 1999 van 19 december 1998</p>",
+        "nl": "<p>Decreet houdende bepalingen tot begeleiding van de begroting 1999 van 19 december 1998</p>",
+        "nl/u": "<p>Decreet houdende bepalingen tot begeleiding van de begroting 1999 van 19 december 1998</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:16.888707886Z",
+      "laatstGewijzigd": "2023-05-05T18:10:20.3888561Z",
+      "laatstOntvangen": "2023-05-05T18:10:20.3888561Z",
+      "productnummer": "2664",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/67e7bfd4-1809-4595-8904-5b2213cd29b9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d681f307-98e2-41bb-8b5b-05270701dff4"
+    },
+    {
+      "id": "69766369-6c30-487f-a9db-9b7ec3286f41",
+      "generatedAtTime": "2023-06-13T12:12:18.696434Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging",
+        "nl/je": "Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging",
+        "nl/u": "Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging"
+      },
+      "beschrijving": {
+        "nl/je": "<p>De Vlaamse overheid erkent en subsidieert verenigingen die aan jeugdwerk doen. Jeugdwerk is sociaal-cultureel werk op basis van niet-commerciële doelen voor of door de jeugd van 3 tot en met 30 jaar, in de vrije tijd, onder educatieve begeleiding en ter bevordering van de algemene en integrale ontwikkeling van de jeugd die daaraan deelneemt op vrijwillige basis.</p>",
+        "nl": "<p>De Vlaamse overheid erkent en subsidieert verenigingen die aan jeugdwerk doen. Jeugdwerk is sociaal-cultureel werk op basis van niet-commerciële doelen voor of door de jeugd van 3 tot en met 30 jaar, in de vrije tijd, onder educatieve begeleiding en ter bevordering van de algemene en integrale ontwikkeling van de jeugd die daaraan deelneemt op vrijwillige basis.</p>",
+        "nl/u": "<p>De Vlaamse overheid erkent en subsidieert verenigingen die aan jeugdwerk doen. Jeugdwerk is sociaal-cultureel werk op basis van niet-commerciële doelen voor of door de jeugd van 3 tot en met 30 jaar, in de vrije tijd, onder educatieve begeleiding en ter bevordering van de algemene en integrale ontwikkeling van de jeugd die daaraan deelneemt op vrijwillige basis.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 20 januari 2012 houdende het voeren van een vernieuwd jeugd- en kinderrechtenbeleid.</p>",
+        "nl/u": "<p>Decreet van 20 januari 2012 houdende het voeren van een vernieuwd jeugd- en kinderrechtenbeleid.</p>",
+        "nl/je": "<p>Decreet van 20 januari 2012 houdende het voeren van een vernieuwd jeugd- en kinderrechtenbeleid.</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "erkenning",
+          "georganiseerd",
+          "jeugdbeleid",
+          "jeugdvereniging",
+          "jeugdwerk",
+          "landelijk",
+          "subsidie"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De belangrijkste voorwaarde is dat de vereniging aan jeugdwerk doet met deelnemers uit minstens 4 provincies van het Nederlandse taalgebied of uit 3 provincies van het Nederlandse taalgebied en het 2-talige gebied Brussel-Hoofdstad.</p><p>Daarnaast moet u als landelijk georganiseerde jeugdvereniging aan een aantal algemene en bijkomende voorwaarden voldoen.</p>",
+            "nl/u": "<p>De belangrijkste voorwaarde is dat de vereniging aan jeugdwerk doet met deelnemers uit minstens 4 provincies van het Nederlandse taalgebied of uit 3 provincies van het Nederlandse taalgebied en het 2-talige gebied Brussel-Hoofdstad.</p><p>Daarnaast moet u als landelijk georganiseerde jeugdvereniging aan een aantal algemene en bijkomende voorwaarden voldoen.</p>",
+            "nl/je": "<p>De belangrijkste voorwaarde is dat de vereniging aan jeugdwerk doet met deelnemers uit minstens 4 provincies van het Nederlandse taalgebied of uit 3 provincies van het Nederlandse taalgebied en het 2-talige gebied Brussel-Hoofdstad.</p><p>Daarnaast moet je als landelijk georganiseerde jeugdvereniging aan een aantal algemene en bijkomende voorwaarden voldoen.</p>"
+          },
+          "naam": {
+            "nl/u": "Voorwaarden",
+            "nl/je": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl/u": "Procedure",
+            "nl": "Procedure",
+            "nl/je": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<h3>Erkenning</h3><p>Nieuwe verenigingen die als landelijk georganiseerde vereniging erkend willen worden, moeten een erkenningsaanvraag indienen bij de afdeling Jeugd.</p><ul><li>In <strong>2017</strong> werd een <strong>nieuwe erkenningsprocedure</strong> van kracht. Niet-erkende verenigingen zullen vanaf 2020 nog slechts 1 keer per 4 jaar een erkenningsaanvraag kunnen indienen. In de tussenliggende jaren (2017, 2018, 2019) kan er geen erkenning meer worden toegekend, met uitzondering van verenigingen die nog op basis van 3 modules gesubsidieerd worden. Zij zullen nog elk van hun 4-jarig traject erkend kunnen worden.</li></ul><h3>Subsidiëring</h3><p>Verenigingen die erkend worden krijgen een <strong>werkingssubsidie</strong>, maar kunnen ook een <strong>projectsubsidie</strong> aanvragen.</p><p><strong>Werkingssubsidie</strong></p><p>Een erkende vereniging krijgt jaarlijks een <strong>vaste basissubsidie</strong>. Deze geldt voor onbepaalde duur, zolang de vereniging voldoet aan de subsidie- en erkenningsvoorwaarden. Door een beleidsnota in te dienen kunt u ook aanspraak maken op <strong>variabele subsidies</strong>.</p><p><strong>Projectsubsidie</strong></p><p>Landelijk georganiseerde jeugdverenigingen die een werkingssubsidie ontvangen, kunnen ook projectsubsidies aanvragen voor initiatieven op het terrein van het jeugdwerk.</p><p>Alleen projecten die inspelen op ontwikkelingen of opportuniteiten die niet konden worden voorzien bij het opstellen van de beleidsnota en die voor de vereniging een bijzonder karakter hebben, komen in aanmerking voor subsidiëring.</p><p>Er is 1 indiendatum per jaar: <strong>1 september</strong>.</p>",
+            "nl/je": "<h3>Erkenning</h3><p>Nieuwe verenigingen die als landelijk georganiseerde vereniging erkend willen worden, moeten een erkenningsaanvraag indienen bij de afdeling Jeugd.</p><ul><li>In <strong>2017</strong> werd een <strong>nieuwe erkenningsprocedure</strong> van kracht. Niet-erkende verenigingen zullen vanaf 2020 nog slechts 1 keer per 4 jaar een erkenningsaanvraag kunnen indienen. In de tussenliggende jaren (2017, 2018, 2019) kan er geen erkenning meer worden toegekend, met uitzondering van verenigingen die nog op basis van 3 modules gesubsidieerd worden. Zij zullen nog elk van hun 4-jarig traject erkend kunnen worden.</li></ul><h3>Subsidiëring</h3><p>Verenigingen die erkend worden krijgen een <strong>werkingssubsidie</strong>, maar kunnen ook een <strong>projectsubsidie</strong> aanvragen.</p><p><strong>Werkingssubsidie</strong></p><p>Een erkende vereniging krijgt jaarlijks een <strong>vaste basissubsidie</strong>. Deze geldt voor onbepaalde duur, zolang de vereniging voldoet aan de subsidie- en erkenningsvoorwaarden. Door een beleidsnota in te dienen kan je ook aanspraak maken op <strong>variabele subsidies</strong>.</p><p><strong>Projectsubsidie</strong></p><p>Landelijk georganiseerde jeugdverenigingen die een werkingssubsidie ontvangen, kunnen ook projectsubsidies aanvragen voor initiatieven op het terrein van het jeugdwerk.</p><p>Alleen projecten die inspelen op ontwikkelingen of opportuniteiten die niet konden worden voorzien bij het opstellen van de beleidsnota en die voor de vereniging een bijzonder karakter hebben, komen in aanmerking voor subsidiëring.</p><p>Er is 1 indiendatum per jaar: <strong>1 september</strong>.</p>",
+            "nl/u": "<h3>Erkenning</h3><p>Nieuwe verenigingen die als landelijk georganiseerde vereniging erkend willen worden, moeten een erkenningsaanvraag indienen bij de afdeling Jeugd.</p><ul><li>In <strong>2017</strong> werd een <strong>nieuwe erkenningsprocedure</strong> van kracht. Niet-erkende verenigingen zullen vanaf 2020 nog slechts 1 keer per 4 jaar een erkenningsaanvraag kunnen indienen. In de tussenliggende jaren (2017, 2018, 2019) kan er geen erkenning meer worden toegekend, met uitzondering van verenigingen die nog op basis van 3 modules gesubsidieerd worden. Zij zullen nog elk van hun 4-jarig traject erkend kunnen worden.</li></ul><h3>Subsidiëring</h3><p>Verenigingen die erkend worden krijgen een <strong>werkingssubsidie</strong>, maar kunnen ook een <strong>projectsubsidie</strong> aanvragen.</p><p><strong>Werkingssubsidie</strong></p><p>Een erkende vereniging krijgt jaarlijks een <strong>vaste basissubsidie</strong>. Deze geldt voor onbepaalde duur, zolang de vereniging voldoet aan de subsidie- en erkenningsvoorwaarden. Door een beleidsnota in te dienen kunt u ook aanspraak maken op <strong>variabele subsidies</strong>.</p><p><strong>Projectsubsidie</strong></p><p>Landelijk georganiseerde jeugdverenigingen die een werkingssubsidie ontvangen, kunnen ook projectsubsidies aanvragen voor initiatieven op het terrein van het jeugdwerk.</p><p>Alleen projecten die inspelen op ontwikkelingen of opportuniteiten die niet konden worden voorzien bij het opstellen van de beleidsnota en die voor de vereniging een bijzonder karakter hebben, komen in aanmerking voor subsidiëring.</p><p>Er is 1 indiendatum per jaar: <strong>1 september</strong>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging",
+            "nl/je": "Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging",
+            "nl/u": "Erkenning en subsidiëring van een landelijk georganiseerde jeugdvereniging"
+          },
+          "url": "https://www.vlaanderen.be/cjm/nl/jeugd/subsidies/landelijk-georganiseerde-jeugdverenigingen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-21T15:35:33.623146126Z",
+      "laatstGewijzigd": "2023-05-05T17:10:13.519382262Z",
+      "laatstOntvangen": "2023-05-05T17:10:13.519382262Z",
+      "productnummer": "634",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/69766369-6c30-487f-a9db-9b7ec3286f41",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d63a4f7b-8aee-411d-a96a-03fb88e216b7"
+    },
+    {
+      "id": "b2c605e1-cbf1-491a-8b5e-e967a137bf2b",
+      "generatedAtTime": "2023-06-13T12:12:18.696432Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/je": "Kapitaalschadecompensatie voor eigenaars van landbouwgronden",
+        "nl/u": "Kapitaalschadecompensatie voor eigenaars van landbouwgronden",
+        "nl": "Kapitaalschadecompensatie voor eigenaars van landbouwgronden"
+      },
+      "beschrijving": {
+        "nl/u": "<p>Kapitaalschade is de schade die de eigenaar van landbouwgrond ondervindt door:</p><ul><li>een bestemmingswijziging van landbouw in natuur, bos of overig groen</li><li>de opname in een plan van een overdruk die de economische aanwending van landbouwgrond beïnvloedt</li><li>het opleggen van een erfdienstbaarheid die de economische aanwending van landbouwgrond beïnvloedt.</li></ul><p>Wie <strong>kapitaalschade</strong> ondervindt, kan een kapitaalschadecompensatie aanvragen.</p>",
+        "nl/je": "<p>Kapitaalschade is de schade die de eigenaar van landbouwgrond ondervindt door:</p><ul><li>een bestemmingswijziging van landbouw in natuur, bos of overig groen</li><li>de opname in een plan van een overdruk die de economische aanwending van landbouwgrond beïnvloedt</li><li>het opleggen van een erfdienstbaarheid die de economische aanwending van landbouwgrond beïnvloedt.</li></ul><p>Wie <strong>kapitaalschade</strong> ondervindt, kan een kapitaalschadecompensatie aanvragen.</p>",
+        "nl": "<p>Kapitaalschade is de schade die de eigenaar van landbouwgrond ondervindt door:</p><ul><li>een bestemmingswijziging van landbouw in natuur, bos of overig groen</li><li>de opname in een plan van een overdruk die de economische aanwending van landbouwgrond beïnvloedt</li><li>het opleggen van een erfdienstbaarheid die de economische aanwending van landbouwgrond beïnvloedt.</li></ul><p>Wie <strong>kapitaalschade</strong> ondervindt, kan een kapitaalschadecompensatie aanvragen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl/je": "<p>De regeling over de kapitaalschadecompensatie is te vinden in artikel 6.2.1 tot en met 6.3.3 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.</p><p>De voorwaarden, de randvoorwaarden en de wijze waarop de vergoedingen bepaald worden, zijn geregeld in het besluit van de Vlaamse Regering van 3 juli 2009 houdende de oprichting van de kapitaalschadecommissies en tot regeling van de kapitaalschadecompensatie.</p>",
+        "nl/u": "<p>De regeling over de kapitaalschadecompensatie is te vinden in artikel 6.2.1 tot en met 6.3.3 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.</p><p>De voorwaarden, de randvoorwaarden en de wijze waarop de vergoedingen bepaald worden, zijn geregeld in het besluit van de Vlaamse Regering van 3 juli 2009 houdende de oprichting van de kapitaalschadecommissies en tot regeling van de kapitaalschadecompensatie.</p>",
+        "nl": "<p>De regeling over de kapitaalschadecompensatie is te vinden in artikel 6.2.1 tot en met 6.3.3 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.</p><p>De voorwaarden, de randvoorwaarden en de wijze waarop de vergoedingen bepaald worden, zijn geregeld in het besluit van de Vlaamse Regering van 3 juli 2009 houdende de oprichting van de kapitaalschadecommissies en tot regeling van de kapitaalschadecompensatie.</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "planschade"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl/je": "<p>Het <strong>perceel</strong>:</p><ul><li>is geregistreerd in het geïntegreerd beheers- en controlesysteem van de landbouwadministratie</li><li>heeft een oppervlakte van ten minste 0,5 hectare of behoort tot een groep getroffen percelen van dezelfde eigenaar met een totale oppervlakte van ten minste 0,5 hectare.</li></ul>",
+            "nl": "<p>Het <strong>perceel</strong>:</p><ul><li>is geregistreerd in het geïntegreerd beheers- en controlesysteem van de landbouwadministratie</li><li>heeft een oppervlakte van ten minste 0,5 hectare of behoort tot een groep getroffen percelen van dezelfde eigenaar met een totale oppervlakte van ten minste 0,5 hectare.</li></ul>",
+            "nl/u": "<p>Het <strong>perceel</strong>:</p><ul><li>is geregistreerd in het geïntegreerd beheers- en controlesysteem van de landbouwadministratie</li><li>heeft een oppervlakte van ten minste 0,5 hectare of behoort tot een groep getroffen percelen van dezelfde eigenaar met een totale oppervlakte van ten minste 0,5 hectare.</li></ul>"
+          },
+          "naam": {
+            "nl/u": "Voorwaarden",
+            "nl/je": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl/u": "Procedure",
+            "nl": "Procedure",
+            "nl/je": "Procedure"
+          },
+          "beschrijving": {
+            "nl/u": "<p>De kapitaalschadecompensatie wordt niet automatisch toegekend. De eigenaar die er recht op meent te hebben, dient een aanvraag in bij de Vlaamse Landmaatschappij (VLM).</p><p>Voor elk plan dat kapitaalschade veroorzaakt, maakt een provinciale kapitaalschadecommissie een kapitaalschaderapport.</p><p>De <strong>aanvraag</strong> moet worden ingediend binnen een jaar na de inwerkingtreding van het plan dat kapitaalschade veroorzaakt.</p><p>Op de website vindt u de aanvraagformulieren en informatie over de aanvraagprocedure en de aanvraagtermijn.</p>",
+            "nl/je": "<p>De kapitaalschadecompensatie wordt niet automatisch toegekend. De eigenaar die er recht op meent te hebben, dient een aanvraag in bij de Vlaamse Landmaatschappij (VLM).</p><p>Voor elk plan dat kapitaalschade veroorzaakt, maakt een provinciale kapitaalschadecommissie een kapitaalschaderapport.</p><p>De <strong>aanvraag</strong> moet worden ingediend binnen een jaar na de inwerkingtreding van het plan dat kapitaalschade veroorzaakt.</p><p>Op de website vind je de aanvraagformulieren en informatie over de aanvraagprocedure en de aanvraagtermijn.</p>",
+            "nl": "<p>De kapitaalschadecompensatie wordt niet automatisch toegekend. De eigenaar die er recht op meent te hebben, dient een aanvraag in bij de Vlaamse Landmaatschappij (VLM).</p><p>Voor elk plan dat kapitaalschade veroorzaakt, maakt een provinciale kapitaalschadecommissie een kapitaalschaderapport.</p><p>De <strong>aanvraag</strong> moet worden ingediend binnen een jaar na de inwerkingtreding van het plan dat kapitaalschade veroorzaakt.</p><p>Op de website vindt u de aanvraagformulieren en informatie over de aanvraagprocedure en de aanvraagtermijn.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl/u": "VLM - Kapitaalschade en gebruikerscompensatie",
+            "nl/je": "VLM - Kapitaalschade en gebruikerscompensatie",
+            "nl": "VLM - Kapitaalschade en gebruikerscompensatie"
+          },
+          "url": "https://www.vlm.be/nl/themas/kapitaalschadegebruikerscompensatie",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De compensatie voor kapitaalschade bedraagt 80% van de in het kapitaalschaderapport geraamde waardevermindering.</p>",
+            "nl/je": "<p>De compensatie voor kapitaalschade bedraagt 80% van de in het kapitaalschaderapport geraamde waardevermindering.</p>",
+            "nl/u": "<p>De compensatie voor kapitaalschade bedraagt 80% van de in het kapitaalschaderapport geraamde waardevermindering.</p>"
+          },
+          "naam": {
+            "nl/je": "Financieel voordeel",
+            "nl": "Financieel voordeel",
+            "nl/u": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T13:20:31.527885033Z",
+      "laatstGewijzigd": "2023-05-05T17:25:21.96386464Z",
+      "laatstOntvangen": "2023-05-05T17:25:21.96386464Z",
+      "productnummer": "558",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b2c605e1-cbf1-491a-8b5e-e967a137bf2b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d638ab58-b329-498f-9b9d-19d7bb0ff8c2"
+    },
+    {
+      "id": "8a98de77-14f3-4175-a172-8f51636d097c",
+      "generatedAtTime": "2023-06-13T12:12:18.696431Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/je": "Subsidies voor de letterensector",
+        "nl": "Subsidies voor de letterensector",
+        "nl/u": "Subsidies voor de letterensector"
+      },
+      "beschrijving": {
+        "nl/u": "<p>Literatuur Vlaanderen ondersteunt de boekensector in Vlaanderen van auteur tot lezer.</p>",
+        "nl": "<p>Literatuur Vlaanderen ondersteunt de boekensector in Vlaanderen van auteur tot lezer.</p>",
+        "nl/je": "<p>Literatuur Vlaanderen ondersteunt de boekensector in Vlaanderen van auteur tot lezer.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "literaire sector"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl/je": "<p>Literatuur Vlaanderen ondersteunt:</p><ul><li><strong>Auteurs</strong>: subsidies voor auteurs, illustratoren, stripauteurs en theatertekstauteurs</li><li><strong>Vertalers</strong>: subsidies voor vertalers en vertalingen in en uit het Nederlands</li><li><strong>Uitgevers: </strong>subsidies voor het uitgeven van bijzondere boekpublicaties en literaire tijdschriften</li><li><strong>Organisatoren: </strong>subsidies voor literaire activiteiten, leesbevorderingsprojecten, auteurslezingen, …</li></ul>",
+            "nl": "<p>Literatuur Vlaanderen ondersteunt:</p><ul><li><strong>Auteurs</strong>: subsidies voor auteurs, illustratoren, stripauteurs en theatertekstauteurs</li><li><strong>Vertalers</strong>: subsidies voor vertalers en vertalingen in en uit het Nederlands</li><li><strong>Uitgevers: </strong>subsidies voor het uitgeven van bijzondere boekpublicaties en literaire tijdschriften</li><li><strong>Organisatoren: </strong>subsidies voor literaire activiteiten, leesbevorderingsprojecten, auteurslezingen, …</li></ul>",
+            "nl/u": "<p>Literatuur Vlaanderen ondersteunt:</p><ul><li><strong>Auteurs</strong>: subsidies voor auteurs, illustratoren, stripauteurs en theatertekstauteurs</li><li><strong>Vertalers</strong>: subsidies voor vertalers en vertalingen in en uit het Nederlands</li><li><strong>Uitgevers: </strong>subsidies voor het uitgeven van bijzondere boekpublicaties en literaire tijdschriften</li><li><strong>Organisatoren: </strong>subsidies voor literaire activiteiten, leesbevorderingsprojecten, auteurslezingen, …</li></ul>"
+          },
+          "naam": {
+            "nl/u": "Voorwaarden",
+            "nl/je": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl/u": "Procedure",
+            "nl": "Procedure",
+            "nl/je": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Op de website van Literatuur Vlaanderen vindt u <a href=\"https://www.literatuurvlaanderen.be/subsidies\">meer info over de procedure om een subsidie aan te vragen.</a></p>",
+            "nl/je": "<p>Op de website van Literatuur Vlaanderen vind je <a href=\"https://www.literatuurvlaanderen.be/subsidies\">meer info over de procedure om een subsidie aan te vragen.</a></p>",
+            "nl/u": "<p>Op de website van Literatuur Vlaanderen vindt u <a href=\"https://www.literatuurvlaanderen.be/subsidies\">meer info over de procedure om een subsidie aan te vragen.</a></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl/je": "Subsidies voor de letterensector",
+            "nl": "Subsidies voor de letterensector",
+            "nl/u": "Subsidies voor de letterensector"
+          },
+          "url": "http://www.literatuurvlaanderen.be/ondersteuning",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T13:15:19.678927934Z",
+      "laatstGewijzigd": "2023-05-05T17:10:28.715357216Z",
+      "laatstOntvangen": "2023-05-05T17:10:28.715357216Z",
+      "productnummer": "524",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8a98de77-14f3-4175-a172-8f51636d097c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d5fd3018-a7a0-4c1b-9ece-20d8fcd62bfa"
+    },
+    {
+      "id": "420ee2bc-b962-48e4-b985-7bb68d2f8aff",
+      "generatedAtTime": "2023-06-13T12:12:18.696428Z",
+      "naam": {
+        "nl": "b",
+        "nl/je": "b",
+        "en": "b",
+        "nl/u": "b"
+      },
+      "beschrijving": {
+        "nl/je": "<p>b</p>",
+        "nl": "<p>b</p>",
+        "en": "<p>b</p>",
+        "nl/u": "<p>b</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "yourEuropeCategorieen": [
+        "ConsumentenrechtenNutsvoorzieningen"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "creatie": "2023-04-03T14:55:37.658Z",
+      "laatstGewijzigd": "2023-04-03T15:01:00.529493863Z",
+      "laatstOntvangen": "2023-04-03T15:01:00.529493863Z",
+      "productnummer": "10140",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/420ee2bc-b962-48e4-b985-7bb68d2f8aff",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d5c962f1-70eb-4b4a-bf3e-f0c87b330014"
+    },
+    {
+      "id": "658a0935-94cb-49c5-935f-101d4fa0ecee",
+      "generatedAtTime": "2023-06-13T12:12:18.696426Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/u": "Decreet Sociaal-Cultureel Volwassenenwerk van 7 juli 2017: Werking Belangenbehartiging Sociaal-Cultureel Volwassenenwerk",
+        "nl/je": "Decreet Sociaal-Cultureel Volwassenenwerk van 7 juli 2017: Werking Belangenbehartiging Sociaal-Cultureel Volwassenenwerk",
+        "nl": "Decreet Sociaal-Cultureel Volwassenenwerk van 7 juli 2017: Werking Belangenbehartiging Sociaal-Cultureel Volwassenenwerk"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief.</p>",
+        "nl/u": "<p>Deze dienst is actief.</p>",
+        "nl/je": "<p>Deze dienst is actief.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl/u": "<p>Decreet houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk van 7 juli 2017</p>",
+        "nl/je": "<p>Decreet houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk van 7 juli 2017</p>",
+        "nl": "<p>Decreet houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk van 7 juli 2017</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:09.180675517Z",
+      "laatstGewijzigd": "2023-05-05T18:10:10.918428461Z",
+      "laatstOntvangen": "2023-05-05T18:10:10.918428461Z",
+      "productnummer": "2617",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/658a0935-94cb-49c5-935f-101d4fa0ecee",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d5c590b6-f98c-48da-8be5-aa039bce2d37"
+    },
+    {
+      "id": "1abe6f5d-b283-4037-bf2b-799fafb070cc",
+      "generatedAtTime": "2023-06-13T12:12:18.696425Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Decreet Jeugd- en Kinderrechtenbeleid van 20 januari 2012: Project JKB - Oproep Vernieuwend Project",
+        "nl/u": "Decreet Jeugd- en Kinderrechtenbeleid van 20 januari 2012: Project JKB - Oproep Vernieuwend Project",
+        "nl/je": "Decreet Jeugd- en Kinderrechtenbeleid van 20 januari 2012: Project JKB - Oproep Vernieuwend Project"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief.</p>",
+        "nl/u": "<p>Deze dienst is actief.</p>",
+        "nl/je": "<p>Deze dienst is actief.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl/u": "<p>Decreet houdende een vernieuwd jeugd- en kinderrechtenbeleid van 20 januari 2012</p>",
+        "nl": "<p>Decreet houdende een vernieuwd jeugd- en kinderrechtenbeleid van 20 januari 2012</p>",
+        "nl/je": "<p>Decreet houdende een vernieuwd jeugd- en kinderrechtenbeleid van 20 januari 2012</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:25:32.943254085Z",
+      "laatstGewijzigd": "2023-05-05T18:05:33.990336663Z",
+      "laatstOntvangen": "2023-05-05T18:05:33.990336663Z",
+      "productnummer": "2591",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1abe6f5d-b283-4037-bf2b-799fafb070cc",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d5057ecd-be35-420f-8ba2-7c73a90ba638"
+    },
+    {
+      "id": "95a18df1-c6fa-4585-8c96-d9797081af02",
+      "generatedAtTime": "2023-06-13T12:12:18.696423Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl/u": "Loopbaanonderbreking in de openbare sector",
+        "nl/je": "Loopbaanonderbreking in de openbare sector",
+        "nl": "Loopbaanonderbreking in de openbare sector"
+      },
+      "beschrijving": {
+        "nl/je": "<p>Via loopbaanonderbreking kunnen bepaalde werknemers in de openbare sector ervoor kiezen tijdelijk niet of minder te gaan werken.</p>",
+        "nl": "<p>Via loopbaanonderbreking kunnen bepaalde werknemers in de openbare sector ervoor kiezen tijdelijk niet of minder te gaan werken.</p>",
+        "nl/u": "<p>Via loopbaanonderbreking kunnen bepaalde werknemers in de openbare sector ervoor kiezen tijdelijk niet of minder te gaan werken.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "balans werk-privé",
+          "betaald verlof",
+          "deeltijds",
+          "einde loopbaan",
+          "eindeloopbaan",
+          "eindeloopbaanregeling",
+          "eindeloopbaansysteem",
+          "evenwicht",
+          "half-time",
+          "halftime",
+          "haltijds",
+          "minder werken",
+          "palliatief",
+          "part-time",
+          "parttime",
+          "privé",
+          "thematisch",
+          "themaverlof",
+          "tijdskrediet",
+          "verlofstelsel",
+          "zorgkrediet",
+          "zorgvakantie",
+          "zorgverlof",
+          "eindeloopbaanstelsel",
+          "einde loopbaan stelsel",
+          "lo"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO025169",
+          "@id": "OVO025169"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl/u": "<ul></ul><p>De regeling van de loopbaanonderbreking in de openbare sector geldt alleen voor:</p><ul><li>personeelsleden van de openbare sector die <strong>niet </strong>tot de <strong>Vlaamse openbare sector behoren. </strong>Het gaat onder meer om:<ul><li>federale ambtenaren</li><li>lokale en federale politie</li><li>ambtenaren van andere gewesten en gemeenschappen.</li></ul></li><li>personeelsleden van de <strong>Vlaamse openbare sector</strong> die al vóór 2 september 2016 in loopbaanonderbreking waren gegaan. Personeelsleden van de<strong> Vlaamse openbare sector </strong>hebben sinds die dag een eigen, apart verlofstelsel: het <a href=\"https://www.uat-vlaanderen.be/vlaams-zorgkrediet\">Vlaams zorgkrediet</a>.</li></ul><p>Neem voor de voorwaarden van de loopbaanonderbreking contact op met uw werkgever/personeelsdienst, uw vakbond of uw <a href=\"https://www.rva.be/nl/kantoren\">plaatselijke RVA-kantoor</a>.</p>",
+            "nl/je": "<ul></ul><p>De regeling van de loopbaanonderbreking in de openbare sector geldt alleen voor:</p><ul><li>personeelsleden van de openbare sector die <strong>niet </strong>tot de <strong>Vlaamse openbare sector behoren. </strong>Het gaat onder meer om:<ul><li>federale ambtenaren</li><li>lokale en federale politie</li><li>ambtenaren van andere gewesten en gemeenschappen.</li></ul></li><li>personeelsleden van de <strong>Vlaamse openbare sector</strong> die al vóór 2 september 2016 in loopbaanonderbreking waren gegaan. Personeelsleden van de<strong> Vlaamse openbare sector </strong>hebben sinds die dag een eigen, apart verlofstelsel: het <a href=\"https://www.uat-vlaanderen.be/vlaams-zorgkrediet\">Vlaams zorgkrediet</a>.</li></ul><p>Neem voor de voorwaarden van de loopbaanonderbreking contact op met jouw werkgever/personeelsdienst, jouw vakbond of jouw <a href=\"https://www.rva.be/nl/kantoren\">plaatselijke RVA-kantoor</a>.</p>",
+            "nl": "<ul></ul><p>De regeling van de loopbaanonderbreking in de openbare sector geldt alleen voor:</p><ul><li>personeelsleden van de openbare sector die <strong>niet </strong>tot de <strong>Vlaamse openbare sector behoren. </strong>Het gaat onder meer om:<ul><li>federale ambtenaren</li><li>lokale en federale politie</li><li>ambtenaren van andere gewesten en gemeenschappen.</li></ul></li><li>personeelsleden van de <strong>Vlaamse openbare sector</strong> die al vóór 2 september 2016 in loopbaanonderbreking waren gegaan. Personeelsleden van de<strong> Vlaamse openbare sector </strong>hebben sinds die dag een eigen, apart verlofstelsel: het <a href=\"https://www.uat-vlaanderen.be/vlaams-zorgkrediet\">Vlaams zorgkrediet</a>.</li></ul><p>Neem voor de voorwaarden van de loopbaanonderbreking contact op met uw werkgever/personeelsdienst, uw vakbond of uw <a href=\"https://www.rva.be/nl/kantoren\">plaatselijke RVA-kantoor</a>.</p>"
+          },
+          "naam": {
+            "nl/u": "Voorwaarden",
+            "nl/je": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl/u": "Procedure",
+            "nl": "Procedure",
+            "nl/je": "Procedure"
+          },
+          "beschrijving": {
+            "nl/je": "<p>De loopbaanonderbreking wordt aangevraagd bij de RVA.</p>",
+            "nl": "<p>De loopbaanonderbreking wordt aangevraagd bij de RVA.</p>",
+            "nl/u": "<p>De loopbaanonderbreking wordt aangevraagd bij de RVA.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Loopbaanonderbreking (op RVA.be)",
+            "nl/u": "Loopbaanonderbreking (op RVA.be)",
+            "nl/je": "Loopbaanonderbreking (op RVA.be)"
+          },
+          "url": "http://www.rva.be/nl/burgers/loopbaanonderbreking%20en%20tijdskrediet/loopbaanonderbreking",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Tijdens uw loopbaanonderbreking krijgt u van de RVA een vervangingsinkomen.</p>",
+            "nl/je": "<p>Tijdens jouw loopbaanonderbreking krijg je van de RVA een vervangingsinkomen.</p>",
+            "nl/u": "<p>Tijdens uw loopbaanonderbreking krijgt u van de RVA een vervangingsinkomen.</p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "nl/je": "Kost",
+            "nl/u": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:34.555868488Z",
+      "laatstGewijzigd": "2023-05-05T17:25:31.744754865Z",
+      "laatstOntvangen": "2023-05-05T17:25:31.744754865Z",
+      "productnummer": "1224",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/95a18df1-c6fa-4585-8c96-d9797081af02",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d4d3ef8f-abb3-4fdc-94a4-541b95ecd0f8"
+    },
+    {
+      "id": "abb2c2ed-22a0-4127-8498-e9557a84e102",
+      "generatedAtTime": "2023-06-13T12:12:18.69642Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/u": "Subsidie voor ex-DAC-ers aan polders en wateringen",
+        "nl/je": "Subsidie voor ex-DAC-ers aan polders en wateringen",
+        "nl": "Subsidie voor ex-DAC-ers aan polders en wateringen"
+      },
+      "beschrijving": {
+        "nl/u": "<p>Subsidie voor loonkost van werknemers tewerkgesteld in een gewezen DAC-statuut bij polders en wateringen</p>",
+        "nl/je": "<p>Subsidie voor loonkost van werknemers tewerkgesteld in een gewezen DAC-statuut bij polders en wateringen</p>",
+        "nl": "<p>Subsidie voor loonkost van werknemers tewerkgesteld in een gewezen DAC-statuut bij polders en wateringen</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl/je": "<p>BVR van 14 mei 2004 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut</p>",
+        "nl": "<p>BVR van 14 mei 2004 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut</p>",
+        "nl/u": "<p>BVR van 14 mei 2004 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000092",
+          "@id": "OVO000092"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:29.738793226Z",
+      "laatstGewijzigd": "2023-05-05T18:00:13.766151933Z",
+      "laatstOntvangen": "2023-05-05T18:00:13.766151933Z",
+      "productnummer": "2366",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/abb2c2ed-22a0-4127-8498-e9557a84e102",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d4bcc9f7-fc7d-4a88-b26b-23c7593523cd"
+    },
+    {
+      "id": "43204afc-8294-4348-9e49-5dce89edeee5",
+      "generatedAtTime": "2023-06-13T12:12:18.696418Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl/u": "Toelating tot invoer van dierlijke bijproducten (DBP) vanuit een andere Europese lidstaat",
+        "nl/je": "Toelating tot invoer van dierlijke bijproducten (DBP) vanuit een andere Europese lidstaat",
+        "nl": "Toelating tot invoer van dierlijke bijproducten (DBP) vanuit een andere Europese lidstaat"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze toelating hebt u nodig om dierlijke bijproducten (DBP) die als afvalstoffen worden beschouwd, vanuit een andere EU-lidstaat in Vlaanderen in te voeren. Dat is nodig om te voldoen aan de Europese verordening inzake dierlijke bijproducten die niet voor menselijke consumptie zijn bestemd.</p><p>De OVAM reikt één toelating uit per type DBP, per bedrijf van oorsprong, per plaats van bestemming, per wijze van nuttige toepassing of verwijdering, en per aanvrager. Een toelating is maximaal één jaar geldig.</p>",
+        "nl/u": "<p>Deze toelating hebt u nodig om dierlijke bijproducten (DBP) die als afvalstoffen worden beschouwd, vanuit een andere EU-lidstaat in Vlaanderen in te voeren. Dat is nodig om te voldoen aan de Europese verordening inzake dierlijke bijproducten die niet voor menselijke consumptie zijn bestemd.</p><p>De OVAM reikt één toelating uit per type DBP, per bedrijf van oorsprong, per plaats van bestemming, per wijze van nuttige toepassing of verwijdering, en per aanvrager. Een toelating is maximaal één jaar geldig.</p>",
+        "nl/je": "<p>Deze toelating heb je nodig om dierlijke bijproducten (DBP) die als afvalstoffen worden beschouwd, vanuit een andere EU-lidstaat in Vlaanderen in te voeren. Dat is nodig om te voldoen aan de Europese verordening inzake dierlijke bijproducten die niet voor menselijke consumptie zijn bestemd.</p><p>De OVAM reikt één toelating uit per type DBP, per bedrijf van oorsprong, per plaats van bestemming, per wijze van nuttige toepassing of verwijdering, en per aanvrager. Een toelating is maximaal één jaar geldig.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "afvalstoffen",
+          "dbp",
+          "dierlijke bijproducten",
+          "europees handelsdocument",
+          "europese lidstaten",
+          "formulier",
+          "intracommunautair handelsverkeer",
+          "invoer",
+          "melding",
+          "toelating",
+          "tracering",
+          "traces",
+          "transport",
+          "uitvoer",
+          "verwerving",
+          "verzending"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000091",
+          "@id": "OVO000091"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl/u": "Procedure",
+            "nl": "Procedure",
+            "nl/je": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Informatie over de procedures en formulieren voor het grensoverschrijdend vervoer van dierlijke bijproducten, vindt u op de website van de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM).</p>",
+            "nl/u": "<p>Informatie over de procedures en formulieren voor het grensoverschrijdend vervoer van dierlijke bijproducten, vindt u op de website van de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM).</p>",
+            "nl/je": "<p>Informatie over de procedures en formulieren voor het grensoverschrijdend vervoer van dierlijke bijproducten, vind je op de website van de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM).</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl/u": "OVAM - Grensoverschrijdende verzending dierlijke bijproducten (DBP) en afgeleide producten",
+            "nl": "OVAM - Grensoverschrijdende verzending dierlijke bijproducten (DBP) en afgeleide producten",
+            "nl/je": "OVAM - Grensoverschrijdende verzending dierlijke bijproducten (DBP) en afgeleide producten"
+          },
+          "url": "https://ovam.vlaanderen.be/export-van-dierlijke-bijproducten",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T13:15:23.87007766Z",
+      "laatstGewijzigd": "2023-05-05T17:15:05.98062027Z",
+      "laatstOntvangen": "2023-05-05T17:15:05.98062027Z",
+      "productnummer": "430",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/43204afc-8294-4348-9e49-5dce89edeee5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d4ad313c-fb65-456f-a078-b2e1e9bd2256"
+    }
+  ]
+}

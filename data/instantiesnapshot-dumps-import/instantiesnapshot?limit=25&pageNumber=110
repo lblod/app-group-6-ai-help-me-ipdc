@@ -1,1 +1,1253 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=110","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=111","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-04T14:20:36.612604Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=109","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-04T14:20:32.984305Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=110","@type":"EventStream","member":[{"id":"f98ed27a-f601-4f63-8e76-4ba4f4891a5e","generatedAtTime":"2023-05-04T14:20:36.612604Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Jongerenbonus"},"beschrijving":{"nl":"<p>Maatregelen ten gunste van de tewerkstelling van jongeren in de social profitsector.</p><p>Een tussenkomst in de loonkost ten gunste van de tewerkstelling van jongeren in de social profitsector in het kader van deeltijds leren en werken.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 10 maart 2017 betreffende de maatregelen ten gunste van de tewerkstelling van jongeren in de social-profitsector die voortvloeien uit de wet van 23 december 2005 betreffende het generatiepact.</p>"},"bevoegdeOverheden":[{"id":"OVO000076","@id":"OVO000076"}],"creatie":"2023-05-04T14:20:36.595969285Z","laatstGewijzigd":"2023-05-04T14:20:36.595970049Z","laatstOntvangen":"2023-05-04T14:20:36.595970049Z","productnummer":"2411","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f98ed27a-f601-4f63-8e76-4ba4f4891a5e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/435c5242-0fa4-48c8-8929-857fe72bcf2d"},{"id":"faebde5d-ddcd-468f-b5e0-4095ec0beb41","generatedAtTime":"2023-05-04T14:20:36.399545Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Microkredieten van microStart"},"beschrijving":{"nl":"<p>microStart verstrekt microkredieten van 500 tot 25.000 euro aan ondernemers die geen toegang hebben tot het bankkrediet.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"zoektermen":{"nl":["bedrijf","onderneming","hefboom","microkrediet","microkredieten","zwarte lijst","banklening","bijberoep","startlening","eigen inbreng","bancair krediet","krediet","microstart"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"voorwaarden":[{"beschrijving":{"nl":"<p>microStart is er voor iedereen die op zoek is naar een krediet om een eigen zelfstandige activiteit op te starten of uit te bouwen en die niet bij de bank terechtkan. De doelgroep zijn verder diegenen die positief antwoorden op de volgende vier vragen:</p><ul><li>heb je financiering nodig voor een professionele activiteit?</li><li>ben je al gestart als zelfstandige of wenst je spoedig op te starten?</li><li>zul je activiteit een inkomen genereren in België?</li><li>val je niet onder een collectieve schuldregeling?</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Aanvragen kunnen gebeuren in één van de kantoren van microStart. Voor het Vlaamse Gewest zijn dit de kantoren:</p><p>Agentschap Gent<br />Tel.: 09 277 93 39<br /><a href=\"mailto:gent@microstart.be\">gent@microstart.be</a></p><p>Agentschap Antwerpen<br />Tel. 03 555 92 95<br /><a href=\"mailto:antwerpen@microstart.be\">antwerpen@microstart.be</a></p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De microkredieten hebben de volgende kenmerken:</p><ul><li>kredieten van<strong> 500 tot 15.000</strong> euro voor een professioneel doeleinde</li><li>de looptijd van de lening hangt af van het project, tot maximaal 4 jaar</li><li>de <strong>intrestvoet</strong> bedraagt <strong>8,95%</strong> voor de meeste leningen</li><li>ondernemers die al één jaar actief zijn kunnen een microkrediet <strong>tot 25.000 euro</strong> verkrijgen. Boven de 15.000 euro bedraagt de <strong>intrestvoet 7,95%</strong>. </li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:20:36.383093718Z","laatstGewijzigd":"2023-05-04T14:20:36.383094421Z","laatstOntvangen":"2023-05-04T14:20:36.383094421Z","productnummer":"2421","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/faebde5d-ddcd-468f-b5e0-4095ec0beb41","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f5b4c1fa-e8c3-4dbd-85e5-3921f67cacac"},{"id":"c1aa6bb6-6a32-4bd2-a98b-af5b80f3ac9e","generatedAtTime":"2023-05-04T14:20:36.271669Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Impulskrediet van Hefboom"},"beschrijving":{"nl":"<p>Impulskrediet is het microkrediet van Hefboom dat zich richt tot micro-ondernemers (kmo’s, zelfstandigen in hoofd- en bijberoep) én geen of moeilijk toegang hebben tot een bankkrediet. Er kan maximaal 25.000 euro ontleend worden.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"zoektermen":{"nl":["bedrijf","onderneming","hefboom","microkrediet","microkredieten","zwarte lijst","banklening","bijberoep","startlening","eigen inbreng","impulskrediet","lening"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Impulskrediet is er voor elke ondernemer die geen krediet of lening (meer) krijgt van de bank. Het is er zowel voor een bestaande activiteit als voor starters.</p><p>Mogelijke redenen waarom een bank je krediet weigert, zijn:</p><ul><li>je ben nog te jong of te oud (vijftigplussers krijgen vaak geen lening meer)</li><li>je moet nog starten of bent net gestart</li><li>je hebt ooit een faillissement gehad</li><li>je staat geafficheerd bij de nationale bank (zwarte lijst) of hebt in schuldbemiddeling gezeten</li><li>…</li></ul><p>Bij Impulskrediet hoeven dit geen drempels te zijn. Elke ondernemer of toekomstige ondernemer met <strong>een goed en onderbouwd plan</strong>, kan bij Impulskrediet terecht.</p><p>Er wordt <strong>gedurende 2 jaar gratis begeleiding</strong> voorzien door vrijwillige coaches met een ruime ervaring om de slaagkans van het project te vergroten.</p><p>Het microkrediet van Impulskrediet kan in bepaalde gevallen ook gebruikt worden om de eigen inbreng voor de Startlening te financieren.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Vul het contactformulier in op www.impulskrediet.be of contacteer Impulskrediet via info@impulskrediet.be of 02/205 17 31. Hefboom gaat na of jij, je activiteit en je investering in aanmerking komt voor een microkrediet en stuurt je een aanvraagformulier op. Deze aanvraagformulieren zijn eveneens terug te vinden op de website.<br />Om je ondernemingsplannen te bespreken kan je terecht op één van de zitdagen die per provincie worden georganiseerd. Meer informatie op de website. Meer informatie over de aanvraagprocedure kan je terugvinden op de website www.impulskrediet.be</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De duurtijd van het microkrediet bedraagt maximaal 5 jaar aan een rentevoet van 7%. Er kan maximaal € 25.000 worden ontleend.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:20:36.254890819Z","laatstGewijzigd":"2023-05-04T14:20:36.254891662Z","laatstOntvangen":"2023-05-04T14:20:36.254891662Z","productnummer":"2422","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c1aa6bb6-6a32-4bd2-a98b-af5b80f3ac9e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/70b84b5d-f086-4753-8a55-22c38fc56673"},{"id":"050080f4-6810-43dc-be24-7da8f2d29ba2","generatedAtTime":"2023-05-04T14:20:36.115354Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Mijn VerbouwLening "},"beschrijving":{"nl":"<p>Naast de invoering van Mijn VerbouwPremie (vanaf 1 juli 2022), zult u vanaf 1 september ook de renteloze Mijn VerbouwLening tot 60.000 euro kunnen aanvragen via uw Energiehuis. Met deze lening kunnen renovaties gefinancierd worden die zowel focussen op woningkwaliteit als op het verbeteren van de energieprestatie. </p><p>De voorwaarden van Mijn VerbouwLening werden definitief goedgekeurd door de Vlaamse Regering op 8 juli 2022. </p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"websites":[{"naam":{"nl":"Mijn VerbouwLening "},"url":"https://www.vlaanderen.be/bouwen-wonen-en-energie/lenen/mijn-verbouwlening","@type":"Website","order":0}],"creatie":"2023-03-24T06:45:09.177651816Z","laatstGewijzigd":"2023-05-04T14:20:36.099387703Z","laatstOntvangen":"2023-05-04T14:20:36.099387703Z","productnummer":"2410","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/050080f4-6810-43dc-be24-7da8f2d29ba2","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/344a40b2-b2b9-4b8e-86a1-0fa06791e15f"},{"id":"5a919af8-3cfa-4754-9a72-6a31743406a6","generatedAtTime":"2023-05-04T14:20:35.951901Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Premie voor micro-WKK kleiner dan 10 kW (biogas)"},"beschrijving":{"nl":"<p>U kunt als eigenaar van de micro-warmtekrachtinstallatie een premie ontvangen voor uw investering.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>De toekenning van premies voor kwalitatieve warmte-krachtinstallaties tot en met 10 kWe is bepaald in <a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019755&amp;param=inhoud&amp;AID=1233707\">artikel 7.10.1 van het Energiebesluit</a>.</p>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Alle voorwaarden moeten voldaan zijn om de premie te kunnen ontvangen, deze zijn:</p><ul><li>kwalitatieve warmte-krachtinstallatie met een volledig AREI-keuringsverslag</li><li>elektrisch vermogen kleiner dan 10 kW</li><li>brandstof is biogas </li><li>opgewekte warmte wordt nuttig gebruikt</li><li>ligt in het Vlaams Gewest</li><li>heeft een startdatum na 1 januari 2018.</li></ul><p><strong>Startdatum</strong>: Voor micro-warmtekrachtinstallatie <strong>zonder vergunningsplicht</strong> is de startdatum dezelfde als de <strong>datum indienstneming</strong>. Als er vergunningen voor het project nodig zijn, kan de startdatum de datum van de aanvraag zijn.</p><h3>Wie komt in aanmerking? </h3><ul><li>ondernemingen</li><li>natuurlijke personen</li><li>niet-commerciële instellingen zoals scholen, universiteiten, verzorgingsinstellingen en verenigingen zonder winstoogmerk</li><li>publiekrechtelijke rechtspersonen.</li></ul><h3>Aandachtspunten</h3><ul><li>De installatie mag pas in werking gaan, zodra de <strong>AREI-keuring uitgevoerd</strong> is.</li><li>Deze premie kan <strong>niet </strong>worden <strong>gecumuleerd </strong>met<ul><li>andere investeringssteun</li><li>groenestroomcertificaten</li><li>warmtekrachtcertificaten</li><li>groenewarmtecertificaten van de Vlaamse overheid voor dezelfde investering.</li></ul></li><li>Als het totale bedrag aan <strong>de-minimissteun</strong> dat aan de betrokken onderneming wordt verleend <strong>niet hoger</strong> ligt dan <strong>200.000 euro</strong> over een <strong>periode van 3 belastingjaren</strong>. Deze premie kan <strong>gecumuleerd </strong>worden met<ul><li>waarborgen verleend door de Vlaamse overheid</li><li>ecologiesteun.</li></ul></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Het aanvragen van de premie is enkel mogelijk, als het <strong>type-installatie</strong> <strong>opgenomen </strong>is <strong>in de lijst erkende type micro-WKK-installatie kleiner dan 10 kW </strong>(zie tabel bij Bedrag).</p><h3>Aanmelding van het installatietype door fabrikant of installateur</h3><p>Deze aanmelding is eenmalig en moet enkel gebeuren als het type installatie niet opgenomen is in de tabel van de erkende type micro-WKK-installatie kleiner dan 10 kW. De <strong>aanmelding </strong>van een <strong>nieuw </strong>(nog niet erkend) <strong>type micro-WKK-installatie</strong> gebeurt best door de <strong>installateur </strong>of leverancier via het <a href=\"https://www.energiesparen.be/steun-micro-wkk\">online aanmeldingsformulier dat beschikbaar is op energiesparen.be</a>.</p><ul></ul><h3>Premie aanvragen door eigenaar</h3><p>De premie-aanvraag gebeurt in 1 stap en kan enkel online worden aangevraagd. U kan de aanvraagprocedure pas opstarten nadat</p><ul><li>de installatie in werking is</li><li>u in het bezit bent van de noodzakelijke documenten</li><li>het type installatie opgenomen is in de tabel van erkende types installaties.</li></ul><p>Het indienen van de aanvraag kan zodra u alle documenten verzameld heeft.</p><h4>Aanvraag van de premie voorbereiden</h4><p>Verzamel volgende documenten en zet deze om naar een pdf-bestand:</p><ul><li>volledig <strong>AREI-keuringsverslag</strong> met<ul><li>de <strong>datum </strong>van de keuring</li><li>info over de installatie:<ul><li><strong>merk </strong>en <strong>type</strong></li><li>het <strong>nominaal </strong>en <strong>maximaal vermogen </strong>uitgedrukt in kW/KVA</li><li>het <strong>serienummer</strong></li></ul></li><li><strong>EAN-nummer</strong> van de meter waarop de installatie is aangesloten</li><li>een door de keurder ondertekend <strong>eendraadschema</strong></li></ul></li><li><strong>foto </strong>van de <strong>kenplaat </strong>van de installatie waarop het <strong>serienummer </strong>duidelijk <strong>leesbaar </strong>is</li><li>scan van de <strong>bestelbon</strong></li><li>scan van de <strong>factuur </strong>en alle <strong>bewijsstukken </strong>van de <strong>totale kosten</strong></li><li>scan van het <strong>betalingsbewijs </strong>voor het <strong>volledige factuurbedrag</strong></li><li>duidelijke kopie van de <strong>identiteitskaart </strong>van de<ul><li>eigenaar van de installatie (privépersoon)</li><li>zaakvoerder (eigenaar is onderneming)</li><li>verantwoordelijke (eigenaar is niet-commerciële instelling of publiekrechtelijke rechtspersoon)</li></ul></li><li>een ondertekende <strong>machtiging </strong>of verklaring die bevestigt dat u de aanvraag mag indienen, als de eigenaar een<ul><li>onderneming</li><li>niet-commerciële instelling</li><li>of publiekrechtelijke rechtspersoon is.</li></ul></li></ul><h4>Aanvraag van de premie starten en indienen</h4><p>De premie aanvraag kan via het <a href=\"https://www.energiesparen.be/steun-micro-wkk\">online formulier voor de eigenaar dat beschikbaar is op energiesparen.be</a>.</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De premie wordt berekend op (een aandeel van) de in aanmerking komende kosten, en wordt afgetopt (4700 per kWe). </p><ul></ul><h3>Kosten die in aanmerking komen</h3><p>De kosten (exclusief btw) die rechtstreeks verbonden zijn aan de warmte-krachtinstallatie zelf, inclusief het vergistingsgedeelte. Deze kosten moeten aantoonbaar en noodzakelijk zijn voor de goede werking van de installatie.</p><p>Afhankelijk van de grootte van de onderneming, kan de premie <strong>beperkt </strong>worden tot een <strong>bepaald percentage</strong> van de in aanmerking komende kosten:</p><ul><li>65% voor kleine ondernemingen en aanvragers die geen onderneming zijn</li><li>55% voor middelgrote ondernemingen</li><li>45% voor grote ondernemingen.</li></ul><p>Het premiebedrag kan lager kan zijn dan het maximaal steunbedrag. Volgende <strong>type installaties</strong> zijn <strong>erkend </strong>en kunnen de premie aanvragen.</p><div data-table=\"\"><table data-table-type=\"grid\"><thead><tr><th>Merk (Fabrikant)</th><th>Type</th><th>Technologie</th><th>Brandstof</th><th><p>Elektrisch vermogen</p><p>in kWe</p></th><th><p>Maximaal steunbedrag</p><p>in euro</p></th></tr></thead><tbody><tr><td>Biolectric</td><td>10</td><td>interne verbrandingsmotor</td><td>biogas</td><td>9,7</td><td>45.590</td></tr><tr><td>Biotechnics Perkins</td><td>KVT E15SI</td><td>interne verbrandingsmotor</td><td>biogas</td><td>9,7</td><td>45.590</td></tr></tbody></table></div><p>Reden waarom type niet getoond wordt in de tabel:</p><ul><li>Komt <strong>niet</strong> in <strong>aanmerking </strong>voor de premie.</li><li>Is nog <strong>niet </strong>of <strong>recent aangemeld</strong>. Vraag bij uw installateur na of het type installatie reeds aangemeld werd. Van zodra het type installatie erkend is, wordt deze in bovenstaande tabel en het aanvraagformulier opgenomen.</li></ul><h4><strong>Voorbeelden berekening premie</strong></h4><p>Situatie: een grote onderneming is eigenaar van een warmte-krachtinstallatie op biogas, met een nominaal elektrisch vermogen van 9,7 kW. De installatie bestaat uit de warmte-krachtinstallatie, een vergistingstank, een stuureenheid en gasbehandelingsinstallatie. De maximale premie bedraagt 45.590 euro (= 4700 x 9,7).</p><ul><li><strong>Voorbeeld 1: </strong>De totale investeringskosten zijn 110.000 euro exclusief btw. De in aanmerking komende kosten is 49.500 euro (= 45% van 110.000).<br />De onderneming heeft recht op een ondersteuning van 45.590 euro (<strong>= bedrag maximale premie</strong>, de in aanmerking komende kosten werden <strong>afgetopt</strong>).</li><li><strong>Voorbeeld 2: </strong>De totale investeringskosten zijn 80.000 euro exclusief btw. De in aanmerking komende kosten bedraagt 36.000 euro (= 45% van 80.000).<br />De onderneming heeft recht op een ondersteuning van 36.000 euro (<strong>= bedrag</strong> van de in aanmerking komende <strong>kosten</strong>).</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:45:09.051595399Z","laatstGewijzigd":"2023-05-04T14:20:35.935705222Z","laatstOntvangen":"2023-05-04T14:20:35.935705222Z","productnummer":"2524","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5a919af8-3cfa-4754-9a72-6a31743406a6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fe1d17d6-05ec-4ee5-916b-96560bc53e4e"},{"id":"d3a7d276-fe63-4e5f-81aa-6b4786aa525c","generatedAtTime":"2023-05-04T14:20:35.616709Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Managementadvies"},"beschrijving":{"nl":"<p>Als erkende sociale-economieonderneming (maatwerkbedrijven, maatwerkafdelingen en LDE-ondernemingen) kan je een premie krijgen voor het inwinnen van een onderbouwd schriftelijk advies om je bedrijfsvoering te verbeteren en je onderneming te versterken, te laten groeien of te transformeren.</p><p>Dit omvat onder meer advies inzake strategisch bedrijfsmanagement, humanresourcesmanagement, financieel-juridisch management, communicatiemanagement, management op het vlak van innovatie- en kwaliteitsbeleid, stakeholdermanagement en haalbaarheidsstudies.</p><p>Er kan één managementadvies per twee kalenderjaren aangevraagd worden.</p>"},"type":"FinancieelVoordeel","geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Hoofdstuk 6 van het Decreet betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen</li><li>Besluit van de Vlaamse Regering van 27 januari 2017 tot bepaling van de voorwaarden voor de toekenning van de subsidie voor managementadvies, vermeld in artikel 12 van het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000076","@id":"OVO000076"}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De ondersteuning bedraagt 50% van de totale subsidiabele kostprijs van het managementadvies, excl. BTW, met een maximum steunplafond van 10.000 euro.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:20:35.599935868Z","laatstGewijzigd":"2023-05-04T14:20:35.599936758Z","laatstOntvangen":"2023-05-04T14:20:35.599936758Z","productnummer":"2529","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d3a7d276-fe63-4e5f-81aa-6b4786aa525c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/9c627460-dfcf-4829-bc96-5c4b34605639"},{"id":"ab0069f0-c56c-4da3-b1c1-89fe2eaf0056","generatedAtTime":"2023-05-04T14:20:35.477335Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Gesubsidieerde Contractuelen (GESCO's)"},"beschrijving":{"nl":"<p>Een GESCO is een gesubsidieerde contractueel voor wie de werkgever een premie en een RSZ-vermindering kreeg De maatregel bestond om directe jobs te creëren voor werklozen. Sinds 1 januari 2016 worden er geen GESCO’s meer aangeworven.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 10 maart 2017 betreffende de maatregelen ten gunste van de tewerkstelling van jongeren in de social-profitsector die voortvloeien uit de wet van 23 december 2005 betreffende het generatiepact</p>"},"bevoegdeOverheden":[{"id":"OVO000076","@id":"OVO000076"}],"creatie":"2023-05-04T14:20:35.460766062Z","laatstGewijzigd":"2023-05-04T14:20:35.460767013Z","laatstOntvangen":"2023-05-04T14:20:35.460767013Z","productnummer":"2409","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ab0069f0-c56c-4da3-b1c1-89fe2eaf0056","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3739e478-8b0b-453e-87c6-2dfe63e38ed6"},{"id":"02da5c2c-8444-407b-971d-7f42757a3e2a","generatedAtTime":"2023-05-04T14:20:35.299864Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Toezicht op woonactoren"},"beschrijving":{"nl":"<p>Afdeling Toezicht van het Vlaams agentschap Wonen-Vlaanderen oefent toezicht uit op de kernactiviteiten en het financieel en administratief beheer van sociale woonactoren in Vlaanderen. De afdeling voert globale onderzoeken (globo's) uit bij sociale huisvestingsmaatschappijen (SHM's) en sociale verhuurkantoren (SVK's), oefent basis- en verhoogd toezicht uit en past handhavingsmaatregelen toe (schorsen, vernietigen, in gebreke stellen, boete opleggen).</p><p>Daarnaast ziet Afdeling Toezicht toe op de aanwending van gewestelijke subsidies en tegemoetkomingen of premies voor huisvesting en treedt het op tegen domiciliefraude door sociale huurders. De afdeling behandelt ook de verhalen en beroepen die kandidaat-huurders/-kopers indienen tegen een beslissing van een SHM.</p>"},"themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:35.283113264Z","laatstGewijzigd":"2023-05-04T14:20:35.283114084Z","laatstOntvangen":"2023-05-04T14:20:35.283114084Z","productnummer":"2407","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/02da5c2c-8444-407b-971d-7f42757a3e2a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ff1721e4-e409-432b-836e-e2767eb0ccea"},{"id":"4ec768a3-fbe9-4ca3-952e-16697ac1ab73","generatedAtTime":"2023-05-04T14:20:35.163321Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan universitaire steunpunten"},"beschrijving":{"nl":"<p>Voor het vervullen van bepaalde (afgebakende doch omvangrijke) opdrachten van wetenschappelijke aard kan gekozen worden voor de oprichting van een universitair steunpunt. Deze steunpunten worden dan, gedurende hun looptijd, jaarlijks gesubsidieerd via een MB.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.76 BVR van 6/07/1999 houdende de regeling van de procedure en de voorwaarden van erkenning en subsidiëring van de universitaire steunpunten.</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-05-04T14:20:35.146759312Z","laatstGewijzigd":"2023-05-04T14:20:35.14675991Z","laatstOntvangen":"2023-05-04T14:20:35.14675991Z","productnummer":"2406","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4ec768a3-fbe9-4ca3-952e-16697ac1ab73","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5d77ea2f-80c5-4298-883d-aac47629d6db"},{"id":"84ed4efd-7a8d-4846-bedb-b397ed4242f9","generatedAtTime":"2023-05-04T14:20:35.025322Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkings- en personeelssubsidie aan Verhuurdersorganisaties"},"beschrijving":{"nl":"<p>De erkende verhuurdersorganisaties dragen bij tot het helpen realiseren van het recht op wonen voor iedereen en behartigen de belangen van de verhuurders of vastgoedmakelaars op de privéhuurwoningmarkt. De erkende verhuurdersorganisaties verstrekken op individuele of collectieve basis informatie en advies over alle aangelegenheden in verband met het verhuren van woningen. Ze kunnen juridische bijstand verlenen aan verhuurders. Erkende verhuurdersorganisaties kunnen hiervoor een werkings- en personeelssubsidie ontvangen.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, Boek 4, Deel 2, Titel 1</p><p>Besluit Vlaamse Codex Wonen van 2021, Boek 4, Deel 2, Titel 1</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:35.008848682Z","laatstGewijzigd":"2023-05-04T14:20:35.008849517Z","laatstOntvangen":"2023-05-04T14:20:35.008849517Z","productnummer":"2405","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/84ed4efd-7a8d-4846-bedb-b397ed4242f9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/11561278-0cd9-4690-af37-e8d3d0dc5cef"},{"id":"200e6ce0-6ef7-49e9-977c-299e02752eba","generatedAtTime":"2023-05-04T14:20:34.911265Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkings- en personeelssubsidie aan Huurpunt"},"beschrijving":{"nl":"<p>De Vlaamse Regering kan aan de VZW Huurpunt een subsidie verlenen als tegemoetkoming in de personeels- en werkingskosten die verbonden zijn aan de opdrachten die verband houden met de initiatieven van de Vlaamse Regering ter bevordering van de uitbreiding van het aanbod door de sociale verhuurkantoren.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, Boek 4, Deel 1, Titel 4,<br />Hoofdstuk 6</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:34.894370082Z","laatstGewijzigd":"2023-05-04T14:20:34.894371381Z","laatstOntvangen":"2023-05-04T14:20:34.894371381Z","productnummer":"2404","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/200e6ce0-6ef7-49e9-977c-299e02752eba","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d3499428-e7a9-4ddc-bf52-4b02671f28b6"},{"id":"5c2f3a75-af8f-4d30-b693-5305fb6b37c8","generatedAtTime":"2023-05-04T14:20:34.775095Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies VHP (Vlaams Huurdersplatform vzw)"},"beschrijving":{"nl":"<p>Het Vlaams Huurdersplatform ondersteunt de werking van de huurdersbonden en het netwerk van sociale huurders. Daarnaast verdedigt het Vlaams Huurdersplatform de belangen van huurders met bijzondere aandacht voor de meest kwetsbaren. De Vlaamse Regering verleent subsidies voor de werking van deze ondersteuningsstructuur.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, Boek 4, Deel 1, Titel 6, Hoofdstuk 5</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:34.758214511Z","laatstGewijzigd":"2023-05-04T14:20:34.758215398Z","laatstOntvangen":"2023-05-04T14:20:34.758215398Z","productnummer":"2403","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5c2f3a75-af8f-4d30-b693-5305fb6b37c8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7694fe16-0f37-40bc-874c-052c0b0cb7f1"},{"id":"a9ac9184-010e-407c-bc21-5e448eba2616","generatedAtTime":"2023-05-04T14:20:34.66373Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie aan Steunpunt Wonen"},"beschrijving":{"nl":"<p>Het Steunpunt Wonen heeft als voornaamste taken het vezamelen, verwerken en analyseren van data omtrent wonen, het monitoren van het woonbeleid en het uitvoeren van specifieke kortlopende beleidsondersteunende studies. Hiervoor ontvangt het Steunpunt een jaarlijkse werkingssubsidie.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, art. 2.39, eerst lid.</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:34.543889757Z","laatstGewijzigd":"2023-05-04T14:20:34.543890506Z","laatstOntvangen":"2023-05-04T14:20:34.543890506Z","productnummer":"2402","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a9ac9184-010e-407c-bc21-5e448eba2616","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f15e9009-8ad9-4a68-b8e4-59c0585314ed"},{"id":"b0da1c1f-d981-42ce-bb37-7a862b7f0240","generatedAtTime":"2023-05-04T14:20:34.389375Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Ondersteuning van initiatieven die bijdragen tot het huisvestingsbeleid (Fonds voor Huisvesting)"},"beschrijving":{"nl":"<p>Facultatieve subsidies die rechtstreeks bijdragen tot wat het woonbeleid ten goede kan komen, onder meer tot het wetenschappelijk onderzoek en tot vernieuwende of experimentele woonprojecten die aansluiten bij de doelstellingen van het woonbeleid of die bijdragen tot de ontwikkeling van het woonbeleid in internationaal verband.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen van 2021, Boek 5, Deel 1, Titel 5</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:34.372875699Z","laatstGewijzigd":"2023-05-04T14:20:34.372876461Z","laatstOntvangen":"2023-05-04T14:20:34.372876461Z","productnummer":"2401","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b0da1c1f-d981-42ce-bb37-7a862b7f0240","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/db23779d-7000-490d-b555-5158eb21f9fa"},{"id":"5c763f2b-a87d-4d51-abd6-aba2d642ad64","generatedAtTime":"2023-05-04T14:20:34.271405Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor IGS-projecten lokaal woonbeleid"},"beschrijving":{"nl":"<p>Met deze subsidie voor 'Intergemeentelijke Samenwerkingsprojecten' worden de gemeenten ondersteund in hun regisseursrol en gestimuleerd om intergemeentelijk samen te werken met het oog op de realisatie van de drie Vlaamse beleidsprioriteiten voor het lokaal woonbeleid.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, Boek 2, Deel 2, Titel 1<br />Besluit Vlaamse Codex Wonen van 2021, Boek 2, Deel 2</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:34.254572057Z","laatstGewijzigd":"2023-05-04T14:20:34.254572969Z","laatstOntvangen":"2023-05-04T14:20:34.254572969Z","productnummer":"2400","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5c763f2b-a87d-4d51-abd6-aba2d642ad64","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/abb2ea63-d4ac-4640-8268-bcdf6f992cfd"},{"id":"a0b3f0e6-89d2-4b74-b58e-ec50e81928ce","generatedAtTime":"2023-05-04T14:20:34.144683Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkings- en personeelssubsidie aan Huurdersbonden"},"beschrijving":{"nl":"<p>De erkende huurdiensten dragen bij tot het helpen realiseren van het recht op wonen en behartigen de belangen van de meest behoeftige gezinnen en alleenstaanden op de privéhuurwoningmarkt. De huurdersbonden verstrekken op individuele of collectieve basis informatie en advies over alle aangelegenheden met betrekking tot het wonen in huurwoningen, onder meer bevattelijke huurinformatie en huuradvies. Ze kunnen juridische bijstand verlenen aan huurders en aanstaande huurders in het algemeen en aan de meest behoeftige huurders in het bijzonder. Huurdersbonden kunnen hiervoor een werkings- en personeelssubsidie ontvangen.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, Boek 4, Deel 1, Titel 4<br />Besluit Vlaamse Codex Wonen van 2021, Boek 4, Deel 1, Titel 4</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:34.12805883Z","laatstGewijzigd":"2023-05-04T14:20:34.128059981Z","laatstOntvangen":"2023-05-04T14:20:34.128059981Z","productnummer":"2399","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a0b3f0e6-89d2-4b74-b58e-ec50e81928ce","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/90d759c8-7619-44c8-b401-7524269c98b9"},{"id":"8602afac-82f5-4de9-8ec3-4135008dfe4f","generatedAtTime":"2023-05-04T14:20:34.000731Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Uitgaven die betrekking hebben op de handhaving en het toezicht op de naleving van de Vlaamse Wooncode"},"beschrijving":{"nl":"<p>Op het Fonds voor de Wooninspectie worden uitgaven aangerekend die betrekking hebben op de handhaving en het toezicht op de naleving van de Vlaamse Codex Wonen van 2021.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 29/06/2007 houdende bepalingen tot<br />begeleiding van de aanpassing van de begroting 2007, artikel 19</p><p>Vanaf 1/1/23: Vlaamse Codex Wonen, Boek 5, Deel 1, Titel 5</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:33.984122255Z","laatstGewijzigd":"2023-05-04T14:20:33.984123328Z","laatstOntvangen":"2023-05-04T14:20:33.984123328Z","productnummer":"2398","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8602afac-82f5-4de9-8ec3-4135008dfe4f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7f58c147-609c-471b-9838-2c808b63af4a"},{"id":"42a09cf4-fb67-469d-b48a-af63a40605c9","generatedAtTime":"2023-05-04T14:20:33.886746Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Investeringssubsidies aan lokale besturen voor noodwoningen"},"beschrijving":{"nl":"<p>Om bijkomend aanbod aan noodwoningen<br />te realiseren, geeft het Vlaamse Gewest subsidies voor het bouwen, renoveren en (her)inrichten van (bestaande) noodwoningen.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:33.870148623Z","laatstGewijzigd":"2023-05-04T14:20:33.870149431Z","laatstOntvangen":"2023-05-04T14:20:33.870149431Z","productnummer":"2397","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/42a09cf4-fb67-469d-b48a-af63a40605c9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3be55769-0443-4e71-a578-5e6c5b559283"},{"id":"53bb03c3-4802-4c63-ac25-e406b0e3b3be","generatedAtTime":"2023-05-04T14:20:33.776996Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie verwerving"},"beschrijving":{"nl":"<p>De VMSW verstrekt onder bepaalde voorwaarden subsidie voor de aankoop van een onroerend goed voor projecten in de huursector.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decretale basis werd geschrapt n.a.v.<br />afschaffen sociale koop. Enkel nog afrekeningen.</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-03-24T06:45:08.799174827Z","laatstGewijzigd":"2023-05-04T14:20:33.760830888Z","laatstOntvangen":"2023-05-04T14:20:33.760830888Z","productnummer":"2396","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/53bb03c3-4802-4c63-ac25-e406b0e3b3be","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ad3f63dd-73ff-46f1-8545-0121fa3e291b"},{"id":"d51b99c8-bef5-4f8e-a773-1dfe2c2d5298","generatedAtTime":"2023-05-04T14:20:33.661856Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies/ondersteuning voor personeels-en werkingskosten aan sociale verhuurkantoren"},"beschrijving":{"nl":"<p>Een sociaal verhuurkantoor (SVK) is een erkende organisatie die kwaliteitsvolle woningen en appartementen huurt op de private huurmarkt en die vervolgens voor een redelijke huurprijs verder verhuurt aan personen met een laag inkomen. Erkende SVK's kunnen hiervoor een werkings- en personeelssubsidie ontvangen.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, Boek 4, Deel 1, Titel 4<br />Besluit Vlaamse Codex Wonen van 2021, Boek 4, Deel 1, Titel 4</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:33.645411439Z","laatstGewijzigd":"2023-05-04T14:20:33.645413169Z","laatstOntvangen":"2023-05-04T14:20:33.645413169Z","productnummer":"2395","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d51b99c8-bef5-4f8e-a773-1dfe2c2d5298","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/11f28831-19d9-46e2-b4af-ab745385eec2"},{"id":"b8dca6e2-216e-4f07-bc8a-8ab0b2b66ea4","generatedAtTime":"2023-05-04T14:20:33.54536Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor investeringen in residentiële woonwagenterreinen en doortrekkersterreinen voor woonwagenbewoners"},"beschrijving":{"nl":"<p>De Vlaamse Regering verleent onder bepaalde voorwaarden subsidies aan initiatiefnemers voor de verwerving, inrichting, renovatie en uitbreiding van residentiële woonwagenterreinen en doortrekkersterreinen.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, Boek 5, Deel 3</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:33.528868526Z","laatstGewijzigd":"2023-05-04T14:20:33.52886967Z","laatstOntvangen":"2023-05-04T14:20:33.52886967Z","productnummer":"2394","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b8dca6e2-216e-4f07-bc8a-8ab0b2b66ea4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/900cd94f-a3c5-4c01-a3de-365f13fcd485"},{"id":"825d5f5f-e819-4cc2-b461-8f60cd671bdd","generatedAtTime":"2023-05-04T14:20:33.431361Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor externe bijstand aan SHM's"},"beschrijving":{"nl":"<p>Op eigen initiatief of op verzoek van de Toezichthouder kan de Vlaamse Regering een woonmaatschappij die niet voldoet aan de erkenningsvoorwaarden, of die haar opdrachten niet behoorlijk uitvoert, of die de verbintenissen die ze is aangegaan niet nakomt, of waarvan de waarvan in gebreke blijft, de sanctie op te leggen om beroep te doen op externe bijstand. De kosten verbonden aan de externe bijstand kunnen worden gesubsidieerd.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, art. 4.51, eerste lid, 2°<br />Besluit Vlaamse Codex Wonen, art. 4.160 en 4.161</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:33.415094683Z","laatstGewijzigd":"2023-05-04T14:20:33.415095732Z","laatstOntvangen":"2023-05-04T14:20:33.415095732Z","productnummer":"2393","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/825d5f5f-e819-4cc2-b461-8f60cd671bdd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ff004951-dae8-4c56-8b54-1309cb3b5736"},{"id":"d61f5edf-3284-4625-a27b-1e93ee842488","generatedAtTime":"2023-05-04T14:20:33.295679Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie Vlabinvest APB"},"beschrijving":{"nl":"<p>Om Vlabinvest APB te ondersteunen in zijn opdracht om een grondbeleid te voeren en woonprojecten met een sociaal karakter te realiseren in de gemeenten van de provincie Vlaams-Brabant, wordt jaarlijks een subsidie toegekend.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 31 januari 2014 betreffende opdracht van de bevoegdheid inzake het voeren van een specifiek grond- en woonbeleid en een specifiek welzijns- en gezondheidsinfrastructuurbeleid voor Vlaams-Brabant aan de Provincie Vlaams-Brabant</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:33.213224207Z","laatstGewijzigd":"2023-05-04T14:20:33.213225756Z","laatstOntvangen":"2023-05-04T14:20:33.213225756Z","productnummer":"2392","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d61f5edf-3284-4625-a27b-1e93ee842488","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b0b5830b-efa0-4265-8c33-da909bafb818"},{"id":"68744205-0763-4392-af94-a4425a6627ef","generatedAtTime":"2023-05-04T14:20:33.118353Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie Vlaams Klimaatfonds"},"beschrijving":{"nl":"<p>Sociale huisvestingsmaatschappijen en het Vlaams Woningfonds kunnen onder bepaalde voorwaarden subsidies verkrijgen voor de energetische renovatie van sociale huurwoningen.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, art. 5.21</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-05-04T14:20:33.101554285Z","laatstGewijzigd":"2023-05-04T14:20:33.101555249Z","laatstOntvangen":"2023-05-04T14:20:33.101555249Z","productnummer":"2391","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/68744205-0763-4392-af94-a4425a6627ef","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/36966358-b05c-4640-8350-ae784f74e3bb"},{"id":"d81cf9f5-8af1-4072-8b0c-3edf50c92afa","generatedAtTime":"2023-05-04T14:20:32.984305Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor sloop en infrastructuurwerken"},"beschrijving":{"nl":"<p>De VMSW ondersteunt initiatiefnemers financieel om:</p><ul><li>gronden bouwrijp te maken (o.a. stedenbouwkundige studies, archeologische prospecties en opgravingen)</li><li>infrastructuurwerken uit te voeren: de wegenuitrusting, de nutsvoorzieningen en de inrichtingen voor afvoer en zuivering van afvalwater</li><li>gemeenschapsvoorzieningen op te richten</li><li>aanpassingswerken aan de woomgeving uit te voeren.</li></ul>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, Boek 5, Deel 2, Titel 3<br />Besluit Vlaamse Codex Wonen van 2021, Boek 5, Deel 2, Titel 3</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-03-24T06:45:08.682912074Z","laatstGewijzigd":"2023-05-04T14:20:32.968242476Z","laatstOntvangen":"2023-05-04T14:20:32.968242476Z","productnummer":"2390","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d81cf9f5-8af1-4072-8b0c-3edf50c92afa","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f8886016-bb1c-41dc-9946-c3bc5f558406"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=110",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=111",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-04T14:20:36.612604Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=109",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-04T14:20:32.984305Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=110",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "f98ed27a-f601-4f63-8e76-4ba4f4891a5e",
+      "generatedAtTime": "2023-05-04T14:20:36.612604Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Jongerenbonus"
+      },
+      "beschrijving": {
+        "nl": "<p>Maatregelen ten gunste van de tewerkstelling van jongeren in de social profitsector.</p><p>Een tussenkomst in de loonkost ten gunste van de tewerkstelling van jongeren in de social profitsector in het kader van deeltijds leren en werken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 10 maart 2017 betreffende de maatregelen ten gunste van de tewerkstelling van jongeren in de social-profitsector die voortvloeien uit de wet van 23 december 2005 betreffende het generatiepact.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000076",
+          "@id": "OVO000076"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:36.595969285Z",
+      "laatstGewijzigd": "2023-05-04T14:20:36.595970049Z",
+      "laatstOntvangen": "2023-05-04T14:20:36.595970049Z",
+      "productnummer": "2411",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f98ed27a-f601-4f63-8e76-4ba4f4891a5e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/435c5242-0fa4-48c8-8929-857fe72bcf2d"
+    },
+    {
+      "id": "faebde5d-ddcd-468f-b5e0-4095ec0beb41",
+      "generatedAtTime": "2023-05-04T14:20:36.399545Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Microkredieten van microStart"
+      },
+      "beschrijving": {
+        "nl": "<p>microStart verstrekt microkredieten van 500 tot 25.000 euro aan ondernemers die geen toegang hebben tot het bankkrediet.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "bedrijf",
+          "onderneming",
+          "hefboom",
+          "microkrediet",
+          "microkredieten",
+          "zwarte lijst",
+          "banklening",
+          "bijberoep",
+          "startlening",
+          "eigen inbreng",
+          "bancair krediet",
+          "krediet",
+          "microstart"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>microStart is er voor iedereen die op zoek is naar een krediet om een eigen zelfstandige activiteit op te starten of uit te bouwen en die niet bij de bank terechtkan. De doelgroep zijn verder diegenen die positief antwoorden op de volgende vier vragen:</p><ul><li>heb je financiering nodig voor een professionele activiteit?</li><li>ben je al gestart als zelfstandige of wenst je spoedig op te starten?</li><li>zul je activiteit een inkomen genereren in België?</li><li>val je niet onder een collectieve schuldregeling?</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Aanvragen kunnen gebeuren in één van de kantoren van microStart. Voor het Vlaamse Gewest zijn dit de kantoren:</p><p>Agentschap Gent<br />Tel.: 09 277 93 39<br /><a href=\"mailto:gent@microstart.be\">gent@microstart.be</a></p><p>Agentschap Antwerpen<br />Tel. 03 555 92 95<br /><a href=\"mailto:antwerpen@microstart.be\">antwerpen@microstart.be</a></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De microkredieten hebben de volgende kenmerken:</p><ul><li>kredieten van<strong> 500 tot 15.000</strong> euro voor een professioneel doeleinde</li><li>de looptijd van de lening hangt af van het project, tot maximaal 4 jaar</li><li>de <strong>intrestvoet</strong> bedraagt <strong>8,95%</strong> voor de meeste leningen</li><li>ondernemers die al één jaar actief zijn kunnen een microkrediet <strong>tot 25.000 euro</strong> verkrijgen. Boven de 15.000 euro bedraagt de <strong>intrestvoet 7,95%</strong>. </li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:20:36.383093718Z",
+      "laatstGewijzigd": "2023-05-04T14:20:36.383094421Z",
+      "laatstOntvangen": "2023-05-04T14:20:36.383094421Z",
+      "productnummer": "2421",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/faebde5d-ddcd-468f-b5e0-4095ec0beb41",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f5b4c1fa-e8c3-4dbd-85e5-3921f67cacac"
+    },
+    {
+      "id": "c1aa6bb6-6a32-4bd2-a98b-af5b80f3ac9e",
+      "generatedAtTime": "2023-05-04T14:20:36.271669Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Impulskrediet van Hefboom"
+      },
+      "beschrijving": {
+        "nl": "<p>Impulskrediet is het microkrediet van Hefboom dat zich richt tot micro-ondernemers (kmo’s, zelfstandigen in hoofd- en bijberoep) én geen of moeilijk toegang hebben tot een bankkrediet. Er kan maximaal 25.000 euro ontleend worden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "bedrijf",
+          "onderneming",
+          "hefboom",
+          "microkrediet",
+          "microkredieten",
+          "zwarte lijst",
+          "banklening",
+          "bijberoep",
+          "startlening",
+          "eigen inbreng",
+          "impulskrediet",
+          "lening"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Impulskrediet is er voor elke ondernemer die geen krediet of lening (meer) krijgt van de bank. Het is er zowel voor een bestaande activiteit als voor starters.</p><p>Mogelijke redenen waarom een bank je krediet weigert, zijn:</p><ul><li>je ben nog te jong of te oud (vijftigplussers krijgen vaak geen lening meer)</li><li>je moet nog starten of bent net gestart</li><li>je hebt ooit een faillissement gehad</li><li>je staat geafficheerd bij de nationale bank (zwarte lijst) of hebt in schuldbemiddeling gezeten</li><li>…</li></ul><p>Bij Impulskrediet hoeven dit geen drempels te zijn. Elke ondernemer of toekomstige ondernemer met <strong>een goed en onderbouwd plan</strong>, kan bij Impulskrediet terecht.</p><p>Er wordt <strong>gedurende 2 jaar gratis begeleiding</strong> voorzien door vrijwillige coaches met een ruime ervaring om de slaagkans van het project te vergroten.</p><p>Het microkrediet van Impulskrediet kan in bepaalde gevallen ook gebruikt worden om de eigen inbreng voor de Startlening te financieren.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Vul het contactformulier in op www.impulskrediet.be of contacteer Impulskrediet via info@impulskrediet.be of 02/205 17 31. Hefboom gaat na of jij, je activiteit en je investering in aanmerking komt voor een microkrediet en stuurt je een aanvraagformulier op. Deze aanvraagformulieren zijn eveneens terug te vinden op de website.<br />Om je ondernemingsplannen te bespreken kan je terecht op één van de zitdagen die per provincie worden georganiseerd. Meer informatie op de website. Meer informatie over de aanvraagprocedure kan je terugvinden op de website www.impulskrediet.be</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De duurtijd van het microkrediet bedraagt maximaal 5 jaar aan een rentevoet van 7%. Er kan maximaal € 25.000 worden ontleend.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:20:36.254890819Z",
+      "laatstGewijzigd": "2023-05-04T14:20:36.254891662Z",
+      "laatstOntvangen": "2023-05-04T14:20:36.254891662Z",
+      "productnummer": "2422",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c1aa6bb6-6a32-4bd2-a98b-af5b80f3ac9e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/70b84b5d-f086-4753-8a55-22c38fc56673"
+    },
+    {
+      "id": "050080f4-6810-43dc-be24-7da8f2d29ba2",
+      "generatedAtTime": "2023-05-04T14:20:36.115354Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Mijn VerbouwLening "
+      },
+      "beschrijving": {
+        "nl": "<p>Naast de invoering van Mijn VerbouwPremie (vanaf 1 juli 2022), zult u vanaf 1 september ook de renteloze Mijn VerbouwLening tot 60.000 euro kunnen aanvragen via uw Energiehuis. Met deze lening kunnen renovaties gefinancierd worden die zowel focussen op woningkwaliteit als op het verbeteren van de energieprestatie. </p><p>De voorwaarden van Mijn VerbouwLening werden definitief goedgekeurd door de Vlaamse Regering op 8 juli 2022. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Mijn VerbouwLening "
+          },
+          "url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/lenen/mijn-verbouwlening",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:45:09.177651816Z",
+      "laatstGewijzigd": "2023-05-04T14:20:36.099387703Z",
+      "laatstOntvangen": "2023-05-04T14:20:36.099387703Z",
+      "productnummer": "2410",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/050080f4-6810-43dc-be24-7da8f2d29ba2",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/344a40b2-b2b9-4b8e-86a1-0fa06791e15f"
+    },
+    {
+      "id": "5a919af8-3cfa-4754-9a72-6a31743406a6",
+      "generatedAtTime": "2023-05-04T14:20:35.951901Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Premie voor micro-WKK kleiner dan 10 kW (biogas)"
+      },
+      "beschrijving": {
+        "nl": "<p>U kunt als eigenaar van de micro-warmtekrachtinstallatie een premie ontvangen voor uw investering.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>De toekenning van premies voor kwalitatieve warmte-krachtinstallaties tot en met 10 kWe is bepaald in <a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019755&amp;param=inhoud&amp;AID=1233707\">artikel 7.10.1 van het Energiebesluit</a>.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Alle voorwaarden moeten voldaan zijn om de premie te kunnen ontvangen, deze zijn:</p><ul><li>kwalitatieve warmte-krachtinstallatie met een volledig AREI-keuringsverslag</li><li>elektrisch vermogen kleiner dan 10 kW</li><li>brandstof is biogas </li><li>opgewekte warmte wordt nuttig gebruikt</li><li>ligt in het Vlaams Gewest</li><li>heeft een startdatum na 1 januari 2018.</li></ul><p><strong>Startdatum</strong>: Voor micro-warmtekrachtinstallatie <strong>zonder vergunningsplicht</strong> is de startdatum dezelfde als de <strong>datum indienstneming</strong>. Als er vergunningen voor het project nodig zijn, kan de startdatum de datum van de aanvraag zijn.</p><h3>Wie komt in aanmerking? </h3><ul><li>ondernemingen</li><li>natuurlijke personen</li><li>niet-commerciële instellingen zoals scholen, universiteiten, verzorgingsinstellingen en verenigingen zonder winstoogmerk</li><li>publiekrechtelijke rechtspersonen.</li></ul><h3>Aandachtspunten</h3><ul><li>De installatie mag pas in werking gaan, zodra de <strong>AREI-keuring uitgevoerd</strong> is.</li><li>Deze premie kan <strong>niet </strong>worden <strong>gecumuleerd </strong>met<ul><li>andere investeringssteun</li><li>groenestroomcertificaten</li><li>warmtekrachtcertificaten</li><li>groenewarmtecertificaten van de Vlaamse overheid voor dezelfde investering.</li></ul></li><li>Als het totale bedrag aan <strong>de-minimissteun</strong> dat aan de betrokken onderneming wordt verleend <strong>niet hoger</strong> ligt dan <strong>200.000 euro</strong> over een <strong>periode van 3 belastingjaren</strong>. Deze premie kan <strong>gecumuleerd </strong>worden met<ul><li>waarborgen verleend door de Vlaamse overheid</li><li>ecologiesteun.</li></ul></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Het aanvragen van de premie is enkel mogelijk, als het <strong>type-installatie</strong> <strong>opgenomen </strong>is <strong>in de lijst erkende type micro-WKK-installatie kleiner dan 10 kW </strong>(zie tabel bij Bedrag).</p><h3>Aanmelding van het installatietype door fabrikant of installateur</h3><p>Deze aanmelding is eenmalig en moet enkel gebeuren als het type installatie niet opgenomen is in de tabel van de erkende type micro-WKK-installatie kleiner dan 10 kW. De <strong>aanmelding </strong>van een <strong>nieuw </strong>(nog niet erkend) <strong>type micro-WKK-installatie</strong> gebeurt best door de <strong>installateur </strong>of leverancier via het <a href=\"https://www.energiesparen.be/steun-micro-wkk\">online aanmeldingsformulier dat beschikbaar is op energiesparen.be</a>.</p><ul></ul><h3>Premie aanvragen door eigenaar</h3><p>De premie-aanvraag gebeurt in 1 stap en kan enkel online worden aangevraagd. U kan de aanvraagprocedure pas opstarten nadat</p><ul><li>de installatie in werking is</li><li>u in het bezit bent van de noodzakelijke documenten</li><li>het type installatie opgenomen is in de tabel van erkende types installaties.</li></ul><p>Het indienen van de aanvraag kan zodra u alle documenten verzameld heeft.</p><h4>Aanvraag van de premie voorbereiden</h4><p>Verzamel volgende documenten en zet deze om naar een pdf-bestand:</p><ul><li>volledig <strong>AREI-keuringsverslag</strong> met<ul><li>de <strong>datum </strong>van de keuring</li><li>info over de installatie:<ul><li><strong>merk </strong>en <strong>type</strong></li><li>het <strong>nominaal </strong>en <strong>maximaal vermogen </strong>uitgedrukt in kW/KVA</li><li>het <strong>serienummer</strong></li></ul></li><li><strong>EAN-nummer</strong> van de meter waarop de installatie is aangesloten</li><li>een door de keurder ondertekend <strong>eendraadschema</strong></li></ul></li><li><strong>foto </strong>van de <strong>kenplaat </strong>van de installatie waarop het <strong>serienummer </strong>duidelijk <strong>leesbaar </strong>is</li><li>scan van de <strong>bestelbon</strong></li><li>scan van de <strong>factuur </strong>en alle <strong>bewijsstukken </strong>van de <strong>totale kosten</strong></li><li>scan van het <strong>betalingsbewijs </strong>voor het <strong>volledige factuurbedrag</strong></li><li>duidelijke kopie van de <strong>identiteitskaart </strong>van de<ul><li>eigenaar van de installatie (privépersoon)</li><li>zaakvoerder (eigenaar is onderneming)</li><li>verantwoordelijke (eigenaar is niet-commerciële instelling of publiekrechtelijke rechtspersoon)</li></ul></li><li>een ondertekende <strong>machtiging </strong>of verklaring die bevestigt dat u de aanvraag mag indienen, als de eigenaar een<ul><li>onderneming</li><li>niet-commerciële instelling</li><li>of publiekrechtelijke rechtspersoon is.</li></ul></li></ul><h4>Aanvraag van de premie starten en indienen</h4><p>De premie aanvraag kan via het <a href=\"https://www.energiesparen.be/steun-micro-wkk\">online formulier voor de eigenaar dat beschikbaar is op energiesparen.be</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De premie wordt berekend op (een aandeel van) de in aanmerking komende kosten, en wordt afgetopt (4700 per kWe). </p><ul></ul><h3>Kosten die in aanmerking komen</h3><p>De kosten (exclusief btw) die rechtstreeks verbonden zijn aan de warmte-krachtinstallatie zelf, inclusief het vergistingsgedeelte. Deze kosten moeten aantoonbaar en noodzakelijk zijn voor de goede werking van de installatie.</p><p>Afhankelijk van de grootte van de onderneming, kan de premie <strong>beperkt </strong>worden tot een <strong>bepaald percentage</strong> van de in aanmerking komende kosten:</p><ul><li>65% voor kleine ondernemingen en aanvragers die geen onderneming zijn</li><li>55% voor middelgrote ondernemingen</li><li>45% voor grote ondernemingen.</li></ul><p>Het premiebedrag kan lager kan zijn dan het maximaal steunbedrag. Volgende <strong>type installaties</strong> zijn <strong>erkend </strong>en kunnen de premie aanvragen.</p><div data-table=\"\"><table data-table-type=\"grid\"><thead><tr><th>Merk (Fabrikant)</th><th>Type</th><th>Technologie</th><th>Brandstof</th><th><p>Elektrisch vermogen</p><p>in kWe</p></th><th><p>Maximaal steunbedrag</p><p>in euro</p></th></tr></thead><tbody><tr><td>Biolectric</td><td>10</td><td>interne verbrandingsmotor</td><td>biogas</td><td>9,7</td><td>45.590</td></tr><tr><td>Biotechnics Perkins</td><td>KVT E15SI</td><td>interne verbrandingsmotor</td><td>biogas</td><td>9,7</td><td>45.590</td></tr></tbody></table></div><p>Reden waarom type niet getoond wordt in de tabel:</p><ul><li>Komt <strong>niet</strong> in <strong>aanmerking </strong>voor de premie.</li><li>Is nog <strong>niet </strong>of <strong>recent aangemeld</strong>. Vraag bij uw installateur na of het type installatie reeds aangemeld werd. Van zodra het type installatie erkend is, wordt deze in bovenstaande tabel en het aanvraagformulier opgenomen.</li></ul><h4><strong>Voorbeelden berekening premie</strong></h4><p>Situatie: een grote onderneming is eigenaar van een warmte-krachtinstallatie op biogas, met een nominaal elektrisch vermogen van 9,7 kW. De installatie bestaat uit de warmte-krachtinstallatie, een vergistingstank, een stuureenheid en gasbehandelingsinstallatie. De maximale premie bedraagt 45.590 euro (= 4700 x 9,7).</p><ul><li><strong>Voorbeeld 1: </strong>De totale investeringskosten zijn 110.000 euro exclusief btw. De in aanmerking komende kosten is 49.500 euro (= 45% van 110.000).<br />De onderneming heeft recht op een ondersteuning van 45.590 euro (<strong>= bedrag maximale premie</strong>, de in aanmerking komende kosten werden <strong>afgetopt</strong>).</li><li><strong>Voorbeeld 2: </strong>De totale investeringskosten zijn 80.000 euro exclusief btw. De in aanmerking komende kosten bedraagt 36.000 euro (= 45% van 80.000).<br />De onderneming heeft recht op een ondersteuning van 36.000 euro (<strong>= bedrag</strong> van de in aanmerking komende <strong>kosten</strong>).</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:45:09.051595399Z",
+      "laatstGewijzigd": "2023-05-04T14:20:35.935705222Z",
+      "laatstOntvangen": "2023-05-04T14:20:35.935705222Z",
+      "productnummer": "2524",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5a919af8-3cfa-4754-9a72-6a31743406a6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fe1d17d6-05ec-4ee5-916b-96560bc53e4e"
+    },
+    {
+      "id": "d3a7d276-fe63-4e5f-81aa-6b4786aa525c",
+      "generatedAtTime": "2023-05-04T14:20:35.616709Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Managementadvies"
+      },
+      "beschrijving": {
+        "nl": "<p>Als erkende sociale-economieonderneming (maatwerkbedrijven, maatwerkafdelingen en LDE-ondernemingen) kan je een premie krijgen voor het inwinnen van een onderbouwd schriftelijk advies om je bedrijfsvoering te verbeteren en je onderneming te versterken, te laten groeien of te transformeren.</p><p>Dit omvat onder meer advies inzake strategisch bedrijfsmanagement, humanresourcesmanagement, financieel-juridisch management, communicatiemanagement, management op het vlak van innovatie- en kwaliteitsbeleid, stakeholdermanagement en haalbaarheidsstudies.</p><p>Er kan één managementadvies per twee kalenderjaren aangevraagd worden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Hoofdstuk 6 van het Decreet betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen</li><li>Besluit van de Vlaamse Regering van 27 januari 2017 tot bepaling van de voorwaarden voor de toekenning van de subsidie voor managementadvies, vermeld in artikel 12 van het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000076",
+          "@id": "OVO000076"
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De ondersteuning bedraagt 50% van de totale subsidiabele kostprijs van het managementadvies, excl. BTW, met een maximum steunplafond van 10.000 euro.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:20:35.599935868Z",
+      "laatstGewijzigd": "2023-05-04T14:20:35.599936758Z",
+      "laatstOntvangen": "2023-05-04T14:20:35.599936758Z",
+      "productnummer": "2529",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d3a7d276-fe63-4e5f-81aa-6b4786aa525c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/9c627460-dfcf-4829-bc96-5c4b34605639"
+    },
+    {
+      "id": "ab0069f0-c56c-4da3-b1c1-89fe2eaf0056",
+      "generatedAtTime": "2023-05-04T14:20:35.477335Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Gesubsidieerde Contractuelen (GESCO's)"
+      },
+      "beschrijving": {
+        "nl": "<p>Een GESCO is een gesubsidieerde contractueel voor wie de werkgever een premie en een RSZ-vermindering kreeg De maatregel bestond om directe jobs te creëren voor werklozen. Sinds 1 januari 2016 worden er geen GESCO’s meer aangeworven.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 10 maart 2017 betreffende de maatregelen ten gunste van de tewerkstelling van jongeren in de social-profitsector die voortvloeien uit de wet van 23 december 2005 betreffende het generatiepact</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000076",
+          "@id": "OVO000076"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:35.460766062Z",
+      "laatstGewijzigd": "2023-05-04T14:20:35.460767013Z",
+      "laatstOntvangen": "2023-05-04T14:20:35.460767013Z",
+      "productnummer": "2409",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ab0069f0-c56c-4da3-b1c1-89fe2eaf0056",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3739e478-8b0b-453e-87c6-2dfe63e38ed6"
+    },
+    {
+      "id": "02da5c2c-8444-407b-971d-7f42757a3e2a",
+      "generatedAtTime": "2023-05-04T14:20:35.299864Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Toezicht op woonactoren"
+      },
+      "beschrijving": {
+        "nl": "<p>Afdeling Toezicht van het Vlaams agentschap Wonen-Vlaanderen oefent toezicht uit op de kernactiviteiten en het financieel en administratief beheer van sociale woonactoren in Vlaanderen. De afdeling voert globale onderzoeken (globo's) uit bij sociale huisvestingsmaatschappijen (SHM's) en sociale verhuurkantoren (SVK's), oefent basis- en verhoogd toezicht uit en past handhavingsmaatregelen toe (schorsen, vernietigen, in gebreke stellen, boete opleggen).</p><p>Daarnaast ziet Afdeling Toezicht toe op de aanwending van gewestelijke subsidies en tegemoetkomingen of premies voor huisvesting en treedt het op tegen domiciliefraude door sociale huurders. De afdeling behandelt ook de verhalen en beroepen die kandidaat-huurders/-kopers indienen tegen een beslissing van een SHM.</p>"
+      },
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:35.283113264Z",
+      "laatstGewijzigd": "2023-05-04T14:20:35.283114084Z",
+      "laatstOntvangen": "2023-05-04T14:20:35.283114084Z",
+      "productnummer": "2407",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/02da5c2c-8444-407b-971d-7f42757a3e2a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ff1721e4-e409-432b-836e-e2767eb0ccea"
+    },
+    {
+      "id": "4ec768a3-fbe9-4ca3-952e-16697ac1ab73",
+      "generatedAtTime": "2023-05-04T14:20:35.163321Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan universitaire steunpunten"
+      },
+      "beschrijving": {
+        "nl": "<p>Voor het vervullen van bepaalde (afgebakende doch omvangrijke) opdrachten van wetenschappelijke aard kan gekozen worden voor de oprichting van een universitair steunpunt. Deze steunpunten worden dan, gedurende hun looptijd, jaarlijks gesubsidieerd via een MB.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>BVR van 11/10/2013 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs (Codex HO), artikel III.76 BVR van 6/07/1999 houdende de regeling van de procedure en de voorwaarden van erkenning en subsidiëring van de universitaire steunpunten.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:35.146759312Z",
+      "laatstGewijzigd": "2023-05-04T14:20:35.14675991Z",
+      "laatstOntvangen": "2023-05-04T14:20:35.14675991Z",
+      "productnummer": "2406",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4ec768a3-fbe9-4ca3-952e-16697ac1ab73",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5d77ea2f-80c5-4298-883d-aac47629d6db"
+    },
+    {
+      "id": "84ed4efd-7a8d-4846-bedb-b397ed4242f9",
+      "generatedAtTime": "2023-05-04T14:20:35.025322Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkings- en personeelssubsidie aan Verhuurdersorganisaties"
+      },
+      "beschrijving": {
+        "nl": "<p>De erkende verhuurdersorganisaties dragen bij tot het helpen realiseren van het recht op wonen voor iedereen en behartigen de belangen van de verhuurders of vastgoedmakelaars op de privéhuurwoningmarkt. De erkende verhuurdersorganisaties verstrekken op individuele of collectieve basis informatie en advies over alle aangelegenheden in verband met het verhuren van woningen. Ze kunnen juridische bijstand verlenen aan verhuurders. Erkende verhuurdersorganisaties kunnen hiervoor een werkings- en personeelssubsidie ontvangen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, Boek 4, Deel 2, Titel 1</p><p>Besluit Vlaamse Codex Wonen van 2021, Boek 4, Deel 2, Titel 1</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:35.008848682Z",
+      "laatstGewijzigd": "2023-05-04T14:20:35.008849517Z",
+      "laatstOntvangen": "2023-05-04T14:20:35.008849517Z",
+      "productnummer": "2405",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/84ed4efd-7a8d-4846-bedb-b397ed4242f9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/11561278-0cd9-4690-af37-e8d3d0dc5cef"
+    },
+    {
+      "id": "200e6ce0-6ef7-49e9-977c-299e02752eba",
+      "generatedAtTime": "2023-05-04T14:20:34.911265Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkings- en personeelssubsidie aan Huurpunt"
+      },
+      "beschrijving": {
+        "nl": "<p>De Vlaamse Regering kan aan de VZW Huurpunt een subsidie verlenen als tegemoetkoming in de personeels- en werkingskosten die verbonden zijn aan de opdrachten die verband houden met de initiatieven van de Vlaamse Regering ter bevordering van de uitbreiding van het aanbod door de sociale verhuurkantoren.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, Boek 4, Deel 1, Titel 4,<br />Hoofdstuk 6</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:34.894370082Z",
+      "laatstGewijzigd": "2023-05-04T14:20:34.894371381Z",
+      "laatstOntvangen": "2023-05-04T14:20:34.894371381Z",
+      "productnummer": "2404",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/200e6ce0-6ef7-49e9-977c-299e02752eba",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d3499428-e7a9-4ddc-bf52-4b02671f28b6"
+    },
+    {
+      "id": "5c2f3a75-af8f-4d30-b693-5305fb6b37c8",
+      "generatedAtTime": "2023-05-04T14:20:34.775095Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies VHP (Vlaams Huurdersplatform vzw)"
+      },
+      "beschrijving": {
+        "nl": "<p>Het Vlaams Huurdersplatform ondersteunt de werking van de huurdersbonden en het netwerk van sociale huurders. Daarnaast verdedigt het Vlaams Huurdersplatform de belangen van huurders met bijzondere aandacht voor de meest kwetsbaren. De Vlaamse Regering verleent subsidies voor de werking van deze ondersteuningsstructuur.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, Boek 4, Deel 1, Titel 6, Hoofdstuk 5</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:34.758214511Z",
+      "laatstGewijzigd": "2023-05-04T14:20:34.758215398Z",
+      "laatstOntvangen": "2023-05-04T14:20:34.758215398Z",
+      "productnummer": "2403",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5c2f3a75-af8f-4d30-b693-5305fb6b37c8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7694fe16-0f37-40bc-874c-052c0b0cb7f1"
+    },
+    {
+      "id": "a9ac9184-010e-407c-bc21-5e448eba2616",
+      "generatedAtTime": "2023-05-04T14:20:34.66373Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie aan Steunpunt Wonen"
+      },
+      "beschrijving": {
+        "nl": "<p>Het Steunpunt Wonen heeft als voornaamste taken het vezamelen, verwerken en analyseren van data omtrent wonen, het monitoren van het woonbeleid en het uitvoeren van specifieke kortlopende beleidsondersteunende studies. Hiervoor ontvangt het Steunpunt een jaarlijkse werkingssubsidie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, art. 2.39, eerst lid.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:34.543889757Z",
+      "laatstGewijzigd": "2023-05-04T14:20:34.543890506Z",
+      "laatstOntvangen": "2023-05-04T14:20:34.543890506Z",
+      "productnummer": "2402",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a9ac9184-010e-407c-bc21-5e448eba2616",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f15e9009-8ad9-4a68-b8e4-59c0585314ed"
+    },
+    {
+      "id": "b0da1c1f-d981-42ce-bb37-7a862b7f0240",
+      "generatedAtTime": "2023-05-04T14:20:34.389375Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Ondersteuning van initiatieven die bijdragen tot het huisvestingsbeleid (Fonds voor Huisvesting)"
+      },
+      "beschrijving": {
+        "nl": "<p>Facultatieve subsidies die rechtstreeks bijdragen tot wat het woonbeleid ten goede kan komen, onder meer tot het wetenschappelijk onderzoek en tot vernieuwende of experimentele woonprojecten die aansluiten bij de doelstellingen van het woonbeleid of die bijdragen tot de ontwikkeling van het woonbeleid in internationaal verband.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen van 2021, Boek 5, Deel 1, Titel 5</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:34.372875699Z",
+      "laatstGewijzigd": "2023-05-04T14:20:34.372876461Z",
+      "laatstOntvangen": "2023-05-04T14:20:34.372876461Z",
+      "productnummer": "2401",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b0da1c1f-d981-42ce-bb37-7a862b7f0240",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/db23779d-7000-490d-b555-5158eb21f9fa"
+    },
+    {
+      "id": "5c763f2b-a87d-4d51-abd6-aba2d642ad64",
+      "generatedAtTime": "2023-05-04T14:20:34.271405Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor IGS-projecten lokaal woonbeleid"
+      },
+      "beschrijving": {
+        "nl": "<p>Met deze subsidie voor 'Intergemeentelijke Samenwerkingsprojecten' worden de gemeenten ondersteund in hun regisseursrol en gestimuleerd om intergemeentelijk samen te werken met het oog op de realisatie van de drie Vlaamse beleidsprioriteiten voor het lokaal woonbeleid.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, Boek 2, Deel 2, Titel 1<br />Besluit Vlaamse Codex Wonen van 2021, Boek 2, Deel 2</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:34.254572057Z",
+      "laatstGewijzigd": "2023-05-04T14:20:34.254572969Z",
+      "laatstOntvangen": "2023-05-04T14:20:34.254572969Z",
+      "productnummer": "2400",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5c763f2b-a87d-4d51-abd6-aba2d642ad64",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/abb2ea63-d4ac-4640-8268-bcdf6f992cfd"
+    },
+    {
+      "id": "a0b3f0e6-89d2-4b74-b58e-ec50e81928ce",
+      "generatedAtTime": "2023-05-04T14:20:34.144683Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkings- en personeelssubsidie aan Huurdersbonden"
+      },
+      "beschrijving": {
+        "nl": "<p>De erkende huurdiensten dragen bij tot het helpen realiseren van het recht op wonen en behartigen de belangen van de meest behoeftige gezinnen en alleenstaanden op de privéhuurwoningmarkt. De huurdersbonden verstrekken op individuele of collectieve basis informatie en advies over alle aangelegenheden met betrekking tot het wonen in huurwoningen, onder meer bevattelijke huurinformatie en huuradvies. Ze kunnen juridische bijstand verlenen aan huurders en aanstaande huurders in het algemeen en aan de meest behoeftige huurders in het bijzonder. Huurdersbonden kunnen hiervoor een werkings- en personeelssubsidie ontvangen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, Boek 4, Deel 1, Titel 4<br />Besluit Vlaamse Codex Wonen van 2021, Boek 4, Deel 1, Titel 4</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:34.12805883Z",
+      "laatstGewijzigd": "2023-05-04T14:20:34.128059981Z",
+      "laatstOntvangen": "2023-05-04T14:20:34.128059981Z",
+      "productnummer": "2399",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a0b3f0e6-89d2-4b74-b58e-ec50e81928ce",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/90d759c8-7619-44c8-b401-7524269c98b9"
+    },
+    {
+      "id": "8602afac-82f5-4de9-8ec3-4135008dfe4f",
+      "generatedAtTime": "2023-05-04T14:20:34.000731Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Uitgaven die betrekking hebben op de handhaving en het toezicht op de naleving van de Vlaamse Wooncode"
+      },
+      "beschrijving": {
+        "nl": "<p>Op het Fonds voor de Wooninspectie worden uitgaven aangerekend die betrekking hebben op de handhaving en het toezicht op de naleving van de Vlaamse Codex Wonen van 2021.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 29/06/2007 houdende bepalingen tot<br />begeleiding van de aanpassing van de begroting 2007, artikel 19</p><p>Vanaf 1/1/23: Vlaamse Codex Wonen, Boek 5, Deel 1, Titel 5</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:33.984122255Z",
+      "laatstGewijzigd": "2023-05-04T14:20:33.984123328Z",
+      "laatstOntvangen": "2023-05-04T14:20:33.984123328Z",
+      "productnummer": "2398",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8602afac-82f5-4de9-8ec3-4135008dfe4f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7f58c147-609c-471b-9838-2c808b63af4a"
+    },
+    {
+      "id": "42a09cf4-fb67-469d-b48a-af63a40605c9",
+      "generatedAtTime": "2023-05-04T14:20:33.886746Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Investeringssubsidies aan lokale besturen voor noodwoningen"
+      },
+      "beschrijving": {
+        "nl": "<p>Om bijkomend aanbod aan noodwoningen<br />te realiseren, geeft het Vlaamse Gewest subsidies voor het bouwen, renoveren en (her)inrichten van (bestaande) noodwoningen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:33.870148623Z",
+      "laatstGewijzigd": "2023-05-04T14:20:33.870149431Z",
+      "laatstOntvangen": "2023-05-04T14:20:33.870149431Z",
+      "productnummer": "2397",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/42a09cf4-fb67-469d-b48a-af63a40605c9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3be55769-0443-4e71-a578-5e6c5b559283"
+    },
+    {
+      "id": "53bb03c3-4802-4c63-ac25-e406b0e3b3be",
+      "generatedAtTime": "2023-05-04T14:20:33.776996Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie verwerving"
+      },
+      "beschrijving": {
+        "nl": "<p>De VMSW verstrekt onder bepaalde voorwaarden subsidie voor de aankoop van een onroerend goed voor projecten in de huursector.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decretale basis werd geschrapt n.a.v.<br />afschaffen sociale koop. Enkel nog afrekeningen.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:08.799174827Z",
+      "laatstGewijzigd": "2023-05-04T14:20:33.760830888Z",
+      "laatstOntvangen": "2023-05-04T14:20:33.760830888Z",
+      "productnummer": "2396",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/53bb03c3-4802-4c63-ac25-e406b0e3b3be",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ad3f63dd-73ff-46f1-8545-0121fa3e291b"
+    },
+    {
+      "id": "d51b99c8-bef5-4f8e-a773-1dfe2c2d5298",
+      "generatedAtTime": "2023-05-04T14:20:33.661856Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies/ondersteuning voor personeels-en werkingskosten aan sociale verhuurkantoren"
+      },
+      "beschrijving": {
+        "nl": "<p>Een sociaal verhuurkantoor (SVK) is een erkende organisatie die kwaliteitsvolle woningen en appartementen huurt op de private huurmarkt en die vervolgens voor een redelijke huurprijs verder verhuurt aan personen met een laag inkomen. Erkende SVK's kunnen hiervoor een werkings- en personeelssubsidie ontvangen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, Boek 4, Deel 1, Titel 4<br />Besluit Vlaamse Codex Wonen van 2021, Boek 4, Deel 1, Titel 4</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:33.645411439Z",
+      "laatstGewijzigd": "2023-05-04T14:20:33.645413169Z",
+      "laatstOntvangen": "2023-05-04T14:20:33.645413169Z",
+      "productnummer": "2395",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d51b99c8-bef5-4f8e-a773-1dfe2c2d5298",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/11f28831-19d9-46e2-b4af-ab745385eec2"
+    },
+    {
+      "id": "b8dca6e2-216e-4f07-bc8a-8ab0b2b66ea4",
+      "generatedAtTime": "2023-05-04T14:20:33.54536Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor investeringen in residentiële woonwagenterreinen en doortrekkersterreinen voor woonwagenbewoners"
+      },
+      "beschrijving": {
+        "nl": "<p>De Vlaamse Regering verleent onder bepaalde voorwaarden subsidies aan initiatiefnemers voor de verwerving, inrichting, renovatie en uitbreiding van residentiële woonwagenterreinen en doortrekkersterreinen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, Boek 5, Deel 3</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:33.528868526Z",
+      "laatstGewijzigd": "2023-05-04T14:20:33.52886967Z",
+      "laatstOntvangen": "2023-05-04T14:20:33.52886967Z",
+      "productnummer": "2394",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b8dca6e2-216e-4f07-bc8a-8ab0b2b66ea4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/900cd94f-a3c5-4c01-a3de-365f13fcd485"
+    },
+    {
+      "id": "825d5f5f-e819-4cc2-b461-8f60cd671bdd",
+      "generatedAtTime": "2023-05-04T14:20:33.431361Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor externe bijstand aan SHM's"
+      },
+      "beschrijving": {
+        "nl": "<p>Op eigen initiatief of op verzoek van de Toezichthouder kan de Vlaamse Regering een woonmaatschappij die niet voldoet aan de erkenningsvoorwaarden, of die haar opdrachten niet behoorlijk uitvoert, of die de verbintenissen die ze is aangegaan niet nakomt, of waarvan de waarvan in gebreke blijft, de sanctie op te leggen om beroep te doen op externe bijstand. De kosten verbonden aan de externe bijstand kunnen worden gesubsidieerd.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, art. 4.51, eerste lid, 2°<br />Besluit Vlaamse Codex Wonen, art. 4.160 en 4.161</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:33.415094683Z",
+      "laatstGewijzigd": "2023-05-04T14:20:33.415095732Z",
+      "laatstOntvangen": "2023-05-04T14:20:33.415095732Z",
+      "productnummer": "2393",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/825d5f5f-e819-4cc2-b461-8f60cd671bdd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ff004951-dae8-4c56-8b54-1309cb3b5736"
+    },
+    {
+      "id": "d61f5edf-3284-4625-a27b-1e93ee842488",
+      "generatedAtTime": "2023-05-04T14:20:33.295679Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie Vlabinvest APB"
+      },
+      "beschrijving": {
+        "nl": "<p>Om Vlabinvest APB te ondersteunen in zijn opdracht om een grondbeleid te voeren en woonprojecten met een sociaal karakter te realiseren in de gemeenten van de provincie Vlaams-Brabant, wordt jaarlijks een subsidie toegekend.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 31 januari 2014 betreffende opdracht van de bevoegdheid inzake het voeren van een specifiek grond- en woonbeleid en een specifiek welzijns- en gezondheidsinfrastructuurbeleid voor Vlaams-Brabant aan de Provincie Vlaams-Brabant</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:33.213224207Z",
+      "laatstGewijzigd": "2023-05-04T14:20:33.213225756Z",
+      "laatstOntvangen": "2023-05-04T14:20:33.213225756Z",
+      "productnummer": "2392",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d61f5edf-3284-4625-a27b-1e93ee842488",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b0b5830b-efa0-4265-8c33-da909bafb818"
+    },
+    {
+      "id": "68744205-0763-4392-af94-a4425a6627ef",
+      "generatedAtTime": "2023-05-04T14:20:33.118353Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie Vlaams Klimaatfonds"
+      },
+      "beschrijving": {
+        "nl": "<p>Sociale huisvestingsmaatschappijen en het Vlaams Woningfonds kunnen onder bepaalde voorwaarden subsidies verkrijgen voor de energetische renovatie van sociale huurwoningen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, art. 5.21</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:33.101554285Z",
+      "laatstGewijzigd": "2023-05-04T14:20:33.101555249Z",
+      "laatstOntvangen": "2023-05-04T14:20:33.101555249Z",
+      "productnummer": "2391",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/68744205-0763-4392-af94-a4425a6627ef",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/36966358-b05c-4640-8350-ae784f74e3bb"
+    },
+    {
+      "id": "d81cf9f5-8af1-4072-8b0c-3edf50c92afa",
+      "generatedAtTime": "2023-05-04T14:20:32.984305Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor sloop en infrastructuurwerken"
+      },
+      "beschrijving": {
+        "nl": "<p>De VMSW ondersteunt initiatiefnemers financieel om:</p><ul><li>gronden bouwrijp te maken (o.a. stedenbouwkundige studies, archeologische prospecties en opgravingen)</li><li>infrastructuurwerken uit te voeren: de wegenuitrusting, de nutsvoorzieningen en de inrichtingen voor afvoer en zuivering van afvalwater</li><li>gemeenschapsvoorzieningen op te richten</li><li>aanpassingswerken aan de woomgeving uit te voeren.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, Boek 5, Deel 2, Titel 3<br />Besluit Vlaamse Codex Wonen van 2021, Boek 5, Deel 2, Titel 3</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:08.682912074Z",
+      "laatstGewijzigd": "2023-05-04T14:20:32.968242476Z",
+      "laatstOntvangen": "2023-05-04T14:20:32.968242476Z",
+      "productnummer": "2390",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d81cf9f5-8af1-4072-8b0c-3edf50c92afa",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f8886016-bb1c-41dc-9946-c3bc5f558406"
+    }
+  ]
+}

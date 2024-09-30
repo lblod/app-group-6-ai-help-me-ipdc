@@ -1,1 +1,2109 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=89","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=90","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-04T14:00:44.86086Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=88","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-04T14:00:31.624903Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=89","@type":"EventStream","member":[{"id":"e82ab7e7-c2c0-4b03-8b7c-84e720e3e9a9","generatedAtTime":"2023-05-04T14:00:44.86086Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Verblijfsvergoeding bij opleiding VDAB"},"beschrijving":{"nl":"<p>Volgt u als werkzoekende een opleiding, een studie of een stage die erkend wordt door VDAB? Als de afstand tussen uw woonplaats en het opleidingscentrum te groot is om elke dag heen en weer te pendelen, kunt u een verblijfsvergoeding vragen. Dat is een tussenkomst voor een overnachting, een middagmaal en een avondmaal.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>U hebt bij gebruik van het openbaar vervoer meer dan 13 uur per dag nodig om van uw verblijfsplaats naar de opleidings- of stageplaats te gaan om er opleiding te volgen.</li><li>U keert maar één keer per week naar uw verblijfplaats terug.</li><li>U moet een contract van huurovereenkomst of bewijs van overnachting van de tijdelijke verblijfplaats kunnen voorleggen.</li><li>Uw tijdelijke verblijfplaats moet betalend zijn en moet zich op een redelijke afstand (max. 15 km, afhankelijk van de mogelijkheden in de buurt van het opleidingscentrum) van de opleidingsplaats of stageplaats bevinden.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Neem contact op met de cursistenadministratie van uw opleidingscentrum.</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>U krijgt een forfaitaire vergoeding voor</p><ul><li>een middagmaal: 15 euro</li><li>een avondmaal: 15 euro</li><li>een overnachting: 50 euro.</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:00:44.841025679Z","laatstGewijzigd":"2023-05-04T14:00:44.84102707Z","laatstOntvangen":"2023-05-04T14:00:44.84102707Z","productnummer":"1426","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e82ab7e7-c2c0-4b03-8b7c-84e720e3e9a9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7e320ed6-04a6-4614-a923-ae622e91b6b1"},{"id":"19ef35c1-f696-4c62-a5f6-b86a8cbd7f23","generatedAtTime":"2023-05-04T14:00:44.712514Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Fietsvergoeding"},"beschrijving":{"nl":"<p>Verplaatst u zich van uw woonplaats naar het werk geheel of gedeeltelijk met de fiets? Dan kunt u misschien van uw werkgever een fietsvergoeding krijgen. Met de fietsvergoeding wil men het gebruik van de fiets voor woon-werkverplaatsingen stimuleren.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk","MobiliteitOpenbareWerken"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["fietsvergoeding","werkgever","werknemer","belasting","bedrag","maximumbedrag","woonwerkverkeer","woon-werkverkeer","sociale zekerheid","fietsvergoeding berekenen","fietsvergoeding aanvragen","fietsvergoeding per km","fietsvergoeding vlaamse overheid"]},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>De fietsvergoeding is een gunst van de werkgever aan de werknemer. De werkgever is niet verplicht ze toe te kennen.</li><li>De fietsvergoeding is <strong>vrijgesteld</strong> van inkomstenbelasting en sociale zekerheidsbijdragen<ul><li>als ze specifiek en uitdrukkelijk wordt toegekend voor effectieve verplaatsingen met de fiets: de fietsvergoeding moet op basis van het aantal afgelegde kilometers toegekend worden</li><li>tot een bedrag van 0,24 euro per kilometer (aanslagjaar 2021)<br />Wordt meer dan 0,24 euro toegekend, dan moet de werknemer het bedrag boven de 0,24 euro aangeven in zijn belastingaangifte. Werkgever en werknemer zullen socialezekerheidsbijdragen betalen voor het deel boven de 0,24 euro.</li></ul></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"websites":[{"naam":{"nl":"Fietsvergoeding (FOD Financiën)"},"url":"https://financien.belgium.be/nl/particulieren/vervoer/aftrek_vervoersonkosten/woon-werkverkeer/fiets","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De werkgever mag zelf het bedrag van de fietsvergoeding bepalen. Hij kan ook een maximumbedrag opleggen (bv. 0,24 euro per kilometer met een maximum van 50 euro per maand) of bepalen dat de vergoeding enkel voor de heen- of de terugreis geldt.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:00:44.692285107Z","laatstGewijzigd":"2023-05-04T14:00:44.692286356Z","laatstOntvangen":"2023-05-04T14:00:44.692286356Z","productnummer":"1734","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/19ef35c1-f696-4c62-a5f6-b86a8cbd7f23","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/35174ade-c807-4360-8c79-d6f7abbf174c"},{"id":"4a231dfb-955e-4964-9f92-eed00ef9a414","generatedAtTime":"2023-05-04T14:00:44.562193Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Jaarlijkse aangifte van waterverbruik (grootverbruikers)"},"beschrijving":{"nl":"<p>Wie veel water gebruikt (grootverbruiker), moet elk jaar een aangifte indienen. Die gegevens worden gebruikt voor de berekening van de <a href=\"https://www.uat-vlaanderen.be/heffing-op-de-waterverontreiniging\">heffing op de waterverontreiniging</a> en van de <a href=\"https://www.uat-vlaanderen.be/heffing-op-de-winning-van-grondwater\">heffing op de winning van grondwater</a>.</p>"},"themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"zoektermen":{"nl":["digitale aangifte heffingen","heffing waterverontreiging","heffing grondwater","aangifte indienen","indienen aangifte","invullen","digitaal","digitale","bestaat niet meer","stopgezet","failliet","overname","onderneming","waterheffing","wateraangifte","herinneringsbrief","toegangscode","aangifte water"]},"bevoegdeOverheden":[{"id":"OVO000092","@id":"OVO000092"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Een grootverbruiker moet <strong>elk jaar </strong>een aangifte van het waterverbruik indienen bij de Vlaamse Milieumaatschappij (VMM).<br />U bent een <strong>grootverbruiker </strong>als u minstens 500 kubieke meter water per jaar gebruikt</p><p>De aangifte moet ingediend worden</p><ul><li>via het <a href=\"https://www.vmm.be/water/heffingen/doe-je-aangifte\">online<strong> </strong>VMM-Heffingenloket</a></li><li>uiterlijk op 14 maart. </li></ul><p>Ook als het bedrijf is <strong>overgenomen </strong>of <strong>niet meer bestaat</strong> (stopzetting, faillissement, ...) moet de aangifte worden ingediend. Meer informatie hierover vindt u in punt 6.2 van de <a href=\"http://www.vmm.be/bestanden/Handleiding_Digitale_Aangifte_Heffingen_TW.pdf\">Aangifte-handleiding</a>.</p><p>Ook voor <strong>landbouwers </strong>gebeurt de aangifte via dat online VMM-heffingenloket (en dus niet meer via het Mestbankloket van de Vlaamse Landmaatschappij). De diergegevens worden onderling uitgewisseld tussen VLM en VMM.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>U krijgt een <strong>brief </strong>van de Vlaamse Milieumaatschappij (VMM) over de aangifte. Die brieven worden verstuurd rond 20 januari.</li><li>Ga naar het <a href=\"https://www.vmm.be/water/heffingen/doe-je-aangifte\">online heffingenloket</a>. Raadpleeg de <a href=\"http://www.vmm.be/bestanden/Handleiding_Digitale_Aangifte_Heffingen_TW.pdf\">Aangifte-handleiding</a> om de aangifte in te dienen.</li><li>Wie de aangifte online heeft ingediend, krijgt een <strong>bevestigingsmail</strong>, met daarin een kopie van de aangifte.</li><li>Wie <strong>te laat </strong>is, ontvangt per brief een <strong>ingebrekestelling</strong>. U krijgt de tijd om alsnog een aangifte in te dienen. De uiterste datum staat in de brief.</li><li>Hebt u de aangifte niet tijdig ingediend, dan krijgt u een brief van de VMM met een 'heffing van ambtswege'. Daarin doet de VMM een voorstel voor de berekening van de heffing. Als u hierop reageert binnen één maand, dan wordt er 10% heffingsverhoging aangerekend. Bij een laattijdige of geen reactie wordt een heffingsverhoging van 50% aangerekend.</li><li>Op de website van de VMM vindt u de volledige <a href=\"https://www.vmm.be/water/heffingen/procedure-aangifte\">procedure</a>.</li></ul>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:10:55.426437414Z","laatstGewijzigd":"2023-05-04T14:00:44.542767606Z","laatstOntvangen":"2023-05-04T14:00:44.542767606Z","productnummer":"1476","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4a231dfb-955e-4964-9f92-eed00ef9a414","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fa4b0dde-093c-493f-8c78-8b1f3d687fad"},{"id":"cd5c5791-ba34-4673-9555-7da14fd38203","generatedAtTime":"2023-05-04T14:00:43.944637Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie teelt van vezelvlas met verminderde bemesting"},"beschrijving":{"nl":"<p>De teelt van vezelvlas is een duurzame teelt. Er worden zeer weinig gewasbeschermingsmiddelen gebruikt. Bovendien hebben de teelten niet veel nutriënten nodig. De druk op het milieu blijft daardoor zeer beperkt.</p><p>De bijkomende eis om geen stikstofbemesting toe te passen, versterkt het milieuvriendelijke karakter van de teelt nog. Bovendien genereert vezelvlas een langetermijnopslag van koolzuurgas (CO2) in duurzame materialen zoals textiel, bouwmaterialen en composietmaterialen. Zo draagt deze teelt bij aan de strijd tegen klimaatverandering.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Alle voorwaarden die u moet naleven voor deze maatregel, vindt u in de fiche '<a href=\"https://lv.vlaanderen.be/sites/default/files/attachments/fiche_subsidie_vezelvlas_met_verminderde_bemesting.pdf\">Subsidie teelt van vezelvlas met verminderde bemesting</a>'. Voor bijkomende informatie kunt u terecht bij de <a href=\"https://lv.vlaanderen.be/nl/home/over-ons/departement-landbouw-en-visserij/inkomenssteun#buitendiensten\">buitendiensten van de afdeling Inkomenssteun</a> van het Departement Landbouw en Visserij.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>In de fiche '<a href=\"https://lv.vlaanderen.be/sites/default/files/attachments/fiche_subsidie_vezelvlas_met_verminderde_bemesting.pdf\">Subsidie teelt van vezelvlas met verminderde bemesting</a>' leest u hoe u de subsidie kunt aanvragen.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Teelt van vezelvlas met verminderde bemesting"},"url":"https://lv.vlaanderen.be/nl/subsidies/agromilieuverbintenissen/teelt-van-vezelvlas-met-verminderde-bemesting-pdpo-iii","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De subsidie voor de teelt van vezelvlas met verminderde bemesting bedraagt jaarlijks 240 euro per hectare.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:00:43.920161935Z","laatstGewijzigd":"2023-05-04T14:00:43.920163216Z","laatstOntvangen":"2023-05-04T14:00:43.920163216Z","productnummer":"1419","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cd5c5791-ba34-4673-9555-7da14fd38203","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/9d2ad69e-49b8-473a-af5a-50b43ed873ec"},{"id":"fdde5d65-3aeb-4200-a7e4-d13226bfc016","generatedAtTime":"2023-05-04T14:00:43.764681Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie teelt van vezelhennep met verminderde bemesting"},"beschrijving":{"nl":"<p>De teelt van vezelhennep is een duurzame teelt. Er worden zeer weinig gewasbeschermingsmiddelen gebruikt. Bovendien hebben de teelten niet veel nutriënten nodig. De druk op het milieu blijft daardoor zeer beperkt.</p><p>De bijkomende eis om geen stikstofbemesting toe te passen, versterkt het milieuvriendelijke karakter van de teelt nog. Bovendien genereert vezelhennep een langetermijnopslag van koolzuurgas (CO2) in duurzame materialen zoals textiel, bouwmaterialen en composietmaterialen. Zo draagt deze teelt bij aan de strijd tegen klimaatverandering.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Alle voorwaarden die u moet naleven voor deze maatregel, vindt u in de fiche ‘<a href=\"https://lv.vlaanderen.be/sites/default/files/attachments/fiche_subsidie_vezelhennep_met_verminderde_bemesting.pdf\">Subsidie teelt van vezelhennep met verminderde bemesting</a>’. Voor bijkomende informatie kunt u terecht bij de <a href=\"https://lv.vlaanderen.be/nl/home/over-ons/departement-landbouw-en-visserij/inkomenssteun#buitendiensten\">buitendiensten van de afdeling Inkomenssteun</a> van het Departement Landbouw en Visserij.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>In de fiche ‘<a href=\"https://lv.vlaanderen.be/sites/default/files/attachments/fiche_subsidie_vezelhennep_met_verminderde_bemesting.pdf\">Subsidie teelt van vezelhennep met verminderde bemesting</a>’ leest u hoe u de subsidie kunt aanvragen.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Teelt van vezelhennep met verminderde bemesting"},"url":"https://lv.vlaanderen.be/nl/subsidies/agromilieuverbintenissen/teelt-van-vezelhennep-met-verminderde-bemesting-pdpo-iii","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De subsidie voor de teelt van vezelhennep met verminderde bemesting bedraagt jaarlijks 140 euro per hectare.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:00:43.744440853Z","laatstGewijzigd":"2023-05-04T14:00:43.744442326Z","laatstOntvangen":"2023-05-04T14:00:43.744442326Z","productnummer":"1420","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fdde5d65-3aeb-4200-a7e4-d13226bfc016","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/da761880-cadd-492b-83f2-789b58d65a7e"},{"id":"c1b2820d-9527-4c60-9446-41f7903a084b","generatedAtTime":"2023-05-04T14:00:43.580847Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl":"Vrijstelling van doorstorting van bedrijfsvoorheffing"},"beschrijving":{"nl":"<p>Werkgevers kunnen in bepaalde gevallen gedeeltelijk worden vrijgesteld om de verschuldigde bedrijfsvoorheffing op de lonen van bepaalde werknemers door te storten aan de fiscus. </p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["nachtarbeid","ploegenarbeid","IPA","IPA-korting","steunzone","ontwrichte","zone","onderzoekers","overwerk","overuren","startersjobs"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Op de website van het Agentschap Innoveren en Ondernemen leest u <a href=\"https://www.vlaio.be/nl/subsidies-financiering/subsidiedatabank/vrijstelling-doorstorting-bedrijfsvoorheffing\">welke bedrijven in aanmerking komen en voor welke investeringen</a>.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-05-04T14:00:43.52737132Z","laatstGewijzigd":"2023-05-04T14:00:43.527372991Z","laatstOntvangen":"2023-05-04T14:00:43.527372991Z","productnummer":"1412","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c1b2820d-9527-4c60-9446-41f7903a084b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/af977d8f-9211-4189-a661-6122e67fbbfa"},{"id":"159d9bc1-4807-407e-aa01-631c207e0636","generatedAtTime":"2023-05-04T14:00:43.092449Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Stopgezet - Premie voor na-isolatie van een buitenmuur langs de binnenzijde (Fluvius)"},"beschrijving":{"nl":"<p>Tot 30-6-2022 kon u, als u een buitenmuur van uw woning of appartement liet <a href=\"https://www.uat-vlaanderen.be/investeren-in-energiebesparing/isolatie-en-luchtdichtheid/muurisolatie\">isoleren langs de binnenzijde</a>, bij Fluvius daarvoor een premie aanvragen.</p><p>Deze premie is<strong> stopgezet </strong>en <strong>sinds 1 juli 2022 </strong>een onderdeel geworden van <strong>Mijn VerbouwPremie</strong>, zie <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-buitenmuur\">Mijn VerbouwPremie voor buitenmuur</a><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-vloer\">.</a> Hebt u al investeringen gedaan én nog geen premie bij Fluvius aangevraagd? Bekijk de voorwaarden van <a href=\"https://www.vlaanderen.be/mijnverbouwpremie\">Mijn VerbouwPremie</a> om te zien of u in aanmerking komt.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Energiebesluit van 19 november 2010</p>"},"zoektermen":{"nl":["binnenmuur","binnenmuren","REG-premie","energie","energiebesparing","energiepremie","energiepremies","muren","muurisolatie","binnenmuurisolatie","binnenzijde","binnenisolatie","buitenmuur","buitenmuren","binnenisolatie van buitenmuren"]},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>Deze premie was er alleen voor woningen, appartementen of appartementsgebouwen in het Vlaamse gewest die vóór 1-1-2006 werden aangesloten op het elektriciteitsnet.</li><li>De isolatie van nieuw aangebouwde deelconstructies kwam ook in aanmerking voor de premie. Bij volledige herbouw (=nieuwbouw) gold de premie niet.</li><li>Het aanvraagformulier moest bij Fluvius (de elektriciteitsnetbeheerder) aankomen (met eindfactuur vanaf 1-7-2020) uiterlijk 24 maanden na de eindfactuurdatum.<br />Met een eindfactuur tot 30-6-2020 kon u geen premie meer aanvragen.</li><li>De werken moesten uitgevoerd en gefactureerd worden door een aannemer.</li><li>Een architect moest de werken begeleiden en de uitvoering van de werken controleren<br />of de aannemer (zaakvoerder of een van zijn medewerkers) moest een certificaat van bekwaamheid hebben of een certificaat van bekwaamheid als aspirant. Raadpleeg de <a href=\"https://assets.vlaanderen.be/image/upload/v1677570965/Lijst_gecertificeerde_aannemers_binnenisolatie_van_muren_iitfmc.pdf\">lijst met gecertificeerde aannemers van het Vlaams Energie- en Klimaatagentschap</a>.</li><li>Alle voorwaarden en technische eisen (Rd-waarde, lambdawaarde, ...) staan op het <a href=\"https://www.fluvius.be/nl/publicatie/buitenmuurisolatie-huishoudelijke-premie-2022-informatieblad\">Informatieblad 2022 van Fluvius</a>.</li><li>Vanaf 2021 (eindfactuur) was er een verhoogde premie voor huishoudelijke eindafnemers die op het elektriciteitsdistributienet zijn aangesloten met toepassing van uitsluitend nachttarief.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li><strong>U kunt deze premie niet meer aanvragen.</strong></li><li>Als uw aanvraag wordt goedgekeurd, volgt de uitbetaling binnen de 6 maanden.</li><li>U kunt de status van uw aanvraag opvolgen in ‘Mijn Fluvius’.</li></ul>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<div data-table=\"\"><table><tbody><tr><td>Eindfactuur in</td><td>Premie isolatie<br />van de buitenmuur langs de binnenzijde</td></tr><tr><td><p>2020</p></td><td>15 euro per m<sup>2 </sup></td></tr><tr><td>2021</td><td>15 euro per m<sup>2</sup></td></tr><tr><td>2021 - Klant met<br />'uitsluitend nachttarief'</td><td>22,5 euro per m<sup>2</sup></td></tr></tbody></table></div><p>Beschermde afnemers konden een hogere premie krijgen. <a href=\"https://www.uat-vlaanderen.be/voordelen-en-premies-voor-beschermde-afnemers\">Beschermde afnemers</a> zijn personen die recht hebben op de sociale maximumprijzen voor elektriciteit en aardgas. Een beschermde afnemer kreeg 22,5 euro per m² geïsoleerde muuroppervlakte. Dit bedrag gold in 2021 ook in geval van 'uitsluitend nachttarief'.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:54.731457599Z","laatstGewijzigd":"2023-05-04T14:00:43.01072648Z","laatstOntvangen":"2023-05-04T14:00:43.01072648Z","productnummer":"1398","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/159d9bc1-4807-407e-aa01-631c207e0636","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/564f6bba-4009-49eb-9569-08bdce0fe8d6"},{"id":"6d826424-b5a6-4249-b910-26d45f920a6a","generatedAtTime":"2023-05-04T14:00:42.412779Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Certificaat van bekwaamheid voor muurisolatie langs de binnenzijde","en":"Certificate of competence for post-insulation of external walls from the inside"},"beschrijving":{"en":"<p>A contractor who post-insulates external walls from the inside can obtain a ‘certificate of competence’ after having attended the relevant training course and passed an examination.</p><p>Anyone who wants to request a subsidy from Fluvius for post-insulation of external walls from the inside must</p><ul><li>either hire an <strong>architect</strong> to supervise the works and monitor their execution</li><li>or have the work done by a <strong>contractor</strong> who holds a certificate of competence.</li></ul>","nl":"<p>Een aannemer die buitenmuren langs de binnenzijde na-isoleert, kan na het volgen van een opleiding en het slagen in een examen een 'certificaat van bekwaamheid' behalen.</p><p>Wie <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-buitenmuur\">Mijn Verbouwpremie voor buitenmuur</a> voor muurisolatie langs de binnenzijde wil aanvragen moet</p><ul><li>of een <strong>architect</strong> inschakelen die de werken begeleidt en de uitvoering van de werken controleert</li><li>of de werken laten doen door een <strong>aannemer</strong> met een certificaat van bekwaamheid.</li></ul>"},"type":"Bewijs","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"en":"<p>Anyone who wishes to obtain a ‘certificate of competence’ must:</p><ul><li>attend an accredited training course</li><li>pass an accredited examination</li><li>have at least 1 month of practical experience.</li></ul><p>The certificate is valid <strong>for 7 years</strong>.</p>","nl":"<p>Wie een 'certificaat van bekwaamheid' wil verkrijgen, moet:</p><ul><li>een erkende opleiding volgen</li><li>slagen voor een erkend examen</li><li>minimaal 1 maand aan praktijkervaring hebben</li></ul><p>Het certificaat is <strong>7 jaar</strong> geldig.</p>"},"naam":{"nl":"Voorwaarden","en":"Requirements"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"en":"<p>You can choose to attend a short (at least 1 hour) or a long training course (at least 7 hours). You can take the examination twice before you are required to attend the training course again. If you fail the examination twice, you are required to attend the long training course before you can sit the examination again.</p><p>The Energy and Climate Agency of Flanders (VEKA) offers a non-mandatory orientation test to check whether your ready knowledge is sufficient for you to only attend the short training course.</p><p>For practical information about <strong>dates, enrolment, tuition fees</strong>, etc. you can contact the <strong>training institution</strong> itself. On the website energiesparen.be you can find a list of training institutions that offer this training course.</p>","nl":"<p>Er wordt een korte (minstens 1 uur) en lange opleiding (minstens 7 uur) voorzien. U kunt maximaal 2 keer deelnemen aan het examen alvorens de opleiding opnieuw te moeten volgen. Bij 2 keer niet slagen moet u de lange opleiding volgen voor u opnieuw kunt deelnemen aan het examen.</p><p>Door het Vlaams Energie- en Klimaatagentschap (VEKA) wordt een vrijblijvende <a href=\"https://candidate.speedexam.net/openquiz.aspx?quiz=F031002B924E4A3187577D0A018D5976\">oriëntatietest</a> aangeboden om na te gaan of de beschikbare kennis voldoende is om enkel de korte opleiding te volgen.</p><p>Voor praktische informatie over de <strong>data, inschrijvingen, inschrijvingsgeld</strong>,... kunt u contact opnemen met de <strong>opleidingsinstelling</strong> zelf. Op energiesparen.be vindt u een <a href=\"https://www.energiesparen.be/binnenisolatie/aannemers\">overzicht van opleidingsinstellingen</a> die deze opleiding aanbieden.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Hoe kan ik mij laten certificeren als aannemer voor muurisolatie langs binnenkant? (op Energiesparen.be)","en":"Hoe kan ik mij laten certificeren als aannemer voor muurisolatie langs binnenkant? (op Energiesparen.be)"},"url":"https://www.energiesparen.be/binnenisolatie/aannemers","@type":"Website","order":0}],"creatie":"2023-05-04T14:00:42.323636313Z","laatstGewijzigd":"2023-05-04T14:00:42.323637949Z","laatstOntvangen":"2023-05-04T14:00:42.323637949Z","productnummer":"1729","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6d826424-b5a6-4249-b910-26d45f920a6a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/1a20a369-aed0-46e1-b768-5b5d856be405"},{"id":"64c94751-c46c-4567-baed-11a8dd8c721a","generatedAtTime":"2023-05-04T14:00:38.197304Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vrijstelling van de jaarlijkse verkeersbelasting en de BIV voor milieuvriendelijke voertuigen"},"beschrijving":{"nl":"<p>Bepaalde milieuvriendelijkere brandstoftypes worden tijdelijk of onbeperkt in tijd vrijgesteld van de <a href=\"https://www.uat-vlaanderen.be/niet-aan-te-geven-voertuigen\">jaarlijkse verkeersbelastingen</a> en de belasting op inverkeerstelling (BIV).</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"uitzonderingen":{"nl":"<p>Deze vrijstelling geldt <strong>niet</strong> voor <strong>leasingvoertuigen</strong>.</p>"},"zoektermen":{"nl":["tijdelijke","vrijstelling","cng","hybride","aardgas","uitstoot","elektrische","voertuigen","cng-wagen","plug in hybride","verkeersbelasting","biv"]},"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"voorwaarden":[{"beschrijving":{"nl":"<h3>Onbeperkte vrijstelling sinds aanslagjaar 2016 voor volgende brandstoftypes:</h3><ul><li><p>Puur elektrisch</p></li><li><p>Puur waterstof</p></li></ul><h3>Tijdelijke vrijstelling sinds aanslagjaar 2016 tot 31-12-2020 voor volgende brandstoftypes: </h3><ul><li><strong>Aardgas (CNG/LNG) moeten aan volgende voorwaarden voldoen:</strong><ul><li>Het voertuig wordt geheel of gedeeltelijk aangedreven met aardgas.</li><li><strong>Opgelet</strong>: Voertuigen met een belastbaar vermogen groter dan 11 fiscale pk (vanaf 2151 cc) en die ingeschreven zijn <strong>sinds 1 juli 2017 </strong>hebben geen recht op deze vrijstelling. De BIV voor deze voertuigen wordt wel forfaitair verminderd met 4000 euro.</li></ul></li><li><strong>Plug-in hybride elektrische voertuigen moeten aan volgende voorwaarden voldoen:</strong><ul><li>Noodzaak om batterij met stekker te kunnen opladen</li><li>Het voertuig mag een uitstoot hebben van maximum 50g CO2/km.</li></ul></li></ul><h3><strong>Tijdelijke vrijstelling jaarlijkse verkeersbelasting voor bepaalde aardgas- en plug-in hybride voertuigen</strong> loopt af op 31-<strong>12-2020:</strong></h3><ul><li>Voertuigen op aardgas met maximaal 11 fiscale PK of plug-in hybride-voertuigen met een maximale uitstoot van 50 g CO2 die vanaf 1 januari 2021 ingeschreven worden, worden niet meer vrijgesteld van jaarlijkse verkeersbelasting en de belasting op de inverkeerstelling.</li><li>Uiterlijk <strong>op 31 december ingeschreven voertuigen</strong> blijven vrijgesteld van jaarlijkse verkeersbelasting zolang ze op dezelfde eigenaar ingeschreven blijven. Het maakt daarbij niet uit of het om nieuwe of tweedehandsvoertuigen gaat.</li></ul><p><strong>Uitzondering voor nieuwe voertuigen besteld voor 12 oktober 2020</strong></p><ul><li>Voor voertuigen die worden <strong>besteld vóór 12 oktober 2020</strong>, maar pas worden <strong>ingeschreven na 31 december 2020</strong>, kan de eigenaar nog een vrijstelling aanvragen.</li><li>U moet daarvoor voor 15 januari 2021 het<a href=\"https://www.uat-vlaanderen.be/formulieren-verkeersbelastingen\"> aanvraagformulier</a> opsturen naar de Vlaamse Belastingdienst, samen met een kopie van de bestelbon die bewijst dat de bestelling gebeurde voor 12 oktober 2020.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Als uw voertuig in aanmerking komt voor deze vrijstelling, dan wordt de vrijstelling <strong>automatisch </strong>toegekend en ontvangt u geen aanslagbiljet meer.</p><p>Is dat <strong>niet het geval</strong> en denkt u toch recht hebt op deze vrijstelling? Dan kunt u <a href=\"http://www.vlaanderen.be/bezwaar-indienen-tegen-een-belasting\">een schriftelijk of online bezwaar indienen</a> bij de Vlaamse Belastingdienst. </p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Als u de vrijstelling geniet, dan moet u de jaarlijkse verkeersbelasting en de BIV niet meer betalen.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:00:38.176646828Z","laatstGewijzigd":"2023-05-04T14:00:38.176648851Z","laatstOntvangen":"2023-05-04T14:00:38.176648851Z","productnummer":"1460","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/64c94751-c46c-4567-baed-11a8dd8c721a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/800d2ce7-3d30-4798-a641-71e016f6831e"},{"id":"1f214c3b-ceab-41e0-96e0-87eec393fc29","generatedAtTime":"2023-05-04T14:00:37.520637Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Aanloopsteun voor de ontwikkeling van kleine landbouwbedrijven"},"beschrijving":{"nl":"<p>Het Vlaams Landbouwinvesteringsfonds (VLIF) wil kleine landbouwbedrijven die zich verder willen ontwikkelen, met financiële stimuli ondersteunen. Voor bepaalde types van bedrijven en subsectoren is het niet haalbaar te voldoen aan de voorwaarden om de overnamesteun voor jonge landbouwers of de investeringssteun van het VLIF te krijgen. Dikwijls zijn het bedrijven die nieuwe teelten of alternatieve vormen van productiemethodes en commercialisatiestructuren ontwikkelen.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 2 oktober 2015 betreffende steun aan de niet-productieve investeringen en aan de ontwikkeling van de kleine landbouwbedrijven.</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De precieze voorwaarden voor de VLIF-aanloopsteun voor ontwikkeling van kleine landbouwondernemingen vindt u op de website.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Alle VLIF-steunaanvragen gebeuren via het <a href=\"https://www.landbouwvlaanderen.be\">e-loket</a> Landbouw en Visserij. Na het afsluiten van een indienperiode of blokperiode worden alle aangemelde steunaanvragen gerangschikt van hoog naar laag op basis van een doelmatigheidsscore. De score weerspiegelt de bijdrage tot de realisatie van de doelstellingen van de VLIF-maatregel.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Aanloopsteun voor ontwikkeling van kleine landbouwondernemingen"},"url":"https://lv.vlaanderen.be/nl/subsidies/vlif-steun/vlif-aanloopsteun-voor-ontwikkeling-van-kleine-landbouwondernemingen","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De ontwikkeling van kleine landbouwbedrijven wordt gesubsidieerd in de vorm van een aanlooppremie. De premie is afhankelijk van het brutobedrijfsresultaat (BBR) van uw bedrijf. U vindt de precieze bedragen op de website.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:00:37.500425513Z","laatstGewijzigd":"2023-05-04T14:00:37.500427589Z","laatstOntvangen":"2023-05-04T14:00:37.500427589Z","productnummer":"1550","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1f214c3b-ceab-41e0-96e0-87eec393fc29","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4cc58ffb-8339-47ed-a531-f841d84d1840"},{"id":"6f88b831-f754-4f55-a2ca-74c9740e82f4","generatedAtTime":"2023-05-04T14:00:37.290269Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Niet-productieve investeringssteun land- en tuinbouwers"},"beschrijving":{"nl":"<p>Het Vlaams Landbouwinvesteringsfonds (VLIF) wil landbouwers met financiële stimuli ertoe aanmoedigen investeringen te doen die bijdragen aan een verbetering van de biodiversiteit en de kwaliteit van landschap, bodem en water. Het gaat vooral om investeringen in natuur- en landschapsbeheer, die van de landbouwer wel inspanningen vergen maar op geen enkele manier inkomsten opleveren. Ook investeringen in erosiebestrijding en waterbeheer komen in aanmerking. Daar plukken niet zozeer de individuele landbouwers, maar veeleer de buurtbewoners, de maatschappij of het ecosysteem de vruchten van.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 2 oktober 2015 betreffende steun aan de niet-productieve investeringen en aan de ontwikkeling van de kleine landbouwbedrijven.</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De precieze voorwaarden voor de niet-productieve investeringssteun voor land- en tuinbouwers vindt u op de website.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Alle VLIF-steunaanvragen verlopen via het <a href=\"https://www.landbouwvlaanderen.be\">e-loket</a> voor Landbouw en Visserij.</p><p>Na het afsluiten van een indienperiode of blokperiode worden alle aangemelde niet-productieve investeringen gerangschikt van hoog naar laag, op basis van een doelmatigheidsscore. De score weerspiegelt de bijdrage aan de realisatie van de doelstellingen van de VLIF-maatregel.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Steun voor niet-productieve investeringen op het landbouwbedrijf"},"url":"https://lv.vlaanderen.be/nl/subsidies/vlif-steun/niet-productieve-investeringssteun","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De investeringssteun heeft de vorm van een kapitaalpremie en kan maximaal 100 procent van de aanvaardbare investeringskosten omvatten. Het subsidiabele bedrag van de investering waarvoor de steun gevraagd wordt, kan beperkt worden op basis van maximale subsidiabele investeringsbedragen per oppervlakte- of lengte-eenheid of per stuk.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:00:37.268065142Z","laatstGewijzigd":"2023-05-04T14:00:37.268066934Z","laatstOntvangen":"2023-05-04T14:00:37.268066934Z","productnummer":"1377","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6f88b831-f754-4f55-a2ca-74c9740e82f4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/470f741f-028a-45ac-81bc-0d44fa043866"},{"id":"9cdc3c33-a1b5-4d4a-a559-5aa699ac731c","generatedAtTime":"2023-05-04T14:00:36.796621Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Certificaat van bekwaamheid voor installateurs van groene-energiesystemen"},"beschrijving":{"nl":"<p>Een installateur van systemen voor groene energie met minstens 1 maand ervaring kan na het volgen van een opleiding en het slagen in een examen, een ‘<strong>certificaat van bekwaamheid</strong>’ behalen.</p><p>Wil een klant <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-warmtepomp\">Mijn VerbouwPremie voor warmtepomp</a>, <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-zonneboiler\">Mijn VerbouwPremie voor zonneboiler</a> of de <a href=\"https://www.uat-vlaanderen.be/premie-van-fluvius-voor-zonnepanelen\">premie van Fluvius voor zonnepanelen</a> aanvragen? Dan moet die het systeem laten installeren door een <a href=\"https://www.uat-vlaanderen.be/groene-energie-installateurs-met-certificaat-van-bekwaamheid-rescert\">installateur met een certificaat van bekwaamheid</a>. Ofwel is de installateur zelf gecertificeerd, ofwel wordt de installatie gecontroleerd door een gecertificeerde installateur.</p><ul><li>Voor de warmtepomppremie en de zonneboilerpremie moet op het <strong>attest dat de aannemer aan de klant geeft</strong>, het RESCert-certificeringsnummer vermeld worden van de aannemer met een certificaat van bekwaamheid of van de aannemer die de controle heeft uitgevoerd.</li><li>Voor de premie van Fluvius voor zonnepanelen moet het RESCert-nummer van de aannemer ingevuld worden tijdens de online aanvraag door de klant.</li></ul>"},"type":"Bewijs","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["RESCERT","bekwaamheidscertificaat","certificaten","certificatie","groene energie","hernieuwbare energie","Groene-energie-installateurs"]},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Wie een 'certificaat van bekwaamheid' wilt verkrijgen, moet:</p><ul><li>een erkende <strong>opleiding</strong> volgen in een van de zes categorieën:<ul><li>zonnepanelen: <strong>fotovoltaïsche installaties</strong>, inclusief integratie in de dakbedekkingen</li><li><strong>zonthermische installaties</strong> voor sanitair warm water, inclusief integratie in de dakbedekkingen</li><li><strong>zonthermische installaties</strong> voor gecombineerde systemen (sanitair warm water en verwarming), inclusief integratie in de dakbedekkingen</li><li>gecentraliseerde <strong>biomassa-installaties</strong> (verwarming en/of sanitair warm water)</li><li><strong>warmtepompen </strong>(verwarming met of zonder sanitair warm water) met uitzondering van ondiepe geothermische systemen</li><li>ondiepe geothermische systemen.</li></ul></li><li>én slagen voor een erkend <strong>examen</strong></li><li>én voldoen aan de <strong>toekenningsvoorwaarden</strong></li><li>én minstens <strong>1 maand</strong> ervaring hebben.</li></ul><p>Het certificaat is <strong>7 jaar geldig.</strong></p><p>Op de website van RESCert vindt u <a href=\"https://rescert.be/nl\">meer informatie over opleidingen, examen en toekenningsvoorwaarden</a>.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Het certificaat kan men <a href=\"https://rescert.be/nl\">online aanvragen</a> tot uiterlijk 12 maanden na de datum van het examen.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Certificaat van bekwaamheid - Info installateurs (op Energiesparen.be)"},"url":"https://www.energiesparen.be/groene-energie-en-wkk/prof/bekwaamheid-installateurs","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Een certificaat kost <strong>250 euro (excl. btw)</strong>.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-05-04T14:00:36.776020117Z","laatstGewijzigd":"2023-05-04T14:00:36.776022376Z","laatstOntvangen":"2023-05-04T14:00:36.776022376Z","productnummer":"1708","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9cdc3c33-a1b5-4d4a-a559-5aa699ac731c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/036687e1-b533-4e30-8d9e-553bc63d0e3b"},{"id":"2c612f2f-c49f-4d00-94bf-bd11ace0ecbc","generatedAtTime":"2023-05-04T14:00:36.353761Z","naam":{"nl":"Gedwongen opname of collocatie"},"beschrijving":{"nl":"<p>Gedwongen opname (soms collocatie genoemd) is bedoeld als beschermingsmaatregel. Wie een gevaar vormt voor zichzelf of voor anderen kan tot opname in een psychiatrische afdeling gedwongen worden.</p><p>Een gedwongen opname is in eerste instantie slechts mogelijk voor maximum 40 dagen. Daarna kan door de vrederechter of procureur beslist worden tot verlenging van de opname. Concreet wordt er dikwijls al na 10 dagen een evaluatie gedaan door de vrederechter of procureur. Als er dan geen 'geestesziekte' kan worden vastgesteld, dan wordt de betreffende persoon terug vrij gelaten.</p>"},"geografischToepassingsgebieden":["BE2"],"zoektermen":{"nl":["collocatie"]},"bevoegdeOverheden":[{"id":"OVO001717","@id":"OVO001717"}],"voorwaarden":[{"beschrijving":{"nl":"<p>In volgende gevallen is het mogelijk om over te gaan tot een gedwongen opname of 'collocatie':</p><ul><li>iemand gedraagt zich zo agressief dat er ernstig gevaar is voor anderen in de omgeving</li><li>iemand brengt zijn eigen gezondheid en veiligheid zeer ernstig in gevaar</li><li>er is sprake van een 'geestesziekte'. De wet geeft hier geen definitie over, een medisch expert bepaalt of iemand geestesziek is.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Er zijn twee procedures, een gewone procedure en een spoedprocedure.</p><h3>Gewone procedure</h3><p>De gewone procedure voor gedwongen opname start met het indienen van een verzoekschrift bij de vrederechter. Aan dit verzoekschrift moet een medisch verslag worden toegevoegd (bijvoorbeeld van de huisarts). Binnen de 24 uur na de indiening van het verzoekschrift bepaalt de vrederechter de dag en het uur van zijn bezoek aan de persoon wiens opname wordt gevraagd.</p><h3>Spoedprocedure</h3><p>Er kan een spoedprocedure worden opgestart als er sprake is van een acute situatie of van hoogdringendheid.</p><p>De politie neemt in dat geval contact op met de Procureur des Konings.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-05-04T14:00:36.314784616Z","laatstGewijzigd":"2023-05-04T14:00:36.314787253Z","laatstOntvangen":"2023-05-04T14:00:36.314787253Z","productnummer":"1806","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2c612f2f-c49f-4d00-94bf-bd11ace0ecbc","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d231153f-fffb-4f2b-9149-787c4601db6c"},{"id":"13d5705a-621f-4a63-b2ab-6a7b87a13964","generatedAtTime":"2023-05-04T14:00:36.16974Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning en subsidiëring van de verenigingen waar armen het woord nemen"},"beschrijving":{"nl":"<p>Meer dan één op tien mensen in Vlaanderen heeft een inkomen lager dan de armoederisicogrens. Armoede is niet enkel een kwestie van inkomen. Armoede is een netwerk van sociale uitsluitingen op verschillende levensdomeinen die intens met elkaar verweven zijn, zoals onderwijs, werk, vrijetijdsbesteding, huisvesting en gezondheid, …</p><p>Armoedebestrijding moet dan ook gericht zijn op een volwaardige participatie aan de samenleving. Iedereen moet ten volle kunnen genieten van alle sociale grondrechten.</p><p>Participatie staat centraal in het Vlaams armoedebestrijdingsbeleid. Om die participatie te bereiken, wordt gewerkt met verenigingen waar armen het woord nemen. Deze verenigingen zoeken armen op, brengen ze samen in groep, geven armen het woord, werken aan de maatschappelijke emancipatie van armen, werken aan maatschappelijke structuren en vormingsactiviteiten en organiseren dialoog. Ter ondersteuning van het participatieproces van armen aan het armoedebestrijdingsbeleid heeft de Vlaamse Regering een overeenkomst afgesloten met het <a href=\"https://www.armoede.vlaanderen.be/vlaams-netwerk-van-verenigingen-waar-armen-het-woord-nemen#:~:text=Het%20Vlaams%20Netwerk%20van%20verenigingen,mensen%20in%20armoede%20te%20organiseren.\">Vlaams netwerk van verenigingen waar armen het woord nemen</a>.</p><p>Daarnaast is ook <a href=\"https://www.delinkarmoede.be\">vzw De Link</a> erkend voor de coördinatie en toeleiding tot de opleiding van opgeleide ervaringsdeskundigen in de armoede en sociale uitsluiting. De coördinatie bestaat in het scheppen van de voorwaarden voor de organisatie van de opleiding, de tewerkstelling van ervaringsdeskundigen, de sensibilisering voor de opleiding en het bewaken van de kwaliteit ervan.</p>"},"type":"Toelating","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 21 maart 2003 betreffende de armoedebestrijding (gewijzigd bij decreet van 18 juli 2008 en 20 december 2013)</p><p>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (gewijzigd bij besluit van 26 februari 2010, 10 februari 2012, 09 november 2012 en 07 februari 2014)</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>De afdeling Welzijn en Samenleving erkent en subsidieert de verenigingen waar armen het woord nemen en De Link vzw. De afdeling Welzijn en Samenleving subsidieert het Vlaams netwerk van verenigingen waar armen het woord nemen. Jaarlijks ontvangen deze organisaties subsidies waarmee zij hun werking kunnen uitbouwen.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:10:53.441033451Z","laatstGewijzigd":"2023-05-04T14:00:36.149701434Z","laatstOntvangen":"2023-05-04T14:00:36.149701434Z","productnummer":"1335","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/13d5705a-621f-4a63-b2ab-6a7b87a13964","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6232f13a-c587-4e76-a71d-698205e6fa83"},{"id":"3a3ceccc-e5b0-4767-872a-054677415549","generatedAtTime":"2023-05-04T14:00:35.665452Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl":"Sollicitatieverlof"},"beschrijving":{"nl":"<p>Als u ontslagen bent of zelf uw ontslag hebt ingediend, hebt u tijdens uw opzegperiode recht op sollicitatieverlof. Dat betekent dat u, met behoud van uw loon, afwezig mag zijn op het werk om ander werk te zoeken of op sollicitatiegesprek te gaan.</p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["ontslagprocedure","ontslagregels","opzeggingstermijn","opzegtermijn"]},"bevoegdeOverheden":[{"id":"OVO004018","@id":"OVO004018"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Hoeveel sollicitatieverlof u hebt, hangt af van uw recht op outplacementbegeleiding en van uw opzegtermijn.</p><p><a href=\"https://www.vdab.be/ontslag/sollicitatieverlof\">Meer informatie over het sollicitatieverlof</a> vindt u op de website van VDAB.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Werkgever en werknemer beslissen onderling op welke dag(en) het sollicitatieverlof wordt genomen. Als er geen overeenkomst is, beslist de werknemer.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:10:52.961883683Z","laatstGewijzigd":"2023-05-04T14:00:35.64529134Z","laatstOntvangen":"2023-05-04T14:00:35.64529134Z","productnummer":"1674","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3a3ceccc-e5b0-4767-872a-054677415549","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e5e306b9-e614-4be4-b0a5-f4d1ec30ca2c"},{"id":"f10704aa-a98e-4f00-b0ce-204fb3b4ea00","generatedAtTime":"2023-05-04T14:00:35.384777Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Verslag voor toegang tot een individueel aangepast curriculum (IAC) in het gewoon onderwijs of voor toegang tot het buitengewoon onderwijs"},"beschrijving":{"nl":"<p>Om uw kind een<strong> individueel aangepast curriculum (IAC) </strong>te kunnen laten volgen in een school voor gewoon onderwijs of om te kunnen inschrijven in het buitengewoon onderwijs, hebt u een verslag nodig van een <a href=\"https://www.uat-vlaanderen.be/centra-voor-leerlingenbegeleiding\">centrum voor leerlingenbegeleiding (CLB)</a>. Die maatregel moet ervoor zorgen dat alleen leerlingen die het echt nodig hebben een IAC volgen of naar het buitengewoon onderwijs gaan. </p>"},"type":"Toelating","themas":["OnderwijsWetenschap"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE1","BE2"],"zoektermen":{"nl":["inschrijvingsverslag"]},"bevoegdeOverheden":[{"id":"OVO000050","@id":"OVO000050"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Uw kind kan via een verslag toegang krijgen tot een IAC in een gewone school of tot een school voor buitengewoon onderwijs als blijkt dat redelijke aanpassingen niet mogelijk of niet voldoende zijn om uw kind het gemeenschappelijk curriculum te laten volgen in een gewone school, dus wanneer uw kind een individueel aangepast leertraject nodig heeft. </p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Het verslag wordt opgesteld door een centrum voor leerlingenbegeleiding (CLB). U kunt zelf naar het CLB stappen, maar ook de school kan de vraag voor een verslag aan het CLB doorgeven.</p><p>Als u het niet eens bent met de noodzaak of inhoud van het verslag, kunt u <a href=\"http://onderwijs.vlaanderen.be/vlaamse-bemiddelingscommissie\">beroep doen op de Vlaamse bemiddelingscommissie</a>.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Verslag voor een individueel aangepast curriculum in het gewoon onderwijs of voor toegang tot het buitengewoon onderwijs"},"url":"https://onderwijs.vlaanderen.be/verslag-individueel-aangepast-curriculum-gewoon-of-toegang-buitengewoon-onderwijs","@type":"Website","order":0}],"creatie":"2023-05-04T14:00:34.668939991Z","laatstGewijzigd":"2023-05-04T14:00:34.668941445Z","laatstOntvangen":"2023-05-04T14:00:34.668941445Z","productnummer":"1263","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f10704aa-a98e-4f00-b0ce-204fb3b4ea00","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/48d10745-5974-494c-8179-be9ff7007520"},{"id":"ddfc2694-d1cc-40cb-aa4d-ad701075b53a","generatedAtTime":"2023-05-04T14:00:34.165104Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Leefvergoeding voor personen onder elektronisch toezicht"},"beschrijving":{"nl":"<p>Het leefloon is één van de vormen van hulpverlening van het OCMW. Maar de uitbetaling van dat leefloon is opgeschort als u een vrijheidsstraf ondergaat en ingeschreven bent op de rol van een strafinrichting.</p><p>Vermits personen onder elektronisch toezicht ingeschreven zijn op de rol van een strafinrichting, kunnen ook zij geen aanspraak maken op uitbetaling van het leefloon. Wie hierdoor over geen middelen van bestaan beschikt, kan een financiële dagvergoeding worden toegekend. Het Departement Welzijn, Volksgezondheid en Gezin beslist of u hiervoor in aanmerking komt.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["dagvergoeding"]},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U komt in aanmerking als na onderzoek blijkt dat:</p><ul><li>u over geen persoonlijke bron van inkomsten beschikt</li><li>u samenwonend bent en uw persoonlijke bron van inkomsten minder dan 417,07 EUR per maand bedraagt</li><li>u alleenstaand bent en u persoonlijke bron van inkomsten minder dan 625,60 EUR per maand bedraagt.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Als u meer uitleg wilt over de financiële tegemoetkoming kunt u een mail sturen naar <a href=\"mailto:leefvergoeding.et@wvg.vlaanderen.be\">leefvergoeding.et@vlaanderen.be</a>.</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het bedrag voor de leefvergoeding wordt berekend per dag. Een alleenstaande ontvangt 20,85 euro, een samenwonende krijgt 13,90 euro per dag. Dit bedrag wordt betaald voor elke dag van de week, dus ook voor weekenddagen. </p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:52.646272531Z","laatstGewijzigd":"2023-05-04T14:00:34.145448158Z","laatstOntvangen":"2023-05-04T14:00:34.145448158Z","productnummer":"1823","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ddfc2694-d1cc-40cb-aa4d-ad701075b53a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/8b76244f-01e6-4253-89d5-42f6a65d3d7d"},{"id":"46436bd9-7bf8-4a5d-a7a4-58553873a844","generatedAtTime":"2023-05-04T14:00:33.961083Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Slachtofferonthaal bij een gerechtelijke procedure"},"beschrijving":{"nl":"<p>De dienst slachtofferonthaal kan tussenkomen zodat u, als slachtoffer of als na(ast)bestaande van het slachtoffer, de nodige aandacht krijgt tijdens de hele gerechtelijke procedure (vanaf de indiening van de klacht tot de strafuitvoering) en zodat u uw rechten kunt doen gelden.</p>"},"type":"AdviesBegeleiding","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE1","BE2"],"bevoegdeOverheden":[{"id":"OVO049152","@id":"OVO049152"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>De magistraat die uw dossier behandelt, kan vragen dat een justitieassistent tussenkomt als hij oordeelt dat de omstandigheden of de gevolgen van het misdrijf een bijstand vereisen. Dit is verplicht in de volgende gevallen:</p><ul><li>Opzettelijke misdrijven die het overlijden van het slachtoffer hebben veroorzaakt en de poging daartoe</li><li>Onopzettelijke misdrijven die het overlijden hebben veroorzaakt (bijvoorbeeld een verkeersongeval)</li><li>Verdachte overlijdens</li><li>Gevallen waarin uitdrukkelijk voorzien is in de tussenkomt van de dienst slachtofferonthaal (bijvoorbeeld bij de opsporing van vermiste personen of bij partnergeweld indien de dader ter beschikking wordt gesteld van het parket)</li></ul><p>In andere gevallen beoordeelt de magistraat of er bijstand nodig is aan de hand van een aantal criteria, zoals de ernst van lichamelijke, psychologische, materiële of sociale gevolgen.</p><p>U kunt ook zelf contact opnemen met een justitieassistent. De justitieassistent zal dan toestemming vragen aan de magistraat om tussen te komen.</p><p>De justitieassistent van de dienst slachtofferonthaal geeft u niet alleen algemene informatie over uw rechten en het verloop van een gerechtelijke procedure. De justitieassistent kan u ook specifieke inlichtingen geven over uw dossier. Hij kan bijvoorbeeld uitleg geven over:</p><ul><li>de betekenis van onderzoeksdaden</li><li>de onderzoeksresultaten</li><li>de beslissingen van de rechter</li></ul><p>De justitieassistent kan optreden als tussenpersoon en uw vragen aan de magistraat overbrengen. De justitieassistent biedt ondersteuning en begeleiding tijdens de hele gerechtelijke procedure:</p><ul><li>bij de inzage van het dossier</li><li>tijdens de zitting</li><li>tijdens de teruggave van persoonlijke voorwerpen</li><li>in het kader van de strafuitvoering, bij het opmaken van de slachtofferverklaring of slachtofferfiche</li></ul><p>De justitieassistent verwijst u indien nodig naar gespecialiseerde diensten (zoals psychosociale of juridische hulp). De justitieassistent zal de problemen die u ervaart in uw contacten met justitie overmaken aan de bevoegde instanties, zodat uw rechten verbeterd kunnen worden.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Justitiehuizen - slachtofferonthaal"},"url":"https://www.vlaanderen.be/slachtofferonthaal","@type":"Website","order":0},{"naam":{"nl":"Slachtofferzorg"},"url":"https://www.slachtofferzorg.be","@type":"Website","order":1}],"kosten":[{"beschrijving":{"nl":"<p>De tussenkomst van de dienst slachtofferonthaal is gratis.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-05-04T14:00:33.938468524Z","laatstGewijzigd":"2023-05-04T14:00:33.938470761Z","laatstOntvangen":"2023-05-04T14:00:33.938470761Z","productnummer":"1822","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/46436bd9-7bf8-4a5d-a7a4-58553873a844","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/21523969-290a-4fb4-81c7-a54e5d94e314"},{"id":"6ac7da1a-7898-4d93-a577-f0f97637c30c","generatedAtTime":"2023-05-04T14:00:33.755105Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Zorgforfait voor chronisch zieken\t"},"beschrijving":{"nl":"<p>Chronisch zieken die hoge medische kosten hebben en sterk afhankelijk zijn van de hulp van anderen, kunnen een beroep doen op het zorgforfait voor chronisch zieken.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["chronische zieken","zorgforfait"]},"bevoegdeOverheden":[{"id":"OVO004200","@id":"OVO004200"}],"voorwaarden":[{"beschrijving":{"nl":"<h3>U hebt hoge uitgaven voor gezondheidszorg</h3><p>In het betrokken en voorafgaande kalenderjaar moet u een totaal aan remgeld hebben betaald van minstens:</p><ul><li><p>450 euro/jaar (chronisch zieken zonder verhoogde tegemoetkoming)</p></li><li>365 euro/jaar (chronisch zieken met verhoogde tegemoetkoming).<br />De berekening van de uitgaven gebeurt zoals voor de <a href=\"https://www.uat-vlaanderen.be/maximumfactuur-maf-voor-medische-kosten\">maximumfactuur (MAF)</a>. Hierdoor worden een aantal uitgaven niet meegerekend. In tegenstelling tot de MAF, wordt er evenwel enkel rekening gehouden met het remgeld van de chronisch zieke zelf.</li></ul><h3>U hebt verlies aan zelfredzaamheid</h3><ul><li><strong>Voor de tegemoetkoming van 323,98</strong><strong> euro </strong><br />moet u zich in een van de volgende situaties bevinden:<ul><li>minstens 6 maanden erkend zijn als rechthebbende met een zware aandoening in het kader van kinesitherapie of fysiotherapie</li><li>in het betrokken of voorafgaande kalenderjaar samen, minstens zesmaal of gedurende minstens 120 dagen opgenomen zijn in een algemeen of psychiatrisch ziekenhuis</li><li>voldoen aan de medische voorwaarden die recht geven op een <a href=\"https://www.uat-vlaanderen.be/de-zorgtoeslag-voor-specifieke-ondersteuningsbehoeften-groeipakket\">zorgtoeslag voor specifieke ondersteuningsbehoeften</a> (Groeipakket).</li></ul></li><li><strong>Voor de tegemoetkoming van 486,00</strong><strong> euro</strong><br />moet u zich in een van de volgende situaties bevinden:<ul><li>voldoen aan de afhankelijkheidsvoorwaarden voor de toekenning van de <a href=\"https://www.uat-vlaanderen.be/integratietegemoetkoming-voor-personen-met-een-handicap\">integratietegemoetkoming voor personen met een handicap</a> (minstens 12 punten)</li><li>voldoen aan de afhankelijkheidsvoorwaarden voor de toekenning van de <a href=\"https://www.uat-vlaanderen.be/zorgbudget-voor-ouderen-met-een-zorgnood-vroeger-tegemoetkoming-voor-hulp-aan-bejaarden-genoemd\">zorgbudget voor ouderen met een zorgnood</a> met een handicap (minstens 12 punten)</li><li>recht hebben op een <a href=\"https://www.uat-vlaanderen.be/tegemoetkoming-voor-hulp-van-derden-bij-arbeidsongeschiktheid\">tegemoetkoming voor hulp van derden</a> (mindervaliden)</li><li>als invalide met gezinslast, recht hebben op een tegemoetkoming voor hulp van derden</li><li>als invalide zonder gezinslast, recht hebben op een uitkering als gerechtigde met gezinslast wegens een behoefte aan hulp van derden.</li></ul></li><li><strong>Voor de tegemoetkoming van 647,98</strong><strong> euro</strong><br />moet u minstens drie maanden recht hebben op het forfait B of C in het kader van de thuisverpleging.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Het zorgforfait wordt <strong>automatisch uitbetaald</strong> door uw ziekenfonds. Als dat toch niet het geval zou zijn en u denkt aan de voorwaarden te voldoen, neem dan contact op met uw <a href=\"https://riziv.fgov.be/nl/professionals/andere-professionals/ziekenfonds/Paginas/contacteer-ziekenfondsen.aspx\">ziekenfonds</a>.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"RIZIV - Forfait voor chronisch zieken"},"url":"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/ziekten/chronische-ziekten/Paginas/forfait-chronisch-zieken.aspx","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De jaarlijkse tegemoetkoming verschilt naargelang de mate van verlies van uw zelfredzaamheid en bedraagt in 2022:</p><ul><li>323,98 euro</li><li>486,00 euro</li><li>647,98 euro</li></ul><p>De tegemoetkoming wordt jaarlijks geïndexeerd.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:52.108649455Z","laatstGewijzigd":"2023-05-04T14:00:33.735510207Z","laatstOntvangen":"2023-05-04T14:00:33.735510207Z","productnummer":"894","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6ac7da1a-7898-4d93-a577-f0f97637c30c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bbbf3057-e2f2-478d-a5cc-64109448a77c"},{"id":"e45422f8-0369-4601-b4bf-291d5120713b","generatedAtTime":"2023-05-04T14:00:33.267063Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Tijdelijke inschrijving bij het ziekenfonds voor wie verblijft in België"},"beschrijving":{"nl":"<p>Mensen die uit het buitenland komen, hebben soms geen inkomen of kunnen niet direct werken. Om hen uit de nood te helpen, is het in een aantal gevallen mogelijk ze tijdelijk in te schrijven bij het ziekenfonds. Als ze ziek zijn, krijgen ze hun kosten terugbetaald.</p><p>Opgelet: dit is alleen voor noodsituaties en is dus niet de regel!</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["ziekenfonds"]},"bevoegdeOverheden":[{"id":"OVO004200","@id":"OVO004200"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>Woonplaats: hoofdverblijfplaats in België.</li><li>Rijksregister: iedereen die opgenomen is in het rijksregister van de natuurlijke personen, uitgezonderd de zelfstandigen en de kloosterlingen, kan zich aansluiten in de hoedanigheid van verblijvende in België.</li><li>Verblijfsvergunning: de vreemdelingen die niet van rechtswege tot een verblijf van meer dan drie maanden in het rijk zijn toegelaten of die niet zijn gemachtigd tot vestiging of tot een verblijf van meer dan 6 maanden, kunnen zich niet aansluiten als verblijvende in België. Op deze algemene regel bestaan enkele uitzonderingen (gelieve u te informeren bij het ziekenfonds).</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U vraagt de ziekteverzekering aan bij uw ziekenfonds.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-05-04T14:00:33.246201994Z","laatstGewijzigd":"2023-05-04T14:00:33.24620382Z","laatstOntvangen":"2023-05-04T14:00:33.24620382Z","productnummer":"893","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e45422f8-0369-4601-b4bf-291d5120713b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cfa73806-090b-4367-b40b-28d57fc678ac"},{"id":"1289bd7d-7107-4951-895a-8c46243f2220","generatedAtTime":"2023-05-04T14:00:33.017933Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Onkostenvergoeding voor vrijwilligerswerk"},"beschrijving":{"nl":"<p>Als vrijwilliger ontvangt u per definitie geen loon. Mogelijk krijgt u wel een onkostenvergoeding, maar u hebt daar niet automatisch recht op. Of u een onkostenvergoeding krijgt, beslist de organisatie waarvoor u vrijwilligerswerk verricht.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk","WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"zoektermen":{"nl":["kilometervergoeding","kostenvergoeding","vergoeding vrijwilligerswerk","vervoerskosten","vervoersonkosten","vrijwilligersloon","vrijwilligersvergoeding","vrijwilligerswerk"]},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De onkostenvergoeding compenseert alleen gemaakte kosten (maaltijden, drank, computer- en gsm-gebruik, ...) en is dus geen loon of inkomen. Maak aan het begin van het vrijwilligersengagement altijd duidelijke afspraken over de kostenvergoeding.</p><p>Meer informatie over over de <a href=\"http://www.vlaanderenvrijwilligt.be/wetgeving/kosten-en-vergoedingen\">basisprincipes van de kostenvergoedingen voor vrijwilligers</a> vindt u op de website van het Vlaams Steunpunt Vrijwilligerswerk.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"websites":[{"naam":{"nl":"Kostenvergoeding voor vrijwilligers"},"url":"http://www.vlaanderenvrijwilligt.be/wetgeving/kosten-en-vergoedingen","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De onkostenvergoeding voor vrijwilligerswerk is <a href=\"https://financien.belgium.be/nl/vzws/vrijwilligers\">niet belastbaar</a> en vrijgesteld van socialezekerheidsvoorwaarden, op voorwaarde dat u de <a href=\"http://www.vlaanderenvrijwilligt.be/wetgeving/kosten-en-vergoedingen\">maximumbedragen</a> respecteert.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-05-04T14:00:32.995322891Z","laatstGewijzigd":"2023-05-04T14:00:32.995324854Z","laatstOntvangen":"2023-05-04T14:00:32.995324854Z","productnummer":"888","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1289bd7d-7107-4951-895a-8c46243f2220","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5340b0ab-dfb3-45fb-be9f-05bdd6e55ad2"},{"id":"3f726b97-47f4-4f69-a1c7-151d7a3fca07","generatedAtTime":"2023-05-04T14:00:32.638714Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Voorrangskaart NMBS voor een zitplaats op de trein"},"beschrijving":{"nl":"<p>De NMBS-voorrangskaart is voor iedereen die het moeilijk heeft om lang recht te blijven staan. De voorrangskaart verzekert u een zitplaats op de trein en dit zonder extra kosten.</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["garantie","nmbs","voorrang","voorrangkaart","zitplaats"]},"bevoegdeOverheden":[{"id":"OVO003863","@id":"OVO003863"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>U bent om medische redenen lichamelijk niet in staat om lang recht te staan.</li><li>U bent in het bezit van een doktersattest voor de aanvraag.</li></ul>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<ul><li>Ingevuld aanvraagformulier.</li><li>Doktersattest waarin vermeld staat dat u niet lang rechtop mag staan, wat de medische oorzaken zijn en voor welke periode.</li><li>Identiteitskaart.</li><li>Recente pasfoto.</li></ul>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U kunt de voorrangskaart aan het <strong>NMBS-loket</strong> verkrijgen door het ingevulde <a href=\"https://cdn.belgiantrain.be/-/media/files/pdf/productfiches/nl/aanvraag-voorrangskaart-zitplaats.ashx\">aanvraagformulier</a> en de gevraagde documenten mee te brengen.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Voorrang op een zitplaats (NMBS)"},"url":"https://www.belgiantrain.be/nl/tickets-and-railcards/overview-discount/priority-seat","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De aanmaak van de voorrangskaart kost 5 euro.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:51.465525545Z","laatstGewijzigd":"2023-05-04T14:00:32.588866711Z","laatstOntvangen":"2023-05-04T14:00:32.588866711Z","productnummer":"884","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3f726b97-47f4-4f69-a1c7-151d7a3fca07","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5c2887d2-dbe3-4b0a-a6d5-0df0cd7fb16a"},{"id":"c79a1dc6-b17f-476e-9125-a8e7f196dee4","generatedAtTime":"2023-05-04T14:00:32.215633Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Verminderingskaart NMBS voor personen met een visuele handicap"},"beschrijving":{"nl":"<p>Personen met een visuele handicap hebben bij de NMBS recht op een nationale verminderingskaart voor het openbaar vervoer. Met de nationale verminderingskaart kunt u gratis met de trein reizen in tweede klas.</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["nationaal","nationale","nmbs","reductiekaart","verminderingkaart","verminderingskaart"]},"bevoegdeOverheden":[{"id":"OVO008217","@id":"OVO008217"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>Voor blinden en slechtzienden met een definitieve invaliditeit van tenminste 90% door een oogaandoening, erkend door de Federale Overheidsdienst.</li><li>Een begeleider kan de voordelen van de nationale verminderingskaart combineren met de voordelen van de <a href=\"https://www.uat-vlaanderen.be/kaart-voor-kosteloos-begeleiden-van-een-persoon-met-een-handicap-op-het-openbaar-vervoer\">kaart 'Kosteloze begeleider'</a>. De geleidehond wordt gratis vervoerd.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Bij uw <strong>gemeentebestuur </strong>kunt u een aanvraagformulier krijgen.</li><li>Dit vult u in en stuurt u naar de<br /><strong>Federale Overheidsdienst</strong> (FOD) <strong>Sociale Zekerheid</strong> - Directie-generaal Personen met een handicap.</li><li>U krijgt uw verminderingskaart met de post toegestuurd. </li></ul>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Blind of slechtziend (Verminderingskaart) (NMBS)"},"url":"https://www.belgiantrain.be/nl/tickets-and-railcards/overview-discount/blind","@type":"Website","order":0}],"creatie":"2023-03-24T06:10:51.143799908Z","laatstGewijzigd":"2023-05-04T14:00:32.183388487Z","laatstOntvangen":"2023-05-04T14:00:32.183388487Z","productnummer":"882","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c79a1dc6-b17f-476e-9125-a8e7f196dee4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fac636fd-49d7-49be-8169-5c5553e9d17e"},{"id":"98b4c738-4af0-4405-bfeb-6fb4aee1c816","generatedAtTime":"2023-05-04T14:00:31.819545Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Gratis tandverzorging tot 18 jaar"},"beschrijving":{"nl":"<p>Kinderen die jonger zijn dan 18 jaar hebben recht op gratis tandverzorging bij alle tandheelkundige behandelingen die de ziekteverzekering terugbetaalt. Dit geldt niet voor orthodontie.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["tandverzorging"]},"bevoegdeOverheden":[{"id":"OVO004200","@id":"OVO004200"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>Uw kind is jonger dan 18 jaar.</li><li>De tandheelkundige waar u naartoe gaat, past de conventietarieven van het RIZIV toe.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Als u het tandartsattest binnenbrengt bij het ziekenfonds, zult u ook het remgeld van de tandarts terugbetaald krijgen.</li><li>Als de tandarts de derdebetalersregeling toepast, moet u helemaal niets betalen en regelt de tandarts de betaling met de mutualiteit. Informeer u hierover wel eerst bij uw tandarts.</li></ul>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:10:50.698581418Z","laatstGewijzigd":"2023-05-04T14:00:31.797382964Z","laatstOntvangen":"2023-05-04T14:00:31.797382964Z","productnummer":"879","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/98b4c738-4af0-4405-bfeb-6fb4aee1c816","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a0c3ec59-8fa6-48d5-b8d3-f2645949abcc"},{"id":"12cb6ce5-9f5b-441c-8b6f-2cbecbe01f95","generatedAtTime":"2023-05-04T14:00:31.624903Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Tegemoetkoming voor pijnstillers voor chronisch zieken \t"},"beschrijving":{"nl":"<p>Chronische zieken kunnen rekenen op een tegemoetkoming van 75% voor bepaalde pijnstillers.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"zoektermen":{"nl":["chronische zieken","tegemoetkoming"]},"bevoegdeOverheden":[{"id":"OVO004200","@id":"OVO004200"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U lijdt aan:</p><ul><li>kankerpijn</li><li>chronische artritis/artrosepijn</li><li>neurogene of neuropatische pijn van centrale of perifere oorsprong (inbegrepen multiple sclerose)</li><li>perifere vasculaire pijn</li><li>postchirurgische pijn (inbegrepen fantoompijn)</li><li>fibromyalgi.</li></ul><p>De extra tegemoetkoming is er alleen voor <a href=\"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/door-ziekenfonds/geneesmiddel-gezondheidsproduct/terugbetalen/Paginas/terugbetaling-pijnstillers-chronische-pijnpatienten.aspx\">bepaalde pijnstillers</a>.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>​​​​​​Uw behandelende arts of de arts die uw globaal medisch dossier beheert, vraagt de machtiging voor de terugbetaling aan bij de adviserend geneesheer.</li><li><p>Als de adviserend geneesheer uw aanvraag goedkeurt, hebt u levenslang recht op de terugbetaling. </p></li><li><p>De adviserend arts levert een machtiging af aan u.</p></li><li>U toont de machtiging aan uw apotheker om de tegemoetkoming te krijgen.</li></ul>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Tegemoetkoming pijnstillers voor chronisch zieken"},"url":"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/door-ziekenfonds/geneesmiddel-gezondheidsproduct/terugbetalen/Paginas/terugbetaling-pijnstillers-chronische-pijnpatienten.aspx","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>U hebt recht op een tegemoetkoming van 75%.</p><p>Het bedrag van de pijnstillers dat u zelf nog moet betalen komt in aanmerking voor de <a href=\"https://www.uat-vlaanderen.be/maximumfactuur-maf-voor-medische-kosten\">maximumfactuur</a>.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:10:50.444266805Z","laatstGewijzigd":"2023-05-04T14:00:31.60092157Z","laatstOntvangen":"2023-05-04T14:00:31.60092157Z","productnummer":"869","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/12cb6ce5-9f5b-441c-8b6f-2cbecbe01f95","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c9753edb-5dd5-4a39-9cb1-56cd0176305b"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=89",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=90",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-04T14:00:44.86086Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=88",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-04T14:00:31.624903Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=89",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "e82ab7e7-c2c0-4b03-8b7c-84e720e3e9a9",
+      "generatedAtTime": "2023-05-04T14:00:44.86086Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Verblijfsvergoeding bij opleiding VDAB"
+      },
+      "beschrijving": {
+        "nl": "<p>Volgt u als werkzoekende een opleiding, een studie of een stage die erkend wordt door VDAB? Als de afstand tussen uw woonplaats en het opleidingscentrum te groot is om elke dag heen en weer te pendelen, kunt u een verblijfsvergoeding vragen. Dat is een tussenkomst voor een overnachting, een middagmaal en een avondmaal.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>U hebt bij gebruik van het openbaar vervoer meer dan 13 uur per dag nodig om van uw verblijfsplaats naar de opleidings- of stageplaats te gaan om er opleiding te volgen.</li><li>U keert maar één keer per week naar uw verblijfplaats terug.</li><li>U moet een contract van huurovereenkomst of bewijs van overnachting van de tijdelijke verblijfplaats kunnen voorleggen.</li><li>Uw tijdelijke verblijfplaats moet betalend zijn en moet zich op een redelijke afstand (max. 15 km, afhankelijk van de mogelijkheden in de buurt van het opleidingscentrum) van de opleidingsplaats of stageplaats bevinden.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Neem contact op met de cursistenadministratie van uw opleidingscentrum.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>U krijgt een forfaitaire vergoeding voor</p><ul><li>een middagmaal: 15 euro</li><li>een avondmaal: 15 euro</li><li>een overnachting: 50 euro.</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:44.841025679Z",
+      "laatstGewijzigd": "2023-05-04T14:00:44.84102707Z",
+      "laatstOntvangen": "2023-05-04T14:00:44.84102707Z",
+      "productnummer": "1426",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e82ab7e7-c2c0-4b03-8b7c-84e720e3e9a9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7e320ed6-04a6-4614-a923-ae622e91b6b1"
+    },
+    {
+      "id": "19ef35c1-f696-4c62-a5f6-b86a8cbd7f23",
+      "generatedAtTime": "2023-05-04T14:00:44.712514Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Fietsvergoeding"
+      },
+      "beschrijving": {
+        "nl": "<p>Verplaatst u zich van uw woonplaats naar het werk geheel of gedeeltelijk met de fiets? Dan kunt u misschien van uw werkgever een fietsvergoeding krijgen. Met de fietsvergoeding wil men het gebruik van de fiets voor woon-werkverplaatsingen stimuleren.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk",
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "fietsvergoeding",
+          "werkgever",
+          "werknemer",
+          "belasting",
+          "bedrag",
+          "maximumbedrag",
+          "woonwerkverkeer",
+          "woon-werkverkeer",
+          "sociale zekerheid",
+          "fietsvergoeding berekenen",
+          "fietsvergoeding aanvragen",
+          "fietsvergoeding per km",
+          "fietsvergoeding vlaamse overheid"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>De fietsvergoeding is een gunst van de werkgever aan de werknemer. De werkgever is niet verplicht ze toe te kennen.</li><li>De fietsvergoeding is <strong>vrijgesteld</strong> van inkomstenbelasting en sociale zekerheidsbijdragen<ul><li>als ze specifiek en uitdrukkelijk wordt toegekend voor effectieve verplaatsingen met de fiets: de fietsvergoeding moet op basis van het aantal afgelegde kilometers toegekend worden</li><li>tot een bedrag van 0,24 euro per kilometer (aanslagjaar 2021)<br />Wordt meer dan 0,24 euro toegekend, dan moet de werknemer het bedrag boven de 0,24 euro aangeven in zijn belastingaangifte. Werkgever en werknemer zullen socialezekerheidsbijdragen betalen voor het deel boven de 0,24 euro.</li></ul></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Fietsvergoeding (FOD Financiën)"
+          },
+          "url": "https://financien.belgium.be/nl/particulieren/vervoer/aftrek_vervoersonkosten/woon-werkverkeer/fiets",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De werkgever mag zelf het bedrag van de fietsvergoeding bepalen. Hij kan ook een maximumbedrag opleggen (bv. 0,24 euro per kilometer met een maximum van 50 euro per maand) of bepalen dat de vergoeding enkel voor de heen- of de terugreis geldt.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:44.692285107Z",
+      "laatstGewijzigd": "2023-05-04T14:00:44.692286356Z",
+      "laatstOntvangen": "2023-05-04T14:00:44.692286356Z",
+      "productnummer": "1734",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/19ef35c1-f696-4c62-a5f6-b86a8cbd7f23",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/35174ade-c807-4360-8c79-d6f7abbf174c"
+    },
+    {
+      "id": "4a231dfb-955e-4964-9f92-eed00ef9a414",
+      "generatedAtTime": "2023-05-04T14:00:44.562193Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Jaarlijkse aangifte van waterverbruik (grootverbruikers)"
+      },
+      "beschrijving": {
+        "nl": "<p>Wie veel water gebruikt (grootverbruiker), moet elk jaar een aangifte indienen. Die gegevens worden gebruikt voor de berekening van de <a href=\"https://www.uat-vlaanderen.be/heffing-op-de-waterverontreiniging\">heffing op de waterverontreiniging</a> en van de <a href=\"https://www.uat-vlaanderen.be/heffing-op-de-winning-van-grondwater\">heffing op de winning van grondwater</a>.</p>"
+      },
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "digitale aangifte heffingen",
+          "heffing waterverontreiging",
+          "heffing grondwater",
+          "aangifte indienen",
+          "indienen aangifte",
+          "invullen",
+          "digitaal",
+          "digitale",
+          "bestaat niet meer",
+          "stopgezet",
+          "failliet",
+          "overname",
+          "onderneming",
+          "waterheffing",
+          "wateraangifte",
+          "herinneringsbrief",
+          "toegangscode",
+          "aangifte water"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000092",
+          "@id": "OVO000092"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Een grootverbruiker moet <strong>elk jaar </strong>een aangifte van het waterverbruik indienen bij de Vlaamse Milieumaatschappij (VMM).<br />U bent een <strong>grootverbruiker </strong>als u minstens 500 kubieke meter water per jaar gebruikt</p><p>De aangifte moet ingediend worden</p><ul><li>via het <a href=\"https://www.vmm.be/water/heffingen/doe-je-aangifte\">online<strong> </strong>VMM-Heffingenloket</a></li><li>uiterlijk op 14 maart. </li></ul><p>Ook als het bedrijf is <strong>overgenomen </strong>of <strong>niet meer bestaat</strong> (stopzetting, faillissement, ...) moet de aangifte worden ingediend. Meer informatie hierover vindt u in punt 6.2 van de <a href=\"http://www.vmm.be/bestanden/Handleiding_Digitale_Aangifte_Heffingen_TW.pdf\">Aangifte-handleiding</a>.</p><p>Ook voor <strong>landbouwers </strong>gebeurt de aangifte via dat online VMM-heffingenloket (en dus niet meer via het Mestbankloket van de Vlaamse Landmaatschappij). De diergegevens worden onderling uitgewisseld tussen VLM en VMM.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>U krijgt een <strong>brief </strong>van de Vlaamse Milieumaatschappij (VMM) over de aangifte. Die brieven worden verstuurd rond 20 januari.</li><li>Ga naar het <a href=\"https://www.vmm.be/water/heffingen/doe-je-aangifte\">online heffingenloket</a>. Raadpleeg de <a href=\"http://www.vmm.be/bestanden/Handleiding_Digitale_Aangifte_Heffingen_TW.pdf\">Aangifte-handleiding</a> om de aangifte in te dienen.</li><li>Wie de aangifte online heeft ingediend, krijgt een <strong>bevestigingsmail</strong>, met daarin een kopie van de aangifte.</li><li>Wie <strong>te laat </strong>is, ontvangt per brief een <strong>ingebrekestelling</strong>. U krijgt de tijd om alsnog een aangifte in te dienen. De uiterste datum staat in de brief.</li><li>Hebt u de aangifte niet tijdig ingediend, dan krijgt u een brief van de VMM met een 'heffing van ambtswege'. Daarin doet de VMM een voorstel voor de berekening van de heffing. Als u hierop reageert binnen één maand, dan wordt er 10% heffingsverhoging aangerekend. Bij een laattijdige of geen reactie wordt een heffingsverhoging van 50% aangerekend.</li><li>Op de website van de VMM vindt u de volledige <a href=\"https://www.vmm.be/water/heffingen/procedure-aangifte\">procedure</a>.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:55.426437414Z",
+      "laatstGewijzigd": "2023-05-04T14:00:44.542767606Z",
+      "laatstOntvangen": "2023-05-04T14:00:44.542767606Z",
+      "productnummer": "1476",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4a231dfb-955e-4964-9f92-eed00ef9a414",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fa4b0dde-093c-493f-8c78-8b1f3d687fad"
+    },
+    {
+      "id": "cd5c5791-ba34-4673-9555-7da14fd38203",
+      "generatedAtTime": "2023-05-04T14:00:43.944637Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie teelt van vezelvlas met verminderde bemesting"
+      },
+      "beschrijving": {
+        "nl": "<p>De teelt van vezelvlas is een duurzame teelt. Er worden zeer weinig gewasbeschermingsmiddelen gebruikt. Bovendien hebben de teelten niet veel nutriënten nodig. De druk op het milieu blijft daardoor zeer beperkt.</p><p>De bijkomende eis om geen stikstofbemesting toe te passen, versterkt het milieuvriendelijke karakter van de teelt nog. Bovendien genereert vezelvlas een langetermijnopslag van koolzuurgas (CO2) in duurzame materialen zoals textiel, bouwmaterialen en composietmaterialen. Zo draagt deze teelt bij aan de strijd tegen klimaatverandering.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Alle voorwaarden die u moet naleven voor deze maatregel, vindt u in de fiche '<a href=\"https://lv.vlaanderen.be/sites/default/files/attachments/fiche_subsidie_vezelvlas_met_verminderde_bemesting.pdf\">Subsidie teelt van vezelvlas met verminderde bemesting</a>'. Voor bijkomende informatie kunt u terecht bij de <a href=\"https://lv.vlaanderen.be/nl/home/over-ons/departement-landbouw-en-visserij/inkomenssteun#buitendiensten\">buitendiensten van de afdeling Inkomenssteun</a> van het Departement Landbouw en Visserij.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>In de fiche '<a href=\"https://lv.vlaanderen.be/sites/default/files/attachments/fiche_subsidie_vezelvlas_met_verminderde_bemesting.pdf\">Subsidie teelt van vezelvlas met verminderde bemesting</a>' leest u hoe u de subsidie kunt aanvragen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Teelt van vezelvlas met verminderde bemesting"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies/agromilieuverbintenissen/teelt-van-vezelvlas-met-verminderde-bemesting-pdpo-iii",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De subsidie voor de teelt van vezelvlas met verminderde bemesting bedraagt jaarlijks 240 euro per hectare.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:43.920161935Z",
+      "laatstGewijzigd": "2023-05-04T14:00:43.920163216Z",
+      "laatstOntvangen": "2023-05-04T14:00:43.920163216Z",
+      "productnummer": "1419",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cd5c5791-ba34-4673-9555-7da14fd38203",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/9d2ad69e-49b8-473a-af5a-50b43ed873ec"
+    },
+    {
+      "id": "fdde5d65-3aeb-4200-a7e4-d13226bfc016",
+      "generatedAtTime": "2023-05-04T14:00:43.764681Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie teelt van vezelhennep met verminderde bemesting"
+      },
+      "beschrijving": {
+        "nl": "<p>De teelt van vezelhennep is een duurzame teelt. Er worden zeer weinig gewasbeschermingsmiddelen gebruikt. Bovendien hebben de teelten niet veel nutriënten nodig. De druk op het milieu blijft daardoor zeer beperkt.</p><p>De bijkomende eis om geen stikstofbemesting toe te passen, versterkt het milieuvriendelijke karakter van de teelt nog. Bovendien genereert vezelhennep een langetermijnopslag van koolzuurgas (CO2) in duurzame materialen zoals textiel, bouwmaterialen en composietmaterialen. Zo draagt deze teelt bij aan de strijd tegen klimaatverandering.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Alle voorwaarden die u moet naleven voor deze maatregel, vindt u in de fiche ‘<a href=\"https://lv.vlaanderen.be/sites/default/files/attachments/fiche_subsidie_vezelhennep_met_verminderde_bemesting.pdf\">Subsidie teelt van vezelhennep met verminderde bemesting</a>’. Voor bijkomende informatie kunt u terecht bij de <a href=\"https://lv.vlaanderen.be/nl/home/over-ons/departement-landbouw-en-visserij/inkomenssteun#buitendiensten\">buitendiensten van de afdeling Inkomenssteun</a> van het Departement Landbouw en Visserij.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>In de fiche ‘<a href=\"https://lv.vlaanderen.be/sites/default/files/attachments/fiche_subsidie_vezelhennep_met_verminderde_bemesting.pdf\">Subsidie teelt van vezelhennep met verminderde bemesting</a>’ leest u hoe u de subsidie kunt aanvragen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Teelt van vezelhennep met verminderde bemesting"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies/agromilieuverbintenissen/teelt-van-vezelhennep-met-verminderde-bemesting-pdpo-iii",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De subsidie voor de teelt van vezelhennep met verminderde bemesting bedraagt jaarlijks 140 euro per hectare.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:43.744440853Z",
+      "laatstGewijzigd": "2023-05-04T14:00:43.744442326Z",
+      "laatstOntvangen": "2023-05-04T14:00:43.744442326Z",
+      "productnummer": "1420",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fdde5d65-3aeb-4200-a7e4-d13226bfc016",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/da761880-cadd-492b-83f2-789b58d65a7e"
+    },
+    {
+      "id": "c1b2820d-9527-4c60-9446-41f7903a084b",
+      "generatedAtTime": "2023-05-04T14:00:43.580847Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Vrijstelling van doorstorting van bedrijfsvoorheffing"
+      },
+      "beschrijving": {
+        "nl": "<p>Werkgevers kunnen in bepaalde gevallen gedeeltelijk worden vrijgesteld om de verschuldigde bedrijfsvoorheffing op de lonen van bepaalde werknemers door te storten aan de fiscus. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "nachtarbeid",
+          "ploegenarbeid",
+          "IPA",
+          "IPA-korting",
+          "steunzone",
+          "ontwrichte",
+          "zone",
+          "onderzoekers",
+          "overwerk",
+          "overuren",
+          "startersjobs"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Op de website van het Agentschap Innoveren en Ondernemen leest u <a href=\"https://www.vlaio.be/nl/subsidies-financiering/subsidiedatabank/vrijstelling-doorstorting-bedrijfsvoorheffing\">welke bedrijven in aanmerking komen en voor welke investeringen</a>.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:43.52737132Z",
+      "laatstGewijzigd": "2023-05-04T14:00:43.527372991Z",
+      "laatstOntvangen": "2023-05-04T14:00:43.527372991Z",
+      "productnummer": "1412",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c1b2820d-9527-4c60-9446-41f7903a084b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/af977d8f-9211-4189-a661-6122e67fbbfa"
+    },
+    {
+      "id": "159d9bc1-4807-407e-aa01-631c207e0636",
+      "generatedAtTime": "2023-05-04T14:00:43.092449Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Stopgezet - Premie voor na-isolatie van een buitenmuur langs de binnenzijde (Fluvius)"
+      },
+      "beschrijving": {
+        "nl": "<p>Tot 30-6-2022 kon u, als u een buitenmuur van uw woning of appartement liet <a href=\"https://www.uat-vlaanderen.be/investeren-in-energiebesparing/isolatie-en-luchtdichtheid/muurisolatie\">isoleren langs de binnenzijde</a>, bij Fluvius daarvoor een premie aanvragen.</p><p>Deze premie is<strong> stopgezet </strong>en <strong>sinds 1 juli 2022 </strong>een onderdeel geworden van <strong>Mijn VerbouwPremie</strong>, zie <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-buitenmuur\">Mijn VerbouwPremie voor buitenmuur</a><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-vloer\">.</a> Hebt u al investeringen gedaan én nog geen premie bij Fluvius aangevraagd? Bekijk de voorwaarden van <a href=\"https://www.vlaanderen.be/mijnverbouwpremie\">Mijn VerbouwPremie</a> om te zien of u in aanmerking komt.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Energiebesluit van 19 november 2010</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "binnenmuur",
+          "binnenmuren",
+          "REG-premie",
+          "energie",
+          "energiebesparing",
+          "energiepremie",
+          "energiepremies",
+          "muren",
+          "muurisolatie",
+          "binnenmuurisolatie",
+          "binnenzijde",
+          "binnenisolatie",
+          "buitenmuur",
+          "buitenmuren",
+          "binnenisolatie van buitenmuren"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Deze premie was er alleen voor woningen, appartementen of appartementsgebouwen in het Vlaamse gewest die vóór 1-1-2006 werden aangesloten op het elektriciteitsnet.</li><li>De isolatie van nieuw aangebouwde deelconstructies kwam ook in aanmerking voor de premie. Bij volledige herbouw (=nieuwbouw) gold de premie niet.</li><li>Het aanvraagformulier moest bij Fluvius (de elektriciteitsnetbeheerder) aankomen (met eindfactuur vanaf 1-7-2020) uiterlijk 24 maanden na de eindfactuurdatum.<br />Met een eindfactuur tot 30-6-2020 kon u geen premie meer aanvragen.</li><li>De werken moesten uitgevoerd en gefactureerd worden door een aannemer.</li><li>Een architect moest de werken begeleiden en de uitvoering van de werken controleren<br />of de aannemer (zaakvoerder of een van zijn medewerkers) moest een certificaat van bekwaamheid hebben of een certificaat van bekwaamheid als aspirant. Raadpleeg de <a href=\"https://assets.vlaanderen.be/image/upload/v1677570965/Lijst_gecertificeerde_aannemers_binnenisolatie_van_muren_iitfmc.pdf\">lijst met gecertificeerde aannemers van het Vlaams Energie- en Klimaatagentschap</a>.</li><li>Alle voorwaarden en technische eisen (Rd-waarde, lambdawaarde, ...) staan op het <a href=\"https://www.fluvius.be/nl/publicatie/buitenmuurisolatie-huishoudelijke-premie-2022-informatieblad\">Informatieblad 2022 van Fluvius</a>.</li><li>Vanaf 2021 (eindfactuur) was er een verhoogde premie voor huishoudelijke eindafnemers die op het elektriciteitsdistributienet zijn aangesloten met toepassing van uitsluitend nachttarief.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li><strong>U kunt deze premie niet meer aanvragen.</strong></li><li>Als uw aanvraag wordt goedgekeurd, volgt de uitbetaling binnen de 6 maanden.</li><li>U kunt de status van uw aanvraag opvolgen in ‘Mijn Fluvius’.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<div data-table=\"\"><table><tbody><tr><td>Eindfactuur in</td><td>Premie isolatie<br />van de buitenmuur langs de binnenzijde</td></tr><tr><td><p>2020</p></td><td>15 euro per m<sup>2 </sup></td></tr><tr><td>2021</td><td>15 euro per m<sup>2</sup></td></tr><tr><td>2021 - Klant met<br />'uitsluitend nachttarief'</td><td>22,5 euro per m<sup>2</sup></td></tr></tbody></table></div><p>Beschermde afnemers konden een hogere premie krijgen. <a href=\"https://www.uat-vlaanderen.be/voordelen-en-premies-voor-beschermde-afnemers\">Beschermde afnemers</a> zijn personen die recht hebben op de sociale maximumprijzen voor elektriciteit en aardgas. Een beschermde afnemer kreeg 22,5 euro per m² geïsoleerde muuroppervlakte. Dit bedrag gold in 2021 ook in geval van 'uitsluitend nachttarief'.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:54.731457599Z",
+      "laatstGewijzigd": "2023-05-04T14:00:43.01072648Z",
+      "laatstOntvangen": "2023-05-04T14:00:43.01072648Z",
+      "productnummer": "1398",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/159d9bc1-4807-407e-aa01-631c207e0636",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/564f6bba-4009-49eb-9569-08bdce0fe8d6"
+    },
+    {
+      "id": "6d826424-b5a6-4249-b910-26d45f920a6a",
+      "generatedAtTime": "2023-05-04T14:00:42.412779Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Certificaat van bekwaamheid voor muurisolatie langs de binnenzijde",
+        "en": "Certificate of competence for post-insulation of external walls from the inside"
+      },
+      "beschrijving": {
+        "en": "<p>A contractor who post-insulates external walls from the inside can obtain a ‘certificate of competence’ after having attended the relevant training course and passed an examination.</p><p>Anyone who wants to request a subsidy from Fluvius for post-insulation of external walls from the inside must</p><ul><li>either hire an <strong>architect</strong> to supervise the works and monitor their execution</li><li>or have the work done by a <strong>contractor</strong> who holds a certificate of competence.</li></ul>",
+        "nl": "<p>Een aannemer die buitenmuren langs de binnenzijde na-isoleert, kan na het volgen van een opleiding en het slagen in een examen een 'certificaat van bekwaamheid' behalen.</p><p>Wie <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-buitenmuur\">Mijn Verbouwpremie voor buitenmuur</a> voor muurisolatie langs de binnenzijde wil aanvragen moet</p><ul><li>of een <strong>architect</strong> inschakelen die de werken begeleidt en de uitvoering van de werken controleert</li><li>of de werken laten doen door een <strong>aannemer</strong> met een certificaat van bekwaamheid.</li></ul>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "en": "<p>Anyone who wishes to obtain a ‘certificate of competence’ must:</p><ul><li>attend an accredited training course</li><li>pass an accredited examination</li><li>have at least 1 month of practical experience.</li></ul><p>The certificate is valid <strong>for 7 years</strong>.</p>",
+            "nl": "<p>Wie een 'certificaat van bekwaamheid' wil verkrijgen, moet:</p><ul><li>een erkende opleiding volgen</li><li>slagen voor een erkend examen</li><li>minimaal 1 maand aan praktijkervaring hebben</li></ul><p>Het certificaat is <strong>7 jaar</strong> geldig.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Requirements"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>You can choose to attend a short (at least 1 hour) or a long training course (at least 7 hours). You can take the examination twice before you are required to attend the training course again. If you fail the examination twice, you are required to attend the long training course before you can sit the examination again.</p><p>The Energy and Climate Agency of Flanders (VEKA) offers a non-mandatory orientation test to check whether your ready knowledge is sufficient for you to only attend the short training course.</p><p>For practical information about <strong>dates, enrolment, tuition fees</strong>, etc. you can contact the <strong>training institution</strong> itself. On the website energiesparen.be you can find a list of training institutions that offer this training course.</p>",
+            "nl": "<p>Er wordt een korte (minstens 1 uur) en lange opleiding (minstens 7 uur) voorzien. U kunt maximaal 2 keer deelnemen aan het examen alvorens de opleiding opnieuw te moeten volgen. Bij 2 keer niet slagen moet u de lange opleiding volgen voor u opnieuw kunt deelnemen aan het examen.</p><p>Door het Vlaams Energie- en Klimaatagentschap (VEKA) wordt een vrijblijvende <a href=\"https://candidate.speedexam.net/openquiz.aspx?quiz=F031002B924E4A3187577D0A018D5976\">oriëntatietest</a> aangeboden om na te gaan of de beschikbare kennis voldoende is om enkel de korte opleiding te volgen.</p><p>Voor praktische informatie over de <strong>data, inschrijvingen, inschrijvingsgeld</strong>,... kunt u contact opnemen met de <strong>opleidingsinstelling</strong> zelf. Op energiesparen.be vindt u een <a href=\"https://www.energiesparen.be/binnenisolatie/aannemers\">overzicht van opleidingsinstellingen</a> die deze opleiding aanbieden.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Hoe kan ik mij laten certificeren als aannemer voor muurisolatie langs binnenkant? (op Energiesparen.be)",
+            "en": "Hoe kan ik mij laten certificeren als aannemer voor muurisolatie langs binnenkant? (op Energiesparen.be)"
+          },
+          "url": "https://www.energiesparen.be/binnenisolatie/aannemers",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:42.323636313Z",
+      "laatstGewijzigd": "2023-05-04T14:00:42.323637949Z",
+      "laatstOntvangen": "2023-05-04T14:00:42.323637949Z",
+      "productnummer": "1729",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6d826424-b5a6-4249-b910-26d45f920a6a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/1a20a369-aed0-46e1-b768-5b5d856be405"
+    },
+    {
+      "id": "64c94751-c46c-4567-baed-11a8dd8c721a",
+      "generatedAtTime": "2023-05-04T14:00:38.197304Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vrijstelling van de jaarlijkse verkeersbelasting en de BIV voor milieuvriendelijke voertuigen"
+      },
+      "beschrijving": {
+        "nl": "<p>Bepaalde milieuvriendelijkere brandstoftypes worden tijdelijk of onbeperkt in tijd vrijgesteld van de <a href=\"https://www.uat-vlaanderen.be/niet-aan-te-geven-voertuigen\">jaarlijkse verkeersbelastingen</a> en de belasting op inverkeerstelling (BIV).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "uitzonderingen": {
+        "nl": "<p>Deze vrijstelling geldt <strong>niet</strong> voor <strong>leasingvoertuigen</strong>.</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "tijdelijke",
+          "vrijstelling",
+          "cng",
+          "hybride",
+          "aardgas",
+          "uitstoot",
+          "elektrische",
+          "voertuigen",
+          "cng-wagen",
+          "plug in hybride",
+          "verkeersbelasting",
+          "biv"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<h3>Onbeperkte vrijstelling sinds aanslagjaar 2016 voor volgende brandstoftypes:</h3><ul><li><p>Puur elektrisch</p></li><li><p>Puur waterstof</p></li></ul><h3>Tijdelijke vrijstelling sinds aanslagjaar 2016 tot 31-12-2020 voor volgende brandstoftypes: </h3><ul><li><strong>Aardgas (CNG/LNG) moeten aan volgende voorwaarden voldoen:</strong><ul><li>Het voertuig wordt geheel of gedeeltelijk aangedreven met aardgas.</li><li><strong>Opgelet</strong>: Voertuigen met een belastbaar vermogen groter dan 11 fiscale pk (vanaf 2151 cc) en die ingeschreven zijn <strong>sinds 1 juli 2017 </strong>hebben geen recht op deze vrijstelling. De BIV voor deze voertuigen wordt wel forfaitair verminderd met 4000 euro.</li></ul></li><li><strong>Plug-in hybride elektrische voertuigen moeten aan volgende voorwaarden voldoen:</strong><ul><li>Noodzaak om batterij met stekker te kunnen opladen</li><li>Het voertuig mag een uitstoot hebben van maximum 50g CO2/km.</li></ul></li></ul><h3><strong>Tijdelijke vrijstelling jaarlijkse verkeersbelasting voor bepaalde aardgas- en plug-in hybride voertuigen</strong> loopt af op 31-<strong>12-2020:</strong></h3><ul><li>Voertuigen op aardgas met maximaal 11 fiscale PK of plug-in hybride-voertuigen met een maximale uitstoot van 50 g CO2 die vanaf 1 januari 2021 ingeschreven worden, worden niet meer vrijgesteld van jaarlijkse verkeersbelasting en de belasting op de inverkeerstelling.</li><li>Uiterlijk <strong>op 31 december ingeschreven voertuigen</strong> blijven vrijgesteld van jaarlijkse verkeersbelasting zolang ze op dezelfde eigenaar ingeschreven blijven. Het maakt daarbij niet uit of het om nieuwe of tweedehandsvoertuigen gaat.</li></ul><p><strong>Uitzondering voor nieuwe voertuigen besteld voor 12 oktober 2020</strong></p><ul><li>Voor voertuigen die worden <strong>besteld vóór 12 oktober 2020</strong>, maar pas worden <strong>ingeschreven na 31 december 2020</strong>, kan de eigenaar nog een vrijstelling aanvragen.</li><li>U moet daarvoor voor 15 januari 2021 het<a href=\"https://www.uat-vlaanderen.be/formulieren-verkeersbelastingen\"> aanvraagformulier</a> opsturen naar de Vlaamse Belastingdienst, samen met een kopie van de bestelbon die bewijst dat de bestelling gebeurde voor 12 oktober 2020.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Als uw voertuig in aanmerking komt voor deze vrijstelling, dan wordt de vrijstelling <strong>automatisch </strong>toegekend en ontvangt u geen aanslagbiljet meer.</p><p>Is dat <strong>niet het geval</strong> en denkt u toch recht hebt op deze vrijstelling? Dan kunt u <a href=\"http://www.vlaanderen.be/bezwaar-indienen-tegen-een-belasting\">een schriftelijk of online bezwaar indienen</a> bij de Vlaamse Belastingdienst. </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Als u de vrijstelling geniet, dan moet u de jaarlijkse verkeersbelasting en de BIV niet meer betalen.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:38.176646828Z",
+      "laatstGewijzigd": "2023-05-04T14:00:38.176648851Z",
+      "laatstOntvangen": "2023-05-04T14:00:38.176648851Z",
+      "productnummer": "1460",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/64c94751-c46c-4567-baed-11a8dd8c721a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/800d2ce7-3d30-4798-a641-71e016f6831e"
+    },
+    {
+      "id": "1f214c3b-ceab-41e0-96e0-87eec393fc29",
+      "generatedAtTime": "2023-05-04T14:00:37.520637Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Aanloopsteun voor de ontwikkeling van kleine landbouwbedrijven"
+      },
+      "beschrijving": {
+        "nl": "<p>Het Vlaams Landbouwinvesteringsfonds (VLIF) wil kleine landbouwbedrijven die zich verder willen ontwikkelen, met financiële stimuli ondersteunen. Voor bepaalde types van bedrijven en subsectoren is het niet haalbaar te voldoen aan de voorwaarden om de overnamesteun voor jonge landbouwers of de investeringssteun van het VLIF te krijgen. Dikwijls zijn het bedrijven die nieuwe teelten of alternatieve vormen van productiemethodes en commercialisatiestructuren ontwikkelen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 2 oktober 2015 betreffende steun aan de niet-productieve investeringen en aan de ontwikkeling van de kleine landbouwbedrijven.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De precieze voorwaarden voor de VLIF-aanloopsteun voor ontwikkeling van kleine landbouwondernemingen vindt u op de website.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Alle VLIF-steunaanvragen gebeuren via het <a href=\"https://www.landbouwvlaanderen.be\">e-loket</a> Landbouw en Visserij. Na het afsluiten van een indienperiode of blokperiode worden alle aangemelde steunaanvragen gerangschikt van hoog naar laag op basis van een doelmatigheidsscore. De score weerspiegelt de bijdrage tot de realisatie van de doelstellingen van de VLIF-maatregel.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Aanloopsteun voor ontwikkeling van kleine landbouwondernemingen"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies/vlif-steun/vlif-aanloopsteun-voor-ontwikkeling-van-kleine-landbouwondernemingen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De ontwikkeling van kleine landbouwbedrijven wordt gesubsidieerd in de vorm van een aanlooppremie. De premie is afhankelijk van het brutobedrijfsresultaat (BBR) van uw bedrijf. U vindt de precieze bedragen op de website.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:37.500425513Z",
+      "laatstGewijzigd": "2023-05-04T14:00:37.500427589Z",
+      "laatstOntvangen": "2023-05-04T14:00:37.500427589Z",
+      "productnummer": "1550",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1f214c3b-ceab-41e0-96e0-87eec393fc29",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4cc58ffb-8339-47ed-a531-f841d84d1840"
+    },
+    {
+      "id": "6f88b831-f754-4f55-a2ca-74c9740e82f4",
+      "generatedAtTime": "2023-05-04T14:00:37.290269Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Niet-productieve investeringssteun land- en tuinbouwers"
+      },
+      "beschrijving": {
+        "nl": "<p>Het Vlaams Landbouwinvesteringsfonds (VLIF) wil landbouwers met financiële stimuli ertoe aanmoedigen investeringen te doen die bijdragen aan een verbetering van de biodiversiteit en de kwaliteit van landschap, bodem en water. Het gaat vooral om investeringen in natuur- en landschapsbeheer, die van de landbouwer wel inspanningen vergen maar op geen enkele manier inkomsten opleveren. Ook investeringen in erosiebestrijding en waterbeheer komen in aanmerking. Daar plukken niet zozeer de individuele landbouwers, maar veeleer de buurtbewoners, de maatschappij of het ecosysteem de vruchten van.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 2 oktober 2015 betreffende steun aan de niet-productieve investeringen en aan de ontwikkeling van de kleine landbouwbedrijven.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De precieze voorwaarden voor de niet-productieve investeringssteun voor land- en tuinbouwers vindt u op de website.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Alle VLIF-steunaanvragen verlopen via het <a href=\"https://www.landbouwvlaanderen.be\">e-loket</a> voor Landbouw en Visserij.</p><p>Na het afsluiten van een indienperiode of blokperiode worden alle aangemelde niet-productieve investeringen gerangschikt van hoog naar laag, op basis van een doelmatigheidsscore. De score weerspiegelt de bijdrage aan de realisatie van de doelstellingen van de VLIF-maatregel.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Steun voor niet-productieve investeringen op het landbouwbedrijf"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies/vlif-steun/niet-productieve-investeringssteun",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De investeringssteun heeft de vorm van een kapitaalpremie en kan maximaal 100 procent van de aanvaardbare investeringskosten omvatten. Het subsidiabele bedrag van de investering waarvoor de steun gevraagd wordt, kan beperkt worden op basis van maximale subsidiabele investeringsbedragen per oppervlakte- of lengte-eenheid of per stuk.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:37.268065142Z",
+      "laatstGewijzigd": "2023-05-04T14:00:37.268066934Z",
+      "laatstOntvangen": "2023-05-04T14:00:37.268066934Z",
+      "productnummer": "1377",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6f88b831-f754-4f55-a2ca-74c9740e82f4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/470f741f-028a-45ac-81bc-0d44fa043866"
+    },
+    {
+      "id": "9cdc3c33-a1b5-4d4a-a559-5aa699ac731c",
+      "generatedAtTime": "2023-05-04T14:00:36.796621Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Certificaat van bekwaamheid voor installateurs van groene-energiesystemen"
+      },
+      "beschrijving": {
+        "nl": "<p>Een installateur van systemen voor groene energie met minstens 1 maand ervaring kan na het volgen van een opleiding en het slagen in een examen, een ‘<strong>certificaat van bekwaamheid</strong>’ behalen.</p><p>Wil een klant <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-warmtepomp\">Mijn VerbouwPremie voor warmtepomp</a>, <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-zonneboiler\">Mijn VerbouwPremie voor zonneboiler</a> of de <a href=\"https://www.uat-vlaanderen.be/premie-van-fluvius-voor-zonnepanelen\">premie van Fluvius voor zonnepanelen</a> aanvragen? Dan moet die het systeem laten installeren door een <a href=\"https://www.uat-vlaanderen.be/groene-energie-installateurs-met-certificaat-van-bekwaamheid-rescert\">installateur met een certificaat van bekwaamheid</a>. Ofwel is de installateur zelf gecertificeerd, ofwel wordt de installatie gecontroleerd door een gecertificeerde installateur.</p><ul><li>Voor de warmtepomppremie en de zonneboilerpremie moet op het <strong>attest dat de aannemer aan de klant geeft</strong>, het RESCert-certificeringsnummer vermeld worden van de aannemer met een certificaat van bekwaamheid of van de aannemer die de controle heeft uitgevoerd.</li><li>Voor de premie van Fluvius voor zonnepanelen moet het RESCert-nummer van de aannemer ingevuld worden tijdens de online aanvraag door de klant.</li></ul>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "RESCERT",
+          "bekwaamheidscertificaat",
+          "certificaten",
+          "certificatie",
+          "groene energie",
+          "hernieuwbare energie",
+          "Groene-energie-installateurs"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Wie een 'certificaat van bekwaamheid' wilt verkrijgen, moet:</p><ul><li>een erkende <strong>opleiding</strong> volgen in een van de zes categorieën:<ul><li>zonnepanelen: <strong>fotovoltaïsche installaties</strong>, inclusief integratie in de dakbedekkingen</li><li><strong>zonthermische installaties</strong> voor sanitair warm water, inclusief integratie in de dakbedekkingen</li><li><strong>zonthermische installaties</strong> voor gecombineerde systemen (sanitair warm water en verwarming), inclusief integratie in de dakbedekkingen</li><li>gecentraliseerde <strong>biomassa-installaties</strong> (verwarming en/of sanitair warm water)</li><li><strong>warmtepompen </strong>(verwarming met of zonder sanitair warm water) met uitzondering van ondiepe geothermische systemen</li><li>ondiepe geothermische systemen.</li></ul></li><li>én slagen voor een erkend <strong>examen</strong></li><li>én voldoen aan de <strong>toekenningsvoorwaarden</strong></li><li>én minstens <strong>1 maand</strong> ervaring hebben.</li></ul><p>Het certificaat is <strong>7 jaar geldig.</strong></p><p>Op de website van RESCert vindt u <a href=\"https://rescert.be/nl\">meer informatie over opleidingen, examen en toekenningsvoorwaarden</a>.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Het certificaat kan men <a href=\"https://rescert.be/nl\">online aanvragen</a> tot uiterlijk 12 maanden na de datum van het examen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Certificaat van bekwaamheid - Info installateurs (op Energiesparen.be)"
+          },
+          "url": "https://www.energiesparen.be/groene-energie-en-wkk/prof/bekwaamheid-installateurs",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Een certificaat kost <strong>250 euro (excl. btw)</strong>.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:36.776020117Z",
+      "laatstGewijzigd": "2023-05-04T14:00:36.776022376Z",
+      "laatstOntvangen": "2023-05-04T14:00:36.776022376Z",
+      "productnummer": "1708",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9cdc3c33-a1b5-4d4a-a559-5aa699ac731c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/036687e1-b533-4e30-8d9e-553bc63d0e3b"
+    },
+    {
+      "id": "2c612f2f-c49f-4d00-94bf-bd11ace0ecbc",
+      "generatedAtTime": "2023-05-04T14:00:36.353761Z",
+      "naam": {
+        "nl": "Gedwongen opname of collocatie"
+      },
+      "beschrijving": {
+        "nl": "<p>Gedwongen opname (soms collocatie genoemd) is bedoeld als beschermingsmaatregel. Wie een gevaar vormt voor zichzelf of voor anderen kan tot opname in een psychiatrische afdeling gedwongen worden.</p><p>Een gedwongen opname is in eerste instantie slechts mogelijk voor maximum 40 dagen. Daarna kan door de vrederechter of procureur beslist worden tot verlenging van de opname. Concreet wordt er dikwijls al na 10 dagen een evaluatie gedaan door de vrederechter of procureur. Als er dan geen 'geestesziekte' kan worden vastgesteld, dan wordt de betreffende persoon terug vrij gelaten.</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "collocatie"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001717",
+          "@id": "OVO001717"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>In volgende gevallen is het mogelijk om over te gaan tot een gedwongen opname of 'collocatie':</p><ul><li>iemand gedraagt zich zo agressief dat er ernstig gevaar is voor anderen in de omgeving</li><li>iemand brengt zijn eigen gezondheid en veiligheid zeer ernstig in gevaar</li><li>er is sprake van een 'geestesziekte'. De wet geeft hier geen definitie over, een medisch expert bepaalt of iemand geestesziek is.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Er zijn twee procedures, een gewone procedure en een spoedprocedure.</p><h3>Gewone procedure</h3><p>De gewone procedure voor gedwongen opname start met het indienen van een verzoekschrift bij de vrederechter. Aan dit verzoekschrift moet een medisch verslag worden toegevoegd (bijvoorbeeld van de huisarts). Binnen de 24 uur na de indiening van het verzoekschrift bepaalt de vrederechter de dag en het uur van zijn bezoek aan de persoon wiens opname wordt gevraagd.</p><h3>Spoedprocedure</h3><p>Er kan een spoedprocedure worden opgestart als er sprake is van een acute situatie of van hoogdringendheid.</p><p>De politie neemt in dat geval contact op met de Procureur des Konings.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:36.314784616Z",
+      "laatstGewijzigd": "2023-05-04T14:00:36.314787253Z",
+      "laatstOntvangen": "2023-05-04T14:00:36.314787253Z",
+      "productnummer": "1806",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2c612f2f-c49f-4d00-94bf-bd11ace0ecbc",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d231153f-fffb-4f2b-9149-787c4601db6c"
+    },
+    {
+      "id": "13d5705a-621f-4a63-b2ab-6a7b87a13964",
+      "generatedAtTime": "2023-05-04T14:00:36.16974Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning en subsidiëring van de verenigingen waar armen het woord nemen"
+      },
+      "beschrijving": {
+        "nl": "<p>Meer dan één op tien mensen in Vlaanderen heeft een inkomen lager dan de armoederisicogrens. Armoede is niet enkel een kwestie van inkomen. Armoede is een netwerk van sociale uitsluitingen op verschillende levensdomeinen die intens met elkaar verweven zijn, zoals onderwijs, werk, vrijetijdsbesteding, huisvesting en gezondheid, …</p><p>Armoedebestrijding moet dan ook gericht zijn op een volwaardige participatie aan de samenleving. Iedereen moet ten volle kunnen genieten van alle sociale grondrechten.</p><p>Participatie staat centraal in het Vlaams armoedebestrijdingsbeleid. Om die participatie te bereiken, wordt gewerkt met verenigingen waar armen het woord nemen. Deze verenigingen zoeken armen op, brengen ze samen in groep, geven armen het woord, werken aan de maatschappelijke emancipatie van armen, werken aan maatschappelijke structuren en vormingsactiviteiten en organiseren dialoog. Ter ondersteuning van het participatieproces van armen aan het armoedebestrijdingsbeleid heeft de Vlaamse Regering een overeenkomst afgesloten met het <a href=\"https://www.armoede.vlaanderen.be/vlaams-netwerk-van-verenigingen-waar-armen-het-woord-nemen#:~:text=Het%20Vlaams%20Netwerk%20van%20verenigingen,mensen%20in%20armoede%20te%20organiseren.\">Vlaams netwerk van verenigingen waar armen het woord nemen</a>.</p><p>Daarnaast is ook <a href=\"https://www.delinkarmoede.be\">vzw De Link</a> erkend voor de coördinatie en toeleiding tot de opleiding van opgeleide ervaringsdeskundigen in de armoede en sociale uitsluiting. De coördinatie bestaat in het scheppen van de voorwaarden voor de organisatie van de opleiding, de tewerkstelling van ervaringsdeskundigen, de sensibilisering voor de opleiding en het bewaken van de kwaliteit ervan.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 21 maart 2003 betreffende de armoedebestrijding (gewijzigd bij decreet van 18 juli 2008 en 20 december 2013)</p><p>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (gewijzigd bij besluit van 26 februari 2010, 10 februari 2012, 09 november 2012 en 07 februari 2014)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>De afdeling Welzijn en Samenleving erkent en subsidieert de verenigingen waar armen het woord nemen en De Link vzw. De afdeling Welzijn en Samenleving subsidieert het Vlaams netwerk van verenigingen waar armen het woord nemen. Jaarlijks ontvangen deze organisaties subsidies waarmee zij hun werking kunnen uitbouwen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:53.441033451Z",
+      "laatstGewijzigd": "2023-05-04T14:00:36.149701434Z",
+      "laatstOntvangen": "2023-05-04T14:00:36.149701434Z",
+      "productnummer": "1335",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/13d5705a-621f-4a63-b2ab-6a7b87a13964",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6232f13a-c587-4e76-a71d-698205e6fa83"
+    },
+    {
+      "id": "3a3ceccc-e5b0-4767-872a-054677415549",
+      "generatedAtTime": "2023-05-04T14:00:35.665452Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Sollicitatieverlof"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u ontslagen bent of zelf uw ontslag hebt ingediend, hebt u tijdens uw opzegperiode recht op sollicitatieverlof. Dat betekent dat u, met behoud van uw loon, afwezig mag zijn op het werk om ander werk te zoeken of op sollicitatiegesprek te gaan.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "ontslagprocedure",
+          "ontslagregels",
+          "opzeggingstermijn",
+          "opzegtermijn"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004018",
+          "@id": "OVO004018"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Hoeveel sollicitatieverlof u hebt, hangt af van uw recht op outplacementbegeleiding en van uw opzegtermijn.</p><p><a href=\"https://www.vdab.be/ontslag/sollicitatieverlof\">Meer informatie over het sollicitatieverlof</a> vindt u op de website van VDAB.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Werkgever en werknemer beslissen onderling op welke dag(en) het sollicitatieverlof wordt genomen. Als er geen overeenkomst is, beslist de werknemer.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:52.961883683Z",
+      "laatstGewijzigd": "2023-05-04T14:00:35.64529134Z",
+      "laatstOntvangen": "2023-05-04T14:00:35.64529134Z",
+      "productnummer": "1674",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3a3ceccc-e5b0-4767-872a-054677415549",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e5e306b9-e614-4be4-b0a5-f4d1ec30ca2c"
+    },
+    {
+      "id": "f10704aa-a98e-4f00-b0ce-204fb3b4ea00",
+      "generatedAtTime": "2023-05-04T14:00:35.384777Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Verslag voor toegang tot een individueel aangepast curriculum (IAC) in het gewoon onderwijs of voor toegang tot het buitengewoon onderwijs"
+      },
+      "beschrijving": {
+        "nl": "<p>Om uw kind een<strong> individueel aangepast curriculum (IAC) </strong>te kunnen laten volgen in een school voor gewoon onderwijs of om te kunnen inschrijven in het buitengewoon onderwijs, hebt u een verslag nodig van een <a href=\"https://www.uat-vlaanderen.be/centra-voor-leerlingenbegeleiding\">centrum voor leerlingenbegeleiding (CLB)</a>. Die maatregel moet ervoor zorgen dat alleen leerlingen die het echt nodig hebben een IAC volgen of naar het buitengewoon onderwijs gaan. </p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "inschrijvingsverslag"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000050",
+          "@id": "OVO000050"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Uw kind kan via een verslag toegang krijgen tot een IAC in een gewone school of tot een school voor buitengewoon onderwijs als blijkt dat redelijke aanpassingen niet mogelijk of niet voldoende zijn om uw kind het gemeenschappelijk curriculum te laten volgen in een gewone school, dus wanneer uw kind een individueel aangepast leertraject nodig heeft. </p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Het verslag wordt opgesteld door een centrum voor leerlingenbegeleiding (CLB). U kunt zelf naar het CLB stappen, maar ook de school kan de vraag voor een verslag aan het CLB doorgeven.</p><p>Als u het niet eens bent met de noodzaak of inhoud van het verslag, kunt u <a href=\"http://onderwijs.vlaanderen.be/vlaamse-bemiddelingscommissie\">beroep doen op de Vlaamse bemiddelingscommissie</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Verslag voor een individueel aangepast curriculum in het gewoon onderwijs of voor toegang tot het buitengewoon onderwijs"
+          },
+          "url": "https://onderwijs.vlaanderen.be/verslag-individueel-aangepast-curriculum-gewoon-of-toegang-buitengewoon-onderwijs",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:34.668939991Z",
+      "laatstGewijzigd": "2023-05-04T14:00:34.668941445Z",
+      "laatstOntvangen": "2023-05-04T14:00:34.668941445Z",
+      "productnummer": "1263",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f10704aa-a98e-4f00-b0ce-204fb3b4ea00",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/48d10745-5974-494c-8179-be9ff7007520"
+    },
+    {
+      "id": "ddfc2694-d1cc-40cb-aa4d-ad701075b53a",
+      "generatedAtTime": "2023-05-04T14:00:34.165104Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Leefvergoeding voor personen onder elektronisch toezicht"
+      },
+      "beschrijving": {
+        "nl": "<p>Het leefloon is één van de vormen van hulpverlening van het OCMW. Maar de uitbetaling van dat leefloon is opgeschort als u een vrijheidsstraf ondergaat en ingeschreven bent op de rol van een strafinrichting.</p><p>Vermits personen onder elektronisch toezicht ingeschreven zijn op de rol van een strafinrichting, kunnen ook zij geen aanspraak maken op uitbetaling van het leefloon. Wie hierdoor over geen middelen van bestaan beschikt, kan een financiële dagvergoeding worden toegekend. Het Departement Welzijn, Volksgezondheid en Gezin beslist of u hiervoor in aanmerking komt.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "dagvergoeding"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U komt in aanmerking als na onderzoek blijkt dat:</p><ul><li>u over geen persoonlijke bron van inkomsten beschikt</li><li>u samenwonend bent en uw persoonlijke bron van inkomsten minder dan 417,07 EUR per maand bedraagt</li><li>u alleenstaand bent en u persoonlijke bron van inkomsten minder dan 625,60 EUR per maand bedraagt.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Als u meer uitleg wilt over de financiële tegemoetkoming kunt u een mail sturen naar <a href=\"mailto:leefvergoeding.et@wvg.vlaanderen.be\">leefvergoeding.et@vlaanderen.be</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het bedrag voor de leefvergoeding wordt berekend per dag. Een alleenstaande ontvangt 20,85 euro, een samenwonende krijgt 13,90 euro per dag. Dit bedrag wordt betaald voor elke dag van de week, dus ook voor weekenddagen. </p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:52.646272531Z",
+      "laatstGewijzigd": "2023-05-04T14:00:34.145448158Z",
+      "laatstOntvangen": "2023-05-04T14:00:34.145448158Z",
+      "productnummer": "1823",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ddfc2694-d1cc-40cb-aa4d-ad701075b53a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/8b76244f-01e6-4253-89d5-42f6a65d3d7d"
+    },
+    {
+      "id": "46436bd9-7bf8-4a5d-a7a4-58553873a844",
+      "generatedAtTime": "2023-05-04T14:00:33.961083Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Slachtofferonthaal bij een gerechtelijke procedure"
+      },
+      "beschrijving": {
+        "nl": "<p>De dienst slachtofferonthaal kan tussenkomen zodat u, als slachtoffer of als na(ast)bestaande van het slachtoffer, de nodige aandacht krijgt tijdens de hele gerechtelijke procedure (vanaf de indiening van de klacht tot de strafuitvoering) en zodat u uw rechten kunt doen gelden.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO049152",
+          "@id": "OVO049152"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>De magistraat die uw dossier behandelt, kan vragen dat een justitieassistent tussenkomt als hij oordeelt dat de omstandigheden of de gevolgen van het misdrijf een bijstand vereisen. Dit is verplicht in de volgende gevallen:</p><ul><li>Opzettelijke misdrijven die het overlijden van het slachtoffer hebben veroorzaakt en de poging daartoe</li><li>Onopzettelijke misdrijven die het overlijden hebben veroorzaakt (bijvoorbeeld een verkeersongeval)</li><li>Verdachte overlijdens</li><li>Gevallen waarin uitdrukkelijk voorzien is in de tussenkomt van de dienst slachtofferonthaal (bijvoorbeeld bij de opsporing van vermiste personen of bij partnergeweld indien de dader ter beschikking wordt gesteld van het parket)</li></ul><p>In andere gevallen beoordeelt de magistraat of er bijstand nodig is aan de hand van een aantal criteria, zoals de ernst van lichamelijke, psychologische, materiële of sociale gevolgen.</p><p>U kunt ook zelf contact opnemen met een justitieassistent. De justitieassistent zal dan toestemming vragen aan de magistraat om tussen te komen.</p><p>De justitieassistent van de dienst slachtofferonthaal geeft u niet alleen algemene informatie over uw rechten en het verloop van een gerechtelijke procedure. De justitieassistent kan u ook specifieke inlichtingen geven over uw dossier. Hij kan bijvoorbeeld uitleg geven over:</p><ul><li>de betekenis van onderzoeksdaden</li><li>de onderzoeksresultaten</li><li>de beslissingen van de rechter</li></ul><p>De justitieassistent kan optreden als tussenpersoon en uw vragen aan de magistraat overbrengen. De justitieassistent biedt ondersteuning en begeleiding tijdens de hele gerechtelijke procedure:</p><ul><li>bij de inzage van het dossier</li><li>tijdens de zitting</li><li>tijdens de teruggave van persoonlijke voorwerpen</li><li>in het kader van de strafuitvoering, bij het opmaken van de slachtofferverklaring of slachtofferfiche</li></ul><p>De justitieassistent verwijst u indien nodig naar gespecialiseerde diensten (zoals psychosociale of juridische hulp). De justitieassistent zal de problemen die u ervaart in uw contacten met justitie overmaken aan de bevoegde instanties, zodat uw rechten verbeterd kunnen worden.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Justitiehuizen - slachtofferonthaal"
+          },
+          "url": "https://www.vlaanderen.be/slachtofferonthaal",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "Slachtofferzorg"
+          },
+          "url": "https://www.slachtofferzorg.be",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>De tussenkomst van de dienst slachtofferonthaal is gratis.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:33.938468524Z",
+      "laatstGewijzigd": "2023-05-04T14:00:33.938470761Z",
+      "laatstOntvangen": "2023-05-04T14:00:33.938470761Z",
+      "productnummer": "1822",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/46436bd9-7bf8-4a5d-a7a4-58553873a844",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/21523969-290a-4fb4-81c7-a54e5d94e314"
+    },
+    {
+      "id": "6ac7da1a-7898-4d93-a577-f0f97637c30c",
+      "generatedAtTime": "2023-05-04T14:00:33.755105Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Zorgforfait voor chronisch zieken\t"
+      },
+      "beschrijving": {
+        "nl": "<p>Chronisch zieken die hoge medische kosten hebben en sterk afhankelijk zijn van de hulp van anderen, kunnen een beroep doen op het zorgforfait voor chronisch zieken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "chronische zieken",
+          "zorgforfait"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004200",
+          "@id": "OVO004200"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<h3>U hebt hoge uitgaven voor gezondheidszorg</h3><p>In het betrokken en voorafgaande kalenderjaar moet u een totaal aan remgeld hebben betaald van minstens:</p><ul><li><p>450 euro/jaar (chronisch zieken zonder verhoogde tegemoetkoming)</p></li><li>365 euro/jaar (chronisch zieken met verhoogde tegemoetkoming).<br />De berekening van de uitgaven gebeurt zoals voor de <a href=\"https://www.uat-vlaanderen.be/maximumfactuur-maf-voor-medische-kosten\">maximumfactuur (MAF)</a>. Hierdoor worden een aantal uitgaven niet meegerekend. In tegenstelling tot de MAF, wordt er evenwel enkel rekening gehouden met het remgeld van de chronisch zieke zelf.</li></ul><h3>U hebt verlies aan zelfredzaamheid</h3><ul><li><strong>Voor de tegemoetkoming van 323,98</strong><strong> euro </strong><br />moet u zich in een van de volgende situaties bevinden:<ul><li>minstens 6 maanden erkend zijn als rechthebbende met een zware aandoening in het kader van kinesitherapie of fysiotherapie</li><li>in het betrokken of voorafgaande kalenderjaar samen, minstens zesmaal of gedurende minstens 120 dagen opgenomen zijn in een algemeen of psychiatrisch ziekenhuis</li><li>voldoen aan de medische voorwaarden die recht geven op een <a href=\"https://www.uat-vlaanderen.be/de-zorgtoeslag-voor-specifieke-ondersteuningsbehoeften-groeipakket\">zorgtoeslag voor specifieke ondersteuningsbehoeften</a> (Groeipakket).</li></ul></li><li><strong>Voor de tegemoetkoming van 486,00</strong><strong> euro</strong><br />moet u zich in een van de volgende situaties bevinden:<ul><li>voldoen aan de afhankelijkheidsvoorwaarden voor de toekenning van de <a href=\"https://www.uat-vlaanderen.be/integratietegemoetkoming-voor-personen-met-een-handicap\">integratietegemoetkoming voor personen met een handicap</a> (minstens 12 punten)</li><li>voldoen aan de afhankelijkheidsvoorwaarden voor de toekenning van de <a href=\"https://www.uat-vlaanderen.be/zorgbudget-voor-ouderen-met-een-zorgnood-vroeger-tegemoetkoming-voor-hulp-aan-bejaarden-genoemd\">zorgbudget voor ouderen met een zorgnood</a> met een handicap (minstens 12 punten)</li><li>recht hebben op een <a href=\"https://www.uat-vlaanderen.be/tegemoetkoming-voor-hulp-van-derden-bij-arbeidsongeschiktheid\">tegemoetkoming voor hulp van derden</a> (mindervaliden)</li><li>als invalide met gezinslast, recht hebben op een tegemoetkoming voor hulp van derden</li><li>als invalide zonder gezinslast, recht hebben op een uitkering als gerechtigde met gezinslast wegens een behoefte aan hulp van derden.</li></ul></li><li><strong>Voor de tegemoetkoming van 647,98</strong><strong> euro</strong><br />moet u minstens drie maanden recht hebben op het forfait B of C in het kader van de thuisverpleging.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Het zorgforfait wordt <strong>automatisch uitbetaald</strong> door uw ziekenfonds. Als dat toch niet het geval zou zijn en u denkt aan de voorwaarden te voldoen, neem dan contact op met uw <a href=\"https://riziv.fgov.be/nl/professionals/andere-professionals/ziekenfonds/Paginas/contacteer-ziekenfondsen.aspx\">ziekenfonds</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "RIZIV - Forfait voor chronisch zieken"
+          },
+          "url": "https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/ziekten/chronische-ziekten/Paginas/forfait-chronisch-zieken.aspx",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De jaarlijkse tegemoetkoming verschilt naargelang de mate van verlies van uw zelfredzaamheid en bedraagt in 2022:</p><ul><li>323,98 euro</li><li>486,00 euro</li><li>647,98 euro</li></ul><p>De tegemoetkoming wordt jaarlijks geïndexeerd.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:52.108649455Z",
+      "laatstGewijzigd": "2023-05-04T14:00:33.735510207Z",
+      "laatstOntvangen": "2023-05-04T14:00:33.735510207Z",
+      "productnummer": "894",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6ac7da1a-7898-4d93-a577-f0f97637c30c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bbbf3057-e2f2-478d-a5cc-64109448a77c"
+    },
+    {
+      "id": "e45422f8-0369-4601-b4bf-291d5120713b",
+      "generatedAtTime": "2023-05-04T14:00:33.267063Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Tijdelijke inschrijving bij het ziekenfonds voor wie verblijft in België"
+      },
+      "beschrijving": {
+        "nl": "<p>Mensen die uit het buitenland komen, hebben soms geen inkomen of kunnen niet direct werken. Om hen uit de nood te helpen, is het in een aantal gevallen mogelijk ze tijdelijk in te schrijven bij het ziekenfonds. Als ze ziek zijn, krijgen ze hun kosten terugbetaald.</p><p>Opgelet: dit is alleen voor noodsituaties en is dus niet de regel!</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "ziekenfonds"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004200",
+          "@id": "OVO004200"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Woonplaats: hoofdverblijfplaats in België.</li><li>Rijksregister: iedereen die opgenomen is in het rijksregister van de natuurlijke personen, uitgezonderd de zelfstandigen en de kloosterlingen, kan zich aansluiten in de hoedanigheid van verblijvende in België.</li><li>Verblijfsvergunning: de vreemdelingen die niet van rechtswege tot een verblijf van meer dan drie maanden in het rijk zijn toegelaten of die niet zijn gemachtigd tot vestiging of tot een verblijf van meer dan 6 maanden, kunnen zich niet aansluiten als verblijvende in België. Op deze algemene regel bestaan enkele uitzonderingen (gelieve u te informeren bij het ziekenfonds).</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U vraagt de ziekteverzekering aan bij uw ziekenfonds.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:33.246201994Z",
+      "laatstGewijzigd": "2023-05-04T14:00:33.24620382Z",
+      "laatstOntvangen": "2023-05-04T14:00:33.24620382Z",
+      "productnummer": "893",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e45422f8-0369-4601-b4bf-291d5120713b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cfa73806-090b-4367-b40b-28d57fc678ac"
+    },
+    {
+      "id": "1289bd7d-7107-4951-895a-8c46243f2220",
+      "generatedAtTime": "2023-05-04T14:00:33.017933Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Onkostenvergoeding voor vrijwilligerswerk"
+      },
+      "beschrijving": {
+        "nl": "<p>Als vrijwilliger ontvangt u per definitie geen loon. Mogelijk krijgt u wel een onkostenvergoeding, maar u hebt daar niet automatisch recht op. Of u een onkostenvergoeding krijgt, beslist de organisatie waarvoor u vrijwilligerswerk verricht.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk",
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "zoektermen": {
+        "nl": [
+          "kilometervergoeding",
+          "kostenvergoeding",
+          "vergoeding vrijwilligerswerk",
+          "vervoerskosten",
+          "vervoersonkosten",
+          "vrijwilligersloon",
+          "vrijwilligersvergoeding",
+          "vrijwilligerswerk"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De onkostenvergoeding compenseert alleen gemaakte kosten (maaltijden, drank, computer- en gsm-gebruik, ...) en is dus geen loon of inkomen. Maak aan het begin van het vrijwilligersengagement altijd duidelijke afspraken over de kostenvergoeding.</p><p>Meer informatie over over de <a href=\"http://www.vlaanderenvrijwilligt.be/wetgeving/kosten-en-vergoedingen\">basisprincipes van de kostenvergoedingen voor vrijwilligers</a> vindt u op de website van het Vlaams Steunpunt Vrijwilligerswerk.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Kostenvergoeding voor vrijwilligers"
+          },
+          "url": "http://www.vlaanderenvrijwilligt.be/wetgeving/kosten-en-vergoedingen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De onkostenvergoeding voor vrijwilligerswerk is <a href=\"https://financien.belgium.be/nl/vzws/vrijwilligers\">niet belastbaar</a> en vrijgesteld van socialezekerheidsvoorwaarden, op voorwaarde dat u de <a href=\"http://www.vlaanderenvrijwilligt.be/wetgeving/kosten-en-vergoedingen\">maximumbedragen</a> respecteert.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:00:32.995322891Z",
+      "laatstGewijzigd": "2023-05-04T14:00:32.995324854Z",
+      "laatstOntvangen": "2023-05-04T14:00:32.995324854Z",
+      "productnummer": "888",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1289bd7d-7107-4951-895a-8c46243f2220",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5340b0ab-dfb3-45fb-be9f-05bdd6e55ad2"
+    },
+    {
+      "id": "3f726b97-47f4-4f69-a1c7-151d7a3fca07",
+      "generatedAtTime": "2023-05-04T14:00:32.638714Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Voorrangskaart NMBS voor een zitplaats op de trein"
+      },
+      "beschrijving": {
+        "nl": "<p>De NMBS-voorrangskaart is voor iedereen die het moeilijk heeft om lang recht te blijven staan. De voorrangskaart verzekert u een zitplaats op de trein en dit zonder extra kosten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "garantie",
+          "nmbs",
+          "voorrang",
+          "voorrangkaart",
+          "zitplaats"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003863",
+          "@id": "OVO003863"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>U bent om medische redenen lichamelijk niet in staat om lang recht te staan.</li><li>U bent in het bezit van een doktersattest voor de aanvraag.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<ul><li>Ingevuld aanvraagformulier.</li><li>Doktersattest waarin vermeld staat dat u niet lang rechtop mag staan, wat de medische oorzaken zijn en voor welke periode.</li><li>Identiteitskaart.</li><li>Recente pasfoto.</li></ul>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U kunt de voorrangskaart aan het <strong>NMBS-loket</strong> verkrijgen door het ingevulde <a href=\"https://cdn.belgiantrain.be/-/media/files/pdf/productfiches/nl/aanvraag-voorrangskaart-zitplaats.ashx\">aanvraagformulier</a> en de gevraagde documenten mee te brengen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Voorrang op een zitplaats (NMBS)"
+          },
+          "url": "https://www.belgiantrain.be/nl/tickets-and-railcards/overview-discount/priority-seat",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De aanmaak van de voorrangskaart kost 5 euro.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:51.465525545Z",
+      "laatstGewijzigd": "2023-05-04T14:00:32.588866711Z",
+      "laatstOntvangen": "2023-05-04T14:00:32.588866711Z",
+      "productnummer": "884",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3f726b97-47f4-4f69-a1c7-151d7a3fca07",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5c2887d2-dbe3-4b0a-a6d5-0df0cd7fb16a"
+    },
+    {
+      "id": "c79a1dc6-b17f-476e-9125-a8e7f196dee4",
+      "generatedAtTime": "2023-05-04T14:00:32.215633Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Verminderingskaart NMBS voor personen met een visuele handicap"
+      },
+      "beschrijving": {
+        "nl": "<p>Personen met een visuele handicap hebben bij de NMBS recht op een nationale verminderingskaart voor het openbaar vervoer. Met de nationale verminderingskaart kunt u gratis met de trein reizen in tweede klas.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "nationaal",
+          "nationale",
+          "nmbs",
+          "reductiekaart",
+          "verminderingkaart",
+          "verminderingskaart"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO008217",
+          "@id": "OVO008217"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Voor blinden en slechtzienden met een definitieve invaliditeit van tenminste 90% door een oogaandoening, erkend door de Federale Overheidsdienst.</li><li>Een begeleider kan de voordelen van de nationale verminderingskaart combineren met de voordelen van de <a href=\"https://www.uat-vlaanderen.be/kaart-voor-kosteloos-begeleiden-van-een-persoon-met-een-handicap-op-het-openbaar-vervoer\">kaart 'Kosteloze begeleider'</a>. De geleidehond wordt gratis vervoerd.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Bij uw <strong>gemeentebestuur </strong>kunt u een aanvraagformulier krijgen.</li><li>Dit vult u in en stuurt u naar de<br /><strong>Federale Overheidsdienst</strong> (FOD) <strong>Sociale Zekerheid</strong> - Directie-generaal Personen met een handicap.</li><li>U krijgt uw verminderingskaart met de post toegestuurd. </li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Blind of slechtziend (Verminderingskaart) (NMBS)"
+          },
+          "url": "https://www.belgiantrain.be/nl/tickets-and-railcards/overview-discount/blind",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:51.143799908Z",
+      "laatstGewijzigd": "2023-05-04T14:00:32.183388487Z",
+      "laatstOntvangen": "2023-05-04T14:00:32.183388487Z",
+      "productnummer": "882",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c79a1dc6-b17f-476e-9125-a8e7f196dee4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fac636fd-49d7-49be-8169-5c5553e9d17e"
+    },
+    {
+      "id": "98b4c738-4af0-4405-bfeb-6fb4aee1c816",
+      "generatedAtTime": "2023-05-04T14:00:31.819545Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Gratis tandverzorging tot 18 jaar"
+      },
+      "beschrijving": {
+        "nl": "<p>Kinderen die jonger zijn dan 18 jaar hebben recht op gratis tandverzorging bij alle tandheelkundige behandelingen die de ziekteverzekering terugbetaalt. Dit geldt niet voor orthodontie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "tandverzorging"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004200",
+          "@id": "OVO004200"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Uw kind is jonger dan 18 jaar.</li><li>De tandheelkundige waar u naartoe gaat, past de conventietarieven van het RIZIV toe.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Als u het tandartsattest binnenbrengt bij het ziekenfonds, zult u ook het remgeld van de tandarts terugbetaald krijgen.</li><li>Als de tandarts de derdebetalersregeling toepast, moet u helemaal niets betalen en regelt de tandarts de betaling met de mutualiteit. Informeer u hierover wel eerst bij uw tandarts.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:50.698581418Z",
+      "laatstGewijzigd": "2023-05-04T14:00:31.797382964Z",
+      "laatstOntvangen": "2023-05-04T14:00:31.797382964Z",
+      "productnummer": "879",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/98b4c738-4af0-4405-bfeb-6fb4aee1c816",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a0c3ec59-8fa6-48d5-b8d3-f2645949abcc"
+    },
+    {
+      "id": "12cb6ce5-9f5b-441c-8b6f-2cbecbe01f95",
+      "generatedAtTime": "2023-05-04T14:00:31.624903Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Tegemoetkoming voor pijnstillers voor chronisch zieken \t"
+      },
+      "beschrijving": {
+        "nl": "<p>Chronische zieken kunnen rekenen op een tegemoetkoming van 75% voor bepaalde pijnstillers.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "zoektermen": {
+        "nl": [
+          "chronische zieken",
+          "tegemoetkoming"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004200",
+          "@id": "OVO004200"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U lijdt aan:</p><ul><li>kankerpijn</li><li>chronische artritis/artrosepijn</li><li>neurogene of neuropatische pijn van centrale of perifere oorsprong (inbegrepen multiple sclerose)</li><li>perifere vasculaire pijn</li><li>postchirurgische pijn (inbegrepen fantoompijn)</li><li>fibromyalgi.</li></ul><p>De extra tegemoetkoming is er alleen voor <a href=\"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/door-ziekenfonds/geneesmiddel-gezondheidsproduct/terugbetalen/Paginas/terugbetaling-pijnstillers-chronische-pijnpatienten.aspx\">bepaalde pijnstillers</a>.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>​​​​​​Uw behandelende arts of de arts die uw globaal medisch dossier beheert, vraagt de machtiging voor de terugbetaling aan bij de adviserend geneesheer.</li><li><p>Als de adviserend geneesheer uw aanvraag goedkeurt, hebt u levenslang recht op de terugbetaling. </p></li><li><p>De adviserend arts levert een machtiging af aan u.</p></li><li>U toont de machtiging aan uw apotheker om de tegemoetkoming te krijgen.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Tegemoetkoming pijnstillers voor chronisch zieken"
+          },
+          "url": "https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/door-ziekenfonds/geneesmiddel-gezondheidsproduct/terugbetalen/Paginas/terugbetaling-pijnstillers-chronische-pijnpatienten.aspx",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>U hebt recht op een tegemoetkoming van 75%.</p><p>Het bedrag van de pijnstillers dat u zelf nog moet betalen komt in aanmerking voor de <a href=\"https://www.uat-vlaanderen.be/maximumfactuur-maf-voor-medische-kosten\">maximumfactuur</a>.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:10:50.444266805Z",
+      "laatstGewijzigd": "2023-05-04T14:00:31.60092157Z",
+      "laatstOntvangen": "2023-05-04T14:00:31.60092157Z",
+      "productnummer": "869",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/12cb6ce5-9f5b-441c-8b6f-2cbecbe01f95",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c9753edb-5dd5-4a39-9cb1-56cd0176305b"
+    }
+  ]
+}

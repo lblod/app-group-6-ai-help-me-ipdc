@@ -1,1 +1,1651 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=773","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=772","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-07-26T07:00:12.759528Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=774","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-07-26T07:00:22.507665Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=773","@type":"EventStream","member":[{"id":"83ddd535-cb14-4642-8a8c-c4eb46fed718","generatedAtTime":"2023-07-26T07:00:22.507665Z","bevoegdBestuursniveaus":["Federaal"],"naam":{"nl":"Specifieke hulp voor onderhoudsgeld of een geplaatst kind","nl-BE-x-generated-formal":"Specifieke hulp voor onderhoudsgeld of een geplaatst kind","nl-BE-x-generated-informal":"Specifieke hulp voor onderhoudsgeld of een geplaatst kind"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Als u onderhoudsgelden voor uw kind(eren) of bijdragen voor een of meer geplaatste kinderen moet betalen, kunt u specifieke steun vragen aan het OCMW.</p>","nl-BE-x-generated-informal":"<p>Als je onderhoudsgelden voor jouw kind(eren) of bijdragen voor een of meer geplaatste kinderen moet betalen, kan je specifieke steun vragen aan het OCMW.</p>","nl":"<p>Als u onderhoudsgelden voor uw kind(eren) of bijdragen voor een of meer geplaatste kinderen moet betalen, kunt u specifieke steun vragen aan het OCMW.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid","WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE"],"bevoegdeOverheden":[{"id":"OVO001846","@id":"OVO001846"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-generated-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Je kan deze steun verkrijgen door mondeling of schriftelijk een aanvraag in te dienen bij het OCMW dat bevoegd is voor de toekenning van jouw leefloon of maatschappelijke dienstverlening. Je krijgt dan van het OCMW een ontvangstbewijs van jouw aanvraag. Het OCMW kan dan beslissen om je een financiële tussenkomst toe te kennen in de onderhoudsgelden of bijdragen die door je werden betaald.</p>","nl-BE-x-generated-formal":"<p>U kan deze steun verkrijgen door mondeling of schriftelijk een aanvraag in te dienen bij het OCMW dat bevoegd is voor de toekenning van uw leefloon of maatschappelijke dienstverlening. U krijgt dan van het OCMW een ontvangstbewijs van uw aanvraag. Het OCMW kan dan beslissen om u een financiële tussenkomst toe te kennen in de onderhoudsgelden of bijdragen die door u werden betaald.</p>","nl":"<p>U kan deze steun verkrijgen door mondeling of schriftelijk een aanvraag in te dienen bij het OCMW dat bevoegd is voor de toekenning van uw leefloon of maatschappelijke dienstverlening. U krijgt dan van het OCMW een ontvangstbewijs van uw aanvraag. Het OCMW kan dan beslissen om u een financiële tussenkomst toe te kennen in de onderhoudsgelden of bijdragen die door u werden betaald.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl-BE-x-generated-formal":"OCMW-tussenkomst bij onderhoudsgeld (Agentschap Integratie en Inburgering)","nl":"OCMW-tussenkomst bij onderhoudsgeld (Agentschap Integratie en Inburgering)","nl-BE-x-generated-informal":"OCMW-tussenkomst bij onderhoudsgeld (Agentschap Integratie en Inburgering)"},"url":"https://www.agii.be/thema/sociaal-medisch/ocmw-steun/bijzondere-vormen-van-ocmw-dienstverlening/ocmw-tussenkomst-na-betaling-onderhoudsgeld-kinderen-of-bijdragen-geplaatste-kinderen#2","@type":"Website","order":0}],"creatie":"2023-07-10T06:50:09.851923079Z","laatstGewijzigd":"2023-07-26T07:00:22.360757453Z","laatstOntvangen":"2023-07-26T07:00:22.360758979Z","productnummer":"3019","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/83ddd535-cb14-4642-8a8c-c4eb46fed718","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e708d063-0577-480f-abda-ab0340ace7dc"},{"id":"295fa8c2-5364-4f30-a94a-7157e1084a4b","generatedAtTime":"2023-07-26T07:00:21.246248Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"de":"Integrationskurs","fr":"Accompagnement des intégrants (parcours d’intégration)","nl-BE-x-generated-informal":"Begeleiding van inburgeraars (het Inburgeringstraject)","nl-BE-x-generated-formal":"Begeleiding van inburgeraars (het Inburgeringstraject)","en":"Guidance for newcomers (civic integration path)","nl":"Begeleiding van inburgeraars (het Inburgeringstraject)"},"beschrijving":{"de":"<p>Die flämischen Behörden beabsichtigen, dass Bürger, die aus dem Ausland nach Flandern und Brüssel ziehen, aktiv an unsere Gesellschaft teilnehmen können. Deswegen bieten die flämischen Behörden einen Integrationskurs an, der neuen Bürgern hilft, die notwendigen Kenntnisse zu entwickeln. Integration ist ein Sprungbrett, um die gesellschaftliche Rolle als Bürger, Elternteil, Arbeitnehmer, Unternehmer, … vollends zu erfüllen.</p><p>Alle neuen Bürger haben Anspruch auf den Integrationskurs. Für bestimmte Kategorien ist der Integrationskurs sogar obligatorisch.</p><p>Für minderjährige, anderssprachige, neue Bürger (Kinder und Jugendliche, für die <a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/ondersteuning-voor-leerlingen/onderwijs-voor-leerlingen-met-specifieke-noden/onthaalonderwijs-voor-anderstalige-kinderen-okan\">Tagesunterricht</a> in Betracht kommt) verläuft die Integration nicht über den Integrationskurs, sondern über die Ausbildung in der Schule.</p>","nl-BE-x-generated-informal":"<p>In Vlaanderen en Brussel wonen mensen die afkomstig zijn uit alle hoeken van de wereld. De Vlaamse overheid vindt het belangrijk dat die nieuwe burgers volop kunnen deelnemen aan de samenleving en biedt daarom een inburgeringstraject aan.</p>","nl":"<p>In Vlaanderen en Brussel wonen mensen die afkomstig zijn uit alle hoeken van de wereld. De Vlaamse overheid vindt het belangrijk dat die nieuwe burgers volop kunnen deelnemen aan de samenleving en biedt daarom een inburgeringstraject aan.</p>","fr":"<div><div><p>L’Autorité flamande souhaite que les personnes quittant l’étranger pour venir habiter en Flandre et à Bruxelles puissent prendre une part active dans notre société. A cet effet, l’Autorité flamande prévoit un parcours d’intégration, susceptible à aider les intégrants à développer les connaissances et aptitudes nécessaires. L’intégration civique constitue un premier pas pour pouvoir jouer pleinement leur rôle de citoyen, de parent, de travailleur, d’entrepreneur…</p><p>Tous les intégrants ont le droit de suivre ce parcours d’intégration. Pour certaines catégories d’entre eux un tel trajet est même <strong>obligatoire.</strong></p><p>Pour les intégrants mineurs allophones (les enfants et les jeunes qui peuvent prétendre à l’<a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/ondersteuning-voor-leerlingen/onderwijs-voor-leerlingen-met-specifieke-noden/onthaalonderwijs-voor-anderstalige-kinderen-okan\">enseignement d’accueil</a>), l’intégration civique ne passe par un parcours d’intégration mais par l’enseignement.</p></div></div>","nl-BE-x-generated-formal":"<p>In Vlaanderen en Brussel wonen mensen die afkomstig zijn uit alle hoeken van de wereld. De Vlaamse overheid vindt het belangrijk dat die nieuwe burgers volop kunnen deelnemen aan de samenleving en biedt daarom een inburgeringstraject aan.</p>","en":"<p>The Flemish authorities want people who move from abroad to Flanders and Brussels to take an active part in our society. The Flemish authorities therefore offer a civic integration path which should help newcomers to build up the necessary knowledge and skills. Civic integration can be seen as a first step to help them to fully play their social role as citizen, parent, employee, entrepreneur…</p><p>All newcomers have the right to follow this civic integration path. For some categories of people the path is even <strong>obligatory</strong>.</p><p>For <strong>underage </strong>allophone newcomers (children and young people who are entitled to <a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/ondersteuning-voor-leerlingen/onderwijs-voor-leerlingen-met-specifieke-noden/onthaalonderwijs-voor-anderstalige-kinderen-okan\">education for non-Dutch speaking newcomers</a>), civic integration is accomplished by means of education and not through a civic integration path.</p>"},"type":"AdviesBegeleiding","themas":["BurgerOverheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p><a href=\"http://codex.vlaanderen.be/zoeken/document.aspx?DID=1023121&amp;param=inhoud\">Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 26 juli 2013)</a></p><p><a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026683&amp;param=informatie\">Besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 07 april 2016)</a></p>","nl":"<p><a href=\"http://codex.vlaanderen.be/zoeken/document.aspx?DID=1023121&amp;param=inhoud\">Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 26 juli 2013)</a></p><p><a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026683&amp;param=informatie\">Besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 07 april 2016)</a></p>","nl-BE-x-generated-formal":"<p><a href=\"http://codex.vlaanderen.be/zoeken/document.aspx?DID=1023121&amp;param=inhoud\">Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 26 juli 2013)</a></p><p><a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026683&amp;param=informatie\">Besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 07 april 2016)</a></p>"},"uitzonderingen":{"en":"<p>In the Flemish Region, some newcomers are exempted from the civic integration obligation:</p><ul><li>citizens from member states of the European Union, the European Economic Area or Switzerland and their family members. This exemption does not apply to the family members and newcomers of Belgian nationality mentioned above.</li><li>Newcomers who have already obtained a civic integration certificate</li><li>Newcomers who are not able to follow a civic integration path due to a serious illness or a handicap</li><li>Newcomers who obtained a certificate or diploma in the Belgian or Dutch education</li><li>Newcomers who followed a complete schoolyear of education for nonDutch speaking newcomers</li><li>Newcomers who are 65 years old or older</li><li>Migrant workers with a temporary residence permit that may lead to a permanent residence.</li></ul><p>The four last options for exemption do not apply to newcomers who are ministers of a religion in a local church or religious community recognised by the Flemish authorities.</p><h3>Underage newcomers</h3><p>For underage allophone newcomers (children and young people who are entitled to education for non-Dutch speaking newcomers), civic integration is accomplished by means of education and not through a civic integration path. Like all underage children, they benefit from the right to education and are subject to compulsory schooling. Therefore, the Flemish authorities help them to find an adequate school or education for non-Dutch speaking newcomers.</p><p>If necessary, they are also guided to well-being and health facilities. The municipality gives them information about associations, sports and cultural activities and facilities for young people in the vicinity.</p>","de":"<div><div><p>Bestimmte Kategorien neuer Bürger werden von der Integrationspflicht in der flämischen Region befreit:</p><ul><li>Bürger aus einem Land der europäischen Union, des europäischen wirtschaftlichen Raums und aus der Schweiz und ihre Angehörigen. Die Befreiung gilt nicht für Angehörige von Belgiern und neue Bürger mit belgischer Staatsangehörigkeit, die oben erwähnt wurden.</li><li>Neue Bürger, die bereits ein Integrationszeugnis erworben haben,</li><li>Neue Bürger, die wegen ernsthafter Krankheit oder Behinderung dem Integrationskurs nicht folgen können,</li><li>Neue Bürger, die ein Zeugnis oder Diplom erworben haben im belgischen oder niederländischen Ausbildungssystem,</li><li>Neue Bürger, die ein ganzes Schuljahr Tagesunterricht gefolgt haben,</li><li>Neue Bürger, die 65 Jahre oder älter sind,</li><li>Arbeitseinwanderer mit beschränktem Aufenthaltstitel, der zu einem permanenten Aufenthalt führen kann.</li></ul><p>Die letzten 4 Gründe für Befreiung gelten nicht für neue Bürger, die Diener eines Gottesdienstes in einer von den flämischen Behörden anerkannten, lokalen Glaubensgemeinschaft, sind.</p><h3>Minderjährige</h3><p>Für minderjährige, anderssprachige, neue Bürger verläuft die Integration nicht über einen Integrationskurs, sondern über die Ausbildung in Tagesunterricht. Genauso wie ihre Altersgenossen, machen minderjährige, anderssprachige, neue Bürger Anspruch auf das Ausbildungsrecht und gilt auch die Lernpflicht. Deswegen bieten die flämischen Behörden Begleitung an, um für diese Minderjährigen eine geeignete Schule, sowie Tagesunterricht zu finden.</p><p>Falls erforderlich, werden sie auch begleitet mit Bezug auf das Angebot für Wohlbefinden und Gesundheit. Die Gemeinde informiert sie zum Angebot bezüglich Vereine, sportlicher und kultureller Aktivitäten und Jugendzentra in der Nähe.</p></div></div>","fr":"<p>En Région flamande, certains intégrants sont dispensés de l’obligation d’intégration civique :</p><ul><li>les citoyens ressortissant d’un État membre de l’Union européenne, de l’Espace économique européen et de la Suisse ainsi que les membres de leur famille. Cette dispense ne s’applique pas aux membres de la famille de Belges et d’intégrants de nationalité belge mentionnés cidessus.</li><li>les intégrants qui ont déjà obtenu une attestation d’intégration civique</li><li>les intégrants qui ne sont pas en mesure de suivre un parcours d’intégration en raison d’une maladie grave ou d’un handicap</li><li>les intégrants qui ont obtenu une attestation ou un diplôme de l’enseignement belge ou néerlandais</li><li>les intégrants qui ont suivi l’enseignement d’accueil pendant une année entière</li><li>les intégrants de 65 ans ou plus</li><li>les travailleurs migrants au statut de séjour temporaire pouvant mener à un séjour définitif</li></ul><p>Les quatre dernières raisons pouvant justifier une dispense ne sont pas applicables aux intégrants qui sont ministres de culte dans une église ou une communauté religieuse locale reconnue par l’Autorité flamande.</p><h3>Mineurs</h3><p>Pour les intégrants mineurs allophones (les enfants et les jeunes qui peuvent prétendre à l’enseignement d’accueil), l’intégration civique ne passe pas par un parcours d’intégration mais par l’enseignement. Comme tous les autres mineurs, les mineurs allophones bénéficient du droit à l’enseignement et sont soumis à l’obligation scolaire. C’est pourquoi l’Autorité flamande leur propose des trajets qui les amènent vers une école adaptée ou vers l’enseignement d’accueil.</p><p>Si nécessaire, ils sont également accompagnés aux infrastructures de bien-être et de santé. La commune les informe au sujet de l’offre en matière d’associations, d’activités sportives et culturelles, et d’opérateurs de jeunesse dans les environs.</p>"},"zoektermen":{"nl":["inburgeraar","inburgering","inburgeringstraject","migrant","minderheden","nieuwkomer","onthaal","plicht","recht","traject","vreemdeling","inburgeringscursus","cursus"],"de":["inburgeraar","inburgering","inburgeringstraject","migrant","minderheden","nieuwkomer","onthaal","plicht","recht","traject","vreemdeling","inburgeringscursus","cursus"],"en":["inburgeraar","inburgering","inburgeringstraject","migrant","minderheden","nieuwkomer","onthaal","plicht","recht","traject","vreemdeling","inburgeringscursus","cursus"],"fr":["inburgeraar","inburgering","inburgeringstraject","migrant","minderheden","nieuwkomer","onthaal","plicht","recht","traject","vreemdeling","inburgeringscursus","cursus"]},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"voorwaarden":[{"beschrijving":{"de":"<p>Integration wird beabsichtigt für Fremde von 18 Jahren und älter, die für längere Zeit in Flandern und Brüssel leben werden. Auch Belgier, die nicht in Belgien geboren sind und wessen Vater oder Mutter nicht in Belgien geboren ist, gehören der Zielgruppe für Integration an.</p><p>Alle Personen, die zur Zielgruppe für Integration gehören, können auf den Integrationskurs Anspruch machen.</p><h3>Obligatorische Integration</h3><p>Für bestimmte neue Bürger ist der Integrationskurs obligatorisch.</p><ul><li>Es betrifft Fremde, die:<ul><li>18 Jahre oder älter sind,</li><li>in das Bevölkerungsregister immatrikuliert sind,</li><li>in einer Gemeinde der flämischen Region wohnen,</li><li>und zum ersten Mal einen Aufenthaltstitel von mehr als 3 Monaten erhalten haben.</li></ul></li></ul><ul><li>Es betrifft Belgier, die:<ul><li>18 Jahre oder älter sind,</li><li>nicht in Belgien geboren sind,</li><li>wessen Mutter und/oder Vater nicht in Belgien geboren sind/ist,</li><li>und zum ersten Mal nicht länger als 12 aufeinanderfolgenden Monaten in das Bevölkerungsregister immatrikuliert sind.</li></ul></li><li>anderssprachige, minderjährige, neue Bürger, die 18 Jahre alt werden, im Moment, in dem sie noch keine 12 aufeinanderfolgenden Monate zum ersten Mal mit einem Aufenthaltstitel von mehr als 3 Monaten in das Bevölkerungsregister immatrikuliert sind.<br /></li><li>neue Bürger, die Diener eines Gottesdienstes sind in einer von den flämischen Behörden anerkannten, lokalen Glaubensgemeinschaft.</li></ul><p>Die Pflicht zur Integration besteht für alle neuen Bürger, für die Integration obligatorisch ist, solange ein Integrationskurs nicht stattgefunden hat.</p><p>Achtung: Integrationspflicht gilt im Moment nur in Flandern. In Brüssel wird Integration bald auch obligatorisch werden.</p>","nl-BE-x-generated-informal":"<p>Inburgering is bedoeld voor nieuwkomers van 18 jaar en ouder die in Vlaanderen of Brussel komen wonen met een wettig verblijf. Ook Belgen die niet in België geboren zijn en van wie minstens één van de ouders niet in België geboren is, behoren tot de doelgroep van inburgering. (Verzoekers om internationale bescherming, met uitzondering van niet-begeleide minderjarige verzoekers om internationale bescherming, behoren niet tot de doelgroep van inburgering)</p><p>Alle personen die tot de doelgroep van inburgering behoren, hebben <strong>recht</strong> op een inburgeringstraject.</p><h3>Verplichte inburgeraars</h3><p>Bepaalde inburgeraars moeten <strong>verplicht</strong> een inburgeringstraject volgen. Het gaat onder meer om nieuwkomers (bijvoorbeeld erkend vluchtelingen, subsidiair beschermden, gezinsherenigers, inburgeraars die bedienaar zijn van een eredienst, … </p><p>Een aantal van deze personen wordt <strong>vrijgesteld </strong>van de inburgeringsplicht. Het gaat om bijvoorbeeld EU-burgers, personen die omwille van een ziekte of handicap blijvend niet in staat zijn het inburgeringstraject te volgen, inburgeraars die 65 jaar of ouder zijn,… </p><p>Voor de verplichte inburgeraars blijft de inburgeringsplicht bestaan zolang ze die niet zijn nagekomen.</p>","en":"<p>Civic integration is meant for foreigners who are 18 years old or older and who move to Flanders or Brussels to live here. Belgians born abroad and who have at least one parent born outside of Belgium are part of the civic integration target group.</p><p>Everybody who is part of the civic integration target group is <strong>entitled</strong> to a civic integration path.</p><h3>Newcomers obligated to follow the civic integration path</h3><p>Some newcomers must follow a civic integration path, including:</p><ul><li>foreigners who:<ul><li>are 18 years old or older</li><li>are registered in the national population register (‘Rijksregister’)</li><li>live in a municipality situated in the Flemish Region</li><li>have a residence permit valid for more than 3 months for the first time.</li></ul></li><li>Belgians who:<ul><li>are 18 years old or older</li><li>were not born in Belgium</li><li>have at least one parent who was not born in Belgium</li><li>are registered in the national population register for the first time for no longer than 12 consecutive months.</li></ul></li><li>allophone underage newcomers:<ul><li>who will be 18 years old at the moment when they will not have been registered in the national population register for the first time for 12 consecutive months with a residence permit of more than 3 months</li></ul></li><li>newcomers who are ministers of a religion in a local church or religious community recognised by the Flemish authorities.</li></ul><p>For these categories of newcomers, the civic integration obligation remains valid as long as they do not fulfil the civic integration program.</p><p>Warning: the rules concerning the civic integration obligation set out here apply for Flanders. Different rules may apply for Brussels.</p>","nl-BE-x-generated-formal":"<p>Inburgering is bedoeld voor nieuwkomers van 18 jaar en ouder die in Vlaanderen of Brussel komen wonen met een wettig verblijf. Ook Belgen die niet in België geboren zijn en van wie minstens één van de ouders niet in België geboren is, behoren tot de doelgroep van inburgering. (Verzoekers om internationale bescherming, met uitzondering van niet-begeleide minderjarige verzoekers om internationale bescherming, behoren niet tot de doelgroep van inburgering)</p><p>Alle personen die tot de doelgroep van inburgering behoren, hebben <strong>recht</strong> op een inburgeringstraject.</p><h3>Verplichte inburgeraars</h3><p>Bepaalde inburgeraars moeten <strong>verplicht</strong> een inburgeringstraject volgen. Het gaat onder meer om nieuwkomers (bijvoorbeeld erkend vluchtelingen, subsidiair beschermden, gezinsherenigers, inburgeraars die bedienaar zijn van een eredienst, … </p><p>Een aantal van deze personen wordt <strong>vrijgesteld </strong>van de inburgeringsplicht. Het gaat om bijvoorbeeld EU-burgers, personen die omwille van een ziekte of handicap blijvend niet in staat zijn het inburgeringstraject te volgen, inburgeraars die 65 jaar of ouder zijn,… </p><p>Voor de verplichte inburgeraars blijft de inburgeringsplicht bestaan zolang ze die niet zijn nagekomen.</p>","fr":"<p>L’intégration civique est destinée aux étrangers de 18 ans et plus venant s’établir en Flandre ou à Bruxelles pour une longue durée. Les Belges nés en dehors de la Belgique et dont au moins l’un des parents est né en dehors de la Belgique font également partie du groupe cible pour l’intégration civique.</p><p>Toutes les personnes faisant partie du groupe cible pour l’intégration civique ont le droit de suivre un parcours d’intégration.</p><h3>Les intégrants au statut obligatoire</h3><p>Certains intégrants ont l’obligation de suivre un parcours d’intégration. Il s’agit des :</p><ul><li>étrangers qui :<ul><li>sont âgés de 18 ans ou plus</li><li>sont inscrits au Registre national</li><li>habitent dans une commune de la Région flamande</li><li>obtiennent pour la première fois un titre de séjour de plus de 3 mois.</li></ul></li><li>Belges qui :<ul><li>sont âgés de 18 ans ou plus</li><li>ne sont pas nés en Belgique</li><li>ont au moins un parent qui n’est pas né en Belgique</li><li>n’ont pas été inscrits pour la première fois pour une période ne dépassant pas 12 mois consécutifs au Registre national.</li></ul></li><li>primo-arrivants mineurs allophones :<ul><li>qui atteignent leurs 18 ans au moment où ils n’ont pas encore été inscrits au Registre national pour la première fois pour une période s’étalant sur 12 mois consécutifs avec un titre de séjour de plus de 3 mois</li></ul></li><li>intégrants qui sont ministres d’un culte dans une église ou une communauté religieuse locale reconnue par l’Autorité flamande.</li></ul><p>L’obligation d’intégration civique reste d’application pour les intégrants jusqu’à ce qu’ils l’aient respectée.</p><p>Attention : cette règle concerne uniquement la Flandre. Différentes conditions pourraient être en vigueur à Bruxelles.</p>","nl":"<p>Inburgering is bedoeld voor nieuwkomers van 18 jaar en ouder die in Vlaanderen of Brussel komen wonen met een wettig verblijf. Ook Belgen die niet in België geboren zijn en van wie minstens één van de ouders niet in België geboren is, behoren tot de doelgroep van inburgering. (Verzoekers om internationale bescherming, met uitzondering van niet-begeleide minderjarige verzoekers om internationale bescherming, behoren niet tot de doelgroep van inburgering)</p><p>Alle personen die tot de doelgroep van inburgering behoren, hebben <strong>recht</strong> op een inburgeringstraject.</p><h3>Verplichte inburgeraars</h3><p>Bepaalde inburgeraars moeten <strong>verplicht</strong> een inburgeringstraject volgen. Het gaat onder meer om nieuwkomers (bijvoorbeeld erkend vluchtelingen, subsidiair beschermden, gezinsherenigers, inburgeraars die bedienaar zijn van een eredienst, … </p><p>Een aantal van deze personen wordt <strong>vrijgesteld </strong>van de inburgeringsplicht. Het gaat om bijvoorbeeld EU-burgers, personen die omwille van een ziekte of handicap blijvend niet in staat zijn het inburgeringstraject te volgen, inburgeraars die 65 jaar of ouder zijn,… </p><p>Voor de verplichte inburgeraars blijft de inburgeringsplicht bestaan zolang ze die niet zijn nagekomen.</p>"},"naam":{"nl":"Voorwaarden","nl-BE-x-generated-formal":"Voorwaarden","en":"Requirements","nl-BE-x-generated-informal":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"de":"Procedure","nl-BE-x-generated-informal":"Procedure","en":"Procedure","fr":"Procedure","nl":"Procedure","nl-BE-x-generated-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Inburgering bestaat uit <strong>vier onderdelen</strong>:</p><ul><li>Maatschappelijke oriëntatie</li><li>Nederlands als verbindende taal</li><li>Inschrijving bij VDAB (Actiris in Brussel)</li><li>Participatie- en netwerktraject</li></ul><p>Het inburgeringstraject krijgt vorm op maat van de inburgeraar. Via trajectbegeleiding wordt de inburgeraar individuele begeleiding aangeboden naargelang zijn persoonlijke situatie.</p><p>Het Vlaamse <a href=\"https://www.integratie-inburgering.be\">Agentschap Integratie en Inburgering</a> en de twee stedelijke agentschappen in Antwerpen (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) en Gent (<a href=\"https://www.amal.gent\">Amal</a>) bieden de inburgeringstrajecten aan.</p><p>De inhoud van het inburgeringstraject wordt opgenomen in een <strong>inburgeringscontract</strong>. Wie een inburgeringscontract ondertekent, gaat het engagement aan om de doelstellingen van de verschillende onderdelen van het traject te behalen. Wie alle doelstellingen behaalt, ontvangt het <strong>inburgeringsattest</strong>.</p><p>Inburgeraars kunnen na het behalen van hun inburgeringsattest in een vervolgtraject stappen. Ze volgen bijvoorbeeld vervolgcursussen Nederlands ter voorbereiding op hogere studies, ze nemen deel aan een beroepsopleiding of een opleiding tot zelfstandig ondernemer. </p><h3>Inburgeringsplicht</h3><p>Wie inburgeringsplichtig is:</p><ul><li>moet zich tijdig aanmelden bij het bevoegde agentschap</li><li>moet de doelstellingen van alle onderdelen van het inburgeringstraject behalen</li><li>moet 24 maanden na het behalen van het inburgeringsattest - als hij niet werkt of studeert - aantonen dat hij het taalvaardigheidsniveau B1 mondeling beheerst</li></ul><p>Verplichte inburgeraars die hun inburgeringsplicht niet nakomen kunnen een administratieve geldboete krijgen. </p>","de":"<p>Integration setzt sich zusammen aus:</p><ul><li>einem Kurs gesellschaftlicher Orientierung, mit Bezug auf Leben, Arbeiten, Normen und Werte in Belgien (in einer Sprache, die der Kursist versteht),</li><li>niederländischem Sprachunterricht,</li><li>individueller Begleitung bei der Suche nach Arbeit, Studiengängen, … und Aushilfe bei der Bewertung der Diplome.</li></ul><p>Die <a href=\"https://www.integratie-inburgering.be\">flämische Dienststelle Integration</a> (Vlaamse Agentschap Integratie en Inburgering) und die zwei städtlichen Dienststellen in Antwerpen (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) und Gent (<a href=\"https://www.amal.gent\">Amal</a>) bieten Integrationskurse an.</p><p>Der Inhalt des Integrationskurses wird in den Integrationsvertrag aufgenommen. Wer einen Integrationsvertrag unterzeichnet, tritt ein Engagement an, um dem Bildungsprogramm regelmäβig zu folgen (während jedes Unterteils des Bildungsprogramms mindestens an 80% aller Kurse teilnehmen).</p><p>Wer den Kurs gesellschaftlicher Orientierung und den Kurs niederländischer Sprachunterricht besteht, empfängt ein Integrationszeugnis. Die neuen Bürger werden dann weiter begleitet bei der Suche nach Arbeit oder nach einem Diplom (Berufsausbildung, Ausbildung zum Unternehmer, Kurse Niederländisch als Zweitsprache, Studiengänge,...).</p><h3>Integrationspflicht</h3><p>Diejenigen mit Integrationspflicht sollten:</p><ul><li>sich rechtzeitig bei der zuständigen Dienststelle melden (Sie empfangen dann ein Anmeldezeugnis),</li><li>an mindestens 80% der Kurse teilnehmen.</li></ul><p>Neue Bürger, für die der Integrationskurs obligatorisch ist und die nicht an einem Integrationskurs teilnehmen, sollten Buβgeld bezahlen.</p><p>Neue Bürger, für die der Integrationskurs nicht obligatorisch ist, die jedoch einen Integrationsvertrag unterzeichnet haben und dem nicht nachkommen, sollten auch Buβgeld bezahlen.</p>","nl-BE-x-generated-informal":"<p>Inburgering bestaat uit <strong>vier onderdelen</strong>:</p><ul><li>Maatschappelijke oriëntatie</li><li>Nederlands als verbindende taal</li><li>Inschrijving bij VDAB (Actiris in Brussel)</li><li>Participatie- en netwerktraject</li></ul><p>Het inburgeringstraject krijgt vorm op maat van de inburgeraar. Via trajectbegeleiding wordt de inburgeraar individuele begeleiding aangeboden naargelang zijn persoonlijke situatie.</p><p>Het Vlaamse <a href=\"https://www.integratie-inburgering.be\">Agentschap Integratie en Inburgering</a> en de twee stedelijke agentschappen in Antwerpen (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) en Gent (<a href=\"https://www.amal.gent\">Amal</a>) bieden de inburgeringstrajecten aan.</p><p>De inhoud van het inburgeringstraject wordt opgenomen in een <strong>inburgeringscontract</strong>. Wie een inburgeringscontract ondertekent, gaat het engagement aan om de doelstellingen van de verschillende onderdelen van het traject te behalen. Wie alle doelstellingen behaalt, ontvangt het <strong>inburgeringsattest</strong>.</p><p>Inburgeraars kunnen na het behalen van hun inburgeringsattest in een vervolgtraject stappen. Ze volgen bijvoorbeeld vervolgcursussen Nederlands ter voorbereiding op hogere studies, ze nemen deel aan een beroepsopleiding of een opleiding tot zelfstandig ondernemer. </p><h3>Inburgeringsplicht</h3><p>Wie inburgeringsplichtig is:</p><ul><li>moet zich tijdig aanmelden bij het bevoegde agentschap</li><li>moet de doelstellingen van alle onderdelen van het inburgeringstraject behalen</li><li>moet 24 maanden na het behalen van het inburgeringsattest - als hij niet werkt of studeert - aantonen dat hij het taalvaardigheidsniveau B1 mondeling beheerst</li></ul><p>Verplichte inburgeraars die hun inburgeringsplicht niet nakomen kunnen een administratieve geldboete krijgen. </p>","en":"<p>In Flanders, the civic integration program consists of:</p><ul><li>a course ‘social orientation’ about life, work, norms and values in Belgium (in a language the learner can understand)</li><li>a Dutch course</li><li>an individual guidance in the search for work, studies… and help for the evaluation of diplomas.</li></ul><p>The Flemish <a href=\"https://www.integratie-inburgering.be\">Agentschap Integratie en Inburgering</a> (Agency for Integration and Civic Integration) and the two city agencies in Antwerpen (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) and Gent (<a href=\"https://www.amal.gent\">Amal</a>) offer the civic integration paths.</p><p>The content of the civic integration path is incorporated into a civic integration contract. Anyone who signs a civic integration contract commits to regularly follow the training programme (to attend at least 80% of all classes during each part of the training).</p><p>Anyone who passes the course ‘social orientation’ and the Dutch course receives a civic integration attestation. The newcomers are then guided in their search for a job or for a diploma (vocational training, training to become a self-employed entrepreneur, extra Dutch language classes, other studies…).</p><h3>Civic integration obligation</h3><p>Anyone who is required to fulfil the civic integration path must:</p><ul><li>register on time at the competent agency (you will then receive a registration attestation)</li><li>attend at least 80% of all classes</li></ul><p>Newcomers required to fulfil the civic integration path who do not fulfil their civic integration obligation risk an administrative fine.</p><p>If you are not required to fulfil the civic integration path but you do not respect the civic integration contract you signed, you still risk an administrative fine.</p>","fr":"<p>L’intégration civique se compose des éléments suivants :</p><ul><li>un cours d’orientation sociale sur la vie, le travail, les normes et les valeurs en Belgique (dans une langue que comprend l’apprenant)</li><li>des cours de néerlandais</li><li>un accompagnement individuel dans la recherche d’un emploi, d’études… et de l’aide dans l’évaluation des diplômes.</li></ul><p>L’<a href=\"https://www.integratie-inburgering.be\">Agentschap Integratie en Inburgering</a> (Agence de l’intégration et de l’Intégration civique) flamande et les deux agences urbaines à Anvers (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) et à Gand (<a href=\"https://www.amal.gent\">Amal</a>) proposent les parcours d’intégration.</p><p>Le contenu du parcours d’intégration est intégré dans un <strong>contrat d’intégration</strong>. Toute personne qui signe un contrat d’intégration s’engage à suivre régulièrement le programme de formation (présence obligatoire à au moins 80% de tous les cours de chaque partie du programme de formation).</p><p>Les personnes qui réussissent les cours d’orientation sociale et les cours de néerlandais reçoivent une <strong>attestation d’intégration</strong>. Les intégrants bénéficient ensuite d’un accompagnement dans leur recherche d’un emploi ou d’un diplôme (formation professionnelle, formation à l’entreprise indépendante, poursuite des cours de néerlandais langue étrangère, poursuite des études...).</p><h3>Obligation d’intégration civique</h3><p>Les personnes tenues par l’obligation d’intégration civiques doivent :</p><ul><li>s’inscrire à temps auprès de l’agence compétente (où ils recevront une attestation d’inscription)</li><li>assister à au moins 80% des cours</li></ul><p>Les intégrants au statut obligatoire qui ne respectent par leur obligation d’intégration civique risquent une amende administrative.</p><p>Les personnes qui ne sont pas des intégrants obligatoires mais qui ne respectent pas le contrat d’intégration civique risquent également une amende administrative.</p>","nl":"<p>Inburgering bestaat uit <strong>vier onderdelen</strong>:</p><ul><li>Maatschappelijke oriëntatie</li><li>Nederlands als verbindende taal</li><li>Inschrijving bij VDAB (Actiris in Brussel)</li><li>Participatie- en netwerktraject</li></ul><p>Het inburgeringstraject krijgt vorm op maat van de inburgeraar. Via trajectbegeleiding wordt de inburgeraar individuele begeleiding aangeboden naargelang zijn persoonlijke situatie.</p><p>Het Vlaamse <a href=\"https://www.integratie-inburgering.be\">Agentschap Integratie en Inburgering</a> en de twee stedelijke agentschappen in Antwerpen (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) en Gent (<a href=\"https://www.amal.gent\">Amal</a>) bieden de inburgeringstrajecten aan.</p><p>De inhoud van het inburgeringstraject wordt opgenomen in een <strong>inburgeringscontract</strong>. Wie een inburgeringscontract ondertekent, gaat het engagement aan om de doelstellingen van de verschillende onderdelen van het traject te behalen. Wie alle doelstellingen behaalt, ontvangt het <strong>inburgeringsattest</strong>.</p><p>Inburgeraars kunnen na het behalen van hun inburgeringsattest in een vervolgtraject stappen. Ze volgen bijvoorbeeld vervolgcursussen Nederlands ter voorbereiding op hogere studies, ze nemen deel aan een beroepsopleiding of een opleiding tot zelfstandig ondernemer. </p><h3>Inburgeringsplicht</h3><p>Wie inburgeringsplichtig is:</p><ul><li>moet zich tijdig aanmelden bij het bevoegde agentschap</li><li>moet de doelstellingen van alle onderdelen van het inburgeringstraject behalen</li><li>moet 24 maanden na het behalen van het inburgeringsattest - als hij niet werkt of studeert - aantonen dat hij het taalvaardigheidsniveau B1 mondeling beheerst</li></ul><p>Verplichte inburgeraars die hun inburgeringsplicht niet nakomen kunnen een administratieve geldboete krijgen. </p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Inburgering.be","nl-BE-x-generated-informal":"Inburgering.be","fr":"Inburgering.be","en":"Inburgering.be","de":"Inburgering.be","nl-BE-x-generated-formal":"Inburgering.be"},"url":"http://www.inburgering.be","@type":"Website","order":0},{"naam":{"de":" Contactgegevens integratie en inburgering","nl-BE-x-generated-informal":" Contactgegevens integratie en inburgering","fr":" Contactgegevens integratie en inburgering","nl-BE-x-generated-formal":" Contactgegevens integratie en inburgering","nl":" Contactgegevens integratie en inburgering","en":" Contactgegevens integratie en inburgering"},"url":"https://integratie-inburgering.be/contact","@type":"Website","order":1},{"naam":{"nl-BE-x-generated-informal":"Agentschap Binnenlands Bestuur - inburgering","nl-BE-x-generated-formal":"Agentschap Binnenlands Bestuur - inburgering","nl":"Agentschap Binnenlands Bestuur - inburgering"},"url":"https://www.vlaanderen.be/samenleven/herkomst/inburgering","@type":"Website","order":2}],"creatie":"2023-05-04T13:05:36.853524252Z","laatstGewijzigd":"2023-07-26T07:00:20.890118436Z","laatstOntvangen":"2023-07-26T07:00:20.89011978Z","productnummer":"193","gearchiveerd":false,"publicatieLink":{"naam":{"en":"See also on vlaanderen.be","nl-BE-x-generated-informal":"Lees meer op vlaanderen.be","nl":"Lees meer op vlaanderen.be","nl-BE-x-generated-formal":"Lees meer op vlaanderen.be"},"url":"https://www.uat-vlaanderen.be/Product/75516d63-ea15-4aef-b189-989b92017cb6"},"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/295fa8c2-5364-4f30-a94a-7157e1084a4b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a1b8913a-f857-4d07-ac66-d1c40e8bdce3"},{"id":"a726c77b-d797-4ab2-8089-f1bbe89493ea","generatedAtTime":"2023-07-26T07:00:20.067079Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl-BE-x-generated-formal":"Subsidie voor aanleg en onderhoud van kleine landschapselementen","nl":"Subsidie voor aanleg en onderhoud van kleine landschapselementen","nl-BE-x-generated-informal":"Subsidie voor aanleg en onderhoud van kleine landschapselementen"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Hagen, houtwallen, houtsingels, bomenrijen, veedrinkpoelen zijn van oudsher belangrijke landschapselementen, die bovendien van belang zijn voor de waterhuishouding en de erosiebestrijding. Lijnvormige landschapselementen zijn eveneens voor heel wat insecten, amfibieën, reptielen en kleine zoogdieren, de enige corridors waarlangs deze dieren kunnen migreren tussen de bestaande geïsoleerde natuurgebieden. Ook zijn zij belangrijk als schuil,- woon- en foerageergebied voor vele vogels.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor aanleg en onderhoud van kleine landschapselementen.</p>","nl-BE-x-generated-formal":"<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Hagen, houtwallen, houtsingels, bomenrijen, veedrinkpoelen zijn van oudsher belangrijke landschapselementen, die bovendien van belang zijn voor de waterhuishouding en de erosiebestrijding. Lijnvormige landschapselementen zijn eveneens voor heel wat insecten, amfibieën, reptielen en kleine zoogdieren, de enige corridors waarlangs deze dieren kunnen migreren tussen de bestaande geïsoleerde natuurgebieden. Ook zijn zij belangrijk als schuil,- woon- en foerageergebied voor vele vogels.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor aanleg en onderhoud van kleine landschapselementen.</p>","nl":"<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Hagen, houtwallen, houtsingels, bomenrijen, veedrinkpoelen zijn van oudsher belangrijke landschapselementen, die bovendien van belang zijn voor de waterhuishouding en de erosiebestrijding. Lijnvormige landschapselementen zijn eveneens voor heel wat insecten, amfibieën, reptielen en kleine zoogdieren, de enige corridors waarlangs deze dieren kunnen migreren tussen de bestaande geïsoleerde natuurgebieden. Ook zijn zij belangrijk als schuil,- woon- en foerageergebied voor vele vogels.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor aanleg en onderhoud van kleine landschapselementen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002239","@id":"OVO002239"}],"creatie":"2023-07-10T07:10:30.614256643Z","laatstGewijzigd":"2023-07-26T07:00:19.967086638Z","laatstOntvangen":"2023-07-26T07:00:19.967088022Z","productnummer":"2878","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a726c77b-d797-4ab2-8089-f1bbe89493ea","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/05a6e782-4e56-4b37-a5be-82f28f09e388"},{"id":"6792ec41-cc85-4776-b441-80c34afbb67e","generatedAtTime":"2023-07-26T07:00:19.748961Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Subsidie voor ecologisch akkerrandbeheer en groenbemesting","nl-BE-x-generated-formal":"Subsidie voor ecologisch akkerrandbeheer en groenbemesting","nl-BE-x-generated-informal":"Subsidie voor ecologisch akkerrandbeheer en groenbemesting"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Erosie kan tegengegaan worden door het zaaien van groenbemesting na de teelten en het ecologisch beheer van akkerranden.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor het beheer van akkerranden ten behoeve van akkervogels en akkerplanten en voor het inzaaien en behouden op de akkers van een groenbemesting gedurende de winterperiode.</p>","nl":"<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Erosie kan tegengegaan worden door het zaaien van groenbemesting na de teelten en het ecologisch beheer van akkerranden.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor het beheer van akkerranden ten behoeve van akkervogels en akkerplanten en voor het inzaaien en behouden op de akkers van een groenbemesting gedurende de winterperiode.</p>","nl-BE-x-generated-informal":"<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Erosie kan tegengegaan worden door het zaaien van groenbemesting na de teelten en het ecologisch beheer van akkerranden.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor het beheer van akkerranden ten behoeve van akkervogels en akkerplanten en voor het inzaaien en behouden op de akkers van een groenbemesting gedurende de winterperiode.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002239","@id":"OVO002239"}],"creatie":"2023-05-09T12:05:04.181096307Z","laatstGewijzigd":"2023-07-26T07:00:19.659335452Z","laatstOntvangen":"2023-07-26T07:00:19.659336263Z","productnummer":"2877","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6792ec41-cc85-4776-b441-80c34afbb67e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4e0b7bf4-976c-4b1a-84d0-759ca9de1a2d"},{"id":"22b2ceb7-f4d7-47d3-9b94-7814f4c23543","generatedAtTime":"2023-07-26T07:00:19.477393Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl-BE-x-generated-formal":"Vergunning voor de exploitatie van boomkwekerijen","nl":"Vergunning voor de exploitatie van boomkwekerijen","nl-BE-x-generated-informal":"Vergunning voor de exploitatie van boomkwekerijen"},"beschrijving":{"nl-BE-x-generated-formal":"<p>De exploitatie van boomkwekerijen in Sint-Truiden is enkel toegelaten na een vergunning te verlenen door de burgemeester. De boomkwekerij mag enkel aangelegd en geëxploiteerd worden overeenkomstig de voorwaarden opgenomen in de vergunning.</p><p>Als boomkwekerij wordt beschouwd: elke plaats waar men jonge bomen of struiken tijdelijk uitplant en verzorgt.</p>","nl":"<p>De exploitatie van boomkwekerijen in Sint-Truiden is enkel toegelaten na een vergunning te verlenen door de burgemeester. De boomkwekerij mag enkel aangelegd en geëxploiteerd worden overeenkomstig de voorwaarden opgenomen in de vergunning.</p><p>Als boomkwekerij wordt beschouwd: elke plaats waar men jonge bomen of struiken tijdelijk uitplant en verzorgt.</p>","nl-BE-x-generated-informal":"<p>De exploitatie van boomkwekerijen in Sint-Truiden is enkel toegelaten na een vergunning te verlenen door de burgemeester. De boomkwekerij mag enkel aangelegd en geëxploiteerd worden overeenkomstig de voorwaarden opgenomen in de vergunning.</p><p>Als boomkwekerij wordt beschouwd: elke plaats waar men jonge bomen of struiken tijdelijk uitplant en verzorgt.</p>"},"type":"Toelating","themas":["MilieuEnergie"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002239","@id":"OVO002239"}],"creatie":"2023-07-10T07:10:30.030142608Z","laatstGewijzigd":"2023-07-26T07:00:19.392184276Z","laatstOntvangen":"2023-07-26T07:00:19.392185329Z","productnummer":"2862","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/22b2ceb7-f4d7-47d3-9b94-7814f4c23543","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/daa5c55d-c25d-4f4f-8ba3-2328edfcad02"},{"id":"0151a28d-340e-4259-9c85-8d36424393b9","generatedAtTime":"2023-07-26T07:00:19.146485Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl-BE-x-generated-informal":"Subsidie voor projecten in kunst, cultuur en cultureel erfgoed in Stad Gent","nl-BE-x-generated-formal":"Subsidie voor projecten in kunst, cultuur en cultureel erfgoed in Stad Gent","nl":"Subsidie voor projecten in kunst, cultuur en cultureel erfgoed in Stad Gent"},"beschrijving":{"nl":"<p>De Stad Gent wenst door het subsidiëren van culturele en artistieke projecten impulsen te geven aan het stedelijk cultuurlandschap en kan daarom naast de structurele ondersteuning van cultuurspelers ook een subsidie verlenen aan culturele en artistieke projecten.</p>","nl-BE-x-generated-formal":"<p>De Stad Gent wenst door het subsidiëren van culturele en artistieke projecten impulsen te geven aan het stedelijk cultuurlandschap en kan daarom naast de structurele ondersteuning van cultuurspelers ook een subsidie verlenen aan culturele en artistieke projecten.</p>","nl-BE-x-generated-informal":"<p>De Stad Gent wenst door het subsidiëren van culturele en artistieke projecten impulsen te geven aan het stedelijk cultuurlandschap en kan daarom naast de structurele ondersteuning van cultuurspelers ook een subsidie verlenen aan culturele en artistieke projecten.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002067","@id":"OVO002067"}],"websites":[{"naam":{"nl":"Subsidiereglement Stad Gent voor de financiële ondersteuning van projecten in kunst, cultuur en cultureel erfgoed voor periode 2021-2025","nl-BE-x-generated-informal":"Subsidiereglement Stad Gent voor de financiële ondersteuning van projecten in kunst, cultuur en cultureel erfgoed voor periode 2021-2025","nl-BE-x-generated-formal":"Subsidiereglement Stad Gent voor de financiële ondersteuning van projecten in kunst, cultuur en cultureel erfgoed voor periode 2021-2025"},"url":"https://stad.gent/nl/reglementen/subsidiereglement-voor-de-financiele-ondersteuning-van-projecten-kunst-cultuur-en-cultureel-erfgoed","@type":"Website","order":0}],"creatie":"2023-07-10T07:00:32.47742381Z","laatstGewijzigd":"2023-07-26T07:00:19.051735849Z","laatstOntvangen":"2023-07-26T07:00:19.051736966Z","productnummer":"3129","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0151a28d-340e-4259-9c85-8d36424393b9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c6492d01-1291-46b4-b8c5-fad40a97b4bd"},{"id":"c4c659b9-4b6c-44c1-bd31-1b493d6bbaa9","generatedAtTime":"2023-07-26T07:00:18.820831Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Subsidie voor de renovatie van huurwoningen","nl-BE-x-generated-formal":"Subsidie voor de renovatie van huurwoningen","nl-BE-x-generated-informal":"Subsidie voor de renovatie van huurwoningen"},"beschrijving":{"nl-BE-x-generated-informal":"<p>De Stad Gent wil verhuurders stimuleren en ondersteunen om hun huurwoning in Gent kwaliteitsvol en energiezuinig te renoveren. De premie kan aangevraagd worden vanaf 1 juli 2021 tot en met 31 december 2025.</p>","nl":"<p>De Stad Gent wil verhuurders stimuleren en ondersteunen om hun huurwoning in Gent kwaliteitsvol en energiezuinig te renoveren. De premie kan aangevraagd worden vanaf 1 juli 2021 tot en met 31 december 2025.</p>","nl-BE-x-generated-formal":"<p>De Stad Gent wil verhuurders stimuleren en ondersteunen om hun huurwoning in Gent kwaliteitsvol en energiezuinig te renoveren. De premie kan aangevraagd worden vanaf 1 juli 2021 tot en met 31 december 2025.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002067","@id":"OVO002067"}],"websites":[{"naam":{"nl":"Subsidie voor de renovatie van huurwoningen","nl-BE-x-generated-formal":"Subsidie voor de renovatie van huurwoningen","nl-BE-x-generated-informal":"Subsidie voor de renovatie van huurwoningen"},"url":"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen","@type":"Website","order":0}],"creatie":"2023-07-10T07:00:32.244762438Z","laatstGewijzigd":"2023-07-26T07:00:18.719712004Z","laatstOntvangen":"2023-07-26T07:00:18.719712792Z","productnummer":"2003","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c4c659b9-4b6c-44c1-bd31-1b493d6bbaa9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b4835164-5ea1-4335-8934-0fdb2d7d55de"},{"id":"ca7e4767-d298-4cd5-9b57-4c7641575df0","generatedAtTime":"2023-07-26T07:00:18.516576Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl-BE-x-generated-informal":"Subsidie verfraaing handelspanden","nl":"Subsidie verfraaing handelspanden","nl-BE-x-generated-formal":"Subsidie verfraaing handelspanden"},"beschrijving":{"nl-BE-x-generated-formal":"<p>De Stad Gent subsidieert renovaties aan handelspanden als uw werk maakt van een verzorgde gevel, toegankelijkheid, verbeteren van commerciële ruimte, enz.<br/>Er wordt extra aandacht besteed aan werken die de toegankelijkheid voor personen met een fysieke beperking verbeteren. Ook gezinsvriendelijke horeca wordt ondersteund. Verder worden verbeteringswerken aan de maak-/atelierruimtes verbonden aan een handelszaak gesubsidieerd.</p>","nl-BE-x-generated-informal":"<p>De Stad Gent subsidieert renovaties aan handelspanden als je werk maakt van een verzorgde gevel, toegankelijkheid, verbeteren van commerciële ruimte, enz.<br/>Er wordt extra aandacht besteed aan werken die de toegankelijkheid voor personen met een fysieke beperking verbeteren. Ook gezinsvriendelijke horeca wordt ondersteund. Verder worden verbeteringswerken aan de maak-/atelierruimtes verbonden aan een handelszaak gesubsidieerd.</p>","nl":"<p>De Stad Gent subsidieert renovaties aan handelspanden als je werk maakt van een verzorgde gevel, toegankelijkheid, verbeteren van commerciële ruimte, enz.<br />Er wordt extra aandacht besteed aan werken die de toegankelijkheid voor personen met een fysieke beperking verbeteren. Ook gezinsvriendelijke horeca wordt ondersteund. Verder worden verbeteringswerken aan de maak-/atelierruimtes verbonden aan een handelszaak gesubsidieerd.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002067","@id":"OVO002067"}],"websites":[{"naam":{"nl-BE-x-generated-informal":"Subsidie verfraaing handelspanden","nl":"Subsidie verfraaing handelspanden","nl-BE-x-generated-formal":"Subsidie verfraaing handelspanden"},"url":"https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden","@type":"Website","order":0}],"creatie":"2023-07-10T07:00:32.012931473Z","laatstGewijzigd":"2023-07-26T07:00:18.418884585Z","laatstOntvangen":"2023-07-26T07:00:18.418885819Z","productnummer":"2002","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ca7e4767-d298-4cd5-9b57-4c7641575df0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/95f0b3e2-ffc2-47e3-a3f1-9d014527e9d8"},{"id":"8f20b6f8-6efa-407f-b901-f9a835cad189","generatedAtTime":"2023-07-26T07:00:18.227146Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl-BE-x-generated-informal":"Starterscontract","nl":"Starterscontract","nl-BE-x-generated-formal":"Starterscontract"},"beschrijving":{"nl":"<p>Stad Gent kent een subsidie toe aan (her)startende ondernemers om hun slaagkansen te verhogen en de zelfstandige economische activiteit in de stad te verhogen. Onderteken een starterscontract en ontvang een subsidie van 5.000 euro voor investeringen, cursussen of professioneel advies.</p>","nl-BE-x-generated-formal":"<p>Stad Gent kent een subsidie toe aan (her)startende ondernemers om hun slaagkansen te verhogen en de zelfstandige economische activiteit in de stad te verhogen. Onderteken een starterscontract en ontvang een subsidie van 5.000 euro voor investeringen, cursussen of professioneel advies.</p>","nl-BE-x-generated-informal":"<p>Stad Gent kent een subsidie toe aan (her)startende ondernemers om hun slaagkansen te verhogen en de zelfstandige economische activiteit in de stad te verhogen. Onderteken een starterscontract en ontvang een subsidie van 5.000 euro voor investeringen, cursussen of professioneel advies.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002067","@id":"OVO002067"}],"websites":[{"naam":{"nl-BE-x-generated-informal":"Starterscontract","nl":"Starterscontract","nl-BE-x-generated-formal":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0}],"creatie":"2023-07-10T07:00:31.801877541Z","laatstGewijzigd":"2023-07-26T07:00:18.131867867Z","laatstOntvangen":"2023-07-26T07:00:18.131869595Z","productnummer":"2001","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8f20b6f8-6efa-407f-b901-f9a835cad189","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/44ac5d82-14eb-4d4e-b073-334ee90d55b9"},{"id":"fcfcce88-74e1-4ac7-9dc7-40e994294c22","generatedAtTime":"2023-07-26T07:00:17.815259Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl-BE-x-generated-formal":"Subsidie voor milieu-en natuurverenigingen","nl":"Subsidie voor milieu-en natuurverenigingen","nl-BE-x-generated-informal":"Subsidie voor milieu-en natuurverenigingen"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Erkende Gentse natuur-en milieuverenigingen kunnen een subsidie van Stad Gent ontvangen.</p>","nl":"<p>Erkende Gentse natuur-en milieuverenigingen kunnen een subsidie van Stad Gent ontvangen.</p>","nl-BE-x-generated-formal":"<p>Erkende Gentse natuur-en milieuverenigingen kunnen een subsidie van Stad Gent ontvangen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002067","@id":"OVO002067"}],"creatie":"2023-07-10T07:00:31.619363799Z","laatstGewijzigd":"2023-07-26T07:00:17.744023577Z","laatstOntvangen":"2023-07-26T07:00:17.744024421Z","productnummer":"1933","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fcfcce88-74e1-4ac7-9dc7-40e994294c22","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dd8d1647-f722-4322-900d-1aa901ca7048"},{"id":"db621ff7-9583-41ab-a057-6a4651985363","generatedAtTime":"2023-07-26T07:00:17.41061Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl-BE-x-generated-formal":"Subsidie voor Klimaatscholen","nl":"Subsidie voor Klimaatscholen","nl-BE-x-generated-informal":"Subsidie voor Klimaatscholen"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Stad Gent wil klimaatprojecten van Gentse Klimaatscholen ondersteunen met een premie. Een Klimaatschool bouwt mee aan Gent Klimaatstad door een groene speelplaats, of een plantaardige lunch, of meer uitstappen per fiets, of energie te besparen, of ...</p>","nl":"<p>Stad Gent wil klimaatprojecten van Gentse Klimaatscholen ondersteunen met een premie. Een Klimaatschool bouwt mee aan Gent Klimaatstad door een groene speelplaats, of een plantaardige lunch, of meer uitstappen per fiets, of energie te besparen, of ...</p>","nl-BE-x-generated-formal":"<p>Stad Gent wil klimaatprojecten van Gentse Klimaatscholen ondersteunen met een premie. Een Klimaatschool bouwt mee aan Gent Klimaatstad door een groene speelplaats, of een plantaardige lunch, of meer uitstappen per fiets, of energie te besparen, of ...</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002067","@id":"OVO002067"}],"creatie":"2023-07-10T07:00:31.441679Z","laatstGewijzigd":"2023-07-26T07:00:17.330679917Z","laatstOntvangen":"2023-07-26T07:00:17.330693943Z","productnummer":"1932","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/db621ff7-9583-41ab-a057-6a4651985363","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6f784c83-9d79-4aa4-bbeb-22b24a6ee658"},{"id":"bdf091dd-1fe9-4af4-94ed-a4a6766aaa32","generatedAtTime":"2023-07-26T07:00:17.171676Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Subidie voor Klimaatprojecten","nl-BE-x-generated-formal":"Subidie voor Klimaatprojecten","nl-BE-x-generated-informal":"Subidie voor Klimaatprojecten"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Stad Gent wil klimaatprojecten van Gentse verenigingen ondersteunen via een premie:</p><ul><li>projecten ter ondersteuning van acties die de doelstellingen van het Gents Klimaatverbond helpen realiseren, en/of</li><li>projecten die de Gentenaars intenser betrekken bij het Klimaatverbond en zo het draagvlak voor het Klimaatverbond vergroten.</li></ul>","nl":"<p>Stad Gent wil klimaatprojecten van Gentse verenigingen ondersteunen via een premie:</p><ul><li>projecten ter ondersteuning van acties die de doelstellingen van het Gents Klimaatverbond helpen realiseren, en/of</li><li>projecten die de Gentenaars intenser betrekken bij het Klimaatverbond en zo het draagvlak voor het Klimaatverbond vergroten.</li></ul>","nl-BE-x-generated-informal":"<p>Stad Gent wil klimaatprojecten van Gentse verenigingen ondersteunen via een premie:</p><ul><li>projecten ter ondersteuning van acties die de doelstellingen van het Gents Klimaatverbond helpen realiseren, en/of</li><li>projecten die de Gentenaars intenser betrekken bij het Klimaatverbond en zo het draagvlak voor het Klimaatverbond vergroten.</li></ul>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002067","@id":"OVO002067"}],"creatie":"2023-07-10T07:00:31.267471523Z","laatstGewijzigd":"2023-07-26T07:00:17.092152582Z","laatstOntvangen":"2023-07-26T07:00:17.092154005Z","productnummer":"1931","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bdf091dd-1fe9-4af4-94ed-a4a6766aaa32","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f89c2673-8a3b-407a-b53f-7f82e9be73a5"},{"id":"0437e682-715b-49d1-ab06-d1e99df4b21c","generatedAtTime":"2023-07-26T07:00:16.681358Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":" Projectsubsidie Natuur in je school - Natuur","nl-BE-x-generated-formal":" Projectsubsidie Natuur in uw school - Natuur","nl-BE-x-generated-informal":" Projectsubsidie Natuur in je school - Natuur"},"beschrijving":{"nl":"<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>","nl-BE-x-generated-formal":"<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>","nl-BE-x-generated-informal":"<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl-BE-x-generated-formal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-07-10T07:25:23.420209874Z","laatstGewijzigd":"2023-07-26T07:00:16.600675273Z","laatstOntvangen":"2023-07-26T07:00:16.600676749Z","productnummer":"2906","gearchiveerd":false,"subsidiemaatregel":"QF","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0437e682-715b-49d1-ab06-d1e99df4b21c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6ab1a1e6-61c6-44e0-b274-e8f1436f4455"},{"id":"4c646bfc-2b17-46bd-982a-2baa984b4225","generatedAtTime":"2023-07-26T07:00:16.456352Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Projectsubsidie Natuur in je school - Water","nl":"Projectsubsidie Natuur in je school - Water","nl-BE-x-generated-formal":"Projectsubsidie Natuur in u school - Water"},"beschrijving":{"nl":"<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>","nl-BE-x-generated-formal":"<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>","nl-BE-x-generated-informal":"<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl-BE-x-generated-formal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:35:17.253060014Z","laatstGewijzigd":"2023-07-26T07:00:16.368764469Z","laatstOntvangen":"2023-07-26T07:00:16.3687667Z","productnummer":"2867","gearchiveerd":false,"subsidiemaatregel":"QD","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4c646bfc-2b17-46bd-982a-2baa984b4225","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7c41dd36-07a0-4a05-9d82-d33b522e0115"},{"id":"471d77ec-f68d-44ea-8910-b39fc6230b1a","generatedAtTime":"2023-07-26T07:00:16.220968Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Wildrapport","nl":"Wildrapport","nl-BE-x-generated-formal":"Wildrapport"},"beschrijving":{"nl":"<p>Artikel 47 van het jachtadministratiebesluit legt op dat elke onafhankelijke jachtrechthouder en elke wildbeheereenheid (WBE) jaarlijks een wildrapport moet indienen. Het gaat hierbij om wetgeving die betrekking heeft op jagers in het Vlaamse Gewest.</p><p>In het wildrapport wordt jaarlijks opgenomen wat de voorjaarsstand is van bepaalde wildsoorten (aantallen) en wat er in het voorgaande jaar werd geschoten. Deze data worden verzameld door het Agentschap voor Natuur en Bos (ANB) voor beleidsbeslissingen. Ook het Instituut voor Natuur- en Bosonderzoek (INBO) gebruikt de gerapporteerde gegevens voor wetenschappelijke doeleinden.</p>","nl-BE-x-generated-formal":"<p>Artikel 47 van het jachtadministratiebesluit legt op dat elke onafhankelijke jachtrechthouder en elke wildbeheereenheid (WBE) jaarlijks een wildrapport moet indienen. Het gaat hierbij om wetgeving die betrekking heeft op jagers in het Vlaamse Gewest.</p><p>In het wildrapport wordt jaarlijks opgenomen wat de voorjaarsstand is van bepaalde wildsoorten (aantallen) en wat er in het voorgaande jaar werd geschoten. Deze data worden verzameld door het Agentschap voor Natuur en Bos (ANB) voor beleidsbeslissingen. Ook het Instituut voor Natuur- en Bosonderzoek (INBO) gebruikt de gerapporteerde gegevens voor wetenschappelijke doeleinden.</p>","nl-BE-x-generated-informal":"<p>Artikel 47 van het jachtadministratiebesluit legt op dat elke onafhankelijke jachtrechthouder en elke wildbeheereenheid (WBE) jaarlijks een wildrapport moet indienen. Het gaat hierbij om wetgeving die betrekking heeft op jagers in het Vlaamse Gewest.</p><p>In het wildrapport wordt jaarlijks opgenomen wat de voorjaarsstand is van bepaalde wildsoorten (aantallen) en wat er in het voorgaande jaar werd geschoten. Deze data worden verzameld door het Agentschap voor Natuur en Bos (ANB) voor beleidsbeslissingen. Ook het Instituut voor Natuur- en Bosonderzoek (INBO) gebruikt de gerapporteerde gegevens voor wetenschappelijke doeleinden.</p>"},"type":"Bewijs","themas":["MilieuEnergie"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-generated-formal":"Procedure"},"beschrijving":{"nl":"<p>Het wildrapport moet bij het Agentschap voor Natuur en Bos (ANB) worden ingediend. Hiervoor is een e-loket voorzien bij ANB.</p>","nl-BE-x-generated-formal":"<p>Het wildrapport moet bij het Agentschap voor Natuur en Bos (ANB) worden ingediend. Hiervoor is een e-loket voorzien bij ANB.</p>","nl-BE-x-generated-informal":"<p>Het wildrapport moet bij het Agentschap voor Natuur en Bos (ANB) worden ingediend. Hiervoor is een e-loket voorzien bij ANB.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl-BE-x-generated-informal":"Wildrapport","nl":"Wildrapport","nl-BE-x-generated-formal":"Wildrapport"},"url":"https://natuurenbos.vlaanderen.be/jagen/jachtverlof-en-administratieve-verplichtingen/jachtplan-faunabeheerplan-wildrapport-en#toc-wildrapport","@type":"Website","order":0}],"creatie":"2023-05-04T14:35:14.901393287Z","laatstGewijzigd":"2023-07-26T07:00:16.048235409Z","laatstOntvangen":"2023-07-26T07:00:16.048237044Z","productnummer":"2857","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"verwanteProducten":[{"id":"e907f8e3-2445-465a-97d6-649df19ed81a","productnummer":"2856","type":"INSTANTIE","order":0},{"id":"6eb80e99-ed22-40b2-a4fa-5857f28487de","productnummer":"399","type":"INSTANTIE","order":1}],"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/471d77ec-f68d-44ea-8910-b39fc6230b1a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/09874b68-7ae0-4232-810b-e50556e1fada"},{"id":"b2df2dee-3b52-4052-bc83-38e58779417a","generatedAtTime":"2023-07-26T07:00:15.839614Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Faunabeheerplan","nl":"Faunabeheerplan","nl-BE-x-generated-informal":"Faunabeheerplan"},"beschrijving":{"nl":"<p>Artikels 43 - 46 van het jachtvoorwaardenbesluit beschrijven de noodzaak voor het Faunabeheerplan. Het is een wettelijk verplicht document dat elke wildbeheereenheid (WBE) en onafhankelijke jachtrechthouder moet voorleggen aan het Agentschap voor Natuur en Bos. Op basis van het faunabeheerplan wordt nagegaan of er aan duurzaam wildbeheer wordt gedaan, of er patrijsvriendelijk beheer plaatsvindt op het werkingsgebied en of de WBE in aanmerking komt voor projectsubsidies.</p>","nl-BE-x-generated-formal":"<p>Artikels 43 - 46 van het jachtvoorwaardenbesluit beschrijven de noodzaak voor het Faunabeheerplan. Het is een wettelijk verplicht document dat elke wildbeheereenheid (WBE) en onafhankelijke jachtrechthouder moet voorleggen aan het Agentschap voor Natuur en Bos. Op basis van het faunabeheerplan wordt nagegaan of er aan duurzaam wildbeheer wordt gedaan, of er patrijsvriendelijk beheer plaatsvindt op het werkingsgebied en of de WBE in aanmerking komt voor projectsubsidies.</p>","nl-BE-x-generated-informal":"<p>Artikels 43 - 46 van het jachtvoorwaardenbesluit beschrijven de noodzaak voor het Faunabeheerplan. Het is een wettelijk verplicht document dat elke wildbeheereenheid (WBE) en onafhankelijke jachtrechthouder moet voorleggen aan het Agentschap voor Natuur en Bos. Op basis van het faunabeheerplan wordt nagegaan of er aan duurzaam wildbeheer wordt gedaan, of er patrijsvriendelijk beheer plaatsvindt op het werkingsgebied en of de WBE in aanmerking komt voor projectsubsidies.</p>"},"type":"Bewijs","themas":["MilieuEnergie"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"websites":[{"naam":{"nl-BE-x-generated-informal":"Jacht - Faunabeheerplan","nl-BE-x-generated-formal":"Jacht - Faunabeheerplan","nl":"Jacht - Faunabeheerplan"},"url":"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/jachtadministratie/faunabeheerplan","@type":"Website","order":0}],"creatie":"2023-05-04T14:35:14.771027011Z","laatstGewijzigd":"2023-07-26T07:00:15.701062739Z","laatstOntvangen":"2023-07-26T07:00:15.701064075Z","productnummer":"2856","gearchiveerd":false,"metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"verwanteProducten":[{"id":"f10d667f-5a15-4bf4-a9f3-e7c46512cc42","productnummer":"196","type":"INSTANTIE","order":0},{"id":"6eb80e99-ed22-40b2-a4fa-5857f28487de","productnummer":"399","type":"INSTANTIE","order":1},{"id":"09874b68-7ae0-4232-810b-e50556e1fada","productnummer":"2857","type":"INSTANTIE","order":2}],"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b2df2dee-3b52-4052-bc83-38e58779417a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e907f8e3-2445-465a-97d6-649df19ed81a"},{"id":"cdd3661d-c2b4-42dc-a55d-1548651af3b3","generatedAtTime":"2023-07-26T07:00:15.476659Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Vlaams Fonds Tropisch Bos","nl":"Vlaams Fonds Tropisch Bos","nl-BE-x-generated-informal":"Vlaams Fonds Tropisch Bos"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Projecten tvv bos in de tropen.</p>","nl":"<p>Projecten tvv bos in de tropen.</p>","nl-BE-x-generated-informal":"<p>Projecten tvv bos in de tropen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl-BE-x-generated-formal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.827095051Z","laatstGewijzigd":"2023-07-26T07:00:15.38651244Z","laatstOntvangen":"2023-07-26T07:00:15.386513879Z","productnummer":"2301","gearchiveerd":false,"subsidiemaatregel":"QF","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cdd3661d-c2b4-42dc-a55d-1548651af3b3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/401da6c9-52e8-4520-80f2-3913a6ac03be"},{"id":"084c173f-704a-4894-9b8d-48db953a376e","generatedAtTime":"2023-07-26T07:00:15.225714Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Visserijfonds","nl":"Visserijfonds","nl-BE-x-generated-informal":"Visserijfonds"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.701078814Z","laatstGewijzigd":"2023-07-26T07:00:15.157753404Z","laatstOntvangen":"2023-07-26T07:00:15.157755169Z","productnummer":"2300","gearchiveerd":false,"subsidiemaatregel":"QF","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/084c173f-704a-4894-9b8d-48db953a376e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e3a20bd4-aeec-4c2a-a148-36ea4c6e2e58"},{"id":"b5d3aff0-fb6c-46ba-b50b-5f244b471223","generatedAtTime":"2023-07-26T07:00:14.946838Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies voor de werking van de onthaalpoorten","nl":"Subsidies voor de werking van de onthaalpoorten","nl-BE-x-generated-formal":"Subsidies voor de werking van de onthaalpoorten"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.587306417Z","laatstGewijzigd":"2023-07-26T07:00:14.353172434Z","laatstOntvangen":"2023-07-26T07:00:14.353338994Z","productnummer":"2299","gearchiveerd":false,"subsidiemaatregel":"QF","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5d3aff0-fb6c-46ba-b50b-5f244b471223","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a56406db-8521-4714-8e8c-e006dc50a80c"},{"id":"b5c13225-e879-4224-97f1-2e1497cf9467","generatedAtTime":"2023-07-26T07:00:14.061458Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies om terreinen toegankelijk te maken en te houden","nl-BE-x-generated-formal":"Subsidies om terreinen toegankelijk te maken en te houden","nl":"Subsidies om terreinen toegankelijk te maken en te houden"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.47058204Z","laatstGewijzigd":"2023-07-26T07:00:13.969622851Z","laatstOntvangen":"2023-07-26T07:00:13.969624145Z","productnummer":"2298","gearchiveerd":false,"subsidiemaatregel":"QF","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5c13225-e879-4224-97f1-2e1497cf9467","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7ae4ae2f-0a9d-41f9-8bf0-56917a3e953f"},{"id":"0ca539db-405e-4550-b8d7-712881497fc6","generatedAtTime":"2023-07-26T07:00:13.830898Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies bevordering en uitvoering beleid","nl-BE-x-generated-informal":"Subsidies bevordering en uitvoering beleid","nl":"Subsidies bevordering en uitvoering beleid"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl-BE-x-generated-formal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.344651501Z","laatstGewijzigd":"2023-07-26T07:00:13.752160953Z","laatstOntvangen":"2023-07-26T07:00:13.752162084Z","productnummer":"2297","gearchiveerd":false,"subsidiemaatregel":"QF","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0ca539db-405e-4550-b8d7-712881497fc6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6e6f2fae-3130-4680-acf6-874899c3332b"},{"id":"8d82dfbf-6d5c-4807-891b-23aa2a72d79d","generatedAtTime":"2023-07-26T07:00:13.608007Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie erkende reservaten","nl":"Subsidie erkende reservaten","nl-BE-x-generated-formal":"Subsidie erkende reservaten"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Beheersubsidies.</p>","nl-BE-x-generated-formal":"<p>Beheersubsidies.</p>","nl":"<p>Beheersubsidies.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl-BE-x-generated-formal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.234523853Z","laatstGewijzigd":"2023-07-26T07:00:13.524931468Z","laatstOntvangen":"2023-07-26T07:00:13.524932804Z","productnummer":"2296","gearchiveerd":false,"subsidiemaatregel":"QF","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8d82dfbf-6d5c-4807-891b-23aa2a72d79d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ab57e195-345a-49b5-a290-8bd69e1f4c19"},{"id":"80c2da73-5740-455a-bd40-b2f254229a14","generatedAtTime":"2023-07-26T07:00:13.327697Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie beheer GBN","nl":"Subsidie beheer GBN","nl-BE-x-generated-formal":"Subsidie beheer GBN"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Beheersubsidies.</p>","nl-BE-x-generated-formal":"<p>Beheersubsidies.</p>","nl":"<p>Beheersubsidies.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de<br/>planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring van de<br />planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de<br/>planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.111603548Z","laatstGewijzigd":"2023-07-26T07:00:13.243496433Z","laatstOntvangen":"2023-07-26T07:00:13.243497368Z","productnummer":"2295","gearchiveerd":false,"subsidiemaatregel":"QF","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/80c2da73-5740-455a-bd40-b2f254229a14","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/46354457-d271-441f-92af-4540e0d3583a"},{"id":"2eb3269e-3177-4b74-8d53-4fee171b280c","generatedAtTime":"2023-07-26T07:00:13.070884Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Restfinanciering Life","nl-BE-x-generated-formal":"Restfinanciering Life","nl":"Restfinanciering Life"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:16.992983349Z","laatstGewijzigd":"2023-07-26T07:00:12.987390693Z","laatstOntvangen":"2023-07-26T07:00:12.987392082Z","productnummer":"2294","gearchiveerd":false,"subsidiemaatregel":"QF","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2eb3269e-3177-4b74-8d53-4fee171b280c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a5e0fafd-8a93-4475-9160-f4016bff5888"},{"id":"55140e11-6a64-496e-bda2-ff1c2ca8f04a","generatedAtTime":"2023-07-26T07:00:12.759528Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Projectsubsidies natuur","nl-BE-x-generated-formal":"Projectsubsidies natuur","nl":"Projectsubsidies natuur"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Uitvoering eenmalige inrichtingswerken.</p>","nl":"<p>Uitvoering eenmalige inrichtingswerken.</p>","nl-BE-x-generated-formal":"<p>Uitvoering eenmalige inrichtingswerken.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:51.096406809Z","laatstGewijzigd":"2023-07-26T07:00:12.672773455Z","laatstOntvangen":"2023-07-26T07:00:12.672923919Z","productnummer":"2293","gearchiveerd":false,"subsidiemaatregel":"QF","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/55140e11-6a64-496e-bda2-ff1c2ca8f04a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a8a6b0fd-69cc-4c0c-b8bd-ac9702efa3a6"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=773",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=772",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-07-26T07:00:12.759528Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=774",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-07-26T07:00:22.507665Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=773",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "83ddd535-cb14-4642-8a8c-c4eb46fed718",
+      "generatedAtTime": "2023-07-26T07:00:22.507665Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Specifieke hulp voor onderhoudsgeld of een geplaatst kind",
+        "nl-BE-x-generated-formal": "Specifieke hulp voor onderhoudsgeld of een geplaatst kind",
+        "nl-BE-x-generated-informal": "Specifieke hulp voor onderhoudsgeld of een geplaatst kind"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Als u onderhoudsgelden voor uw kind(eren) of bijdragen voor een of meer geplaatste kinderen moet betalen, kunt u specifieke steun vragen aan het OCMW.</p>",
+        "nl-BE-x-generated-informal": "<p>Als je onderhoudsgelden voor jouw kind(eren) of bijdragen voor een of meer geplaatste kinderen moet betalen, kan je specifieke steun vragen aan het OCMW.</p>",
+        "nl": "<p>Als u onderhoudsgelden voor uw kind(eren) of bijdragen voor een of meer geplaatste kinderen moet betalen, kunt u specifieke steun vragen aan het OCMW.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid",
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001846",
+          "@id": "OVO001846"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-generated-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>Je kan deze steun verkrijgen door mondeling of schriftelijk een aanvraag in te dienen bij het OCMW dat bevoegd is voor de toekenning van jouw leefloon of maatschappelijke dienstverlening. Je krijgt dan van het OCMW een ontvangstbewijs van jouw aanvraag. Het OCMW kan dan beslissen om je een financiële tussenkomst toe te kennen in de onderhoudsgelden of bijdragen die door je werden betaald.</p>",
+            "nl-BE-x-generated-formal": "<p>U kan deze steun verkrijgen door mondeling of schriftelijk een aanvraag in te dienen bij het OCMW dat bevoegd is voor de toekenning van uw leefloon of maatschappelijke dienstverlening. U krijgt dan van het OCMW een ontvangstbewijs van uw aanvraag. Het OCMW kan dan beslissen om u een financiële tussenkomst toe te kennen in de onderhoudsgelden of bijdragen die door u werden betaald.</p>",
+            "nl": "<p>U kan deze steun verkrijgen door mondeling of schriftelijk een aanvraag in te dienen bij het OCMW dat bevoegd is voor de toekenning van uw leefloon of maatschappelijke dienstverlening. U krijgt dan van het OCMW een ontvangstbewijs van uw aanvraag. Het OCMW kan dan beslissen om u een financiële tussenkomst toe te kennen in de onderhoudsgelden of bijdragen die door u werden betaald.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-generated-formal": "OCMW-tussenkomst bij onderhoudsgeld (Agentschap Integratie en Inburgering)",
+            "nl": "OCMW-tussenkomst bij onderhoudsgeld (Agentschap Integratie en Inburgering)",
+            "nl-BE-x-generated-informal": "OCMW-tussenkomst bij onderhoudsgeld (Agentschap Integratie en Inburgering)"
+          },
+          "url": "https://www.agii.be/thema/sociaal-medisch/ocmw-steun/bijzondere-vormen-van-ocmw-dienstverlening/ocmw-tussenkomst-na-betaling-onderhoudsgeld-kinderen-of-bijdragen-geplaatste-kinderen#2",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-07-10T06:50:09.851923079Z",
+      "laatstGewijzigd": "2023-07-26T07:00:22.360757453Z",
+      "laatstOntvangen": "2023-07-26T07:00:22.360758979Z",
+      "productnummer": "3019",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/83ddd535-cb14-4642-8a8c-c4eb46fed718",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e708d063-0577-480f-abda-ab0340ace7dc"
+    },
+    {
+      "id": "295fa8c2-5364-4f30-a94a-7157e1084a4b",
+      "generatedAtTime": "2023-07-26T07:00:21.246248Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "de": "Integrationskurs",
+        "fr": "Accompagnement des intégrants (parcours d’intégration)",
+        "nl-BE-x-generated-informal": "Begeleiding van inburgeraars (het Inburgeringstraject)",
+        "nl-BE-x-generated-formal": "Begeleiding van inburgeraars (het Inburgeringstraject)",
+        "en": "Guidance for newcomers (civic integration path)",
+        "nl": "Begeleiding van inburgeraars (het Inburgeringstraject)"
+      },
+      "beschrijving": {
+        "de": "<p>Die flämischen Behörden beabsichtigen, dass Bürger, die aus dem Ausland nach Flandern und Brüssel ziehen, aktiv an unsere Gesellschaft teilnehmen können. Deswegen bieten die flämischen Behörden einen Integrationskurs an, der neuen Bürgern hilft, die notwendigen Kenntnisse zu entwickeln. Integration ist ein Sprungbrett, um die gesellschaftliche Rolle als Bürger, Elternteil, Arbeitnehmer, Unternehmer, … vollends zu erfüllen.</p><p>Alle neuen Bürger haben Anspruch auf den Integrationskurs. Für bestimmte Kategorien ist der Integrationskurs sogar obligatorisch.</p><p>Für minderjährige, anderssprachige, neue Bürger (Kinder und Jugendliche, für die <a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/ondersteuning-voor-leerlingen/onderwijs-voor-leerlingen-met-specifieke-noden/onthaalonderwijs-voor-anderstalige-kinderen-okan\">Tagesunterricht</a> in Betracht kommt) verläuft die Integration nicht über den Integrationskurs, sondern über die Ausbildung in der Schule.</p>",
+        "nl-BE-x-generated-informal": "<p>In Vlaanderen en Brussel wonen mensen die afkomstig zijn uit alle hoeken van de wereld. De Vlaamse overheid vindt het belangrijk dat die nieuwe burgers volop kunnen deelnemen aan de samenleving en biedt daarom een inburgeringstraject aan.</p>",
+        "nl": "<p>In Vlaanderen en Brussel wonen mensen die afkomstig zijn uit alle hoeken van de wereld. De Vlaamse overheid vindt het belangrijk dat die nieuwe burgers volop kunnen deelnemen aan de samenleving en biedt daarom een inburgeringstraject aan.</p>",
+        "fr": "<div><div><p>L’Autorité flamande souhaite que les personnes quittant l’étranger pour venir habiter en Flandre et à Bruxelles puissent prendre une part active dans notre société. A cet effet, l’Autorité flamande prévoit un parcours d’intégration, susceptible à aider les intégrants à développer les connaissances et aptitudes nécessaires. L’intégration civique constitue un premier pas pour pouvoir jouer pleinement leur rôle de citoyen, de parent, de travailleur, d’entrepreneur…</p><p>Tous les intégrants ont le droit de suivre ce parcours d’intégration. Pour certaines catégories d’entre eux un tel trajet est même <strong>obligatoire.</strong></p><p>Pour les intégrants mineurs allophones (les enfants et les jeunes qui peuvent prétendre à l’<a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/ondersteuning-voor-leerlingen/onderwijs-voor-leerlingen-met-specifieke-noden/onthaalonderwijs-voor-anderstalige-kinderen-okan\">enseignement d’accueil</a>), l’intégration civique ne passe par un parcours d’intégration mais par l’enseignement.</p></div></div>",
+        "nl-BE-x-generated-formal": "<p>In Vlaanderen en Brussel wonen mensen die afkomstig zijn uit alle hoeken van de wereld. De Vlaamse overheid vindt het belangrijk dat die nieuwe burgers volop kunnen deelnemen aan de samenleving en biedt daarom een inburgeringstraject aan.</p>",
+        "en": "<p>The Flemish authorities want people who move from abroad to Flanders and Brussels to take an active part in our society. The Flemish authorities therefore offer a civic integration path which should help newcomers to build up the necessary knowledge and skills. Civic integration can be seen as a first step to help them to fully play their social role as citizen, parent, employee, entrepreneur…</p><p>All newcomers have the right to follow this civic integration path. For some categories of people the path is even <strong>obligatory</strong>.</p><p>For <strong>underage </strong>allophone newcomers (children and young people who are entitled to <a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/ondersteuning-voor-leerlingen/onderwijs-voor-leerlingen-met-specifieke-noden/onthaalonderwijs-voor-anderstalige-kinderen-okan\">education for non-Dutch speaking newcomers</a>), civic integration is accomplished by means of education and not through a civic integration path.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p><a href=\"http://codex.vlaanderen.be/zoeken/document.aspx?DID=1023121&amp;param=inhoud\">Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 26 juli 2013)</a></p><p><a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026683&amp;param=informatie\">Besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 07 april 2016)</a></p>",
+        "nl": "<p><a href=\"http://codex.vlaanderen.be/zoeken/document.aspx?DID=1023121&amp;param=inhoud\">Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 26 juli 2013)</a></p><p><a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026683&amp;param=informatie\">Besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 07 april 2016)</a></p>",
+        "nl-BE-x-generated-formal": "<p><a href=\"http://codex.vlaanderen.be/zoeken/document.aspx?DID=1023121&amp;param=inhoud\">Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 26 juli 2013)</a></p><p><a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026683&amp;param=informatie\">Besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid (B.S. 07 april 2016)</a></p>"
+      },
+      "uitzonderingen": {
+        "en": "<p>In the Flemish Region, some newcomers are exempted from the civic integration obligation:</p><ul><li>citizens from member states of the European Union, the European Economic Area or Switzerland and their family members. This exemption does not apply to the family members and newcomers of Belgian nationality mentioned above.</li><li>Newcomers who have already obtained a civic integration certificate</li><li>Newcomers who are not able to follow a civic integration path due to a serious illness or a handicap</li><li>Newcomers who obtained a certificate or diploma in the Belgian or Dutch education</li><li>Newcomers who followed a complete schoolyear of education for nonDutch speaking newcomers</li><li>Newcomers who are 65 years old or older</li><li>Migrant workers with a temporary residence permit that may lead to a permanent residence.</li></ul><p>The four last options for exemption do not apply to newcomers who are ministers of a religion in a local church or religious community recognised by the Flemish authorities.</p><h3>Underage newcomers</h3><p>For underage allophone newcomers (children and young people who are entitled to education for non-Dutch speaking newcomers), civic integration is accomplished by means of education and not through a civic integration path. Like all underage children, they benefit from the right to education and are subject to compulsory schooling. Therefore, the Flemish authorities help them to find an adequate school or education for non-Dutch speaking newcomers.</p><p>If necessary, they are also guided to well-being and health facilities. The municipality gives them information about associations, sports and cultural activities and facilities for young people in the vicinity.</p>",
+        "de": "<div><div><p>Bestimmte Kategorien neuer Bürger werden von der Integrationspflicht in der flämischen Region befreit:</p><ul><li>Bürger aus einem Land der europäischen Union, des europäischen wirtschaftlichen Raums und aus der Schweiz und ihre Angehörigen. Die Befreiung gilt nicht für Angehörige von Belgiern und neue Bürger mit belgischer Staatsangehörigkeit, die oben erwähnt wurden.</li><li>Neue Bürger, die bereits ein Integrationszeugnis erworben haben,</li><li>Neue Bürger, die wegen ernsthafter Krankheit oder Behinderung dem Integrationskurs nicht folgen können,</li><li>Neue Bürger, die ein Zeugnis oder Diplom erworben haben im belgischen oder niederländischen Ausbildungssystem,</li><li>Neue Bürger, die ein ganzes Schuljahr Tagesunterricht gefolgt haben,</li><li>Neue Bürger, die 65 Jahre oder älter sind,</li><li>Arbeitseinwanderer mit beschränktem Aufenthaltstitel, der zu einem permanenten Aufenthalt führen kann.</li></ul><p>Die letzten 4 Gründe für Befreiung gelten nicht für neue Bürger, die Diener eines Gottesdienstes in einer von den flämischen Behörden anerkannten, lokalen Glaubensgemeinschaft, sind.</p><h3>Minderjährige</h3><p>Für minderjährige, anderssprachige, neue Bürger verläuft die Integration nicht über einen Integrationskurs, sondern über die Ausbildung in Tagesunterricht. Genauso wie ihre Altersgenossen, machen minderjährige, anderssprachige, neue Bürger Anspruch auf das Ausbildungsrecht und gilt auch die Lernpflicht. Deswegen bieten die flämischen Behörden Begleitung an, um für diese Minderjährigen eine geeignete Schule, sowie Tagesunterricht zu finden.</p><p>Falls erforderlich, werden sie auch begleitet mit Bezug auf das Angebot für Wohlbefinden und Gesundheit. Die Gemeinde informiert sie zum Angebot bezüglich Vereine, sportlicher und kultureller Aktivitäten und Jugendzentra in der Nähe.</p></div></div>",
+        "fr": "<p>En Région flamande, certains intégrants sont dispensés de l’obligation d’intégration civique :</p><ul><li>les citoyens ressortissant d’un État membre de l’Union européenne, de l’Espace économique européen et de la Suisse ainsi que les membres de leur famille. Cette dispense ne s’applique pas aux membres de la famille de Belges et d’intégrants de nationalité belge mentionnés cidessus.</li><li>les intégrants qui ont déjà obtenu une attestation d’intégration civique</li><li>les intégrants qui ne sont pas en mesure de suivre un parcours d’intégration en raison d’une maladie grave ou d’un handicap</li><li>les intégrants qui ont obtenu une attestation ou un diplôme de l’enseignement belge ou néerlandais</li><li>les intégrants qui ont suivi l’enseignement d’accueil pendant une année entière</li><li>les intégrants de 65 ans ou plus</li><li>les travailleurs migrants au statut de séjour temporaire pouvant mener à un séjour définitif</li></ul><p>Les quatre dernières raisons pouvant justifier une dispense ne sont pas applicables aux intégrants qui sont ministres de culte dans une église ou une communauté religieuse locale reconnue par l’Autorité flamande.</p><h3>Mineurs</h3><p>Pour les intégrants mineurs allophones (les enfants et les jeunes qui peuvent prétendre à l’enseignement d’accueil), l’intégration civique ne passe pas par un parcours d’intégration mais par l’enseignement. Comme tous les autres mineurs, les mineurs allophones bénéficient du droit à l’enseignement et sont soumis à l’obligation scolaire. C’est pourquoi l’Autorité flamande leur propose des trajets qui les amènent vers une école adaptée ou vers l’enseignement d’accueil.</p><p>Si nécessaire, ils sont également accompagnés aux infrastructures de bien-être et de santé. La commune les informe au sujet de l’offre en matière d’associations, d’activités sportives et culturelles, et d’opérateurs de jeunesse dans les environs.</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "inburgeraar",
+          "inburgering",
+          "inburgeringstraject",
+          "migrant",
+          "minderheden",
+          "nieuwkomer",
+          "onthaal",
+          "plicht",
+          "recht",
+          "traject",
+          "vreemdeling",
+          "inburgeringscursus",
+          "cursus"
+        ],
+        "de": [
+          "inburgeraar",
+          "inburgering",
+          "inburgeringstraject",
+          "migrant",
+          "minderheden",
+          "nieuwkomer",
+          "onthaal",
+          "plicht",
+          "recht",
+          "traject",
+          "vreemdeling",
+          "inburgeringscursus",
+          "cursus"
+        ],
+        "en": [
+          "inburgeraar",
+          "inburgering",
+          "inburgeringstraject",
+          "migrant",
+          "minderheden",
+          "nieuwkomer",
+          "onthaal",
+          "plicht",
+          "recht",
+          "traject",
+          "vreemdeling",
+          "inburgeringscursus",
+          "cursus"
+        ],
+        "fr": [
+          "inburgeraar",
+          "inburgering",
+          "inburgeringstraject",
+          "migrant",
+          "minderheden",
+          "nieuwkomer",
+          "onthaal",
+          "plicht",
+          "recht",
+          "traject",
+          "vreemdeling",
+          "inburgeringscursus",
+          "cursus"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "de": "<p>Integration wird beabsichtigt für Fremde von 18 Jahren und älter, die für längere Zeit in Flandern und Brüssel leben werden. Auch Belgier, die nicht in Belgien geboren sind und wessen Vater oder Mutter nicht in Belgien geboren ist, gehören der Zielgruppe für Integration an.</p><p>Alle Personen, die zur Zielgruppe für Integration gehören, können auf den Integrationskurs Anspruch machen.</p><h3>Obligatorische Integration</h3><p>Für bestimmte neue Bürger ist der Integrationskurs obligatorisch.</p><ul><li>Es betrifft Fremde, die:<ul><li>18 Jahre oder älter sind,</li><li>in das Bevölkerungsregister immatrikuliert sind,</li><li>in einer Gemeinde der flämischen Region wohnen,</li><li>und zum ersten Mal einen Aufenthaltstitel von mehr als 3 Monaten erhalten haben.</li></ul></li></ul><ul><li>Es betrifft Belgier, die:<ul><li>18 Jahre oder älter sind,</li><li>nicht in Belgien geboren sind,</li><li>wessen Mutter und/oder Vater nicht in Belgien geboren sind/ist,</li><li>und zum ersten Mal nicht länger als 12 aufeinanderfolgenden Monaten in das Bevölkerungsregister immatrikuliert sind.</li></ul></li><li>anderssprachige, minderjährige, neue Bürger, die 18 Jahre alt werden, im Moment, in dem sie noch keine 12 aufeinanderfolgenden Monate zum ersten Mal mit einem Aufenthaltstitel von mehr als 3 Monaten in das Bevölkerungsregister immatrikuliert sind.<br /></li><li>neue Bürger, die Diener eines Gottesdienstes sind in einer von den flämischen Behörden anerkannten, lokalen Glaubensgemeinschaft.</li></ul><p>Die Pflicht zur Integration besteht für alle neuen Bürger, für die Integration obligatorisch ist, solange ein Integrationskurs nicht stattgefunden hat.</p><p>Achtung: Integrationspflicht gilt im Moment nur in Flandern. In Brüssel wird Integration bald auch obligatorisch werden.</p>",
+            "nl-BE-x-generated-informal": "<p>Inburgering is bedoeld voor nieuwkomers van 18 jaar en ouder die in Vlaanderen of Brussel komen wonen met een wettig verblijf. Ook Belgen die niet in België geboren zijn en van wie minstens één van de ouders niet in België geboren is, behoren tot de doelgroep van inburgering. (Verzoekers om internationale bescherming, met uitzondering van niet-begeleide minderjarige verzoekers om internationale bescherming, behoren niet tot de doelgroep van inburgering)</p><p>Alle personen die tot de doelgroep van inburgering behoren, hebben <strong>recht</strong> op een inburgeringstraject.</p><h3>Verplichte inburgeraars</h3><p>Bepaalde inburgeraars moeten <strong>verplicht</strong> een inburgeringstraject volgen. Het gaat onder meer om nieuwkomers (bijvoorbeeld erkend vluchtelingen, subsidiair beschermden, gezinsherenigers, inburgeraars die bedienaar zijn van een eredienst, … </p><p>Een aantal van deze personen wordt <strong>vrijgesteld </strong>van de inburgeringsplicht. Het gaat om bijvoorbeeld EU-burgers, personen die omwille van een ziekte of handicap blijvend niet in staat zijn het inburgeringstraject te volgen, inburgeraars die 65 jaar of ouder zijn,… </p><p>Voor de verplichte inburgeraars blijft de inburgeringsplicht bestaan zolang ze die niet zijn nagekomen.</p>",
+            "en": "<p>Civic integration is meant for foreigners who are 18 years old or older and who move to Flanders or Brussels to live here. Belgians born abroad and who have at least one parent born outside of Belgium are part of the civic integration target group.</p><p>Everybody who is part of the civic integration target group is <strong>entitled</strong> to a civic integration path.</p><h3>Newcomers obligated to follow the civic integration path</h3><p>Some newcomers must follow a civic integration path, including:</p><ul><li>foreigners who:<ul><li>are 18 years old or older</li><li>are registered in the national population register (‘Rijksregister’)</li><li>live in a municipality situated in the Flemish Region</li><li>have a residence permit valid for more than 3 months for the first time.</li></ul></li><li>Belgians who:<ul><li>are 18 years old or older</li><li>were not born in Belgium</li><li>have at least one parent who was not born in Belgium</li><li>are registered in the national population register for the first time for no longer than 12 consecutive months.</li></ul></li><li>allophone underage newcomers:<ul><li>who will be 18 years old at the moment when they will not have been registered in the national population register for the first time for 12 consecutive months with a residence permit of more than 3 months</li></ul></li><li>newcomers who are ministers of a religion in a local church or religious community recognised by the Flemish authorities.</li></ul><p>For these categories of newcomers, the civic integration obligation remains valid as long as they do not fulfil the civic integration program.</p><p>Warning: the rules concerning the civic integration obligation set out here apply for Flanders. Different rules may apply for Brussels.</p>",
+            "nl-BE-x-generated-formal": "<p>Inburgering is bedoeld voor nieuwkomers van 18 jaar en ouder die in Vlaanderen of Brussel komen wonen met een wettig verblijf. Ook Belgen die niet in België geboren zijn en van wie minstens één van de ouders niet in België geboren is, behoren tot de doelgroep van inburgering. (Verzoekers om internationale bescherming, met uitzondering van niet-begeleide minderjarige verzoekers om internationale bescherming, behoren niet tot de doelgroep van inburgering)</p><p>Alle personen die tot de doelgroep van inburgering behoren, hebben <strong>recht</strong> op een inburgeringstraject.</p><h3>Verplichte inburgeraars</h3><p>Bepaalde inburgeraars moeten <strong>verplicht</strong> een inburgeringstraject volgen. Het gaat onder meer om nieuwkomers (bijvoorbeeld erkend vluchtelingen, subsidiair beschermden, gezinsherenigers, inburgeraars die bedienaar zijn van een eredienst, … </p><p>Een aantal van deze personen wordt <strong>vrijgesteld </strong>van de inburgeringsplicht. Het gaat om bijvoorbeeld EU-burgers, personen die omwille van een ziekte of handicap blijvend niet in staat zijn het inburgeringstraject te volgen, inburgeraars die 65 jaar of ouder zijn,… </p><p>Voor de verplichte inburgeraars blijft de inburgeringsplicht bestaan zolang ze die niet zijn nagekomen.</p>",
+            "fr": "<p>L’intégration civique est destinée aux étrangers de 18 ans et plus venant s’établir en Flandre ou à Bruxelles pour une longue durée. Les Belges nés en dehors de la Belgique et dont au moins l’un des parents est né en dehors de la Belgique font également partie du groupe cible pour l’intégration civique.</p><p>Toutes les personnes faisant partie du groupe cible pour l’intégration civique ont le droit de suivre un parcours d’intégration.</p><h3>Les intégrants au statut obligatoire</h3><p>Certains intégrants ont l’obligation de suivre un parcours d’intégration. Il s’agit des :</p><ul><li>étrangers qui :<ul><li>sont âgés de 18 ans ou plus</li><li>sont inscrits au Registre national</li><li>habitent dans une commune de la Région flamande</li><li>obtiennent pour la première fois un titre de séjour de plus de 3 mois.</li></ul></li><li>Belges qui :<ul><li>sont âgés de 18 ans ou plus</li><li>ne sont pas nés en Belgique</li><li>ont au moins un parent qui n’est pas né en Belgique</li><li>n’ont pas été inscrits pour la première fois pour une période ne dépassant pas 12 mois consécutifs au Registre national.</li></ul></li><li>primo-arrivants mineurs allophones :<ul><li>qui atteignent leurs 18 ans au moment où ils n’ont pas encore été inscrits au Registre national pour la première fois pour une période s’étalant sur 12 mois consécutifs avec un titre de séjour de plus de 3 mois</li></ul></li><li>intégrants qui sont ministres d’un culte dans une église ou une communauté religieuse locale reconnue par l’Autorité flamande.</li></ul><p>L’obligation d’intégration civique reste d’application pour les intégrants jusqu’à ce qu’ils l’aient respectée.</p><p>Attention : cette règle concerne uniquement la Flandre. Différentes conditions pourraient être en vigueur à Bruxelles.</p>",
+            "nl": "<p>Inburgering is bedoeld voor nieuwkomers van 18 jaar en ouder die in Vlaanderen of Brussel komen wonen met een wettig verblijf. Ook Belgen die niet in België geboren zijn en van wie minstens één van de ouders niet in België geboren is, behoren tot de doelgroep van inburgering. (Verzoekers om internationale bescherming, met uitzondering van niet-begeleide minderjarige verzoekers om internationale bescherming, behoren niet tot de doelgroep van inburgering)</p><p>Alle personen die tot de doelgroep van inburgering behoren, hebben <strong>recht</strong> op een inburgeringstraject.</p><h3>Verplichte inburgeraars</h3><p>Bepaalde inburgeraars moeten <strong>verplicht</strong> een inburgeringstraject volgen. Het gaat onder meer om nieuwkomers (bijvoorbeeld erkend vluchtelingen, subsidiair beschermden, gezinsherenigers, inburgeraars die bedienaar zijn van een eredienst, … </p><p>Een aantal van deze personen wordt <strong>vrijgesteld </strong>van de inburgeringsplicht. Het gaat om bijvoorbeeld EU-burgers, personen die omwille van een ziekte of handicap blijvend niet in staat zijn het inburgeringstraject te volgen, inburgeraars die 65 jaar of ouder zijn,… </p><p>Voor de verplichte inburgeraars blijft de inburgeringsplicht bestaan zolang ze die niet zijn nagekomen.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "nl-BE-x-generated-formal": "Voorwaarden",
+            "en": "Requirements",
+            "nl-BE-x-generated-informal": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "de": "Procedure",
+            "nl-BE-x-generated-informal": "Procedure",
+            "en": "Procedure",
+            "fr": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-generated-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-formal": "<p>Inburgering bestaat uit <strong>vier onderdelen</strong>:</p><ul><li>Maatschappelijke oriëntatie</li><li>Nederlands als verbindende taal</li><li>Inschrijving bij VDAB (Actiris in Brussel)</li><li>Participatie- en netwerktraject</li></ul><p>Het inburgeringstraject krijgt vorm op maat van de inburgeraar. Via trajectbegeleiding wordt de inburgeraar individuele begeleiding aangeboden naargelang zijn persoonlijke situatie.</p><p>Het Vlaamse <a href=\"https://www.integratie-inburgering.be\">Agentschap Integratie en Inburgering</a> en de twee stedelijke agentschappen in Antwerpen (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) en Gent (<a href=\"https://www.amal.gent\">Amal</a>) bieden de inburgeringstrajecten aan.</p><p>De inhoud van het inburgeringstraject wordt opgenomen in een <strong>inburgeringscontract</strong>. Wie een inburgeringscontract ondertekent, gaat het engagement aan om de doelstellingen van de verschillende onderdelen van het traject te behalen. Wie alle doelstellingen behaalt, ontvangt het <strong>inburgeringsattest</strong>.</p><p>Inburgeraars kunnen na het behalen van hun inburgeringsattest in een vervolgtraject stappen. Ze volgen bijvoorbeeld vervolgcursussen Nederlands ter voorbereiding op hogere studies, ze nemen deel aan een beroepsopleiding of een opleiding tot zelfstandig ondernemer. </p><h3>Inburgeringsplicht</h3><p>Wie inburgeringsplichtig is:</p><ul><li>moet zich tijdig aanmelden bij het bevoegde agentschap</li><li>moet de doelstellingen van alle onderdelen van het inburgeringstraject behalen</li><li>moet 24 maanden na het behalen van het inburgeringsattest - als hij niet werkt of studeert - aantonen dat hij het taalvaardigheidsniveau B1 mondeling beheerst</li></ul><p>Verplichte inburgeraars die hun inburgeringsplicht niet nakomen kunnen een administratieve geldboete krijgen. </p>",
+            "de": "<p>Integration setzt sich zusammen aus:</p><ul><li>einem Kurs gesellschaftlicher Orientierung, mit Bezug auf Leben, Arbeiten, Normen und Werte in Belgien (in einer Sprache, die der Kursist versteht),</li><li>niederländischem Sprachunterricht,</li><li>individueller Begleitung bei der Suche nach Arbeit, Studiengängen, … und Aushilfe bei der Bewertung der Diplome.</li></ul><p>Die <a href=\"https://www.integratie-inburgering.be\">flämische Dienststelle Integration</a> (Vlaamse Agentschap Integratie en Inburgering) und die zwei städtlichen Dienststellen in Antwerpen (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) und Gent (<a href=\"https://www.amal.gent\">Amal</a>) bieten Integrationskurse an.</p><p>Der Inhalt des Integrationskurses wird in den Integrationsvertrag aufgenommen. Wer einen Integrationsvertrag unterzeichnet, tritt ein Engagement an, um dem Bildungsprogramm regelmäβig zu folgen (während jedes Unterteils des Bildungsprogramms mindestens an 80% aller Kurse teilnehmen).</p><p>Wer den Kurs gesellschaftlicher Orientierung und den Kurs niederländischer Sprachunterricht besteht, empfängt ein Integrationszeugnis. Die neuen Bürger werden dann weiter begleitet bei der Suche nach Arbeit oder nach einem Diplom (Berufsausbildung, Ausbildung zum Unternehmer, Kurse Niederländisch als Zweitsprache, Studiengänge,...).</p><h3>Integrationspflicht</h3><p>Diejenigen mit Integrationspflicht sollten:</p><ul><li>sich rechtzeitig bei der zuständigen Dienststelle melden (Sie empfangen dann ein Anmeldezeugnis),</li><li>an mindestens 80% der Kurse teilnehmen.</li></ul><p>Neue Bürger, für die der Integrationskurs obligatorisch ist und die nicht an einem Integrationskurs teilnehmen, sollten Buβgeld bezahlen.</p><p>Neue Bürger, für die der Integrationskurs nicht obligatorisch ist, die jedoch einen Integrationsvertrag unterzeichnet haben und dem nicht nachkommen, sollten auch Buβgeld bezahlen.</p>",
+            "nl-BE-x-generated-informal": "<p>Inburgering bestaat uit <strong>vier onderdelen</strong>:</p><ul><li>Maatschappelijke oriëntatie</li><li>Nederlands als verbindende taal</li><li>Inschrijving bij VDAB (Actiris in Brussel)</li><li>Participatie- en netwerktraject</li></ul><p>Het inburgeringstraject krijgt vorm op maat van de inburgeraar. Via trajectbegeleiding wordt de inburgeraar individuele begeleiding aangeboden naargelang zijn persoonlijke situatie.</p><p>Het Vlaamse <a href=\"https://www.integratie-inburgering.be\">Agentschap Integratie en Inburgering</a> en de twee stedelijke agentschappen in Antwerpen (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) en Gent (<a href=\"https://www.amal.gent\">Amal</a>) bieden de inburgeringstrajecten aan.</p><p>De inhoud van het inburgeringstraject wordt opgenomen in een <strong>inburgeringscontract</strong>. Wie een inburgeringscontract ondertekent, gaat het engagement aan om de doelstellingen van de verschillende onderdelen van het traject te behalen. Wie alle doelstellingen behaalt, ontvangt het <strong>inburgeringsattest</strong>.</p><p>Inburgeraars kunnen na het behalen van hun inburgeringsattest in een vervolgtraject stappen. Ze volgen bijvoorbeeld vervolgcursussen Nederlands ter voorbereiding op hogere studies, ze nemen deel aan een beroepsopleiding of een opleiding tot zelfstandig ondernemer. </p><h3>Inburgeringsplicht</h3><p>Wie inburgeringsplichtig is:</p><ul><li>moet zich tijdig aanmelden bij het bevoegde agentschap</li><li>moet de doelstellingen van alle onderdelen van het inburgeringstraject behalen</li><li>moet 24 maanden na het behalen van het inburgeringsattest - als hij niet werkt of studeert - aantonen dat hij het taalvaardigheidsniveau B1 mondeling beheerst</li></ul><p>Verplichte inburgeraars die hun inburgeringsplicht niet nakomen kunnen een administratieve geldboete krijgen. </p>",
+            "en": "<p>In Flanders, the civic integration program consists of:</p><ul><li>a course ‘social orientation’ about life, work, norms and values in Belgium (in a language the learner can understand)</li><li>a Dutch course</li><li>an individual guidance in the search for work, studies… and help for the evaluation of diplomas.</li></ul><p>The Flemish <a href=\"https://www.integratie-inburgering.be\">Agentschap Integratie en Inburgering</a> (Agency for Integration and Civic Integration) and the two city agencies in Antwerpen (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) and Gent (<a href=\"https://www.amal.gent\">Amal</a>) offer the civic integration paths.</p><p>The content of the civic integration path is incorporated into a civic integration contract. Anyone who signs a civic integration contract commits to regularly follow the training programme (to attend at least 80% of all classes during each part of the training).</p><p>Anyone who passes the course ‘social orientation’ and the Dutch course receives a civic integration attestation. The newcomers are then guided in their search for a job or for a diploma (vocational training, training to become a self-employed entrepreneur, extra Dutch language classes, other studies…).</p><h3>Civic integration obligation</h3><p>Anyone who is required to fulfil the civic integration path must:</p><ul><li>register on time at the competent agency (you will then receive a registration attestation)</li><li>attend at least 80% of all classes</li></ul><p>Newcomers required to fulfil the civic integration path who do not fulfil their civic integration obligation risk an administrative fine.</p><p>If you are not required to fulfil the civic integration path but you do not respect the civic integration contract you signed, you still risk an administrative fine.</p>",
+            "fr": "<p>L’intégration civique se compose des éléments suivants :</p><ul><li>un cours d’orientation sociale sur la vie, le travail, les normes et les valeurs en Belgique (dans une langue que comprend l’apprenant)</li><li>des cours de néerlandais</li><li>un accompagnement individuel dans la recherche d’un emploi, d’études… et de l’aide dans l’évaluation des diplômes.</li></ul><p>L’<a href=\"https://www.integratie-inburgering.be\">Agentschap Integratie en Inburgering</a> (Agence de l’intégration et de l’Intégration civique) flamande et les deux agences urbaines à Anvers (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) et à Gand (<a href=\"https://www.amal.gent\">Amal</a>) proposent les parcours d’intégration.</p><p>Le contenu du parcours d’intégration est intégré dans un <strong>contrat d’intégration</strong>. Toute personne qui signe un contrat d’intégration s’engage à suivre régulièrement le programme de formation (présence obligatoire à au moins 80% de tous les cours de chaque partie du programme de formation).</p><p>Les personnes qui réussissent les cours d’orientation sociale et les cours de néerlandais reçoivent une <strong>attestation d’intégration</strong>. Les intégrants bénéficient ensuite d’un accompagnement dans leur recherche d’un emploi ou d’un diplôme (formation professionnelle, formation à l’entreprise indépendante, poursuite des cours de néerlandais langue étrangère, poursuite des études...).</p><h3>Obligation d’intégration civique</h3><p>Les personnes tenues par l’obligation d’intégration civiques doivent :</p><ul><li>s’inscrire à temps auprès de l’agence compétente (où ils recevront une attestation d’inscription)</li><li>assister à au moins 80% des cours</li></ul><p>Les intégrants au statut obligatoire qui ne respectent par leur obligation d’intégration civique risquent une amende administrative.</p><p>Les personnes qui ne sont pas des intégrants obligatoires mais qui ne respectent pas le contrat d’intégration civique risquent également une amende administrative.</p>",
+            "nl": "<p>Inburgering bestaat uit <strong>vier onderdelen</strong>:</p><ul><li>Maatschappelijke oriëntatie</li><li>Nederlands als verbindende taal</li><li>Inschrijving bij VDAB (Actiris in Brussel)</li><li>Participatie- en netwerktraject</li></ul><p>Het inburgeringstraject krijgt vorm op maat van de inburgeraar. Via trajectbegeleiding wordt de inburgeraar individuele begeleiding aangeboden naargelang zijn persoonlijke situatie.</p><p>Het Vlaamse <a href=\"https://www.integratie-inburgering.be\">Agentschap Integratie en Inburgering</a> en de twee stedelijke agentschappen in Antwerpen (<a href=\"https://www.atlas-antwerpen.be\">Atlas</a>) en Gent (<a href=\"https://www.amal.gent\">Amal</a>) bieden de inburgeringstrajecten aan.</p><p>De inhoud van het inburgeringstraject wordt opgenomen in een <strong>inburgeringscontract</strong>. Wie een inburgeringscontract ondertekent, gaat het engagement aan om de doelstellingen van de verschillende onderdelen van het traject te behalen. Wie alle doelstellingen behaalt, ontvangt het <strong>inburgeringsattest</strong>.</p><p>Inburgeraars kunnen na het behalen van hun inburgeringsattest in een vervolgtraject stappen. Ze volgen bijvoorbeeld vervolgcursussen Nederlands ter voorbereiding op hogere studies, ze nemen deel aan een beroepsopleiding of een opleiding tot zelfstandig ondernemer. </p><h3>Inburgeringsplicht</h3><p>Wie inburgeringsplichtig is:</p><ul><li>moet zich tijdig aanmelden bij het bevoegde agentschap</li><li>moet de doelstellingen van alle onderdelen van het inburgeringstraject behalen</li><li>moet 24 maanden na het behalen van het inburgeringsattest - als hij niet werkt of studeert - aantonen dat hij het taalvaardigheidsniveau B1 mondeling beheerst</li></ul><p>Verplichte inburgeraars die hun inburgeringsplicht niet nakomen kunnen een administratieve geldboete krijgen. </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Inburgering.be",
+            "nl-BE-x-generated-informal": "Inburgering.be",
+            "fr": "Inburgering.be",
+            "en": "Inburgering.be",
+            "de": "Inburgering.be",
+            "nl-BE-x-generated-formal": "Inburgering.be"
+          },
+          "url": "http://www.inburgering.be",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "de": " Contactgegevens integratie en inburgering",
+            "nl-BE-x-generated-informal": " Contactgegevens integratie en inburgering",
+            "fr": " Contactgegevens integratie en inburgering",
+            "nl-BE-x-generated-formal": " Contactgegevens integratie en inburgering",
+            "nl": " Contactgegevens integratie en inburgering",
+            "en": " Contactgegevens integratie en inburgering"
+          },
+          "url": "https://integratie-inburgering.be/contact",
+          "@type": "Website",
+          "order": 1
+        },
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Agentschap Binnenlands Bestuur - inburgering",
+            "nl-BE-x-generated-formal": "Agentschap Binnenlands Bestuur - inburgering",
+            "nl": "Agentschap Binnenlands Bestuur - inburgering"
+          },
+          "url": "https://www.vlaanderen.be/samenleven/herkomst/inburgering",
+          "@type": "Website",
+          "order": 2
+        }
+      ],
+      "creatie": "2023-05-04T13:05:36.853524252Z",
+      "laatstGewijzigd": "2023-07-26T07:00:20.890118436Z",
+      "laatstOntvangen": "2023-07-26T07:00:20.89011978Z",
+      "productnummer": "193",
+      "gearchiveerd": false,
+      "publicatieLink": {
+        "naam": {
+          "en": "See also on vlaanderen.be",
+          "nl-BE-x-generated-informal": "Lees meer op vlaanderen.be",
+          "nl": "Lees meer op vlaanderen.be",
+          "nl-BE-x-generated-formal": "Lees meer op vlaanderen.be"
+        },
+        "url": "https://www.uat-vlaanderen.be/Product/75516d63-ea15-4aef-b189-989b92017cb6"
+      },
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/295fa8c2-5364-4f30-a94a-7157e1084a4b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a1b8913a-f857-4d07-ac66-d1c40e8bdce3"
+    },
+    {
+      "id": "a726c77b-d797-4ab2-8089-f1bbe89493ea",
+      "generatedAtTime": "2023-07-26T07:00:20.067079Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidie voor aanleg en onderhoud van kleine landschapselementen",
+        "nl": "Subsidie voor aanleg en onderhoud van kleine landschapselementen",
+        "nl-BE-x-generated-informal": "Subsidie voor aanleg en onderhoud van kleine landschapselementen"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Hagen, houtwallen, houtsingels, bomenrijen, veedrinkpoelen zijn van oudsher belangrijke landschapselementen, die bovendien van belang zijn voor de waterhuishouding en de erosiebestrijding. Lijnvormige landschapselementen zijn eveneens voor heel wat insecten, amfibieën, reptielen en kleine zoogdieren, de enige corridors waarlangs deze dieren kunnen migreren tussen de bestaande geïsoleerde natuurgebieden. Ook zijn zij belangrijk als schuil,- woon- en foerageergebied voor vele vogels.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor aanleg en onderhoud van kleine landschapselementen.</p>",
+        "nl-BE-x-generated-formal": "<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Hagen, houtwallen, houtsingels, bomenrijen, veedrinkpoelen zijn van oudsher belangrijke landschapselementen, die bovendien van belang zijn voor de waterhuishouding en de erosiebestrijding. Lijnvormige landschapselementen zijn eveneens voor heel wat insecten, amfibieën, reptielen en kleine zoogdieren, de enige corridors waarlangs deze dieren kunnen migreren tussen de bestaande geïsoleerde natuurgebieden. Ook zijn zij belangrijk als schuil,- woon- en foerageergebied voor vele vogels.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor aanleg en onderhoud van kleine landschapselementen.</p>",
+        "nl": "<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Hagen, houtwallen, houtsingels, bomenrijen, veedrinkpoelen zijn van oudsher belangrijke landschapselementen, die bovendien van belang zijn voor de waterhuishouding en de erosiebestrijding. Lijnvormige landschapselementen zijn eveneens voor heel wat insecten, amfibieën, reptielen en kleine zoogdieren, de enige corridors waarlangs deze dieren kunnen migreren tussen de bestaande geïsoleerde natuurgebieden. Ook zijn zij belangrijk als schuil,- woon- en foerageergebied voor vele vogels.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor aanleg en onderhoud van kleine landschapselementen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002239",
+          "@id": "OVO002239"
+        }
+      ],
+      "creatie": "2023-07-10T07:10:30.614256643Z",
+      "laatstGewijzigd": "2023-07-26T07:00:19.967086638Z",
+      "laatstOntvangen": "2023-07-26T07:00:19.967088022Z",
+      "productnummer": "2878",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a726c77b-d797-4ab2-8089-f1bbe89493ea",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/05a6e782-4e56-4b37-a5be-82f28f09e388"
+    },
+    {
+      "id": "6792ec41-cc85-4776-b441-80c34afbb67e",
+      "generatedAtTime": "2023-07-26T07:00:19.748961Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Subsidie voor ecologisch akkerrandbeheer en groenbemesting",
+        "nl-BE-x-generated-formal": "Subsidie voor ecologisch akkerrandbeheer en groenbemesting",
+        "nl-BE-x-generated-informal": "Subsidie voor ecologisch akkerrandbeheer en groenbemesting"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Erosie kan tegengegaan worden door het zaaien van groenbemesting na de teelten en het ecologisch beheer van akkerranden.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor het beheer van akkerranden ten behoeve van akkervogels en akkerplanten en voor het inzaaien en behouden op de akkers van een groenbemesting gedurende de winterperiode.</p>",
+        "nl": "<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Erosie kan tegengegaan worden door het zaaien van groenbemesting na de teelten en het ecologisch beheer van akkerranden.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor het beheer van akkerranden ten behoeve van akkervogels en akkerplanten en voor het inzaaien en behouden op de akkers van een groenbemesting gedurende de winterperiode.</p>",
+        "nl-BE-x-generated-informal": "<p>Het aantal geschikte broed- en foerageerplaatsen voor akkervogels in de ruilverkavelingsgebieden in Sint-Truiden zijn beperkt. Sint-Truiden is een erosiegevoelige streek. Erosie kan tegengegaan worden door het zaaien van groenbemesting na de teelten en het ecologisch beheer van akkerranden.</p><p>Binnen de perken van het jaarlijks goedgekeurde budget verleent het college van burgemeester en schepenen een subsidie voor het beheer van akkerranden ten behoeve van akkervogels en akkerplanten en voor het inzaaien en behouden op de akkers van een groenbemesting gedurende de winterperiode.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002239",
+          "@id": "OVO002239"
+        }
+      ],
+      "creatie": "2023-05-09T12:05:04.181096307Z",
+      "laatstGewijzigd": "2023-07-26T07:00:19.659335452Z",
+      "laatstOntvangen": "2023-07-26T07:00:19.659336263Z",
+      "productnummer": "2877",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6792ec41-cc85-4776-b441-80c34afbb67e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4e0b7bf4-976c-4b1a-84d0-759ca9de1a2d"
+    },
+    {
+      "id": "22b2ceb7-f4d7-47d3-9b94-7814f4c23543",
+      "generatedAtTime": "2023-07-26T07:00:19.477393Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Vergunning voor de exploitatie van boomkwekerijen",
+        "nl": "Vergunning voor de exploitatie van boomkwekerijen",
+        "nl-BE-x-generated-informal": "Vergunning voor de exploitatie van boomkwekerijen"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>De exploitatie van boomkwekerijen in Sint-Truiden is enkel toegelaten na een vergunning te verlenen door de burgemeester. De boomkwekerij mag enkel aangelegd en geëxploiteerd worden overeenkomstig de voorwaarden opgenomen in de vergunning.</p><p>Als boomkwekerij wordt beschouwd: elke plaats waar men jonge bomen of struiken tijdelijk uitplant en verzorgt.</p>",
+        "nl": "<p>De exploitatie van boomkwekerijen in Sint-Truiden is enkel toegelaten na een vergunning te verlenen door de burgemeester. De boomkwekerij mag enkel aangelegd en geëxploiteerd worden overeenkomstig de voorwaarden opgenomen in de vergunning.</p><p>Als boomkwekerij wordt beschouwd: elke plaats waar men jonge bomen of struiken tijdelijk uitplant en verzorgt.</p>",
+        "nl-BE-x-generated-informal": "<p>De exploitatie van boomkwekerijen in Sint-Truiden is enkel toegelaten na een vergunning te verlenen door de burgemeester. De boomkwekerij mag enkel aangelegd en geëxploiteerd worden overeenkomstig de voorwaarden opgenomen in de vergunning.</p><p>Als boomkwekerij wordt beschouwd: elke plaats waar men jonge bomen of struiken tijdelijk uitplant en verzorgt.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002239",
+          "@id": "OVO002239"
+        }
+      ],
+      "creatie": "2023-07-10T07:10:30.030142608Z",
+      "laatstGewijzigd": "2023-07-26T07:00:19.392184276Z",
+      "laatstOntvangen": "2023-07-26T07:00:19.392185329Z",
+      "productnummer": "2862",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/22b2ceb7-f4d7-47d3-9b94-7814f4c23543",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/daa5c55d-c25d-4f4f-8ba3-2328edfcad02"
+    },
+    {
+      "id": "0151a28d-340e-4259-9c85-8d36424393b9",
+      "generatedAtTime": "2023-07-26T07:00:19.146485Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie voor projecten in kunst, cultuur en cultureel erfgoed in Stad Gent",
+        "nl-BE-x-generated-formal": "Subsidie voor projecten in kunst, cultuur en cultureel erfgoed in Stad Gent",
+        "nl": "Subsidie voor projecten in kunst, cultuur en cultureel erfgoed in Stad Gent"
+      },
+      "beschrijving": {
+        "nl": "<p>De Stad Gent wenst door het subsidiëren van culturele en artistieke projecten impulsen te geven aan het stedelijk cultuurlandschap en kan daarom naast de structurele ondersteuning van cultuurspelers ook een subsidie verlenen aan culturele en artistieke projecten.</p>",
+        "nl-BE-x-generated-formal": "<p>De Stad Gent wenst door het subsidiëren van culturele en artistieke projecten impulsen te geven aan het stedelijk cultuurlandschap en kan daarom naast de structurele ondersteuning van cultuurspelers ook een subsidie verlenen aan culturele en artistieke projecten.</p>",
+        "nl-BE-x-generated-informal": "<p>De Stad Gent wenst door het subsidiëren van culturele en artistieke projecten impulsen te geven aan het stedelijk cultuurlandschap en kan daarom naast de structurele ondersteuning van cultuurspelers ook een subsidie verlenen aan culturele en artistieke projecten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002067",
+          "@id": "OVO002067"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidiereglement Stad Gent voor de financiële ondersteuning van projecten in kunst, cultuur en cultureel erfgoed voor periode 2021-2025",
+            "nl-BE-x-generated-informal": "Subsidiereglement Stad Gent voor de financiële ondersteuning van projecten in kunst, cultuur en cultureel erfgoed voor periode 2021-2025",
+            "nl-BE-x-generated-formal": "Subsidiereglement Stad Gent voor de financiële ondersteuning van projecten in kunst, cultuur en cultureel erfgoed voor periode 2021-2025"
+          },
+          "url": "https://stad.gent/nl/reglementen/subsidiereglement-voor-de-financiele-ondersteuning-van-projecten-kunst-cultuur-en-cultureel-erfgoed",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-07-10T07:00:32.47742381Z",
+      "laatstGewijzigd": "2023-07-26T07:00:19.051735849Z",
+      "laatstOntvangen": "2023-07-26T07:00:19.051736966Z",
+      "productnummer": "3129",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0151a28d-340e-4259-9c85-8d36424393b9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c6492d01-1291-46b4-b8c5-fad40a97b4bd"
+    },
+    {
+      "id": "c4c659b9-4b6c-44c1-bd31-1b493d6bbaa9",
+      "generatedAtTime": "2023-07-26T07:00:18.820831Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Subsidie voor de renovatie van huurwoningen",
+        "nl-BE-x-generated-formal": "Subsidie voor de renovatie van huurwoningen",
+        "nl-BE-x-generated-informal": "Subsidie voor de renovatie van huurwoningen"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>De Stad Gent wil verhuurders stimuleren en ondersteunen om hun huurwoning in Gent kwaliteitsvol en energiezuinig te renoveren. De premie kan aangevraagd worden vanaf 1 juli 2021 tot en met 31 december 2025.</p>",
+        "nl": "<p>De Stad Gent wil verhuurders stimuleren en ondersteunen om hun huurwoning in Gent kwaliteitsvol en energiezuinig te renoveren. De premie kan aangevraagd worden vanaf 1 juli 2021 tot en met 31 december 2025.</p>",
+        "nl-BE-x-generated-formal": "<p>De Stad Gent wil verhuurders stimuleren en ondersteunen om hun huurwoning in Gent kwaliteitsvol en energiezuinig te renoveren. De premie kan aangevraagd worden vanaf 1 juli 2021 tot en met 31 december 2025.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002067",
+          "@id": "OVO002067"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidie voor de renovatie van huurwoningen",
+            "nl-BE-x-generated-formal": "Subsidie voor de renovatie van huurwoningen",
+            "nl-BE-x-generated-informal": "Subsidie voor de renovatie van huurwoningen"
+          },
+          "url": "https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-07-10T07:00:32.244762438Z",
+      "laatstGewijzigd": "2023-07-26T07:00:18.719712004Z",
+      "laatstOntvangen": "2023-07-26T07:00:18.719712792Z",
+      "productnummer": "2003",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c4c659b9-4b6c-44c1-bd31-1b493d6bbaa9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b4835164-5ea1-4335-8934-0fdb2d7d55de"
+    },
+    {
+      "id": "ca7e4767-d298-4cd5-9b57-4c7641575df0",
+      "generatedAtTime": "2023-07-26T07:00:18.516576Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie verfraaing handelspanden",
+        "nl": "Subsidie verfraaing handelspanden",
+        "nl-BE-x-generated-formal": "Subsidie verfraaing handelspanden"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>De Stad Gent subsidieert renovaties aan handelspanden als uw werk maakt van een verzorgde gevel, toegankelijkheid, verbeteren van commerciële ruimte, enz.<br/>Er wordt extra aandacht besteed aan werken die de toegankelijkheid voor personen met een fysieke beperking verbeteren. Ook gezinsvriendelijke horeca wordt ondersteund. Verder worden verbeteringswerken aan de maak-/atelierruimtes verbonden aan een handelszaak gesubsidieerd.</p>",
+        "nl-BE-x-generated-informal": "<p>De Stad Gent subsidieert renovaties aan handelspanden als je werk maakt van een verzorgde gevel, toegankelijkheid, verbeteren van commerciële ruimte, enz.<br/>Er wordt extra aandacht besteed aan werken die de toegankelijkheid voor personen met een fysieke beperking verbeteren. Ook gezinsvriendelijke horeca wordt ondersteund. Verder worden verbeteringswerken aan de maak-/atelierruimtes verbonden aan een handelszaak gesubsidieerd.</p>",
+        "nl": "<p>De Stad Gent subsidieert renovaties aan handelspanden als je werk maakt van een verzorgde gevel, toegankelijkheid, verbeteren van commerciële ruimte, enz.<br />Er wordt extra aandacht besteed aan werken die de toegankelijkheid voor personen met een fysieke beperking verbeteren. Ook gezinsvriendelijke horeca wordt ondersteund. Verder worden verbeteringswerken aan de maak-/atelierruimtes verbonden aan een handelszaak gesubsidieerd.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002067",
+          "@id": "OVO002067"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Subsidie verfraaing handelspanden",
+            "nl": "Subsidie verfraaing handelspanden",
+            "nl-BE-x-generated-formal": "Subsidie verfraaing handelspanden"
+          },
+          "url": "https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-07-10T07:00:32.012931473Z",
+      "laatstGewijzigd": "2023-07-26T07:00:18.418884585Z",
+      "laatstOntvangen": "2023-07-26T07:00:18.418885819Z",
+      "productnummer": "2002",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ca7e4767-d298-4cd5-9b57-4c7641575df0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/95f0b3e2-ffc2-47e3-a3f1-9d014527e9d8"
+    },
+    {
+      "id": "8f20b6f8-6efa-407f-b901-f9a835cad189",
+      "generatedAtTime": "2023-07-26T07:00:18.227146Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Starterscontract",
+        "nl": "Starterscontract",
+        "nl-BE-x-generated-formal": "Starterscontract"
+      },
+      "beschrijving": {
+        "nl": "<p>Stad Gent kent een subsidie toe aan (her)startende ondernemers om hun slaagkansen te verhogen en de zelfstandige economische activiteit in de stad te verhogen. Onderteken een starterscontract en ontvang een subsidie van 5.000 euro voor investeringen, cursussen of professioneel advies.</p>",
+        "nl-BE-x-generated-formal": "<p>Stad Gent kent een subsidie toe aan (her)startende ondernemers om hun slaagkansen te verhogen en de zelfstandige economische activiteit in de stad te verhogen. Onderteken een starterscontract en ontvang een subsidie van 5.000 euro voor investeringen, cursussen of professioneel advies.</p>",
+        "nl-BE-x-generated-informal": "<p>Stad Gent kent een subsidie toe aan (her)startende ondernemers om hun slaagkansen te verhogen en de zelfstandige economische activiteit in de stad te verhogen. Onderteken een starterscontract en ontvang een subsidie van 5.000 euro voor investeringen, cursussen of professioneel advies.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002067",
+          "@id": "OVO002067"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Starterscontract",
+            "nl": "Starterscontract",
+            "nl-BE-x-generated-formal": "Starterscontract"
+          },
+          "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-07-10T07:00:31.801877541Z",
+      "laatstGewijzigd": "2023-07-26T07:00:18.131867867Z",
+      "laatstOntvangen": "2023-07-26T07:00:18.131869595Z",
+      "productnummer": "2001",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8f20b6f8-6efa-407f-b901-f9a835cad189",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/44ac5d82-14eb-4d4e-b073-334ee90d55b9"
+    },
+    {
+      "id": "fcfcce88-74e1-4ac7-9dc7-40e994294c22",
+      "generatedAtTime": "2023-07-26T07:00:17.815259Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidie voor milieu-en natuurverenigingen",
+        "nl": "Subsidie voor milieu-en natuurverenigingen",
+        "nl-BE-x-generated-informal": "Subsidie voor milieu-en natuurverenigingen"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Erkende Gentse natuur-en milieuverenigingen kunnen een subsidie van Stad Gent ontvangen.</p>",
+        "nl": "<p>Erkende Gentse natuur-en milieuverenigingen kunnen een subsidie van Stad Gent ontvangen.</p>",
+        "nl-BE-x-generated-formal": "<p>Erkende Gentse natuur-en milieuverenigingen kunnen een subsidie van Stad Gent ontvangen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002067",
+          "@id": "OVO002067"
+        }
+      ],
+      "creatie": "2023-07-10T07:00:31.619363799Z",
+      "laatstGewijzigd": "2023-07-26T07:00:17.744023577Z",
+      "laatstOntvangen": "2023-07-26T07:00:17.744024421Z",
+      "productnummer": "1933",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fcfcce88-74e1-4ac7-9dc7-40e994294c22",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dd8d1647-f722-4322-900d-1aa901ca7048"
+    },
+    {
+      "id": "db621ff7-9583-41ab-a057-6a4651985363",
+      "generatedAtTime": "2023-07-26T07:00:17.41061Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidie voor Klimaatscholen",
+        "nl": "Subsidie voor Klimaatscholen",
+        "nl-BE-x-generated-informal": "Subsidie voor Klimaatscholen"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Stad Gent wil klimaatprojecten van Gentse Klimaatscholen ondersteunen met een premie. Een Klimaatschool bouwt mee aan Gent Klimaatstad door een groene speelplaats, of een plantaardige lunch, of meer uitstappen per fiets, of energie te besparen, of ...</p>",
+        "nl": "<p>Stad Gent wil klimaatprojecten van Gentse Klimaatscholen ondersteunen met een premie. Een Klimaatschool bouwt mee aan Gent Klimaatstad door een groene speelplaats, of een plantaardige lunch, of meer uitstappen per fiets, of energie te besparen, of ...</p>",
+        "nl-BE-x-generated-formal": "<p>Stad Gent wil klimaatprojecten van Gentse Klimaatscholen ondersteunen met een premie. Een Klimaatschool bouwt mee aan Gent Klimaatstad door een groene speelplaats, of een plantaardige lunch, of meer uitstappen per fiets, of energie te besparen, of ...</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002067",
+          "@id": "OVO002067"
+        }
+      ],
+      "creatie": "2023-07-10T07:00:31.441679Z",
+      "laatstGewijzigd": "2023-07-26T07:00:17.330679917Z",
+      "laatstOntvangen": "2023-07-26T07:00:17.330693943Z",
+      "productnummer": "1932",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/db621ff7-9583-41ab-a057-6a4651985363",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6f784c83-9d79-4aa4-bbeb-22b24a6ee658"
+    },
+    {
+      "id": "bdf091dd-1fe9-4af4-94ed-a4a6766aaa32",
+      "generatedAtTime": "2023-07-26T07:00:17.171676Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Subidie voor Klimaatprojecten",
+        "nl-BE-x-generated-formal": "Subidie voor Klimaatprojecten",
+        "nl-BE-x-generated-informal": "Subidie voor Klimaatprojecten"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Stad Gent wil klimaatprojecten van Gentse verenigingen ondersteunen via een premie:</p><ul><li>projecten ter ondersteuning van acties die de doelstellingen van het Gents Klimaatverbond helpen realiseren, en/of</li><li>projecten die de Gentenaars intenser betrekken bij het Klimaatverbond en zo het draagvlak voor het Klimaatverbond vergroten.</li></ul>",
+        "nl": "<p>Stad Gent wil klimaatprojecten van Gentse verenigingen ondersteunen via een premie:</p><ul><li>projecten ter ondersteuning van acties die de doelstellingen van het Gents Klimaatverbond helpen realiseren, en/of</li><li>projecten die de Gentenaars intenser betrekken bij het Klimaatverbond en zo het draagvlak voor het Klimaatverbond vergroten.</li></ul>",
+        "nl-BE-x-generated-informal": "<p>Stad Gent wil klimaatprojecten van Gentse verenigingen ondersteunen via een premie:</p><ul><li>projecten ter ondersteuning van acties die de doelstellingen van het Gents Klimaatverbond helpen realiseren, en/of</li><li>projecten die de Gentenaars intenser betrekken bij het Klimaatverbond en zo het draagvlak voor het Klimaatverbond vergroten.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002067",
+          "@id": "OVO002067"
+        }
+      ],
+      "creatie": "2023-07-10T07:00:31.267471523Z",
+      "laatstGewijzigd": "2023-07-26T07:00:17.092152582Z",
+      "laatstOntvangen": "2023-07-26T07:00:17.092154005Z",
+      "productnummer": "1931",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bdf091dd-1fe9-4af4-94ed-a4a6766aaa32",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f89c2673-8a3b-407a-b53f-7f82e9be73a5"
+    },
+    {
+      "id": "0437e682-715b-49d1-ab06-d1e99df4b21c",
+      "generatedAtTime": "2023-07-26T07:00:16.681358Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": " Projectsubsidie Natuur in je school - Natuur",
+        "nl-BE-x-generated-formal": " Projectsubsidie Natuur in uw school - Natuur",
+        "nl-BE-x-generated-informal": " Projectsubsidie Natuur in je school - Natuur"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-07-10T07:25:23.420209874Z",
+      "laatstGewijzigd": "2023-07-26T07:00:16.600675273Z",
+      "laatstOntvangen": "2023-07-26T07:00:16.600676749Z",
+      "productnummer": "2906",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QF",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0437e682-715b-49d1-ab06-d1e99df4b21c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6ab1a1e6-61c6-44e0-b274-e8f1436f4455"
+    },
+    {
+      "id": "4c646bfc-2b17-46bd-982a-2baa984b4225",
+      "generatedAtTime": "2023-07-26T07:00:16.456352Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Projectsubsidie Natuur in je school - Water",
+        "nl": "Projectsubsidie Natuur in je school - Water",
+        "nl-BE-x-generated-formal": "Projectsubsidie Natuur in u school - Water"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidie voor projecten die schoolomgevingen vergroenen en aandacht besteden aan biodiversiteit.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:35:17.253060014Z",
+      "laatstGewijzigd": "2023-07-26T07:00:16.368764469Z",
+      "laatstOntvangen": "2023-07-26T07:00:16.3687667Z",
+      "productnummer": "2867",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QD",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4c646bfc-2b17-46bd-982a-2baa984b4225",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7c41dd36-07a0-4a05-9d82-d33b522e0115"
+    },
+    {
+      "id": "471d77ec-f68d-44ea-8910-b39fc6230b1a",
+      "generatedAtTime": "2023-07-26T07:00:16.220968Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Wildrapport",
+        "nl": "Wildrapport",
+        "nl-BE-x-generated-formal": "Wildrapport"
+      },
+      "beschrijving": {
+        "nl": "<p>Artikel 47 van het jachtadministratiebesluit legt op dat elke onafhankelijke jachtrechthouder en elke wildbeheereenheid (WBE) jaarlijks een wildrapport moet indienen. Het gaat hierbij om wetgeving die betrekking heeft op jagers in het Vlaamse Gewest.</p><p>In het wildrapport wordt jaarlijks opgenomen wat de voorjaarsstand is van bepaalde wildsoorten (aantallen) en wat er in het voorgaande jaar werd geschoten. Deze data worden verzameld door het Agentschap voor Natuur en Bos (ANB) voor beleidsbeslissingen. Ook het Instituut voor Natuur- en Bosonderzoek (INBO) gebruikt de gerapporteerde gegevens voor wetenschappelijke doeleinden.</p>",
+        "nl-BE-x-generated-formal": "<p>Artikel 47 van het jachtadministratiebesluit legt op dat elke onafhankelijke jachtrechthouder en elke wildbeheereenheid (WBE) jaarlijks een wildrapport moet indienen. Het gaat hierbij om wetgeving die betrekking heeft op jagers in het Vlaamse Gewest.</p><p>In het wildrapport wordt jaarlijks opgenomen wat de voorjaarsstand is van bepaalde wildsoorten (aantallen) en wat er in het voorgaande jaar werd geschoten. Deze data worden verzameld door het Agentschap voor Natuur en Bos (ANB) voor beleidsbeslissingen. Ook het Instituut voor Natuur- en Bosonderzoek (INBO) gebruikt de gerapporteerde gegevens voor wetenschappelijke doeleinden.</p>",
+        "nl-BE-x-generated-informal": "<p>Artikel 47 van het jachtadministratiebesluit legt op dat elke onafhankelijke jachtrechthouder en elke wildbeheereenheid (WBE) jaarlijks een wildrapport moet indienen. Het gaat hierbij om wetgeving die betrekking heeft op jagers in het Vlaamse Gewest.</p><p>In het wildrapport wordt jaarlijks opgenomen wat de voorjaarsstand is van bepaalde wildsoorten (aantallen) en wat er in het voorgaande jaar werd geschoten. Deze data worden verzameld door het Agentschap voor Natuur en Bos (ANB) voor beleidsbeslissingen. Ook het Instituut voor Natuur- en Bosonderzoek (INBO) gebruikt de gerapporteerde gegevens voor wetenschappelijke doeleinden.</p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-generated-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Het wildrapport moet bij het Agentschap voor Natuur en Bos (ANB) worden ingediend. Hiervoor is een e-loket voorzien bij ANB.</p>",
+            "nl-BE-x-generated-formal": "<p>Het wildrapport moet bij het Agentschap voor Natuur en Bos (ANB) worden ingediend. Hiervoor is een e-loket voorzien bij ANB.</p>",
+            "nl-BE-x-generated-informal": "<p>Het wildrapport moet bij het Agentschap voor Natuur en Bos (ANB) worden ingediend. Hiervoor is een e-loket voorzien bij ANB.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Wildrapport",
+            "nl": "Wildrapport",
+            "nl-BE-x-generated-formal": "Wildrapport"
+          },
+          "url": "https://natuurenbos.vlaanderen.be/jagen/jachtverlof-en-administratieve-verplichtingen/jachtplan-faunabeheerplan-wildrapport-en#toc-wildrapport",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:35:14.901393287Z",
+      "laatstGewijzigd": "2023-07-26T07:00:16.048235409Z",
+      "laatstOntvangen": "2023-07-26T07:00:16.048237044Z",
+      "productnummer": "2857",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "verwanteProducten": [
+        {
+          "id": "e907f8e3-2445-465a-97d6-649df19ed81a",
+          "productnummer": "2856",
+          "type": "INSTANTIE",
+          "order": 0
+        },
+        {
+          "id": "6eb80e99-ed22-40b2-a4fa-5857f28487de",
+          "productnummer": "399",
+          "type": "INSTANTIE",
+          "order": 1
+        }
+      ],
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/471d77ec-f68d-44ea-8910-b39fc6230b1a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/09874b68-7ae0-4232-810b-e50556e1fada"
+    },
+    {
+      "id": "b2df2dee-3b52-4052-bc83-38e58779417a",
+      "generatedAtTime": "2023-07-26T07:00:15.839614Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Faunabeheerplan",
+        "nl": "Faunabeheerplan",
+        "nl-BE-x-generated-informal": "Faunabeheerplan"
+      },
+      "beschrijving": {
+        "nl": "<p>Artikels 43 - 46 van het jachtvoorwaardenbesluit beschrijven de noodzaak voor het Faunabeheerplan. Het is een wettelijk verplicht document dat elke wildbeheereenheid (WBE) en onafhankelijke jachtrechthouder moet voorleggen aan het Agentschap voor Natuur en Bos. Op basis van het faunabeheerplan wordt nagegaan of er aan duurzaam wildbeheer wordt gedaan, of er patrijsvriendelijk beheer plaatsvindt op het werkingsgebied en of de WBE in aanmerking komt voor projectsubsidies.</p>",
+        "nl-BE-x-generated-formal": "<p>Artikels 43 - 46 van het jachtvoorwaardenbesluit beschrijven de noodzaak voor het Faunabeheerplan. Het is een wettelijk verplicht document dat elke wildbeheereenheid (WBE) en onafhankelijke jachtrechthouder moet voorleggen aan het Agentschap voor Natuur en Bos. Op basis van het faunabeheerplan wordt nagegaan of er aan duurzaam wildbeheer wordt gedaan, of er patrijsvriendelijk beheer plaatsvindt op het werkingsgebied en of de WBE in aanmerking komt voor projectsubsidies.</p>",
+        "nl-BE-x-generated-informal": "<p>Artikels 43 - 46 van het jachtvoorwaardenbesluit beschrijven de noodzaak voor het Faunabeheerplan. Het is een wettelijk verplicht document dat elke wildbeheereenheid (WBE) en onafhankelijke jachtrechthouder moet voorleggen aan het Agentschap voor Natuur en Bos. Op basis van het faunabeheerplan wordt nagegaan of er aan duurzaam wildbeheer wordt gedaan, of er patrijsvriendelijk beheer plaatsvindt op het werkingsgebied en of de WBE in aanmerking komt voor projectsubsidies.</p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Jacht - Faunabeheerplan",
+            "nl-BE-x-generated-formal": "Jacht - Faunabeheerplan",
+            "nl": "Jacht - Faunabeheerplan"
+          },
+          "url": "https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/jachtadministratie/faunabeheerplan",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:35:14.771027011Z",
+      "laatstGewijzigd": "2023-07-26T07:00:15.701062739Z",
+      "laatstOntvangen": "2023-07-26T07:00:15.701064075Z",
+      "productnummer": "2856",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "verwanteProducten": [
+        {
+          "id": "f10d667f-5a15-4bf4-a9f3-e7c46512cc42",
+          "productnummer": "196",
+          "type": "INSTANTIE",
+          "order": 0
+        },
+        {
+          "id": "6eb80e99-ed22-40b2-a4fa-5857f28487de",
+          "productnummer": "399",
+          "type": "INSTANTIE",
+          "order": 1
+        },
+        {
+          "id": "09874b68-7ae0-4232-810b-e50556e1fada",
+          "productnummer": "2857",
+          "type": "INSTANTIE",
+          "order": 2
+        }
+      ],
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b2df2dee-3b52-4052-bc83-38e58779417a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e907f8e3-2445-465a-97d6-649df19ed81a"
+    },
+    {
+      "id": "cdd3661d-c2b4-42dc-a55d-1548651af3b3",
+      "generatedAtTime": "2023-07-26T07:00:15.476659Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Vlaams Fonds Tropisch Bos",
+        "nl": "Vlaams Fonds Tropisch Bos",
+        "nl-BE-x-generated-informal": "Vlaams Fonds Tropisch Bos"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Projecten tvv bos in de tropen.</p>",
+        "nl": "<p>Projecten tvv bos in de tropen.</p>",
+        "nl-BE-x-generated-informal": "<p>Projecten tvv bos in de tropen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.827095051Z",
+      "laatstGewijzigd": "2023-07-26T07:00:15.38651244Z",
+      "laatstOntvangen": "2023-07-26T07:00:15.386513879Z",
+      "productnummer": "2301",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QF",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cdd3661d-c2b4-42dc-a55d-1548651af3b3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/401da6c9-52e8-4520-80f2-3913a6ac03be"
+    },
+    {
+      "id": "084c173f-704a-4894-9b8d-48db953a376e",
+      "generatedAtTime": "2023-07-26T07:00:15.225714Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Visserijfonds",
+        "nl": "Visserijfonds",
+        "nl-BE-x-generated-informal": "Visserijfonds"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.701078814Z",
+      "laatstGewijzigd": "2023-07-26T07:00:15.157753404Z",
+      "laatstOntvangen": "2023-07-26T07:00:15.157755169Z",
+      "productnummer": "2300",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QF",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/084c173f-704a-4894-9b8d-48db953a376e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e3a20bd4-aeec-4c2a-a148-36ea4c6e2e58"
+    },
+    {
+      "id": "b5d3aff0-fb6c-46ba-b50b-5f244b471223",
+      "generatedAtTime": "2023-07-26T07:00:14.946838Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies voor de werking van de onthaalpoorten",
+        "nl": "Subsidies voor de werking van de onthaalpoorten",
+        "nl-BE-x-generated-formal": "Subsidies voor de werking van de onthaalpoorten"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.587306417Z",
+      "laatstGewijzigd": "2023-07-26T07:00:14.353172434Z",
+      "laatstOntvangen": "2023-07-26T07:00:14.353338994Z",
+      "productnummer": "2299",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QF",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5d3aff0-fb6c-46ba-b50b-5f244b471223",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a56406db-8521-4714-8e8c-e006dc50a80c"
+    },
+    {
+      "id": "b5c13225-e879-4224-97f1-2e1497cf9467",
+      "generatedAtTime": "2023-07-26T07:00:14.061458Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies om terreinen toegankelijk te maken en te houden",
+        "nl-BE-x-generated-formal": "Subsidies om terreinen toegankelijk te maken en te houden",
+        "nl": "Subsidies om terreinen toegankelijk te maken en te houden"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.47058204Z",
+      "laatstGewijzigd": "2023-07-26T07:00:13.969622851Z",
+      "laatstOntvangen": "2023-07-26T07:00:13.969624145Z",
+      "productnummer": "2298",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QF",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5c13225-e879-4224-97f1-2e1497cf9467",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7ae4ae2f-0a9d-41f9-8bf0-56917a3e953f"
+    },
+    {
+      "id": "0ca539db-405e-4550-b8d7-712881497fc6",
+      "generatedAtTime": "2023-07-26T07:00:13.830898Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies bevordering en uitvoering beleid",
+        "nl-BE-x-generated-informal": "Subsidies bevordering en uitvoering beleid",
+        "nl": "Subsidies bevordering en uitvoering beleid"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.344651501Z",
+      "laatstGewijzigd": "2023-07-26T07:00:13.752160953Z",
+      "laatstOntvangen": "2023-07-26T07:00:13.752162084Z",
+      "productnummer": "2297",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QF",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0ca539db-405e-4550-b8d7-712881497fc6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6e6f2fae-3130-4680-acf6-874899c3332b"
+    },
+    {
+      "id": "8d82dfbf-6d5c-4807-891b-23aa2a72d79d",
+      "generatedAtTime": "2023-07-26T07:00:13.608007Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie erkende reservaten",
+        "nl": "Subsidie erkende reservaten",
+        "nl-BE-x-generated-formal": "Subsidie erkende reservaten"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Beheersubsidies.</p>",
+        "nl-BE-x-generated-formal": "<p>Beheersubsidies.</p>",
+        "nl": "<p>Beheersubsidies.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.234523853Z",
+      "laatstGewijzigd": "2023-07-26T07:00:13.524931468Z",
+      "laatstOntvangen": "2023-07-26T07:00:13.524932804Z",
+      "productnummer": "2296",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QF",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8d82dfbf-6d5c-4807-891b-23aa2a72d79d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ab57e195-345a-49b5-a290-8bd69e1f4c19"
+    },
+    {
+      "id": "80c2da73-5740-455a-bd40-b2f254229a14",
+      "generatedAtTime": "2023-07-26T07:00:13.327697Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie beheer GBN",
+        "nl": "Subsidie beheer GBN",
+        "nl-BE-x-generated-formal": "Subsidie beheer GBN"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Beheersubsidies.</p>",
+        "nl-BE-x-generated-formal": "<p>Beheersubsidies.</p>",
+        "nl": "<p>Beheersubsidies.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de<br/>planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring van de<br />planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de<br/>planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.111603548Z",
+      "laatstGewijzigd": "2023-07-26T07:00:13.243496433Z",
+      "laatstOntvangen": "2023-07-26T07:00:13.243497368Z",
+      "productnummer": "2295",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QF",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/80c2da73-5740-455a-bd40-b2f254229a14",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/46354457-d271-441f-92af-4540e0d3583a"
+    },
+    {
+      "id": "2eb3269e-3177-4b74-8d53-4fee171b280c",
+      "generatedAtTime": "2023-07-26T07:00:13.070884Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Restfinanciering Life",
+        "nl-BE-x-generated-formal": "Restfinanciering Life",
+        "nl": "Restfinanciering Life"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:16.992983349Z",
+      "laatstGewijzigd": "2023-07-26T07:00:12.987390693Z",
+      "laatstOntvangen": "2023-07-26T07:00:12.987392082Z",
+      "productnummer": "2294",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QF",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2eb3269e-3177-4b74-8d53-4fee171b280c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a5e0fafd-8a93-4475-9160-f4016bff5888"
+    },
+    {
+      "id": "55140e11-6a64-496e-bda2-ff1c2ca8f04a",
+      "generatedAtTime": "2023-07-26T07:00:12.759528Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Projectsubsidies natuur",
+        "nl-BE-x-generated-formal": "Projectsubsidies natuur",
+        "nl": "Projectsubsidies natuur"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Uitvoering eenmalige inrichtingswerken.</p>",
+        "nl": "<p>Uitvoering eenmalige inrichtingswerken.</p>",
+        "nl-BE-x-generated-formal": "<p>Uitvoering eenmalige inrichtingswerken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:51.096406809Z",
+      "laatstGewijzigd": "2023-07-26T07:00:12.672773455Z",
+      "laatstOntvangen": "2023-07-26T07:00:12.672923919Z",
+      "productnummer": "2293",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "QF",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/55140e11-6a64-496e-bda2-ff1c2ca8f04a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a8a6b0fd-69cc-4c0c-b8bd-ac9702efa3a6"
+    }
+  ]
+}

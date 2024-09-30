@@ -1,1 +1,1522 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2249","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2250","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2024-08-19T08:15:11.898977Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2248","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2024-08-19T08:15:07.389455Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2249","@type":"EventStream","member":[{"id":"5788eb9b-b360-416c-83d3-955d468fca62","generatedAtTime":"2024-08-19T08:15:11.898977Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Investeringssubsidie aan de Vlaamse Gemeenschapscommissie voor gemeenschapsinfrastructuur","nl-BE-x-generated-informal":"Investeringssubsidie aan de Vlaamse Gemeenschapscommissie voor gemeenschapsinfrastructuur","nl-BE-x-formal":"Investeringssubsidie aan de Vlaamse Gemeenschapscommissie voor gemeenschapsinfrastructuur"},"beschrijving":{"nl":"<p>De investeringssubsidie is bestemd voor de financiering van de herstellings-, onderhouds- en verbouwingswerken van de culturele gemeenschapsinfrastructuur van de Vlaamse Gemeenschapscommissie.</p>","nl-BE-x-generated-informal":"<p>De investeringssubsidie is bestemd voor de financiering van de herstellings-, onderhouds- en verbouwingswerken van de culturele gemeenschapsinfrastructuur van de Vlaamse Gemeenschapscommissie.</p>","nl-BE-x-formal":"<p>De investeringssubsidie is bestemd voor de financiering van de herstellings-, onderhouds- en verbouwingswerken van de culturele gemeenschapsinfrastructuur van de Vlaamse Gemeenschapscommissie.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1"],"regelgevingTekst":{"nl":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-formal":"<p>Jaarlijks uitgavendecreet</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-12-14T07:58:20Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:11.820578022Z","productnummer":"2873","gearchiveerd":false,"subsidiemaatregel":"SE","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5788eb9b-b360-416c-83d3-955d468fca62","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"},{"id":"545b1f0e-a2aa-4801-902f-e777b01a2a99","generatedAtTime":"2024-08-19T08:15:11.349837Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Begeleiding en integratie van ontheemden","nl-BE-x-formal":"Begeleiding en integratie van ontheemden","nl-BE-x-generated-informal":"Begeleiding en integratie van ontheemden"},"beschrijving":{"nl-BE-x-generated-informal":"<p>De Vlaamse overheid ondersteunt alle ontheemden bij hun zoektocht naar huisvesting en ondersteuning door in begeleiding te voorzien gedurende de periode dat ze een beroep kunnen doen op het tijdelijke statuut ontheemden. Doelstelling is om mensen te begeleiden in en naar alle verschillende vormen van ondersteuning, zoals integratie, huisvesting, gezondheidszorg, onderwijs, … .</p>","nl-BE-x-formal":"<p>De Vlaamse overheid ondersteunt alle ontheemden bij hun zoektocht naar huisvesting en ondersteuning door in begeleiding te voorzien gedurende de periode dat ze een beroep kunnen doen op het tijdelijke statuut ontheemden. Doelstelling is om mensen te begeleiden in en naar alle verschillende vormen van ondersteuning, zoals integratie, huisvesting, gezondheidszorg, onderwijs, … .</p>","nl":"<p>De Vlaamse overheid ondersteunt alle ontheemden bij hun zoektocht naar huisvesting en ondersteuning door in begeleiding te voorzien gedurende de periode dat ze een beroep kunnen doen op het tijdelijke statuut ontheemden. Doelstelling is om mensen te begeleiden in en naar alle verschillende vormen van ondersteuning, zoals integratie, huisvesting, gezondheidszorg, onderwijs, … .</p>"},"type":"AdviesBegeleiding","themas":["BurgerOverheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-09-12T11:01:20Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:11.273248016Z","productnummer":"2790","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/545b1f0e-a2aa-4801-902f-e777b01a2a99","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/97594b47-e7c5-494d-a71a-d6356abe7761"},{"id":"19acbb9c-d621-4274-99df-0d1d904c999f","generatedAtTime":"2024-08-19T08:15:11.23022Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie","nl-BE-x-formal":"Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie","nl":"Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie"},"beschrijving":{"nl":"<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>","nl-BE-x-formal":"<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>","nl-BE-x-generated-informal":"<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-08-18T14:34:48Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:11.13068111Z","productnummer":"2535","gearchiveerd":false,"subsidiemaatregel":"SD","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/19acbb9c-d621-4274-99df-0d1d904c999f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6a7a9052-4077-432f-873d-83f103647385"},{"id":"0916b36b-f1fe-4a90-89c5-d346081d358a","generatedAtTime":"2024-08-19T08:15:11.121316Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie","nl-BE-x-formal":"Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie","nl":"Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie"},"beschrijving":{"nl":"<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>","nl-BE-x-formal":"<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>","nl-BE-x-generated-informal":"<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-08-18T14:34:48Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:11.009954295Z","productnummer":"2535","gearchiveerd":false,"subsidiemaatregel":"SD","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0916b36b-f1fe-4a90-89c5-d346081d358a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6a7a9052-4077-432f-873d-83f103647385"},{"id":"183084d8-9b38-49f7-834e-f0ba4d8a0702","generatedAtTime":"2024-08-19T08:15:10.938726Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies in het kader van preventie van radicalisering","nl-BE-x-formal":"Subsidies in het kader van preventie van radicalisering","nl":"Subsidies in het kader van preventie van radicalisering"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>","nl-BE-x-generated-informal":"<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>","nl":"<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["LokaalBestuur","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-formal":"<p>Jaarlijks uitgavendecreet</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-08-18T14:30:14Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:10.783960562Z","productnummer":"2534","gearchiveerd":false,"subsidiemaatregel":"SG_02","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/183084d8-9b38-49f7-834e-f0ba4d8a0702","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/563713b3-77dc-437c-96dd-10e58cd5f0ac"},{"id":"31c85ef0-d9a4-4b55-953c-4740f0a3e952","generatedAtTime":"2024-08-19T08:15:10.837982Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies in het kader van preventie van radicalisering","nl-BE-x-formal":"Subsidies in het kader van preventie van radicalisering","nl":"Subsidies in het kader van preventie van radicalisering"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>","nl-BE-x-generated-informal":"<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>","nl":"<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["LokaalBestuur","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-formal":"<p>Jaarlijks uitgavendecreet</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-08-18T14:30:14Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:10.726897249Z","productnummer":"2534","gearchiveerd":false,"subsidiemaatregel":"SG_02","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/31c85ef0-d9a4-4b55-953c-4740f0a3e952","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/563713b3-77dc-437c-96dd-10e58cd5f0ac"},{"id":"af5d46fd-3daa-4ab6-b53b-eb283d7a363e","generatedAtTime":"2024-08-19T08:15:10.031816Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie aan het interfederaal centrum voor gelijke Kansen en bestrijding van discriminatie en racisme","nl-BE-x-formal":"Subsidie aan het interfederaal centrum voor gelijke Kansen en bestrijding van discriminatie en racisme","nl":"Subsidie aan het interfederaal centrum voor gelijke Kansen en bestrijding van discriminatie en racisme"},"beschrijving":{"nl":"<p>De subsidie vanuit Vlaanderen aan Unia, het interfederaal centrum voor gelijke kansen en bestrijding van discriminatie en racisme.</p>","nl-BE-x-formal":"<p>De subsidie vanuit Vlaanderen aan Unia, het interfederaal centrum voor gelijke kansen en bestrijding van discriminatie en racisme.</p>","nl-BE-x-generated-informal":"<p>De subsidie vanuit Vlaanderen aan Unia, het interfederaal centrum voor gelijke kansen en bestrijding van discriminatie en racisme.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-formal":"<p>Jaarlijks uitgavendecreet</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:09.934476418Z","productnummer":"2271","gearchiveerd":false,"subsidiemaatregel":"SD","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/af5d46fd-3daa-4ab6-b53b-eb283d7a363e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/9162b22e-8f21-4762-8f24-9aec9ff65b6a"},{"id":"dce096f3-9707-4594-80a5-677f57d6205b","generatedAtTime":"2024-08-19T08:15:09.772001Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies in het kader van het integratie- en inburgeringsbeleid","nl-BE-x-formal":"Subsidies in het kader van het integratie- en inburgeringsbeleid","nl":"Subsidies in het kader van het integratie- en inburgeringsbeleid"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>","nl-BE-x-generated-informal":"<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>","nl":"<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-formal":"<p>Jaarlijks uitgavendecreet</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:09.691272139Z","productnummer":"2270","gearchiveerd":false,"subsidiemaatregel":"SD","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/dce096f3-9707-4594-80a5-677f57d6205b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/851e4f59-335e-42fe-95b0-60449b41aeeb"},{"id":"11dbca44-1402-41b1-8e09-5e6aefa11dcc","generatedAtTime":"2024-08-19T08:15:09.76014Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Subsidies in het kader van het integratie- en inburgeringsbeleid","nl-BE-x-generated-informal":"Subsidies in het kader van het integratie- en inburgeringsbeleid","nl":"Subsidies in het kader van het integratie- en inburgeringsbeleid"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>","nl-BE-x-generated-informal":"<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>","nl":"<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-formal":"<p>Jaarlijks uitgavendecreet</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:09.668601568Z","productnummer":"2270","gearchiveerd":false,"subsidiemaatregel":"SD","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/11dbca44-1402-41b1-8e09-5e6aefa11dcc","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/851e4f59-335e-42fe-95b0-60449b41aeeb"},{"id":"bafd4ac7-e439-4282-84e7-118e0a40caf0","generatedAtTime":"2024-08-19T08:15:09.530535Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid","nl-BE-x-formal":"Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid","nl":"Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid"},"beschrijving":{"nl":"<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>","nl-BE-x-generated-informal":"<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>","nl-BE-x-formal":"<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>","nl-BE-x-generated-informal":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>","nl":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:09.431943045Z","productnummer":"2269","gearchiveerd":false,"subsidiemaatregel":"SD","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bafd4ac7-e439-4282-84e7-118e0a40caf0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/01b26739-355d-48be-851d-36caa93abe6b"},{"id":"28fcb6ab-f1ed-47c6-8ab9-b9ac88ab5b28","generatedAtTime":"2024-08-19T08:15:09.47056Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid","nl-BE-x-formal":"Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid","nl":"Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid"},"beschrijving":{"nl":"<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>","nl-BE-x-formal":"<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>","nl-BE-x-generated-informal":"<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>","nl-BE-x-formal":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>","nl":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:09.388341226Z","productnummer":"2269","gearchiveerd":false,"subsidiemaatregel":"SD","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/28fcb6ab-f1ed-47c6-8ab9-b9ac88ab5b28","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/01b26739-355d-48be-851d-36caa93abe6b"},{"id":"82146364-338f-4bd6-986e-6d7be12d99e7","generatedAtTime":"2024-08-19T08:15:09.232743Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie aan participatieorganisatie LEVL","nl-BE-x-formal":"Subsidie aan participatieorganisatie LEVL","nl":"Subsidie aan participatieorganisatie LEVL"},"beschrijving":{"nl-BE-x-generated-informal":"<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>","nl-BE-x-formal":"<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>","nl":"<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br/>inburgeringsbeleid, artikel 11</p>","nl-BE-x-formal":"<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br>inburgeringsbeleid, artikel 11</p>","nl":"<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br>inburgeringsbeleid, artikel 11</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:09.13275596Z","productnummer":"2268","gearchiveerd":false,"subsidiemaatregel":"SD","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/82146364-338f-4bd6-986e-6d7be12d99e7","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/24d863d0-c16e-4e14-8f2b-3ad9ba3187cf"},{"id":"9485185c-7514-47a4-b9f7-08844da0dddc","generatedAtTime":"2024-08-19T08:15:09.202367Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie aan participatieorganisatie LEVL","nl-BE-x-formal":"Subsidie aan participatieorganisatie LEVL","nl":"Subsidie aan participatieorganisatie LEVL"},"beschrijving":{"nl-BE-x-generated-informal":"<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>","nl-BE-x-formal":"<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>","nl":"<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br/>inburgeringsbeleid, artikel 11</p>","nl-BE-x-formal":"<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br>inburgeringsbeleid, artikel 11</p>","nl":"<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br>inburgeringsbeleid, artikel 11</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:09.113960878Z","productnummer":"2268","gearchiveerd":false,"subsidiemaatregel":"SD","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9485185c-7514-47a4-b9f7-08844da0dddc","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/24d863d0-c16e-4e14-8f2b-3ad9ba3187cf"},{"id":"2d273bba-509b-4e2a-bc4a-e7d94f29bfb1","generatedAtTime":"2024-08-19T08:15:08.958531Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Toelage aan het Vlaams Agentschap Integratie en Inburgering","nl-BE-x-generated-informal":"Toelage aan het Vlaams Agentschap Integratie en Inburgering","nl-BE-x-formal":"Toelage aan het Vlaams Agentschap Integratie en Inburgering"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br/>ondersteunen, te stimuleren en te begeleiden.</p>","nl":"<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br>ondersteunen, te stimuleren en te begeleiden.</p>","nl-BE-x-formal":"<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br>ondersteunen, te stimuleren en te begeleiden.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>","nl-BE-x-generated-informal":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>","nl":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:08.85289724Z","productnummer":"2267","gearchiveerd":false,"subsidiemaatregel":"SD","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2d273bba-509b-4e2a-bc4a-e7d94f29bfb1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/92bbd116-0bd8-41ab-9e03-c76c307d8b9c"},{"id":"d9b964cf-ed23-4842-979d-fa3296618a12","generatedAtTime":"2024-08-19T08:15:08.910269Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Toelage aan het Vlaams Agentschap Integratie en Inburgering","nl-BE-x-generated-informal":"Toelage aan het Vlaams Agentschap Integratie en Inburgering","nl-BE-x-formal":"Toelage aan het Vlaams Agentschap Integratie en Inburgering"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br/>ondersteunen, te stimuleren en te begeleiden.</p>","nl":"<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br>ondersteunen, te stimuleren en te begeleiden.</p>","nl-BE-x-formal":"<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br>ondersteunen, te stimuleren en te begeleiden.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>","nl-BE-x-formal":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>","nl":"<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:08.831672146Z","productnummer":"2267","gearchiveerd":false,"subsidiemaatregel":"SD","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d9b964cf-ed23-4842-979d-fa3296618a12","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/92bbd116-0bd8-41ab-9e03-c76c307d8b9c"},{"id":"b840e013-fdf4-4fdb-91e7-11b744c5cbd9","generatedAtTime":"2024-08-19T08:15:08.702909Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkingssubsidies in het kader van het gelijkekansenbeleid","nl-BE-x-generated-informal":"Werkingssubsidies in het kader van het gelijkekansenbeleid","nl-BE-x-formal":"Werkingssubsidies in het kader van het gelijkekansenbeleid"},"beschrijving":{"nl":"<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>","nl-BE-x-generated-informal":"<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>","nl-BE-x-formal":"<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-formal":"<p>Jaarlijks uitgavendecreet</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:08.609648692Z","productnummer":"2266","gearchiveerd":false,"subsidiemaatregel":"SC","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b840e013-fdf4-4fdb-91e7-11b744c5cbd9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/59d05574-e517-4b74-a5ed-78f2759e5f97"},{"id":"26a22501-44f0-4eff-bece-a108b858eadd","generatedAtTime":"2024-08-19T08:15:08.653436Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkingssubsidies in het kader van het gelijkekansenbeleid","nl-BE-x-generated-informal":"Werkingssubsidies in het kader van het gelijkekansenbeleid","nl-BE-x-formal":"Werkingssubsidies in het kader van het gelijkekansenbeleid"},"beschrijving":{"nl":"<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>","nl-BE-x-formal":"<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>","nl-BE-x-generated-informal":"<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Jaarlijks uitgavendecreet</p>","nl-BE-x-formal":"<p>Jaarlijks uitgavendecreet</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:08.55739148Z","productnummer":"2266","gearchiveerd":false,"subsidiemaatregel":"SC","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/26a22501-44f0-4eff-bece-a108b858eadd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/59d05574-e517-4b74-a5ed-78f2759e5f97"},{"id":"42c78b62-ff1a-4adf-834f-eb4152ca36cb","generatedAtTime":"2024-08-19T08:15:08.388999Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Toelage aan Agentschap Toegankelijk Vlaanderen - Inter","nl-BE-x-generated-informal":"Toelage aan Agentschap Toegankelijk Vlaanderen - Inter","nl-BE-x-formal":"Toelage aan Agentschap Toegankelijk Vlaanderen - Inter"},"beschrijving":{"nl-BE-x-formal":"<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br>volwaardig kan deelnemen aan alle facetten van het leven.</p>","nl-BE-x-generated-informal":"<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br/>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br/>volwaardig kan deelnemen aan alle facetten van het leven.</p>","nl":"<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br>volwaardig kan deelnemen aan alle facetten van het leven.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>","nl-BE-x-generated-informal":"<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>","nl":"<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:08.271858776Z","productnummer":"2265","gearchiveerd":false,"subsidiemaatregel":"SC","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/42c78b62-ff1a-4adf-834f-eb4152ca36cb","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4932cf2f-17df-4d63-b7f8-b04340137f50"},{"id":"ba6ede13-4bb4-4887-b449-09ee6ff862db","generatedAtTime":"2024-08-19T08:15:08.368411Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Toelage aan Agentschap Toegankelijk Vlaanderen - Inter","nl-BE-x-generated-informal":"Toelage aan Agentschap Toegankelijk Vlaanderen - Inter","nl-BE-x-formal":"Toelage aan Agentschap Toegankelijk Vlaanderen - Inter"},"beschrijving":{"nl-BE-x-formal":"<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br>volwaardig kan deelnemen aan alle facetten van het leven.</p>","nl-BE-x-generated-informal":"<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br/>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br/>volwaardig kan deelnemen aan alle facetten van het leven.</p>","nl":"<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br>volwaardig kan deelnemen aan alle facetten van het leven.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>","nl-BE-x-generated-informal":"<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>","nl":"<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:08.240593418Z","productnummer":"2265","gearchiveerd":false,"subsidiemaatregel":"SC","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ba6ede13-4bb4-4887-b449-09ee6ff862db","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4932cf2f-17df-4d63-b7f8-b04340137f50"},{"id":"a7068079-8b80-4ce8-a978-ad92e73ba351","generatedAtTime":"2024-08-19T08:15:08.113055Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Thematische subsidies in het kader van stadsvernieuwing","nl-BE-x-generated-informal":"Thematische subsidies in het kader van stadsvernieuwing","nl-BE-x-formal":"Thematische subsidies in het kader van stadsvernieuwing"},"beschrijving":{"nl":"<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>","nl-BE-x-formal":"<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>","nl-BE-x-generated-informal":"<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl-BE-x-generated-informal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:08.016725454Z","productnummer":"2264","gearchiveerd":false,"subsidiemaatregel":"SH_01","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a7068079-8b80-4ce8-a978-ad92e73ba351","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/098b2803-c044-416f-9f9e-f39fe980803c"},{"id":"51cdec62-65dd-41fb-b242-472d42ffb068","generatedAtTime":"2024-08-19T08:15:08.083742Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Thematische subsidies in het kader van stadsvernieuwing","nl-BE-x-generated-informal":"Thematische subsidies in het kader van stadsvernieuwing","nl-BE-x-formal":"Thematische subsidies in het kader van stadsvernieuwing"},"beschrijving":{"nl":"<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>","nl-BE-x-formal":"<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>","nl-BE-x-generated-informal":"<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl-BE-x-generated-informal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:07.986811203Z","productnummer":"2264","gearchiveerd":false,"subsidiemaatregel":"SH_01","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/51cdec62-65dd-41fb-b242-472d42ffb068","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/098b2803-c044-416f-9f9e-f39fe980803c"},{"id":"29374e31-ca7b-438b-b8e8-b29b2b58bc0a","generatedAtTime":"2024-08-19T08:15:07.830373Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Project- en conceptsubsidies in het kader van stadvernieuwing","nl-BE-x-formal":"Project- en conceptsubsidies in het kader van stadvernieuwing","nl-BE-x-generated-informal":"Project- en conceptsubsidies in het kader van stadvernieuwing"},"beschrijving":{"nl":"<p>Jaarlijkse oproep naar projectvoorstellen voor de realisatie van vernieuwende stadsvernieuwingsprojecten (projectsubsidies) of vernieuwende concepten (conceptsubsidies)</p>","nl-BE-x-formal":"<p>Jaarlijkse oproep naar projectvoorstellen voor de realisatie van vernieuwende stadsvernieuwingsprojecten (projectsubsidies) of vernieuwende concepten (conceptsubsidies)</p>","nl-BE-x-generated-informal":"<p>Jaarlijkse oproep naar projectvoorstellen voor de realisatie van vernieuwende stadsvernieuwingsprojecten (projectsubsidies) of vernieuwende concepten (conceptsubsidies)</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl-BE-x-generated-informal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:07.729399397Z","productnummer":"2263","gearchiveerd":false,"subsidiemaatregel":"SH_01","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/29374e31-ca7b-438b-b8e8-b29b2b58bc0a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6092b5f9-6f0a-4a0c-aeee-c37fb239c0f0"},{"id":"96af3cb8-20af-489d-a82b-06acfa383689","generatedAtTime":"2024-08-19T08:15:07.680958Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vlaams Plattelandsfonds","nl-BE-x-generated-informal":"Vlaams Plattelandsfonds","nl-BE-x-formal":"Vlaams Plattelandsfonds"},"beschrijving":{"nl":"<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>","nl-BE-x-formal":"<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>","nl-BE-x-generated-informal":"<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl-BE-x-generated-informal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:47Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:07.585498486Z","productnummer":"2262","gearchiveerd":false,"subsidiemaatregel":"SH_01","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/96af3cb8-20af-489d-a82b-06acfa383689","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/73214618-1c30-4abe-afc8-189d68c6d220"},{"id":"02f158c2-d9da-4d07-bdf0-136d3e925290","generatedAtTime":"2024-08-19T08:15:07.571194Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vlaams Plattelandsfonds","nl-BE-x-generated-informal":"Vlaams Plattelandsfonds","nl-BE-x-formal":"Vlaams Plattelandsfonds"},"beschrijving":{"nl":"<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>","nl-BE-x-generated-informal":"<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>","nl-BE-x-formal":"<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl-BE-x-generated-informal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:47Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:07.473812707Z","productnummer":"2262","gearchiveerd":false,"subsidiemaatregel":"SH_01","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/02f158c2-d9da-4d07-bdf0-136d3e925290","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/73214618-1c30-4abe-afc8-189d68c6d220"},{"id":"d0e10e25-5033-4fe2-9ddb-96623032adf7","generatedAtTime":"2024-08-19T08:15:07.389455Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Vlaams grootstedenbeleid","nl-BE-x-formal":"Vlaams grootstedenbeleid","nl":"Vlaams grootstedenbeleid"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidies aan 5 centrumsteden - Antwerpen, Gent, Mechelen, Oostende en Sint-Niklaas - voor de realisatie van stadsvernieuwingsprojecten. Vlaamse voortzetting van het vroegere federale Grootstedenbeleid</p>","nl-BE-x-generated-informal":"<p>Subsidies aan 5 centrumsteden - Antwerpen, Gent, Mechelen, Oostende en Sint-Niklaas - voor de realisatie van stadsvernieuwingsprojecten. Vlaamse voortzetting van het vroegere federale Grootstedenbeleid</p>","nl":"<p>Subsidies aan 5 centrumsteden - Antwerpen, Gent, Mechelen, Oostende en Sint-Niklaas - voor de realisatie van stadsvernieuwingsprojecten. Vlaamse voortzetting van het vroegere federale Grootstedenbeleid</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl-BE-x-generated-informal":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>","nl":"<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2022-05-06T07:43:47Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-19T08:15:07.27957814Z","productnummer":"2261","gearchiveerd":false,"subsidiemaatregel":"SH_01","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d0e10e25-5033-4fe2-9ddb-96623032adf7","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc862a3f-60e1-488c-9a0c-2677e4098575"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2249",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2250",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2024-08-19T08:15:11.898977Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2248",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2024-08-19T08:15:07.389455Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2249",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "5788eb9b-b360-416c-83d3-955d468fca62",
+      "generatedAtTime": "2024-08-19T08:15:11.898977Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Investeringssubsidie aan de Vlaamse Gemeenschapscommissie voor gemeenschapsinfrastructuur",
+        "nl-BE-x-generated-informal": "Investeringssubsidie aan de Vlaamse Gemeenschapscommissie voor gemeenschapsinfrastructuur",
+        "nl-BE-x-formal": "Investeringssubsidie aan de Vlaamse Gemeenschapscommissie voor gemeenschapsinfrastructuur"
+      },
+      "beschrijving": {
+        "nl": "<p>De investeringssubsidie is bestemd voor de financiering van de herstellings-, onderhouds- en verbouwingswerken van de culturele gemeenschapsinfrastructuur van de Vlaamse Gemeenschapscommissie.</p>",
+        "nl-BE-x-generated-informal": "<p>De investeringssubsidie is bestemd voor de financiering van de herstellings-, onderhouds- en verbouwingswerken van de culturele gemeenschapsinfrastructuur van de Vlaamse Gemeenschapscommissie.</p>",
+        "nl-BE-x-formal": "<p>De investeringssubsidie is bestemd voor de financiering van de herstellings-, onderhouds- en verbouwingswerken van de culturele gemeenschapsinfrastructuur van de Vlaamse Gemeenschapscommissie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Jaarlijks uitgavendecreet</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-12-14T07:58:20Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:11.820578022Z",
+      "productnummer": "2873",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SE",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5788eb9b-b360-416c-83d3-955d468fca62",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"
+    },
+    {
+      "id": "545b1f0e-a2aa-4801-902f-e777b01a2a99",
+      "generatedAtTime": "2024-08-19T08:15:11.349837Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Begeleiding en integratie van ontheemden",
+        "nl-BE-x-formal": "Begeleiding en integratie van ontheemden",
+        "nl-BE-x-generated-informal": "Begeleiding en integratie van ontheemden"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>De Vlaamse overheid ondersteunt alle ontheemden bij hun zoektocht naar huisvesting en ondersteuning door in begeleiding te voorzien gedurende de periode dat ze een beroep kunnen doen op het tijdelijke statuut ontheemden. Doelstelling is om mensen te begeleiden in en naar alle verschillende vormen van ondersteuning, zoals integratie, huisvesting, gezondheidszorg, onderwijs, … .</p>",
+        "nl-BE-x-formal": "<p>De Vlaamse overheid ondersteunt alle ontheemden bij hun zoektocht naar huisvesting en ondersteuning door in begeleiding te voorzien gedurende de periode dat ze een beroep kunnen doen op het tijdelijke statuut ontheemden. Doelstelling is om mensen te begeleiden in en naar alle verschillende vormen van ondersteuning, zoals integratie, huisvesting, gezondheidszorg, onderwijs, … .</p>",
+        "nl": "<p>De Vlaamse overheid ondersteunt alle ontheemden bij hun zoektocht naar huisvesting en ondersteuning door in begeleiding te voorzien gedurende de periode dat ze een beroep kunnen doen op het tijdelijke statuut ontheemden. Doelstelling is om mensen te begeleiden in en naar alle verschillende vormen van ondersteuning, zoals integratie, huisvesting, gezondheidszorg, onderwijs, … .</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-09-12T11:01:20Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:11.273248016Z",
+      "productnummer": "2790",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/545b1f0e-a2aa-4801-902f-e777b01a2a99",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/97594b47-e7c5-494d-a71a-d6356abe7761"
+    },
+    {
+      "id": "19acbb9c-d621-4274-99df-0d1d904c999f",
+      "generatedAtTime": "2024-08-19T08:15:11.23022Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie",
+        "nl-BE-x-formal": "Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie",
+        "nl": "Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>",
+        "nl-BE-x-formal": "<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-08-18T14:34:48Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:11.13068111Z",
+      "productnummer": "2535",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SD",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/19acbb9c-d621-4274-99df-0d1d904c999f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6a7a9052-4077-432f-873d-83f103647385"
+    },
+    {
+      "id": "0916b36b-f1fe-4a90-89c5-d346081d358a",
+      "generatedAtTime": "2024-08-19T08:15:11.121316Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie",
+        "nl-BE-x-formal": "Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie",
+        "nl": "Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>",
+        "nl-BE-x-formal": "<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-08-18T14:34:48Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:11.009954295Z",
+      "productnummer": "2535",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SD",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0916b36b-f1fe-4a90-89c5-d346081d358a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6a7a9052-4077-432f-873d-83f103647385"
+    },
+    {
+      "id": "183084d8-9b38-49f7-834e-f0ba4d8a0702",
+      "generatedAtTime": "2024-08-19T08:15:10.938726Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies in het kader van preventie van radicalisering",
+        "nl-BE-x-formal": "Subsidies in het kader van preventie van radicalisering",
+        "nl": "Subsidies in het kader van preventie van radicalisering"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>",
+        "nl": "<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "LokaalBestuur",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Jaarlijks uitgavendecreet</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-08-18T14:30:14Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:10.783960562Z",
+      "productnummer": "2534",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SG_02",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/183084d8-9b38-49f7-834e-f0ba4d8a0702",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/563713b3-77dc-437c-96dd-10e58cd5f0ac"
+    },
+    {
+      "id": "31c85ef0-d9a4-4b55-953c-4740f0a3e952",
+      "generatedAtTime": "2024-08-19T08:15:10.837982Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies in het kader van preventie van radicalisering",
+        "nl-BE-x-formal": "Subsidies in het kader van preventie van radicalisering",
+        "nl": "Subsidies in het kader van preventie van radicalisering"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>",
+        "nl": "<p>Subsidies aan lokale besturen en de Vereniging van Vlaamse Steden en Gemeenten (VVSG) ter ondersteuning van de aanpak van gewelddadige radicalisering, extremisme en polarisatie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "LokaalBestuur",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Jaarlijks uitgavendecreet</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-08-18T14:30:14Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:10.726897249Z",
+      "productnummer": "2534",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SG_02",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/31c85ef0-d9a4-4b55-953c-4740f0a3e952",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/563713b3-77dc-437c-96dd-10e58cd5f0ac"
+    },
+    {
+      "id": "af5d46fd-3daa-4ab6-b53b-eb283d7a363e",
+      "generatedAtTime": "2024-08-19T08:15:10.031816Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie aan het interfederaal centrum voor gelijke Kansen en bestrijding van discriminatie en racisme",
+        "nl-BE-x-formal": "Subsidie aan het interfederaal centrum voor gelijke Kansen en bestrijding van discriminatie en racisme",
+        "nl": "Subsidie aan het interfederaal centrum voor gelijke Kansen en bestrijding van discriminatie en racisme"
+      },
+      "beschrijving": {
+        "nl": "<p>De subsidie vanuit Vlaanderen aan Unia, het interfederaal centrum voor gelijke kansen en bestrijding van discriminatie en racisme.</p>",
+        "nl-BE-x-formal": "<p>De subsidie vanuit Vlaanderen aan Unia, het interfederaal centrum voor gelijke kansen en bestrijding van discriminatie en racisme.</p>",
+        "nl-BE-x-generated-informal": "<p>De subsidie vanuit Vlaanderen aan Unia, het interfederaal centrum voor gelijke kansen en bestrijding van discriminatie en racisme.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Jaarlijks uitgavendecreet</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:09.934476418Z",
+      "productnummer": "2271",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SD",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/af5d46fd-3daa-4ab6-b53b-eb283d7a363e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/9162b22e-8f21-4762-8f24-9aec9ff65b6a"
+    },
+    {
+      "id": "dce096f3-9707-4594-80a5-677f57d6205b",
+      "generatedAtTime": "2024-08-19T08:15:09.772001Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies in het kader van het integratie- en inburgeringsbeleid",
+        "nl-BE-x-formal": "Subsidies in het kader van het integratie- en inburgeringsbeleid",
+        "nl": "Subsidies in het kader van het integratie- en inburgeringsbeleid"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>",
+        "nl-BE-x-generated-informal": "<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>",
+        "nl": "<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Jaarlijks uitgavendecreet</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:09.691272139Z",
+      "productnummer": "2270",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SD",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/dce096f3-9707-4594-80a5-677f57d6205b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/851e4f59-335e-42fe-95b0-60449b41aeeb"
+    },
+    {
+      "id": "11dbca44-1402-41b1-8e09-5e6aefa11dcc",
+      "generatedAtTime": "2024-08-19T08:15:09.76014Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Subsidies in het kader van het integratie- en inburgeringsbeleid",
+        "nl-BE-x-generated-informal": "Subsidies in het kader van het integratie- en inburgeringsbeleid",
+        "nl": "Subsidies in het kader van het integratie- en inburgeringsbeleid"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>",
+        "nl-BE-x-generated-informal": "<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>",
+        "nl": "<p>Subsidies in het kader van het integratie- en inburgeringsbeleid:</p><ul><li>werkingssubsidies</li><li>experimentele projectsubsidies.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Jaarlijks uitgavendecreet</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:09.668601568Z",
+      "productnummer": "2270",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SD",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/11dbca44-1402-41b1-8e09-5e6aefa11dcc",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/851e4f59-335e-42fe-95b0-60449b41aeeb"
+    },
+    {
+      "id": "bafd4ac7-e439-4282-84e7-118e0a40caf0",
+      "generatedAtTime": "2024-08-19T08:15:09.530535Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid",
+        "nl-BE-x-formal": "Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid",
+        "nl": "Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid"
+      },
+      "beschrijving": {
+        "nl": "<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>",
+        "nl-BE-x-generated-informal": "<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>",
+        "nl-BE-x-formal": "<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>",
+        "nl": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:09.431943045Z",
+      "productnummer": "2269",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SD",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bafd4ac7-e439-4282-84e7-118e0a40caf0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/01b26739-355d-48be-851d-36caa93abe6b"
+    },
+    {
+      "id": "28fcb6ab-f1ed-47c6-8ab9-b9ac88ab5b28",
+      "generatedAtTime": "2024-08-19T08:15:09.47056Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid",
+        "nl-BE-x-formal": "Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid",
+        "nl": "Subsidies aan de stedelijke agentschappen in het kader van het integratie- en inburgeringsbeleid"
+      },
+      "beschrijving": {
+        "nl": "<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>",
+        "nl-BE-x-formal": "<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>",
+        "nl-BE-x-generated-informal": "<p>Algemene werkingssubsidies aan de stedelijke agentschappen integratie en inburgering:</p><ul><li>Huis van het Nederlands</li><li>Atlas - stad Antwerpen</li><li>INGent - stad Gent.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>",
+        "nl-BE-x-formal": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>",
+        "nl": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:09.388341226Z",
+      "productnummer": "2269",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SD",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/28fcb6ab-f1ed-47c6-8ab9-b9ac88ab5b28",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/01b26739-355d-48be-851d-36caa93abe6b"
+    },
+    {
+      "id": "82146364-338f-4bd6-986e-6d7be12d99e7",
+      "generatedAtTime": "2024-08-19T08:15:09.232743Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie aan participatieorganisatie LEVL",
+        "nl-BE-x-formal": "Subsidie aan participatieorganisatie LEVL",
+        "nl": "Subsidie aan participatieorganisatie LEVL"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>",
+        "nl-BE-x-formal": "<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>",
+        "nl": "<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br/>inburgeringsbeleid, artikel 11</p>",
+        "nl-BE-x-formal": "<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br>inburgeringsbeleid, artikel 11</p>",
+        "nl": "<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br>inburgeringsbeleid, artikel 11</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:09.13275596Z",
+      "productnummer": "2268",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SD",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/82146364-338f-4bd6-986e-6d7be12d99e7",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/24d863d0-c16e-4e14-8f2b-3ad9ba3187cf"
+    },
+    {
+      "id": "9485185c-7514-47a4-b9f7-08844da0dddc",
+      "generatedAtTime": "2024-08-19T08:15:09.202367Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie aan participatieorganisatie LEVL",
+        "nl-BE-x-formal": "Subsidie aan participatieorganisatie LEVL",
+        "nl": "Subsidie aan participatieorganisatie LEVL"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>",
+        "nl-BE-x-formal": "<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>",
+        "nl": "<p>De participatieorganisatie vervult de volgende algemene opdrachten:</p><ul><li>de belangen van personen van buitenlandse herkomst behartigen</li><li>de personen van buitenlandse herkomst vertegenwoordigen ten opzichte van de Vlaamse overheid</li><li>beleidsaanbevelingen uitbrengen</li><li>lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen van buitenlandse herkomst te bevorderen.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br/>inburgeringsbeleid, artikel 11</p>",
+        "nl-BE-x-formal": "<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br>inburgeringsbeleid, artikel 11</p>",
+        "nl": "<p>Het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en<br>inburgeringsbeleid, artikel 11</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:09.113960878Z",
+      "productnummer": "2268",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SD",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9485185c-7514-47a4-b9f7-08844da0dddc",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/24d863d0-c16e-4e14-8f2b-3ad9ba3187cf"
+    },
+    {
+      "id": "2d273bba-509b-4e2a-bc4a-e7d94f29bfb1",
+      "generatedAtTime": "2024-08-19T08:15:08.958531Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Toelage aan het Vlaams Agentschap Integratie en Inburgering",
+        "nl-BE-x-generated-informal": "Toelage aan het Vlaams Agentschap Integratie en Inburgering",
+        "nl-BE-x-formal": "Toelage aan het Vlaams Agentschap Integratie en Inburgering"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br/>ondersteunen, te stimuleren en te begeleiden.</p>",
+        "nl": "<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br>ondersteunen, te stimuleren en te begeleiden.</p>",
+        "nl-BE-x-formal": "<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br>ondersteunen, te stimuleren en te begeleiden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>",
+        "nl": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:08.85289724Z",
+      "productnummer": "2267",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SD",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2d273bba-509b-4e2a-bc4a-e7d94f29bfb1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/92bbd116-0bd8-41ab-9e03-c76c307d8b9c"
+    },
+    {
+      "id": "d9b964cf-ed23-4842-979d-fa3296618a12",
+      "generatedAtTime": "2024-08-19T08:15:08.910269Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Toelage aan het Vlaams Agentschap Integratie en Inburgering",
+        "nl-BE-x-generated-informal": "Toelage aan het Vlaams Agentschap Integratie en Inburgering",
+        "nl-BE-x-formal": "Toelage aan het Vlaams Agentschap Integratie en Inburgering"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br/>ondersteunen, te stimuleren en te begeleiden.</p>",
+        "nl": "<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br>ondersteunen, te stimuleren en te begeleiden.</p>",
+        "nl-BE-x-formal": "<p>Het Agentschap Integratie en Inburgering heeft tot opdracht de integratie te<br>ondersteunen, te stimuleren en te begeleiden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>",
+        "nl-BE-x-formal": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>",
+        "nl": "<p>Decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:08.831672146Z",
+      "productnummer": "2267",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SD",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d9b964cf-ed23-4842-979d-fa3296618a12",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/92bbd116-0bd8-41ab-9e03-c76c307d8b9c"
+    },
+    {
+      "id": "b840e013-fdf4-4fdb-91e7-11b744c5cbd9",
+      "generatedAtTime": "2024-08-19T08:15:08.702909Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkingssubsidies in het kader van het gelijkekansenbeleid",
+        "nl-BE-x-generated-informal": "Werkingssubsidies in het kader van het gelijkekansenbeleid",
+        "nl-BE-x-formal": "Werkingssubsidies in het kader van het gelijkekansenbeleid"
+      },
+      "beschrijving": {
+        "nl": "<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>",
+        "nl-BE-x-generated-informal": "<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>",
+        "nl-BE-x-formal": "<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Jaarlijks uitgavendecreet</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:08.609648692Z",
+      "productnummer": "2266",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SC",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b840e013-fdf4-4fdb-91e7-11b744c5cbd9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/59d05574-e517-4b74-a5ed-78f2759e5f97"
+    },
+    {
+      "id": "26a22501-44f0-4eff-bece-a108b858eadd",
+      "generatedAtTime": "2024-08-19T08:15:08.653436Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkingssubsidies in het kader van het gelijkekansenbeleid",
+        "nl-BE-x-generated-informal": "Werkingssubsidies in het kader van het gelijkekansenbeleid",
+        "nl-BE-x-formal": "Werkingssubsidies in het kader van het gelijkekansenbeleid"
+      },
+      "beschrijving": {
+        "nl": "<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>",
+        "nl-BE-x-formal": "<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>",
+        "nl-BE-x-generated-informal": "<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijks uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Jaarlijks uitgavendecreet</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:08.55739148Z",
+      "productnummer": "2266",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SC",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/26a22501-44f0-4eff-bece-a108b858eadd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/59d05574-e517-4b74-a5ed-78f2759e5f97"
+    },
+    {
+      "id": "42c78b62-ff1a-4adf-834f-eb4152ca36cb",
+      "generatedAtTime": "2024-08-19T08:15:08.388999Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Toelage aan Agentschap Toegankelijk Vlaanderen - Inter",
+        "nl-BE-x-generated-informal": "Toelage aan Agentschap Toegankelijk Vlaanderen - Inter",
+        "nl-BE-x-formal": "Toelage aan Agentschap Toegankelijk Vlaanderen - Inter"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br>volwaardig kan deelnemen aan alle facetten van het leven.</p>",
+        "nl-BE-x-generated-informal": "<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br/>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br/>volwaardig kan deelnemen aan alle facetten van het leven.</p>",
+        "nl": "<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br>volwaardig kan deelnemen aan alle facetten van het leven.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>",
+        "nl": "<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:08.271858776Z",
+      "productnummer": "2265",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SC",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/42c78b62-ff1a-4adf-834f-eb4152ca36cb",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4932cf2f-17df-4d63-b7f8-b04340137f50"
+    },
+    {
+      "id": "ba6ede13-4bb4-4887-b449-09ee6ff862db",
+      "generatedAtTime": "2024-08-19T08:15:08.368411Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Toelage aan Agentschap Toegankelijk Vlaanderen - Inter",
+        "nl-BE-x-generated-informal": "Toelage aan Agentschap Toegankelijk Vlaanderen - Inter",
+        "nl-BE-x-formal": "Toelage aan Agentschap Toegankelijk Vlaanderen - Inter"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br>volwaardig kan deelnemen aan alle facetten van het leven.</p>",
+        "nl-BE-x-generated-informal": "<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br/>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br/>volwaardig kan deelnemen aan alle facetten van het leven.</p>",
+        "nl": "<p>Het Agentschap Toegankelijk Vlaanderen heeft als missie te streven naar een integraal<br>toegankelijke en inclusieve samenleving, zodat iedereen, op een gelijkwaardige wijze,<br>volwaardig kan deelnemen aan alle facetten van het leven.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>",
+        "nl": "<p>Decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:08.240593418Z",
+      "productnummer": "2265",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SC",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ba6ede13-4bb4-4887-b449-09ee6ff862db",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4932cf2f-17df-4d63-b7f8-b04340137f50"
+    },
+    {
+      "id": "a7068079-8b80-4ce8-a978-ad92e73ba351",
+      "generatedAtTime": "2024-08-19T08:15:08.113055Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Thematische subsidies in het kader van stadsvernieuwing",
+        "nl-BE-x-generated-informal": "Thematische subsidies in het kader van stadsvernieuwing",
+        "nl-BE-x-formal": "Thematische subsidies in het kader van stadsvernieuwing"
+      },
+      "beschrijving": {
+        "nl": "<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>",
+        "nl-BE-x-formal": "<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:08.016725454Z",
+      "productnummer": "2264",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SH_01",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a7068079-8b80-4ce8-a978-ad92e73ba351",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/098b2803-c044-416f-9f9e-f39fe980803c"
+    },
+    {
+      "id": "51cdec62-65dd-41fb-b242-472d42ffb068",
+      "generatedAtTime": "2024-08-19T08:15:08.083742Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Thematische subsidies in het kader van stadsvernieuwing",
+        "nl-BE-x-generated-informal": "Thematische subsidies in het kader van stadsvernieuwing",
+        "nl-BE-x-formal": "Thematische subsidies in het kader van stadsvernieuwing"
+      },
+      "beschrijving": {
+        "nl": "<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>",
+        "nl-BE-x-formal": "<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijkse oproep naar projectvoorstellen rond een jaarlijkse te bepalen stedelijke uitdaging.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:07.986811203Z",
+      "productnummer": "2264",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SH_01",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/51cdec62-65dd-41fb-b242-472d42ffb068",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/098b2803-c044-416f-9f9e-f39fe980803c"
+    },
+    {
+      "id": "29374e31-ca7b-438b-b8e8-b29b2b58bc0a",
+      "generatedAtTime": "2024-08-19T08:15:07.830373Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Project- en conceptsubsidies in het kader van stadvernieuwing",
+        "nl-BE-x-formal": "Project- en conceptsubsidies in het kader van stadvernieuwing",
+        "nl-BE-x-generated-informal": "Project- en conceptsubsidies in het kader van stadvernieuwing"
+      },
+      "beschrijving": {
+        "nl": "<p>Jaarlijkse oproep naar projectvoorstellen voor de realisatie van vernieuwende stadsvernieuwingsprojecten (projectsubsidies) of vernieuwende concepten (conceptsubsidies)</p>",
+        "nl-BE-x-formal": "<p>Jaarlijkse oproep naar projectvoorstellen voor de realisatie van vernieuwende stadsvernieuwingsprojecten (projectsubsidies) of vernieuwende concepten (conceptsubsidies)</p>",
+        "nl-BE-x-generated-informal": "<p>Jaarlijkse oproep naar projectvoorstellen voor de realisatie van vernieuwende stadsvernieuwingsprojecten (projectsubsidies) of vernieuwende concepten (conceptsubsidies)</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:07.729399397Z",
+      "productnummer": "2263",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SH_01",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/29374e31-ca7b-438b-b8e8-b29b2b58bc0a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6092b5f9-6f0a-4a0c-aeee-c37fb239c0f0"
+    },
+    {
+      "id": "96af3cb8-20af-489d-a82b-06acfa383689",
+      "generatedAtTime": "2024-08-19T08:15:07.680958Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vlaams Plattelandsfonds",
+        "nl-BE-x-generated-informal": "Vlaams Plattelandsfonds",
+        "nl-BE-x-formal": "Vlaams Plattelandsfonds"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>",
+        "nl-BE-x-formal": "<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:47Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:07.585498486Z",
+      "productnummer": "2262",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SH_01",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/96af3cb8-20af-489d-a82b-06acfa383689",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/73214618-1c30-4abe-afc8-189d68c6d220"
+    },
+    {
+      "id": "02f158c2-d9da-4d07-bdf0-136d3e925290",
+      "generatedAtTime": "2024-08-19T08:15:07.571194Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vlaams Plattelandsfonds",
+        "nl-BE-x-generated-informal": "Vlaams Plattelandsfonds",
+        "nl-BE-x-formal": "Vlaams Plattelandsfonds"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>",
+        "nl-BE-x-formal": "<p>Subsidies aan 50 plattelandsgemeenten voor investeringen in materiële vaste activa</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:47Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:07.473812707Z",
+      "productnummer": "2262",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SH_01",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/02f158c2-d9da-4d07-bdf0-136d3e925290",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/73214618-1c30-4abe-afc8-189d68c6d220"
+    },
+    {
+      "id": "d0e10e25-5033-4fe2-9ddb-96623032adf7",
+      "generatedAtTime": "2024-08-19T08:15:07.389455Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Vlaams grootstedenbeleid",
+        "nl-BE-x-formal": "Vlaams grootstedenbeleid",
+        "nl": "Vlaams grootstedenbeleid"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidies aan 5 centrumsteden - Antwerpen, Gent, Mechelen, Oostende en Sint-Niklaas - voor de realisatie van stadsvernieuwingsprojecten. Vlaamse voortzetting van het vroegere federale Grootstedenbeleid</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan 5 centrumsteden - Antwerpen, Gent, Mechelen, Oostende en Sint-Niklaas - voor de realisatie van stadsvernieuwingsprojecten. Vlaamse voortzetting van het vroegere federale Grootstedenbeleid</p>",
+        "nl": "<p>Subsidies aan 5 centrumsteden - Antwerpen, Gent, Mechelen, Oostende en Sint-Niklaas - voor de realisatie van stadsvernieuwingsprojecten. Vlaamse voortzetting van het vroegere federale Grootstedenbeleid</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>",
+        "nl": "<p>Decreet van 23/12/2016 houdende de vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2022-05-06T07:43:47Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-19T08:15:07.27957814Z",
+      "productnummer": "2261",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "SH_01",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d0e10e25-5033-4fe2-9ddb-96623032adf7",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc862a3f-60e1-488c-9a0c-2677e4098575"
+    }
+  ]
+}

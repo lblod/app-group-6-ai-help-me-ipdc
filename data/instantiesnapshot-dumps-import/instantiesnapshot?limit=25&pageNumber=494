@@ -1,1 +1,1379 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=494","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=495","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-07-03T12:35:24.103257Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=493","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-07-03T12:30:55.257113Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=494","@type":"EventStream","member":[{"id":"63d205ac-d4e3-4bd9-b10c-018a378c2829","generatedAtTime":"2023-07-03T12:35:24.103257Z","naam":{"en":"Premium 6 - obligatory + costs in 2nd step","nl-BE-x-generated-formal":"Premie 6 - verplicht + kosten in 2e stap","nl":"Premie 6 - verplicht + kosten in 2e stap","nl-BE-x-generated-informal":"Premie 6 - verplicht + kosten in 2e stap"},"beschrijving":{"en":"<p>Premium 6 - obligatory + costs in 2<sup>nd</sup> step. First created without costs. Then costs are added to Dutch translation. Then costs are added to the English translation.</p>","nl-BE-x-generated-informal":"<p>Premie 6 - verplichte velden + eerst zonder kosten aangemaakt. Dan engelse vertaling toegevoegd. Daarna meerdere kosten in het nederlands toegevoegd voor test of meerdere vertalingen in het engels toegevoegd kunnen worden.</p>","nl":"<p>Premie 6 - verplichte velden + eerst zonder kosten aangemaakt. Dan engelse vertaling toegevoegd. Daarna meerdere kosten in het nederlands toegevoegd voor test of meerdere vertalingen in het engels toegevoegd kunnen worden.</p>","nl-BE-x-generated-formal":"<p>Premie 6 - verplichte velden + eerst zonder kosten aangemaakt. Dan engelse vertaling toegevoegd. Daarna meerdere kosten in het nederlands toegevoegd voor test of meerdere vertalingen in het engels toegevoegd kunnen worden.</p>"},"geografischToepassingsgebieden":["BE"],"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"kosten":[{"beschrijving":{"en":"<p>1 euro</p>","nl-BE-x-generated-informal":"<p>1 euro</p>","nl-BE-x-generated-formal":"<p>1 euro</p>","nl":"<p>1 euro</p>"},"naam":{"en":"Cost 1","nl-BE-x-generated-informal":"Kost 1","nl":"Kost 1","nl-BE-x-generated-formal":"Kost 1"},"@type":"Kost","order":0},{"beschrijving":{"nl-BE-x-generated-informal":"<p>2 euro</p>","en":"<p>2 euro</p>","nl":"<p>2 euro</p>","nl-BE-x-generated-formal":"<p>2 euro</p>"},"naam":{"en":"Cost 2","nl-BE-x-generated-informal":"Kost 2","nl-BE-x-generated-formal":"Kost 2","nl":"Kost 2"},"@type":"Kost","order":1}],"creatie":"2023-03-24T17:10:50.010190875Z","laatstGewijzigd":"2023-07-03T12:35:23.977340686Z","laatstOntvangen":"2023-07-03T12:35:23.977341315Z","productnummer":"2830","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/63d205ac-d4e3-4bd9-b10c-018a378c2829","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a28f04be-f7ca-4862-acba-3ddc5fde7384"},{"id":"b81622ef-5939-4f1c-85e6-c4176cd37076","generatedAtTime":"2023-07-03T12:35:23.832374Z","naam":{"nl-BE-x-generated-informal":"Premie 5 - verplicht + type","nl":"Premie 5 - verplicht + type","nl-BE-x-generated-formal":"Premie 5 - verplicht + type"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Inleiding voor premie 5. <a href=\"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen\">/node/31655</a></p>","nl":"<p>Inleiding voor premie 5. <a href=\"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen\">/node/31655</a></p>","nl-BE-x-generated-formal":"<p>Inleiding voor premie 5. <a href=\"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen\">/node/31655</a></p>"},"type":"AdviesBegeleiding","geografischToepassingsgebieden":["BE","BE1"],"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T17:10:49.854818907Z","laatstGewijzigd":"2023-07-03T12:35:23.770191293Z","laatstOntvangen":"2023-07-03T12:35:23.770192011Z","productnummer":"2829","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b81622ef-5939-4f1c-85e6-c4176cd37076","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d04a2e2f-3954-41c2-9312-0fcecdf67461"},{"id":"287d789e-0cd3-430f-80da-caa28bd12f50","generatedAtTime":"2023-07-03T12:35:23.539037Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Vlaams Fonds Tropisch Bos","nl":"Vlaams Fonds Tropisch Bos","nl-BE-x-generated-informal":"Vlaams Fonds Tropisch Bos"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Projecten tvv bos in de tropen.</p>","nl":"<p>Projecten tvv bos in de tropen.</p>","nl-BE-x-generated-informal":"<p>Projecten tvv bos in de tropen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl-BE-x-generated-formal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.827095051Z","laatstGewijzigd":"2023-07-03T12:35:23.464426083Z","laatstOntvangen":"2023-07-03T12:35:23.464427008Z","productnummer":"2301","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/287d789e-0cd3-430f-80da-caa28bd12f50","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/401da6c9-52e8-4520-80f2-3913a6ac03be"},{"id":"82986c15-8328-489e-959a-618a0d945adf","generatedAtTime":"2023-07-03T12:35:23.372524Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Visserijfonds","nl":"Visserijfonds","nl-BE-x-generated-informal":"Visserijfonds"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.701078814Z","laatstGewijzigd":"2023-07-03T12:35:23.311899165Z","laatstOntvangen":"2023-07-03T12:35:23.311900153Z","productnummer":"2300","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/82986c15-8328-489e-959a-618a0d945adf","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e3a20bd4-aeec-4c2a-a148-36ea4c6e2e58"},{"id":"0d00a6f9-d47e-4cd7-a9eb-7882f5ea5859","generatedAtTime":"2023-07-03T12:35:23.138369Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies voor de werking van de onthaalpoorten","nl":"Subsidies voor de werking van de onthaalpoorten","nl-BE-x-generated-formal":"Subsidies voor de werking van de onthaalpoorten"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.587306417Z","laatstGewijzigd":"2023-07-03T12:35:23.056668396Z","laatstOntvangen":"2023-07-03T12:35:23.056669026Z","productnummer":"2299","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0d00a6f9-d47e-4cd7-a9eb-7882f5ea5859","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a56406db-8521-4714-8e8c-e006dc50a80c"},{"id":"034da1b4-1dd7-47b2-83ad-7077dac01d4c","generatedAtTime":"2023-07-03T12:35:22.914304Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies om terreinen toegankelijk te maken en te houden","nl-BE-x-generated-formal":"Subsidies om terreinen toegankelijk te maken en te houden","nl":"Subsidies om terreinen toegankelijk te maken en te houden"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.47058204Z","laatstGewijzigd":"2023-07-03T12:35:22.831936136Z","laatstOntvangen":"2023-07-03T12:35:22.831936771Z","productnummer":"2298","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/034da1b4-1dd7-47b2-83ad-7077dac01d4c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7ae4ae2f-0a9d-41f9-8bf0-56917a3e953f"},{"id":"11f13e05-609f-4e2d-bcfb-833bef4c9e64","generatedAtTime":"2023-07-03T12:35:22.714238Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies bevordering en uitvoering beleid","nl-BE-x-generated-informal":"Subsidies bevordering en uitvoering beleid","nl":"Subsidies bevordering en uitvoering beleid"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl-BE-x-generated-formal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.344651501Z","laatstGewijzigd":"2023-07-03T12:35:22.640936641Z","laatstOntvangen":"2023-07-03T12:35:22.640937305Z","productnummer":"2297","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/11f13e05-609f-4e2d-bcfb-833bef4c9e64","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6e6f2fae-3130-4680-acf6-874899c3332b"},{"id":"4de4fe36-ca9a-4e93-8b3d-b70c528b1cff","generatedAtTime":"2023-07-03T12:35:22.532068Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie erkende reservaten","nl":"Subsidie erkende reservaten","nl-BE-x-generated-formal":"Subsidie erkende reservaten"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Beheersubsidies.</p>","nl-BE-x-generated-formal":"<p>Beheersubsidies.</p>","nl":"<p>Beheersubsidies.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl-BE-x-generated-formal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.234523853Z","laatstGewijzigd":"2023-07-03T12:35:22.456568537Z","laatstOntvangen":"2023-07-03T12:35:22.456569494Z","productnummer":"2296","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4de4fe36-ca9a-4e93-8b3d-b70c528b1cff","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ab57e195-345a-49b5-a290-8bd69e1f4c19"},{"id":"bb98f7c0-ac3e-4f99-b8db-4226d41e5655","generatedAtTime":"2023-07-03T12:35:22.150653Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie beheer GBN","nl":"Subsidie beheer GBN","nl-BE-x-generated-formal":"Subsidie beheer GBN"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Beheersubsidies.</p>","nl-BE-x-generated-formal":"<p>Beheersubsidies.</p>","nl":"<p>Beheersubsidies.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de<br/>planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring van de<br />planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de<br/>planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:17.111603548Z","laatstGewijzigd":"2023-07-03T12:35:22.071366576Z","laatstOntvangen":"2023-07-03T12:35:22.071367235Z","productnummer":"2295","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bb98f7c0-ac3e-4f99-b8db-4226d41e5655","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/46354457-d271-441f-92af-4540e0d3583a"},{"id":"fb53733f-0038-4031-961a-8c1967f77df4","generatedAtTime":"2023-07-03T12:35:21.95931Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Restfinanciering Life","nl-BE-x-generated-formal":"Restfinanciering Life","nl":"Restfinanciering Life"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:16.992983349Z","laatstGewijzigd":"2023-07-03T12:35:21.877451003Z","laatstOntvangen":"2023-07-03T12:35:21.877451987Z","productnummer":"2294","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fb53733f-0038-4031-961a-8c1967f77df4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a5e0fafd-8a93-4475-9160-f4016bff5888"},{"id":"82da8f4a-aa23-4e56-a50a-3780ee5418af","generatedAtTime":"2023-07-03T12:35:21.767209Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Projectsubsidies natuur","nl-BE-x-generated-formal":"Projectsubsidies natuur","nl":"Projectsubsidies natuur"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Uitvoering eenmalige inrichtingswerken.</p>","nl":"<p>Uitvoering eenmalige inrichtingswerken.</p>","nl-BE-x-generated-formal":"<p>Uitvoering eenmalige inrichtingswerken.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:51.096406809Z","laatstGewijzigd":"2023-07-03T12:35:21.689012652Z","laatstOntvangen":"2023-07-03T12:35:21.689013572Z","productnummer":"2293","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/82da8f4a-aa23-4e56-a50a-3780ee5418af","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a8a6b0fd-69cc-4c0c-b8bd-ac9702efa3a6"},{"id":"bd7d37ea-b41d-4753-937c-060bca3337f5","generatedAtTime":"2023-07-03T12:35:21.594627Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Projectsubsidie Soorten","nl":"Projectsubsidie Soorten","nl-BE-x-generated-informal":"Projectsubsidie Soorten"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Uitvoering acties SBP.</p>","nl-BE-x-generated-formal":"<p>Uitvoering acties SBP.</p>","nl":"<p>Uitvoering acties SBP.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:50.963795178Z","laatstGewijzigd":"2023-07-03T12:35:21.534540919Z","laatstOntvangen":"2023-07-03T12:35:21.534541846Z","productnummer":"2292","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bd7d37ea-b41d-4753-937c-060bca3337f5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/370403e8-ec0f-4948-b42c-98c6786b39ec"},{"id":"7d3d5370-19d0-411c-85f0-4fd8319f4aab","generatedAtTime":"2023-07-03T12:35:21.408143Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Natuurprojectovereenkomst","nl-BE-x-generated-formal":"Natuurprojectovereenkomst","nl":"Natuurprojectovereenkomst"},"beschrijving":{"nl":"<p>Uitvoeren natuurrichtplan.</p>","nl-BE-x-generated-formal":"<p>Uitvoeren natuurrichtplan.</p>","nl-BE-x-generated-informal":"<p>Uitvoeren natuurrichtplan.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl-BE-x-generated-formal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:16.494528799Z","laatstGewijzigd":"2023-07-03T12:35:21.337871627Z","laatstOntvangen":"2023-07-03T12:35:21.337872278Z","productnummer":"2291","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7d3d5370-19d0-411c-85f0-4fd8319f4aab","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/86db5b44-f350-4ffe-a0fd-e4f49456389d"},{"id":"ae5dc682-c926-4222-a2da-3de4ebace77e","generatedAtTime":"2023-07-03T12:35:21.130636Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Jachtfonds","nl":"Jachtfonds","nl-BE-x-generated-informal":"Jachtfonds"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet betreffende het natuurbehoud en het natuurlijk milieu 1997, art. 47</p><p>Geen BVR</p>","nl-BE-x-generated-formal":"<p>Decreet betreffende het natuurbehoud en het natuurlijk milieu 1997, art. 47</p><p>Geen BVR</p>","nl-BE-x-generated-informal":"<p>Decreet betreffende het natuurbehoud en het natuurlijk milieu 1997, art. 47</p><p>Geen BVR</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:16.205602668Z","laatstGewijzigd":"2023-07-03T12:35:21.052803899Z","laatstOntvangen":"2023-07-03T12:35:21.052804897Z","productnummer":"2290","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ae5dc682-c926-4222-a2da-3de4ebace77e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5e1dbfb2-f4cf-4664-8f26-0b939c4c4693"},{"id":"08f3f8c5-385f-418f-8399-74b6877126d4","generatedAtTime":"2023-07-03T12:35:20.917445Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Groenjobs","nl-BE-x-generated-formal":"Groenjobs","nl":"Groenjobs"},"beschrijving":{"nl":"<p>Milieu gerelateerde taken uitgevoerd door<br />doelgroepwerknemers</p>","nl-BE-x-generated-formal":"<p>Milieu gerelateerde taken uitgevoerd door<br/>doelgroepwerknemers</p>","nl-BE-x-generated-informal":"<p>Milieu gerelateerde taken uitgevoerd door<br/>doelgroepwerknemers</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>BVR 28/03/2014 houdende toekenning van compensatie aan verschillende<br/>actoren en gemeenten voor milieugerelateerde taken, uitgevoerd door doelgroepwerknemers</p>","nl":"<p>BVR 28/03/2014 houdende toekenning van compensatie aan verschillende<br />actoren en gemeenten voor milieugerelateerde taken, uitgevoerd door doelgroepwerknemers</p>","nl-BE-x-generated-informal":"<p>BVR 28/03/2014 houdende toekenning van compensatie aan verschillende<br/>actoren en gemeenten voor milieugerelateerde taken, uitgevoerd door doelgroepwerknemers</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:15.699108917Z","laatstGewijzigd":"2023-07-03T12:35:20.836360535Z","laatstOntvangen":"2023-07-03T12:35:20.836361222Z","productnummer":"2289","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/08f3f8c5-385f-418f-8399-74b6877126d4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5a284bf0-56e9-489a-9ddc-5b42add03514"},{"id":"c28f5050-fb0b-4c65-ad83-d3d0a4ec7512","generatedAtTime":"2023-07-03T12:35:20.657176Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Bebossing/herbebossing/inkomenssteun","nl-BE-x-generated-formal":"Bebossing/herbebossing/inkomenssteun","nl-BE-x-generated-informal":"Bebossing/herbebossing/inkomenssteun"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidie voor aanplant of heraanplant van bos<br/>eventueel in combinatie met inkomenscompensatie.</p>","nl":"<p>Subsidie voor aanplant of heraanplant van bos<br />eventueel in combinatie met inkomenscompensatie.</p>","nl-BE-x-generated-formal":"<p>Subsidie voor aanplant of heraanplant van bos<br/>eventueel in combinatie met inkomenscompensatie.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>BVR 02/10/15 betreffende het verlenen van<br/>subsidies voor bebossing en voor herbebossing</p>","nl-BE-x-generated-informal":"<p>BVR 02/10/15 betreffende het verlenen van<br/>subsidies voor bebossing en voor herbebossing</p>","nl":"<p>BVR 02/10/15 betreffende het verlenen van<br />subsidies voor bebossing en voor herbebossing</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:50.851453903Z","laatstGewijzigd":"2023-07-03T12:35:20.507354803Z","laatstOntvangen":"2023-07-03T12:35:20.507355439Z","productnummer":"2288","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c28f5050-fb0b-4c65-ad83-d3d0a4ec7512","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3c8ca753-adc5-45ce-a741-3cf46aeb8b3b"},{"id":"4326ee6d-9257-4e13-b0e7-4689190147b1","generatedAtTime":"2023-07-03T12:30:56.984431Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie voor het aanpassen van een omheining ifv de wolf","nl":"Subsidie voor het aanpassen van een omheining ifv de wolf","nl-BE-x-generated-formal":"Subsidie voor het aanpassen van een omheining ifv de wolf"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Subsidie voor het aanpassen van een omheining<br/>in functie van de wolf.</p>","nl-BE-x-generated-informal":"<p>Subsidie voor het aanpassen van een omheining<br/>in functie van de wolf.</p>","nl":"<p>Subsidie voor het aanpassen van een omheining<br />in functie van de wolf.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR eerste keer principieel goedgekeurd<br/>(16/7/2021)</p>","nl-BE-x-generated-formal":"<p>BVR eerste keer principieel goedgekeurd<br/>(16/7/2021)</p>","nl":"<p>BVR eerste keer principieel goedgekeurd<br />(16/7/2021)</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:50.739796279Z","laatstGewijzigd":"2023-07-03T12:30:56.903745138Z","laatstOntvangen":"2023-07-03T12:30:56.903745912Z","productnummer":"2287","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4326ee6d-9257-4e13-b0e7-4689190147b1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2a2f5821-4e70-48b9-822d-5ffe021cf1bb"},{"id":"d40d8bed-0a01-47e7-95c4-2cdf5fda476c","generatedAtTime":"2023-07-03T12:30:56.782758Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Projectsubsidie aankoop met het oog op bebossing besturen","nl":"Projectsubsidie aankoop met het oog op bebossing besturen","nl-BE-x-generated-formal":"Projectsubsidie aankoop met het oog op bebossing besturen"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Subsidie voor lokale besturen om gronden aan te<br/>kopen met het oog op bebossing van die gronden.</p>","nl-BE-x-generated-informal":"<p>Subsidie voor lokale besturen om gronden aan te<br/>kopen met het oog op bebossing van die gronden.</p>","nl":"<p>Subsidie voor lokale besturen om gronden aan te<br />kopen met het oog op bebossing van die gronden.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:14.795238089Z","laatstGewijzigd":"2023-07-03T12:30:56.718946221Z","laatstOntvangen":"2023-07-03T12:30:56.718946938Z","productnummer":"2286","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d40d8bed-0a01-47e7-95c4-2cdf5fda476c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4b7c7579-7314-4c8e-b91b-e362aba7b474"},{"id":"0185b449-a35b-40ed-b1f9-d97c04d8ab13","generatedAtTime":"2023-07-03T12:30:56.607566Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Projectsubsidies openstelling","nl-BE-x-generated-formal":"Projectsubsidies openstelling","nl":"Projectsubsidies openstelling"},"beschrijving":{"nl":"<p>Projecten die de sociale functie ondersteunen</p>","nl-BE-x-generated-formal":"<p>Projecten die de sociale functie ondersteunen</p>","nl-BE-x-generated-informal":"<p>Projecten die de sociale functie ondersteunen</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:14.648499036Z","laatstGewijzigd":"2023-07-03T12:30:56.530066299Z","laatstOntvangen":"2023-07-03T12:30:56.530067014Z","productnummer":"2285","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0185b449-a35b-40ed-b1f9-d97c04d8ab13","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ab509432-a4df-4810-ba30-a2d9ed9235ab"},{"id":"a61a5300-c036-4506-8c68-ddc8bf1847cc","generatedAtTime":"2023-07-03T12:30:56.378545Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Projectsubsidie aankoop met het oog op bebossing (BCF)","nl-BE-x-generated-formal":"Projectsubsidie aankoop met het oog op bebossing (BCF)","nl":"Projectsubsidie aankoop met het oog op bebossing (BCF)"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Aankoop van grond</p>","nl":"<p>Aankoop van grond</p>","nl-BE-x-generated-informal":"<p>Aankoop van grond</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:50.627229605Z","laatstGewijzigd":"2023-07-03T12:30:56.285565052Z","laatstOntvangen":"2023-07-03T12:30:56.28556585Z","productnummer":"2284","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a61a5300-c036-4506-8c68-ddc8bf1847cc","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5bb52b19-9f89-404a-ac18-ee3dcb5f82e7"},{"id":"bac0e157-6df9-4e28-a622-2802f508c57a","generatedAtTime":"2023-07-03T12:30:56.167974Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Aankoopsubsidie met het oog op erkenning","nl-BE-x-generated-formal":"Aankoopsubsidie met het oog op erkenning","nl":"Aankoopsubsidie met het oog op erkenning"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Aankoop van gronden met het oog op het realiseren van een terrein waarop een natuurbeheerplan van type 4 van toepassing is.</p>","nl-BE-x-generated-formal":"<p>Aankoop van gronden met het oog op het realiseren van een terrein waarop een natuurbeheerplan van type 4 van toepassing is.</p>","nl":"<p>Aankoop van gronden met het oog op het realiseren van een terrein waarop een natuurbeheerplan van type 4 van toepassing is.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:50.516035633Z","laatstGewijzigd":"2023-07-03T12:30:56.083383883Z","laatstOntvangen":"2023-07-03T12:30:56.083384658Z","productnummer":"2283","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bac0e157-6df9-4e28-a622-2802f508c57a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/533876a2-9e9a-42c6-9e8b-3da64925b62e"},{"id":"4c71308e-c7cd-44c4-8c91-0be7e240a90f","generatedAtTime":"2023-07-03T12:30:55.947467Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor openstelling bos","nl-BE-x-generated-formal":"Subsidies voor openstelling bos","nl-BE-x-generated-informal":"Subsidies voor openstelling bos"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl-BE-x-generated-formal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:14.108039221Z","laatstGewijzigd":"2023-07-03T12:30:55.869977364Z","laatstOntvangen":"2023-07-03T12:30:55.8699785Z","productnummer":"2282","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4c71308e-c7cd-44c4-8c91-0be7e240a90f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7f627ac3-57ab-470e-8b2b-2f9e6888798c"},{"id":"6a355c14-a406-440e-a7e9-55da9462f82b","generatedAtTime":"2023-07-03T12:30:55.750717Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor de opmaak van een beheerplan","nl-BE-x-generated-formal":"Subsidies voor de opmaak van een beheerplan","nl-BE-x-generated-informal":"Subsidies voor de opmaak van een beheerplan"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Nog toe te voegen.</p>","nl":"<p>Nog toe te voegen.</p>","nl-BE-x-generated-formal":"<p>Nog toe te voegen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl-BE-x-generated-formal":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>","nl":"<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-05-04T14:20:13.662175329Z","laatstGewijzigd":"2023-07-03T12:30:55.67341482Z","laatstOntvangen":"2023-07-03T12:30:55.673415488Z","productnummer":"2281","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6a355c14-a406-440e-a7e9-55da9462f82b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2c1172f7-1839-40ed-9dcc-1fe0d1b0d7e8"},{"id":"b5582ecc-99e5-4a43-b345-0304c56ac17f","generatedAtTime":"2023-07-03T12:30:55.577589Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Natuurinspectie","nl-BE-x-generated-formal":"Natuurinspectie","nl":"Natuurinspectie"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Veel natuur in Vlaanderen is wettelijk beschermd. Natuurinspecteurs van de Vlaamse overheid controleren of iedereen de milieubeheerregelgeving respecteert, de regelgeving over bos, natuur, jacht, visserij en beschermde soorten. Om milieumisdrijven en milieu-inbreuken op te sporen hebben ze bepaalde bevoegdheden en kunnen ze sancties opleggen.</p>","nl":"<p>Veel natuur in Vlaanderen is wettelijk beschermd. Natuurinspecteurs van de Vlaamse overheid controleren of iedereen de milieubeheerregelgeving respecteert, de regelgeving over bos, natuur, jacht, visserij en beschermde soorten. Om milieumisdrijven en milieu-inbreuken op te sporen hebben ze bepaalde bevoegdheden en kunnen ze sancties opleggen.</p>","nl-BE-x-generated-formal":"<p>Veel natuur in Vlaanderen is wettelijk beschermd. Natuurinspecteurs van de Vlaamse overheid controleren of iedereen de milieubeheerregelgeving respecteert, de regelgeving over bos, natuur, jacht, visserij en beschermde soorten. Om milieumisdrijven en milieu-inbreuken op te sporen hebben ze bepaalde bevoegdheden en kunnen ze sancties opleggen.</p>"},"themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"websites":[{"naam":{"nl-BE-x-generated-formal":"ANB - Natuurinspectie - Regio's","nl":"ANB - Natuurinspectie - Regio's","nl-BE-x-generated-informal":"ANB - Natuurinspectie - Regio's"},"url":"https://natuurenbos.vlaanderen.be/natuurinspectie/waar-kan-ik-een-overtreding-melden","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:45.34298643Z","laatstGewijzigd":"2023-07-03T12:30:55.494247823Z","laatstOntvangen":"2023-07-03T12:30:55.494248481Z","productnummer":"2116","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5582ecc-99e5-4a43-b345-0304c56ac17f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cefb4455-174d-498e-8a0f-8a732c87e0c2"},{"id":"58e49aec-21f1-4343-9309-a23f362f6a00","generatedAtTime":"2023-07-03T12:30:55.257113Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Projectoproep Natuur in uw Buurt","nl-BE-x-generated-informal":"Projectoproep Natuur in je Buurt","nl":"Projectoproep Natuur in je Buurt"},"beschrijving":{"nl":"<p>De projectoproep Natuur in je Buurt wil projecten ondersteunen die, door middel van natuurontwikkeling of door de aanleg van natuurelementen, zowel tegemoet komen aan een duidelijke maatschappelijke nood, als bijdragen aan een robuuste en veerkrachtige Vlaamse natuur zodat ook onze biodiversiteit ondersteund wordt.</p>","nl-BE-x-generated-formal":"<p>De projectoproep Natuur in uw Buurt wil projecten ondersteunen die, door middel van natuurontwikkeling of door de aanleg van natuurelementen, zowel tegemoet komen aan een duidelijke maatschappelijke nood, als bijdragen aan een robuuste en veerkrachtige Vlaamse natuur zodat ook onze biodiversiteit ondersteund wordt.</p>","nl-BE-x-generated-informal":"<p>De projectoproep Natuur in je Buurt wil projecten ondersteunen die, door middel van natuurontwikkeling of door de aanleg van natuurelementen, zowel tegemoet komen aan een duidelijke maatschappelijke nood, als bijdragen aan een robuuste en veerkrachtige Vlaamse natuur zodat ook onze biodiversiteit ondersteund wordt.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Begrotingsdecreet</p>","nl-BE-x-generated-formal":"<p>Begrotingsdecreet</p>","nl":"<p>Begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:39.854314574Z","laatstGewijzigd":"2023-07-03T12:30:55.169647631Z","laatstOntvangen":"2023-07-03T12:30:55.169648318Z","productnummer":"1973","gearchiveerd":false,"metadata":{"uJeVersie":"31.2.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/58e49aec-21f1-4343-9309-a23f362f6a00","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0b699155-7d89-48ba-b140-15da05a21a24"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=494",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=495",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-07-03T12:35:24.103257Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=493",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-07-03T12:30:55.257113Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=494",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "63d205ac-d4e3-4bd9-b10c-018a378c2829",
+      "generatedAtTime": "2023-07-03T12:35:24.103257Z",
+      "naam": {
+        "en": "Premium 6 - obligatory + costs in 2nd step",
+        "nl-BE-x-generated-formal": "Premie 6 - verplicht + kosten in 2e stap",
+        "nl": "Premie 6 - verplicht + kosten in 2e stap",
+        "nl-BE-x-generated-informal": "Premie 6 - verplicht + kosten in 2e stap"
+      },
+      "beschrijving": {
+        "en": "<p>Premium 6 - obligatory + costs in 2<sup>nd</sup> step. First created without costs. Then costs are added to Dutch translation. Then costs are added to the English translation.</p>",
+        "nl-BE-x-generated-informal": "<p>Premie 6 - verplichte velden + eerst zonder kosten aangemaakt. Dan engelse vertaling toegevoegd. Daarna meerdere kosten in het nederlands toegevoegd voor test of meerdere vertalingen in het engels toegevoegd kunnen worden.</p>",
+        "nl": "<p>Premie 6 - verplichte velden + eerst zonder kosten aangemaakt. Dan engelse vertaling toegevoegd. Daarna meerdere kosten in het nederlands toegevoegd voor test of meerdere vertalingen in het engels toegevoegd kunnen worden.</p>",
+        "nl-BE-x-generated-formal": "<p>Premie 6 - verplichte velden + eerst zonder kosten aangemaakt. Dan engelse vertaling toegevoegd. Daarna meerdere kosten in het nederlands toegevoegd voor test of meerdere vertalingen in het engels toegevoegd kunnen worden.</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "en": "<p>1 euro</p>",
+            "nl-BE-x-generated-informal": "<p>1 euro</p>",
+            "nl-BE-x-generated-formal": "<p>1 euro</p>",
+            "nl": "<p>1 euro</p>"
+          },
+          "naam": {
+            "en": "Cost 1",
+            "nl-BE-x-generated-informal": "Kost 1",
+            "nl": "Kost 1",
+            "nl-BE-x-generated-formal": "Kost 1"
+          },
+          "@type": "Kost",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>2 euro</p>",
+            "en": "<p>2 euro</p>",
+            "nl": "<p>2 euro</p>",
+            "nl-BE-x-generated-formal": "<p>2 euro</p>"
+          },
+          "naam": {
+            "en": "Cost 2",
+            "nl-BE-x-generated-informal": "Kost 2",
+            "nl-BE-x-generated-formal": "Kost 2",
+            "nl": "Kost 2"
+          },
+          "@type": "Kost",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-24T17:10:50.010190875Z",
+      "laatstGewijzigd": "2023-07-03T12:35:23.977340686Z",
+      "laatstOntvangen": "2023-07-03T12:35:23.977341315Z",
+      "productnummer": "2830",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/63d205ac-d4e3-4bd9-b10c-018a378c2829",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a28f04be-f7ca-4862-acba-3ddc5fde7384"
+    },
+    {
+      "id": "b81622ef-5939-4f1c-85e6-c4176cd37076",
+      "generatedAtTime": "2023-07-03T12:35:23.832374Z",
+      "naam": {
+        "nl-BE-x-generated-informal": "Premie 5 - verplicht + type",
+        "nl": "Premie 5 - verplicht + type",
+        "nl-BE-x-generated-formal": "Premie 5 - verplicht + type"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Inleiding voor premie 5. <a href=\"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen\">/node/31655</a></p>",
+        "nl": "<p>Inleiding voor premie 5. <a href=\"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen\">/node/31655</a></p>",
+        "nl-BE-x-generated-formal": "<p>Inleiding voor premie 5. <a href=\"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen\">/node/31655</a></p>"
+      },
+      "type": "AdviesBegeleiding",
+      "geografischToepassingsgebieden": [
+        "BE",
+        "BE1"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T17:10:49.854818907Z",
+      "laatstGewijzigd": "2023-07-03T12:35:23.770191293Z",
+      "laatstOntvangen": "2023-07-03T12:35:23.770192011Z",
+      "productnummer": "2829",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b81622ef-5939-4f1c-85e6-c4176cd37076",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d04a2e2f-3954-41c2-9312-0fcecdf67461"
+    },
+    {
+      "id": "287d789e-0cd3-430f-80da-caa28bd12f50",
+      "generatedAtTime": "2023-07-03T12:35:23.539037Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Vlaams Fonds Tropisch Bos",
+        "nl": "Vlaams Fonds Tropisch Bos",
+        "nl-BE-x-generated-informal": "Vlaams Fonds Tropisch Bos"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Projecten tvv bos in de tropen.</p>",
+        "nl": "<p>Projecten tvv bos in de tropen.</p>",
+        "nl-BE-x-generated-informal": "<p>Projecten tvv bos in de tropen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.827095051Z",
+      "laatstGewijzigd": "2023-07-03T12:35:23.464426083Z",
+      "laatstOntvangen": "2023-07-03T12:35:23.464427008Z",
+      "productnummer": "2301",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/287d789e-0cd3-430f-80da-caa28bd12f50",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/401da6c9-52e8-4520-80f2-3913a6ac03be"
+    },
+    {
+      "id": "82986c15-8328-489e-959a-618a0d945adf",
+      "generatedAtTime": "2023-07-03T12:35:23.372524Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Visserijfonds",
+        "nl": "Visserijfonds",
+        "nl-BE-x-generated-informal": "Visserijfonds"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.701078814Z",
+      "laatstGewijzigd": "2023-07-03T12:35:23.311899165Z",
+      "laatstOntvangen": "2023-07-03T12:35:23.311900153Z",
+      "productnummer": "2300",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/82986c15-8328-489e-959a-618a0d945adf",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e3a20bd4-aeec-4c2a-a148-36ea4c6e2e58"
+    },
+    {
+      "id": "0d00a6f9-d47e-4cd7-a9eb-7882f5ea5859",
+      "generatedAtTime": "2023-07-03T12:35:23.138369Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies voor de werking van de onthaalpoorten",
+        "nl": "Subsidies voor de werking van de onthaalpoorten",
+        "nl-BE-x-generated-formal": "Subsidies voor de werking van de onthaalpoorten"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.587306417Z",
+      "laatstGewijzigd": "2023-07-03T12:35:23.056668396Z",
+      "laatstOntvangen": "2023-07-03T12:35:23.056669026Z",
+      "productnummer": "2299",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0d00a6f9-d47e-4cd7-a9eb-7882f5ea5859",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a56406db-8521-4714-8e8c-e006dc50a80c"
+    },
+    {
+      "id": "034da1b4-1dd7-47b2-83ad-7077dac01d4c",
+      "generatedAtTime": "2023-07-03T12:35:22.914304Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies om terreinen toegankelijk te maken en te houden",
+        "nl-BE-x-generated-formal": "Subsidies om terreinen toegankelijk te maken en te houden",
+        "nl": "Subsidies om terreinen toegankelijk te maken en te houden"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.47058204Z",
+      "laatstGewijzigd": "2023-07-03T12:35:22.831936136Z",
+      "laatstOntvangen": "2023-07-03T12:35:22.831936771Z",
+      "productnummer": "2298",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/034da1b4-1dd7-47b2-83ad-7077dac01d4c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7ae4ae2f-0a9d-41f9-8bf0-56917a3e953f"
+    },
+    {
+      "id": "11f13e05-609f-4e2d-bcfb-833bef4c9e64",
+      "generatedAtTime": "2023-07-03T12:35:22.714238Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies bevordering en uitvoering beleid",
+        "nl-BE-x-generated-informal": "Subsidies bevordering en uitvoering beleid",
+        "nl": "Subsidies bevordering en uitvoering beleid"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.344651501Z",
+      "laatstGewijzigd": "2023-07-03T12:35:22.640936641Z",
+      "laatstOntvangen": "2023-07-03T12:35:22.640937305Z",
+      "productnummer": "2297",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/11f13e05-609f-4e2d-bcfb-833bef4c9e64",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6e6f2fae-3130-4680-acf6-874899c3332b"
+    },
+    {
+      "id": "4de4fe36-ca9a-4e93-8b3d-b70c528b1cff",
+      "generatedAtTime": "2023-07-03T12:35:22.532068Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie erkende reservaten",
+        "nl": "Subsidie erkende reservaten",
+        "nl-BE-x-generated-formal": "Subsidie erkende reservaten"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Beheersubsidies.</p>",
+        "nl-BE-x-generated-formal": "<p>Beheersubsidies.</p>",
+        "nl": "<p>Beheersubsidies.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.234523853Z",
+      "laatstGewijzigd": "2023-07-03T12:35:22.456568537Z",
+      "laatstOntvangen": "2023-07-03T12:35:22.456569494Z",
+      "productnummer": "2296",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4de4fe36-ca9a-4e93-8b3d-b70c528b1cff",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ab57e195-345a-49b5-a290-8bd69e1f4c19"
+    },
+    {
+      "id": "bb98f7c0-ac3e-4f99-b8db-4226d41e5655",
+      "generatedAtTime": "2023-07-03T12:35:22.150653Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie beheer GBN",
+        "nl": "Subsidie beheer GBN",
+        "nl-BE-x-generated-formal": "Subsidie beheer GBN"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Beheersubsidies.</p>",
+        "nl-BE-x-generated-formal": "<p>Beheersubsidies.</p>",
+        "nl": "<p>Beheersubsidies.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de<br/>planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring van de<br />planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de<br/>planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:17.111603548Z",
+      "laatstGewijzigd": "2023-07-03T12:35:22.071366576Z",
+      "laatstOntvangen": "2023-07-03T12:35:22.071367235Z",
+      "productnummer": "2295",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bb98f7c0-ac3e-4f99-b8db-4226d41e5655",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/46354457-d271-441f-92af-4540e0d3583a"
+    },
+    {
+      "id": "fb53733f-0038-4031-961a-8c1967f77df4",
+      "generatedAtTime": "2023-07-03T12:35:21.95931Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Restfinanciering Life",
+        "nl-BE-x-generated-formal": "Restfinanciering Life",
+        "nl": "Restfinanciering Life"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:16.992983349Z",
+      "laatstGewijzigd": "2023-07-03T12:35:21.877451003Z",
+      "laatstOntvangen": "2023-07-03T12:35:21.877451987Z",
+      "productnummer": "2294",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fb53733f-0038-4031-961a-8c1967f77df4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a5e0fafd-8a93-4475-9160-f4016bff5888"
+    },
+    {
+      "id": "82da8f4a-aa23-4e56-a50a-3780ee5418af",
+      "generatedAtTime": "2023-07-03T12:35:21.767209Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Projectsubsidies natuur",
+        "nl-BE-x-generated-formal": "Projectsubsidies natuur",
+        "nl": "Projectsubsidies natuur"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Uitvoering eenmalige inrichtingswerken.</p>",
+        "nl": "<p>Uitvoering eenmalige inrichtingswerken.</p>",
+        "nl-BE-x-generated-formal": "<p>Uitvoering eenmalige inrichtingswerken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:51.096406809Z",
+      "laatstGewijzigd": "2023-07-03T12:35:21.689012652Z",
+      "laatstOntvangen": "2023-07-03T12:35:21.689013572Z",
+      "productnummer": "2293",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/82da8f4a-aa23-4e56-a50a-3780ee5418af",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a8a6b0fd-69cc-4c0c-b8bd-ac9702efa3a6"
+    },
+    {
+      "id": "bd7d37ea-b41d-4753-937c-060bca3337f5",
+      "generatedAtTime": "2023-07-03T12:35:21.594627Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Projectsubsidie Soorten",
+        "nl": "Projectsubsidie Soorten",
+        "nl-BE-x-generated-informal": "Projectsubsidie Soorten"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Uitvoering acties SBP.</p>",
+        "nl-BE-x-generated-formal": "<p>Uitvoering acties SBP.</p>",
+        "nl": "<p>Uitvoering acties SBP.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:50.963795178Z",
+      "laatstGewijzigd": "2023-07-03T12:35:21.534540919Z",
+      "laatstOntvangen": "2023-07-03T12:35:21.534541846Z",
+      "productnummer": "2292",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bd7d37ea-b41d-4753-937c-060bca3337f5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/370403e8-ec0f-4948-b42c-98c6786b39ec"
+    },
+    {
+      "id": "7d3d5370-19d0-411c-85f0-4fd8319f4aab",
+      "generatedAtTime": "2023-07-03T12:35:21.408143Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Natuurprojectovereenkomst",
+        "nl-BE-x-generated-formal": "Natuurprojectovereenkomst",
+        "nl": "Natuurprojectovereenkomst"
+      },
+      "beschrijving": {
+        "nl": "<p>Uitvoeren natuurrichtplan.</p>",
+        "nl-BE-x-generated-formal": "<p>Uitvoeren natuurrichtplan.</p>",
+        "nl-BE-x-generated-informal": "<p>Uitvoeren natuurrichtplan.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:16.494528799Z",
+      "laatstGewijzigd": "2023-07-03T12:35:21.337871627Z",
+      "laatstOntvangen": "2023-07-03T12:35:21.337872278Z",
+      "productnummer": "2291",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7d3d5370-19d0-411c-85f0-4fd8319f4aab",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/86db5b44-f350-4ffe-a0fd-e4f49456389d"
+    },
+    {
+      "id": "ae5dc682-c926-4222-a2da-3de4ebace77e",
+      "generatedAtTime": "2023-07-03T12:35:21.130636Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Jachtfonds",
+        "nl": "Jachtfonds",
+        "nl-BE-x-generated-informal": "Jachtfonds"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet betreffende het natuurbehoud en het natuurlijk milieu 1997, art. 47</p><p>Geen BVR</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet betreffende het natuurbehoud en het natuurlijk milieu 1997, art. 47</p><p>Geen BVR</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet betreffende het natuurbehoud en het natuurlijk milieu 1997, art. 47</p><p>Geen BVR</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:16.205602668Z",
+      "laatstGewijzigd": "2023-07-03T12:35:21.052803899Z",
+      "laatstOntvangen": "2023-07-03T12:35:21.052804897Z",
+      "productnummer": "2290",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ae5dc682-c926-4222-a2da-3de4ebace77e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5e1dbfb2-f4cf-4664-8f26-0b939c4c4693"
+    },
+    {
+      "id": "08f3f8c5-385f-418f-8399-74b6877126d4",
+      "generatedAtTime": "2023-07-03T12:35:20.917445Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Groenjobs",
+        "nl-BE-x-generated-formal": "Groenjobs",
+        "nl": "Groenjobs"
+      },
+      "beschrijving": {
+        "nl": "<p>Milieu gerelateerde taken uitgevoerd door<br />doelgroepwerknemers</p>",
+        "nl-BE-x-generated-formal": "<p>Milieu gerelateerde taken uitgevoerd door<br/>doelgroepwerknemers</p>",
+        "nl-BE-x-generated-informal": "<p>Milieu gerelateerde taken uitgevoerd door<br/>doelgroepwerknemers</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>BVR 28/03/2014 houdende toekenning van compensatie aan verschillende<br/>actoren en gemeenten voor milieugerelateerde taken, uitgevoerd door doelgroepwerknemers</p>",
+        "nl": "<p>BVR 28/03/2014 houdende toekenning van compensatie aan verschillende<br />actoren en gemeenten voor milieugerelateerde taken, uitgevoerd door doelgroepwerknemers</p>",
+        "nl-BE-x-generated-informal": "<p>BVR 28/03/2014 houdende toekenning van compensatie aan verschillende<br/>actoren en gemeenten voor milieugerelateerde taken, uitgevoerd door doelgroepwerknemers</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:15.699108917Z",
+      "laatstGewijzigd": "2023-07-03T12:35:20.836360535Z",
+      "laatstOntvangen": "2023-07-03T12:35:20.836361222Z",
+      "productnummer": "2289",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/08f3f8c5-385f-418f-8399-74b6877126d4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5a284bf0-56e9-489a-9ddc-5b42add03514"
+    },
+    {
+      "id": "c28f5050-fb0b-4c65-ad83-d3d0a4ec7512",
+      "generatedAtTime": "2023-07-03T12:35:20.657176Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Bebossing/herbebossing/inkomenssteun",
+        "nl-BE-x-generated-formal": "Bebossing/herbebossing/inkomenssteun",
+        "nl-BE-x-generated-informal": "Bebossing/herbebossing/inkomenssteun"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidie voor aanplant of heraanplant van bos<br/>eventueel in combinatie met inkomenscompensatie.</p>",
+        "nl": "<p>Subsidie voor aanplant of heraanplant van bos<br />eventueel in combinatie met inkomenscompensatie.</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidie voor aanplant of heraanplant van bos<br/>eventueel in combinatie met inkomenscompensatie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>BVR 02/10/15 betreffende het verlenen van<br/>subsidies voor bebossing en voor herbebossing</p>",
+        "nl-BE-x-generated-informal": "<p>BVR 02/10/15 betreffende het verlenen van<br/>subsidies voor bebossing en voor herbebossing</p>",
+        "nl": "<p>BVR 02/10/15 betreffende het verlenen van<br />subsidies voor bebossing en voor herbebossing</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:50.851453903Z",
+      "laatstGewijzigd": "2023-07-03T12:35:20.507354803Z",
+      "laatstOntvangen": "2023-07-03T12:35:20.507355439Z",
+      "productnummer": "2288",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c28f5050-fb0b-4c65-ad83-d3d0a4ec7512",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3c8ca753-adc5-45ce-a741-3cf46aeb8b3b"
+    },
+    {
+      "id": "4326ee6d-9257-4e13-b0e7-4689190147b1",
+      "generatedAtTime": "2023-07-03T12:30:56.984431Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie voor het aanpassen van een omheining ifv de wolf",
+        "nl": "Subsidie voor het aanpassen van een omheining ifv de wolf",
+        "nl-BE-x-generated-formal": "Subsidie voor het aanpassen van een omheining ifv de wolf"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Subsidie voor het aanpassen van een omheining<br/>in functie van de wolf.</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidie voor het aanpassen van een omheining<br/>in functie van de wolf.</p>",
+        "nl": "<p>Subsidie voor het aanpassen van een omheining<br />in functie van de wolf.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR eerste keer principieel goedgekeurd<br/>(16/7/2021)</p>",
+        "nl-BE-x-generated-formal": "<p>BVR eerste keer principieel goedgekeurd<br/>(16/7/2021)</p>",
+        "nl": "<p>BVR eerste keer principieel goedgekeurd<br />(16/7/2021)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:50.739796279Z",
+      "laatstGewijzigd": "2023-07-03T12:30:56.903745138Z",
+      "laatstOntvangen": "2023-07-03T12:30:56.903745912Z",
+      "productnummer": "2287",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4326ee6d-9257-4e13-b0e7-4689190147b1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2a2f5821-4e70-48b9-822d-5ffe021cf1bb"
+    },
+    {
+      "id": "d40d8bed-0a01-47e7-95c4-2cdf5fda476c",
+      "generatedAtTime": "2023-07-03T12:30:56.782758Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Projectsubsidie aankoop met het oog op bebossing besturen",
+        "nl": "Projectsubsidie aankoop met het oog op bebossing besturen",
+        "nl-BE-x-generated-formal": "Projectsubsidie aankoop met het oog op bebossing besturen"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Subsidie voor lokale besturen om gronden aan te<br/>kopen met het oog op bebossing van die gronden.</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidie voor lokale besturen om gronden aan te<br/>kopen met het oog op bebossing van die gronden.</p>",
+        "nl": "<p>Subsidie voor lokale besturen om gronden aan te<br />kopen met het oog op bebossing van die gronden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:14.795238089Z",
+      "laatstGewijzigd": "2023-07-03T12:30:56.718946221Z",
+      "laatstOntvangen": "2023-07-03T12:30:56.718946938Z",
+      "productnummer": "2286",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d40d8bed-0a01-47e7-95c4-2cdf5fda476c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4b7c7579-7314-4c8e-b91b-e362aba7b474"
+    },
+    {
+      "id": "0185b449-a35b-40ed-b1f9-d97c04d8ab13",
+      "generatedAtTime": "2023-07-03T12:30:56.607566Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Projectsubsidies openstelling",
+        "nl-BE-x-generated-formal": "Projectsubsidies openstelling",
+        "nl": "Projectsubsidies openstelling"
+      },
+      "beschrijving": {
+        "nl": "<p>Projecten die de sociale functie ondersteunen</p>",
+        "nl-BE-x-generated-formal": "<p>Projecten die de sociale functie ondersteunen</p>",
+        "nl-BE-x-generated-informal": "<p>Projecten die de sociale functie ondersteunen</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:14.648499036Z",
+      "laatstGewijzigd": "2023-07-03T12:30:56.530066299Z",
+      "laatstOntvangen": "2023-07-03T12:30:56.530067014Z",
+      "productnummer": "2285",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0185b449-a35b-40ed-b1f9-d97c04d8ab13",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ab509432-a4df-4810-ba30-a2d9ed9235ab"
+    },
+    {
+      "id": "a61a5300-c036-4506-8c68-ddc8bf1847cc",
+      "generatedAtTime": "2023-07-03T12:30:56.378545Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Projectsubsidie aankoop met het oog op bebossing (BCF)",
+        "nl-BE-x-generated-formal": "Projectsubsidie aankoop met het oog op bebossing (BCF)",
+        "nl": "Projectsubsidie aankoop met het oog op bebossing (BCF)"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Aankoop van grond</p>",
+        "nl": "<p>Aankoop van grond</p>",
+        "nl-BE-x-generated-informal": "<p>Aankoop van grond</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:50.627229605Z",
+      "laatstGewijzigd": "2023-07-03T12:30:56.285565052Z",
+      "laatstOntvangen": "2023-07-03T12:30:56.28556585Z",
+      "productnummer": "2284",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a61a5300-c036-4506-8c68-ddc8bf1847cc",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5bb52b19-9f89-404a-ac18-ee3dcb5f82e7"
+    },
+    {
+      "id": "bac0e157-6df9-4e28-a622-2802f508c57a",
+      "generatedAtTime": "2023-07-03T12:30:56.167974Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Aankoopsubsidie met het oog op erkenning",
+        "nl-BE-x-generated-formal": "Aankoopsubsidie met het oog op erkenning",
+        "nl": "Aankoopsubsidie met het oog op erkenning"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Aankoop van gronden met het oog op het realiseren van een terrein waarop een natuurbeheerplan van type 4 van toepassing is.</p>",
+        "nl-BE-x-generated-formal": "<p>Aankoop van gronden met het oog op het realiseren van een terrein waarop een natuurbeheerplan van type 4 van toepassing is.</p>",
+        "nl": "<p>Aankoop van gronden met het oog op het realiseren van een terrein waarop een natuurbeheerplan van type 4 van toepassing is.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring<br/>van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:50.516035633Z",
+      "laatstGewijzigd": "2023-07-03T12:30:56.083383883Z",
+      "laatstOntvangen": "2023-07-03T12:30:56.083384658Z",
+      "productnummer": "2283",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bac0e157-6df9-4e28-a622-2802f508c57a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/533876a2-9e9a-42c6-9e8b-3da64925b62e"
+    },
+    {
+      "id": "4c71308e-c7cd-44c4-8c91-0be7e240a90f",
+      "generatedAtTime": "2023-07-03T12:30:55.947467Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor openstelling bos",
+        "nl-BE-x-generated-formal": "Subsidies voor openstelling bos",
+        "nl-BE-x-generated-informal": "Subsidies voor openstelling bos"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:14.108039221Z",
+      "laatstGewijzigd": "2023-07-03T12:30:55.869977364Z",
+      "laatstOntvangen": "2023-07-03T12:30:55.8699785Z",
+      "productnummer": "2282",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4c71308e-c7cd-44c4-8c91-0be7e240a90f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7f627ac3-57ab-470e-8b2b-2f9e6888798c"
+    },
+    {
+      "id": "6a355c14-a406-440e-a7e9-55da9462f82b",
+      "generatedAtTime": "2023-07-03T12:30:55.750717Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor de opmaak van een beheerplan",
+        "nl-BE-x-generated-formal": "Subsidies voor de opmaak van een beheerplan",
+        "nl-BE-x-generated-informal": "Subsidies voor de opmaak van een beheerplan"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Nog toe te voegen.</p>",
+        "nl": "<p>Nog toe te voegen.</p>",
+        "nl-BE-x-generated-formal": "<p>Nog toe te voegen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl-BE-x-generated-formal": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br/>de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>",
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring van de planning,<br />de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-05-04T14:20:13.662175329Z",
+      "laatstGewijzigd": "2023-07-03T12:30:55.67341482Z",
+      "laatstOntvangen": "2023-07-03T12:30:55.673415488Z",
+      "productnummer": "2281",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6a355c14-a406-440e-a7e9-55da9462f82b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2c1172f7-1839-40ed-9dcc-1fe0d1b0d7e8"
+    },
+    {
+      "id": "b5582ecc-99e5-4a43-b345-0304c56ac17f",
+      "generatedAtTime": "2023-07-03T12:30:55.577589Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Natuurinspectie",
+        "nl-BE-x-generated-formal": "Natuurinspectie",
+        "nl": "Natuurinspectie"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Veel natuur in Vlaanderen is wettelijk beschermd. Natuurinspecteurs van de Vlaamse overheid controleren of iedereen de milieubeheerregelgeving respecteert, de regelgeving over bos, natuur, jacht, visserij en beschermde soorten. Om milieumisdrijven en milieu-inbreuken op te sporen hebben ze bepaalde bevoegdheden en kunnen ze sancties opleggen.</p>",
+        "nl": "<p>Veel natuur in Vlaanderen is wettelijk beschermd. Natuurinspecteurs van de Vlaamse overheid controleren of iedereen de milieubeheerregelgeving respecteert, de regelgeving over bos, natuur, jacht, visserij en beschermde soorten. Om milieumisdrijven en milieu-inbreuken op te sporen hebben ze bepaalde bevoegdheden en kunnen ze sancties opleggen.</p>",
+        "nl-BE-x-generated-formal": "<p>Veel natuur in Vlaanderen is wettelijk beschermd. Natuurinspecteurs van de Vlaamse overheid controleren of iedereen de milieubeheerregelgeving respecteert, de regelgeving over bos, natuur, jacht, visserij en beschermde soorten. Om milieumisdrijven en milieu-inbreuken op te sporen hebben ze bepaalde bevoegdheden en kunnen ze sancties opleggen.</p>"
+      },
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-generated-formal": "ANB - Natuurinspectie - Regio's",
+            "nl": "ANB - Natuurinspectie - Regio's",
+            "nl-BE-x-generated-informal": "ANB - Natuurinspectie - Regio's"
+          },
+          "url": "https://natuurenbos.vlaanderen.be/natuurinspectie/waar-kan-ik-een-overtreding-melden",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:45.34298643Z",
+      "laatstGewijzigd": "2023-07-03T12:30:55.494247823Z",
+      "laatstOntvangen": "2023-07-03T12:30:55.494248481Z",
+      "productnummer": "2116",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5582ecc-99e5-4a43-b345-0304c56ac17f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cefb4455-174d-498e-8a0f-8a732c87e0c2"
+    },
+    {
+      "id": "58e49aec-21f1-4343-9309-a23f362f6a00",
+      "generatedAtTime": "2023-07-03T12:30:55.257113Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Projectoproep Natuur in uw Buurt",
+        "nl-BE-x-generated-informal": "Projectoproep Natuur in je Buurt",
+        "nl": "Projectoproep Natuur in je Buurt"
+      },
+      "beschrijving": {
+        "nl": "<p>De projectoproep Natuur in je Buurt wil projecten ondersteunen die, door middel van natuurontwikkeling of door de aanleg van natuurelementen, zowel tegemoet komen aan een duidelijke maatschappelijke nood, als bijdragen aan een robuuste en veerkrachtige Vlaamse natuur zodat ook onze biodiversiteit ondersteund wordt.</p>",
+        "nl-BE-x-generated-formal": "<p>De projectoproep Natuur in uw Buurt wil projecten ondersteunen die, door middel van natuurontwikkeling of door de aanleg van natuurelementen, zowel tegemoet komen aan een duidelijke maatschappelijke nood, als bijdragen aan een robuuste en veerkrachtige Vlaamse natuur zodat ook onze biodiversiteit ondersteund wordt.</p>",
+        "nl-BE-x-generated-informal": "<p>De projectoproep Natuur in je Buurt wil projecten ondersteunen die, door middel van natuurontwikkeling of door de aanleg van natuurelementen, zowel tegemoet komen aan een duidelijke maatschappelijke nood, als bijdragen aan een robuuste en veerkrachtige Vlaamse natuur zodat ook onze biodiversiteit ondersteund wordt.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Begrotingsdecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Begrotingsdecreet</p>",
+        "nl": "<p>Begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:39.854314574Z",
+      "laatstGewijzigd": "2023-07-03T12:30:55.169647631Z",
+      "laatstOntvangen": "2023-07-03T12:30:55.169648318Z",
+      "productnummer": "1973",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.2.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/58e49aec-21f1-4343-9309-a23f362f6a00",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0b699155-7d89-48ba-b140-15da05a21a24"
+    }
+  ]
+}

@@ -1,1 +1,1429 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=724","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=725","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-07-13T17:10:24.551532Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=723","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-07-13T17:05:42.523641Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=724","@type":"EventStream","member":[{"id":"d18ed05d-ddf4-4b1c-8deb-9522f9f9d733","generatedAtTime":"2023-07-13T17:10:24.551532Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vervoerskosten schoolpersoneel","nl-BE-x-generated-formal":"Vervoerskosten schoolpersoneel","nl-BE-x-generated-informal":"Vervoerskosten schoolpersoneel"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Tegemoetkoming voor de schoolbesturen in de kosten van het woon-werkverkeer van het personeel (openbaar vervoer en fietsvergoeding).</p>","nl-BE-x-generated-informal":"<p>Tegemoetkoming voor de schoolbesturen in de kosten van het woon-werkverkeer van het personeel (openbaar vervoer en fietsvergoeding).</p>","nl":"<p>Tegemoetkoming voor de schoolbesturen in de kosten van het woon-werkverkeer van het personeel (openbaar vervoer en fietsvergoeding).</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>decreet van 13 juli 2001 betreffende het onderwijs XIII, inzonderheid hoofdstuk XI, artikelen XI 1 t.e.m XI 7. - Besluit van de Vlaamse Regering van 8 juli 2011 betreffende de volledige tenlasteneming door de werkgever in de onderwijssector van de vervoerskosten voor het openbaar vervoer naar en van het werk en de toekenning van een fietsvergoeding voor het woon-werkverkeer</p>","nl-BE-x-generated-formal":"<p>decreet van 13 juli 2001 betreffende het onderwijs XIII, inzonderheid hoofdstuk XI, artikelen XI 1 t.e.m XI 7. - Besluit van de Vlaamse Regering van 8 juli 2011 betreffende de volledige tenlasteneming door de werkgever in de onderwijssector van de vervoerskosten voor het openbaar vervoer naar en van het werk en de toekenning van een fietsvergoeding voor het woon-werkverkeer</p>","nl-BE-x-generated-informal":"<p>decreet van 13 juli 2001 betreffende het onderwijs XIII, inzonderheid hoofdstuk XI, artikelen XI 1 t.e.m XI 7. - Besluit van de Vlaamse Regering van 8 juli 2011 betreffende de volledige tenlasteneming door de werkgever in de onderwijssector van de vervoerskosten voor het openbaar vervoer naar en van het werk en de toekenning van een fietsvergoeding voor het woon-werkverkeer</p>"},"bevoegdeOverheden":[{"id":"OVO000050","@id":"OVO000050"}],"creatie":"2023-05-04T14:35:05.638421235Z","laatstGewijzigd":"2023-07-13T17:10:24.452818884Z","laatstOntvangen":"2023-07-13T17:10:24.45281996Z","productnummer":"2772","gearchiveerd":false,"subsidiemaatregel":"FD","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d18ed05d-ddf4-4b1c-8deb-9522f9f9d733","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a81b942a-3f2d-4465-9d29-c289a04a5642"},{"id":"f9951f9a-e1cc-482b-9961-976f6b93e2ae","generatedAtTime":"2023-07-13T17:10:24.269744Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Coronatoelagen internaten","nl-BE-x-generated-informal":"Coronatoelagen internaten","nl":"Coronatoelagen internaten"},"beschrijving":{"nl":"<p>Tegemoetkoming in de extra kosten voor opvang van de leerlingen tijdens de coronapariode.</p>","nl-BE-x-generated-formal":"<p>Tegemoetkoming in de extra kosten voor opvang van de leerlingen tijdens de coronapariode.</p>","nl-BE-x-generated-informal":"<p>Tegemoetkoming in de extra kosten voor opvang van de leerlingen tijdens de coronapariode.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>het besluit van de Vlaamse Regering van 10 december 2021 tot toekenning van een projectsubsidie ter compensatie van de kosten voor de noodopvang van schoolkinderen</p>","nl-BE-x-generated-informal":"<p>het besluit van de Vlaamse Regering van 10 december 2021 tot toekenning van een projectsubsidie ter compensatie van de kosten voor de noodopvang van schoolkinderen</p>","nl":"<p>het besluit van de Vlaamse Regering van 10 december 2021 tot toekenning van een projectsubsidie ter compensatie van de kosten voor de noodopvang van schoolkinderen</p>"},"bevoegdeOverheden":[{"id":"OVO000050","@id":"OVO000050"}],"creatie":"2023-05-04T14:35:05.464469039Z","laatstGewijzigd":"2023-07-13T17:10:24.185852783Z","laatstOntvangen":"2023-07-13T17:10:24.185853563Z","productnummer":"2771","gearchiveerd":false,"subsidiemaatregel":"FD","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f9951f9a-e1cc-482b-9961-976f6b93e2ae","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fbd0d64a-4af5-40a3-b541-f4b7c5561907"},{"id":"987534eb-a9db-4e6c-a470-0af170827625","generatedAtTime":"2023-07-13T17:10:24.08027Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Werkingsmiddelen internaten","nl-BE-x-generated-formal":"Werkingsmiddelen internaten","nl":"Werkingsmiddelen internaten"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Dit is het werkingsbudget voor de internaatbesturen. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun internaten.</p>","nl-BE-x-generated-formal":"<p>Dit is het werkingsbudget voor de internaatbesturen. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun internaten.</p>","nl":"<p>Dit is het werkingsbudget voor de internaatbesturen. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun internaten.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>besluit van de Vlaamse Regering betreffende codificatie sommige bepalingen voor het onderwijs, art. III.8, art. III.10, art. III.11, art. III.15 tot en met art. III.19.<br/>besluit van de Vlaamse Regering van 13 april 1999 tot vaststelling van het puntengewicht voor het secundair onderwijs en de internaten, bedoeld in artikel 3, § 2, van het<br/>decreet van 31 juli 1990 betreffende het onderwijs-II, zoals gewijzigd</p>","nl":"<p>besluit van de Vlaamse Regering betreffende codificatie sommige bepalingen voor het onderwijs, art. III.8, art. III.10, art. III.11, art. III.15 tot en met art. III.19.<br />besluit van de Vlaamse Regering van 13 april 1999 tot vaststelling van het puntengewicht voor het secundair onderwijs en de internaten, bedoeld in artikel 3, § 2, van het<br />decreet van 31 juli 1990 betreffende het onderwijs-II, zoals gewijzigd</p>","nl-BE-x-generated-informal":"<p>besluit van de Vlaamse Regering betreffende codificatie sommige bepalingen voor het onderwijs, art. III.8, art. III.10, art. III.11, art. III.15 tot en met art. III.19.<br/>besluit van de Vlaamse Regering van 13 april 1999 tot vaststelling van het puntengewicht voor het secundair onderwijs en de internaten, bedoeld in artikel 3, § 2, van het<br/>decreet van 31 juli 1990 betreffende het onderwijs-II, zoals gewijzigd</p>"},"bevoegdeOverheden":[{"id":"OVO000050","@id":"OVO000050"}],"creatie":"2023-05-04T14:35:05.344042925Z","laatstGewijzigd":"2023-07-13T17:10:23.975494075Z","laatstOntvangen":"2023-07-13T17:10:23.975494786Z","productnummer":"2770","gearchiveerd":false,"subsidiemaatregel":"FD","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/987534eb-a9db-4e6c-a470-0af170827625","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5acd22e4-fa41-4ec8-85ff-ae6db49ef702"},{"id":"67059a0a-5136-42d2-beb1-005d7f572ca6","generatedAtTime":"2023-07-13T17:10:23.866114Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Werkingsmiddelen leerplichtonderwijs","nl-BE-x-generated-formal":"Werkingsmiddelen leerplichtonderwijs","nl":"Werkingsmiddelen leerplichtonderwijs"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Dit is het werkingsbudget voor de schoolbesturen van het gewoon en buitengewoon basis- en secundair onderwijs. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun scholen.</p>","nl":"<p>Dit is het werkingsbudget voor de schoolbesturen van het gewoon en buitengewoon basis- en secundair onderwijs. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun scholen.</p>","nl-BE-x-generated-formal":"<p>Dit is het werkingsbudget voor de schoolbesturen van het gewoon en buitengewoon basis- en secundair onderwijs. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun scholen.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>decreet basisonderwijs van 25 februari 1997<br/>Codex secundair onderwijsvan 17 december 2010<br/>het besluit van de Vlaamse Regering van 6 februari 2009 houdende de<br/>werkingsbudgetten in het basisonderwijs en de werkingsbudgetten in het<br/>secundair onderwijs</p>","nl-BE-x-generated-informal":"<p>decreet basisonderwijs van 25 februari 1997<br/>Codex secundair onderwijsvan 17 december 2010<br/>het besluit van de Vlaamse Regering van 6 februari 2009 houdende de<br/>werkingsbudgetten in het basisonderwijs en de werkingsbudgetten in het<br/>secundair onderwijs</p>","nl":"<p>decreet basisonderwijs van 25 februari 1997<br />Codex secundair onderwijsvan 17 december 2010<br />het besluit van de Vlaamse Regering van 6 februari 2009 houdende de<br />werkingsbudgetten in het basisonderwijs en de werkingsbudgetten in het<br />secundair onderwijs</p>"},"bevoegdeOverheden":[{"id":"OVO000050","@id":"OVO000050"}],"creatie":"2023-05-04T14:35:05.175299557Z","laatstGewijzigd":"2023-07-13T17:10:23.771353919Z","laatstOntvangen":"2023-07-13T17:10:23.771355171Z","productnummer":"2769","gearchiveerd":false,"subsidiemaatregel":"FD","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/67059a0a-5136-42d2-beb1-005d7f572ca6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a00dd6a1-d737-457e-8a35-78d02cb26b0f"},{"id":"0490eeb3-dc31-4cc4-8a15-1df3e4c272d9","generatedAtTime":"2023-07-13T17:10:23.645052Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies aan strategische onderzoekscentra (Flanders Make)","nl":"Subsidies aan strategische onderzoekscentra (Flanders Make)","nl-BE-x-generated-formal":"Subsidies aan strategische onderzoekscentra (Flanders Make)"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Flanders Make is het strategisch onderzoekscentrum voor de Vlaamse maakindustrie. De strategische doelstelling van Flanders Make is de versterking op lange termijn van de internationale competitiviteitspositie van de Vlaamse maakindustrie.</p>","nl-BE-x-generated-informal":"<p>Flanders Make is het strategisch onderzoekscentrum voor de Vlaamse maakindustrie. De strategische doelstelling van Flanders Make is de versterking op lange termijn van de internationale competitiviteitspositie van de Vlaamse maakindustrie.</p>","nl":"<p>Flanders Make is het strategisch onderzoekscentrum voor de Vlaamse maakindustrie. De strategische doelstelling van Flanders Make is de versterking op lange termijn van de internationale competitiviteitspositie van de Vlaamse maakindustrie.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-formal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000038","@id":"OVO000038"}],"creatie":"2023-05-04T14:35:05.037050457Z","laatstGewijzigd":"2023-07-13T17:10:23.54758945Z","laatstOntvangen":"2023-07-13T17:10:23.547590561Z","productnummer":"2768","gearchiveerd":false,"subsidiemaatregel":"EL","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0490eeb3-dc31-4cc4-8a15-1df3e4c272d9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0f0ed13f-5c79-4cd9-9b47-93de2dc6e4ad"},{"id":"c0a71deb-0b4b-478d-b041-796a7a2d2a12","generatedAtTime":"2023-07-13T17:10:23.311544Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies aan GTB, GOB en GA","nl":"Subsidies aan GTB, GOB en GA","nl-BE-x-generated-formal":"Subsidies aan GTB, GOB en GA"},"beschrijving":{"nl":"<p>GTB biedt gespecialiseerde bemiddeling aan, inclusief nazorg voor klanten die een intensievere ondersteuning nodig hebben bij de begeleiding naar werk. Hun dienstverlening bestaat uit: bemiddeling, opstart zelfstandigen, werk/zorg, arbeidsmatige activiteiten, versterkende acties, medisch ergo team, nazorg.</p><p>GOB is een gespecialiseerde opleidings-, begeleidings- en bemiddelingsdienst voor werkzoekenden die een groot risico hebben op langdurige werkloosheid door beperkingen op het vlak van gezondheid en functioneren. Hun dienstverlening bestaat uit: gespecialiseerde begeleiding tijdens werkplekleren, gespecialiseerde jobcoaching, Rentree</p>","nl-BE-x-generated-formal":"<p>GTB biedt gespecialiseerde bemiddeling aan, inclusief nazorg voor klanten die een intensievere ondersteuning nodig hebben bij de begeleiding naar werk. Hun dienstverlening bestaat uit: bemiddeling, opstart zelfstandigen, werk/zorg, arbeidsmatige activiteiten, versterkende acties, medisch ergo team, nazorg.</p><p>GOB is een gespecialiseerde opleidings-, begeleidings- en bemiddelingsdienst voor werkzoekenden die een groot risico hebben op langdurige werkloosheid door beperkingen op het vlak van gezondheid en functioneren. Hun dienstverlening bestaat uit: gespecialiseerde begeleiding tijdens werkplekleren, gespecialiseerde jobcoaching, Rentree</p>","nl-BE-x-generated-informal":"<p>GTB biedt gespecialiseerde bemiddeling aan, inclusief nazorg voor klanten die een intensievere ondersteuning nodig hebben bij de begeleiding naar werk. Hun dienstverlening bestaat uit: bemiddeling, opstart zelfstandigen, werk/zorg, arbeidsmatige activiteiten, versterkende acties, medisch ergo team, nazorg.</p><p>GOB is een gespecialiseerde opleidings-, begeleidings- en bemiddelingsdienst voor werkzoekenden die een groot risico hebben op langdurige werkloosheid door beperkingen op het vlak van gezondheid en functioneren. Hun dienstverlening bestaat uit: gespecialiseerde begeleiding tijdens werkplekleren, gespecialiseerde jobcoaching, Rentree</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>","nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>","nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>"},"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"creatie":"2023-05-04T14:35:04.755469832Z","laatstGewijzigd":"2023-07-13T17:10:23.192790758Z","laatstOntvangen":"2023-07-13T17:10:23.192791446Z","productnummer":"2766","gearchiveerd":false,"subsidiemaatregel":"JC","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c0a71deb-0b4b-478d-b041-796a7a2d2a12","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bf236721-a35e-43f4-b3ad-b6fee896b011"},{"id":"22226c5c-4b06-470e-9da8-52e318b7b8bc","generatedAtTime":"2023-07-13T17:10:23.094517Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie aan Vlaams Communicatie-Assistentie-Bureau voor doven (CAB)","nl-BE-x-generated-formal":"Subsidie aan Vlaams Communicatie-Assistentie-Bureau voor doven (CAB)","nl":"Subsidie aan Vlaams Communicatie-Assistentie-Bureau voor doven (CAB)"},"beschrijving":{"nl":"<p>Een klant met ernstige gehoorproblemen kan een beroep doen op een tolk Vlaamse gebarentaal, een schrijftolk of een oraaltolk, hetzij tijdens een erkende VDAB-opleiding hetzij met het oog op sollicitaties.</p>","nl-BE-x-generated-formal":"<p>Een klant met ernstige gehoorproblemen kan een beroep doen op een tolk Vlaamse gebarentaal, een schrijftolk of een oraaltolk, hetzij tijdens een erkende VDAB-opleiding hetzij met het oog op sollicitaties.</p>","nl-BE-x-generated-informal":"<p>Een klant met ernstige gehoorproblemen kan een beroep doen op een tolk Vlaamse gebarentaal, een schrijftolk of een oraaltolk, hetzij tijdens een erkende VDAB-opleiding hetzij met het oog op sollicitaties.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>","nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>","nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>"},"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"creatie":"2023-05-04T14:30:37.022767796Z","laatstGewijzigd":"2023-07-13T17:10:22.964259173Z","laatstOntvangen":"2023-07-13T17:10:22.964259837Z","productnummer":"2765","gearchiveerd":false,"subsidiemaatregel":"JC","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/22226c5c-4b06-470e-9da8-52e318b7b8bc","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a023ee7c-1073-4235-8dca-d0ceb0684020"},{"id":"256eb19d-5e85-4dbf-9e63-e0835d786ffd","generatedAtTime":"2023-07-13T17:10:22.846437Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":" Subsidie voor een OCMW in het kader van Tijdelijke Werkervaring","nl-BE-x-generated-informal":" Subsidie voor een OCMW in het kader van Tijdelijke Werkervaring","nl-BE-x-generated-formal":" Subsidie voor een OCMW in het kader van Tijdelijke Werkervaring"},"beschrijving":{"nl":"<p>VDAB en lokale besturen helpen met ‘Tijdelijke WerkErvaring OCMW’ (TWE-OCMW) werkzoekenden en leefloongerechtigden die door een gebrek aan werkervaring en arbeidsattitudes niet onmiddellijk aan de slag kunnen in het normale economische circuit, competenties en werkervaring te verwerven binnen een reële werkomgeving.</p>","nl-BE-x-generated-formal":"<p>VDAB en lokale besturen helpen met ‘Tijdelijke WerkErvaring OCMW’ (TWE-OCMW) werkzoekenden en leefloongerechtigden die door een gebrek aan werkervaring en arbeidsattitudes niet onmiddellijk aan de slag kunnen in het normale economische circuit, competenties en werkervaring te verwerven binnen een reële werkomgeving.</p>","nl-BE-x-generated-informal":"<p>VDAB en lokale besturen helpen met ‘Tijdelijke WerkErvaring OCMW’ (TWE-OCMW) werkzoekenden en leefloongerechtigden die door een gebrek aan werkervaring en arbeidsattitudes niet onmiddellijk aan de slag kunnen in het normale economische circuit, competenties en werkervaring te verwerven binnen een reële werkomgeving.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet van 9 december 2019 betreffende de tijdelijke werkervaring, het regelen van stages en diverse bepalingen in het kader van de zesde staatshervorming</p>","nl-BE-x-generated-formal":"<p>Decreet van 9 december 2019 betreffende de tijdelijke werkervaring, het regelen van stages en diverse bepalingen in het kader van de zesde staatshervorming</p>","nl":"<p>Decreet van 9 december 2019 betreffende de tijdelijke werkervaring, het regelen van stages en diverse bepalingen in het kader van de zesde staatshervorming</p>"},"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"creatie":"2023-05-04T14:30:36.860749263Z","laatstGewijzigd":"2023-07-13T17:10:22.751453992Z","laatstOntvangen":"2023-07-13T17:10:22.751454655Z","productnummer":"2767","gearchiveerd":false,"subsidiemaatregel":"JC","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/256eb19d-5e85-4dbf-9e63-e0835d786ffd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/736ae07c-cf32-41c0-aaa0-016140806227"},{"id":"d63ea24e-6252-45e9-a0b2-b76bdde7a474","generatedAtTime":"2023-07-13T17:10:22.640482Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies in het kader van arbeidsbemiddeling","nl-BE-x-generated-informal":"Subsidies in het kader van arbeidsbemiddeling","nl-BE-x-generated-formal":"Subsidies in het kader van arbeidsbemiddeling"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies in het kader van arbeidsbemiddeling.</p>","nl":"<p>Subsidies in het kader van arbeidsbemiddeling.</p>","nl-BE-x-generated-formal":"<p>Subsidies in het kader van arbeidsbemiddeling.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>","nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>","nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>"},"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"creatie":"2023-05-04T14:30:36.643108875Z","laatstGewijzigd":"2023-07-13T17:10:22.561088338Z","laatstOntvangen":"2023-07-13T17:10:22.561089347Z","productnummer":"2764","gearchiveerd":false,"subsidiemaatregel":"JC","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d63ea24e-6252-45e9-a0b2-b76bdde7a474","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/982572e6-c49c-440c-9277-d5381aecc002"},{"id":"998bb36e-5c6d-4664-a442-a806bd5d0117","generatedAtTime":"2023-07-13T17:10:22.452959Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidie ter financiering van de werk-zorgtrajecten","nl":"Subsidie ter financiering van de werk-zorgtrajecten","nl-BE-x-generated-informal":"Subsidie ter financiering van de werk-zorgtrajecten"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Een activeringstraject is een tijdelijk traject van minimaal drie tot maximaal 18 maanden waarin een combinatie van werk- en zorgacties (hulpverlening) wordt aangeboden. Het doel is om de werkzoekende, met grote afstand tot de arbeidsmarkt, voor te bereiden op betaalde tewerkstelling. De focus ligt op doorstroom naar betaald werk (REC of SEC).</p>","nl-BE-x-generated-formal":"<p>Een activeringstraject is een tijdelijk traject van minimaal drie tot maximaal 18 maanden waarin een combinatie van werk- en zorgacties (hulpverlening) wordt aangeboden. Het doel is om de werkzoekende, met grote afstand tot de arbeidsmarkt, voor te bereiden op betaalde tewerkstelling. De focus ligt op doorstroom naar betaald werk (REC of SEC).</p>","nl":"<p>Een activeringstraject is een tijdelijk traject van minimaal drie tot maximaal 18 maanden waarin een combinatie van werk- en zorgacties (hulpverlening) wordt aangeboden. Het doel is om de werkzoekende, met grote afstand tot de arbeidsmarkt, voor te bereiden op betaalde tewerkstelling. De focus ligt op doorstroom naar betaald werk (REC of SEC).</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>Decreet houdende de werk- en zorgtrajecten van 25 april 2014</p>","nl":"<p>Decreet houdende de werk- en zorgtrajecten van 25 april 2014</p>","nl-BE-x-generated-informal":"<p>Decreet houdende de werk- en zorgtrajecten van 25 april 2014</p>"},"zoektermen":{"nl":["werk- en zorgtraject","werk-zorgtraject","werk-en-zorgtraject","werk en zorg"]},"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"websites":[{"naam":{"nl-BE-x-generated-formal":"Werk- en zorgtrajecten (op VDAB.be)","nl":"Werk- en zorgtrajecten (op VDAB.be)","nl-BE-x-generated-informal":"Werk- en zorgtrajecten (op VDAB.be)"},"url":"https://www.vdab.be/werk-en-zorg","@type":"Website","order":0}],"creatie":"2023-05-04T14:30:36.508628212Z","laatstGewijzigd":"2023-07-13T17:10:22.273580408Z","laatstOntvangen":"2023-07-13T17:10:22.273581373Z","productnummer":"2763","gearchiveerd":false,"subsidiemaatregel":"JC","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/998bb36e-5c6d-4664-a442-a806bd5d0117","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7206a0ac-4233-4441-b772-08fef3e3ca34"},{"id":"c2f2e076-1a7c-4c5a-be48-4fb834ed827a","generatedAtTime":"2023-07-13T17:05:46.01852Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies in het kader van jobcoaching en taalcoaching","nl-BE-x-generated-informal":"Subsidies in het kader van jobcoaching en taalcoaching","nl":"Subsidies in het kader van jobcoaching en taalcoaching"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Jobcoaching, al dan niet in combinatie met taalcoaching, is de begeleiding op de werkvloer van een nieuwe werknemer en diens werkgever door de jobcoach.<br/>Taalcoaching op de opleidingsvloer beoogt het verbeteren van de taalvaardigheid van de klant tijdens opleidingssituaties en een betere uitstroom naar werk.</p>","nl-BE-x-generated-informal":"<p>Jobcoaching, al dan niet in combinatie met taalcoaching, is de begeleiding op de werkvloer van een nieuwe werknemer en diens werkgever door de jobcoach.<br/>Taalcoaching op de opleidingsvloer beoogt het verbeteren van de taalvaardigheid van de klant tijdens opleidingssituaties en een betere uitstroom naar werk.</p>","nl":"<p>Jobcoaching, al dan niet in combinatie met taalcoaching, is de begeleiding op de werkvloer van een nieuwe werknemer en diens werkgever door de jobcoach.<br />Taalcoaching op de opleidingsvloer beoogt het verbeteren van de taalvaardigheid van de klant tijdens opleidingssituaties en een betere uitstroom naar werk.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>","nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>","nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>"},"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"creatie":"2023-05-04T14:30:36.327185793Z","laatstGewijzigd":"2023-07-13T17:05:45.867064021Z","laatstOntvangen":"2023-07-13T17:05:45.86706509Z","productnummer":"2762","gearchiveerd":false,"subsidiemaatregel":"JC","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c2f2e076-1a7c-4c5a-be48-4fb834ed827a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/50f6e6c3-0183-4a8f-8c0b-dd62dfe68727"},{"id":"3a3a3a2a-ae59-4afc-b568-a267a447ede4","generatedAtTime":"2023-07-13T17:05:45.71789Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies ter ondersteuning van de professionele integratie van personen met een arbeidsbeperking","nl-BE-x-generated-formal":"Subsidies ter ondersteuning van de professionele integratie van personen met een arbeidsbeperking","nl":"Subsidies ter ondersteuning van de professionele integratie van personen met een arbeidsbeperking"},"beschrijving":{"nl-BE-x-generated-informal":"<p>BTOM staat voor Bijzondere TewerkstellingsOndersteunende Maatregel(en). Die maatregelen zorgen ervoor dat personen met een arbeidshandicap zich vlot kunnen inwerken in, en meer kansen krijgen op, de arbeidsmarkt.</p><p>Via BTOM's probeert de overheid ook werkgevers te stimuleren om personen met een arbeidshandicap aan te werven zonder rendementsverlies of extra kosten.</p>","nl":"<p>BTOM staat voor Bijzondere TewerkstellingsOndersteunende Maatregel(en). Die maatregelen zorgen ervoor dat personen met een arbeidshandicap zich vlot kunnen inwerken in, en meer kansen krijgen op, de arbeidsmarkt.</p><p>Via BTOM's probeert de overheid ook werkgevers te stimuleren om personen met een arbeidshandicap aan te werven zonder rendementsverlies of extra kosten.</p>","nl-BE-x-generated-formal":"<p>BTOM staat voor Bijzondere TewerkstellingsOndersteunende Maatregel(en). Die maatregelen zorgen ervoor dat personen met een arbeidshandicap zich vlot kunnen inwerken in, en meer kansen krijgen op, de arbeidsmarkt.</p><p>Via BTOM's probeert de overheid ook werkgevers te stimuleren om personen met een arbeidshandicap aan te werven zonder rendementsverlies of extra kosten.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap</p>","nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap</p>","nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap</p>"},"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"creatie":"2023-05-04T14:30:36.190144831Z","laatstGewijzigd":"2023-07-13T17:05:45.610280337Z","laatstOntvangen":"2023-07-13T17:05:45.610281505Z","productnummer":"2761","gearchiveerd":false,"subsidiemaatregel":"JC","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3a3a3a2a-ae59-4afc-b568-a267a447ede4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/575ceb31-b652-4f87-9092-ef6ea4f8d67a"},{"id":"767cfcce-f549-412c-8a56-a38bc25010b6","generatedAtTime":"2023-07-13T17:05:45.50502Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidie in kader van mentoring naar werk","nl-BE-x-generated-informal":"Subsidie in kader van mentoring naar werk","nl":"Subsidie in kader van mentoring naar werk"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Bij mentoring naar werk wordt een werkzoekende (de mentee) gekoppeld aan iemand met meer kennis en ervaring (de mentor), zodat die laatste de mentee kan ondersteunen in het overbruggen van de kloof tot de arbeidsmarkt.</p>","nl-BE-x-generated-informal":"<p>Bij mentoring naar werk wordt een werkzoekende (de mentee) gekoppeld aan iemand met meer kennis en ervaring (de mentor), zodat die laatste de mentee kan ondersteunen in het overbruggen van de kloof tot de arbeidsmarkt.</p>","nl":"<p>Bij mentoring naar werk wordt een werkzoekende (de mentee) gekoppeld aan iemand met meer kennis en ervaring (de mentor), zodat die laatste de mentee kan ondersteunen in het overbruggen van de kloof tot de arbeidsmarkt.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>","nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>","nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>"},"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"creatie":"2023-05-04T14:30:36.039809494Z","laatstGewijzigd":"2023-07-13T17:05:45.416250817Z","laatstOntvangen":"2023-07-13T17:05:45.416251536Z","productnummer":"2760","gearchiveerd":false,"subsidiemaatregel":"JC","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/767cfcce-f549-412c-8a56-a38bc25010b6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/8200d42a-2b84-413d-8819-67e1b2e75346"},{"id":"2b719fe8-ce0a-4444-8c37-0d827b98490c","generatedAtTime":"2023-07-13T17:05:45.202075Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Advies over herstelvordering","nl-BE-x-generated-informal":"Advies over herstelvordering","nl":"Advies over herstelvordering"},"beschrijving":{"nl":"<p>Met het oog op het remediëren van stedenbouwkundige inbreuken en overtredingen kunnen gemeenten (burgemeester en/of stedenbouwkundige inspecteur) en gewesten (gewestelijke stedenbouwkundige inspecteur) adviezen over herstelvorderingen voorleggen aan de Hoge Raad voor de Handhavingsuitvoering (volgens de bevoegdheden voorzien in de Vlaamse Codex Ruimtelijke Ordening).</p>","nl-BE-x-generated-formal":"<p>Met het oog op het remediëren van stedenbouwkundige inbreuken en overtredingen kunnen gemeenten (burgemeester en/of stedenbouwkundige inspecteur) en gewesten (gewestelijke stedenbouwkundige inspecteur) adviezen over herstelvorderingen voorleggen aan de Hoge Raad voor de Handhavingsuitvoering (volgens de bevoegdheden voorzien in de Vlaamse Codex Ruimtelijke Ordening).</p>","nl-BE-x-generated-informal":"<p>Met het oog op het remediëren van stedenbouwkundige inbreuken en overtredingen kunnen gemeenten (burgemeester en/of stedenbouwkundige inspecteur) en gewesten (gewestelijke stedenbouwkundige inspecteur) adviezen over herstelvorderingen voorleggen aan de Hoge Raad voor de Handhavingsuitvoering (volgens de bevoegdheden voorzien in de Vlaamse Codex Ruimtelijke Ordening).</p>"},"type":"AdviesBegeleiding","themas":["BouwenWonen"],"doelgroepen":["LokaalBestuur"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO003323","@id":"OVO003323"}],"creatie":"2023-05-04T14:30:35.872717036Z","laatstGewijzigd":"2023-07-13T17:05:45.121542364Z","laatstOntvangen":"2023-07-13T17:05:45.121543301Z","productnummer":"2759","gearchiveerd":false,"metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2b719fe8-ce0a-4444-8c37-0d827b98490c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ec182932-aaf9-4bc2-ac77-702c34d22e7d"},{"id":"a95d11e4-377f-4d84-b57e-efadb3955f53","generatedAtTime":"2023-07-13T17:05:44.876195Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan vzw's ter financiering van de VDAB-opleiding tot verzorgende en zorgkundige","nl-BE-x-generated-formal":"Subsidies aan vzw's ter financiering van de VDAB-opleiding tot verzorgende en zorgkundige","nl-BE-x-generated-informal":"Subsidies aan vzw's ter financiering van de VDAB-opleiding tot verzorgende en zorgkundige"},"beschrijving":{"nl":"<p>Subsidie voor de organisatie van de VDAB-opleiding tot verzorgende en zorgkundige. De opleiding omvat opleidingsstages zowel in de thuiszorg als in de residentiële zorg.</p>","nl-BE-x-generated-informal":"<p>Subsidie voor de organisatie van de VDAB-opleiding tot verzorgende en zorgkundige. De opleiding omvat opleidingsstages zowel in de thuiszorg als in de residentiële zorg.</p>","nl-BE-x-generated-formal":"<p>Subsidie voor de organisatie van de VDAB-opleiding tot verzorgende en zorgkundige. De opleiding omvat opleidingsstages zowel in de thuiszorg als in de residentiële zorg.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige</p>","nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige</p>","nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige</p>"},"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"creatie":"2023-05-04T14:30:35.671498212Z","laatstGewijzigd":"2023-07-13T17:05:44.780866945Z","laatstOntvangen":"2023-07-13T17:05:44.780868194Z","productnummer":"2758","gearchiveerd":false,"subsidiemaatregel":"JF","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a95d11e4-377f-4d84-b57e-efadb3955f53","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/271bbc74-6910-4521-b34d-7b1bb79db469"},{"id":"1f68d02d-374c-4284-9259-a7888845e083","generatedAtTime":"2023-07-13T17:05:44.655691Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie aan Syntra in het kader van de financiering van de leertijd","nl-BE-x-generated-informal":"Subsidie aan Syntra in het kader van de financiering van de leertijd","nl-BE-x-generated-formal":"Subsidie aan Syntra in het kader van de financiering van de leertijd"},"beschrijving":{"nl":"<p>Leertijd is een vorm van werkplekleren voor jongeren die beroepscertificaten en/of een onderwijskwalificatie willen behalen. VDAB neemt in het kader van de leertijd de regierol van SYNTRA Vlaanderen over sinds 1 januari 2021 over. De uitvoering van de leertijd blijft ook na die datum behouden bij de SYNTRA-vzw's.</p>","nl-BE-x-generated-formal":"<p>Leertijd is een vorm van werkplekleren voor jongeren die beroepscertificaten en/of een onderwijskwalificatie willen behalen. VDAB neemt in het kader van de leertijd de regierol van SYNTRA Vlaanderen over sinds 1 januari 2021 over. De uitvoering van de leertijd blijft ook na die datum behouden bij de SYNTRA-vzw's.</p>","nl-BE-x-generated-informal":"<p>Leertijd is een vorm van werkplekleren voor jongeren die beroepscertificaten en/of een onderwijskwalificatie willen behalen. VDAB neemt in het kader van de leertijd de regierol van SYNTRA Vlaanderen over sinds 1 januari 2021 over. De uitvoering van de leertijd blijft ook na die datum behouden bij de SYNTRA-vzw's.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 18 december 2020 tot regeling van de leertijd</p>","nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 18 december 2020 tot regeling van de leertijd</p>","nl":"<p>Besluit van de Vlaamse Regering van 18 december 2020 tot regeling van de leertijd</p>"},"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"creatie":"2023-05-04T14:30:35.401153652Z","laatstGewijzigd":"2023-07-13T17:05:44.54453503Z","laatstOntvangen":"2023-07-13T17:05:44.54453591Z","productnummer":"2757","gearchiveerd":false,"subsidiemaatregel":"JF","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1f68d02d-374c-4284-9259-a7888845e083","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/18a27771-429d-4382-bd61-e0af892ba525"},{"id":"daf54f3f-027a-4317-a4d8-1be7f2bf8be3","generatedAtTime":"2023-07-13T17:05:44.392736Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidie in kader van competentieversterking","nl-BE-x-generated-formal":"Subsidie in kader van competentieversterking","nl":"Subsidie in kader van competentieversterking"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidieprojecten in het kader van competentieversterking van werkzoekenden.</p>","nl":"<p>Subsidieprojecten in het kader van competentieversterking van werkzoekenden.</p>","nl-BE-x-generated-formal":"<p>Subsidieprojecten in het kader van competentieversterking van werkzoekenden.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>","nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>","nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>"},"bevoegdeOverheden":[{"id":"OVO000078","@id":"OVO000078"}],"creatie":"2023-05-04T14:30:35.168148193Z","laatstGewijzigd":"2023-07-13T17:05:44.312099346Z","laatstOntvangen":"2023-07-13T17:05:44.312100044Z","productnummer":"2756","gearchiveerd":false,"subsidiemaatregel":"JF","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/daf54f3f-027a-4317-a4d8-1be7f2bf8be3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/26ecd34d-b883-47f9-93ac-5bb159c8ee8e"},{"id":"9b822cd4-0315-435e-a646-c21b00ed2db2","generatedAtTime":"2023-07-13T17:05:44.205831Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Kunstendecreet van 13 december 2013: Aanduiding Buitenlandse Residentie Professionele Kunsten","nl-BE-x-generated-formal":"Kunstendecreet van 13 december 2013: Aanduiding Buitenlandse Residentie Professionele Kunsten","nl-BE-x-generated-informal":"Kunstendecreet van 13 december 2013: Aanduiding Buitenlandse Residentie Professionele Kunsten"},"beschrijving":{"nl":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl-BE-x-generated-formal":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl-BE-x-generated-informal":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013.</p>","nl-BE-x-generated-formal":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013.</p>","nl-BE-x-generated-informal":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013.</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:35.018224808Z","laatstGewijzigd":"2023-07-13T17:05:44.099505195Z","laatstOntvangen":"2023-07-13T17:05:44.099505935Z","productnummer":"2755","gearchiveerd":false,"subsidiemaatregel":"HE_03","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9b822cd4-0315-435e-a646-c21b00ed2db2","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/943a5d50-f3be-4efb-8d1f-47802274365d"},{"id":"9e881d0d-0f96-43cf-818f-2066694667b7","generatedAtTime":"2023-07-13T17:05:43.924546Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Jaarlijks Uitgavendecreet: Werking Brusselse Podia","nl-BE-x-generated-formal":"Jaarlijks Uitgavendecreet: Werking Brusselse Podia","nl-BE-x-generated-informal":"Jaarlijks Uitgavendecreet: Werking Brusselse Podia"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>","nl":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>","nl-BE-x-generated-formal":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>","nl-BE-x-generated-formal":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>","nl":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:34.866104704Z","laatstGewijzigd":"2023-07-13T17:05:43.846850714Z","laatstOntvangen":"2023-07-13T17:05:43.846851516Z","productnummer":"2754","gearchiveerd":false,"subsidiemaatregel":"HE_03","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9e881d0d-0f96-43cf-818f-2066694667b7","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6739ad8d-2052-4100-bc15-4f1cb5817dc1"},{"id":"a8906c73-f5c6-417c-9322-ecd6869b39e5","generatedAtTime":"2023-07-13T17:05:43.747501Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Jaarlijks Uitgavendecreet: Werking Vi.Be (eerder: poppunt)","nl-BE-x-generated-formal":"Jaarlijks Uitgavendecreet: Werking Vi.Be (eerder: poppunt)","nl":"Jaarlijks Uitgavendecreet: Werking Vi.Be (eerder: poppunt)"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>","nl":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>","nl-BE-x-generated-formal":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>","nl-BE-x-generated-formal":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>","nl":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:34.742127575Z","laatstGewijzigd":"2023-07-13T17:05:43.665810384Z","laatstOntvangen":"2023-07-13T17:05:43.665811394Z","productnummer":"2753","gearchiveerd":false,"subsidiemaatregel":"HC_11","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a8906c73-f5c6-417c-9322-ecd6869b39e5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f44c954c-6165-45e9-93bf-c3e170f55cd7"},{"id":"bb802e16-44cc-4ed4-b9aa-1a8d14bced16","generatedAtTime":"2023-07-13T17:05:43.548515Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Jaarlijks Uitgavendecreet: Project Ondersteuning IGS en Jeugdvriendelijkheid","nl":"Jaarlijks Uitgavendecreet: Project Ondersteuning IGS en Jeugdvriendelijkheid","nl-BE-x-generated-informal":"Jaarlijks Uitgavendecreet: Project Ondersteuning IGS en Jeugdvriendelijkheid"},"beschrijving":{"nl":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl-BE-x-generated-formal":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl-BE-x-generated-informal":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>","nl-BE-x-generated-formal":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>","nl":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:34.615790474Z","laatstGewijzigd":"2023-07-13T17:05:43.469230492Z","laatstOntvangen":"2023-07-13T17:05:43.469231544Z","productnummer":"2752","gearchiveerd":false,"subsidiemaatregel":"HF_03","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bb802e16-44cc-4ed4-b9aa-1a8d14bced16","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f97c1e23-5bae-4298-a9d9-8f4361785f52"},{"id":"86c1b4ba-d784-431a-8009-86579b4f10c5","generatedAtTime":"2023-07-13T17:05:43.278568Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Jaarlijks Uitgavendecreet: Continuering Provinciale Subsidie","nl-BE-x-generated-formal":"Jaarlijks Uitgavendecreet: Continuering Provinciale Subsidie","nl-BE-x-generated-informal":"Jaarlijks Uitgavendecreet: Continuering Provinciale Subsidie"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>","nl":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>","nl-BE-x-generated-formal":"<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>","nl-BE-x-generated-formal":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>","nl":"<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:34.473738654Z","laatstGewijzigd":"2023-07-13T17:05:43.158193237Z","laatstOntvangen":"2023-07-13T17:05:43.158194387Z","productnummer":"2751","gearchiveerd":false,"subsidiemaatregel":"HC_11","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/86c1b4ba-d784-431a-8009-86579b4f10c5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/469f1500-0138-492d-b3ec-c95d44d29dc8"},{"id":"c75ee17c-ca76-4297-8a36-e854c2c486bd","generatedAtTime":"2023-07-13T17:05:42.894321Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Kunstendecreet van 13 december 2013: Project Professionele Kunstenorganisatie","nl-BE-x-generated-formal":"Kunstendecreet van 13 december 2013: Project Professionele Kunstenorganisatie","nl-BE-x-generated-informal":"Kunstendecreet van 13 december 2013: Project Professionele Kunstenorganisatie"},"beschrijving":{"nl":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl-BE-x-generated-formal":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl-BE-x-generated-informal":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>","nl-BE-x-generated-formal":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>","nl-BE-x-generated-informal":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:34.228191157Z","laatstGewijzigd":"2023-07-13T17:05:42.815025709Z","laatstOntvangen":"2023-07-13T17:05:42.81502689Z","productnummer":"2750","gearchiveerd":false,"subsidiemaatregel":"HD_06","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c75ee17c-ca76-4297-8a36-e854c2c486bd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/8fd51571-6854-431e-be3b-b2275a49ef49"},{"id":"70371366-7fa1-4151-9db8-f95163b1bcbd","generatedAtTime":"2023-07-13T17:05:42.708563Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Kunstendecreet van 13 december 2013: Project Individuele Kunstenaar","nl-BE-x-generated-formal":"Kunstendecreet van 13 december 2013: Project Individuele Kunstenaar","nl-BE-x-generated-informal":"Kunstendecreet van 13 december 2013: Project Individuele Kunstenaar"},"beschrijving":{"nl":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl-BE-x-generated-formal":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl-BE-x-generated-informal":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>","nl-BE-x-generated-formal":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>","nl-BE-x-generated-informal":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:33.935628517Z","laatstGewijzigd":"2023-07-13T17:05:42.627509083Z","laatstOntvangen":"2023-07-13T17:05:42.62750982Z","productnummer":"2749","gearchiveerd":false,"subsidiemaatregel":"HD_06","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/70371366-7fa1-4151-9db8-f95163b1bcbd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/062cf22a-30e1-43c9-aa65-85a23bdbeb00"},{"id":"2c78de93-a948-4625-9dae-c57b49d5d066","generatedAtTime":"2023-07-13T17:05:42.523641Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Kunstendecreet van 13 december 2013: Meerjarige Beurs Kunstenaar","nl":"Kunstendecreet van 13 december 2013: Meerjarige Beurs Kunstenaar","nl-BE-x-generated-informal":"Kunstendecreet van 13 december 2013: Meerjarige Beurs Kunstenaar"},"beschrijving":{"nl":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl-BE-x-generated-formal":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>","nl-BE-x-generated-informal":"<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>","nl-BE-x-generated-formal":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>","nl-BE-x-generated-informal":"<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-05-04T14:30:33.645834174Z","laatstGewijzigd":"2023-07-13T17:05:42.445183483Z","laatstOntvangen":"2023-07-13T17:05:42.445184178Z","productnummer":"2748","gearchiveerd":false,"subsidiemaatregel":"HD_06","metadata":{"uJeVersie":"31.3.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2c78de93-a948-4625-9dae-c57b49d5d066","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/96f8b64e-23ea-4a10-ae8c-e9d8a01adcdd"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=724",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=725",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-07-13T17:10:24.551532Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=723",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-07-13T17:05:42.523641Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=724",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "d18ed05d-ddf4-4b1c-8deb-9522f9f9d733",
+      "generatedAtTime": "2023-07-13T17:10:24.551532Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vervoerskosten schoolpersoneel",
+        "nl-BE-x-generated-formal": "Vervoerskosten schoolpersoneel",
+        "nl-BE-x-generated-informal": "Vervoerskosten schoolpersoneel"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Tegemoetkoming voor de schoolbesturen in de kosten van het woon-werkverkeer van het personeel (openbaar vervoer en fietsvergoeding).</p>",
+        "nl-BE-x-generated-informal": "<p>Tegemoetkoming voor de schoolbesturen in de kosten van het woon-werkverkeer van het personeel (openbaar vervoer en fietsvergoeding).</p>",
+        "nl": "<p>Tegemoetkoming voor de schoolbesturen in de kosten van het woon-werkverkeer van het personeel (openbaar vervoer en fietsvergoeding).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>decreet van 13 juli 2001 betreffende het onderwijs XIII, inzonderheid hoofdstuk XI, artikelen XI 1 t.e.m XI 7. - Besluit van de Vlaamse Regering van 8 juli 2011 betreffende de volledige tenlasteneming door de werkgever in de onderwijssector van de vervoerskosten voor het openbaar vervoer naar en van het werk en de toekenning van een fietsvergoeding voor het woon-werkverkeer</p>",
+        "nl-BE-x-generated-formal": "<p>decreet van 13 juli 2001 betreffende het onderwijs XIII, inzonderheid hoofdstuk XI, artikelen XI 1 t.e.m XI 7. - Besluit van de Vlaamse Regering van 8 juli 2011 betreffende de volledige tenlasteneming door de werkgever in de onderwijssector van de vervoerskosten voor het openbaar vervoer naar en van het werk en de toekenning van een fietsvergoeding voor het woon-werkverkeer</p>",
+        "nl-BE-x-generated-informal": "<p>decreet van 13 juli 2001 betreffende het onderwijs XIII, inzonderheid hoofdstuk XI, artikelen XI 1 t.e.m XI 7. - Besluit van de Vlaamse Regering van 8 juli 2011 betreffende de volledige tenlasteneming door de werkgever in de onderwijssector van de vervoerskosten voor het openbaar vervoer naar en van het werk en de toekenning van een fietsvergoeding voor het woon-werkverkeer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000050",
+          "@id": "OVO000050"
+        }
+      ],
+      "creatie": "2023-05-04T14:35:05.638421235Z",
+      "laatstGewijzigd": "2023-07-13T17:10:24.452818884Z",
+      "laatstOntvangen": "2023-07-13T17:10:24.45281996Z",
+      "productnummer": "2772",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FD",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d18ed05d-ddf4-4b1c-8deb-9522f9f9d733",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a81b942a-3f2d-4465-9d29-c289a04a5642"
+    },
+    {
+      "id": "f9951f9a-e1cc-482b-9961-976f6b93e2ae",
+      "generatedAtTime": "2023-07-13T17:10:24.269744Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Coronatoelagen internaten",
+        "nl-BE-x-generated-informal": "Coronatoelagen internaten",
+        "nl": "Coronatoelagen internaten"
+      },
+      "beschrijving": {
+        "nl": "<p>Tegemoetkoming in de extra kosten voor opvang van de leerlingen tijdens de coronapariode.</p>",
+        "nl-BE-x-generated-formal": "<p>Tegemoetkoming in de extra kosten voor opvang van de leerlingen tijdens de coronapariode.</p>",
+        "nl-BE-x-generated-informal": "<p>Tegemoetkoming in de extra kosten voor opvang van de leerlingen tijdens de coronapariode.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>het besluit van de Vlaamse Regering van 10 december 2021 tot toekenning van een projectsubsidie ter compensatie van de kosten voor de noodopvang van schoolkinderen</p>",
+        "nl-BE-x-generated-informal": "<p>het besluit van de Vlaamse Regering van 10 december 2021 tot toekenning van een projectsubsidie ter compensatie van de kosten voor de noodopvang van schoolkinderen</p>",
+        "nl": "<p>het besluit van de Vlaamse Regering van 10 december 2021 tot toekenning van een projectsubsidie ter compensatie van de kosten voor de noodopvang van schoolkinderen</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000050",
+          "@id": "OVO000050"
+        }
+      ],
+      "creatie": "2023-05-04T14:35:05.464469039Z",
+      "laatstGewijzigd": "2023-07-13T17:10:24.185852783Z",
+      "laatstOntvangen": "2023-07-13T17:10:24.185853563Z",
+      "productnummer": "2771",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FD",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f9951f9a-e1cc-482b-9961-976f6b93e2ae",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fbd0d64a-4af5-40a3-b541-f4b7c5561907"
+    },
+    {
+      "id": "987534eb-a9db-4e6c-a470-0af170827625",
+      "generatedAtTime": "2023-07-13T17:10:24.08027Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Werkingsmiddelen internaten",
+        "nl-BE-x-generated-formal": "Werkingsmiddelen internaten",
+        "nl": "Werkingsmiddelen internaten"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Dit is het werkingsbudget voor de internaatbesturen. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun internaten.</p>",
+        "nl-BE-x-generated-formal": "<p>Dit is het werkingsbudget voor de internaatbesturen. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun internaten.</p>",
+        "nl": "<p>Dit is het werkingsbudget voor de internaatbesturen. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun internaten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>besluit van de Vlaamse Regering betreffende codificatie sommige bepalingen voor het onderwijs, art. III.8, art. III.10, art. III.11, art. III.15 tot en met art. III.19.<br/>besluit van de Vlaamse Regering van 13 april 1999 tot vaststelling van het puntengewicht voor het secundair onderwijs en de internaten, bedoeld in artikel 3, § 2, van het<br/>decreet van 31 juli 1990 betreffende het onderwijs-II, zoals gewijzigd</p>",
+        "nl": "<p>besluit van de Vlaamse Regering betreffende codificatie sommige bepalingen voor het onderwijs, art. III.8, art. III.10, art. III.11, art. III.15 tot en met art. III.19.<br />besluit van de Vlaamse Regering van 13 april 1999 tot vaststelling van het puntengewicht voor het secundair onderwijs en de internaten, bedoeld in artikel 3, § 2, van het<br />decreet van 31 juli 1990 betreffende het onderwijs-II, zoals gewijzigd</p>",
+        "nl-BE-x-generated-informal": "<p>besluit van de Vlaamse Regering betreffende codificatie sommige bepalingen voor het onderwijs, art. III.8, art. III.10, art. III.11, art. III.15 tot en met art. III.19.<br/>besluit van de Vlaamse Regering van 13 april 1999 tot vaststelling van het puntengewicht voor het secundair onderwijs en de internaten, bedoeld in artikel 3, § 2, van het<br/>decreet van 31 juli 1990 betreffende het onderwijs-II, zoals gewijzigd</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000050",
+          "@id": "OVO000050"
+        }
+      ],
+      "creatie": "2023-05-04T14:35:05.344042925Z",
+      "laatstGewijzigd": "2023-07-13T17:10:23.975494075Z",
+      "laatstOntvangen": "2023-07-13T17:10:23.975494786Z",
+      "productnummer": "2770",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FD",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/987534eb-a9db-4e6c-a470-0af170827625",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5acd22e4-fa41-4ec8-85ff-ae6db49ef702"
+    },
+    {
+      "id": "67059a0a-5136-42d2-beb1-005d7f572ca6",
+      "generatedAtTime": "2023-07-13T17:10:23.866114Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Werkingsmiddelen leerplichtonderwijs",
+        "nl-BE-x-generated-formal": "Werkingsmiddelen leerplichtonderwijs",
+        "nl": "Werkingsmiddelen leerplichtonderwijs"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Dit is het werkingsbudget voor de schoolbesturen van het gewoon en buitengewoon basis- en secundair onderwijs. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun scholen.</p>",
+        "nl": "<p>Dit is het werkingsbudget voor de schoolbesturen van het gewoon en buitengewoon basis- en secundair onderwijs. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun scholen.</p>",
+        "nl-BE-x-generated-formal": "<p>Dit is het werkingsbudget voor de schoolbesturen van het gewoon en buitengewoon basis- en secundair onderwijs. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun scholen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>decreet basisonderwijs van 25 februari 1997<br/>Codex secundair onderwijsvan 17 december 2010<br/>het besluit van de Vlaamse Regering van 6 februari 2009 houdende de<br/>werkingsbudgetten in het basisonderwijs en de werkingsbudgetten in het<br/>secundair onderwijs</p>",
+        "nl-BE-x-generated-informal": "<p>decreet basisonderwijs van 25 februari 1997<br/>Codex secundair onderwijsvan 17 december 2010<br/>het besluit van de Vlaamse Regering van 6 februari 2009 houdende de<br/>werkingsbudgetten in het basisonderwijs en de werkingsbudgetten in het<br/>secundair onderwijs</p>",
+        "nl": "<p>decreet basisonderwijs van 25 februari 1997<br />Codex secundair onderwijsvan 17 december 2010<br />het besluit van de Vlaamse Regering van 6 februari 2009 houdende de<br />werkingsbudgetten in het basisonderwijs en de werkingsbudgetten in het<br />secundair onderwijs</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000050",
+          "@id": "OVO000050"
+        }
+      ],
+      "creatie": "2023-05-04T14:35:05.175299557Z",
+      "laatstGewijzigd": "2023-07-13T17:10:23.771353919Z",
+      "laatstOntvangen": "2023-07-13T17:10:23.771355171Z",
+      "productnummer": "2769",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "FD",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/67059a0a-5136-42d2-beb1-005d7f572ca6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a00dd6a1-d737-457e-8a35-78d02cb26b0f"
+    },
+    {
+      "id": "0490eeb3-dc31-4cc4-8a15-1df3e4c272d9",
+      "generatedAtTime": "2023-07-13T17:10:23.645052Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies aan strategische onderzoekscentra (Flanders Make)",
+        "nl": "Subsidies aan strategische onderzoekscentra (Flanders Make)",
+        "nl-BE-x-generated-formal": "Subsidies aan strategische onderzoekscentra (Flanders Make)"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Flanders Make is het strategisch onderzoekscentrum voor de Vlaamse maakindustrie. De strategische doelstelling van Flanders Make is de versterking op lange termijn van de internationale competitiviteitspositie van de Vlaamse maakindustrie.</p>",
+        "nl-BE-x-generated-informal": "<p>Flanders Make is het strategisch onderzoekscentrum voor de Vlaamse maakindustrie. De strategische doelstelling van Flanders Make is de versterking op lange termijn van de internationale competitiviteitspositie van de Vlaamse maakindustrie.</p>",
+        "nl": "<p>Flanders Make is het strategisch onderzoekscentrum voor de Vlaamse maakindustrie. De strategische doelstelling van Flanders Make is de versterking op lange termijn van de internationale competitiviteitspositie van de Vlaamse maakindustrie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-formal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000038",
+          "@id": "OVO000038"
+        }
+      ],
+      "creatie": "2023-05-04T14:35:05.037050457Z",
+      "laatstGewijzigd": "2023-07-13T17:10:23.54758945Z",
+      "laatstOntvangen": "2023-07-13T17:10:23.547590561Z",
+      "productnummer": "2768",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "EL",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0490eeb3-dc31-4cc4-8a15-1df3e4c272d9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0f0ed13f-5c79-4cd9-9b47-93de2dc6e4ad"
+    },
+    {
+      "id": "c0a71deb-0b4b-478d-b041-796a7a2d2a12",
+      "generatedAtTime": "2023-07-13T17:10:23.311544Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies aan GTB, GOB en GA",
+        "nl": "Subsidies aan GTB, GOB en GA",
+        "nl-BE-x-generated-formal": "Subsidies aan GTB, GOB en GA"
+      },
+      "beschrijving": {
+        "nl": "<p>GTB biedt gespecialiseerde bemiddeling aan, inclusief nazorg voor klanten die een intensievere ondersteuning nodig hebben bij de begeleiding naar werk. Hun dienstverlening bestaat uit: bemiddeling, opstart zelfstandigen, werk/zorg, arbeidsmatige activiteiten, versterkende acties, medisch ergo team, nazorg.</p><p>GOB is een gespecialiseerde opleidings-, begeleidings- en bemiddelingsdienst voor werkzoekenden die een groot risico hebben op langdurige werkloosheid door beperkingen op het vlak van gezondheid en functioneren. Hun dienstverlening bestaat uit: gespecialiseerde begeleiding tijdens werkplekleren, gespecialiseerde jobcoaching, Rentree</p>",
+        "nl-BE-x-generated-formal": "<p>GTB biedt gespecialiseerde bemiddeling aan, inclusief nazorg voor klanten die een intensievere ondersteuning nodig hebben bij de begeleiding naar werk. Hun dienstverlening bestaat uit: bemiddeling, opstart zelfstandigen, werk/zorg, arbeidsmatige activiteiten, versterkende acties, medisch ergo team, nazorg.</p><p>GOB is een gespecialiseerde opleidings-, begeleidings- en bemiddelingsdienst voor werkzoekenden die een groot risico hebben op langdurige werkloosheid door beperkingen op het vlak van gezondheid en functioneren. Hun dienstverlening bestaat uit: gespecialiseerde begeleiding tijdens werkplekleren, gespecialiseerde jobcoaching, Rentree</p>",
+        "nl-BE-x-generated-informal": "<p>GTB biedt gespecialiseerde bemiddeling aan, inclusief nazorg voor klanten die een intensievere ondersteuning nodig hebben bij de begeleiding naar werk. Hun dienstverlening bestaat uit: bemiddeling, opstart zelfstandigen, werk/zorg, arbeidsmatige activiteiten, versterkende acties, medisch ergo team, nazorg.</p><p>GOB is een gespecialiseerde opleidings-, begeleidings- en bemiddelingsdienst voor werkzoekenden die een groot risico hebben op langdurige werkloosheid door beperkingen op het vlak van gezondheid en functioneren. Hun dienstverlening bestaat uit: gespecialiseerde begeleiding tijdens werkplekleren, gespecialiseerde jobcoaching, Rentree</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>",
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>",
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "creatie": "2023-05-04T14:35:04.755469832Z",
+      "laatstGewijzigd": "2023-07-13T17:10:23.192790758Z",
+      "laatstOntvangen": "2023-07-13T17:10:23.192791446Z",
+      "productnummer": "2766",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "JC",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c0a71deb-0b4b-478d-b041-796a7a2d2a12",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bf236721-a35e-43f4-b3ad-b6fee896b011"
+    },
+    {
+      "id": "22226c5c-4b06-470e-9da8-52e318b7b8bc",
+      "generatedAtTime": "2023-07-13T17:10:23.094517Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie aan Vlaams Communicatie-Assistentie-Bureau voor doven (CAB)",
+        "nl-BE-x-generated-formal": "Subsidie aan Vlaams Communicatie-Assistentie-Bureau voor doven (CAB)",
+        "nl": "Subsidie aan Vlaams Communicatie-Assistentie-Bureau voor doven (CAB)"
+      },
+      "beschrijving": {
+        "nl": "<p>Een klant met ernstige gehoorproblemen kan een beroep doen op een tolk Vlaamse gebarentaal, een schrijftolk of een oraaltolk, hetzij tijdens een erkende VDAB-opleiding hetzij met het oog op sollicitaties.</p>",
+        "nl-BE-x-generated-formal": "<p>Een klant met ernstige gehoorproblemen kan een beroep doen op een tolk Vlaamse gebarentaal, een schrijftolk of een oraaltolk, hetzij tijdens een erkende VDAB-opleiding hetzij met het oog op sollicitaties.</p>",
+        "nl-BE-x-generated-informal": "<p>Een klant met ernstige gehoorproblemen kan een beroep doen op een tolk Vlaamse gebarentaal, een schrijftolk of een oraaltolk, hetzij tijdens een erkende VDAB-opleiding hetzij met het oog op sollicitaties.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>",
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>",
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en –begeleidingsdienst (GTB), de gespecialiseerde arbeidsonderzoeksdiensten (GA) en de gespecialiseerde opleidings-, begeleidings-, en bemiddelingsdiensten (GOB).</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:37.022767796Z",
+      "laatstGewijzigd": "2023-07-13T17:10:22.964259173Z",
+      "laatstOntvangen": "2023-07-13T17:10:22.964259837Z",
+      "productnummer": "2765",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "JC",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/22226c5c-4b06-470e-9da8-52e318b7b8bc",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a023ee7c-1073-4235-8dca-d0ceb0684020"
+    },
+    {
+      "id": "256eb19d-5e85-4dbf-9e63-e0835d786ffd",
+      "generatedAtTime": "2023-07-13T17:10:22.846437Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": " Subsidie voor een OCMW in het kader van Tijdelijke Werkervaring",
+        "nl-BE-x-generated-informal": " Subsidie voor een OCMW in het kader van Tijdelijke Werkervaring",
+        "nl-BE-x-generated-formal": " Subsidie voor een OCMW in het kader van Tijdelijke Werkervaring"
+      },
+      "beschrijving": {
+        "nl": "<p>VDAB en lokale besturen helpen met ‘Tijdelijke WerkErvaring OCMW’ (TWE-OCMW) werkzoekenden en leefloongerechtigden die door een gebrek aan werkervaring en arbeidsattitudes niet onmiddellijk aan de slag kunnen in het normale economische circuit, competenties en werkervaring te verwerven binnen een reële werkomgeving.</p>",
+        "nl-BE-x-generated-formal": "<p>VDAB en lokale besturen helpen met ‘Tijdelijke WerkErvaring OCMW’ (TWE-OCMW) werkzoekenden en leefloongerechtigden die door een gebrek aan werkervaring en arbeidsattitudes niet onmiddellijk aan de slag kunnen in het normale economische circuit, competenties en werkervaring te verwerven binnen een reële werkomgeving.</p>",
+        "nl-BE-x-generated-informal": "<p>VDAB en lokale besturen helpen met ‘Tijdelijke WerkErvaring OCMW’ (TWE-OCMW) werkzoekenden en leefloongerechtigden die door een gebrek aan werkervaring en arbeidsattitudes niet onmiddellijk aan de slag kunnen in het normale economische circuit, competenties en werkervaring te verwerven binnen een reële werkomgeving.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet van 9 december 2019 betreffende de tijdelijke werkervaring, het regelen van stages en diverse bepalingen in het kader van de zesde staatshervorming</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet van 9 december 2019 betreffende de tijdelijke werkervaring, het regelen van stages en diverse bepalingen in het kader van de zesde staatshervorming</p>",
+        "nl": "<p>Decreet van 9 december 2019 betreffende de tijdelijke werkervaring, het regelen van stages en diverse bepalingen in het kader van de zesde staatshervorming</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:36.860749263Z",
+      "laatstGewijzigd": "2023-07-13T17:10:22.751453992Z",
+      "laatstOntvangen": "2023-07-13T17:10:22.751454655Z",
+      "productnummer": "2767",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "JC",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/256eb19d-5e85-4dbf-9e63-e0835d786ffd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/736ae07c-cf32-41c0-aaa0-016140806227"
+    },
+    {
+      "id": "d63ea24e-6252-45e9-a0b2-b76bdde7a474",
+      "generatedAtTime": "2023-07-13T17:10:22.640482Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies in het kader van arbeidsbemiddeling",
+        "nl-BE-x-generated-informal": "Subsidies in het kader van arbeidsbemiddeling",
+        "nl-BE-x-generated-formal": "Subsidies in het kader van arbeidsbemiddeling"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies in het kader van arbeidsbemiddeling.</p>",
+        "nl": "<p>Subsidies in het kader van arbeidsbemiddeling.</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies in het kader van arbeidsbemiddeling.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>",
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>",
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:36.643108875Z",
+      "laatstGewijzigd": "2023-07-13T17:10:22.561088338Z",
+      "laatstOntvangen": "2023-07-13T17:10:22.561089347Z",
+      "productnummer": "2764",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "JC",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d63ea24e-6252-45e9-a0b2-b76bdde7a474",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/982572e6-c49c-440c-9277-d5381aecc002"
+    },
+    {
+      "id": "998bb36e-5c6d-4664-a442-a806bd5d0117",
+      "generatedAtTime": "2023-07-13T17:10:22.452959Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidie ter financiering van de werk-zorgtrajecten",
+        "nl": "Subsidie ter financiering van de werk-zorgtrajecten",
+        "nl-BE-x-generated-informal": "Subsidie ter financiering van de werk-zorgtrajecten"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Een activeringstraject is een tijdelijk traject van minimaal drie tot maximaal 18 maanden waarin een combinatie van werk- en zorgacties (hulpverlening) wordt aangeboden. Het doel is om de werkzoekende, met grote afstand tot de arbeidsmarkt, voor te bereiden op betaalde tewerkstelling. De focus ligt op doorstroom naar betaald werk (REC of SEC).</p>",
+        "nl-BE-x-generated-formal": "<p>Een activeringstraject is een tijdelijk traject van minimaal drie tot maximaal 18 maanden waarin een combinatie van werk- en zorgacties (hulpverlening) wordt aangeboden. Het doel is om de werkzoekende, met grote afstand tot de arbeidsmarkt, voor te bereiden op betaalde tewerkstelling. De focus ligt op doorstroom naar betaald werk (REC of SEC).</p>",
+        "nl": "<p>Een activeringstraject is een tijdelijk traject van minimaal drie tot maximaal 18 maanden waarin een combinatie van werk- en zorgacties (hulpverlening) wordt aangeboden. Het doel is om de werkzoekende, met grote afstand tot de arbeidsmarkt, voor te bereiden op betaalde tewerkstelling. De focus ligt op doorstroom naar betaald werk (REC of SEC).</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>Decreet houdende de werk- en zorgtrajecten van 25 april 2014</p>",
+        "nl": "<p>Decreet houdende de werk- en zorgtrajecten van 25 april 2014</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet houdende de werk- en zorgtrajecten van 25 april 2014</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "werk- en zorgtraject",
+          "werk-zorgtraject",
+          "werk-en-zorgtraject",
+          "werk en zorg"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-generated-formal": "Werk- en zorgtrajecten (op VDAB.be)",
+            "nl": "Werk- en zorgtrajecten (op VDAB.be)",
+            "nl-BE-x-generated-informal": "Werk- en zorgtrajecten (op VDAB.be)"
+          },
+          "url": "https://www.vdab.be/werk-en-zorg",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:30:36.508628212Z",
+      "laatstGewijzigd": "2023-07-13T17:10:22.273580408Z",
+      "laatstOntvangen": "2023-07-13T17:10:22.273581373Z",
+      "productnummer": "2763",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "JC",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/998bb36e-5c6d-4664-a442-a806bd5d0117",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7206a0ac-4233-4441-b772-08fef3e3ca34"
+    },
+    {
+      "id": "c2f2e076-1a7c-4c5a-be48-4fb834ed827a",
+      "generatedAtTime": "2023-07-13T17:05:46.01852Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies in het kader van jobcoaching en taalcoaching",
+        "nl-BE-x-generated-informal": "Subsidies in het kader van jobcoaching en taalcoaching",
+        "nl": "Subsidies in het kader van jobcoaching en taalcoaching"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Jobcoaching, al dan niet in combinatie met taalcoaching, is de begeleiding op de werkvloer van een nieuwe werknemer en diens werkgever door de jobcoach.<br/>Taalcoaching op de opleidingsvloer beoogt het verbeteren van de taalvaardigheid van de klant tijdens opleidingssituaties en een betere uitstroom naar werk.</p>",
+        "nl-BE-x-generated-informal": "<p>Jobcoaching, al dan niet in combinatie met taalcoaching, is de begeleiding op de werkvloer van een nieuwe werknemer en diens werkgever door de jobcoach.<br/>Taalcoaching op de opleidingsvloer beoogt het verbeteren van de taalvaardigheid van de klant tijdens opleidingssituaties en een betere uitstroom naar werk.</p>",
+        "nl": "<p>Jobcoaching, al dan niet in combinatie met taalcoaching, is de begeleiding op de werkvloer van een nieuwe werknemer en diens werkgever door de jobcoach.<br />Taalcoaching op de opleidingsvloer beoogt het verbeteren van de taalvaardigheid van de klant tijdens opleidingssituaties en een betere uitstroom naar werk.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>",
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>",
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:36.327185793Z",
+      "laatstGewijzigd": "2023-07-13T17:05:45.867064021Z",
+      "laatstOntvangen": "2023-07-13T17:05:45.86706509Z",
+      "productnummer": "2762",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "JC",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c2f2e076-1a7c-4c5a-be48-4fb834ed827a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/50f6e6c3-0183-4a8f-8c0b-dd62dfe68727"
+    },
+    {
+      "id": "3a3a3a2a-ae59-4afc-b568-a267a447ede4",
+      "generatedAtTime": "2023-07-13T17:05:45.71789Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies ter ondersteuning van de professionele integratie van personen met een arbeidsbeperking",
+        "nl-BE-x-generated-formal": "Subsidies ter ondersteuning van de professionele integratie van personen met een arbeidsbeperking",
+        "nl": "Subsidies ter ondersteuning van de professionele integratie van personen met een arbeidsbeperking"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>BTOM staat voor Bijzondere TewerkstellingsOndersteunende Maatregel(en). Die maatregelen zorgen ervoor dat personen met een arbeidshandicap zich vlot kunnen inwerken in, en meer kansen krijgen op, de arbeidsmarkt.</p><p>Via BTOM's probeert de overheid ook werkgevers te stimuleren om personen met een arbeidshandicap aan te werven zonder rendementsverlies of extra kosten.</p>",
+        "nl": "<p>BTOM staat voor Bijzondere TewerkstellingsOndersteunende Maatregel(en). Die maatregelen zorgen ervoor dat personen met een arbeidshandicap zich vlot kunnen inwerken in, en meer kansen krijgen op, de arbeidsmarkt.</p><p>Via BTOM's probeert de overheid ook werkgevers te stimuleren om personen met een arbeidshandicap aan te werven zonder rendementsverlies of extra kosten.</p>",
+        "nl-BE-x-generated-formal": "<p>BTOM staat voor Bijzondere TewerkstellingsOndersteunende Maatregel(en). Die maatregelen zorgen ervoor dat personen met een arbeidshandicap zich vlot kunnen inwerken in, en meer kansen krijgen op, de arbeidsmarkt.</p><p>Via BTOM's probeert de overheid ook werkgevers te stimuleren om personen met een arbeidshandicap aan te werven zonder rendementsverlies of extra kosten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap</p>",
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap</p>",
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:36.190144831Z",
+      "laatstGewijzigd": "2023-07-13T17:05:45.610280337Z",
+      "laatstOntvangen": "2023-07-13T17:05:45.610281505Z",
+      "productnummer": "2761",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "JC",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3a3a3a2a-ae59-4afc-b568-a267a447ede4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/575ceb31-b652-4f87-9092-ef6ea4f8d67a"
+    },
+    {
+      "id": "767cfcce-f549-412c-8a56-a38bc25010b6",
+      "generatedAtTime": "2023-07-13T17:05:45.50502Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidie in kader van mentoring naar werk",
+        "nl-BE-x-generated-informal": "Subsidie in kader van mentoring naar werk",
+        "nl": "Subsidie in kader van mentoring naar werk"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Bij mentoring naar werk wordt een werkzoekende (de mentee) gekoppeld aan iemand met meer kennis en ervaring (de mentor), zodat die laatste de mentee kan ondersteunen in het overbruggen van de kloof tot de arbeidsmarkt.</p>",
+        "nl-BE-x-generated-informal": "<p>Bij mentoring naar werk wordt een werkzoekende (de mentee) gekoppeld aan iemand met meer kennis en ervaring (de mentor), zodat die laatste de mentee kan ondersteunen in het overbruggen van de kloof tot de arbeidsmarkt.</p>",
+        "nl": "<p>Bij mentoring naar werk wordt een werkzoekende (de mentee) gekoppeld aan iemand met meer kennis en ervaring (de mentor), zodat die laatste de mentee kan ondersteunen in het overbruggen van de kloof tot de arbeidsmarkt.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>",
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>",
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:36.039809494Z",
+      "laatstGewijzigd": "2023-07-13T17:05:45.416250817Z",
+      "laatstOntvangen": "2023-07-13T17:05:45.416251536Z",
+      "productnummer": "2760",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "JC",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/767cfcce-f549-412c-8a56-a38bc25010b6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/8200d42a-2b84-413d-8819-67e1b2e75346"
+    },
+    {
+      "id": "2b719fe8-ce0a-4444-8c37-0d827b98490c",
+      "generatedAtTime": "2023-07-13T17:05:45.202075Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Advies over herstelvordering",
+        "nl-BE-x-generated-informal": "Advies over herstelvordering",
+        "nl": "Advies over herstelvordering"
+      },
+      "beschrijving": {
+        "nl": "<p>Met het oog op het remediëren van stedenbouwkundige inbreuken en overtredingen kunnen gemeenten (burgemeester en/of stedenbouwkundige inspecteur) en gewesten (gewestelijke stedenbouwkundige inspecteur) adviezen over herstelvorderingen voorleggen aan de Hoge Raad voor de Handhavingsuitvoering (volgens de bevoegdheden voorzien in de Vlaamse Codex Ruimtelijke Ordening).</p>",
+        "nl-BE-x-generated-formal": "<p>Met het oog op het remediëren van stedenbouwkundige inbreuken en overtredingen kunnen gemeenten (burgemeester en/of stedenbouwkundige inspecteur) en gewesten (gewestelijke stedenbouwkundige inspecteur) adviezen over herstelvorderingen voorleggen aan de Hoge Raad voor de Handhavingsuitvoering (volgens de bevoegdheden voorzien in de Vlaamse Codex Ruimtelijke Ordening).</p>",
+        "nl-BE-x-generated-informal": "<p>Met het oog op het remediëren van stedenbouwkundige inbreuken en overtredingen kunnen gemeenten (burgemeester en/of stedenbouwkundige inspecteur) en gewesten (gewestelijke stedenbouwkundige inspecteur) adviezen over herstelvorderingen voorleggen aan de Hoge Raad voor de Handhavingsuitvoering (volgens de bevoegdheden voorzien in de Vlaamse Codex Ruimtelijke Ordening).</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "LokaalBestuur"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003323",
+          "@id": "OVO003323"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:35.872717036Z",
+      "laatstGewijzigd": "2023-07-13T17:05:45.121542364Z",
+      "laatstOntvangen": "2023-07-13T17:05:45.121543301Z",
+      "productnummer": "2759",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2b719fe8-ce0a-4444-8c37-0d827b98490c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ec182932-aaf9-4bc2-ac77-702c34d22e7d"
+    },
+    {
+      "id": "a95d11e4-377f-4d84-b57e-efadb3955f53",
+      "generatedAtTime": "2023-07-13T17:05:44.876195Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan vzw's ter financiering van de VDAB-opleiding tot verzorgende en zorgkundige",
+        "nl-BE-x-generated-formal": "Subsidies aan vzw's ter financiering van de VDAB-opleiding tot verzorgende en zorgkundige",
+        "nl-BE-x-generated-informal": "Subsidies aan vzw's ter financiering van de VDAB-opleiding tot verzorgende en zorgkundige"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor de organisatie van de VDAB-opleiding tot verzorgende en zorgkundige. De opleiding omvat opleidingsstages zowel in de thuiszorg als in de residentiële zorg.</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidie voor de organisatie van de VDAB-opleiding tot verzorgende en zorgkundige. De opleiding omvat opleidingsstages zowel in de thuiszorg als in de residentiële zorg.</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidie voor de organisatie van de VDAB-opleiding tot verzorgende en zorgkundige. De opleiding omvat opleidingsstages zowel in de thuiszorg als in de residentiële zorg.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige</p>",
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige</p>",
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:35.671498212Z",
+      "laatstGewijzigd": "2023-07-13T17:05:44.780866945Z",
+      "laatstOntvangen": "2023-07-13T17:05:44.780868194Z",
+      "productnummer": "2758",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "JF",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a95d11e4-377f-4d84-b57e-efadb3955f53",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/271bbc74-6910-4521-b34d-7b1bb79db469"
+    },
+    {
+      "id": "1f68d02d-374c-4284-9259-a7888845e083",
+      "generatedAtTime": "2023-07-13T17:05:44.655691Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie aan Syntra in het kader van de financiering van de leertijd",
+        "nl-BE-x-generated-informal": "Subsidie aan Syntra in het kader van de financiering van de leertijd",
+        "nl-BE-x-generated-formal": "Subsidie aan Syntra in het kader van de financiering van de leertijd"
+      },
+      "beschrijving": {
+        "nl": "<p>Leertijd is een vorm van werkplekleren voor jongeren die beroepscertificaten en/of een onderwijskwalificatie willen behalen. VDAB neemt in het kader van de leertijd de regierol van SYNTRA Vlaanderen over sinds 1 januari 2021 over. De uitvoering van de leertijd blijft ook na die datum behouden bij de SYNTRA-vzw's.</p>",
+        "nl-BE-x-generated-formal": "<p>Leertijd is een vorm van werkplekleren voor jongeren die beroepscertificaten en/of een onderwijskwalificatie willen behalen. VDAB neemt in het kader van de leertijd de regierol van SYNTRA Vlaanderen over sinds 1 januari 2021 over. De uitvoering van de leertijd blijft ook na die datum behouden bij de SYNTRA-vzw's.</p>",
+        "nl-BE-x-generated-informal": "<p>Leertijd is een vorm van werkplekleren voor jongeren die beroepscertificaten en/of een onderwijskwalificatie willen behalen. VDAB neemt in het kader van de leertijd de regierol van SYNTRA Vlaanderen over sinds 1 januari 2021 over. De uitvoering van de leertijd blijft ook na die datum behouden bij de SYNTRA-vzw's.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 18 december 2020 tot regeling van de leertijd</p>",
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 18 december 2020 tot regeling van de leertijd</p>",
+        "nl": "<p>Besluit van de Vlaamse Regering van 18 december 2020 tot regeling van de leertijd</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:35.401153652Z",
+      "laatstGewijzigd": "2023-07-13T17:05:44.54453503Z",
+      "laatstOntvangen": "2023-07-13T17:05:44.54453591Z",
+      "productnummer": "2757",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "JF",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1f68d02d-374c-4284-9259-a7888845e083",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/18a27771-429d-4382-bd61-e0af892ba525"
+    },
+    {
+      "id": "daf54f3f-027a-4317-a4d8-1be7f2bf8be3",
+      "generatedAtTime": "2023-07-13T17:05:44.392736Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidie in kader van competentieversterking",
+        "nl-BE-x-generated-formal": "Subsidie in kader van competentieversterking",
+        "nl": "Subsidie in kader van competentieversterking"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidieprojecten in het kader van competentieversterking van werkzoekenden.</p>",
+        "nl": "<p>Subsidieprojecten in het kader van competentieversterking van werkzoekenden.</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidieprojecten in het kader van competentieversterking van werkzoekenden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>",
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>",
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000078",
+          "@id": "OVO000078"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:35.168148193Z",
+      "laatstGewijzigd": "2023-07-13T17:05:44.312099346Z",
+      "laatstOntvangen": "2023-07-13T17:05:44.312100044Z",
+      "productnummer": "2756",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "JF",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/daf54f3f-027a-4317-a4d8-1be7f2bf8be3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/26ecd34d-b883-47f9-93ac-5bb159c8ee8e"
+    },
+    {
+      "id": "9b822cd4-0315-435e-a646-c21b00ed2db2",
+      "generatedAtTime": "2023-07-13T17:05:44.205831Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Kunstendecreet van 13 december 2013: Aanduiding Buitenlandse Residentie Professionele Kunsten",
+        "nl-BE-x-generated-formal": "Kunstendecreet van 13 december 2013: Aanduiding Buitenlandse Residentie Professionele Kunsten",
+        "nl-BE-x-generated-informal": "Kunstendecreet van 13 december 2013: Aanduiding Buitenlandse Residentie Professionele Kunsten"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl-BE-x-generated-formal": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl-BE-x-generated-informal": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013.</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013.</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:35.018224808Z",
+      "laatstGewijzigd": "2023-07-13T17:05:44.099505195Z",
+      "laatstOntvangen": "2023-07-13T17:05:44.099505935Z",
+      "productnummer": "2755",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "HE_03",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9b822cd4-0315-435e-a646-c21b00ed2db2",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/943a5d50-f3be-4efb-8d1f-47802274365d"
+    },
+    {
+      "id": "9e881d0d-0f96-43cf-818f-2066694667b7",
+      "generatedAtTime": "2023-07-13T17:05:43.924546Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Jaarlijks Uitgavendecreet: Werking Brusselse Podia",
+        "nl-BE-x-generated-formal": "Jaarlijks Uitgavendecreet: Werking Brusselse Podia",
+        "nl-BE-x-generated-informal": "Jaarlijks Uitgavendecreet: Werking Brusselse Podia"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>",
+        "nl": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>",
+        "nl-BE-x-generated-formal": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>",
+        "nl-BE-x-generated-formal": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>",
+        "nl": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:34.866104704Z",
+      "laatstGewijzigd": "2023-07-13T17:05:43.846850714Z",
+      "laatstOntvangen": "2023-07-13T17:05:43.846851516Z",
+      "productnummer": "2754",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "HE_03",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9e881d0d-0f96-43cf-818f-2066694667b7",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6739ad8d-2052-4100-bc15-4f1cb5817dc1"
+    },
+    {
+      "id": "a8906c73-f5c6-417c-9322-ecd6869b39e5",
+      "generatedAtTime": "2023-07-13T17:05:43.747501Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Jaarlijks Uitgavendecreet: Werking Vi.Be (eerder: poppunt)",
+        "nl-BE-x-generated-formal": "Jaarlijks Uitgavendecreet: Werking Vi.Be (eerder: poppunt)",
+        "nl": "Jaarlijks Uitgavendecreet: Werking Vi.Be (eerder: poppunt)"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>",
+        "nl": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>",
+        "nl-BE-x-generated-formal": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>",
+        "nl-BE-x-generated-formal": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>",
+        "nl": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:34.742127575Z",
+      "laatstGewijzigd": "2023-07-13T17:05:43.665810384Z",
+      "laatstOntvangen": "2023-07-13T17:05:43.665811394Z",
+      "productnummer": "2753",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "HC_11",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a8906c73-f5c6-417c-9322-ecd6869b39e5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f44c954c-6165-45e9-93bf-c3e170f55cd7"
+    },
+    {
+      "id": "bb802e16-44cc-4ed4-b9aa-1a8d14bced16",
+      "generatedAtTime": "2023-07-13T17:05:43.548515Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Jaarlijks Uitgavendecreet: Project Ondersteuning IGS en Jeugdvriendelijkheid",
+        "nl": "Jaarlijks Uitgavendecreet: Project Ondersteuning IGS en Jeugdvriendelijkheid",
+        "nl-BE-x-generated-informal": "Jaarlijks Uitgavendecreet: Project Ondersteuning IGS en Jeugdvriendelijkheid"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl-BE-x-generated-formal": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl-BE-x-generated-informal": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>",
+        "nl-BE-x-generated-formal": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>",
+        "nl": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:34.615790474Z",
+      "laatstGewijzigd": "2023-07-13T17:05:43.469230492Z",
+      "laatstOntvangen": "2023-07-13T17:05:43.469231544Z",
+      "productnummer": "2752",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "HF_03",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bb802e16-44cc-4ed4-b9aa-1a8d14bced16",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f97c1e23-5bae-4298-a9d9-8f4361785f52"
+    },
+    {
+      "id": "86c1b4ba-d784-431a-8009-86579b4f10c5",
+      "generatedAtTime": "2023-07-13T17:05:43.278568Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Jaarlijks Uitgavendecreet: Continuering Provinciale Subsidie",
+        "nl-BE-x-generated-formal": "Jaarlijks Uitgavendecreet: Continuering Provinciale Subsidie",
+        "nl-BE-x-generated-informal": "Jaarlijks Uitgavendecreet: Continuering Provinciale Subsidie"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>",
+        "nl": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>",
+        "nl-BE-x-generated-formal": "<p>Deze dienst is actief. Deze dienst heeft geen aanvraagmogelijkheid.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>",
+        "nl-BE-x-generated-formal": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>",
+        "nl": "<p>Jaarlijks Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:34.473738654Z",
+      "laatstGewijzigd": "2023-07-13T17:05:43.158193237Z",
+      "laatstOntvangen": "2023-07-13T17:05:43.158194387Z",
+      "productnummer": "2751",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "HC_11",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/86c1b4ba-d784-431a-8009-86579b4f10c5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/469f1500-0138-492d-b3ec-c95d44d29dc8"
+    },
+    {
+      "id": "c75ee17c-ca76-4297-8a36-e854c2c486bd",
+      "generatedAtTime": "2023-07-13T17:05:42.894321Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Kunstendecreet van 13 december 2013: Project Professionele Kunstenorganisatie",
+        "nl-BE-x-generated-formal": "Kunstendecreet van 13 december 2013: Project Professionele Kunstenorganisatie",
+        "nl-BE-x-generated-informal": "Kunstendecreet van 13 december 2013: Project Professionele Kunstenorganisatie"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl-BE-x-generated-formal": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl-BE-x-generated-informal": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:34.228191157Z",
+      "laatstGewijzigd": "2023-07-13T17:05:42.815025709Z",
+      "laatstOntvangen": "2023-07-13T17:05:42.81502689Z",
+      "productnummer": "2750",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "HD_06",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c75ee17c-ca76-4297-8a36-e854c2c486bd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/8fd51571-6854-431e-be3b-b2275a49ef49"
+    },
+    {
+      "id": "70371366-7fa1-4151-9db8-f95163b1bcbd",
+      "generatedAtTime": "2023-07-13T17:05:42.708563Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Kunstendecreet van 13 december 2013: Project Individuele Kunstenaar",
+        "nl-BE-x-generated-formal": "Kunstendecreet van 13 december 2013: Project Individuele Kunstenaar",
+        "nl-BE-x-generated-informal": "Kunstendecreet van 13 december 2013: Project Individuele Kunstenaar"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl-BE-x-generated-formal": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl-BE-x-generated-informal": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:33.935628517Z",
+      "laatstGewijzigd": "2023-07-13T17:05:42.627509083Z",
+      "laatstOntvangen": "2023-07-13T17:05:42.62750982Z",
+      "productnummer": "2749",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "HD_06",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/70371366-7fa1-4151-9db8-f95163b1bcbd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/062cf22a-30e1-43c9-aa65-85a23bdbeb00"
+    },
+    {
+      "id": "2c78de93-a948-4625-9dae-c57b49d5d066",
+      "generatedAtTime": "2023-07-13T17:05:42.523641Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Kunstendecreet van 13 december 2013: Meerjarige Beurs Kunstenaar",
+        "nl": "Kunstendecreet van 13 december 2013: Meerjarige Beurs Kunstenaar",
+        "nl-BE-x-generated-informal": "Kunstendecreet van 13 december 2013: Meerjarige Beurs Kunstenaar"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl-BE-x-generated-formal": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>",
+        "nl-BE-x-generated-informal": "<p>Deze dienst is actief maar niet meer aanvraagbaar.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet betreffende de ondersteuning van de professionele kunsten van 13 december 2013</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-05-04T14:30:33.645834174Z",
+      "laatstGewijzigd": "2023-07-13T17:05:42.445183483Z",
+      "laatstOntvangen": "2023-07-13T17:05:42.445184178Z",
+      "productnummer": "2748",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "HD_06",
+      "metadata": {
+        "uJeVersie": "31.3.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2c78de93-a948-4625-9dae-c57b49d5d066",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/96f8b64e-23ea-4a10-ae8c-e9d8a01adcdd"
+    }
+  ]
+}

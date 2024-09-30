@@ -1,1 +1,1560 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2285","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2286","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2024-08-21T08:45:38.261884Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2284","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2024-08-21T08:45:32.441889Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2285","@type":"EventStream","member":[{"id":"9377e050-7677-4b5e-94ec-8277e2ab4c75","generatedAtTime":"2024-08-21T08:45:38.261884Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vergunning en erkenning voor (internationaal) geregeld vervoer","nl-BE-x-formal":"Vergunning en erkenning voor (internationaal) geregeld vervoer","nl-BE-x-generated-informal":"Vergunning en erkenning voor (internationaal) geregeld vervoer"},"beschrijving":{"nl-BE-x-formal":"<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>","nl":"<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:54Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:38.197281556Z","productnummer":"2905","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9377e050-7677-4b5e-94ec-8277e2ab4c75","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/289e5cc0-5095-482e-a69f-f505cc9b43b8"},{"id":"248dcd13-d982-4a6e-86c1-5d13249dc2ff","generatedAtTime":"2024-08-21T08:45:38.055554Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Erkenning als technische dienst","nl":"Erkenning als technische dienst","nl-BE-x-formal":"Erkenning als technische dienst"},"beschrijving":{"nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:54Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:37.986796256Z","productnummer":"2904","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/248dcd13-d982-4a6e-86c1-5d13249dc2ff","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/1bfa7e3b-3a97-4fca-9040-176a32c3b284"},{"id":"65ccbe31-194e-450b-990f-12abfc88948b","generatedAtTime":"2024-08-21T08:45:37.858453Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Erkenning als rijschool","nl-BE-x-formal":"Erkenning als rijschool","nl":"Erkenning als rijschool"},"beschrijving":{"nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend rijschool te worden.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend rijschool te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend rijschool te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:54Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:37.796961926Z","productnummer":"2903","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/65ccbe31-194e-450b-990f-12abfc88948b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/42b77bfe-016f-43e0-a57e-6f270589fbcb"},{"id":"147c354f-024e-4faf-a2f3-1a41907cd44a","generatedAtTime":"2024-08-21T08:45:37.657203Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Erkenning als opleidingscentrum voor nascholing vakbekwaamheid","nl":"Erkenning als opleidingscentrum voor nascholing vakbekwaamheid","nl-BE-x-generated-informal":"Erkenning als opleidingscentrum voor nascholing vakbekwaamheid"},"beschrijving":{"nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:37.562940442Z","productnummer":"2902","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/147c354f-024e-4faf-a2f3-1a41907cd44a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/45e50346-810c-4878-90dc-211e86d2dd7d"},{"id":"aac223d8-1e0b-4f9e-84e2-2d0855209487","generatedAtTime":"2024-08-21T08:45:37.424699Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)","nl":"Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)","nl-BE-x-generated-informal":"Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:37.340472765Z","productnummer":"2901","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/aac223d8-1e0b-4f9e-84e2-2d0855209487","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/8083492d-272c-47d4-af52-426c0b4b76b3"},{"id":"c8ffc8f8-5838-45ee-ac87-a23503186d14","generatedAtTime":"2024-08-21T08:45:37.118954Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)","nl-BE-x-generated-informal":"Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)","nl-BE-x-formal":"Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>","nl":"<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-08-04T13:33:53Z","laatstOntvangen":"2024-08-21T08:45:37.043611678Z","productnummer":"2900","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c8ffc8f8-5838-45ee-ac87-a23503186d14","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fdb0d42e-376b-420e-9113-45ab672d8632"},{"id":"e3cbdf26-6fb4-4320-a51c-54fd268c6b10","generatedAtTime":"2024-08-21T08:45:36.885438Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning als instelling voor het terugkommoment","nl-BE-x-formal":"Erkenning als instelling voor het terugkommoment","nl-BE-x-generated-informal":"Erkenning als instelling voor het terugkommoment"},"beschrijving":{"nl":"<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:36.804146514Z","productnummer":"2899","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e3cbdf26-6fb4-4320-a51c-54fd268c6b10","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/50754efd-b247-4751-833c-3307b894956c"},{"id":"7d3d5fb4-502a-466d-b23e-ac43e65c82e9","generatedAtTime":"2024-08-21T08:45:36.627806Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Erkenning als fabrikant voor Conformiteit van Productie (COP)","nl":"Erkenning als fabrikant voor Conformiteit van Productie (COP)","nl-BE-x-formal":"Erkenning als fabrikant voor Conformiteit van Productie (COP)"},"beschrijving":{"nl":"<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>","nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:36.555694106Z","productnummer":"2898","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7d3d5fb4-502a-466d-b23e-ac43e65c82e9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/adee96a8-b573-4a04-944f-9a9f41bb81f8"},{"id":"b5e07f5d-9ecf-4d54-88f0-1f288683a95b","generatedAtTime":"2024-08-21T08:45:36.374054Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Communautaire vergunning","nl":"Communautaire vergunning","nl-BE-x-formal":"Communautaire vergunning"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>","nl-BE-x-formal":"<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>","nl":"<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:36.305047275Z","productnummer":"2897","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5e07f5d-9ecf-4d54-88f0-1f288683a95b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e9119093-6d6a-4bcc-b120-e82883fe4a1d"},{"id":"b57f3083-7efa-4725-ab63-0f64487343ae","generatedAtTime":"2024-08-21T08:45:36.160284Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning als LZV-bestuurder","nl-BE-x-formal":"Erkenning als LZV-bestuurder","nl-BE-x-generated-informal":"Erkenning als LZV-bestuurder"},"beschrijving":{"nl-BE-x-formal":"<p>Langere en zwaardere vrachtwagens (LZV’s) zijn tot 25,25 meter lang en hebben een totale massa tot 60 ton. Om met een LZV te mogen rijden, moet u een erkenning krijgen.</p>","nl":"<p>Langere en zwaardere vrachtwagens (LZV’s) zijn tot 25,25 meter lang en hebben een totale massa tot 60 ton. Om met een LZV te mogen rijden, moet u een erkenning krijgen.</p>","nl-BE-x-generated-informal":"<p>Langere en zwaardere vrachtwagens (LZV’s) zijn tot 25,25 meter lang en hebben een totale massa tot 60 ton. Om met een LZV te mogen rijden, moet je een erkenning krijgen.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"voorwaarden":[{"beschrijving":{"nl-BE-x-generated-informal":"<p>Om met een langere en zwaardere vrachtwagen (LZV) te rijden, moet je voldoen aan 3 voorwaarden:</p><ol><li>Je bent in het bezit van een <strong>bekwaamheidsattest</strong> of een gelijkwaardig attest</li><li>Je hebt <strong>minimaal 5 jaar ervaring met het besturen van een vrachtwagencombinatie</strong> waarvoor een <strong>rijbewijs C+E</strong> vereist is.</li><li>Je hebt de <strong>laatste 3 jaar geen rijverbod van meer dan 15 dagen</strong> gehad. Je bent als hoofdstraf dus niet voor meer dan 15 dagen van het recht vervallen geweest om een motorvoertuig te besturen.</li></ol>","nl":"<p>Om met een langere en zwaardere vrachtwagen (LZV) te rijden, moet u voldoen aan 3 voorwaarden:</p><ol><li>U bent in het bezit van een <strong>bekwaamheidsattest</strong> of een gelijkwaardig attest</li><li>U hebt <strong>minimaal 5 jaar ervaring met het besturen van een vrachtwagencombinatie</strong> waarvoor een <strong>rijbewijs C+E</strong> vereist is.</li><li>U hebt de <strong>laatste 3 jaar geen rijverbod van meer dan 15 dagen</strong> gehad. U bent als hoofdstraf dus niet voor meer dan 15 dagen van het recht vervallen geweest om een motorvoertuig te besturen.</li></ol>","nl-BE-x-formal":"<p>Om met een langere en zwaardere vrachtwagen (LZV) te rijden, moet u voldoen aan 3 voorwaarden:</p><ol><li>U bent in het bezit van een <strong>bekwaamheidsattest</strong> of een gelijkwaardig attest</li><li>U hebt <strong>minimaal 5 jaar ervaring met het besturen van een vrachtwagencombinatie</strong> waarvoor een <strong>rijbewijs C+E</strong> vereist is.</li><li>U hebt de <strong>laatste 3 jaar geen rijverbod van meer dan 15 dagen</strong> gehad. U bent als hoofdstraf dus niet voor meer dan 15 dagen van het recht vervallen geweest om een motorvoertuig te besturen.</li></ol>"},"naam":{"nl-BE-x-formal":"Voorwaarden","nl-BE-x-generated-informal":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-formal":"<p>Om een bekwaamheidsattest te krijgen, moet u een opleiding volgen en slagen voor het examen.</p>","nl":"<p>Om een bekwaamheidsattest te krijgen, moet u een opleiding volgen en slagen voor het examen.</p>","nl-BE-x-generated-informal":"<p>Om een bekwaamheidsattest te krijgen, moet je een opleiding volgen en slagen voor het examen.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-10-05T13:22:04Z","laatstOntvangen":"2024-08-21T08:45:36.038320712Z","productnummer":"2896","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b57f3083-7efa-4725-ab63-0f64487343ae","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/9b3754a0-7c58-4adb-ae00-37c8fa504167"},{"id":"3007de8f-7dcc-49f8-acf6-ff4136fb9d86","generatedAtTime":"2024-08-21T08:45:35.889543Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"en":"Recognition as driving instructor","nl-BE-x-generated-informal":"Erkenning als rijinstructeur","nl":"Erkenning als rijinstructeur","nl-BE-x-formal":"Erkenning als rijinstructeur"},"beschrijving":{"en":"<p>If you want to teach people to drive as a driving instructor, you must obtain a certificate of professional competence. This depends on whether you opt for theory or practical lessons and on the type of vehicle by means of which you want to teach your pupils how to drive: a motorcycle, car, bus, truck or agricultural vehicle.</p><ul></ul><ul></ul>","nl":"<p>Om rijinstructeur te worden, moet u een brevet van beroepsbekwaamheid behalen. Het type brevet hangt af van uw keuze voor theorie of praktijk en het type voertuig waarmee u uw leerlingen wilt leren rijden. U moet:</p><ul><li>slagen voor een schriftelijk en mondeling examen</li><li>een stage afleggen</li><li>een modelles geven.</li></ul>","nl-BE-x-generated-informal":"<p>Om rijinstructeur te worden, moet je een brevet van beroepsbekwaamheid behalen. Het type brevet hangt af van jouw keuze voor theorie of praktijk en het type voertuig waarmee je jouw leerlingen wilt leren rijden. Je moet:</p><ul><li>slagen voor een schriftelijk en mondeling examen</li><li>een stage afleggen</li><li>een modelles geven.</li></ul>","nl-BE-x-formal":"<p>Om rijinstructeur te worden, moet u een brevet van beroepsbekwaamheid behalen. Het type brevet hangt af van uw keuze voor theorie of praktijk en het type voertuig waarmee u uw leerlingen wilt leren rijden. U moet:</p><ul><li>slagen voor een schriftelijk en mondeling examen</li><li>een stage afleggen</li><li>een modelles geven.</li></ul>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"procedures":[{"naam":{"en":"Procedure"},"beschrijving":{"en":"<p>To become a driving instructor, you must:</p><ul><li><p>pass a written and oral test</p></li><li>do a traineeship</li><li>give a demonstration lesson.</li></ul>"},"@type":"Procedure","order":0}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2024-01-12T14:44:37Z","laatstOntvangen":"2024-08-21T08:45:35.816228548Z","productnummer":"2895","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3007de8f-7dcc-49f8-acf6-ff4136fb9d86","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/29604d55-b29d-4310-8bb6-1da1b8ad68d9"},{"id":"e6090ee7-2bc7-4325-a6f6-1e3b75b972c5","generatedAtTime":"2024-08-21T08:45:35.62285Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Erkenning als rijschooldirecteur","nl":"Erkenning als rijschooldirecteur","en":"Recognition as driving school director","nl-BE-x-formal":"Erkenning als rijschooldirecteur"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Om een rijschool te starten, moet je eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. Je kan alleen directeur worden als je al minstens 3 jaar een brevet als theorie- én praktijkinstructeur hebt. Je moet slagen voor een mondeling en een schriftelijk examen.</p>","nl-BE-x-formal":"<p>Om een rijschool te starten, moet u eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. U kunt alleen directeur worden als u al minstens 3 jaar een brevet als theorie- én praktijkinstructeur hebt. U moet slagen voor een mondeling en een schriftelijk examen.</p>","nl":"<p>Om een rijschool te starten, moet u eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. U kunt alleen directeur worden als u al minstens 3 jaar een brevet als theorie- én praktijkinstructeur hebt. U moet slagen voor een mondeling en een schriftelijk examen.</p>","en":"<p>If you want to start a driving school, you must obtain a certificate and permit to become a driving school director.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"contactBeschrijving":{"en":"<p><a href=\"https://www.mow-contact.be/contactformulier.php\">Contact point Department of Mobility and Public Works</a></p>"},"voorwaarden":[{"beschrijving":{"nl-BE-x-formal":"<div><div><p>Er bestaat geen opleiding om rijschooldirecteur te worden. Tijdens de examens toont u aan dat u weet hoe u een rijschool moet leiden en beheren. U kunt daarvoor eventueel een cursus bedrijfsbeheer volgen.</p></div></div>","nl-BE-x-generated-informal":"<div><div><p>Er bestaat geen opleiding om rijschooldirecteur te worden. Tijdens de examens toon je aan dat je weet hoe je een rijschool moet leiden en beheren. Je kan daarvoor eventueel een cursus bedrijfsbeheer volgen.</p></div></div>","en":"<div><div><p>You can only submit an application to become a driving school director:</p><ul><li>if you have held a certificate as instructor in both theory and practice for at least 3 years</li><li>and when you have passed an oral and written test.</li></ul><p>There is no formal training for driving school directors. During the exams you must prove that you know how to run a driving school.</p></div></div>","nl":"<div><div><p>Er bestaat geen opleiding om rijschooldirecteur te worden. Tijdens de examens toont u aan dat u weet hoe u een rijschool moet leiden en beheren. U kunt daarvoor eventueel een cursus bedrijfsbeheer volgen.</p></div></div>"},"naam":{"en":"Requirements","nl-BE-x-formal":"Voorwaarden","nl-BE-x-generated-informal":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl":"<h3>Examens</h3><p>De examens worden door het Departement Mobiliteit en Openbare Werken (MOW) op vaste momenten (zittijden) georganiseerd.</p><p>Bent u voor het schriftelijke examen geslaagd? Dan krijgt u na ongeveer 3 weken een brief met daarin de datum en de plaats van het mondelinge examen.</p><p>Slaagt u niet voor het volledige examen, maar wel voor 1 onderdeel? Dan kan de examencommissie u voor dat onderdeel een vrijstelling geven voor een volgende zittijd.</p><p>Meteen na het mondelinge examen krijgt u te horen of u geslaagd bent.</p><h3>Directietoelating</h3><p>Bent u geslaagd? Dan krijgt u van het Departement MOW een aanvraag tot directietoelating. Vul die in en stuur ze samen met een kopie van uw rijbewijs en een uittreksel uit het strafregister model 2 terug naar het departement. Zodra u uw directietoelating hebt, bent u rijschooldirecteur.</p><p>Als rijschooldirecteur krijgt u een code 101 op uw rijbewijs. Die code is het bewijs van uw directietoelating.</p>","nl-BE-x-generated-informal":"<h3>Examens</h3><p>De examens worden door het Departement Mobiliteit en Openbare Werken (MOW) op vaste momenten (zittijden) georganiseerd.</p><p>Ben je voor het schriftelijke examen geslaagd? Dan krijg je na ongeveer 3 weken een brief met daarin de datum en de plaats van het mondelinge examen.</p><p>Slaag je niet voor het volledige examen, maar wel voor 1 onderdeel? Dan kan de examencommissie je voor dat onderdeel een vrijstelling geven voor een volgende zittijd.</p><p>Meteen na het mondelinge examen krijg je te horen of je geslaagd bent.</p><h3>Directietoelating</h3><p>Ben je geslaagd? Dan krijg je van het Departement MOW een aanvraag tot directietoelating. Vul die in en stuur ze samen met een kopie van jouw rijbewijs en een uittreksel uit het strafregister model 2 terug naar het departement. Zodra je jouw directietoelating hebt, ben je rijschooldirecteur.</p><p>Als rijschooldirecteur krijg je een code 101 op jouw rijbewijs. Die code is het bewijs van jouw directietoelating.</p>","nl-BE-x-formal":"<h3>Examens</h3><p>De examens worden door het Departement Mobiliteit en Openbare Werken (MOW) op vaste momenten (zittijden) georganiseerd.</p><p>Bent u voor het schriftelijke examen geslaagd? Dan krijgt u na ongeveer 3 weken een brief met daarin de datum en de plaats van het mondelinge examen.</p><p>Slaagt u niet voor het volledige examen, maar wel voor 1 onderdeel? Dan kan de examencommissie u voor dat onderdeel een vrijstelling geven voor een volgende zittijd.</p><p>Meteen na het mondelinge examen krijgt u te horen of u geslaagd bent.</p><h3>Directietoelating</h3><p>Bent u geslaagd? Dan krijgt u van het Departement MOW een aanvraag tot directietoelating. Vul die in en stuur ze samen met een kopie van uw rijbewijs en een uittreksel uit het strafregister model 2 terug naar het departement. Zodra u uw directietoelating hebt, bent u rijschooldirecteur.</p><p>Als rijschooldirecteur krijgt u een code 101 op uw rijbewijs. Die code is het bewijs van uw directietoelating.</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Om aan het schriftelijke en mondelinge examen voor rijschooldirecteur deel te nemen, moet u 27 euro inschrijvingsgeld betalen.</p>","nl-BE-x-formal":"<p>Om aan het schriftelijke en mondelinge examen voor rijschooldirecteur deel te nemen, moet u 27 euro inschrijvingsgeld betalen.</p>","nl-BE-x-generated-informal":"<p>Om aan het schriftelijke en mondelinge examen voor rijschooldirecteur deel te nemen, moet je 27 euro inschrijvingsgeld betalen.</p>"},"naam":{"nl":"Inschrijvingsgeld","nl-BE-x-formal":"Inschrijvingsgeld","nl-BE-x-generated-informal":"Inschrijvingsgeld"},"@type":"Kost","order":0}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2024-01-12T14:44:37Z","laatstOntvangen":"2024-08-21T08:45:35.464870672Z","productnummer":"2894","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e6090ee7-2bc7-4325-a6f6-1e3b75b972c5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/522d929a-8fcf-41cd-805f-615ec572cfee"},{"id":"3638a8b6-e5ad-445a-95cf-27c951020e94","generatedAtTime":"2024-08-21T08:45:35.28705Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Erkenning als lesgever voor het terugkommoment","nl":"Erkenning als lesgever voor het terugkommoment","nl-BE-x-formal":"Erkenning als lesgever voor het terugkommoment"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Wil je als lesgever 1 of meer onderdelen van het terugkommoment voor rijbewijs B geven? Dan moet je een basisopleiding en 1 of 2 bijkomende opleidingen volgen en je laten erkennen als lesgever van het terugkommoment.</p>","nl-BE-x-formal":"<p>Wilt u als lesgever 1 of meer onderdelen van het terugkommoment voor rijbewijs B geven? Dan moet u een basisopleiding en 1 of 2 bijkomende opleidingen volgen en u laten erkennen als lesgever van het terugkommoment.</p>","nl":"<p>Wilt u als lesgever 1 of meer onderdelen van het terugkommoment voor rijbewijs B geven? Dan moet u een basisopleiding en 1 of 2 bijkomende opleidingen volgen en u laten erkennen als lesgever van het terugkommoment.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"uitvoerendeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-formal":"<h3><strong>Verplichte opleidingen</strong></h3><ul><li>basisopleiding van 7 uur</li><li>voor de kennismaking en het groepsgesprek: bijkomende opleiding van 14 uur</li><li>voor de praktijkoefeningen: bijkomende opleiding van 7 uur.</li></ul><p>Het is belangrijk dat u de opleidingen in volgorde volgt: eerst de basisopleiding en pas daarna de praktijkopleiding en/of de opleiding groepsgesprek.</p><p>Na afloop van elke opleiding krijgt u een <strong>getuigschrift</strong>, waarvan u een kopie moet bezorgen aan de erkende instelling(en) waar u wilt lesgeven. De opleidingsuren tellen mee als uren verplichte bijscholing voor rijinstructeurs in het jaar dat u het getuigschrift behaalt.</p>","nl":"<h3><strong>Verplichte opleidingen</strong></h3><ul><li>basisopleiding van 7 uur</li><li>voor de kennismaking en het groepsgesprek: bijkomende opleiding van 14 uur</li><li>voor de praktijkoefeningen: bijkomende opleiding van 7 uur.</li></ul><p>Het is belangrijk dat u de opleidingen in volgorde volgt: eerst de basisopleiding en pas daarna de praktijkopleiding en/of de opleiding groepsgesprek.</p><p>Na afloop van elke opleiding krijgt u een <strong>getuigschrift</strong>, waarvan u een kopie moet bezorgen aan de erkende instelling(en) waar u wilt lesgeven. De opleidingsuren tellen mee als uren verplichte bijscholing voor rijinstructeurs in het jaar dat u het getuigschrift behaalt.</p>","nl-BE-x-generated-informal":"<h3><strong>Verplichte opleidingen</strong></h3><ul><li>basisopleiding van 7 uur</li><li>voor de kennismaking en het groepsgesprek: bijkomende opleiding van 14 uur</li><li>voor de praktijkoefeningen: bijkomende opleiding van 7 uur.</li></ul><p>Het is belangrijk dat je de opleidingen in volgorde volgt: eerst de basisopleiding en pas daarna de praktijkopleiding en/of de opleiding groepsgesprek.</p><p>Na afloop van elke opleiding krijg je een <strong>getuigschrift</strong>, waarvan je een kopie moet bezorgen aan de erkende instelling(en) waar je wilt lesgeven. De opleidingsuren tellen mee als uren verplichte bijscholing voor rijinstructeurs in het jaar dat je het getuigschrift behaalt.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-01-27T14:01:51Z","laatstGewijzigd":"2023-10-05T14:43:19Z","laatstOntvangen":"2024-08-21T08:45:35.18219134Z","productnummer":"2893","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3638a8b6-e5ad-445a-95cf-27c951020e94","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3f1e5e8f-617a-4a86-b879-7e31ff96652a"},{"id":"2159fe35-f6e0-4b76-9cd8-27157b7b71e4","generatedAtTime":"2024-08-21T08:45:35.0252Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Examen voor rijinstructeur of rijschooldirecteur","nl":"Examen voor rijinstructeur of rijschooldirecteur","nl-BE-x-formal":"Examen voor rijinstructeur of rijschooldirecteur"},"beschrijving":{"nl-BE-x-formal":"<p>Om rijinstructeur te worden, moet u een brevet van beroepsbekwaamheid behalen. Om een rijschool te starten, moet u eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. Voor het behalen van het brevet moet u eerst slagen voor een schriftelijk en een mondeling examen.</p>","nl":"<p>Om rijinstructeur te worden, moet u een brevet van beroepsbekwaamheid behalen. Om een rijschool te starten, moet u eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. Voor het behalen van het brevet moet u eerst slagen voor een schriftelijk en een mondeling examen.</p>","nl-BE-x-generated-informal":"<p>Om rijinstructeur te worden, moet je een brevet van beroepsbekwaamheid behalen. Om een rijschool te starten, moet je eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. Voor het behalen van het brevet moet je eerst slagen voor een schriftelijk en een mondeling examen.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-12-22T10:47:08Z","laatstGewijzigd":"2023-10-05T12:13:56Z","laatstOntvangen":"2024-08-21T08:45:34.940626669Z","productnummer":"2876","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2159fe35-f6e0-4b76-9cd8-27157b7b71e4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6edb94b2-3615-4832-ab8f-691f58398c5b"},{"id":"b14c9c63-cfb7-4eac-9ad1-bac0c5437329","generatedAtTime":"2024-08-21T08:45:34.79038Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Bepaling van gemeentelijke administratieve sancties voor snelheidsinbreuken","nl":"Bepaling van gemeentelijke administratieve sancties voor snelheidsinbreuken","nl-BE-x-formal":"Bepaling van gemeentelijke administratieve sancties voor snelheidsinbreuken"},"beschrijving":{"nl":"<p>De Vlaamse Regering geeft aan steden en gemeenten de mogelijkheid om voor beperkte snelheidsovertredingen een administratieve geldboete te bepalen. U kunt als lokaal bestuur kiezen of u beperkte snelheidsinbreuken zelf wilt afhandelen of niet.</p><p>Als u als stad of gemeente zelf administratieve geldboetes wilt invoeren, zullen die snelheidsovertredingen volledig uit het strafrecht worden gehaald.</p>","nl-BE-x-formal":"<p>De Vlaamse Regering geeft aan steden en gemeenten de mogelijkheid om voor beperkte snelheidsovertredingen een administratieve geldboete te bepalen. U kunt als lokaal bestuur kiezen of u beperkte snelheidsinbreuken zelf wilt afhandelen of niet.</p><p>Als u als stad of gemeente zelf administratieve geldboetes wilt invoeren, zullen die snelheidsovertredingen volledig uit het strafrecht worden gehaald.</p>","nl-BE-x-generated-informal":"<p>De Vlaamse Regering geeft aan steden en gemeenten de mogelijkheid om voor beperkte snelheidsovertredingen een administratieve geldboete te bepalen. Je kan als lokaal bestuur kiezen of je beperkte snelheidsinbreuken zelf wilt afhandelen of niet.</p><p>Als je als stad of gemeente zelf administratieve geldboetes wilt invoeren, zullen die snelheidsovertredingen volledig uit het strafrecht worden gehaald.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["LokaalBestuur"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-07-28T08:09:11Z","laatstGewijzigd":"2023-11-30T10:06:43Z","laatstOntvangen":"2024-08-21T08:45:34.71141269Z","productnummer":"2493","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b14c9c63-cfb7-4eac-9ad1-bac0c5437329","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0946d567-263f-431c-800d-e2f8277ac2d5"},{"id":"d0737915-a3d2-4637-bcd0-079f580ebf08","generatedAtTime":"2024-08-21T08:45:34.547417Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies Burgerparticipatie","nl-BE-x-generated-informal":"Subsidies Burgerparticipatie","nl-BE-x-formal":"Subsidies Burgerparticipatie"},"beschrijving":{"nl-BE-x-formal":"<p>De subsidies burgerparticipatie zijn subsidies aan verenigingen van burgers voor participatie in de uitwerking van bepaalde mobiliteitsprojecten, bijvoorbeeld in het kader van leefbaarheid.</p>","nl-BE-x-generated-informal":"<p>De subsidies burgerparticipatie zijn subsidies aan verenigingen van burgers voor participatie in de uitwerking van bepaalde mobiliteitsprojecten, bijvoorbeeld in het kader van leefbaarheid.</p>","nl":"<p>De subsidies burgerparticipatie zijn subsidies aan verenigingen van burgers voor participatie in de uitwerking van bepaalde mobiliteitsprojecten, bijvoorbeeld in het kader van leefbaarheid.</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<ul><li>Uitgavendecreet</li></ul>","nl":"<ul><li>Uitgavendecreet</li></ul>","nl-BE-x-formal":"<ul><li>Uitgavendecreet</li></ul>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"contactOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-06-01T09:41:53Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:34.467618457Z","productnummer":"2423","gearchiveerd":false,"subsidiemaatregel":"ME","metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d0737915-a3d2-4637-bcd0-079f580ebf08","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/92b6aed3-2f57-448b-98ad-0f996f5e67f9"},{"id":"85c7faad-bb5e-4cc4-88cc-fce85ecbcc67","generatedAtTime":"2024-08-21T08:45:34.285951Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Gemeentelijke mobiliteitsplannen","nl-BE-x-formal":"Gemeentelijke mobiliteitsplannen","nl":"Gemeentelijke mobiliteitsplannen"},"beschrijving":{"nl-BE-x-formal":"<p>Gemeentelijke mobiliteitsplannen</p>","nl-BE-x-generated-informal":"<p>Gemeentelijke mobiliteitsplannen</p>","nl":"<p>Gemeentelijke mobiliteitsplannen</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Mobiliteitsdecreet en decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-formal":"<p>Mobiliteitsdecreet en decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-generated-informal":"<p>Mobiliteitsdecreet en decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-04-27T14:07:22Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:34.217270551Z","productnummer":"2202","gearchiveerd":false,"subsidiemaatregel":"ML","metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/85c7faad-bb5e-4cc4-88cc-fce85ecbcc67","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/add1e9f1-f245-4c2f-afd2-8f53e3c64188"},{"id":"1b96667a-1bf3-4627-b992-73ced46106f1","generatedAtTime":"2024-08-21T08:45:34.044286Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Subsidiëring Hoppinpunten","nl-BE-x-generated-informal":"Subsidiëring Hoppinpunten","nl":"Subsidiëring Hoppinpunten"},"beschrijving":{"nl":"<p>Subsidiëring Hoppinpunten</p>","nl-BE-x-formal":"<p>Subsidiëring Hoppinpunten</p>","nl-BE-x-generated-informal":"<p>Subsidiëring Hoppinpunten</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-formal":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-04-27T14:07:22Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:33.97049378Z","productnummer":"2201","gearchiveerd":false,"subsidiemaatregel":"ME","metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1b96667a-1bf3-4627-b992-73ced46106f1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5d312fc7-e121-444a-af32-289ba2d18083"},{"id":"3430809d-6107-44c2-8352-61daffcaae67","generatedAtTime":"2024-08-21T08:45:33.80349Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Steunmaatregel nabehandeling","nl":"Steunmaatregel nabehandeling","nl-BE-x-formal":"Steunmaatregel nabehandeling"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Steunmaatregel nabehandeling</p>","nl":"<p>Steunmaatregel nabehandeling</p>","nl-BE-x-formal":"<p>Steunmaatregel nabehandeling</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>oprichtingsdecreet DVW, art 5, §2 7°</p>","nl-BE-x-formal":"<p>oprichtingsdecreet DVW, art 5, §2 7°</p>","nl-BE-x-generated-informal":"<p>oprichtingsdecreet DVW, art 5, §2 7°</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-04-27T14:01:35Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:33.732950617Z","productnummer":"2200","gearchiveerd":false,"subsidiemaatregel":"MV","metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3430809d-6107-44c2-8352-61daffcaae67","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/9a38a03a-fdcb-48ee-b006-9b7b4f1c9871"},{"id":"015cf2e8-5d71-49fd-9629-aacd656b610d","generatedAtTime":"2024-08-21T08:45:33.592633Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie afval Vlaams-Brabant","nl-BE-x-formal":"Subsidie afval Vlaams-Brabant","nl-BE-x-generated-informal":"Subsidie afval Vlaams-Brabant"},"beschrijving":{"nl":"<p>Subsidie afval Vlaams-Brabant</p>","nl-BE-x-formal":"<p>Subsidie afval Vlaams-Brabant</p>","nl-BE-x-generated-informal":"<p>Subsidie afval Vlaams-Brabant</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>oprichtingsdecreet DVW, art 5, §2 7°</p>","nl-BE-x-formal":"<p>oprichtingsdecreet DVW, art 5, §2 7°</p>","nl-BE-x-generated-informal":"<p>oprichtingsdecreet DVW, art 5, §2 7°</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-04-27T14:01:35Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:33.518027261Z","productnummer":"2199","gearchiveerd":false,"subsidiemaatregel":"MV","metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/015cf2e8-5d71-49fd-9629-aacd656b610d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4e76b5c0-3ed9-4965-8c2f-11d03b1634fb"},{"id":"13dcf818-2d75-4898-b4d5-f6dbfd5e95e9","generatedAtTime":"2024-08-21T08:45:33.383692Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Palletvervoer over de waterweg","nl":"Palletvervoer over de waterweg","nl-BE-x-generated-informal":"Palletvervoer over de waterweg"},"beschrijving":{"nl":"<p>Palletvervoer over de waterweg</p>","nl-BE-x-formal":"<p>Palletvervoer over de waterweg</p>","nl-BE-x-generated-informal":"<p>Palletvervoer over de waterweg</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>oprichtingsdecreet DVW, art 5, §2 7°</p>","nl-BE-x-formal":"<p>oprichtingsdecreet DVW, art 5, §2 7°</p>","nl-BE-x-generated-informal":"<p>oprichtingsdecreet DVW, art 5, §2 7°</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-04-27T14:01:35Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:33.310713333Z","productnummer":"2198","gearchiveerd":false,"subsidiemaatregel":"MV","metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/13dcf818-2d75-4898-b4d5-f6dbfd5e95e9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e0b14886-ecf1-4a90-94fb-77fb1a6173ed"},{"id":"a0ea3faa-5523-43e6-ad18-1a7600115284","generatedAtTime":"2024-08-21T08:45:33.155082Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Decreetskosten havenbedrijven Maritieme Toegang","nl-BE-x-generated-informal":"Decreetskosten havenbedrijven Maritieme Toegang","nl-BE-x-formal":"Decreetskosten havenbedrijven Maritieme Toegang"},"beschrijving":{"nl":"<p>Decreetskosten havenbedrijven Maritieme Toegang</p>","nl-BE-x-generated-informal":"<p>Decreetskosten havenbedrijven Maritieme Toegang</p>","nl-BE-x-formal":"<p>Decreetskosten havenbedrijven Maritieme Toegang</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>","nl":"<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>","nl-BE-x-generated-informal":"<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-04-27T14:01:35Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:33.080515148Z","productnummer":"2197","gearchiveerd":false,"metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a0ea3faa-5523-43e6-ad18-1a7600115284","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/959b9fda-55f4-44fa-8710-908f7fff8634"},{"id":"959784c0-1deb-42f0-ba8d-6d460b99066c","generatedAtTime":"2024-08-21T08:45:32.926809Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies laadpalen (Relance)","nl-BE-x-formal":"Subsidies laadpalen (Relance)","nl":"Subsidies laadpalen (Relance)"},"beschrijving":{"nl":"<p>Subsidies laadpalen (Relance)</p>","nl-BE-x-formal":"<p>Subsidies laadpalen (Relance)</p>","nl-BE-x-generated-informal":"<p>Subsidies laadpalen (Relance)</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-formal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-04-27T14:01:35Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:32.839768759Z","productnummer":"2196","gearchiveerd":false,"subsidiemaatregel":"ML","metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/959784c0-1deb-42f0-ba8d-6d460b99066c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b8f1903f-cdbd-4c02-9ca4-04986bfaba90"},{"id":"949cd72b-a707-4581-bd03-21f4adff172a","generatedAtTime":"2024-08-21T08:45:32.68236Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies Clean Power for Transport (Relance)","nl-BE-x-formal":"Subsidies Clean Power for Transport (Relance)","nl":"Subsidies Clean Power for Transport (Relance)"},"beschrijving":{"nl":"<p>Subsidies Clean Power for Transport (Relance)</p>","nl-BE-x-generated-informal":"<p>Subsidies Clean Power for Transport (Relance)</p>","nl-BE-x-formal":"<p>Subsidies Clean Power for Transport (Relance)</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Energiedecreet van 8 mei 2009</p>","nl":"<p>Energiedecreet van 8 mei 2009</p>","nl-BE-x-formal":"<p>Energiedecreet van 8 mei 2009</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-04-27T14:01:35Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:32.602306563Z","productnummer":"2195","gearchiveerd":false,"subsidiemaatregel":"ML","metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/949cd72b-a707-4581-bd03-21f4adff172a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/004150b9-8d22-4d8d-9784-84fa2556f560"},{"id":"42490431-0f2a-4046-859d-838f945e9244","generatedAtTime":"2024-08-21T08:45:32.441889Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies internationele ontwikkelingssamenwerking","nl-BE-x-formal":"Subsidies internationele ontwikkelingssamenwerking","nl":"Subsidies internationele ontwikkelingssamenwerking"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidies internationele ontwikkelingssamenwerking</p>","nl-BE-x-generated-informal":"<p>Subsidies internationele ontwikkelingssamenwerking</p>","nl":"<p>Subsidies internationele ontwikkelingssamenwerking</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-formal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2022-04-27T14:01:35Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-21T08:45:32.349622349Z","productnummer":"2194","gearchiveerd":false,"subsidiemaatregel":"MK","metadata":{"uJeVersie":"36.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/42490431-0f2a-4046-859d-838f945e9244","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/068e5da9-548b-481f-8744-ea8a8b9f9a32"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2285",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2286",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2024-08-21T08:45:38.261884Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2284",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2024-08-21T08:45:32.441889Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2285",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "9377e050-7677-4b5e-94ec-8277e2ab4c75",
+      "generatedAtTime": "2024-08-21T08:45:38.261884Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vergunning en erkenning voor (internationaal) geregeld vervoer",
+        "nl-BE-x-formal": "Vergunning en erkenning voor (internationaal) geregeld vervoer",
+        "nl-BE-x-generated-informal": "Vergunning en erkenning voor (internationaal) geregeld vervoer"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>",
+        "nl": "<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om een vergunning en erkenning te krijgen voor (internationaal) geregeld vervoer.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:54Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:38.197281556Z",
+      "productnummer": "2905",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9377e050-7677-4b5e-94ec-8277e2ab4c75",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/289e5cc0-5095-482e-a69f-f505cc9b43b8"
+    },
+    {
+      "id": "248dcd13-d982-4a6e-86c1-5d13249dc2ff",
+      "generatedAtTime": "2024-08-21T08:45:38.055554Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Erkenning als technische dienst",
+        "nl": "Erkenning als technische dienst",
+        "nl-BE-x-formal": "Erkenning als technische dienst"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend technische dienst te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:54Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:37.986796256Z",
+      "productnummer": "2904",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/248dcd13-d982-4a6e-86c1-5d13249dc2ff",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/1bfa7e3b-3a97-4fca-9040-176a32c3b284"
+    },
+    {
+      "id": "65ccbe31-194e-450b-990f-12abfc88948b",
+      "generatedAtTime": "2024-08-21T08:45:37.858453Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Erkenning als rijschool",
+        "nl-BE-x-formal": "Erkenning als rijschool",
+        "nl": "Erkenning als rijschool"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend rijschool te worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend rijschool te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend rijschool te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:54Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:37.796961926Z",
+      "productnummer": "2903",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/65ccbe31-194e-450b-990f-12abfc88948b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/42b77bfe-016f-43e0-a57e-6f270589fbcb"
+    },
+    {
+      "id": "147c354f-024e-4faf-a2f3-1a41907cd44a",
+      "generatedAtTime": "2024-08-21T08:45:37.657203Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Erkenning als opleidingscentrum voor nascholing vakbekwaamheid",
+        "nl": "Erkenning als opleidingscentrum voor nascholing vakbekwaamheid",
+        "nl-BE-x-generated-informal": "Erkenning als opleidingscentrum voor nascholing vakbekwaamheid"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor nascholing vakbekwaamheid te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:37.562940442Z",
+      "productnummer": "2902",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/147c354f-024e-4faf-a2f3-1a41907cd44a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/45e50346-810c-4878-90dc-211e86d2dd7d"
+    },
+    {
+      "id": "aac223d8-1e0b-4f9e-84e2-2d0855209487",
+      "generatedAtTime": "2024-08-21T08:45:37.424699Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)",
+        "nl": "Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)",
+        "nl-BE-x-generated-informal": "Erkenning als opleidingscentrum voor langere en zwaardere vrachtwagen (LZV)"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor LZV te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:37.340472765Z",
+      "productnummer": "2901",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/aac223d8-1e0b-4f9e-84e2-2d0855209487",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/8083492d-272c-47d4-af52-426c0b4b76b3"
+    },
+    {
+      "id": "c8ffc8f8-5838-45ee-ac87-a23503186d14",
+      "generatedAtTime": "2024-08-21T08:45:37.118954Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)",
+        "nl-BE-x-generated-informal": "Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)",
+        "nl-BE-x-formal": "Erkenning als opleidingscentrum voor vervoer van gevaarlijke goederen (ADR)"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>",
+        "nl": "<p>Procedure en voorwaarden om erkend opleidingscentrum voor ADR te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-08-04T13:33:53Z",
+      "laatstOntvangen": "2024-08-21T08:45:37.043611678Z",
+      "productnummer": "2900",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c8ffc8f8-5838-45ee-ac87-a23503186d14",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fdb0d42e-376b-420e-9113-45ab672d8632"
+    },
+    {
+      "id": "e3cbdf26-6fb4-4320-a51c-54fd268c6b10",
+      "generatedAtTime": "2024-08-21T08:45:36.885438Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning als instelling voor het terugkommoment",
+        "nl-BE-x-formal": "Erkenning als instelling voor het terugkommoment",
+        "nl-BE-x-generated-informal": "Erkenning als instelling voor het terugkommoment"
+      },
+      "beschrijving": {
+        "nl": "<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkende instelling voor het terugkommoment te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:36.804146514Z",
+      "productnummer": "2899",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e3cbdf26-6fb4-4320-a51c-54fd268c6b10",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/50754efd-b247-4751-833c-3307b894956c"
+    },
+    {
+      "id": "7d3d5fb4-502a-466d-b23e-ac43e65c82e9",
+      "generatedAtTime": "2024-08-21T08:45:36.627806Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Erkenning als fabrikant voor Conformiteit van Productie (COP)",
+        "nl": "Erkenning als fabrikant voor Conformiteit van Productie (COP)",
+        "nl-BE-x-formal": "Erkenning als fabrikant voor Conformiteit van Productie (COP)"
+      },
+      "beschrijving": {
+        "nl": "<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om erkend fabrikant voor Conformiteit van Productie (COP) te worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:36.555694106Z",
+      "productnummer": "2898",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7d3d5fb4-502a-466d-b23e-ac43e65c82e9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/adee96a8-b573-4a04-944f-9a9f41bb81f8"
+    },
+    {
+      "id": "b5e07f5d-9ecf-4d54-88f0-1f288683a95b",
+      "generatedAtTime": "2024-08-21T08:45:36.374054Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Communautaire vergunning",
+        "nl": "Communautaire vergunning",
+        "nl-BE-x-formal": "Communautaire vergunning"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>",
+        "nl-BE-x-formal": "<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>",
+        "nl": "<p>Procedure en voorwaarden om een communautaire vergunning te krijgen.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:36.305047275Z",
+      "productnummer": "2897",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5e07f5d-9ecf-4d54-88f0-1f288683a95b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e9119093-6d6a-4bcc-b120-e82883fe4a1d"
+    },
+    {
+      "id": "b57f3083-7efa-4725-ab63-0f64487343ae",
+      "generatedAtTime": "2024-08-21T08:45:36.160284Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning als LZV-bestuurder",
+        "nl-BE-x-formal": "Erkenning als LZV-bestuurder",
+        "nl-BE-x-generated-informal": "Erkenning als LZV-bestuurder"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Langere en zwaardere vrachtwagens (LZV’s) zijn tot 25,25 meter lang en hebben een totale massa tot 60 ton. Om met een LZV te mogen rijden, moet u een erkenning krijgen.</p>",
+        "nl": "<p>Langere en zwaardere vrachtwagens (LZV’s) zijn tot 25,25 meter lang en hebben een totale massa tot 60 ton. Om met een LZV te mogen rijden, moet u een erkenning krijgen.</p>",
+        "nl-BE-x-generated-informal": "<p>Langere en zwaardere vrachtwagens (LZV’s) zijn tot 25,25 meter lang en hebben een totale massa tot 60 ton. Om met een LZV te mogen rijden, moet je een erkenning krijgen.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>Om met een langere en zwaardere vrachtwagen (LZV) te rijden, moet je voldoen aan 3 voorwaarden:</p><ol><li>Je bent in het bezit van een <strong>bekwaamheidsattest</strong> of een gelijkwaardig attest</li><li>Je hebt <strong>minimaal 5 jaar ervaring met het besturen van een vrachtwagencombinatie</strong> waarvoor een <strong>rijbewijs C+E</strong> vereist is.</li><li>Je hebt de <strong>laatste 3 jaar geen rijverbod van meer dan 15 dagen</strong> gehad. Je bent als hoofdstraf dus niet voor meer dan 15 dagen van het recht vervallen geweest om een motorvoertuig te besturen.</li></ol>",
+            "nl": "<p>Om met een langere en zwaardere vrachtwagen (LZV) te rijden, moet u voldoen aan 3 voorwaarden:</p><ol><li>U bent in het bezit van een <strong>bekwaamheidsattest</strong> of een gelijkwaardig attest</li><li>U hebt <strong>minimaal 5 jaar ervaring met het besturen van een vrachtwagencombinatie</strong> waarvoor een <strong>rijbewijs C+E</strong> vereist is.</li><li>U hebt de <strong>laatste 3 jaar geen rijverbod van meer dan 15 dagen</strong> gehad. U bent als hoofdstraf dus niet voor meer dan 15 dagen van het recht vervallen geweest om een motorvoertuig te besturen.</li></ol>",
+            "nl-BE-x-formal": "<p>Om met een langere en zwaardere vrachtwagen (LZV) te rijden, moet u voldoen aan 3 voorwaarden:</p><ol><li>U bent in het bezit van een <strong>bekwaamheidsattest</strong> of een gelijkwaardig attest</li><li>U hebt <strong>minimaal 5 jaar ervaring met het besturen van een vrachtwagencombinatie</strong> waarvoor een <strong>rijbewijs C+E</strong> vereist is.</li><li>U hebt de <strong>laatste 3 jaar geen rijverbod van meer dan 15 dagen</strong> gehad. U bent als hoofdstraf dus niet voor meer dan 15 dagen van het recht vervallen geweest om een motorvoertuig te besturen.</li></ol>"
+          },
+          "naam": {
+            "nl-BE-x-formal": "Voorwaarden",
+            "nl-BE-x-generated-informal": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>Om een bekwaamheidsattest te krijgen, moet u een opleiding volgen en slagen voor het examen.</p>",
+            "nl": "<p>Om een bekwaamheidsattest te krijgen, moet u een opleiding volgen en slagen voor het examen.</p>",
+            "nl-BE-x-generated-informal": "<p>Om een bekwaamheidsattest te krijgen, moet je een opleiding volgen en slagen voor het examen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-10-05T13:22:04Z",
+      "laatstOntvangen": "2024-08-21T08:45:36.038320712Z",
+      "productnummer": "2896",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b57f3083-7efa-4725-ab63-0f64487343ae",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/9b3754a0-7c58-4adb-ae00-37c8fa504167"
+    },
+    {
+      "id": "3007de8f-7dcc-49f8-acf6-ff4136fb9d86",
+      "generatedAtTime": "2024-08-21T08:45:35.889543Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "en": "Recognition as driving instructor",
+        "nl-BE-x-generated-informal": "Erkenning als rijinstructeur",
+        "nl": "Erkenning als rijinstructeur",
+        "nl-BE-x-formal": "Erkenning als rijinstructeur"
+      },
+      "beschrijving": {
+        "en": "<p>If you want to teach people to drive as a driving instructor, you must obtain a certificate of professional competence. This depends on whether you opt for theory or practical lessons and on the type of vehicle by means of which you want to teach your pupils how to drive: a motorcycle, car, bus, truck or agricultural vehicle.</p><ul></ul><ul></ul>",
+        "nl": "<p>Om rijinstructeur te worden, moet u een brevet van beroepsbekwaamheid behalen. Het type brevet hangt af van uw keuze voor theorie of praktijk en het type voertuig waarmee u uw leerlingen wilt leren rijden. U moet:</p><ul><li>slagen voor een schriftelijk en mondeling examen</li><li>een stage afleggen</li><li>een modelles geven.</li></ul>",
+        "nl-BE-x-generated-informal": "<p>Om rijinstructeur te worden, moet je een brevet van beroepsbekwaamheid behalen. Het type brevet hangt af van jouw keuze voor theorie of praktijk en het type voertuig waarmee je jouw leerlingen wilt leren rijden. Je moet:</p><ul><li>slagen voor een schriftelijk en mondeling examen</li><li>een stage afleggen</li><li>een modelles geven.</li></ul>",
+        "nl-BE-x-formal": "<p>Om rijinstructeur te worden, moet u een brevet van beroepsbekwaamheid behalen. Het type brevet hangt af van uw keuze voor theorie of praktijk en het type voertuig waarmee u uw leerlingen wilt leren rijden. U moet:</p><ul><li>slagen voor een schriftelijk en mondeling examen</li><li>een stage afleggen</li><li>een modelles geven.</li></ul>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>To become a driving instructor, you must:</p><ul><li><p>pass a written and oral test</p></li><li>do a traineeship</li><li>give a demonstration lesson.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2024-01-12T14:44:37Z",
+      "laatstOntvangen": "2024-08-21T08:45:35.816228548Z",
+      "productnummer": "2895",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3007de8f-7dcc-49f8-acf6-ff4136fb9d86",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/29604d55-b29d-4310-8bb6-1da1b8ad68d9"
+    },
+    {
+      "id": "e6090ee7-2bc7-4325-a6f6-1e3b75b972c5",
+      "generatedAtTime": "2024-08-21T08:45:35.62285Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Erkenning als rijschooldirecteur",
+        "nl": "Erkenning als rijschooldirecteur",
+        "en": "Recognition as driving school director",
+        "nl-BE-x-formal": "Erkenning als rijschooldirecteur"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Om een rijschool te starten, moet je eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. Je kan alleen directeur worden als je al minstens 3 jaar een brevet als theorie- én praktijkinstructeur hebt. Je moet slagen voor een mondeling en een schriftelijk examen.</p>",
+        "nl-BE-x-formal": "<p>Om een rijschool te starten, moet u eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. U kunt alleen directeur worden als u al minstens 3 jaar een brevet als theorie- én praktijkinstructeur hebt. U moet slagen voor een mondeling en een schriftelijk examen.</p>",
+        "nl": "<p>Om een rijschool te starten, moet u eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. U kunt alleen directeur worden als u al minstens 3 jaar een brevet als theorie- én praktijkinstructeur hebt. U moet slagen voor een mondeling en een schriftelijk examen.</p>",
+        "en": "<p>If you want to start a driving school, you must obtain a certificate and permit to become a driving school director.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "contactBeschrijving": {
+        "en": "<p><a href=\"https://www.mow-contact.be/contactformulier.php\">Contact point Department of Mobility and Public Works</a></p>"
+      },
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl-BE-x-formal": "<div><div><p>Er bestaat geen opleiding om rijschooldirecteur te worden. Tijdens de examens toont u aan dat u weet hoe u een rijschool moet leiden en beheren. U kunt daarvoor eventueel een cursus bedrijfsbeheer volgen.</p></div></div>",
+            "nl-BE-x-generated-informal": "<div><div><p>Er bestaat geen opleiding om rijschooldirecteur te worden. Tijdens de examens toon je aan dat je weet hoe je een rijschool moet leiden en beheren. Je kan daarvoor eventueel een cursus bedrijfsbeheer volgen.</p></div></div>",
+            "en": "<div><div><p>You can only submit an application to become a driving school director:</p><ul><li>if you have held a certificate as instructor in both theory and practice for at least 3 years</li><li>and when you have passed an oral and written test.</li></ul><p>There is no formal training for driving school directors. During the exams you must prove that you know how to run a driving school.</p></div></div>",
+            "nl": "<div><div><p>Er bestaat geen opleiding om rijschooldirecteur te worden. Tijdens de examens toont u aan dat u weet hoe u een rijschool moet leiden en beheren. U kunt daarvoor eventueel een cursus bedrijfsbeheer volgen.</p></div></div>"
+          },
+          "naam": {
+            "en": "Requirements",
+            "nl-BE-x-formal": "Voorwaarden",
+            "nl-BE-x-generated-informal": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<h3>Examens</h3><p>De examens worden door het Departement Mobiliteit en Openbare Werken (MOW) op vaste momenten (zittijden) georganiseerd.</p><p>Bent u voor het schriftelijke examen geslaagd? Dan krijgt u na ongeveer 3 weken een brief met daarin de datum en de plaats van het mondelinge examen.</p><p>Slaagt u niet voor het volledige examen, maar wel voor 1 onderdeel? Dan kan de examencommissie u voor dat onderdeel een vrijstelling geven voor een volgende zittijd.</p><p>Meteen na het mondelinge examen krijgt u te horen of u geslaagd bent.</p><h3>Directietoelating</h3><p>Bent u geslaagd? Dan krijgt u van het Departement MOW een aanvraag tot directietoelating. Vul die in en stuur ze samen met een kopie van uw rijbewijs en een uittreksel uit het strafregister model 2 terug naar het departement. Zodra u uw directietoelating hebt, bent u rijschooldirecteur.</p><p>Als rijschooldirecteur krijgt u een code 101 op uw rijbewijs. Die code is het bewijs van uw directietoelating.</p>",
+            "nl-BE-x-generated-informal": "<h3>Examens</h3><p>De examens worden door het Departement Mobiliteit en Openbare Werken (MOW) op vaste momenten (zittijden) georganiseerd.</p><p>Ben je voor het schriftelijke examen geslaagd? Dan krijg je na ongeveer 3 weken een brief met daarin de datum en de plaats van het mondelinge examen.</p><p>Slaag je niet voor het volledige examen, maar wel voor 1 onderdeel? Dan kan de examencommissie je voor dat onderdeel een vrijstelling geven voor een volgende zittijd.</p><p>Meteen na het mondelinge examen krijg je te horen of je geslaagd bent.</p><h3>Directietoelating</h3><p>Ben je geslaagd? Dan krijg je van het Departement MOW een aanvraag tot directietoelating. Vul die in en stuur ze samen met een kopie van jouw rijbewijs en een uittreksel uit het strafregister model 2 terug naar het departement. Zodra je jouw directietoelating hebt, ben je rijschooldirecteur.</p><p>Als rijschooldirecteur krijg je een code 101 op jouw rijbewijs. Die code is het bewijs van jouw directietoelating.</p>",
+            "nl-BE-x-formal": "<h3>Examens</h3><p>De examens worden door het Departement Mobiliteit en Openbare Werken (MOW) op vaste momenten (zittijden) georganiseerd.</p><p>Bent u voor het schriftelijke examen geslaagd? Dan krijgt u na ongeveer 3 weken een brief met daarin de datum en de plaats van het mondelinge examen.</p><p>Slaagt u niet voor het volledige examen, maar wel voor 1 onderdeel? Dan kan de examencommissie u voor dat onderdeel een vrijstelling geven voor een volgende zittijd.</p><p>Meteen na het mondelinge examen krijgt u te horen of u geslaagd bent.</p><h3>Directietoelating</h3><p>Bent u geslaagd? Dan krijgt u van het Departement MOW een aanvraag tot directietoelating. Vul die in en stuur ze samen met een kopie van uw rijbewijs en een uittreksel uit het strafregister model 2 terug naar het departement. Zodra u uw directietoelating hebt, bent u rijschooldirecteur.</p><p>Als rijschooldirecteur krijgt u een code 101 op uw rijbewijs. Die code is het bewijs van uw directietoelating.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Om aan het schriftelijke en mondelinge examen voor rijschooldirecteur deel te nemen, moet u 27 euro inschrijvingsgeld betalen.</p>",
+            "nl-BE-x-formal": "<p>Om aan het schriftelijke en mondelinge examen voor rijschooldirecteur deel te nemen, moet u 27 euro inschrijvingsgeld betalen.</p>",
+            "nl-BE-x-generated-informal": "<p>Om aan het schriftelijke en mondelinge examen voor rijschooldirecteur deel te nemen, moet je 27 euro inschrijvingsgeld betalen.</p>"
+          },
+          "naam": {
+            "nl": "Inschrijvingsgeld",
+            "nl-BE-x-formal": "Inschrijvingsgeld",
+            "nl-BE-x-generated-informal": "Inschrijvingsgeld"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2024-01-12T14:44:37Z",
+      "laatstOntvangen": "2024-08-21T08:45:35.464870672Z",
+      "productnummer": "2894",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e6090ee7-2bc7-4325-a6f6-1e3b75b972c5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/522d929a-8fcf-41cd-805f-615ec572cfee"
+    },
+    {
+      "id": "3638a8b6-e5ad-445a-95cf-27c951020e94",
+      "generatedAtTime": "2024-08-21T08:45:35.28705Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Erkenning als lesgever voor het terugkommoment",
+        "nl": "Erkenning als lesgever voor het terugkommoment",
+        "nl-BE-x-formal": "Erkenning als lesgever voor het terugkommoment"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Wil je als lesgever 1 of meer onderdelen van het terugkommoment voor rijbewijs B geven? Dan moet je een basisopleiding en 1 of 2 bijkomende opleidingen volgen en je laten erkennen als lesgever van het terugkommoment.</p>",
+        "nl-BE-x-formal": "<p>Wilt u als lesgever 1 of meer onderdelen van het terugkommoment voor rijbewijs B geven? Dan moet u een basisopleiding en 1 of 2 bijkomende opleidingen volgen en u laten erkennen als lesgever van het terugkommoment.</p>",
+        "nl": "<p>Wilt u als lesgever 1 of meer onderdelen van het terugkommoment voor rijbewijs B geven? Dan moet u een basisopleiding en 1 of 2 bijkomende opleidingen volgen en u laten erkennen als lesgever van het terugkommoment.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-formal": "<h3><strong>Verplichte opleidingen</strong></h3><ul><li>basisopleiding van 7 uur</li><li>voor de kennismaking en het groepsgesprek: bijkomende opleiding van 14 uur</li><li>voor de praktijkoefeningen: bijkomende opleiding van 7 uur.</li></ul><p>Het is belangrijk dat u de opleidingen in volgorde volgt: eerst de basisopleiding en pas daarna de praktijkopleiding en/of de opleiding groepsgesprek.</p><p>Na afloop van elke opleiding krijgt u een <strong>getuigschrift</strong>, waarvan u een kopie moet bezorgen aan de erkende instelling(en) waar u wilt lesgeven. De opleidingsuren tellen mee als uren verplichte bijscholing voor rijinstructeurs in het jaar dat u het getuigschrift behaalt.</p>",
+            "nl": "<h3><strong>Verplichte opleidingen</strong></h3><ul><li>basisopleiding van 7 uur</li><li>voor de kennismaking en het groepsgesprek: bijkomende opleiding van 14 uur</li><li>voor de praktijkoefeningen: bijkomende opleiding van 7 uur.</li></ul><p>Het is belangrijk dat u de opleidingen in volgorde volgt: eerst de basisopleiding en pas daarna de praktijkopleiding en/of de opleiding groepsgesprek.</p><p>Na afloop van elke opleiding krijgt u een <strong>getuigschrift</strong>, waarvan u een kopie moet bezorgen aan de erkende instelling(en) waar u wilt lesgeven. De opleidingsuren tellen mee als uren verplichte bijscholing voor rijinstructeurs in het jaar dat u het getuigschrift behaalt.</p>",
+            "nl-BE-x-generated-informal": "<h3><strong>Verplichte opleidingen</strong></h3><ul><li>basisopleiding van 7 uur</li><li>voor de kennismaking en het groepsgesprek: bijkomende opleiding van 14 uur</li><li>voor de praktijkoefeningen: bijkomende opleiding van 7 uur.</li></ul><p>Het is belangrijk dat je de opleidingen in volgorde volgt: eerst de basisopleiding en pas daarna de praktijkopleiding en/of de opleiding groepsgesprek.</p><p>Na afloop van elke opleiding krijg je een <strong>getuigschrift</strong>, waarvan je een kopie moet bezorgen aan de erkende instelling(en) waar je wilt lesgeven. De opleidingsuren tellen mee als uren verplichte bijscholing voor rijinstructeurs in het jaar dat je het getuigschrift behaalt.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-01-27T14:01:51Z",
+      "laatstGewijzigd": "2023-10-05T14:43:19Z",
+      "laatstOntvangen": "2024-08-21T08:45:35.18219134Z",
+      "productnummer": "2893",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3638a8b6-e5ad-445a-95cf-27c951020e94",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3f1e5e8f-617a-4a86-b879-7e31ff96652a"
+    },
+    {
+      "id": "2159fe35-f6e0-4b76-9cd8-27157b7b71e4",
+      "generatedAtTime": "2024-08-21T08:45:35.0252Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Examen voor rijinstructeur of rijschooldirecteur",
+        "nl": "Examen voor rijinstructeur of rijschooldirecteur",
+        "nl-BE-x-formal": "Examen voor rijinstructeur of rijschooldirecteur"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Om rijinstructeur te worden, moet u een brevet van beroepsbekwaamheid behalen. Om een rijschool te starten, moet u eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. Voor het behalen van het brevet moet u eerst slagen voor een schriftelijk en een mondeling examen.</p>",
+        "nl": "<p>Om rijinstructeur te worden, moet u een brevet van beroepsbekwaamheid behalen. Om een rijschool te starten, moet u eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. Voor het behalen van het brevet moet u eerst slagen voor een schriftelijk en een mondeling examen.</p>",
+        "nl-BE-x-generated-informal": "<p>Om rijinstructeur te worden, moet je een brevet van beroepsbekwaamheid behalen. Om een rijschool te starten, moet je eerst een brevet als rijschooldirecteur en een directietoelating hebben of behalen. Voor het behalen van het brevet moet je eerst slagen voor een schriftelijk en een mondeling examen.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-12-22T10:47:08Z",
+      "laatstGewijzigd": "2023-10-05T12:13:56Z",
+      "laatstOntvangen": "2024-08-21T08:45:34.940626669Z",
+      "productnummer": "2876",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2159fe35-f6e0-4b76-9cd8-27157b7b71e4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6edb94b2-3615-4832-ab8f-691f58398c5b"
+    },
+    {
+      "id": "b14c9c63-cfb7-4eac-9ad1-bac0c5437329",
+      "generatedAtTime": "2024-08-21T08:45:34.79038Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Bepaling van gemeentelijke administratieve sancties voor snelheidsinbreuken",
+        "nl": "Bepaling van gemeentelijke administratieve sancties voor snelheidsinbreuken",
+        "nl-BE-x-formal": "Bepaling van gemeentelijke administratieve sancties voor snelheidsinbreuken"
+      },
+      "beschrijving": {
+        "nl": "<p>De Vlaamse Regering geeft aan steden en gemeenten de mogelijkheid om voor beperkte snelheidsovertredingen een administratieve geldboete te bepalen. U kunt als lokaal bestuur kiezen of u beperkte snelheidsinbreuken zelf wilt afhandelen of niet.</p><p>Als u als stad of gemeente zelf administratieve geldboetes wilt invoeren, zullen die snelheidsovertredingen volledig uit het strafrecht worden gehaald.</p>",
+        "nl-BE-x-formal": "<p>De Vlaamse Regering geeft aan steden en gemeenten de mogelijkheid om voor beperkte snelheidsovertredingen een administratieve geldboete te bepalen. U kunt als lokaal bestuur kiezen of u beperkte snelheidsinbreuken zelf wilt afhandelen of niet.</p><p>Als u als stad of gemeente zelf administratieve geldboetes wilt invoeren, zullen die snelheidsovertredingen volledig uit het strafrecht worden gehaald.</p>",
+        "nl-BE-x-generated-informal": "<p>De Vlaamse Regering geeft aan steden en gemeenten de mogelijkheid om voor beperkte snelheidsovertredingen een administratieve geldboete te bepalen. Je kan als lokaal bestuur kiezen of je beperkte snelheidsinbreuken zelf wilt afhandelen of niet.</p><p>Als je als stad of gemeente zelf administratieve geldboetes wilt invoeren, zullen die snelheidsovertredingen volledig uit het strafrecht worden gehaald.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "LokaalBestuur"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-07-28T08:09:11Z",
+      "laatstGewijzigd": "2023-11-30T10:06:43Z",
+      "laatstOntvangen": "2024-08-21T08:45:34.71141269Z",
+      "productnummer": "2493",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b14c9c63-cfb7-4eac-9ad1-bac0c5437329",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0946d567-263f-431c-800d-e2f8277ac2d5"
+    },
+    {
+      "id": "d0737915-a3d2-4637-bcd0-079f580ebf08",
+      "generatedAtTime": "2024-08-21T08:45:34.547417Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies Burgerparticipatie",
+        "nl-BE-x-generated-informal": "Subsidies Burgerparticipatie",
+        "nl-BE-x-formal": "Subsidies Burgerparticipatie"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>De subsidies burgerparticipatie zijn subsidies aan verenigingen van burgers voor participatie in de uitwerking van bepaalde mobiliteitsprojecten, bijvoorbeeld in het kader van leefbaarheid.</p>",
+        "nl-BE-x-generated-informal": "<p>De subsidies burgerparticipatie zijn subsidies aan verenigingen van burgers voor participatie in de uitwerking van bepaalde mobiliteitsprojecten, bijvoorbeeld in het kader van leefbaarheid.</p>",
+        "nl": "<p>De subsidies burgerparticipatie zijn subsidies aan verenigingen van burgers voor participatie in de uitwerking van bepaalde mobiliteitsprojecten, bijvoorbeeld in het kader van leefbaarheid.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<ul><li>Uitgavendecreet</li></ul>",
+        "nl": "<ul><li>Uitgavendecreet</li></ul>",
+        "nl-BE-x-formal": "<ul><li>Uitgavendecreet</li></ul>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-06-01T09:41:53Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:34.467618457Z",
+      "productnummer": "2423",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ME",
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d0737915-a3d2-4637-bcd0-079f580ebf08",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/92b6aed3-2f57-448b-98ad-0f996f5e67f9"
+    },
+    {
+      "id": "85c7faad-bb5e-4cc4-88cc-fce85ecbcc67",
+      "generatedAtTime": "2024-08-21T08:45:34.285951Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Gemeentelijke mobiliteitsplannen",
+        "nl-BE-x-formal": "Gemeentelijke mobiliteitsplannen",
+        "nl": "Gemeentelijke mobiliteitsplannen"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Gemeentelijke mobiliteitsplannen</p>",
+        "nl-BE-x-generated-informal": "<p>Gemeentelijke mobiliteitsplannen</p>",
+        "nl": "<p>Gemeentelijke mobiliteitsplannen</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Mobiliteitsdecreet en decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-formal": "<p>Mobiliteitsdecreet en decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-generated-informal": "<p>Mobiliteitsdecreet en decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-04-27T14:07:22Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:34.217270551Z",
+      "productnummer": "2202",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ML",
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/85c7faad-bb5e-4cc4-88cc-fce85ecbcc67",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/add1e9f1-f245-4c2f-afd2-8f53e3c64188"
+    },
+    {
+      "id": "1b96667a-1bf3-4627-b992-73ced46106f1",
+      "generatedAtTime": "2024-08-21T08:45:34.044286Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Subsidiëring Hoppinpunten",
+        "nl-BE-x-generated-informal": "Subsidiëring Hoppinpunten",
+        "nl": "Subsidiëring Hoppinpunten"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidiëring Hoppinpunten</p>",
+        "nl-BE-x-formal": "<p>Subsidiëring Hoppinpunten</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidiëring Hoppinpunten</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-formal": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-04-27T14:07:22Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:33.97049378Z",
+      "productnummer": "2201",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ME",
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1b96667a-1bf3-4627-b992-73ced46106f1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5d312fc7-e121-444a-af32-289ba2d18083"
+    },
+    {
+      "id": "3430809d-6107-44c2-8352-61daffcaae67",
+      "generatedAtTime": "2024-08-21T08:45:33.80349Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Steunmaatregel nabehandeling",
+        "nl": "Steunmaatregel nabehandeling",
+        "nl-BE-x-formal": "Steunmaatregel nabehandeling"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Steunmaatregel nabehandeling</p>",
+        "nl": "<p>Steunmaatregel nabehandeling</p>",
+        "nl-BE-x-formal": "<p>Steunmaatregel nabehandeling</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>oprichtingsdecreet DVW, art 5, §2 7°</p>",
+        "nl-BE-x-formal": "<p>oprichtingsdecreet DVW, art 5, §2 7°</p>",
+        "nl-BE-x-generated-informal": "<p>oprichtingsdecreet DVW, art 5, §2 7°</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-04-27T14:01:35Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:33.732950617Z",
+      "productnummer": "2200",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MV",
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3430809d-6107-44c2-8352-61daffcaae67",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/9a38a03a-fdcb-48ee-b006-9b7b4f1c9871"
+    },
+    {
+      "id": "015cf2e8-5d71-49fd-9629-aacd656b610d",
+      "generatedAtTime": "2024-08-21T08:45:33.592633Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie afval Vlaams-Brabant",
+        "nl-BE-x-formal": "Subsidie afval Vlaams-Brabant",
+        "nl-BE-x-generated-informal": "Subsidie afval Vlaams-Brabant"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie afval Vlaams-Brabant</p>",
+        "nl-BE-x-formal": "<p>Subsidie afval Vlaams-Brabant</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidie afval Vlaams-Brabant</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>oprichtingsdecreet DVW, art 5, §2 7°</p>",
+        "nl-BE-x-formal": "<p>oprichtingsdecreet DVW, art 5, §2 7°</p>",
+        "nl-BE-x-generated-informal": "<p>oprichtingsdecreet DVW, art 5, §2 7°</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-04-27T14:01:35Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:33.518027261Z",
+      "productnummer": "2199",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MV",
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/015cf2e8-5d71-49fd-9629-aacd656b610d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4e76b5c0-3ed9-4965-8c2f-11d03b1634fb"
+    },
+    {
+      "id": "13dcf818-2d75-4898-b4d5-f6dbfd5e95e9",
+      "generatedAtTime": "2024-08-21T08:45:33.383692Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Palletvervoer over de waterweg",
+        "nl": "Palletvervoer over de waterweg",
+        "nl-BE-x-generated-informal": "Palletvervoer over de waterweg"
+      },
+      "beschrijving": {
+        "nl": "<p>Palletvervoer over de waterweg</p>",
+        "nl-BE-x-formal": "<p>Palletvervoer over de waterweg</p>",
+        "nl-BE-x-generated-informal": "<p>Palletvervoer over de waterweg</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>oprichtingsdecreet DVW, art 5, §2 7°</p>",
+        "nl-BE-x-formal": "<p>oprichtingsdecreet DVW, art 5, §2 7°</p>",
+        "nl-BE-x-generated-informal": "<p>oprichtingsdecreet DVW, art 5, §2 7°</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-04-27T14:01:35Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:33.310713333Z",
+      "productnummer": "2198",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MV",
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/13dcf818-2d75-4898-b4d5-f6dbfd5e95e9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e0b14886-ecf1-4a90-94fb-77fb1a6173ed"
+    },
+    {
+      "id": "a0ea3faa-5523-43e6-ad18-1a7600115284",
+      "generatedAtTime": "2024-08-21T08:45:33.155082Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Decreetskosten havenbedrijven Maritieme Toegang",
+        "nl-BE-x-generated-informal": "Decreetskosten havenbedrijven Maritieme Toegang",
+        "nl-BE-x-formal": "Decreetskosten havenbedrijven Maritieme Toegang"
+      },
+      "beschrijving": {
+        "nl": "<p>Decreetskosten havenbedrijven Maritieme Toegang</p>",
+        "nl-BE-x-generated-informal": "<p>Decreetskosten havenbedrijven Maritieme Toegang</p>",
+        "nl-BE-x-formal": "<p>Decreetskosten havenbedrijven Maritieme Toegang</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>",
+        "nl": "<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-04-27T14:01:35Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:33.080515148Z",
+      "productnummer": "2197",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a0ea3faa-5523-43e6-ad18-1a7600115284",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/959b9fda-55f4-44fa-8710-908f7fff8634"
+    },
+    {
+      "id": "959784c0-1deb-42f0-ba8d-6d460b99066c",
+      "generatedAtTime": "2024-08-21T08:45:32.926809Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies laadpalen (Relance)",
+        "nl-BE-x-formal": "Subsidies laadpalen (Relance)",
+        "nl": "Subsidies laadpalen (Relance)"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies laadpalen (Relance)</p>",
+        "nl-BE-x-formal": "<p>Subsidies laadpalen (Relance)</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies laadpalen (Relance)</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-04-27T14:01:35Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:32.839768759Z",
+      "productnummer": "2196",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ML",
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/959784c0-1deb-42f0-ba8d-6d460b99066c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b8f1903f-cdbd-4c02-9ca4-04986bfaba90"
+    },
+    {
+      "id": "949cd72b-a707-4581-bd03-21f4adff172a",
+      "generatedAtTime": "2024-08-21T08:45:32.68236Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies Clean Power for Transport (Relance)",
+        "nl-BE-x-formal": "Subsidies Clean Power for Transport (Relance)",
+        "nl": "Subsidies Clean Power for Transport (Relance)"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies Clean Power for Transport (Relance)</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies Clean Power for Transport (Relance)</p>",
+        "nl-BE-x-formal": "<p>Subsidies Clean Power for Transport (Relance)</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Energiedecreet van 8 mei 2009</p>",
+        "nl": "<p>Energiedecreet van 8 mei 2009</p>",
+        "nl-BE-x-formal": "<p>Energiedecreet van 8 mei 2009</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-04-27T14:01:35Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:32.602306563Z",
+      "productnummer": "2195",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ML",
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/949cd72b-a707-4581-bd03-21f4adff172a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/004150b9-8d22-4d8d-9784-84fa2556f560"
+    },
+    {
+      "id": "42490431-0f2a-4046-859d-838f945e9244",
+      "generatedAtTime": "2024-08-21T08:45:32.441889Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies internationele ontwikkelingssamenwerking",
+        "nl-BE-x-formal": "Subsidies internationele ontwikkelingssamenwerking",
+        "nl": "Subsidies internationele ontwikkelingssamenwerking"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidies internationele ontwikkelingssamenwerking</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies internationele ontwikkelingssamenwerking</p>",
+        "nl": "<p>Subsidies internationele ontwikkelingssamenwerking</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2022-04-27T14:01:35Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-21T08:45:32.349622349Z",
+      "productnummer": "2194",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MK",
+      "metadata": {
+        "uJeVersie": "36.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/42490431-0f2a-4046-859d-838f945e9244",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/068e5da9-548b-481f-8744-ea8a8b9f9a32"
+    }
+  ]
+}

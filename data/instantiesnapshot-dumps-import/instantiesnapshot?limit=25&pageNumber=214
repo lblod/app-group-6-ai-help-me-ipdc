@@ -1,1 +1,1903 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=214","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=213","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-10T07:56:13.67915Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=215","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-10T07:56:15.564547Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=214","@type":"EventStream","member":[{"id":"1337ced6-d07a-4535-9052-6d56c1f08b95","generatedAtTime":"2023-05-10T07:56:15.564547Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vrijstelling van onroerende voorheffing op grond van de bijzondere bestemming van het onroerend goed"},"beschrijving":{"nl":"<p>Voor sommige onroerende goederen wordt een vrijstelling toegekend omdat ze voor bepaalde doeleinden aangewend worden.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"voorwaarden":[{"beschrijving":{"nl":"<p><strong>1e voorwaarde: aanwending voor specifieke doeleinden</strong></p><p>De wet somt de doeleinden op waarvoor het onroerend goed aangewend moet worden. Als een onroerend goed voor meerdere doeleinden aangewend wordt, kan enkel vrijstelling toegekend worden voor de delen die voor de opgesomde doeleinden aangewend worden. De rest van het onroerend goed zal gewoon belast worden.</p><p>De opgesomde doelen zijn:</p><ul><li>openbare eredienst</li><li>onderwijs</li><li>hospitalen, rusthuizen, klinieken, dispensaria</li><li>vakantiehuizen voor gepensioneerden</li><li>andere soortgelijke weldadigheidsinstellingen (hiermee wordt bedoeld: soortgelijk aan de in de vorige vier puntjes expliciet opgesomde categorieën (zoals bijvoorbeeld assistentiewoningen, die soortgelijk zijn aan rusthuizen).</li></ul><p><strong>2e voorwaarde: gebrek aan winstoogmerk</strong></p><p>De belastingplichtige of een bewoner mag geen winst nastreven. Dit betekent dat de belastingplichtige uit het onroerend goed geen voordeel mag halen (bijvoorbeeld een huurvergoeding) , tenzij hij het voordeel of de vergoeding uitsluitend gebruikt voor de instandhouding of de uitbreiding van de activiteit die in het onroerend goed wordt uitgeoefend.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U kunt de vrijstelling aanvragen met een aanvraagformulier:</p><ul><li>op voorhand, als u nog geen aanslagbiljet hebt ontvangen voor het aanslagjaar waarvoor u de vrijstelling wil aanvragen. </li><li>via een <strong>bezwaar,</strong> als u al wel een aanslagbiljet hebt ontvangen voor het aanslagjaar waarvoor u de vrijstelling wil aanvragen. </li></ul><p>Op het aanvraagformulier staat vermeld:</p><ul><li>welke <strong>bewijsstukken</strong> u moet meesturen die aantonen dat u aan de voorwaarden voldoet.</li><li>hoe u het aanvraagformulier moet indienen.</li></ul>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het gaat om een volledige vrijstelling van onroerende voorheffing, inclusief de opcentiemen.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:35.846823041Z","laatstGewijzigd":"2023-05-05T17:40:09.870821626Z","laatstOntvangen":"2023-05-05T17:40:09.870821626Z","productnummer":"1891","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1337ced6-d07a-4535-9052-6d56c1f08b95","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/70c46906-a4bd-43b2-8466-b1eea5b0b441"},{"id":"ce2c50fa-9eb9-4dfb-9d5c-67d38f6c891d","generatedAtTime":"2023-05-10T07:56:15.48843Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vermindering van de onroerende voorheffing voor energiezuinige gebouwen"},"beschrijving":{"nl":"<p>U kunt vermindering krijgen van de onroerende voorheffing voor een energiezuinige woning of ander gebouw. Het E-peil bepaalt of een gebouw energiezuinig is of niet. Het E-peil van een gebouw wordt vastgelegd in een certificaat, het energieprestatiecertificaat (EPC). De vermindering kan toegekend worden voor nieuwbouw, voor verbouwingen die gelijkgesteld zijn met nieuwbouw en voor gebouwen die een ingrijpende energetische renovatie ondergaan.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen","MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Voor de toekenning van de vermindering maakt het niet uit of het gebouw bewoond is of niet, en het maakt evenmin uit of de bewoner eigenaar is van het gebouw of niet.</p><p>Wel moet er altijd een stedenbouwkundige vergunning aangevraagd zijn en moet het gebouw een voldoende laag E-peil hebben. Hoe laag het E-peil moet zijn hangt af van de datum van de bouwvergunning en de op dat moment geldende te behalen energienormen.<br /></p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>EPC-certificaat</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>De vermindering wordt <strong>automatisch toegekend</strong> op uw aanslagbiljet. U moet er dus zelf niets voor doen. Als u meent dat de vermindering ten onrechte niet toegekend werd op uw aanslagbiljet, kunt u <a href=\"https://www.uat-vlaanderen.be/bezwaar-indienen-tegen-een-belasting\" rel=\"noreferrer noopener\" target=\"_blank\">bezwaar indienen</a> bij de Vlaamse Belastingdienst. Stuur dan zeker een kopie van uw EPC en een kopie van de ontvangstmelding van de aanvraag van de stedenbouwkundige vergunning mee.</p><p>De vermindering wordt toegekend <strong>vanaf het aanslagjaar dat volgt op het jaar waarin het E-peil werd bepaald</strong>. Deze datum is vermeld onderaan het EPC. Als de woning van eigenaar verandert, dan kan ook de nieuwe eigenaar voor de rest van de termijn de vermindering genieten.<br /><br /><em>Voorbeeld: Het EPC werd uitgereikt op 10/06/2019. De vermindering werd voor de eerste keer toegekend op het aanslagbiljet van 2020.</em></p><p><em>Voorbeeld: X verkrijgt in 2012 een E-peil van E60 voor zijn woning. Vanaf aanslagjaar 2013 tot en met aanslagjaar 2022 krijgt hij voor deze woning een vermindering van de onroerende voorheffing van 20%. In 2017 verkoopt X de woning aan Y. Y zal de vermindering van de onroerende voorheffing van 20% verder kunnen genieten voor de aanslagjaren 2018 tot en met 2022.</em></p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Vermindering van de onroerende voorheffing voor energiezuinige gebouwen"},"url":"https://www.vlaanderen.be/vermindering-van-de-onroerende-voorheffing-voor-energiezuinige-gebouwen","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De vermindering is een percentage van de onroerende voorheffing. Het hangt af van de datum van de bouwvergunning en de op dat moment geldende te behalen energienormen.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:36.084874318Z","laatstGewijzigd":"2023-05-05T17:40:10.128834634Z","laatstOntvangen":"2023-05-05T17:40:10.128834634Z","productnummer":"1892","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ce2c50fa-9eb9-4dfb-9d5c-67d38f6c891d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5191b211-4b23-47df-8254-2671140b0f07"},{"id":"712a76c0-f8ce-4af9-ad1d-f0dee55508ff","generatedAtTime":"2023-05-10T07:56:15.395693Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Belastingkrediet in de onroerende voorheffing voor VEN-gebied"},"beschrijving":{"nl":"<p>Voor het gedeelte van onbebouwd onroerend goed dat gelegen is in het <strong>VEN-gebied</strong>, geniet u een vermindering in de vorm van een <strong>belastingkrediet</strong>, dat verrekend wordt met het aandeel voor het Vlaamse Gewest. </p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen","MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>Het moet gaan om een onbebouwd onroerend goed (gronden, weilanden...).</li><li>Het onroerende goed moet in een VEN-gebied liggen, Een <strong>VEN-gebied</strong> is een onroerend goed dat in het Vlaamse Ecologische Netwerk (VEN) ligt. In dat Ecologisch Netwerk krijgt de natuur een bijkomende bescherming. </li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Het belastingkrediet wordt automatisch toegekend.</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het belastingkrediet bedraagt 2,5% op het kadastraal inkomen:</p><ul><li>Sinds <strong>aanslagjaar 2018</strong> betekent dit dat men maar 1,47% basisheffing verschuldigd is in plaats van 3,97%. De opcentiemen voor de gemeente en de provincie blijven wel altijd volledig verschuldigd.</li><li>Tot en met a<strong>anslagjaar 2017</strong> betekende dit dat men de basisheffing voor het Vlaamse Gewest niet verschuldigd was. De opcentiemen voor de gemeente en de provincie bleven wel altijd volledig verschuldigd.</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:36.54472977Z","laatstGewijzigd":"2023-05-05T17:40:10.719499952Z","laatstOntvangen":"2023-05-05T17:40:10.719499952Z","productnummer":"1894","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/712a76c0-f8ce-4af9-ad1d-f0dee55508ff","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b92df262-8a4d-4327-8a63-c8c49a5ba3c6"},{"id":"0bfc03cf-ac25-47ba-96cd-707d4f00e7ee","generatedAtTime":"2023-05-10T07:56:15.349965Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Belastingkrediet in de onroerende voorheffing voor rechtspersonen"},"beschrijving":{"nl":"<p>Rechtspersonen krijgen een <strong>vermindering van de onroerende voorheffin</strong>g in de vorm van een <strong>belastingkrediet.</strong> Dat belastingkrediet wordt verrekend met het aandeel dat bestemd zou zijn voor het Vlaamse Gewest. </p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Het belastingkrediet wordt <strong>vanaf aanslagjaar 2020</strong> toegekend:</p><ul><li>aan rechtspersonen</li><li>voor hun materieel en outillage</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Het belastingkrediet wordt <strong>automatisch toegekend</strong> op het aanslagbiljet (voor het aandeel van de rechtspersonen in de belastingschuld).</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p><strong>Vanaf aanslagjaar 2020</strong> bedraagt het belastingkrediet voor rechtspersonen <strong>2,5%</strong> van het kadastraal inkomen vermenigvuldigd met de <a href=\"https://www.uat-vlaanderen.be/uw-overheid/werking-en-structuur/hoe-werkt-de-vlaamse-overheid/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/principe-van-desindexatie\">desindexatiecoëfficiënt</a> voor materieel en outillage</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:36.401424282Z","laatstGewijzigd":"2023-05-05T17:40:10.541847537Z","laatstOntvangen":"2023-05-05T17:40:10.541847537Z","productnummer":"1893","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0bfc03cf-ac25-47ba-96cd-707d4f00e7ee","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/18e03f71-b3d6-49dc-b1ac-86bd9b57dd2a"},{"id":"b03e786a-b953-41cf-9405-39041d6ef123","generatedAtTime":"2023-05-10T07:56:15.26952Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Verminderd tarief van de onroerende voorheffing voor sociale huisvesting"},"beschrijving":{"nl":"<p>Woningen die als sociale woningen verhuurd worden, worden aan een verlaagd tarief belast in de onroerende voorheffing. Ook woningen die via een sociaal verhuurkantoor (SVK) verhuurd worden, genieten van een lager tarief.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"uitzonderingen":{"nl":"<p>Als u als privé-eigenaar zelf een sociale woning betrekt, kan u niet genieten van de verlaagde tarieven.</p>"},"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>De verlaagde tarieven zijn enkel bedoeld voor <strong>woningen die als sociale woning of via een sociaal verhuurkantoor (SVK) verhuurd worden</strong>. </li><li>Als u als privé-eigenaar zelf een sociale woning betrekt, kan u niet genieten van de verlaagde tarieven.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>In sommige gevallen kan het verlaagd tarief automatisch worden toegekend. In andere gevallen na aanvraag.</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<ul><li>Het verlaagd tarief voor sociale verhuur bedraagt:</li></ul><div data-table=\"\"><table><tbody><tr><td><p>Vanaf aanslagjaar 2018</p></td><td><p><strong>2,54 %</strong></p></td></tr><tr><td><p>Tot en met aanslagjaar 2017</p></td><td><p><strong>1,6 %</strong></p></td></tr></tbody></table></div><ul><li>Voor de woningen die door een erkend sociaal verhuurkantoor worden gehuurd om doorverhuurd te worden, is vanaf aanslagjaar 2019 een tarief van <strong>2,4 %</strong> van toepassing.</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:36.675426812Z","laatstGewijzigd":"2023-05-05T17:40:11.046668638Z","laatstOntvangen":"2023-05-05T17:40:11.046668638Z","productnummer":"1895","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b03e786a-b953-41cf-9405-39041d6ef123","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/15dd77e4-daca-4c41-8d94-b9ebc57d53bc"},{"id":"2875e1fe-1749-4598-bfa0-158adb2d87fb","generatedAtTime":"2023-05-10T07:56:15.187724Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vrijstelling van onroerende voorheffing voor jeugdwerkorganisaties en jeugdverblijfscentra"},"beschrijving":{"nl":"<p>Jeugdwerkorganisaties en jeugdverblijfscentra zijn vrijgesteld van onroerende voorheffing. Als ze tijdig geregistreerd worden, wordt de vrijstelling automatisch toegekend. Anders kan het via een bezwaarschrift.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen","CultuurSportVrijeTijd"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Volgende onroerende goederen kunnen vrijgesteld worden van onroerende voorheffing:</p><ul><li>de jeugdlokalen en -terreinen die gebruikt worden door:<ul><li>landelijk georganiseerde en gesubsidieerde jeugdverenigingen en hun lokale afdelingen (decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid)</li><li>lokale jeugdwerkinitiatieven waarvan het gemeentebestuur bevestigt dat ze jeugdwerk verrichten (zoals bedoeld in artikel 9, § 3, tweede lid, van hetzelfde decreet.</li></ul></li><li>de jeugdverblijfscentra: lokalen en terreinen die gebruikt worden als sociaal-toeristisch verblijf die het label jeugdtoerisme hebben (artikel 9 van het besluit van de Vlaamse Regering van 28 mei 2004 betreffende de erkenning en de financiële ondersteuning van verblijven in het kader van `Toerisme voor Allen').</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<h4>Automatisch bij juiste registratie</h4><p>De vrijstelling wordt <strong>automatisch</strong> toegekend als alle noodzakelijke gegevens van de jeugdlokalen tijdig en juist geregistreerd zijn. Voor de registratie werkt de Vlaamse Belastingdienst samen met Ambrassade VZW. Op hun website vindt u een <a href=\"http://www.ambrassade.be/nl/kennis/artikel/onroerende-voorheffing\">uitgebreide toelichting over de onroerende voorheffing, op maat van de jeugdorganisaties en de nodige links om de registratie uit te kunnen voeren</a>.</p><h4>Via bezwaar bij geen juiste registratie</h4><p>Als u toch een aanslagbiljet krijgt en u meent dat u in aanmerking komt voor vrijstelling, dan moet u zeker tijdig <a href=\"https://www.uat-vlaanderen.be/bezwaar-indienen-tegen-een-belasting\">een bezwaar indienen</a>.</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het gaat om een volledige vrijstelling van onroerende voorheffing, inclusief de opcentiemen.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:37.234114671Z","laatstGewijzigd":"2023-05-05T17:40:11.637328767Z","laatstOntvangen":"2023-05-05T17:40:11.637328767Z","productnummer":"1900","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2875e1fe-1749-4598-bfa0-158adb2d87fb","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3fe052b4-a457-479c-b561-fe988a67a259"},{"id":"06220379-ac8d-4cc0-a983-d2b7c279ecdd","generatedAtTime":"2023-05-10T07:56:15.052124Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vrijstelling van de onroerende voorheffing op grond van bijzondere wetgeving"},"beschrijving":{"nl":"<p>Sommige instellingen, maatschappijen, verenigingen, enz. genieten een onvoorwaardelijke vrijstelling van de onroerende voorheffing op grond van bijzondere wetgeving, zoals bijvoorbeeld de wet waarbij ze zijn opgericht.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Voorbeelden van instellingen, maatschappijen, verenigingen die in aanmerking komen zijn:</p><ul><li>de vereniging van Vlaamse Steden en Gemeenten,</li><li>de Nationale Kas voor Beroepskrediet,</li><li>de Nationale Maatschappij der Waterleidingen,</li><li>...</li></ul><p>Bepaalde maatschappijen zijn <strong>alleen vrijgesteld van provinciale en gemeentelijke belastingen</strong>. Dit betekent dat ze enkel de basisheffing aan het Gewest verschuldigd zijn, maar geen opcentiemen moeten betalen. Dit geldt bijvoorbeeld voor de Nationale Maatschappij voor Belgische Spoorwegen (NMBS). In deze gevallen moet er niet voldaan worden aan enige bijkomende voorwaarde.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Als u meent dat uw organisatie voor deze vrijstelling in aanmerking komt, neem dan contact op met de Vlaamse Belastingdienst.</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De aard van de vrijstelling wordt in de bijzondere wetgeving bepaald. Het kan gaan om een volledige vrijstelling van onroerende voorheffing, inclusief of exclusief de opcentiemen.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:37.351896131Z","laatstGewijzigd":"2023-05-05T17:40:12.167501484Z","laatstOntvangen":"2023-05-05T17:40:12.167501484Z","productnummer":"1902","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/06220379-ac8d-4cc0-a983-d2b7c279ecdd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/8f61424f-3b19-4dca-9769-b81952d99d06"},{"id":"4795091f-99b8-4789-8f42-c6964ae7879d","generatedAtTime":"2023-05-10T07:56:15.036929Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vrijstelling van de onroerende voorheffing voor natuurreservaten en erkende bossen"},"beschrijving":{"nl":"<p>Onroerende goederen die erkend zijn en beheerd worden als natuurreservaat of als bos met een bijzondere waarde, kunnen in bepaalde gevallen vrijgesteld worden van onroerende voorheffing. </p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen","MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Het moet gaan om:</p><ul><li><p>natuurreservaten: onbebouwde onroerende goederen waarvoor een <a href=\"https://www.natuurenbos.be/natuurbeheerplan\">natuurbeheerplan</a> type 4 goedgekeurd is.</p></li><li><p>tot juni 2020: erkende bossen waarvoor een bosbeheerplan werd goedgekeurd, als:</p><ul><li><p>milieubeschermend bos (overeenkomstig artikel 16 van het Bosdecreet)</p></li><li>bosreservaat (overeenkomstig artikel 22 van het Bosdecreet)</li><li>zone voor de productie van bosbouwkundig teeltmateriaal (overeenkomstig artikel 42 van het Bosdecreet).</li></ul></li></ul><p>Op de website van Het Agentschap voor Natuur en Bos vindt u meer informatie.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U moet de vrijstelling aanvragen door <a href=\"https://www.uat-vlaanderen.be/bezwaar-indienen-tegen-een-belasting\">een bezwaar in te dienen</a>.</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het gaat om een volledige vrijstelling van onroerende voorheffing, inclusief opcentiemen.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:37.875792835Z","laatstGewijzigd":"2023-05-05T17:40:12.947849263Z","laatstOntvangen":"2023-05-05T17:40:12.947849263Z","productnummer":"1905","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4795091f-99b8-4789-8f42-c6964ae7879d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e9411d64-7d58-40a3-a22c-5e81dd2870f8"},{"id":"f6589f25-1bff-41c0-b45c-5cc926f7d30f","generatedAtTime":"2023-05-10T07:56:14.918555Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Woningpas"},"beschrijving":{"nl":"<p>Een woning bouwen, verbouwen, verkopen of verhuren, daar komt heel wat papierwerk bij kijken. De woningpas is een gratis digitaal paspoort dat alle informatie over uw huis samenbrengt in één handig overzicht.</p><div><div><p>U vindt er alle beschikbare attesten en informatie over de woning, zoals keuringen, gegevens uit het energieprestatiecertificaat (EPC) of uw EPB-aangifte, … Zo hebt u als eigenaar minder papierwerk en meer duidelijkheid over de kwaliteit en zuinigheid van uw woning, en boekt u tijdwinst.</p></div></div>"},"type":"AdviesBegeleiding","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"websites":[{"naam":{"nl":"Woningpas"},"url":"https://woningpas.vlaanderen.be","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:44.46497936Z","laatstGewijzigd":"2023-05-05T17:45:21.51238636Z","laatstOntvangen":"2023-05-05T17:45:21.51238636Z","productnummer":"2049","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f6589f25-1bff-41c0-b45c-5cc926f7d30f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c196de03-6adc-44de-994c-ee2771ec09a9"},{"id":"ed88ac54-da2a-4f2c-ac52-b83c0beccff8","generatedAtTime":"2023-05-10T07:56:14.821604Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams","Provinciaal","Lokaal"],"naam":{"nl":"Recht van voorkoop"},"beschrijving":{"nl":"<p>Het recht van voorkoop is een wettelijk recht dat de houder van dat recht de mogelijkheid geeft om gronden en gebouwen die verkocht worden, bij voorrang op de kandidaat-koper aan te kopen, voor dezelfde prijs en onder dezelfde voorwaarden. In een gebied waar het voorkooprecht speelt, mag een eigenaar alleen verkopen nadat hij de begunstigden van het voorkooprecht de gelegenheid heeft gegeven hun recht uit te oefenen.</p>"},"themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"websites":[{"naam":{"nl":"Recht van voorkoop in Vlaanderen"},"url":"http://www.vlm.be/nl/themas/Vlaamsegrondenbank/evoorkooploket/voorkooprecht","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:44.590265037Z","laatstGewijzigd":"2023-05-04T12:40:56.523930348Z","laatstOntvangen":"2023-05-04T12:40:56.523930348Z","productnummer":"2050","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ed88ac54-da2a-4f2c-ac52-b83c0beccff8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6bddd747-c34b-4cfb-8485-0d2e05d6f367"},{"id":"9b22dd68-6340-4547-8843-f842877ec55e","generatedAtTime":"2023-05-10T07:56:14.796566Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams","Derden"],"naam":{"nl":"EPC-labelpremie bij energierenovatie (via Fluvius)"},"beschrijving":{"nl":"<p>Hebt u een woning met een slechte energieprestatie? Als u de woning binnen de 5 jaar zo grondig renoveert dat het EPC-label aanzienlijk verbetert, dan kunt u sinds 2021 een premie krijgen.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<div><div><p>Energiebesluit van 19 november 2010</p></div></div>"},"uitzonderingen":{"nl":"<p>De EPC-labelpremie is <strong>niet cumuleerbaar</strong> met de <strong>Totaalrenovatiebonus</strong>.</p><ul><li>Wie al 1 investering heeft gedaan met een eindfactuur in de periode 2017-2020 en daarvoor een premie heeft aangevraagd of aanvraagt, zit automatisch in het traject van de <a href=\"https://www.uat-vlaanderen.be/totaalrenovatiebonus-beno-pass-van-fluvius\">Totaalrenovatiebonus</a> en komt niet in aanmerking voor de EPC-labelpremie.</li><li>Wie echter in 2020 een bestelbon/offerte heeft ondertekend voor een investering die kan meetellen voor de totaalrenovatiebonus en de eindfactuur hiervoor in 2021 heeft gekregen, heeft de keuze tussen het traject van de Totaalrenovatiebonus of de EPC-labelpremie.</li></ul><p>De EPC-labelpremie is <strong>cumuleerbaar</strong> met de energiepremies van Fluvius per maatregel (isolatie, beglazing, ...) of <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie\">Mijn Verbouwpremie</a> (vanaf 1-10-2022).</p>"},"zoektermen":{"nl":["renuveren","renuveer","epc-premie","epclabelpremie","energielabelpremie"]},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>De EPC-labelpremie is er <strong>voor alle woningeigenaars</strong>.<br />Deze premie werd eerst ingevoerd voor nieuwe eigenaars, maar werd dus uitgebreid naar alle eigenaars van een woning of wooneenheid (bijv. appartement).</li><li>De EPC-labelpremie is er enkel voor een woning of wooneenheid met een <strong>ondermaatse energieprestatie</strong>. Die wordt aangetoond met een <strong>energieprestatiecertificaat (EPC)</strong>, dat niet ouder mag zijn dan van <strong>2019</strong>.<br />Het EPC-label (lettercode op het <a href=\"https://www.uat-vlaanderen.be/epc-residentieel\">Energieprestatiecertificaat (EPC)</a> van<ul><li>de <strong>woning </strong>heeft <strong>EPC-label</strong> <strong>E of F </strong>en moet door <strong>renovatie </strong>binnen de 5 jaar minimaal label C halen</li><li>de <strong>wooneenheid (appartement) </strong>heeft <strong>EPC-label</strong> <strong>D, E of F</strong> en moet door <strong>renovatie </strong>binnen de 5 jaar minimaal label B halen.</li></ul></li><li>Sloop/herbouw komt niet in aanmerking voor de EPC-labelpremie.</li><li>Het behaalde EPC-label moet worden aangetoond na 5 jaar met een nieuw EPC. Het nieuwe EPC mag maximaal 12 maanden oud zijn op het moment van aanvraag van de EPC-labelpremie.</li><li>Het bedrag van de premie hangt af van het behaalde EPC-label na renovatie(s).</li><li>De premie kan in schijven worden verkregen.<br />Bijvoorbeeld: als een eigenaar binnen de 5 jaar de woning renoveert en in aanmerking komt voor een premie voor label C, kan diezelfde eigenaar vervolgens ook nog in aanmerking komen voor een bijkomende premie voor het behalen van label B (en eventueel daarna nogmaals voor het behalen van label A) binnen dezelfde periode van 5 jaar. De bijkomende premie is in dit geval gelijk aan het verschil tussen de premie voor het nieuw behaalde label en de al verkregen labelpremie.</li><li>De EPC-labelpremie is<ul><li><strong>combineerbaar met de energiepremies van Fluvius</strong> per maatregel (isolatie, beglazing, ...) of <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie\">Mijn Verbouwpremie</a> (vanaf 1-10-2022)</li><li><strong>niet combineerbaar met de Totaalrenovatiebonus</strong> (zie ook Uitzonderingen hieronder).</li></ul></li><li>Raadpleeg <strong>alle voorwaarden</strong> van de EPC-labelpremie het <a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/epc-labelpremie\">Informatieblad 2022 of 2021</a> van Fluvius.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<div><p>De aanvraagprocedure bestaat uit <strong>2 stappen</strong>:</p><ol><li><strong>Activatie EPC-labelpremie</strong><br />Zodra u beschikt over een ‘EPC-vóór’ waaruit de ‘slechte’ energieprestatie van uw woning (label E of slechter) of wooneenheid (label D of slechter) blijkt, kunt u bij Fluvius de activatie van de EPC-labelpremie aanvragen. U moet de <a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/epc-labelpremie\">activatie online aanvragen bij Fluvius</a>.</li><li><strong>Uitbetaling EPC-labelpremie</strong><br />Binnen de 5 jaar na datum van dit ‘EPC-vóór’ moet u een nieuw EPC laten opmaken waaruit blijkt dat uw woning minstens label C heeft behaald (label B voor een wooneenheid). Vervolgens vraagt u de premie aan binnen de 12 maanden na dit ‘EPC-na’. U moet de <a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/epc-labelpremie\">premie online aanvragen bij Fluvius</a>.</li></ol></div>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"EPC-labelpremie (Fluvius.be)"},"url":"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/epc-labelpremie","@type":"Website","order":0},{"naam":{"nl":"EPC-labelpremie (op Energiesparen.be)"},"url":"https://www.energiesparen.be/epc-label-premie","@type":"Website","order":1}],"financieleVoordelen":[{"beschrijving":{"nl":"<div data-table=\"\"><table><tbody><tr><td> </td><td>Maximaal bedrag van<br /><strong>EPC-labelpremie</strong><br />(afhankelijk van het behaalde EPC-label na renovatie binnen de 5 jaar)</td><td>Maximaal bedrag van<br /><strong>EPC-labelpremie<br />voor beschermde afnemers</strong><br />(afhankelijk van het behaalde EPC-label na renovatie binnen de 5 jaar)</td></tr><tr><td colspan=\"1\" rowspan=\"3\"><strong>woning</strong><br />met EPC-label<br /><strong>E of F</strong></td><td rowspan=\"3\"><ul><li>5.000 euro als label A wordt behaald</li><li>3.750 euro als label B wordt behaald.</li><li>2.500 euro als label C wordt behaald</li></ul></td><td rowspan=\"3\"><ul><li>6.000 euro als label A wordt behaald</li><li>4.500 euro als label B wordt behaald.</li><li>3.000 euro als label C wordt behaald</li></ul></td></tr><tr></tr><tr></tr><tr><td colspan=\"1\" rowspan=\"1\"><strong>wooneenheid </strong>(appartement, ...)<br />met EPC-label<br /><strong>D, E of F</strong></td><td rowspan=\"1\"><ul><li>3.750 euro als label A wordt behaald</li><li>2500 euro als label B wordt behaald.</li></ul></td><td rowspan=\"1\"><ul><li>4.500 euro als label A wordt behaald</li><li>3.000 euro als label B wordt behaald</li></ul></td></tr></tbody></table></div><div> </div><div><div>Medegefinancierd door de Europese Unie - NextGenerationEU</div></div>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:35.733282391Z","laatstGewijzigd":"2023-05-05T17:40:08.895455745Z","laatstOntvangen":"2023-05-05T17:40:08.895455745Z","productnummer":"2113","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9b22dd68-6340-4547-8843-f842877ec55e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d1c17f9f-1be2-43b0-98ea-d1dbf5c0a9de"},{"id":"9f4edf50-b149-49ea-81ac-75438c8fa5ef","generatedAtTime":"2023-05-10T07:56:14.762947Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie erkende onroerenderfgoeddepots"},"beschrijving":{"nl":"<p>Een erkend onroerenderfgoeddepot geldt als een bewaarplaats met een onderzoekersruimte waar in aangepaste gecontroleerde omstandigheden archeologische ensembles, archeologische artefacten of onderdelen van beschermd erfgoed uit het Vlaamse Gewest worden bewaard en beheerd. Het bewaart dus meer dan archeologische vondsten. Het kan bijvoorbeeld ook (tijdelijk) losse onderdelen van een monument bewaren tijdens een langdurige restauratiecampagne.</p><p>Om in aanmerking te komen voor een subsidie gelden, naast de erkenning, een aantal bijkomende voorwaarden zoals een receptieve functie van gemeentegrensoverschrijdend belang vervullen. Om een subsidie te genieten voor de ondersteuning van de werkingskosten sluit het depot een samenwerkingsovereenkomst af met het agentschap Onroerend Erfgoed. De overeenkomst heeft een looptijd van zes jaar en wordt na drie jaar tussentijds geëvalueerd.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 10 - subsidies</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"websites":[{"naam":{"nl":"Onroerenderfgoeddepots"},"url":"https://www.onroerenderfgoed.be/ik-werk-voor-een-onroerenderfgoeddepot","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:52.149746354Z","laatstGewijzigd":"2023-05-05T17:55:32.349324862Z","laatstOntvangen":"2023-05-05T17:55:32.349324862Z","productnummer":"2335","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9f4edf50-b149-49ea-81ac-75438c8fa5ef","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6417ae76-66ae-45e2-be5d-fac9f0113bc7"},{"id":"7d7f4b20-6499-4f1c-ab7c-0eb8f9d88138","generatedAtTime":"2023-05-10T07:56:14.665537Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsubsidie voor archeologisch vervolgonderzoek"},"beschrijving":{"nl":"<p>Archeologisch vervolgonderzoek is een essentieel onderdeel van de archeologische erfgoedzorg, niet alleen om nieuwe historische kennis te ontwikkelen, maar ook voor een afgestemd erfgoedbeheer en een kwaliteitsvolle ontsluiting van het archeologisch erfgoed dat uiteindelijk ook het publieke draagvlak moet blijven stimuleren. De studie na het vele graafwerk blijft in de praktijk vaak beperkt tot het niveau van de vindplaats, maar mist op die manier het bredere plaatje, de diepgang en de gedetailleerde uitwerking die tot echt nieuwe kennis over het verleden leiden. En daar zit het publiek natuurlijk net op te wachten.</p><p>Extra onderzoeksstappen vergen extra middelen, die niet op de bouwheer, projectontwikkelaar of landbouwer kunnen verhaald worden. Daarom is er vanaf 2018 jaarlijks een budget voor projectsubsidies voor archeologisch vervolgonderzoek.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 10 - subsidies</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"websites":[{"naam":{"nl":"Projectsubsidies voor synthese-onderzoek"},"url":"https://www.onroerenderfgoed.be/projectsubsidies-voor-synthese-onderzoek","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:52.273036214Z","laatstGewijzigd":"2023-05-05T17:55:32.712441063Z","laatstOntvangen":"2023-05-05T17:55:32.712441063Z","productnummer":"2337","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7d7f4b20-6499-4f1c-ab7c-0eb8f9d88138","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/51b3246c-6741-4bb4-8b64-c5fe54f9a66f"},{"id":"f01d83cb-45e4-403a-956d-ca77bdbb48f0","generatedAtTime":"2023-05-10T07:56:14.650181Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie erkende, archeologische solidariteitsfondsen"},"beschrijving":{"nl":"<p>Elke groepering van initiatiefnemers van bouw- of verkavelingsprojecten kan een archeologisch solidariteitsfonds oprichten. Deze fondsen vergoeden hun leden mits betaling van een bijdrage voor een deel van de kosten van alle archeologische opgravingen waartoe zij verplicht worden. Om erkend te worden moet een fonds een overeenkomst sluiten met de minister. Daarin staan onder meer de berekeningswijze van de ledenbijdrage, de voorwaarden voor de uitkering van vergoedingen, de doelstellingen en doelgroep van het fonds.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 11 - premies</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"websites":[{"naam":{"nl":"Archeologiefondsen"},"url":"https://www.onroerenderfgoed.be/archeologiefondsen","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:52.388058502Z","laatstGewijzigd":"2023-05-05T17:55:32.917473088Z","laatstOntvangen":"2023-05-05T17:55:32.917473088Z","productnummer":"2338","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f01d83cb-45e4-403a-956d-ca77bdbb48f0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/efee556f-6b41-4c0b-a912-366b08590244"},{"id":"0b1f8564-fdbd-4d2c-b6fb-93cd329f6c4d","generatedAtTime":"2023-05-10T07:56:14.612793Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Aanvullende erfgoedpremie voor goed onderhoud"},"beschrijving":{"nl":"<p>Als u kunt aantonen dat u het erfgoed waarvoor u de erfgoedpremie vraagt de voorbije zes jaar zelf goed onderhouden hebt, dan kunt u een aanvullende premie van 10% aanvragen.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 11 - premies</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Enkel de aanvrager van de <a href=\"https://www.uat-vlaanderen.be/erfgoedpremie-voor-beschermde-monumenten-en-landschappen-standaardprocedure\">erfgoedpremie</a> die het erfgoed zelf gedurende zes jaar goed heeft onderhouden, kan de aanvullende premie aanvragen. Nieuwe eigenaars kunnen geen aanvullende premie aanvragen omdat ze het onderhoud niet zelf uitvoerden.</p><p>Goed onderhoud is een combinatie van regelmatige inspecties, preventieve acties en, indien nodig, herstellingswerken. Goed onderhoud betekent dat u regelmatig de toestand van uw erfgoed controleert of laat controleren op gebreken of schade. U maakt een toestandsrapport op of laat het opmaken, zodat u onderhoudswerken kunt gaan inplannen en uitvoeren.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"websites":[{"naam":{"nl":"Aanvullende erfgoedpremie voor goed onderhoud"},"url":"https://www.onroerenderfgoed.be/aanvullende-erfgoedpremie-voor-goed-onderhoud","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:52.890754956Z","laatstGewijzigd":"2023-05-05T18:00:07.927336803Z","laatstOntvangen":"2023-05-05T18:00:07.927336803Z","productnummer":"2341","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0b1f8564-fdbd-4d2c-b6fb-93cd329f6c4d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/be2c0dbf-546a-4b72-ba80-979c924658f1"},{"id":"2e93bb47-e26a-43c1-bd07-0d57386c1d1d","generatedAtTime":"2023-05-10T07:56:14.533075Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Fusieondersteuning voor woonmaatschappijen"},"beschrijving":{"nl":"<p>Subsidie voor de eventuele nadelige financiële gevolgen voor een woonmaatschappij, ten gevolge van een herstructurering in de zin van boek 12 van het Wetboek van vennootschappen en verenigingen.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, art. 4.50<br />Besluit Vlaamse Codex Wonen, art. 4,156 t.e.m. art. 4,159</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-03-24T06:45:08.548461958Z","laatstGewijzigd":"2023-05-05T18:00:19.290933865Z","laatstOntvangen":"2023-05-05T18:00:19.290933865Z","productnummer":"2388","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2e93bb47-e26a-43c1-bd07-0d57386c1d1d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7068a8bd-4fed-4977-84a7-b16dc625cfd6"},{"id":"98007303-d5cb-4c66-badf-78df85aa4ba8","generatedAtTime":"2023-05-10T07:56:14.518872Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor sloop en infrastructuurwerken"},"beschrijving":{"nl":"<p>De VMSW ondersteunt initiatiefnemers financieel om:</p><ul><li>gronden bouwrijp te maken (o.a. stedenbouwkundige studies, archeologische prospecties en opgravingen)</li><li>infrastructuurwerken uit te voeren: de wegenuitrusting, de nutsvoorzieningen en de inrichtingen voor afvoer en zuivering van afvalwater</li><li>gemeenschapsvoorzieningen op te richten</li><li>aanpassingswerken aan de woomgeving uit te voeren.</li></ul>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, Boek 5, Deel 2, Titel 3<br />Besluit Vlaamse Codex Wonen van 2021, Boek 5, Deel 2, Titel 3</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-03-24T06:45:08.682912074Z","laatstGewijzigd":"2023-05-05T18:00:19.710807328Z","laatstOntvangen":"2023-05-05T18:00:19.710807328Z","productnummer":"2390","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/98007303-d5cb-4c66-badf-78df85aa4ba8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f8886016-bb1c-41dc-9946-c3bc5f558406"},{"id":"36d11105-df4f-4908-9994-a7869fe5116a","generatedAtTime":"2023-05-10T07:56:14.472032Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie verwerving"},"beschrijving":{"nl":"<p>De VMSW verstrekt onder bepaalde voorwaarden subsidie voor de aankoop van een onroerend goed voor projecten in de huursector.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decretale basis werd geschrapt n.a.v.<br />afschaffen sociale koop. Enkel nog afrekeningen.</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-03-24T06:45:08.799174827Z","laatstGewijzigd":"2023-05-05T18:00:20.996033558Z","laatstOntvangen":"2023-05-05T18:00:20.996033558Z","productnummer":"2396","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/36d11105-df4f-4908-9994-a7869fe5116a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ad3f63dd-73ff-46f1-8545-0121fa3e291b"},{"id":"da41367e-d52a-4767-b76a-b37d6c197eca","generatedAtTime":"2023-05-10T07:56:14.392646Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Lokaal","Derden"],"naam":{"nl":"Vastgoedinformatiedossier"},"beschrijving":{"nl":"<p>Stedenbouwkundige informatie, informatie rond erfdienstbaarheden, ligging in beschermd gebied, ruimtelijke plannen, … die de overheid in aparte databanken bewaart, wordt vanaf 2024 gebundeld in één vastgoedinformatiedossier.</p><p>Via het Vastgoedinformatieplatform kan de aanvrager via één eenvoudige weg de benodigde vastgoedinfo opvragen in het kader van een verkoop of langdurige verhuur. Het platform verzamelt dan alle data uit de beschikbare, aangesloten bronnen. De bevoegde gemeente krijgt via het platform een vraag om het dossier te vervolledigen en te controleren op de kwaliteit, waarna de info wordt afgeleverd aan de aanvrager.</p>"},"type":"AdviesBegeleiding","themas":["BouwenWonen"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002949","@id":"OVO002949"}],"creatie":"2023-03-24T06:45:13.143657765Z","laatstGewijzigd":"2023-05-04T12:41:19.875493818Z","laatstOntvangen":"2023-05-04T12:41:19.875493818Z","productnummer":"2479","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/da41367e-d52a-4767-b76a-b37d6c197eca","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2700f51e-c202-4166-b97e-9b5eeb0bd5b6"},{"id":"0e4dcdbd-ef98-49c2-96fa-cf5b469ed609","generatedAtTime":"2023-05-10T07:56:14.392534Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Test 5 - Premie 7 - max"},"beschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"verdereBeschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"startDienstVerlening":"2023-02-07T12:00:00Z","eindeDienstVerlening":"2023-03-04T12:00:00Z","type":"Bewijs","themas":["BurgerOverheid"],"doelgroepen":["Burger","Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"uitzonderingen":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"bevoegdeOverheden":[{"id":"OVO000097","@id":"OVO000097"}],"uitvoerendeOverheden":[{"id":"OVO000093","@id":"OVO000093"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"websites":[{"naam":{"nl":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Subsidie voor de renovatie van huurwoningen"},"url":"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:20:32.203019388Z","laatstGewijzigd":"2023-05-04T12:41:24.795021766Z","laatstOntvangen":"2023-05-04T12:41:24.795021766Z","productnummer":"2842","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0e4dcdbd-ef98-49c2-96fa-cf5b469ed609","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/10244dc2-b73d-4578-82f1-e3bf8b408265"},{"id":"8cce2c04-ef65-406d-a2f3-d39d6f2f05b6","generatedAtTime":"2023-05-10T07:56:13.991246Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erkenning van een wildbeheereenheid"},"beschrijving":{"nl":"<p>Een wildbeheereenheid (WBE) is een vrijwillig <strong>samenwerkingsverband </strong>tussen individuele jachtrechthouders binnen een ruimtelijk begrensd gebied. Binnen dat gebied wordt er aan planmatig wildbeheer gedaan.</p><p>Dit samenwerkingsverband onder een wildbeheereenheid biedt veel voordelen. Door samen te werken krijgt u als jager de mogelijkheid om in een groter gebied te jagen dan in één enkel jachtveld. Samenwerking zorgt er ook voor dat men als groep de jachtbelangen beter kan behartigen dan één jager alleen. Bovendien kunnen de kosten verminderen. Erkende wildbeheereenheden kunnen jaarlijks <a href=\"https://www.uat-vlaanderen.be/subsidies-voor-wildbeheereenheden\">subsidies </a>krijgen van de Vlaamse overheid.</p><p>Een wildbeheereenheid kan erkend worden voor een periode van <strong>6 jaar</strong>. Om erkend te worden door de Vlaamse overheid moet een wildbeheereenheid een <strong>erkenningsdossier indienen</strong>.</p>"},"type":"Toelating","themas":["MilieuEnergie"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Op 25 april 2014 keurde de Vlaamse Regering nieuwe uitvoeringsbesluiten van het Jachtdecreet goed. Hierdoor werd de <a href=\"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/wetgeving\">jachtregelgeving </a>sterk vereenvoudigd.</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Enkele belangrijke erkenningsvoorwaarden zijn:</p><ul><li>Het werkingsgebied moet de jachtterreinen van minstens <strong>5 jachtrechthouders</strong> verenigen en moet een oppervlakte van minstens <strong>1.000 hectare</strong> beslaan.</li><li>De wildbeheereenheid moet een <strong>wildbeheerplan </strong>openstellen.</li><li>De wildbeheereenheid meldt jaarlijks <strong>afschotstatistieken en wildstandgegevens</strong> aan de provinciale afdeling van het Agentschap voor Natuur en Bos.</li><li>Lokale vertegenwoordigers van natuurverenigingen, de landbouw en de bosbouw worden uitgenodigd op de algemene vergaderingen.</li></ul><p>Op de website van het Agentschap voor Natuur en Bos staan <a href=\"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/jachtadministratie/subsidies\">meer details over de erkenningsvoorwaarden</a>.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U stelt een <strong>erkenningsdossier </strong>samen. Het erkenningsdossier moet de volgende gegevens bevatten:</p><ul><li>een afschrift van de statuten en hun wijzigingen, voor eensluidend verklaard door de in de statuten aangewezen personen</li><li>een werkingsverslag over het voorbije kalenderjaar</li><li>een verklaring van de door de statuten aangewezen personen die de vereniging kunnen binden, waaruit blijkt dat de wildbeheereenheid voldoet aan alle erkenningsvoorwaarden</li><li>een verklaring van de voorzitter waaruit blijkt dat de wildbeheereenheid voldoet aan de fiscale en sociale verplichtingen</li><li>een afschrift van het faunabeheerplan dat door de algemene vergadering bij tweederde meerderheid van stemmen van de leden-jachtrechthouders is goedgekeurd.</li></ul><p>Er zijn vier mogelijke data waarop erkenningen kunnen ingaan: 1 januari, 1 april, 1 juli en 1 oktober. Op het erkenningsaanvraagformulier moet u aanduiden op welke van die vier data u de nieuwe erkenning wenst te laten ingaan.</p><p>Het volledige dossier moet, samen met een <a href=\"http://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/wildbeheereenheid-onafhankelijk\">erkenningsaanvraagformulier</a> bezorgd worden aan de <strong>provinciale afdeling Adviezen, Vergunningen, Erkenningen en Subsidies (AVES)</strong> van het Agentschap voor Natuur en Bos (ANB).</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Erkenning van een wildbeheereenheid"},"url":"http://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/wildbeheereenheid-onafhankelijk","@type":"Website","order":0}],"creatie":"2023-03-24T06:05:38.593820395Z","laatstGewijzigd":"2023-05-05T17:15:25.963472263Z","laatstOntvangen":"2023-05-05T17:15:25.963472263Z","productnummer":"195","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8cce2c04-ef65-406d-a2f3-d39d6f2f05b6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ad791115-d06a-40da-8ade-d0409a249984"},{"id":"6224d45d-2128-496e-bcfd-045481411958","generatedAtTime":"2023-05-10T07:56:13.893736Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor wildbeheereenheden"},"beschrijving":{"nl":"<p>Een wildbeheereenheid (WBE) is een vrijwillig samenwerkingsverband tussen individuele jachtrechthouders binnen een ruimtelijk begrensd gebied. Binnen dit gebied wordt er aan planmatig wildbeheer gedaan.</p><p><a href=\"https://www.uat-vlaanderen.be/erkenning-van-een-wildbeheereenheid\">Erkende wildbeheereenheden</a> kunnen jaarlijks subsidies aanvragen bij de Vlaamse overheid.</p><p>Er bestaan drie soorten subsidies:</p><ul><li><strong>basissubsidie</strong>: 300 euro</li><li><strong>oppervlaktesubsidie</strong>: 150 euro voor elke volle schijf van 1.000 hectare jachtterrein in het WBE-werkingsgebied die tot de WBE behoort boven de 2.000 hectare</li><li><strong>projectsubsidies</strong> voor projecten die zijn opgenomen in het <a href=\"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/jachtadministratie/faunabeheerplan\">faunabeheerplan</a>: een WBE kan projectsubsidies krijgen van<ul><li>maximaal 1.500 euro per kalenderjaar</li><li>of maximaal 9.000 euro voor de volledige erkenningsperiode van 6 jaar.</li></ul></li></ul>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Op 25 april 2014 keurde de Vlaamse Regering <strong>nieuwe uitvoeringsbesluiten</strong> van het Jachtdecreet goed. Hierdoor werd de <a href=\"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/wetgeving\">jachtregelgeving</a> sterk vereenvoudigd.</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De subsidies kunnen enkel aangevraagd worden door wildbeheereenheden die erkend zijn door de Vlaamse overheid.</p><p>De projectsubsidie wordt uitgekeerd op basis van een schuldvordering voor het project, het werkingsverslag van het afgelopen kalenderjaar, de stukken ter staving en de vaststellingen op het terrein.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Een WBE moet op papier of online een <a href=\"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/jachtadministratie/subsidies\">subsidieaanvraag indienen</a> bij het Agentschap voor Natuur en Bos <strong>vóór 1 april</strong> van het kalenderjaar waarop de subsidie betrekking heeft.</p><p>Voor WBE’s die een nieuwe erkenning hebben sinds 1 juli 2015, worden de projectsubsidies aangevraagd via het faunabeheerplan.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Subsidies voor wildbeheereenheden"},"url":"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/jachtadministratie/subsidies","@type":"Website","order":0}],"creatie":"2023-03-24T06:05:39.07704897Z","laatstGewijzigd":"2023-05-05T17:15:26.328360834Z","laatstOntvangen":"2023-05-05T17:15:26.328360834Z","productnummer":"196","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6224d45d-2128-496e-bcfd-045481411958","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f10d667f-5a15-4bf4-a9f3-e7c46512cc42"},{"id":"957f5d5b-a67f-4dff-b23f-5ff0cc2983d5","generatedAtTime":"2023-05-10T07:56:13.808072Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies in het kader van cultuurkuur en dynamo3"},"beschrijving":{"nl":"<p>Cultuurkuur.be is de ontmoetingsplaats voor leerkrachten en cultuurpartners.</p><p>Met <strong>dynamoOPWEG</strong> kan elke school <strong>gratis met de Lijn naar culturele bestemmingen</strong>. Dit kan met <strong>maximaal 30 personen</strong>, heen en terug, tijdens weekdagen tussen 9.00 u en 15.30 u en na 18.30 u. Academies kunnen ook op zaterdag gebruik maken van dynamoOPWEG. Bibliotheken, culturele centra, gemeenschapscentra, musea en academies zijn culturele bestemmingen.</p><p>Met <strong>dynamoPROJECT</strong> kunt u <strong>tot 1.500 euro </strong>krijgen<strong> voor een creatief schoolproject</strong>. Projecten kunnen groot- of kleinschalig zijn. Belangrijk is dat u via het project externe culturele partners engageert die het creatieve proces met de leerlingen begeleiden.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"bevoegdeOverheden":[{"id":"OVO000321","@id":"OVO000321"}],"voorwaarden":[{"beschrijving":{"nl":"<p>dynamo3 is er voor alle onderwijsinstellingen met een instellingsnummer in Vlaanderen en Brussel.</p><p>Elke school met een instellingsnummer en elke deelvestiging heeft recht op dynamoOPWEG en dynamoPROJECT.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Op cultuurkuur.be vindt u alle informatie over dynamo3. Om gebruik te maken van de diensten van dynamo3 moet u zich aanmelden en lid worden van uw school. Vanaf dan kunt u op uw schoolpagina de aanvraagprocedure voor dynamoOPWEG en dynamoPROJECT volgen.</p><ul><li><strong>dynamoOPWEG</strong>: trek gratis met de klas en De Lijn naar een culturele bestemming. Als uw aanvraag wordt goedgekeurd, ontvangt u een printbaar vervoerbewijs. Print het af en toon het aan de chauffeur.<br /></li><li><strong>dynamoPROJECT</strong>: maak kans op een bedrag tot 1.500 euro voor een creatief schoolproject.<br />Er zijn nog twee indiendata per schooljaar: 15 november en 15 mei. Voor projecten die plaatsvinden tussen 1 februari en 30 juni, stuurt u de aanvraag op voor 15 november. Voor projecten die plaatsvinden tussen 1 september en 31 januari, stuurt u uw aanvraag op voor 15 mei. Elke school heeft recht op één goedgekeurd dynamoPROJECT per ronde. Had uw school in de vorige ronde al een goedgekeurd project, dan moet u een ronde overslaan.</li></ul>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<ul><li><strong>dynamoOPWEG</strong>: gratis en onbeperkt</li><li><strong>dynamoPROJECT</strong>: één goedkeuring voor maximum 1.500 euro per ronde</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:06:00.727342303Z","laatstGewijzigd":"2023-05-04T12:40:16.957440812Z","laatstOntvangen":"2023-05-04T12:40:16.957440812Z","productnummer":"208","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/957f5d5b-a67f-4dff-b23f-5ff0cc2983d5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b95097da-f665-4a2c-bfd6-3ca0354dd606"},{"id":"c459ff1b-cf37-4f67-9e68-b5d9ffebe6ad","generatedAtTime":"2023-05-10T07:56:13.784409Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Aanvraag tot onderzoek van het binnenmilieu in een woning of openbaar gebouw"},"beschrijving":{"nl":"<p>Als u gezondheidsklachten hebt die te maken hebben met de luchtkwaliteit in uw woning, dan kunt u daarvoor de hulp inroepen van gezondheidswerkers. Zij kunnen voor u een aanvraag indienen voor een onderzoek van het binnenmilieu van uw woning.</p><p>Ook voor publieke toegankelijke openbare gebouwen zoals scholen kan een aanvraag voor een onderzoek ingediend worden.</p><p>Op de website van Zorg en Gezondheid vindt u meer informatie over de kwaliteit van het binnenmilieu.</p>"},"type":"AdviesBegeleiding","themas":["WelzijnGezondheid"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 11 juni 2004 houdende maatregelen tot bestrijding van de gezondheidsrisico's door verontreiniging van het binnenmilieu (B.S.19.10.2004).</p>"},"zoektermen":{"nl":["analyse","binnenklimaat","binnenlucht","binnenshuis","controle","klimaat","lucht","luchtverontreiniging","meting","onderzoek","ventilatie","vervuilde lucht"]},"bevoegdeOverheden":[{"id":"OVO000365","@id":"OVO000365"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Om een aanvraag in te kunnen dienen voor een onderzoek van het binnenmilieu:</p><ul><li>moet u gezondheidsklachten hebben of een potentieel gezondheidsrisico lopen door verontreiniging van het binnenmilieu</li><li>moet een dienst of tussenpersoon voor u het onderzoek aanvragen met een standaardformulier.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ol><li>Neem het best eerst contact op met een van deze tussenpersonen:<ul><li>gemeentelijke (huisvestings)ambtenaar</li><li>uw huisarts</li><li>OCMW-verpleegkundigen of maatschappelijk werker</li><li>gezondheidswerker.</li></ul></li><li>De bovenstaande tussenpersonen kunnen dan met het standaardformulier een gemotiveerde aanvraag indienen bij de Medisch Milieukundige van het Lokaal Gezondheidsoverleg (LOGO).</li><li>De Medisch Milieukundige zal op basis van de aanvraag en een vooronderzoek beslissen of een plaatsbezoek noodzakelijk is en of een meting een meerwaarde oplevert.</li></ol><p>Artsen kunnen de aanvraag voor een onderzoek ook rechtstreeks bezorgen aan de afdeling Preventie.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Woningonderzoeken - Formulier voor de aanvraag van een onderzoek van het binnenmilieu "},"url":"https://www.zorg-en-gezondheid.be/formulier-voor-de-aanvraag-van-een-onderzoek-van-het-binnenmilieu","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Het onderzoek is gratis.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:05:49.097814909Z","laatstGewijzigd":"2023-05-05T17:20:28.754039547Z","laatstOntvangen":"2023-05-05T17:20:28.754039547Z","productnummer":"214","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c459ff1b-cf37-4f67-9e68-b5d9ffebe6ad","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/99fba5f6-47ec-4dc8-bcff-c4c707bd7f0d"},{"id":"c37c9fea-b5ca-42cd-a4ce-ed17d61516ac","generatedAtTime":"2023-05-10T07:56:13.67915Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Jaarlijkse verkeersbelasting voor personenwagens en aanverwante voertuigen"},"beschrijving":{"nl":"<p>De <strong>jaarlijkse verkeersbelasting</strong> is een gewestelijke belasting op <strong>motorvoertuigen</strong> die personen of goederen over de weg vervoeren. In Vlaanderen wordt de verkeersbelasting geïnd door de Vlaamse Belastingdienst.</p>"},"type":"FinancieleVerplichting","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Op de website van de Vlaamse Belastingdienst vindt u meer informatie over de regelgeving voor de jaarlijkse verkeersbelasting.</p>"},"uitzonderingen":{"nl":"<p>Deze voertuigen zijn vrijgesteld van de jaarlijkse verkeersbelasting:</p><ul><li>voertuigen die uitsluitend worden gebruikt voor een openbare dienst (bijv. de Post, de brandweer, ziekenauto's, het leger, …)</li><li>voertuigen die als persoonlijk vervoermiddel gebruikt door grootoorlogsinvaliden</li><li>taxi's</li><li>speed pedelecs, lichte vierwielers en motorfietsen met een cilinderinhoud &lt; 251 cc die ingeschreven zijn bij de DIV</li><li>landbouwvoertuigen als ze enkel gebruikt worden voor de landbouwarbeid</li></ul>"},"zoektermen":{"nl":["geautomatiseerde","geautomatiseerde voertuigen","gv","lijkwagen","meer betalen","periode","groene verkeersbelasting","lichte","tractor","bestelwagen","bestelauto","autotax","autotaks","belasting","auto","autobelasting","speed pedelecs"]},"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"voorwaarden":[{"beschrijving":{"nl":"<p>U betaalt een jaarlijkse verkeersbelasting vanaf de inschrijving van uw <strong>nieuw</strong> of <strong>tweedehandsvoertuig</strong> bij de Dienst Inschrijving Voertuigen (DIV).</p><p>Tot de categorie personenwagens en aanverwante voertuigen behoren:</p><ul><li>personenauto's</li><li>auto's voor dubbel gebruik (vervoer van personen en goederen)</li><li>trage auto's voor dubbel gebruik</li><li>minibussen</li><li>ziekenwagens</li><li>motorfietsen (ook driewielers en vierwielers)</li><li>lichte vrachtauto's (maximaal toegelaten massa tot 3500 kg)</li><li>aanhangwagens, boot- en kampeeraanhangwagens (caravan) van 750 kg tot 3500 kg</li><li>kampeerauto's (mobilhomes)</li><li>voertuigen met een transitplaat of tijdelijke nummerplaat.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Na <strong>de inschrijving</strong> van uw <strong>nieuw</strong> of <strong>tweedehandsvoertuig</strong> bij de Dienst Inschrijving Voertuigen (DIV), stelt de DIV de <strong>Vlaamse Belastingdienst</strong> op de hoogte van uw inschrijving.</p><ul><li>U ontvangt van de Vlaamse Belastingdienst <strong>automatisch jaarlijks</strong> een <strong>aanslagbiljet</strong> met een <strong>overschrijvingsformulier</strong> zolang uw voertuig blijft ingeschreven.</li><li>U betaalt de verkeersbelasting <strong>vanaf de eerste dag van de maand van inschrijving</strong>.</li><li>Als u meent dat uw verkeersbelasting niet correct is (bijv. de berekening), dan kunt u een bezwaar indien. </li></ul><p>Zodra u uw nummerplaat laat schrappen, moet u geen verkeersbelasting meer betalen.</p><p>Op de website van de Vlaamse Belastingdienst kunt u zelf de status van uw dossier opvolgen via het digitaal loket.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Jaarlijkse verkeersbelasting (Vlaanderen.be)"},"url":"https://www.vlaanderen.be/jaarlijkse-verkeersbelasting-vkb","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>U kunt zelf berekenen hoeveel verkeersbelasting u zal moeten betalen via de online simulator of met de simulatie-app. De simulatie is louter indicatief en geeft niet het officiële bedrag.</p><p>Het bedrag van de verkeersbelasting wordt:</p><ul><li>jaarlijks op <strong>1 juli</strong> geïndexeerd</li><li>berekend op basis van de het vermogen (kW - kilowatt) van het voertuig, de euronorm en de CO<sub>2</sub>- uitstoot.</li></ul><p>Sinds<strong> 1 juli 2017</strong> betalen de <strong>lichte vrachtwagens</strong>, lijkwagens, tractoren en trekkers met een MTM tot en met 3500 kg die geen leasing zijn, een <strong>groene jaarlijkse verkeersbelasting</strong>. De verkeersbelasting voor deze voertuigen kunt u momenteel nog niet online simuleren.</p><p><strong>Vermindering van de jaarlijkse verkeersbelasting</strong></p><p>Afhankelijk van het <strong>type voertuig</strong> of de <strong>activiteit van het voertuig </strong>is een vermindering van de jaarlijkse verkeersbelasting mogelijk.</p><p>Soorten verminderingen:</p><ul><li>Terugbetaling gecombineerd vervoer</li><li>Vermindering voor havenactiviteit</li><li>Vermindering voor een autobus die deel uitmaakt van een wagenpark</li><li>Forfaitaire vermindering voor LPG voertuigen (sinds aanslagjaar 2016)</li></ul><p>Sommige verminderingen krijgt u automatisch, andere moet u aanvragen. Op de website van de Vlaamse Belastingdienst vindt u meer informatie over de verminderingen.</p><p><strong>Vrijstelling van de jaarlijkse verkeersbelasting</strong></p><p>In bepaalde gevallen is een vrijstelling van de jaarlijkse verkeersbelasting mogelijk.</p><p>Soorten vrijstellingen:</p><ul><li>Vrijstelling occasioneel vervoer (rittenblad)</li><li>Vrijstelling voor persoon met een handicap</li><li>Vrijstelling voor bepaalde brandstoftypes sinds 01/07/2017</li><li>Vrijstelling voor bepaalde brandstoftypes (sinds aanslagjaar 2016)</li></ul><p>Op de website van de Vlaamse Belastingdienst vindt u meer informatie over de vrijstellingen.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:05:50.927050348Z","laatstGewijzigd":"2023-05-05T17:20:32.805855218Z","laatstOntvangen":"2023-05-05T17:20:32.805855218Z","productnummer":"227","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c37c9fea-b5ca-42cd-a4ce-ed17d61516ac","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2ce6641e-c0ef-450d-a616-371e1367a890"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=214",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=213",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-10T07:56:13.67915Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=215",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-10T07:56:15.564547Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=214",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "1337ced6-d07a-4535-9052-6d56c1f08b95",
+      "generatedAtTime": "2023-05-10T07:56:15.564547Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vrijstelling van onroerende voorheffing op grond van de bijzondere bestemming van het onroerend goed"
+      },
+      "beschrijving": {
+        "nl": "<p>Voor sommige onroerende goederen wordt een vrijstelling toegekend omdat ze voor bepaalde doeleinden aangewend worden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p><strong>1e voorwaarde: aanwending voor specifieke doeleinden</strong></p><p>De wet somt de doeleinden op waarvoor het onroerend goed aangewend moet worden. Als een onroerend goed voor meerdere doeleinden aangewend wordt, kan enkel vrijstelling toegekend worden voor de delen die voor de opgesomde doeleinden aangewend worden. De rest van het onroerend goed zal gewoon belast worden.</p><p>De opgesomde doelen zijn:</p><ul><li>openbare eredienst</li><li>onderwijs</li><li>hospitalen, rusthuizen, klinieken, dispensaria</li><li>vakantiehuizen voor gepensioneerden</li><li>andere soortgelijke weldadigheidsinstellingen (hiermee wordt bedoeld: soortgelijk aan de in de vorige vier puntjes expliciet opgesomde categorieën (zoals bijvoorbeeld assistentiewoningen, die soortgelijk zijn aan rusthuizen).</li></ul><p><strong>2e voorwaarde: gebrek aan winstoogmerk</strong></p><p>De belastingplichtige of een bewoner mag geen winst nastreven. Dit betekent dat de belastingplichtige uit het onroerend goed geen voordeel mag halen (bijvoorbeeld een huurvergoeding) , tenzij hij het voordeel of de vergoeding uitsluitend gebruikt voor de instandhouding of de uitbreiding van de activiteit die in het onroerend goed wordt uitgeoefend.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U kunt de vrijstelling aanvragen met een aanvraagformulier:</p><ul><li>op voorhand, als u nog geen aanslagbiljet hebt ontvangen voor het aanslagjaar waarvoor u de vrijstelling wil aanvragen. </li><li>via een <strong>bezwaar,</strong> als u al wel een aanslagbiljet hebt ontvangen voor het aanslagjaar waarvoor u de vrijstelling wil aanvragen. </li></ul><p>Op het aanvraagformulier staat vermeld:</p><ul><li>welke <strong>bewijsstukken</strong> u moet meesturen die aantonen dat u aan de voorwaarden voldoet.</li><li>hoe u het aanvraagformulier moet indienen.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het gaat om een volledige vrijstelling van onroerende voorheffing, inclusief de opcentiemen.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:35.846823041Z",
+      "laatstGewijzigd": "2023-05-05T17:40:09.870821626Z",
+      "laatstOntvangen": "2023-05-05T17:40:09.870821626Z",
+      "productnummer": "1891",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1337ced6-d07a-4535-9052-6d56c1f08b95",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/70c46906-a4bd-43b2-8466-b1eea5b0b441"
+    },
+    {
+      "id": "ce2c50fa-9eb9-4dfb-9d5c-67d38f6c891d",
+      "generatedAtTime": "2023-05-10T07:56:15.48843Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vermindering van de onroerende voorheffing voor energiezuinige gebouwen"
+      },
+      "beschrijving": {
+        "nl": "<p>U kunt vermindering krijgen van de onroerende voorheffing voor een energiezuinige woning of ander gebouw. Het E-peil bepaalt of een gebouw energiezuinig is of niet. Het E-peil van een gebouw wordt vastgelegd in een certificaat, het energieprestatiecertificaat (EPC). De vermindering kan toegekend worden voor nieuwbouw, voor verbouwingen die gelijkgesteld zijn met nieuwbouw en voor gebouwen die een ingrijpende energetische renovatie ondergaan.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen",
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Voor de toekenning van de vermindering maakt het niet uit of het gebouw bewoond is of niet, en het maakt evenmin uit of de bewoner eigenaar is van het gebouw of niet.</p><p>Wel moet er altijd een stedenbouwkundige vergunning aangevraagd zijn en moet het gebouw een voldoende laag E-peil hebben. Hoe laag het E-peil moet zijn hangt af van de datum van de bouwvergunning en de op dat moment geldende te behalen energienormen.<br /></p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>EPC-certificaat</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>De vermindering wordt <strong>automatisch toegekend</strong> op uw aanslagbiljet. U moet er dus zelf niets voor doen. Als u meent dat de vermindering ten onrechte niet toegekend werd op uw aanslagbiljet, kunt u <a href=\"https://www.uat-vlaanderen.be/bezwaar-indienen-tegen-een-belasting\" rel=\"noreferrer noopener\" target=\"_blank\">bezwaar indienen</a> bij de Vlaamse Belastingdienst. Stuur dan zeker een kopie van uw EPC en een kopie van de ontvangstmelding van de aanvraag van de stedenbouwkundige vergunning mee.</p><p>De vermindering wordt toegekend <strong>vanaf het aanslagjaar dat volgt op het jaar waarin het E-peil werd bepaald</strong>. Deze datum is vermeld onderaan het EPC. Als de woning van eigenaar verandert, dan kan ook de nieuwe eigenaar voor de rest van de termijn de vermindering genieten.<br /><br /><em>Voorbeeld: Het EPC werd uitgereikt op 10/06/2019. De vermindering werd voor de eerste keer toegekend op het aanslagbiljet van 2020.</em></p><p><em>Voorbeeld: X verkrijgt in 2012 een E-peil van E60 voor zijn woning. Vanaf aanslagjaar 2013 tot en met aanslagjaar 2022 krijgt hij voor deze woning een vermindering van de onroerende voorheffing van 20%. In 2017 verkoopt X de woning aan Y. Y zal de vermindering van de onroerende voorheffing van 20% verder kunnen genieten voor de aanslagjaren 2018 tot en met 2022.</em></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Vermindering van de onroerende voorheffing voor energiezuinige gebouwen"
+          },
+          "url": "https://www.vlaanderen.be/vermindering-van-de-onroerende-voorheffing-voor-energiezuinige-gebouwen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De vermindering is een percentage van de onroerende voorheffing. Het hangt af van de datum van de bouwvergunning en de op dat moment geldende te behalen energienormen.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:36.084874318Z",
+      "laatstGewijzigd": "2023-05-05T17:40:10.128834634Z",
+      "laatstOntvangen": "2023-05-05T17:40:10.128834634Z",
+      "productnummer": "1892",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ce2c50fa-9eb9-4dfb-9d5c-67d38f6c891d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5191b211-4b23-47df-8254-2671140b0f07"
+    },
+    {
+      "id": "712a76c0-f8ce-4af9-ad1d-f0dee55508ff",
+      "generatedAtTime": "2023-05-10T07:56:15.395693Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Belastingkrediet in de onroerende voorheffing voor VEN-gebied"
+      },
+      "beschrijving": {
+        "nl": "<p>Voor het gedeelte van onbebouwd onroerend goed dat gelegen is in het <strong>VEN-gebied</strong>, geniet u een vermindering in de vorm van een <strong>belastingkrediet</strong>, dat verrekend wordt met het aandeel voor het Vlaamse Gewest. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen",
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Het moet gaan om een onbebouwd onroerend goed (gronden, weilanden...).</li><li>Het onroerende goed moet in een VEN-gebied liggen, Een <strong>VEN-gebied</strong> is een onroerend goed dat in het Vlaamse Ecologische Netwerk (VEN) ligt. In dat Ecologisch Netwerk krijgt de natuur een bijkomende bescherming. </li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Het belastingkrediet wordt automatisch toegekend.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het belastingkrediet bedraagt 2,5% op het kadastraal inkomen:</p><ul><li>Sinds <strong>aanslagjaar 2018</strong> betekent dit dat men maar 1,47% basisheffing verschuldigd is in plaats van 3,97%. De opcentiemen voor de gemeente en de provincie blijven wel altijd volledig verschuldigd.</li><li>Tot en met a<strong>anslagjaar 2017</strong> betekende dit dat men de basisheffing voor het Vlaamse Gewest niet verschuldigd was. De opcentiemen voor de gemeente en de provincie bleven wel altijd volledig verschuldigd.</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:36.54472977Z",
+      "laatstGewijzigd": "2023-05-05T17:40:10.719499952Z",
+      "laatstOntvangen": "2023-05-05T17:40:10.719499952Z",
+      "productnummer": "1894",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/712a76c0-f8ce-4af9-ad1d-f0dee55508ff",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b92df262-8a4d-4327-8a63-c8c49a5ba3c6"
+    },
+    {
+      "id": "0bfc03cf-ac25-47ba-96cd-707d4f00e7ee",
+      "generatedAtTime": "2023-05-10T07:56:15.349965Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Belastingkrediet in de onroerende voorheffing voor rechtspersonen"
+      },
+      "beschrijving": {
+        "nl": "<p>Rechtspersonen krijgen een <strong>vermindering van de onroerende voorheffin</strong>g in de vorm van een <strong>belastingkrediet.</strong> Dat belastingkrediet wordt verrekend met het aandeel dat bestemd zou zijn voor het Vlaamse Gewest. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het belastingkrediet wordt <strong>vanaf aanslagjaar 2020</strong> toegekend:</p><ul><li>aan rechtspersonen</li><li>voor hun materieel en outillage</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Het belastingkrediet wordt <strong>automatisch toegekend</strong> op het aanslagbiljet (voor het aandeel van de rechtspersonen in de belastingschuld).</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p><strong>Vanaf aanslagjaar 2020</strong> bedraagt het belastingkrediet voor rechtspersonen <strong>2,5%</strong> van het kadastraal inkomen vermenigvuldigd met de <a href=\"https://www.uat-vlaanderen.be/uw-overheid/werking-en-structuur/hoe-werkt-de-vlaamse-overheid/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/principe-van-desindexatie\">desindexatiecoëfficiënt</a> voor materieel en outillage</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:36.401424282Z",
+      "laatstGewijzigd": "2023-05-05T17:40:10.541847537Z",
+      "laatstOntvangen": "2023-05-05T17:40:10.541847537Z",
+      "productnummer": "1893",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0bfc03cf-ac25-47ba-96cd-707d4f00e7ee",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/18e03f71-b3d6-49dc-b1ac-86bd9b57dd2a"
+    },
+    {
+      "id": "b03e786a-b953-41cf-9405-39041d6ef123",
+      "generatedAtTime": "2023-05-10T07:56:15.26952Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Verminderd tarief van de onroerende voorheffing voor sociale huisvesting"
+      },
+      "beschrijving": {
+        "nl": "<p>Woningen die als sociale woningen verhuurd worden, worden aan een verlaagd tarief belast in de onroerende voorheffing. Ook woningen die via een sociaal verhuurkantoor (SVK) verhuurd worden, genieten van een lager tarief.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "uitzonderingen": {
+        "nl": "<p>Als u als privé-eigenaar zelf een sociale woning betrekt, kan u niet genieten van de verlaagde tarieven.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>De verlaagde tarieven zijn enkel bedoeld voor <strong>woningen die als sociale woning of via een sociaal verhuurkantoor (SVK) verhuurd worden</strong>. </li><li>Als u als privé-eigenaar zelf een sociale woning betrekt, kan u niet genieten van de verlaagde tarieven.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>In sommige gevallen kan het verlaagd tarief automatisch worden toegekend. In andere gevallen na aanvraag.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Het verlaagd tarief voor sociale verhuur bedraagt:</li></ul><div data-table=\"\"><table><tbody><tr><td><p>Vanaf aanslagjaar 2018</p></td><td><p><strong>2,54 %</strong></p></td></tr><tr><td><p>Tot en met aanslagjaar 2017</p></td><td><p><strong>1,6 %</strong></p></td></tr></tbody></table></div><ul><li>Voor de woningen die door een erkend sociaal verhuurkantoor worden gehuurd om doorverhuurd te worden, is vanaf aanslagjaar 2019 een tarief van <strong>2,4 %</strong> van toepassing.</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:36.675426812Z",
+      "laatstGewijzigd": "2023-05-05T17:40:11.046668638Z",
+      "laatstOntvangen": "2023-05-05T17:40:11.046668638Z",
+      "productnummer": "1895",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b03e786a-b953-41cf-9405-39041d6ef123",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/15dd77e4-daca-4c41-8d94-b9ebc57d53bc"
+    },
+    {
+      "id": "2875e1fe-1749-4598-bfa0-158adb2d87fb",
+      "generatedAtTime": "2023-05-10T07:56:15.187724Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vrijstelling van onroerende voorheffing voor jeugdwerkorganisaties en jeugdverblijfscentra"
+      },
+      "beschrijving": {
+        "nl": "<p>Jeugdwerkorganisaties en jeugdverblijfscentra zijn vrijgesteld van onroerende voorheffing. Als ze tijdig geregistreerd worden, wordt de vrijstelling automatisch toegekend. Anders kan het via een bezwaarschrift.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen",
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Volgende onroerende goederen kunnen vrijgesteld worden van onroerende voorheffing:</p><ul><li>de jeugdlokalen en -terreinen die gebruikt worden door:<ul><li>landelijk georganiseerde en gesubsidieerde jeugdverenigingen en hun lokale afdelingen (decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid)</li><li>lokale jeugdwerkinitiatieven waarvan het gemeentebestuur bevestigt dat ze jeugdwerk verrichten (zoals bedoeld in artikel 9, § 3, tweede lid, van hetzelfde decreet.</li></ul></li><li>de jeugdverblijfscentra: lokalen en terreinen die gebruikt worden als sociaal-toeristisch verblijf die het label jeugdtoerisme hebben (artikel 9 van het besluit van de Vlaamse Regering van 28 mei 2004 betreffende de erkenning en de financiële ondersteuning van verblijven in het kader van `Toerisme voor Allen').</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<h4>Automatisch bij juiste registratie</h4><p>De vrijstelling wordt <strong>automatisch</strong> toegekend als alle noodzakelijke gegevens van de jeugdlokalen tijdig en juist geregistreerd zijn. Voor de registratie werkt de Vlaamse Belastingdienst samen met Ambrassade VZW. Op hun website vindt u een <a href=\"http://www.ambrassade.be/nl/kennis/artikel/onroerende-voorheffing\">uitgebreide toelichting over de onroerende voorheffing, op maat van de jeugdorganisaties en de nodige links om de registratie uit te kunnen voeren</a>.</p><h4>Via bezwaar bij geen juiste registratie</h4><p>Als u toch een aanslagbiljet krijgt en u meent dat u in aanmerking komt voor vrijstelling, dan moet u zeker tijdig <a href=\"https://www.uat-vlaanderen.be/bezwaar-indienen-tegen-een-belasting\">een bezwaar indienen</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het gaat om een volledige vrijstelling van onroerende voorheffing, inclusief de opcentiemen.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:37.234114671Z",
+      "laatstGewijzigd": "2023-05-05T17:40:11.637328767Z",
+      "laatstOntvangen": "2023-05-05T17:40:11.637328767Z",
+      "productnummer": "1900",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2875e1fe-1749-4598-bfa0-158adb2d87fb",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3fe052b4-a457-479c-b561-fe988a67a259"
+    },
+    {
+      "id": "06220379-ac8d-4cc0-a983-d2b7c279ecdd",
+      "generatedAtTime": "2023-05-10T07:56:15.052124Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vrijstelling van de onroerende voorheffing op grond van bijzondere wetgeving"
+      },
+      "beschrijving": {
+        "nl": "<p>Sommige instellingen, maatschappijen, verenigingen, enz. genieten een onvoorwaardelijke vrijstelling van de onroerende voorheffing op grond van bijzondere wetgeving, zoals bijvoorbeeld de wet waarbij ze zijn opgericht.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Voorbeelden van instellingen, maatschappijen, verenigingen die in aanmerking komen zijn:</p><ul><li>de vereniging van Vlaamse Steden en Gemeenten,</li><li>de Nationale Kas voor Beroepskrediet,</li><li>de Nationale Maatschappij der Waterleidingen,</li><li>...</li></ul><p>Bepaalde maatschappijen zijn <strong>alleen vrijgesteld van provinciale en gemeentelijke belastingen</strong>. Dit betekent dat ze enkel de basisheffing aan het Gewest verschuldigd zijn, maar geen opcentiemen moeten betalen. Dit geldt bijvoorbeeld voor de Nationale Maatschappij voor Belgische Spoorwegen (NMBS). In deze gevallen moet er niet voldaan worden aan enige bijkomende voorwaarde.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Als u meent dat uw organisatie voor deze vrijstelling in aanmerking komt, neem dan contact op met de Vlaamse Belastingdienst.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De aard van de vrijstelling wordt in de bijzondere wetgeving bepaald. Het kan gaan om een volledige vrijstelling van onroerende voorheffing, inclusief of exclusief de opcentiemen.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:37.351896131Z",
+      "laatstGewijzigd": "2023-05-05T17:40:12.167501484Z",
+      "laatstOntvangen": "2023-05-05T17:40:12.167501484Z",
+      "productnummer": "1902",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/06220379-ac8d-4cc0-a983-d2b7c279ecdd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/8f61424f-3b19-4dca-9769-b81952d99d06"
+    },
+    {
+      "id": "4795091f-99b8-4789-8f42-c6964ae7879d",
+      "generatedAtTime": "2023-05-10T07:56:15.036929Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vrijstelling van de onroerende voorheffing voor natuurreservaten en erkende bossen"
+      },
+      "beschrijving": {
+        "nl": "<p>Onroerende goederen die erkend zijn en beheerd worden als natuurreservaat of als bos met een bijzondere waarde, kunnen in bepaalde gevallen vrijgesteld worden van onroerende voorheffing. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen",
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het moet gaan om:</p><ul><li><p>natuurreservaten: onbebouwde onroerende goederen waarvoor een <a href=\"https://www.natuurenbos.be/natuurbeheerplan\">natuurbeheerplan</a> type 4 goedgekeurd is.</p></li><li><p>tot juni 2020: erkende bossen waarvoor een bosbeheerplan werd goedgekeurd, als:</p><ul><li><p>milieubeschermend bos (overeenkomstig artikel 16 van het Bosdecreet)</p></li><li>bosreservaat (overeenkomstig artikel 22 van het Bosdecreet)</li><li>zone voor de productie van bosbouwkundig teeltmateriaal (overeenkomstig artikel 42 van het Bosdecreet).</li></ul></li></ul><p>Op de website van Het Agentschap voor Natuur en Bos vindt u meer informatie.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U moet de vrijstelling aanvragen door <a href=\"https://www.uat-vlaanderen.be/bezwaar-indienen-tegen-een-belasting\">een bezwaar in te dienen</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het gaat om een volledige vrijstelling van onroerende voorheffing, inclusief opcentiemen.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:37.875792835Z",
+      "laatstGewijzigd": "2023-05-05T17:40:12.947849263Z",
+      "laatstOntvangen": "2023-05-05T17:40:12.947849263Z",
+      "productnummer": "1905",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4795091f-99b8-4789-8f42-c6964ae7879d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e9411d64-7d58-40a3-a22c-5e81dd2870f8"
+    },
+    {
+      "id": "f6589f25-1bff-41c0-b45c-5cc926f7d30f",
+      "generatedAtTime": "2023-05-10T07:56:14.918555Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Woningpas"
+      },
+      "beschrijving": {
+        "nl": "<p>Een woning bouwen, verbouwen, verkopen of verhuren, daar komt heel wat papierwerk bij kijken. De woningpas is een gratis digitaal paspoort dat alle informatie over uw huis samenbrengt in één handig overzicht.</p><div><div><p>U vindt er alle beschikbare attesten en informatie over de woning, zoals keuringen, gegevens uit het energieprestatiecertificaat (EPC) of uw EPB-aangifte, … Zo hebt u als eigenaar minder papierwerk en meer duidelijkheid over de kwaliteit en zuinigheid van uw woning, en boekt u tijdwinst.</p></div></div>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Woningpas"
+          },
+          "url": "https://woningpas.vlaanderen.be",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:44.46497936Z",
+      "laatstGewijzigd": "2023-05-05T17:45:21.51238636Z",
+      "laatstOntvangen": "2023-05-05T17:45:21.51238636Z",
+      "productnummer": "2049",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f6589f25-1bff-41c0-b45c-5cc926f7d30f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c196de03-6adc-44de-994c-ee2771ec09a9"
+    },
+    {
+      "id": "ed88ac54-da2a-4f2c-ac52-b83c0beccff8",
+      "generatedAtTime": "2023-05-10T07:56:14.821604Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams",
+        "Provinciaal",
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Recht van voorkoop"
+      },
+      "beschrijving": {
+        "nl": "<p>Het recht van voorkoop is een wettelijk recht dat de houder van dat recht de mogelijkheid geeft om gronden en gebouwen die verkocht worden, bij voorrang op de kandidaat-koper aan te kopen, voor dezelfde prijs en onder dezelfde voorwaarden. In een gebied waar het voorkooprecht speelt, mag een eigenaar alleen verkopen nadat hij de begunstigden van het voorkooprecht de gelegenheid heeft gegeven hun recht uit te oefenen.</p>"
+      },
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Recht van voorkoop in Vlaanderen"
+          },
+          "url": "http://www.vlm.be/nl/themas/Vlaamsegrondenbank/evoorkooploket/voorkooprecht",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:44.590265037Z",
+      "laatstGewijzigd": "2023-05-04T12:40:56.523930348Z",
+      "laatstOntvangen": "2023-05-04T12:40:56.523930348Z",
+      "productnummer": "2050",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ed88ac54-da2a-4f2c-ac52-b83c0beccff8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6bddd747-c34b-4cfb-8485-0d2e05d6f367"
+    },
+    {
+      "id": "9b22dd68-6340-4547-8843-f842877ec55e",
+      "generatedAtTime": "2023-05-10T07:56:14.796566Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams",
+        "Derden"
+      ],
+      "naam": {
+        "nl": "EPC-labelpremie bij energierenovatie (via Fluvius)"
+      },
+      "beschrijving": {
+        "nl": "<p>Hebt u een woning met een slechte energieprestatie? Als u de woning binnen de 5 jaar zo grondig renoveert dat het EPC-label aanzienlijk verbetert, dan kunt u sinds 2021 een premie krijgen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<div><div><p>Energiebesluit van 19 november 2010</p></div></div>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>De EPC-labelpremie is <strong>niet cumuleerbaar</strong> met de <strong>Totaalrenovatiebonus</strong>.</p><ul><li>Wie al 1 investering heeft gedaan met een eindfactuur in de periode 2017-2020 en daarvoor een premie heeft aangevraagd of aanvraagt, zit automatisch in het traject van de <a href=\"https://www.uat-vlaanderen.be/totaalrenovatiebonus-beno-pass-van-fluvius\">Totaalrenovatiebonus</a> en komt niet in aanmerking voor de EPC-labelpremie.</li><li>Wie echter in 2020 een bestelbon/offerte heeft ondertekend voor een investering die kan meetellen voor de totaalrenovatiebonus en de eindfactuur hiervoor in 2021 heeft gekregen, heeft de keuze tussen het traject van de Totaalrenovatiebonus of de EPC-labelpremie.</li></ul><p>De EPC-labelpremie is <strong>cumuleerbaar</strong> met de energiepremies van Fluvius per maatregel (isolatie, beglazing, ...) of <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie\">Mijn Verbouwpremie</a> (vanaf 1-10-2022).</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "renuveren",
+          "renuveer",
+          "epc-premie",
+          "epclabelpremie",
+          "energielabelpremie"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>De EPC-labelpremie is er <strong>voor alle woningeigenaars</strong>.<br />Deze premie werd eerst ingevoerd voor nieuwe eigenaars, maar werd dus uitgebreid naar alle eigenaars van een woning of wooneenheid (bijv. appartement).</li><li>De EPC-labelpremie is er enkel voor een woning of wooneenheid met een <strong>ondermaatse energieprestatie</strong>. Die wordt aangetoond met een <strong>energieprestatiecertificaat (EPC)</strong>, dat niet ouder mag zijn dan van <strong>2019</strong>.<br />Het EPC-label (lettercode op het <a href=\"https://www.uat-vlaanderen.be/epc-residentieel\">Energieprestatiecertificaat (EPC)</a> van<ul><li>de <strong>woning </strong>heeft <strong>EPC-label</strong> <strong>E of F </strong>en moet door <strong>renovatie </strong>binnen de 5 jaar minimaal label C halen</li><li>de <strong>wooneenheid (appartement) </strong>heeft <strong>EPC-label</strong> <strong>D, E of F</strong> en moet door <strong>renovatie </strong>binnen de 5 jaar minimaal label B halen.</li></ul></li><li>Sloop/herbouw komt niet in aanmerking voor de EPC-labelpremie.</li><li>Het behaalde EPC-label moet worden aangetoond na 5 jaar met een nieuw EPC. Het nieuwe EPC mag maximaal 12 maanden oud zijn op het moment van aanvraag van de EPC-labelpremie.</li><li>Het bedrag van de premie hangt af van het behaalde EPC-label na renovatie(s).</li><li>De premie kan in schijven worden verkregen.<br />Bijvoorbeeld: als een eigenaar binnen de 5 jaar de woning renoveert en in aanmerking komt voor een premie voor label C, kan diezelfde eigenaar vervolgens ook nog in aanmerking komen voor een bijkomende premie voor het behalen van label B (en eventueel daarna nogmaals voor het behalen van label A) binnen dezelfde periode van 5 jaar. De bijkomende premie is in dit geval gelijk aan het verschil tussen de premie voor het nieuw behaalde label en de al verkregen labelpremie.</li><li>De EPC-labelpremie is<ul><li><strong>combineerbaar met de energiepremies van Fluvius</strong> per maatregel (isolatie, beglazing, ...) of <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie\">Mijn Verbouwpremie</a> (vanaf 1-10-2022)</li><li><strong>niet combineerbaar met de Totaalrenovatiebonus</strong> (zie ook Uitzonderingen hieronder).</li></ul></li><li>Raadpleeg <strong>alle voorwaarden</strong> van de EPC-labelpremie het <a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/epc-labelpremie\">Informatieblad 2022 of 2021</a> van Fluvius.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<div><p>De aanvraagprocedure bestaat uit <strong>2 stappen</strong>:</p><ol><li><strong>Activatie EPC-labelpremie</strong><br />Zodra u beschikt over een ‘EPC-vóór’ waaruit de ‘slechte’ energieprestatie van uw woning (label E of slechter) of wooneenheid (label D of slechter) blijkt, kunt u bij Fluvius de activatie van de EPC-labelpremie aanvragen. U moet de <a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/epc-labelpremie\">activatie online aanvragen bij Fluvius</a>.</li><li><strong>Uitbetaling EPC-labelpremie</strong><br />Binnen de 5 jaar na datum van dit ‘EPC-vóór’ moet u een nieuw EPC laten opmaken waaruit blijkt dat uw woning minstens label C heeft behaald (label B voor een wooneenheid). Vervolgens vraagt u de premie aan binnen de 12 maanden na dit ‘EPC-na’. U moet de <a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/epc-labelpremie\">premie online aanvragen bij Fluvius</a>.</li></ol></div>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "EPC-labelpremie (Fluvius.be)"
+          },
+          "url": "https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/epc-labelpremie",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "EPC-labelpremie (op Energiesparen.be)"
+          },
+          "url": "https://www.energiesparen.be/epc-label-premie",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<div data-table=\"\"><table><tbody><tr><td> </td><td>Maximaal bedrag van<br /><strong>EPC-labelpremie</strong><br />(afhankelijk van het behaalde EPC-label na renovatie binnen de 5 jaar)</td><td>Maximaal bedrag van<br /><strong>EPC-labelpremie<br />voor beschermde afnemers</strong><br />(afhankelijk van het behaalde EPC-label na renovatie binnen de 5 jaar)</td></tr><tr><td colspan=\"1\" rowspan=\"3\"><strong>woning</strong><br />met EPC-label<br /><strong>E of F</strong></td><td rowspan=\"3\"><ul><li>5.000 euro als label A wordt behaald</li><li>3.750 euro als label B wordt behaald.</li><li>2.500 euro als label C wordt behaald</li></ul></td><td rowspan=\"3\"><ul><li>6.000 euro als label A wordt behaald</li><li>4.500 euro als label B wordt behaald.</li><li>3.000 euro als label C wordt behaald</li></ul></td></tr><tr></tr><tr></tr><tr><td colspan=\"1\" rowspan=\"1\"><strong>wooneenheid </strong>(appartement, ...)<br />met EPC-label<br /><strong>D, E of F</strong></td><td rowspan=\"1\"><ul><li>3.750 euro als label A wordt behaald</li><li>2500 euro als label B wordt behaald.</li></ul></td><td rowspan=\"1\"><ul><li>4.500 euro als label A wordt behaald</li><li>3.000 euro als label B wordt behaald</li></ul></td></tr></tbody></table></div><div> </div><div><div>Medegefinancierd door de Europese Unie - NextGenerationEU</div></div>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:35.733282391Z",
+      "laatstGewijzigd": "2023-05-05T17:40:08.895455745Z",
+      "laatstOntvangen": "2023-05-05T17:40:08.895455745Z",
+      "productnummer": "2113",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9b22dd68-6340-4547-8843-f842877ec55e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d1c17f9f-1be2-43b0-98ea-d1dbf5c0a9de"
+    },
+    {
+      "id": "9f4edf50-b149-49ea-81ac-75438c8fa5ef",
+      "generatedAtTime": "2023-05-10T07:56:14.762947Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie erkende onroerenderfgoeddepots"
+      },
+      "beschrijving": {
+        "nl": "<p>Een erkend onroerenderfgoeddepot geldt als een bewaarplaats met een onderzoekersruimte waar in aangepaste gecontroleerde omstandigheden archeologische ensembles, archeologische artefacten of onderdelen van beschermd erfgoed uit het Vlaamse Gewest worden bewaard en beheerd. Het bewaart dus meer dan archeologische vondsten. Het kan bijvoorbeeld ook (tijdelijk) losse onderdelen van een monument bewaren tijdens een langdurige restauratiecampagne.</p><p>Om in aanmerking te komen voor een subsidie gelden, naast de erkenning, een aantal bijkomende voorwaarden zoals een receptieve functie van gemeentegrensoverschrijdend belang vervullen. Om een subsidie te genieten voor de ondersteuning van de werkingskosten sluit het depot een samenwerkingsovereenkomst af met het agentschap Onroerend Erfgoed. De overeenkomst heeft een looptijd van zes jaar en wordt na drie jaar tussentijds geëvalueerd.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 10 - subsidies</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Onroerenderfgoeddepots"
+          },
+          "url": "https://www.onroerenderfgoed.be/ik-werk-voor-een-onroerenderfgoeddepot",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.149746354Z",
+      "laatstGewijzigd": "2023-05-05T17:55:32.349324862Z",
+      "laatstOntvangen": "2023-05-05T17:55:32.349324862Z",
+      "productnummer": "2335",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9f4edf50-b149-49ea-81ac-75438c8fa5ef",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6417ae76-66ae-45e2-be5d-fac9f0113bc7"
+    },
+    {
+      "id": "7d7f4b20-6499-4f1c-ab7c-0eb8f9d88138",
+      "generatedAtTime": "2023-05-10T07:56:14.665537Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsubsidie voor archeologisch vervolgonderzoek"
+      },
+      "beschrijving": {
+        "nl": "<p>Archeologisch vervolgonderzoek is een essentieel onderdeel van de archeologische erfgoedzorg, niet alleen om nieuwe historische kennis te ontwikkelen, maar ook voor een afgestemd erfgoedbeheer en een kwaliteitsvolle ontsluiting van het archeologisch erfgoed dat uiteindelijk ook het publieke draagvlak moet blijven stimuleren. De studie na het vele graafwerk blijft in de praktijk vaak beperkt tot het niveau van de vindplaats, maar mist op die manier het bredere plaatje, de diepgang en de gedetailleerde uitwerking die tot echt nieuwe kennis over het verleden leiden. En daar zit het publiek natuurlijk net op te wachten.</p><p>Extra onderzoeksstappen vergen extra middelen, die niet op de bouwheer, projectontwikkelaar of landbouwer kunnen verhaald worden. Daarom is er vanaf 2018 jaarlijks een budget voor projectsubsidies voor archeologisch vervolgonderzoek.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 10 - subsidies</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Projectsubsidies voor synthese-onderzoek"
+          },
+          "url": "https://www.onroerenderfgoed.be/projectsubsidies-voor-synthese-onderzoek",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.273036214Z",
+      "laatstGewijzigd": "2023-05-05T17:55:32.712441063Z",
+      "laatstOntvangen": "2023-05-05T17:55:32.712441063Z",
+      "productnummer": "2337",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7d7f4b20-6499-4f1c-ab7c-0eb8f9d88138",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/51b3246c-6741-4bb4-8b64-c5fe54f9a66f"
+    },
+    {
+      "id": "f01d83cb-45e4-403a-956d-ca77bdbb48f0",
+      "generatedAtTime": "2023-05-10T07:56:14.650181Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie erkende, archeologische solidariteitsfondsen"
+      },
+      "beschrijving": {
+        "nl": "<p>Elke groepering van initiatiefnemers van bouw- of verkavelingsprojecten kan een archeologisch solidariteitsfonds oprichten. Deze fondsen vergoeden hun leden mits betaling van een bijdrage voor een deel van de kosten van alle archeologische opgravingen waartoe zij verplicht worden. Om erkend te worden moet een fonds een overeenkomst sluiten met de minister. Daarin staan onder meer de berekeningswijze van de ledenbijdrage, de voorwaarden voor de uitkering van vergoedingen, de doelstellingen en doelgroep van het fonds.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 11 - premies</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Archeologiefondsen"
+          },
+          "url": "https://www.onroerenderfgoed.be/archeologiefondsen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.388058502Z",
+      "laatstGewijzigd": "2023-05-05T17:55:32.917473088Z",
+      "laatstOntvangen": "2023-05-05T17:55:32.917473088Z",
+      "productnummer": "2338",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f01d83cb-45e4-403a-956d-ca77bdbb48f0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/efee556f-6b41-4c0b-a912-366b08590244"
+    },
+    {
+      "id": "0b1f8564-fdbd-4d2c-b6fb-93cd329f6c4d",
+      "generatedAtTime": "2023-05-10T07:56:14.612793Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Aanvullende erfgoedpremie voor goed onderhoud"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u kunt aantonen dat u het erfgoed waarvoor u de erfgoedpremie vraagt de voorbije zes jaar zelf goed onderhouden hebt, dan kunt u een aanvullende premie van 10% aanvragen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 11 - premies</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Enkel de aanvrager van de <a href=\"https://www.uat-vlaanderen.be/erfgoedpremie-voor-beschermde-monumenten-en-landschappen-standaardprocedure\">erfgoedpremie</a> die het erfgoed zelf gedurende zes jaar goed heeft onderhouden, kan de aanvullende premie aanvragen. Nieuwe eigenaars kunnen geen aanvullende premie aanvragen omdat ze het onderhoud niet zelf uitvoerden.</p><p>Goed onderhoud is een combinatie van regelmatige inspecties, preventieve acties en, indien nodig, herstellingswerken. Goed onderhoud betekent dat u regelmatig de toestand van uw erfgoed controleert of laat controleren op gebreken of schade. U maakt een toestandsrapport op of laat het opmaken, zodat u onderhoudswerken kunt gaan inplannen en uitvoeren.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Aanvullende erfgoedpremie voor goed onderhoud"
+          },
+          "url": "https://www.onroerenderfgoed.be/aanvullende-erfgoedpremie-voor-goed-onderhoud",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.890754956Z",
+      "laatstGewijzigd": "2023-05-05T18:00:07.927336803Z",
+      "laatstOntvangen": "2023-05-05T18:00:07.927336803Z",
+      "productnummer": "2341",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0b1f8564-fdbd-4d2c-b6fb-93cd329f6c4d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/be2c0dbf-546a-4b72-ba80-979c924658f1"
+    },
+    {
+      "id": "2e93bb47-e26a-43c1-bd07-0d57386c1d1d",
+      "generatedAtTime": "2023-05-10T07:56:14.533075Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Fusieondersteuning voor woonmaatschappijen"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor de eventuele nadelige financiële gevolgen voor een woonmaatschappij, ten gevolge van een herstructurering in de zin van boek 12 van het Wetboek van vennootschappen en verenigingen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, art. 4.50<br />Besluit Vlaamse Codex Wonen, art. 4,156 t.e.m. art. 4,159</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:08.548461958Z",
+      "laatstGewijzigd": "2023-05-05T18:00:19.290933865Z",
+      "laatstOntvangen": "2023-05-05T18:00:19.290933865Z",
+      "productnummer": "2388",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2e93bb47-e26a-43c1-bd07-0d57386c1d1d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7068a8bd-4fed-4977-84a7-b16dc625cfd6"
+    },
+    {
+      "id": "98007303-d5cb-4c66-badf-78df85aa4ba8",
+      "generatedAtTime": "2023-05-10T07:56:14.518872Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor sloop en infrastructuurwerken"
+      },
+      "beschrijving": {
+        "nl": "<p>De VMSW ondersteunt initiatiefnemers financieel om:</p><ul><li>gronden bouwrijp te maken (o.a. stedenbouwkundige studies, archeologische prospecties en opgravingen)</li><li>infrastructuurwerken uit te voeren: de wegenuitrusting, de nutsvoorzieningen en de inrichtingen voor afvoer en zuivering van afvalwater</li><li>gemeenschapsvoorzieningen op te richten</li><li>aanpassingswerken aan de woomgeving uit te voeren.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, Boek 5, Deel 2, Titel 3<br />Besluit Vlaamse Codex Wonen van 2021, Boek 5, Deel 2, Titel 3</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:08.682912074Z",
+      "laatstGewijzigd": "2023-05-05T18:00:19.710807328Z",
+      "laatstOntvangen": "2023-05-05T18:00:19.710807328Z",
+      "productnummer": "2390",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/98007303-d5cb-4c66-badf-78df85aa4ba8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f8886016-bb1c-41dc-9946-c3bc5f558406"
+    },
+    {
+      "id": "36d11105-df4f-4908-9994-a7869fe5116a",
+      "generatedAtTime": "2023-05-10T07:56:14.472032Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie verwerving"
+      },
+      "beschrijving": {
+        "nl": "<p>De VMSW verstrekt onder bepaalde voorwaarden subsidie voor de aankoop van een onroerend goed voor projecten in de huursector.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decretale basis werd geschrapt n.a.v.<br />afschaffen sociale koop. Enkel nog afrekeningen.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:08.799174827Z",
+      "laatstGewijzigd": "2023-05-05T18:00:20.996033558Z",
+      "laatstOntvangen": "2023-05-05T18:00:20.996033558Z",
+      "productnummer": "2396",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/36d11105-df4f-4908-9994-a7869fe5116a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ad3f63dd-73ff-46f1-8545-0121fa3e291b"
+    },
+    {
+      "id": "da41367e-d52a-4767-b76a-b37d6c197eca",
+      "generatedAtTime": "2023-05-10T07:56:14.392646Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal",
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Vastgoedinformatiedossier"
+      },
+      "beschrijving": {
+        "nl": "<p>Stedenbouwkundige informatie, informatie rond erfdienstbaarheden, ligging in beschermd gebied, ruimtelijke plannen, … die de overheid in aparte databanken bewaart, wordt vanaf 2024 gebundeld in één vastgoedinformatiedossier.</p><p>Via het Vastgoedinformatieplatform kan de aanvrager via één eenvoudige weg de benodigde vastgoedinfo opvragen in het kader van een verkoop of langdurige verhuur. Het platform verzamelt dan alle data uit de beschikbare, aangesloten bronnen. De bevoegde gemeente krijgt via het platform een vraag om het dossier te vervolledigen en te controleren op de kwaliteit, waarna de info wordt afgeleverd aan de aanvrager.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002949",
+          "@id": "OVO002949"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.143657765Z",
+      "laatstGewijzigd": "2023-05-04T12:41:19.875493818Z",
+      "laatstOntvangen": "2023-05-04T12:41:19.875493818Z",
+      "productnummer": "2479",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/da41367e-d52a-4767-b76a-b37d6c197eca",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2700f51e-c202-4166-b97e-9b5eeb0bd5b6"
+    },
+    {
+      "id": "0e4dcdbd-ef98-49c2-96fa-cf5b469ed609",
+      "generatedAtTime": "2023-05-10T07:56:14.392534Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Test 5 - Premie 7 - max"
+      },
+      "beschrijving": {
+        "nl": "<p>Test 5 - Premie 7 - max</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Test 5 - Premie 7 - max</p>"
+      },
+      "startDienstVerlening": "2023-02-07T12:00:00Z",
+      "eindeDienstVerlening": "2023-03-04T12:00:00Z",
+      "type": "Bewijs",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Test 5 - Premie 7 - max</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Test 5 - Premie 7 - max</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000097",
+          "@id": "OVO000097"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000093",
+          "@id": "OVO000093"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 7 - max</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Test 5 - Premie 7 - max</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 7 - max</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Starterscontract"
+              },
+              "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidie voor de renovatie van huurwoningen"
+          },
+          "url": "https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 7 - max</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:20:32.203019388Z",
+      "laatstGewijzigd": "2023-05-04T12:41:24.795021766Z",
+      "laatstOntvangen": "2023-05-04T12:41:24.795021766Z",
+      "productnummer": "2842",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0e4dcdbd-ef98-49c2-96fa-cf5b469ed609",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/10244dc2-b73d-4578-82f1-e3bf8b408265"
+    },
+    {
+      "id": "8cce2c04-ef65-406d-a2f3-d39d6f2f05b6",
+      "generatedAtTime": "2023-05-10T07:56:13.991246Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erkenning van een wildbeheereenheid"
+      },
+      "beschrijving": {
+        "nl": "<p>Een wildbeheereenheid (WBE) is een vrijwillig <strong>samenwerkingsverband </strong>tussen individuele jachtrechthouders binnen een ruimtelijk begrensd gebied. Binnen dat gebied wordt er aan planmatig wildbeheer gedaan.</p><p>Dit samenwerkingsverband onder een wildbeheereenheid biedt veel voordelen. Door samen te werken krijgt u als jager de mogelijkheid om in een groter gebied te jagen dan in één enkel jachtveld. Samenwerking zorgt er ook voor dat men als groep de jachtbelangen beter kan behartigen dan één jager alleen. Bovendien kunnen de kosten verminderen. Erkende wildbeheereenheden kunnen jaarlijks <a href=\"https://www.uat-vlaanderen.be/subsidies-voor-wildbeheereenheden\">subsidies </a>krijgen van de Vlaamse overheid.</p><p>Een wildbeheereenheid kan erkend worden voor een periode van <strong>6 jaar</strong>. Om erkend te worden door de Vlaamse overheid moet een wildbeheereenheid een <strong>erkenningsdossier indienen</strong>.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Op 25 april 2014 keurde de Vlaamse Regering nieuwe uitvoeringsbesluiten van het Jachtdecreet goed. Hierdoor werd de <a href=\"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/wetgeving\">jachtregelgeving </a>sterk vereenvoudigd.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Enkele belangrijke erkenningsvoorwaarden zijn:</p><ul><li>Het werkingsgebied moet de jachtterreinen van minstens <strong>5 jachtrechthouders</strong> verenigen en moet een oppervlakte van minstens <strong>1.000 hectare</strong> beslaan.</li><li>De wildbeheereenheid moet een <strong>wildbeheerplan </strong>openstellen.</li><li>De wildbeheereenheid meldt jaarlijks <strong>afschotstatistieken en wildstandgegevens</strong> aan de provinciale afdeling van het Agentschap voor Natuur en Bos.</li><li>Lokale vertegenwoordigers van natuurverenigingen, de landbouw en de bosbouw worden uitgenodigd op de algemene vergaderingen.</li></ul><p>Op de website van het Agentschap voor Natuur en Bos staan <a href=\"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/jachtadministratie/subsidies\">meer details over de erkenningsvoorwaarden</a>.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U stelt een <strong>erkenningsdossier </strong>samen. Het erkenningsdossier moet de volgende gegevens bevatten:</p><ul><li>een afschrift van de statuten en hun wijzigingen, voor eensluidend verklaard door de in de statuten aangewezen personen</li><li>een werkingsverslag over het voorbije kalenderjaar</li><li>een verklaring van de door de statuten aangewezen personen die de vereniging kunnen binden, waaruit blijkt dat de wildbeheereenheid voldoet aan alle erkenningsvoorwaarden</li><li>een verklaring van de voorzitter waaruit blijkt dat de wildbeheereenheid voldoet aan de fiscale en sociale verplichtingen</li><li>een afschrift van het faunabeheerplan dat door de algemene vergadering bij tweederde meerderheid van stemmen van de leden-jachtrechthouders is goedgekeurd.</li></ul><p>Er zijn vier mogelijke data waarop erkenningen kunnen ingaan: 1 januari, 1 april, 1 juli en 1 oktober. Op het erkenningsaanvraagformulier moet u aanduiden op welke van die vier data u de nieuwe erkenning wenst te laten ingaan.</p><p>Het volledige dossier moet, samen met een <a href=\"http://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/wildbeheereenheid-onafhankelijk\">erkenningsaanvraagformulier</a> bezorgd worden aan de <strong>provinciale afdeling Adviezen, Vergunningen, Erkenningen en Subsidies (AVES)</strong> van het Agentschap voor Natuur en Bos (ANB).</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Erkenning van een wildbeheereenheid"
+          },
+          "url": "http://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/wildbeheereenheid-onafhankelijk",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:38.593820395Z",
+      "laatstGewijzigd": "2023-05-05T17:15:25.963472263Z",
+      "laatstOntvangen": "2023-05-05T17:15:25.963472263Z",
+      "productnummer": "195",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8cce2c04-ef65-406d-a2f3-d39d6f2f05b6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ad791115-d06a-40da-8ade-d0409a249984"
+    },
+    {
+      "id": "6224d45d-2128-496e-bcfd-045481411958",
+      "generatedAtTime": "2023-05-10T07:56:13.893736Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor wildbeheereenheden"
+      },
+      "beschrijving": {
+        "nl": "<p>Een wildbeheereenheid (WBE) is een vrijwillig samenwerkingsverband tussen individuele jachtrechthouders binnen een ruimtelijk begrensd gebied. Binnen dit gebied wordt er aan planmatig wildbeheer gedaan.</p><p><a href=\"https://www.uat-vlaanderen.be/erkenning-van-een-wildbeheereenheid\">Erkende wildbeheereenheden</a> kunnen jaarlijks subsidies aanvragen bij de Vlaamse overheid.</p><p>Er bestaan drie soorten subsidies:</p><ul><li><strong>basissubsidie</strong>: 300 euro</li><li><strong>oppervlaktesubsidie</strong>: 150 euro voor elke volle schijf van 1.000 hectare jachtterrein in het WBE-werkingsgebied die tot de WBE behoort boven de 2.000 hectare</li><li><strong>projectsubsidies</strong> voor projecten die zijn opgenomen in het <a href=\"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/jachtadministratie/faunabeheerplan\">faunabeheerplan</a>: een WBE kan projectsubsidies krijgen van<ul><li>maximaal 1.500 euro per kalenderjaar</li><li>of maximaal 9.000 euro voor de volledige erkenningsperiode van 6 jaar.</li></ul></li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Op 25 april 2014 keurde de Vlaamse Regering <strong>nieuwe uitvoeringsbesluiten</strong> van het Jachtdecreet goed. Hierdoor werd de <a href=\"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/wetgeving\">jachtregelgeving</a> sterk vereenvoudigd.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De subsidies kunnen enkel aangevraagd worden door wildbeheereenheden die erkend zijn door de Vlaamse overheid.</p><p>De projectsubsidie wordt uitgekeerd op basis van een schuldvordering voor het project, het werkingsverslag van het afgelopen kalenderjaar, de stukken ter staving en de vaststellingen op het terrein.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Een WBE moet op papier of online een <a href=\"https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/jachtadministratie/subsidies\">subsidieaanvraag indienen</a> bij het Agentschap voor Natuur en Bos <strong>vóór 1 april</strong> van het kalenderjaar waarop de subsidie betrekking heeft.</p><p>Voor WBE’s die een nieuwe erkenning hebben sinds 1 juli 2015, worden de projectsubsidies aangevraagd via het faunabeheerplan.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidies voor wildbeheereenheden"
+          },
+          "url": "https://www.natuurenbos.be/beleid-wetgeving/natuurgebruik/jacht/jachtadministratie/subsidies",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:39.07704897Z",
+      "laatstGewijzigd": "2023-05-05T17:15:26.328360834Z",
+      "laatstOntvangen": "2023-05-05T17:15:26.328360834Z",
+      "productnummer": "196",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6224d45d-2128-496e-bcfd-045481411958",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f10d667f-5a15-4bf4-a9f3-e7c46512cc42"
+    },
+    {
+      "id": "957f5d5b-a67f-4dff-b23f-5ff0cc2983d5",
+      "generatedAtTime": "2023-05-10T07:56:13.808072Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies in het kader van cultuurkuur en dynamo3"
+      },
+      "beschrijving": {
+        "nl": "<p>Cultuurkuur.be is de ontmoetingsplaats voor leerkrachten en cultuurpartners.</p><p>Met <strong>dynamoOPWEG</strong> kan elke school <strong>gratis met de Lijn naar culturele bestemmingen</strong>. Dit kan met <strong>maximaal 30 personen</strong>, heen en terug, tijdens weekdagen tussen 9.00 u en 15.30 u en na 18.30 u. Academies kunnen ook op zaterdag gebruik maken van dynamoOPWEG. Bibliotheken, culturele centra, gemeenschapscentra, musea en academies zijn culturele bestemmingen.</p><p>Met <strong>dynamoPROJECT</strong> kunt u <strong>tot 1.500 euro </strong>krijgen<strong> voor een creatief schoolproject</strong>. Projecten kunnen groot- of kleinschalig zijn. Belangrijk is dat u via het project externe culturele partners engageert die het creatieve proces met de leerlingen begeleiden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000321",
+          "@id": "OVO000321"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>dynamo3 is er voor alle onderwijsinstellingen met een instellingsnummer in Vlaanderen en Brussel.</p><p>Elke school met een instellingsnummer en elke deelvestiging heeft recht op dynamoOPWEG en dynamoPROJECT.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Op cultuurkuur.be vindt u alle informatie over dynamo3. Om gebruik te maken van de diensten van dynamo3 moet u zich aanmelden en lid worden van uw school. Vanaf dan kunt u op uw schoolpagina de aanvraagprocedure voor dynamoOPWEG en dynamoPROJECT volgen.</p><ul><li><strong>dynamoOPWEG</strong>: trek gratis met de klas en De Lijn naar een culturele bestemming. Als uw aanvraag wordt goedgekeurd, ontvangt u een printbaar vervoerbewijs. Print het af en toon het aan de chauffeur.<br /></li><li><strong>dynamoPROJECT</strong>: maak kans op een bedrag tot 1.500 euro voor een creatief schoolproject.<br />Er zijn nog twee indiendata per schooljaar: 15 november en 15 mei. Voor projecten die plaatsvinden tussen 1 februari en 30 juni, stuurt u de aanvraag op voor 15 november. Voor projecten die plaatsvinden tussen 1 september en 31 januari, stuurt u uw aanvraag op voor 15 mei. Elke school heeft recht op één goedgekeurd dynamoPROJECT per ronde. Had uw school in de vorige ronde al een goedgekeurd project, dan moet u een ronde overslaan.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li><strong>dynamoOPWEG</strong>: gratis en onbeperkt</li><li><strong>dynamoPROJECT</strong>: één goedkeuring voor maximum 1.500 euro per ronde</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:06:00.727342303Z",
+      "laatstGewijzigd": "2023-05-04T12:40:16.957440812Z",
+      "laatstOntvangen": "2023-05-04T12:40:16.957440812Z",
+      "productnummer": "208",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/957f5d5b-a67f-4dff-b23f-5ff0cc2983d5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b95097da-f665-4a2c-bfd6-3ca0354dd606"
+    },
+    {
+      "id": "c459ff1b-cf37-4f67-9e68-b5d9ffebe6ad",
+      "generatedAtTime": "2023-05-10T07:56:13.784409Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Aanvraag tot onderzoek van het binnenmilieu in een woning of openbaar gebouw"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u gezondheidsklachten hebt die te maken hebben met de luchtkwaliteit in uw woning, dan kunt u daarvoor de hulp inroepen van gezondheidswerkers. Zij kunnen voor u een aanvraag indienen voor een onderzoek van het binnenmilieu van uw woning.</p><p>Ook voor publieke toegankelijke openbare gebouwen zoals scholen kan een aanvraag voor een onderzoek ingediend worden.</p><p>Op de website van Zorg en Gezondheid vindt u meer informatie over de kwaliteit van het binnenmilieu.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 11 juni 2004 houdende maatregelen tot bestrijding van de gezondheidsrisico's door verontreiniging van het binnenmilieu (B.S.19.10.2004).</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "analyse",
+          "binnenklimaat",
+          "binnenlucht",
+          "binnenshuis",
+          "controle",
+          "klimaat",
+          "lucht",
+          "luchtverontreiniging",
+          "meting",
+          "onderzoek",
+          "ventilatie",
+          "vervuilde lucht"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000365",
+          "@id": "OVO000365"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Om een aanvraag in te kunnen dienen voor een onderzoek van het binnenmilieu:</p><ul><li>moet u gezondheidsklachten hebben of een potentieel gezondheidsrisico lopen door verontreiniging van het binnenmilieu</li><li>moet een dienst of tussenpersoon voor u het onderzoek aanvragen met een standaardformulier.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ol><li>Neem het best eerst contact op met een van deze tussenpersonen:<ul><li>gemeentelijke (huisvestings)ambtenaar</li><li>uw huisarts</li><li>OCMW-verpleegkundigen of maatschappelijk werker</li><li>gezondheidswerker.</li></ul></li><li>De bovenstaande tussenpersonen kunnen dan met het standaardformulier een gemotiveerde aanvraag indienen bij de Medisch Milieukundige van het Lokaal Gezondheidsoverleg (LOGO).</li><li>De Medisch Milieukundige zal op basis van de aanvraag en een vooronderzoek beslissen of een plaatsbezoek noodzakelijk is en of een meting een meerwaarde oplevert.</li></ol><p>Artsen kunnen de aanvraag voor een onderzoek ook rechtstreeks bezorgen aan de afdeling Preventie.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Woningonderzoeken - Formulier voor de aanvraag van een onderzoek van het binnenmilieu "
+          },
+          "url": "https://www.zorg-en-gezondheid.be/formulier-voor-de-aanvraag-van-een-onderzoek-van-het-binnenmilieu",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het onderzoek is gratis.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:49.097814909Z",
+      "laatstGewijzigd": "2023-05-05T17:20:28.754039547Z",
+      "laatstOntvangen": "2023-05-05T17:20:28.754039547Z",
+      "productnummer": "214",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c459ff1b-cf37-4f67-9e68-b5d9ffebe6ad",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/99fba5f6-47ec-4dc8-bcff-c4c707bd7f0d"
+    },
+    {
+      "id": "c37c9fea-b5ca-42cd-a4ce-ed17d61516ac",
+      "generatedAtTime": "2023-05-10T07:56:13.67915Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Jaarlijkse verkeersbelasting voor personenwagens en aanverwante voertuigen"
+      },
+      "beschrijving": {
+        "nl": "<p>De <strong>jaarlijkse verkeersbelasting</strong> is een gewestelijke belasting op <strong>motorvoertuigen</strong> die personen of goederen over de weg vervoeren. In Vlaanderen wordt de verkeersbelasting geïnd door de Vlaamse Belastingdienst.</p>"
+      },
+      "type": "FinancieleVerplichting",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Op de website van de Vlaamse Belastingdienst vindt u meer informatie over de regelgeving voor de jaarlijkse verkeersbelasting.</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Deze voertuigen zijn vrijgesteld van de jaarlijkse verkeersbelasting:</p><ul><li>voertuigen die uitsluitend worden gebruikt voor een openbare dienst (bijv. de Post, de brandweer, ziekenauto's, het leger, …)</li><li>voertuigen die als persoonlijk vervoermiddel gebruikt door grootoorlogsinvaliden</li><li>taxi's</li><li>speed pedelecs, lichte vierwielers en motorfietsen met een cilinderinhoud &lt; 251 cc die ingeschreven zijn bij de DIV</li><li>landbouwvoertuigen als ze enkel gebruikt worden voor de landbouwarbeid</li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "geautomatiseerde",
+          "geautomatiseerde voertuigen",
+          "gv",
+          "lijkwagen",
+          "meer betalen",
+          "periode",
+          "groene verkeersbelasting",
+          "lichte",
+          "tractor",
+          "bestelwagen",
+          "bestelauto",
+          "autotax",
+          "autotaks",
+          "belasting",
+          "auto",
+          "autobelasting",
+          "speed pedelecs"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>U betaalt een jaarlijkse verkeersbelasting vanaf de inschrijving van uw <strong>nieuw</strong> of <strong>tweedehandsvoertuig</strong> bij de Dienst Inschrijving Voertuigen (DIV).</p><p>Tot de categorie personenwagens en aanverwante voertuigen behoren:</p><ul><li>personenauto's</li><li>auto's voor dubbel gebruik (vervoer van personen en goederen)</li><li>trage auto's voor dubbel gebruik</li><li>minibussen</li><li>ziekenwagens</li><li>motorfietsen (ook driewielers en vierwielers)</li><li>lichte vrachtauto's (maximaal toegelaten massa tot 3500 kg)</li><li>aanhangwagens, boot- en kampeeraanhangwagens (caravan) van 750 kg tot 3500 kg</li><li>kampeerauto's (mobilhomes)</li><li>voertuigen met een transitplaat of tijdelijke nummerplaat.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Na <strong>de inschrijving</strong> van uw <strong>nieuw</strong> of <strong>tweedehandsvoertuig</strong> bij de Dienst Inschrijving Voertuigen (DIV), stelt de DIV de <strong>Vlaamse Belastingdienst</strong> op de hoogte van uw inschrijving.</p><ul><li>U ontvangt van de Vlaamse Belastingdienst <strong>automatisch jaarlijks</strong> een <strong>aanslagbiljet</strong> met een <strong>overschrijvingsformulier</strong> zolang uw voertuig blijft ingeschreven.</li><li>U betaalt de verkeersbelasting <strong>vanaf de eerste dag van de maand van inschrijving</strong>.</li><li>Als u meent dat uw verkeersbelasting niet correct is (bijv. de berekening), dan kunt u een bezwaar indien. </li></ul><p>Zodra u uw nummerplaat laat schrappen, moet u geen verkeersbelasting meer betalen.</p><p>Op de website van de Vlaamse Belastingdienst kunt u zelf de status van uw dossier opvolgen via het digitaal loket.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Jaarlijkse verkeersbelasting (Vlaanderen.be)"
+          },
+          "url": "https://www.vlaanderen.be/jaarlijkse-verkeersbelasting-vkb",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>U kunt zelf berekenen hoeveel verkeersbelasting u zal moeten betalen via de online simulator of met de simulatie-app. De simulatie is louter indicatief en geeft niet het officiële bedrag.</p><p>Het bedrag van de verkeersbelasting wordt:</p><ul><li>jaarlijks op <strong>1 juli</strong> geïndexeerd</li><li>berekend op basis van de het vermogen (kW - kilowatt) van het voertuig, de euronorm en de CO<sub>2</sub>- uitstoot.</li></ul><p>Sinds<strong> 1 juli 2017</strong> betalen de <strong>lichte vrachtwagens</strong>, lijkwagens, tractoren en trekkers met een MTM tot en met 3500 kg die geen leasing zijn, een <strong>groene jaarlijkse verkeersbelasting</strong>. De verkeersbelasting voor deze voertuigen kunt u momenteel nog niet online simuleren.</p><p><strong>Vermindering van de jaarlijkse verkeersbelasting</strong></p><p>Afhankelijk van het <strong>type voertuig</strong> of de <strong>activiteit van het voertuig </strong>is een vermindering van de jaarlijkse verkeersbelasting mogelijk.</p><p>Soorten verminderingen:</p><ul><li>Terugbetaling gecombineerd vervoer</li><li>Vermindering voor havenactiviteit</li><li>Vermindering voor een autobus die deel uitmaakt van een wagenpark</li><li>Forfaitaire vermindering voor LPG voertuigen (sinds aanslagjaar 2016)</li></ul><p>Sommige verminderingen krijgt u automatisch, andere moet u aanvragen. Op de website van de Vlaamse Belastingdienst vindt u meer informatie over de verminderingen.</p><p><strong>Vrijstelling van de jaarlijkse verkeersbelasting</strong></p><p>In bepaalde gevallen is een vrijstelling van de jaarlijkse verkeersbelasting mogelijk.</p><p>Soorten vrijstellingen:</p><ul><li>Vrijstelling occasioneel vervoer (rittenblad)</li><li>Vrijstelling voor persoon met een handicap</li><li>Vrijstelling voor bepaalde brandstoftypes sinds 01/07/2017</li><li>Vrijstelling voor bepaalde brandstoftypes (sinds aanslagjaar 2016)</li></ul><p>Op de website van de Vlaamse Belastingdienst vindt u meer informatie over de vrijstellingen.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:05:50.927050348Z",
+      "laatstGewijzigd": "2023-05-05T17:20:32.805855218Z",
+      "laatstOntvangen": "2023-05-05T17:20:32.805855218Z",
+      "productnummer": "227",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c37c9fea-b5ca-42cd-a4ce-ed17d61516ac",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2ce6641e-c0ef-450d-a616-371e1367a890"
+    }
+  ]
+}

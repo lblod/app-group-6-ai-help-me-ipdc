@@ -1,1 +1,2561 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=45","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=44","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-04-05T06:50:58.955269Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=46","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-04-18T11:20:17.262572Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=45","@type":"EventStream","member":[{"id":"a7896b19-71d3-435b-9f24-4747c8d28fa5","generatedAtTime":"2023-04-18T11:20:17.262572Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Europees"],"naam":{"nl":"Nog een testproduct IPDC verenigingsloket"},"beschrijving":{"nl":"<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"},"verdereBeschrijving":{"nl":"<p>Dit is de verdere beschrijving tekst</p>"},"type":"AdviesBegeleiding","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Dit is de regelgeving</p>"},"uitzonderingen":{"nl":"<p>Dit zijn de uitzonderingen</p>"},"zoektermen":{"nl":["testzoekterm","afsprakenbeheer prenatale consultaties","12 december","be","*acties","1/10 ouderschapsverlof","-buitenland; -buitenlander"]},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Dit zijn de voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Dit zijn de bewijsstukken</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Dit is de beschrijving van de procedure</p>"},"websites":[{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":0},{"naam":{"nl":"Link naar kiosk"},"url":"https://www.cjm.be/kiosk","@type":"Website","order":1}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Departement Cultuur, Jeugd en Media"},"url":"https://www.vlaanderen.be/cjm","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Dit is de beschrijving van de kosten</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"},"naam":{"nl":"Financiële voordelen"},"@type":"FinancieelVoordeel","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-15T12:55:06.97857876Z","laatstGewijzigd":"2023-04-18T11:20:17.162583871Z","laatstOntvangen":"2023-04-18T11:20:17.162583871Z","productnummer":"2853","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a7896b19-71d3-435b-9f24-4747c8d28fa5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"},{"id":"4e303e9a-4fe3-4c1e-9153-d1817c7a8af2","generatedAtTime":"2023-04-17T14:20:22.533679Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Premie van Fluvius voor zonnepanelen"},"beschrijving":{"nl":"<p>Wie sinds 1 januari 2021 nieuwe zonnepanelen in dienst neemt, komt in aanmerking voor een eenmalige premie van netbeheerder Fluvius.</p>"},"themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Energiebesluit van 19 november 2010</p>"},"zoektermen":{"nl":["premie","zonnepanelen","kleine installaties","investeringspremie"]},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>De premie kan aangevraagd worden door natuurlijke personen en andere rechtspersonen (organisaties, vennootschappen, ….).</li><li>De premie geldt enkel voor gebouwen<ul><li>die <strong>aangesloten zijn op het elektriciteitsdistributienet van Fluvius uiterlijk op 31-12-2013</strong>,</li><li>of waarvoor de <strong>omgevingsvergunning </strong>voor stedenbouwkundige handelingen <strong>meer dan 5 jaar geleden</strong> werd verleend en waarbij het gebouw voldoet aan de <strong>EPB-eisen</strong> en de EPB-aangifte op tijd werd ingediend. Gebouwen die gerenoveerd worden en waarvan de omgevingsvergunning minder dan 5 jaar geleden werd verleend, komen in aanmerking als het gebouw vóór 2014 was aangesloten op het distributienet.</li></ul></li><li>Deze premie is er voor nieuwe fotovoltaïsche zonnepanelen met een <strong>omvormervermogen van maximaal 10 kVA</strong>. De uitbreiding van een bestaande installatie komt niet in aanmerking.</li><li>De nieuwe zonnepanelen moeten door een <a href=\"http://rescert.be/nl/list?res_category=2\">installateur met een certificaat van bekwaamheid (RESCert)</a> op het dak van een gebouw worden <strong>geplaatst of gevalideerd</strong>. Op het attest dat u van de aannemer krijgt, moet het RESCert-certificeringsnummer vermeld worden van de aannemer met een certificaat van bekwaamheid of van de aannemer die de controle heeft uitgevoerd.</li><li>De zonnepanelen moeten worden geplaatst <strong>op een dak </strong>van een gebouw. Als het een <strong>verwarmd gebouw</strong> is, dan moet het <strong>dak </strong>ook <strong>geïsoleerd </strong>zijn (Rd-waarde van minstens 3 m<sup>2</sup>K/W).</li><li>De zonnepanelen mogen gedurende een periode van minstens 15 jaar na indienstname niet worden verplaatst naar een ander perceel.</li><li>De zonnepanelen mogen niet worden uitgebreid met een installatie die geniet van de regeling van de ‘terugdraaiende teller’, tenzij de betrokken netgebruiker onherroepelijk afstand heeft gedaan van dit recht.</li><li>De premie loopt vanaf 1 januari 2021 tot eind 2024. De datum van indienstname (datum van AREI-keuring) van de zonnepanelen bepaalt het premiebedrag en de premievoorwaarden. Onmiddellijk na de indienstname, moet u de installatie aanmelden bij Fluvius. Dat is ook de eerste stap in de premie-aanvraag.</li><li>De premie kan enkel worden toegekend:<ul><li>als achter het aansluitingspunt nog geen zonnepanelen in dienst zijn of waren (met uitzondering van het geval van een eigendomsoverdracht waarbij voorafgaand aan de eigendomsoverdracht de installatie werd verwijderd)</li><li>als de geplaatste zonnepanelen uiterlijk 3 maanden na de indienstname (datum AREI-keuring) bij de netbeheerder aangemeld zijn. Op het moment van aanmelding zullen een aantal bijkomende vragen gesteld worden zodat er geen afzonderlijke premieaanvraag moet ingediend worden.</li><li>nadat er een <strong>digitale meter</strong> is geplaatst. Dat moet gebeuren binnen de 90 dagen na de aanmelding van een nieuwe PV-installatie (Energiebesluit van 19 november 2010).</li></ul></li><li>De premie is <strong>eenmalig </strong>en beperkt<ul><li>tot<strong> 1 premie per woning of wooneenheid </strong>voor residentiële gebouwen</li><li>en tot <strong>1 premie per gebouw</strong> voor niet-residentiële gebouwen.</li></ul></li></ul><p>Raadpleeg alle voorwaarden op het <a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/premie-zonnepanelen\">Informatieblad 2021 of 2022 van Fluvius</a>.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<div><p>U kunt deze premie</p><ul><li>nadat de werken zijn uitgevoerd</li><li>binnen de 3 maanden na indienstname, bij aanmelding van de installatie</li><li><a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/premie-zonnepanelen\">online aanvragen bij Fluvius</a>.</li></ul><p>Fluvius betaalt de premie uit.</p></div>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Premie voor zonnepanelen (Fluvius)"},"url":"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/premie-zonnepanelen","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>...</p>"},"naam":{"nl":"Kost 1"},"@type":"Kost","order":0},{"beschrijving":{"nl":"<p>...</p>"},"naam":{"nl":"Kost 2"},"@type":"Kost","order":1}],"financieleVoordelen":[{"beschrijving":{"nl":"<ul><li>Het premiebedrag wordt jaarlijks op 1 januari aangepast. De datum van indienstname van de zonnepanelen bepaalt het premiebedrag.</li><li>Het premiebedrag is begrensd tot <strong>40% van de investeringskosten inclusief btw</strong>, vermeld op de facturen.</li><li>Of een woning al dan niet op het distributienetwerk aangesloten is met ‘uitsluitend nachttarief’, heeft geen invloed op onderstaande bedragen.</li><li>De premie wordt berekend op basis van het vermogen van de zonnepanelen zelf (dus niet het vermogen van de omvormer).<ul><li>In <strong>2021 en 2022 </strong>bedraagt de premie 300 euro/kWp voor installaties tot maximaal 4 kWp en bijkomend 150 euro/kWp van 4kWp tot 6 kWp, wat overeenkomt met <strong>maximaal 1.500 euro</strong>. </li><li>In <strong>2023 </strong>zal de premie 150 euro/kWp bedragen voor installaties tot maximaal 4 kWp en bijkomend 75 euro/kWp van 4kWp tot 6 kWp, wat overeenkomt met <strong>maximaal 750 euro</strong>. </li><li>In <strong>2024 </strong>zal de premie 75 euro/kWp bedragen voor installaties tot maximaal 4 kWp en bijkomend 37,5 euro/kWp van 4kWp tot 6 kWp, wat overeenkomt met <strong>maximaal 375 euro</strong>. </li></ul></li></ul><p><strong>Enkele voorbeelden:</strong> Stel u neemt in 2022 een nieuwe installatie in dienst:</p><ul><li>12 zonnepanelen van 320 Wp, samen goed voor een vermogen van 3,84 kWp. Indien u aan alle voorwaarden voldoet, ontvangt u een premie van 3,84 x 300 euro = 1152 euro.</li><li>18 panelen van 300 Wp, samen goed voor een vermogen van 5,40 kWp. Indien u aan alle voorwaarden voldoet, ontvangt u een premie van 4 x 300 euro + 1,40 x 150 euro = 1410 euro.</li><li>34 panelen van 290 Wp, samen goed voor een vermogen van 9,86 kWp. Indien u aan alle voorwaarden voldoet, ontvangt u een premie van 4 x 300 euro + 2 x 150 euro = 1500 euro.</li></ul><h3>Beschermde afnemers</h3><p>Het premiebedrag voor <a href=\"https://www.uat-vlaanderen.be/voordelen-en-premies-voor-beschermde-afnemers\">beschermde afnemers</a> ligt 20% hoger.</p><ul><li>In <strong>2021 en 2022</strong> bedraagt de premie 360 euro/kWp voor installaties tot maximaal 4 kWp en bijkomend 180 €/kWp van 4kWp tot 6 kWp, wat overeenkomt met maximaal 1.800 euro. </li><li>Het premiebedrag is begrensd tot 48% van de investeringskosten inclusief btw, vermeld op de facturen.</li><li>Of een woning al dan niet op het distributienetwerk aangesloten is met ‘uitsluitend nachttarief’, heeft geen invloed op bovenstaande bedragen.</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:34.435179592Z","laatstGewijzigd":"2023-04-17T14:20:22.517521897Z","laatstOntvangen":"2023-04-17T14:20:22.517521897Z","productnummer":"1886","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4e303e9a-4fe3-4c1e-9153-d1817c7a8af2","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5095a9a9-7ff0-4eaa-9c55-f4eccda4ebdc"},{"id":"ca5afb09-fee8-495c-8778-62d1ed45626c","generatedAtTime":"2023-04-17T14:20:22.132844Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Call groene stroom"},"beschrijving":{"nl":"<p>Als u investeert in groen stroom specifiek fotovoltaïsche zonnepanelen met een zekere grootte en/of voor een specifieke toepassing, én kleine en middelgrote windturbines,komt uw project mogelijks in aanmerking voor een investeringssubsidie. Per call worden de ontvankelijke investeringsprojectenbeoordeeld en gerangschikt op basis van het bod, met name de steunvraag per verwachte energieopbrengst van de installatie. Het beschikbare subsidiebedrag wordt verdeeld over de gunstig gerangschikte investeringsprojecten.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Energiedecreet van 8/05/2009: Decreet van 08/05/2009 houdende algemene bepalingen betreffende het energiebeleid</p><p>BVR 19/11/2010 houdende algemene bepalingen over het energiebeleid, art. 7.11.1, §1 (vanaf 2021 incl. PV)</p>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"creatie":"2023-03-24T06:45:07.935949567Z","laatstGewijzigd":"2023-04-17T14:20:22.055242671Z","laatstOntvangen":"2023-04-17T14:20:22.055242671Z","productnummer":"2350","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ca5afb09-fee8-495c-8778-62d1ed45626c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bf650ce8-fddd-4682-ad94-274061b97b20"},{"id":"7a864ebc-16d9-4875-a896-c86251e68584","generatedAtTime":"2023-04-17T11:15:04.523277Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsubsidie voor hobbyverenigingen (Sofie)"},"beschrijving":{"nl":"<p>Om de gemeenschapsvormende waarde en de kwaliteitsvolle ondersteuning van lokale hobbyverenigingen te stimuleren, subsidieert de Vlaamse overheid hobbyverenigingen met een landelijke werking.</p>"},"startDienstVerlening":"2022-01-01T12:00:00Z","type":"AdviesBegeleiding","doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 18 januari 2008 houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport (het Participatiedecreet).</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De hobbyvereniging is een vereniging met een landelijke werking. Ze telt minstens 30 afdelingen verspreid over minstens vier provincies van het Nederlandse taalgebied (het tweetalige gebied Brussel-Hoofdstad is gelijkgesteld aan een provincie). De hobbyvereniging organiseert activiteiten die de participatie verbreden en verdiepen door competenties op educatief, culturele of sportieve vlak te verhogen.</p><p>Hobbyverenigingen die al een werkingssubsidie ontvangen van de Vlaamse overheid, komen niet in aanmerking voor deze projectsubsidie.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Op de website van Departement Cultuur, Jeugd en Media vindt u meer informatie over hoe u een subsidieaanvraag moet indienen.</p>"},"websites":[{"naam":{"nl":"subsidies voor hobbyverenigingen "},"url":"https://www.vlaanderen.be/cjm/nl/participatie/sub-si-dies-het-ka-der-van-het-par-ti-ci-pa-tie-de-creet/hobbyverenigingen","@type":"Website","order":0}],"@type":"Procedure","order":0}],"creatie":"2023-04-17T08:45:05.400852109Z","laatstGewijzigd":"2023-04-17T11:15:04.445006781Z","laatstOntvangen":"2023-04-17T11:15:04.445006781Z","productnummer":"2873","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7a864ebc-16d9-4875-a896-c86251e68584","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"},{"id":"4e2cedfb-1925-4acf-8d5e-696dea716f96","generatedAtTime":"2023-04-17T11:10:07.214553Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Europees"],"naam":{"nl":"Nog een testproduct IPDC verenigingsloket"},"beschrijving":{"nl":"<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"},"verdereBeschrijving":{"nl":"<p>Dit is de verdere beschrijving tekst</p>"},"type":"AdviesBegeleiding","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Dit is de regelgeving</p>"},"uitzonderingen":{"nl":"<p>Dit zijn de uitzonderingen</p>"},"zoektermen":{"nl":["testzoekterm","afsprakenbeheer prenatale consultaties","12 december","be","*acties","1/10 ouderschapsverlof","-buitenland; -buitenlander"]},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Dit zijn de voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Dit zijn de bewijsstukken</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Dit is de beschrijving van de procedure</p>"},"websites":[{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Departement Cultuur, Jeugd en Media"},"url":"https://www.vlaanderen.be/cjm","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Dit is de beschrijving van de kosten</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"},"naam":{"nl":"Financiële voordelen"},"@type":"FinancieelVoordeel","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-15T12:55:06.97857876Z","laatstGewijzigd":"2023-04-17T11:10:07.195495884Z","laatstOntvangen":"2023-04-17T11:10:07.195495884Z","productnummer":"2853","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4e2cedfb-1925-4acf-8d5e-696dea716f96","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"},{"id":"358129fb-5147-446f-8ebe-209d7ec26b83","generatedAtTime":"2023-04-17T11:10:07.070156Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsubsidie voor hobbyverenigingen"},"beschrijving":{"nl":"<p>Om de gemeenschapsvormende waarde en de kwaliteitsvolle ondersteuning van lokale hobbyverenigingen te stimuleren, subsidieert de Vlaamse overheid hobbyverenigingen met een landelijke werking.</p>"},"startDienstVerlening":"2022-01-01T12:00:00Z","type":"AdviesBegeleiding","doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 18 januari 2008 houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport (het Participatiedecreet).</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De hobbyvereniging is een vereniging met een landelijke werking. Ze telt minstens 30 afdelingen verspreid over minstens vier provincies van het Nederlandse taalgebied (het tweetalige gebied Brussel-Hoofdstad is gelijkgesteld aan een provincie). De hobbyvereniging organiseert activiteiten die de participatie verbreden en verdiepen door competenties op educatief, culturele of sportieve vlak te verhogen.</p><p>Hobbyverenigingen die al een werkingssubsidie ontvangen van de Vlaamse overheid, komen niet in aanmerking voor deze projectsubsidie.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Op de website van Departement Cultuur, Jeugd en Media vindt u meer informatie over hoe u een subsidieaanvraag moet indienen.</p>"},"websites":[{"naam":{"nl":"subsidies voor hobbyverenigingen "},"url":"https://www.vlaanderen.be/cjm/nl/participatie/sub-si-dies-het-ka-der-van-het-par-ti-ci-pa-tie-de-creet/hobbyverenigingen","@type":"Website","order":0}],"@type":"Procedure","order":0}],"creatie":"2023-04-17T08:45:05.400852109Z","laatstGewijzigd":"2023-04-17T11:10:06.975917801Z","laatstOntvangen":"2023-04-17T11:10:06.975917801Z","productnummer":"2873","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/358129fb-5147-446f-8ebe-209d7ec26b83","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"},{"id":"ef3aa37b-8bc2-4998-8df0-fdc2fdce5855","generatedAtTime":"2023-04-17T10:35:05.546861Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsubsidie voor hobbyverenigingen (Sofie)"},"beschrijving":{"nl":"<p>Om de gemeenschapsvormende waarde en de kwaliteitsvolle ondersteuning van lokale hobbyverenigingen te stimuleren, subsidieert de Vlaamse overheid hobbyverenigingen met een landelijke werking.</p>"},"startDienstVerlening":"2022-01-01T12:00:00Z","type":"AdviesBegeleiding","doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 18 januari 2008 houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport (het Participatiedecreet).</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De hobbyvereniging is een vereniging met een landelijke werking. Ze telt minstens 30 afdelingen verspreid over minstens vier provincies van het Nederlandse taalgebied (het tweetalige gebied Brussel-Hoofdstad is gelijkgesteld aan een provincie). De hobbyvereniging organiseert activiteiten die de participatie verbreden en verdiepen door competenties op educatief, culturele of sportieve vlak te verhogen.</p><p>Hobbyverenigingen die al een werkingssubsidie ontvangen van de Vlaamse overheid, komen niet in aanmerking voor deze projectsubsidie.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Op de website van Departement Cultuur, Jeugd en Media vindt u meer informatie over hoe u een subsidieaanvraag moet indienen.</p>"},"websites":[{"naam":{"nl":"subsidies voor hobbyverenigingen "},"url":"https://www.vlaanderen.be/cjm/nl/participatie/sub-si-dies-het-ka-der-van-het-par-ti-ci-pa-tie-de-creet/hobbyverenigingen","@type":"Website","order":0}],"@type":"Procedure","order":0}],"creatie":"2023-04-17T08:45:05.400852109Z","laatstGewijzigd":"2023-04-17T10:35:05.469937556Z","laatstOntvangen":"2023-04-17T10:35:05.469937556Z","productnummer":"2873","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ef3aa37b-8bc2-4998-8df0-fdc2fdce5855","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"},{"id":"33ecb355-edc3-40f9-be3c-5c6d5d881f77","generatedAtTime":"2023-04-17T10:15:04.876075Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsubsidie voor hobbyverenigingen"},"beschrijving":{"nl":"<p>Om de gemeenschapsvormende waarde en de kwaliteitsvolle ondersteuning van lokale hobbyverenigingen te stimuleren, subsidieert de Vlaamse overheid hobbyverenigingen met een landelijke werking.</p>"},"startDienstVerlening":"2022-01-01T12:00:00Z","type":"AdviesBegeleiding","doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 18 januari 2008 houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport (het Participatiedecreet).</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De hobbyvereniging is een vereniging met een landelijke werking. Ze telt minstens 30 afdelingen verspreid over minstens vier provincies van het Nederlandse taalgebied (het tweetalige gebied Brussel-Hoofdstad is gelijkgesteld aan een provincie). De hobbyvereniging organiseert activiteiten die de participatie verbreden en verdiepen door competenties op educatief, culturele of sportieve vlak te verhogen.</p><p>Hobbyverenigingen die al een werkingssubsidie ontvangen van de Vlaamse overheid, komen niet in aanmerking voor deze projectsubsidie.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Op de website van Departement Cultuur, Jeugd en Media vindt u meer informatie over hoe u een subsidieaanvraag moet indienen.</p>"},"websites":[{"naam":{"nl":"subsidies voor hobbyverenigingen "},"url":"https://www.vlaanderen.be/cjm/nl/participatie/sub-si-dies-het-ka-der-van-het-par-ti-ci-pa-tie-de-creet/hobbyverenigingen","@type":"Website","order":0}],"@type":"Procedure","order":0}],"creatie":"2023-04-17T08:45:05.400852109Z","laatstGewijzigd":"2023-04-17T10:15:04.783474975Z","laatstOntvangen":"2023-04-17T10:15:04.783474975Z","productnummer":"2873","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/33ecb355-edc3-40f9-be3c-5c6d5d881f77","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"},{"id":"fe57fe1e-b47d-498b-b795-9c1a8e69d1bf","generatedAtTime":"2023-04-17T08:45:05.483178Z","bevoegdBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsubsidie voor hobbyverenigingen"},"beschrijving":{"nl":"<p>Om de gemeenschapsvormende waarde en de kwaliteitsvolle ondersteuning van lokale hobbyverenigingen te stimuleren, subsidieert de Vlaamse overheid hobbyverenigingen met een landelijke werking.</p>"},"startDienstVerlening":"2022-01-01T12:00:00Z","type":"AdviesBegeleiding","doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 18 januari 2008 houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport (het Participatiedecreet).</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De hobbyvereniging is een vereniging met een landelijke werking. Ze telt minstens 30 afdelingen verspreid over minstens vier provincies van het Nederlandse taalgebied (het tweetalige gebied Brussel-Hoofdstad is gelijkgesteld aan een provincie). De hobbyvereniging organiseert activiteiten die de participatie verbreden en verdiepen door competenties op educatief, culturele of sportieve vlak te verhogen.</p><p>Hobbyverenigingen die al een werkingssubsidie ontvangen van de Vlaamse overheid, komen niet in aanmerking voor deze projectsubsidie.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Op de website van Departement Cultuur, Jeugd en Media vindt u meer informatie over hoe u een subsidieaanvraag moet indienen.</p>"},"websites":[{"naam":{"nl":"subsidies voor hobbyverenigingen "},"url":"https://www.vlaanderen.be/cjm/nl/participatie/sub-si-dies-het-ka-der-van-het-par-ti-ci-pa-tie-de-creet/hobbyverenigingen","@type":"Website","order":0}],"@type":"Procedure","order":0}],"creatie":"2023-04-17T08:45:05.400852109Z","laatstGewijzigd":"2023-04-17T08:45:05.40085358Z","laatstOntvangen":"2023-04-17T08:45:05.40085358Z","productnummer":"2873","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fe57fe1e-b47d-498b-b795-9c1a8e69d1bf","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"},{"id":"c336b0ff-8dec-4bbb-a028-7902f6f75d75","generatedAtTime":"2023-04-17T06:45:05.708675Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Europees"],"naam":{"nl":"Nog een testproduct LPDC/IPDC verenigingsloket"},"beschrijving":{"nl":"<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"},"verdereBeschrijving":{"nl":"<p>Dit is de verdere beschrijving tekst</p>"},"type":"AdviesBegeleiding","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Dit is de regelgeving</p>"},"uitzonderingen":{"nl":"<p>Dit zijn de uitzonderingen</p>"},"zoektermen":{"nl":["testzoekterm","afsprakenbeheer prenatale consultaties","12 december","be","*acties","1/10 ouderschapsverlof","-buitenland; -buitenlander"]},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Dit zijn de voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Dit zijn de bewijsstukken</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Dit is de beschrijving van de procedure</p>"},"websites":[{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Departement Cultuur, Jeugd en Media"},"url":"https://www.vlaanderen.be/cjm","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Dit is de beschrijving van de kosten</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"},"naam":{"nl":"Financiële voordelen"},"@type":"FinancieelVoordeel","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-15T12:55:06.97857876Z","laatstGewijzigd":"2023-04-17T06:45:05.618238863Z","laatstOntvangen":"2023-04-17T06:45:05.618238863Z","productnummer":"2853","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c336b0ff-8dec-4bbb-a028-7902f6f75d75","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"},{"id":"edbb6055-9e10-4943-b6ce-16aba5763d2b","generatedAtTime":"2023-04-14T11:30:06.646177Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Europees"],"naam":{"nl":"Nog een Test product LPDC/IPDC verenigingsloket"},"beschrijving":{"nl":"<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"},"verdereBeschrijving":{"nl":"<p>Dit is de verdere beschrijving tekst</p>"},"type":"AdviesBegeleiding","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Dit is de regelgeving</p>"},"uitzonderingen":{"nl":"<p>Dit zijn de uitzonderingen</p>"},"zoektermen":{"nl":["testzoekterm","afsprakenbeheer prenatale consultaties","12 december","be","*acties","1/10 ouderschapsverlof","-buitenland; -buitenlander"]},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Dit zijn de voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Dit zijn de bewijsstukken</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Dit is de beschrijving van de procedure</p>"},"websites":[{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Departement Cultuur, Jeugd en Media"},"url":"https://www.vlaanderen.be/cjm","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Dit is de beschrijving van de kosten</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"},"naam":{"nl":"Financiële voordelen"},"@type":"FinancieelVoordeel","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-15T12:55:06.97857876Z","laatstGewijzigd":"2023-04-14T11:30:06.581703187Z","laatstOntvangen":"2023-04-14T11:30:06.581703187Z","productnummer":"2853","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/edbb6055-9e10-4943-b6ce-16aba5763d2b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"},{"id":"ffff1750-d2fd-44b1-a612-d20fd8ab126e","generatedAtTime":"2023-04-14T11:25:04.43345Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Europees"],"naam":{"nl":"Nog een Test product LPDC/IPDC verenigingsloket"},"beschrijving":{"nl":"<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"},"verdereBeschrijving":{"nl":"<p>Dit is de verdere beschrijving tekst</p>"},"startDienstVerlening":"2023-04-10T12:00:00Z","type":"AdviesBegeleiding","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Dit is de regelgeving</p>"},"uitzonderingen":{"nl":"<p>Dit zijn de uitzonderingen</p>"},"zoektermen":{"nl":["testzoekterm","afsprakenbeheer prenatale consultaties","12 december","be","*acties","1/10 ouderschapsverlof","-buitenland; -buitenlander"]},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Dit zijn de voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Dit zijn de bewijsstukken</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Dit is de beschrijving van de procedure</p>"},"websites":[{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Departement Cultuur, Jeugd en Media"},"url":"https://www.vlaanderen.be/cjm","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Dit is de beschrijving van de kosten</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"},"naam":{"nl":"Financiële voordelen"},"@type":"FinancieelVoordeel","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-15T12:55:06.97857876Z","laatstGewijzigd":"2023-04-14T11:25:04.363599425Z","laatstOntvangen":"2023-04-14T11:25:04.363599425Z","productnummer":"2853","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ffff1750-d2fd-44b1-a612-d20fd8ab126e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"},{"id":"e6c64b5a-3d86-4867-80da-68f9de1041d8","generatedAtTime":"2023-04-14T11:20:05.645521Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Europees"],"naam":{"nl":"Nog een Test product LPDC/IPDC verenigingsloket"},"beschrijving":{"nl":"<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"},"verdereBeschrijving":{"nl":"<p>Dit is de verdere beschrijving tekst</p>"},"type":"AdviesBegeleiding","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Dit is de regelgeving</p>"},"uitzonderingen":{"nl":"<p>Dit zijn de uitzonderingen</p>"},"zoektermen":{"nl":["testzoekterm","afsprakenbeheer prenatale consultaties","12 december","be","*acties","1/10 ouderschapsverlof","-buitenland; -buitenlander"]},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Dit zijn de voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Dit zijn de bewijsstukken</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Dit is de beschrijving van de procedure</p>"},"websites":[{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Departement Cultuur, Jeugd en Media"},"url":"https://www.vlaanderen.be/cjm","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Dit is de beschrijving van de kosten</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"},"naam":{"nl":"Financiële voordelen"},"@type":"FinancieelVoordeel","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-15T12:55:06.97857876Z","laatstGewijzigd":"2023-04-14T11:20:05.55737279Z","laatstOntvangen":"2023-04-14T11:20:05.55737279Z","productnummer":"2853","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e6c64b5a-3d86-4867-80da-68f9de1041d8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"},{"id":"d9b00a5b-f339-4eac-862a-6cbfe309d60d","generatedAtTime":"2023-04-14T07:20:05.952813Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Gratis verzekering voor vrijwilligers"},"beschrijving":{"nl":"<p>Bepaalde vrijwilligersorganisaties kunnen jaarlijks tot 1000 vrijwilligersuren gratis verzekeren. De vrijwilligersverzekering biedt waarborgen voor burgerrechtelijke aansprakelijkheid, rechtsbijstand en lichamelijke ongevallen.</p>"},"type":"AdviesBegeleiding","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"uitvoerendeOverheden":[{"id":"OVO021371","@id":"OVO021371"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De volgende organisaties kunnen beroep doen op de gratis verzekering:</p><ul><li>feitelijke verenigingen zonder winstoogmerk, door minstens 2 personen geleid, als<ul><li>de vertegenwoordigers en verantwoordelijken in het Vlaams Gewest of het Brussels Hoofdstedelijk Gewest wonen</li><li>ze geen personeel tewerkstellen</li><li>de voertaal Nederlands is</li></ul></li><li>vzw’s of stichtingen zonder betaald personeel, als<ul><li>ze een privaatrechtelijke rechtspersoon zijn</li><li>de maatschappelijke zetel gevestigd is in het Vlaams Gewest of het Brussels Hoofdstedelijk Gewest, en de statuten in het Nederlands zijn opgesteld.</li></ul></li><li>vzw’s of stichtingen in oprichting (en tijdens het eerste jaar van de werking), als<ul><li>er geen personeel wordt tewerkgesteld</li><li>de personen die verbintenissen aangaan in naam van de VZW of stichting in het Vlaams Gewest of Brussels Hoofdstedelijk Gewest wonen</li><li>de voertaal Nederlands is</li></ul></li><li>lokale afdelingen van koepelorganisaties, als het gaat om extra activiteiten. Voor de vaste activiteiten heeft de koepel verzekeringsplicht</li></ul><p>De verzekering geldt wereldwijd voor alle organisaties gevestigd in België, behalve voor activiteiten in de Verenigde Staten, en Canada.</p><p>Meer informatie over de voorwaarden leest u in het reglement.<br />Meer informatie over wat er onder de verzekering valt, leest u in de polis.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Als u nog geen erkenningsnummer hebt, vraag dan eerst een erkenningsnummer aan bij het Vlaams Steunpunt Vrijwilligerswerk. Erkenningsnummers afgeleverd voor 1 april 2019 zijn niet meer geldig.</li><li>U moet minstens 48 uur op voorhand de activiteiten doorgeven aan de verzekering</li><li>Na een schadegeval doet u een schadeaangifte bij de verzekeraar. Klik daarvoor in het loket op de knop ‘schade aangeven’ naast de aangegeven activiteit.</li></ul>"},"websites":[{"naam":{"nl":"Gratis vrijwilligersverzekering"},"url":"http://www.vlaanderenvrijwilligt.be/gratis-vrijwilligersverzekering","@type":"Website","order":0}],"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>De verzekering is gratis.</p>"},"naam":{"nl":"De verzekering is gratis."},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De verzekering is gratis.</p>"},"naam":{"nl":"De verzekering is gratis."},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-04-14T07:20:05.63429777Z","laatstGewijzigd":"2023-04-14T07:20:05.9351447Z","laatstOntvangen":"2023-04-14T07:20:05.9351447Z","productnummer":"2871","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d9b00a5b-f339-4eac-862a-6cbfe309d60d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2cb1f1f5-c40b-42e2-b9d6-30ce2f59afb2"},{"id":"c04bba1d-2a46-4dcc-ac85-1a272fb1f8b5","generatedAtTime":"2023-04-14T07:20:05.747924Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Gratis verzekering voor vrijwilligers"},"beschrijving":{"nl":"<p>Bepaalde vrijwilligersorganisaties kunnen jaarlijks tot 1000 vrijwilligersuren gratis verzekeren. De vrijwilligersverzekering biedt waarborgen voor burgerrechtelijke aansprakelijkheid, rechtsbijstand en lichamelijke ongevallen.</p>"},"type":"AdviesBegeleiding","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"uitvoerendeOverheden":[{"id":"OVO021371","@id":"OVO021371"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De volgende organisaties kunnen beroep doen op de gratis verzekering:</p><ul><li>feitelijke verenigingen zonder winstoogmerk, door minstens 2 personen geleid, als<ul><li>de vertegenwoordigers en verantwoordelijken in het Vlaams Gewest of het Brussels Hoofdstedelijk Gewest wonen</li><li>ze geen personeel tewerkstellen</li><li>de voertaal Nederlands is</li></ul></li><li>vzw’s of stichtingen zonder betaald personeel, als<ul><li>ze een privaatrechtelijke rechtspersoon zijn</li><li>de maatschappelijke zetel gevestigd is in het Vlaams Gewest of het Brussels Hoofdstedelijk Gewest, en de statuten in het Nederlands zijn opgesteld.</li></ul></li><li>vzw’s of stichtingen in oprichting (en tijdens het eerste jaar van de werking), als<ul><li>er geen personeel wordt tewerkgesteld</li><li>de personen die verbintenissen aangaan in naam van de VZW of stichting in het Vlaams Gewest of Brussels Hoofdstedelijk Gewest wonen</li><li>de voertaal Nederlands is</li></ul></li><li>lokale afdelingen van koepelorganisaties, als het gaat om extra activiteiten. Voor de vaste activiteiten heeft de koepel verzekeringsplicht</li></ul><p>De verzekering geldt wereldwijd voor alle organisaties gevestigd in België, behalve voor activiteiten in de Verenigde Staten, en Canada.</p><p>Meer informatie over de voorwaarden leest u in het reglement.<br />Meer informatie over wat er onder de verzekering valt, leest u in de polis.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Als u nog geen erkenningsnummer hebt, vraag dan eerst een erkenningsnummer aan bij het Vlaams Steunpunt Vrijwilligerswerk. Erkenningsnummers afgeleverd voor 1 april 2019 zijn niet meer geldig.</li><li>U moet minstens 48 uur op voorhand de activiteiten doorgeven aan de verzekering</li><li>Na een schadegeval doet u een schadeaangifte bij de verzekeraar. Klik daarvoor in het loket op de knop ‘schade aangeven’ naast de aangegeven activiteit.</li></ul>"},"websites":[{"naam":{"nl":"Gratis vrijwilligersverzekering"},"url":"http://www.vlaanderenvrijwilligt.be/gratis-vrijwilligersverzekering","@type":"Website","order":0}],"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>De verzekering is gratis.</p>"},"naam":{"nl":"De verzekering is gratis."},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De verzekering is gratis.</p>"},"naam":{"nl":"De verzekering is gratis."},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-04-14T07:20:05.63429777Z","laatstGewijzigd":"2023-04-14T07:20:05.634300588Z","laatstOntvangen":"2023-04-14T07:20:05.634300588Z","productnummer":"2871","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c04bba1d-2a46-4dcc-ac85-1a272fb1f8b5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2cb1f1f5-c40b-42e2-b9d6-30ce2f59afb2"},{"id":"f54bf0f0-a1bd-4f4e-b6dd-8ef19d4d1809","generatedAtTime":"2023-04-12T14:00:05.619402Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Europees"],"naam":{"nl":"Nog een Test product LPDC/IPDC verenigingsloket"},"beschrijving":{"nl":"<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"},"verdereBeschrijving":{"nl":"<p>Dit is de verdere beschrijving tekst</p>"},"startDienstVerlening":"2022-12-15T12:00:00Z","eindeDienstVerlening":"2023-06-29T12:00:00Z","type":"AdviesBegeleiding","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Dit is de regelgeving</p>"},"uitzonderingen":{"nl":"<p>Dit zijn de uitzonderingen</p>"},"zoektermen":{"nl":["testzoekterm","afsprakenbeheer prenatale consultaties","12 december","be","*acties","1/10 ouderschapsverlof","-buitenland; -buitenlander"]},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Dit zijn de voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Dit zijn de bewijsstukken</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Dit is de beschrijving van de procedure</p>"},"websites":[{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Departement Cultuur, Jeugd en Media"},"url":"https://www.vlaanderen.be/cjm","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Dit is de beschrijving van de kosten</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"},"naam":{"nl":"Financiële voordelen"},"@type":"FinancieelVoordeel","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-15T12:55:06.97857876Z","laatstGewijzigd":"2023-04-12T14:00:05.511126127Z","laatstOntvangen":"2023-04-12T14:00:05.511126127Z","productnummer":"2853","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f54bf0f0-a1bd-4f4e-b6dd-8ef19d4d1809","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"},{"id":"3c5ada16-7141-4dff-be25-b1d4da4a68ca","generatedAtTime":"2023-04-12T09:44:00.679432Z","naam":{"nl":"a","en":"a"},"beschrijving":{"nl":"<p data-indentation-level=\"0\">a</p>","en":"<p data-indentation-level=\"0\">a</p>"},"geografischToepassingsgebieden":["BE23545068"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/f73c7109-06a0-45d7-b558-879d87ca3553","@id":"http://data.lblod.info/id/bestuurseenheden/f73c7109-06a0-45d7-b558-879d87ca3553"},{"id":"http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4","@id":"http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/0f316807-839b-4554-a4d8-8656e9f83201","@id":"http://data.lblod.info/id/bestuurseenheden/0f316807-839b-4554-a4d8-8656e9f83201"},{"id":"http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4","@id":"http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4"}],"creatie":"2023-04-12T08:58:06.868Z","laatstGewijzigd":"2023-04-12T09:43:51.06Z","laatstOntvangen":"2023-04-12T09:43:51.06Z","productnummer":"10151","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3c5ada16-7141-4dff-be25-b1d4da4a68ca","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/076fd700-a393-498b-9f88-5e194a0b9618"},{"id":"f07baf25-ea1f-4449-9630-865c4de0d591","generatedAtTime":"2023-04-12T09:37:01.081126Z","naam":{"nl":"a","en":"a"},"beschrijving":{"nl":"<p data-indentation-level=\"0\">a</p>","en":"<p data-indentation-level=\"0\">a</p>"},"geografischToepassingsgebieden":["BE23545068"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4","@id":"http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4","@id":"http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4"}],"creatie":"2023-04-12T08:58:06.868Z","laatstGewijzigd":"2023-04-12T09:36:33.128Z","laatstOntvangen":"2023-04-12T09:36:33.128Z","productnummer":"10151","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f07baf25-ea1f-4449-9630-865c4de0d591","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/076fd700-a393-498b-9f88-5e194a0b9618"},{"id":"b915a109-cef7-4a69-93e0-c496cc1bcbff","generatedAtTime":"2023-04-06T14:38:00.902931Z","naam":{"en":"b","nl":"b"},"beschrijving":{"en":"<p>b</p>","nl":"<p>b</p>"},"publicatiekanalen":["YourEurope"],"geografischToepassingsgebieden":["BE23444011"],"yourEuropeCategorieen":["VoertuigenVerkeersregels"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"contactgegevens":[{"email":"dd@hello.com","telefoonnummer":"016/24.74.70","openingsuren":"ma-do 08.30-12.30/13.30-16.30, vr 08.30-12.30","url":"https://www.hello.com","@type":"Contactgegevens","order":0}],"creatie":"2023-04-04T10:24:53.335Z","laatstGewijzigd":"2023-04-06T14:37:17.493Z","laatstOntvangen":"2023-04-06T14:37:17.493Z","productnummer":"10141","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b915a109-cef7-4a69-93e0-c496cc1bcbff","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f00d67d5-8727-464e-a2bd-e5e05af904ad"},{"id":"abfd8d5d-43dc-4fd1-94e4-a5f5b5461fb7","generatedAtTime":"2023-04-06T14:36:00.92105Z","naam":{"en":"b","nl":"b"},"beschrijving":{"en":"<p>b</p>","nl":"<p>b</p>"},"publicatiekanalen":["YourEurope"],"geografischToepassingsgebieden":["BE23444011"],"yourEuropeCategorieen":["VoertuigenVerkeersregels"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"contactgegevens":[{"email":"dd@hello.com","telefoonnummer":"016/24.74.70","url":"https://www.hello.com","@type":"Contactgegevens","order":0}],"creatie":"2023-04-04T10:24:53.335Z","laatstGewijzigd":"2023-04-06T14:35:57.776Z","laatstOntvangen":"2023-04-06T14:35:57.776Z","productnummer":"10141","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/abfd8d5d-43dc-4fd1-94e4-a5f5b5461fb7","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f00d67d5-8727-464e-a2bd-e5e05af904ad"},{"id":"5a840fe6-f231-4550-a053-3ae2c05044ff","generatedAtTime":"2023-04-06T14:32:03.197156Z","naam":{"en":"b","nl":"b"},"beschrijving":{"en":"<p>b</p>","nl":"<p>b</p>"},"publicatiekanalen":["YourEurope"],"geografischToepassingsgebieden":["BE23444011"],"yourEuropeCategorieen":["VoertuigenVerkeersregels"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"contactgegevens":[{"email":"dd@hello.com","telefoonnummer":"0412345678","openingsuren":" ","url":"https://www.hello.com","@type":"Contactgegevens","order":0}],"creatie":"2023-04-04T10:24:53.335Z","laatstGewijzigd":"2023-04-06T14:31:19.358Z","laatstOntvangen":"2023-04-06T14:31:19.358Z","productnummer":"10141","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5a840fe6-f231-4550-a053-3ae2c05044ff","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f00d67d5-8727-464e-a2bd-e5e05af904ad"},{"id":"6d11d027-4bb9-4059-ab59-6e0b54e8da77","generatedAtTime":"2023-04-05T13:09:00.754893Z","naam":{"en":"x","nl":"x"},"beschrijving":{"en":"<p>x</p>","nl":"<p>x</p>"},"geografischToepassingsgebieden":["BE23444011"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"websites":[{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Title","nl":"Titel"},"url":"https://www.google.com","@type":"Website","order":0},{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"nl":"-","en":"-"},"url":"","@type":"Website","order":1}],"creatie":"2023-04-05T13:01:31.239Z","laatstGewijzigd":"2023-04-05T13:07:50.307Z","laatstOntvangen":"2023-04-05T13:07:50.307Z","productnummer":"10149","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6d11d027-4bb9-4059-ab59-6e0b54e8da77","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/24f08b49-16fc-403c-8b86-660a9d70fcfa"},{"id":"3439c7be-6e63-41e8-9974-639c95f15c1e","generatedAtTime":"2023-04-05T11:51:01.137937Z","naam":{"nl":"q","en":"q"},"beschrijving":{"en":"<p>q</p>","nl":"<p>q</p>"},"geografischToepassingsgebieden":["BE23444011"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"contactgegevens":[{"email":"q@qc.com","telefoonnummer":" ","openingsuren":" ","url":" ","@type":"Contactgegevens","order":0}],"creatie":"2023-04-04T13:07:24.316Z","laatstGewijzigd":"2023-04-05T11:50:19.31Z","laatstOntvangen":"2023-04-05T11:50:19.31Z","productnummer":"10144","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3439c7be-6e63-41e8-9974-639c95f15c1e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ad788a25-d7ea-448c-b9e5-8fd902bf5086"},{"id":"6d84d3e5-1971-4c6f-b8ab-44594d723c79","generatedAtTime":"2023-04-05T09:40:03.24794Z","bevoegdBestuursniveaus":["Federaal"],"naam":{"nl":"Sanity check V30.1","en":"Sanity check V30.1"},"beschrijving":{"en":"<p>Sanity check V30.1</p>","nl":"<p>Sanity check V30.1</p>"},"type":"Toelating","themas":["BurgerOverheid"],"geografischToepassingsgebieden":["BE24224062"],"yourEuropeCategorieen":["Diensten"],"regelgevingTekst":{"nl":"<p>test regelgeving</p>"},"uitzonderingen":{"nl":"<p>test uitzondering</p>"},"bevoegdeOverheden":[{"id":"OVO005190","@id":"OVO005190"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77","@id":"http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Voorwaarden</p>","en":"<p>Voorwaarden</p>"},"naam":{"nl":"Voorwaarden","en":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>testing bewijsstuk</p>","en":"<p>testing bewijsstuk</p>"},"naam":{"en":"Bewijs","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0},{"beschrijving":{"nl":"<p>test voorwaarde</p>","en":"<p>test voorwaarde</p>"},"naam":{"nl":"Voorwaarden","en":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>testing bewijsstuk</p>","en":"<p>testing bewijsstuk</p>"},"naam":{"en":"Bewijs","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":1},{"beschrijving":{"nl":"<p>test voorwaarde</p>","en":"<p>test voorwaarde</p>"},"naam":{"nl":"Voorwaarden","en":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>testing bewijsstuk</p>","en":"<p>testing bewijsstuk</p>"},"naam":{"en":"Bewijs","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":2}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"en":"<p>test procedure</p>","nl":"<p>test procedure</p>"},"@type":"Procedure","order":0},{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"en":"<p>test procedure</p>","nl":"<p>test procedure</p>"},"@type":"Procedure","order":1},{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"en":"<p>test procedure</p>","nl":"<p>test procedure</p>"},"@type":"Procedure","order":2}],"kosten":[{"beschrijving":{"en":"<p>testing kost</p>","nl":"<p>testing kost</p>"},"naam":{"nl":"Kost","en":"Kost"},"@type":"Kost","order":0},{"beschrijving":{"nl":"<p>testing kost</p>","en":"<p>en</p>"},"naam":{"en":"en","nl":"Kost"},"@type":"Kost","order":1},{"beschrijving":{"nl":"<p>testing kost</p>","en":"<p>en</p>"},"naam":{"en":"en","nl":"Kost"},"@type":"Kost","order":2}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>descr fin voordeel </p>","en":"<p>en</p>"},"naam":{"en":"en","nl":"TEST fin voordeel"},"@type":"FinancieelVoordeel","order":0},{"beschrijving":{"nl":"<p>descr fin voordeel </p>","en":"<p>en</p>"},"naam":{"en":"en","nl":"TEST fin voordeel"},"@type":"FinancieelVoordeel","order":1},{"beschrijving":{"nl":"<p>descr fin voordeel </p>","en":"<p>en</p>"},"naam":{"en":"en","nl":"TEST fin voordeel"},"@type":"FinancieelVoordeel","order":2}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021234&param=informatie&ref=search&AVIDS=1339097","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021234&param=informatie&ref=search&AVIDS=1339097","@type":"Regelgeving","order":0}],"creatie":"2023-04-05T09:31:54.481Z","laatstGewijzigd":"2023-04-05T09:35:17.642Z","laatstOntvangen":"2023-04-05T09:35:17.642Z","linkedConcept":"https://ipdc.tni-vlaanderen.be/id/concept/0cc25d46-7dad-4e0b-96a3-3b5c74bda6fb","linkedConceptId":"0cc25d46-7dad-4e0b-96a3-3b5c74bda6fb","linkedConceptProductnummer":"10146","productnummer":"10147","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6d84d3e5-1971-4c6f-b8ab-44594d723c79","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/25fed578-1a65-4488-993d-cd01a3fbd042"},{"id":"8c98c3ae-2f02-4b56-b0c3-aba74c2f29cc","generatedAtTime":"2023-04-05T06:50:58.955269Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"en":"a","nl":"Europees rijbewijs"},"beschrijving":{"en":"<p>a</p>","nl":"<p></p><p>Een Europees rijbewijs is een document in bankkaartformaat met foto, waarmee u als bestuurder van een gemotoriseerd voertuig kunt aantonen dat u beschikt over voldoende kennis, inzicht en vaardigheid om een gemotoriseerd voertuig van een bepaalde categorie te kunnen en mogen besturen. Wie op de openbare weg een motorvoertuig bestuurt, moet beschikken over een rijbewijs, geldig voor de categorie waartoe het voertuig behoort.</p><p>Het Europees rijbewijs is 10 jaar geldig. Het is geldig in:</p><ul><li><p>alle landen van de <strong>Europese Economische Ruimte (EER)</strong>: dat zijn de landen van de Europese Unie plus IJsland, Liechtenstein en Noorwegen</p></li><li><p>de landen buiten de EER die het Belgisch rijbewijs erkennen. </p></li></ul><p></p>"},"startDienstVerlening":"2020-01-01T00:00:00Z","eindeDienstVerlening":"2030-12-31T00:00:00Z","publicatiekanalen":["YourEurope"],"type":"Bewijs","themas":["BurgerOverheid","MobiliteitOpenbareWerken"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE23444011"],"yourEuropeCategorieen":["ReizenDocumenten"],"zoektermen":{"nl":["europese","rijbewijzen"]},"bevoegdeOverheden":[{"id":"OVO004718","@id":"OVO004718"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"},{"id":"OVO004718","@id":"OVO004718"}],"voorwaarden":[{"beschrijving":{"nl":"<p></p><p>Als u een rijbewijs wil behalen, moet u slagen voor een <strong>theoretisch en een praktisch examen</strong>. U kunt pas aan het praktisch examen deelnemen na het volgen van een rijopleiding (met of zonder begeleider) en na een oefenperiode. Daarvoor hebt u een voorlopig rijbewijs nodig.</p><p></p>"},"naam":{"nl":"Voorwaarde","en":"a"},"bewijs":{"beschrijving":{"nl":"<p></p><ul><li><p><strong>Identiteitskaart</strong>.</p></li><li><p><strong>Voorlopig rijbewijs</strong>.</p></li><li><p>Document (<strong>attest van slagen</strong>) afgeleverd door het examencentrum.</p></li><li><p>Als de foto op uw elektronische identiteitskaart (eID) nog voldoende gelijkend is, dan kan die gebruikt worden voor uw rijbewijs.<br>Is de foto op uw eID niet gelijkend genoeg meer? Of wilt u een andere foto op uw rijbewijs? Breng dan ook een nieuwe <strong>foto </strong>mee.</p></li></ul><p></p>"},"naam":{"en":"a","nl":"Wat meebrengen"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"en":"a","nl":"Procedure"},"beschrijving":{"en":"<p>a</p>","nl":"<p>U vraagt het Europese rijbewijs aan in de gemeente waar u bent ingeschreven.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-31T14:24:52.911Z","laatstGewijzigd":"2023-03-31T14:25:17.27Z","laatstOntvangen":"2023-03-31T14:25:17.27Z","linkedConcept":"https://ipdc.tni-vlaanderen.be/id/concept/031a6d3b-1be6-4606-be63-c138654443ff","linkedConceptId":"031a6d3b-1be6-4606-be63-c138654443ff","linkedConceptProductnummer":"10077","productnummer":"10137","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8c98c3ae-2f02-4b56-b0c3-aba74c2f29cc","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d35c740f-fd94-4d01-b285-d21ebb27950a"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=45",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=44",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-04-05T06:50:58.955269Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=46",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-04-18T11:20:17.262572Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=45",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "a7896b19-71d3-435b-9f24-4747c8d28fa5",
+      "generatedAtTime": "2023-04-18T11:20:17.262572Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Europees"
+      ],
+      "naam": {
+        "nl": "Nog een testproduct IPDC verenigingsloket"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Dit is de verdere beschrijving tekst</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Dit is de regelgeving</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Dit zijn de uitzonderingen</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "testzoekterm",
+          "afsprakenbeheer prenatale consultaties",
+          "12 december",
+          "be",
+          "*acties",
+          "1/10 ouderschapsverlof",
+          "-buitenland; -buitenlander"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Dit zijn de bewijsstukken</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de procedure</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Vergunning C rechtsreeks aanvragen"
+              },
+              "url": "https://www.gamingcommission.be/nl",
+              "@type": "Website",
+              "order": 0
+            },
+            {
+              "naam": {
+                "nl": "Link naar kiosk"
+              },
+              "url": "https://www.cjm.be/kiosk",
+              "@type": "Website",
+              "order": 1
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Departement Cultuur, Jeugd en Media"
+          },
+          "url": "https://www.vlaanderen.be/cjm",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de kosten</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"
+          },
+          "naam": {
+            "nl": "Financiële voordelen"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-15T12:55:06.97857876Z",
+      "laatstGewijzigd": "2023-04-18T11:20:17.162583871Z",
+      "laatstOntvangen": "2023-04-18T11:20:17.162583871Z",
+      "productnummer": "2853",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a7896b19-71d3-435b-9f24-4747c8d28fa5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"
+    },
+    {
+      "id": "4e303e9a-4fe3-4c1e-9153-d1817c7a8af2",
+      "generatedAtTime": "2023-04-17T14:20:22.533679Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Premie van Fluvius voor zonnepanelen"
+      },
+      "beschrijving": {
+        "nl": "<p>Wie sinds 1 januari 2021 nieuwe zonnepanelen in dienst neemt, komt in aanmerking voor een eenmalige premie van netbeheerder Fluvius.</p>"
+      },
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Energiebesluit van 19 november 2010</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "premie",
+          "zonnepanelen",
+          "kleine installaties",
+          "investeringspremie"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>De premie kan aangevraagd worden door natuurlijke personen en andere rechtspersonen (organisaties, vennootschappen, ….).</li><li>De premie geldt enkel voor gebouwen<ul><li>die <strong>aangesloten zijn op het elektriciteitsdistributienet van Fluvius uiterlijk op 31-12-2013</strong>,</li><li>of waarvoor de <strong>omgevingsvergunning </strong>voor stedenbouwkundige handelingen <strong>meer dan 5 jaar geleden</strong> werd verleend en waarbij het gebouw voldoet aan de <strong>EPB-eisen</strong> en de EPB-aangifte op tijd werd ingediend. Gebouwen die gerenoveerd worden en waarvan de omgevingsvergunning minder dan 5 jaar geleden werd verleend, komen in aanmerking als het gebouw vóór 2014 was aangesloten op het distributienet.</li></ul></li><li>Deze premie is er voor nieuwe fotovoltaïsche zonnepanelen met een <strong>omvormervermogen van maximaal 10 kVA</strong>. De uitbreiding van een bestaande installatie komt niet in aanmerking.</li><li>De nieuwe zonnepanelen moeten door een <a href=\"http://rescert.be/nl/list?res_category=2\">installateur met een certificaat van bekwaamheid (RESCert)</a> op het dak van een gebouw worden <strong>geplaatst of gevalideerd</strong>. Op het attest dat u van de aannemer krijgt, moet het RESCert-certificeringsnummer vermeld worden van de aannemer met een certificaat van bekwaamheid of van de aannemer die de controle heeft uitgevoerd.</li><li>De zonnepanelen moeten worden geplaatst <strong>op een dak </strong>van een gebouw. Als het een <strong>verwarmd gebouw</strong> is, dan moet het <strong>dak </strong>ook <strong>geïsoleerd </strong>zijn (Rd-waarde van minstens 3 m<sup>2</sup>K/W).</li><li>De zonnepanelen mogen gedurende een periode van minstens 15 jaar na indienstname niet worden verplaatst naar een ander perceel.</li><li>De zonnepanelen mogen niet worden uitgebreid met een installatie die geniet van de regeling van de ‘terugdraaiende teller’, tenzij de betrokken netgebruiker onherroepelijk afstand heeft gedaan van dit recht.</li><li>De premie loopt vanaf 1 januari 2021 tot eind 2024. De datum van indienstname (datum van AREI-keuring) van de zonnepanelen bepaalt het premiebedrag en de premievoorwaarden. Onmiddellijk na de indienstname, moet u de installatie aanmelden bij Fluvius. Dat is ook de eerste stap in de premie-aanvraag.</li><li>De premie kan enkel worden toegekend:<ul><li>als achter het aansluitingspunt nog geen zonnepanelen in dienst zijn of waren (met uitzondering van het geval van een eigendomsoverdracht waarbij voorafgaand aan de eigendomsoverdracht de installatie werd verwijderd)</li><li>als de geplaatste zonnepanelen uiterlijk 3 maanden na de indienstname (datum AREI-keuring) bij de netbeheerder aangemeld zijn. Op het moment van aanmelding zullen een aantal bijkomende vragen gesteld worden zodat er geen afzonderlijke premieaanvraag moet ingediend worden.</li><li>nadat er een <strong>digitale meter</strong> is geplaatst. Dat moet gebeuren binnen de 90 dagen na de aanmelding van een nieuwe PV-installatie (Energiebesluit van 19 november 2010).</li></ul></li><li>De premie is <strong>eenmalig </strong>en beperkt<ul><li>tot<strong> 1 premie per woning of wooneenheid </strong>voor residentiële gebouwen</li><li>en tot <strong>1 premie per gebouw</strong> voor niet-residentiële gebouwen.</li></ul></li></ul><p>Raadpleeg alle voorwaarden op het <a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/premie-zonnepanelen\">Informatieblad 2021 of 2022 van Fluvius</a>.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<div><p>U kunt deze premie</p><ul><li>nadat de werken zijn uitgevoerd</li><li>binnen de 3 maanden na indienstname, bij aanmelding van de installatie</li><li><a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/premie-zonnepanelen\">online aanvragen bij Fluvius</a>.</li></ul><p>Fluvius betaalt de premie uit.</p></div>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Premie voor zonnepanelen (Fluvius)"
+          },
+          "url": "https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/premie-zonnepanelen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>...</p>"
+          },
+          "naam": {
+            "nl": "Kost 1"
+          },
+          "@type": "Kost",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>...</p>"
+          },
+          "naam": {
+            "nl": "Kost 2"
+          },
+          "@type": "Kost",
+          "order": 1
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Het premiebedrag wordt jaarlijks op 1 januari aangepast. De datum van indienstname van de zonnepanelen bepaalt het premiebedrag.</li><li>Het premiebedrag is begrensd tot <strong>40% van de investeringskosten inclusief btw</strong>, vermeld op de facturen.</li><li>Of een woning al dan niet op het distributienetwerk aangesloten is met ‘uitsluitend nachttarief’, heeft geen invloed op onderstaande bedragen.</li><li>De premie wordt berekend op basis van het vermogen van de zonnepanelen zelf (dus niet het vermogen van de omvormer).<ul><li>In <strong>2021 en 2022 </strong>bedraagt de premie 300 euro/kWp voor installaties tot maximaal 4 kWp en bijkomend 150 euro/kWp van 4kWp tot 6 kWp, wat overeenkomt met <strong>maximaal 1.500 euro</strong>. </li><li>In <strong>2023 </strong>zal de premie 150 euro/kWp bedragen voor installaties tot maximaal 4 kWp en bijkomend 75 euro/kWp van 4kWp tot 6 kWp, wat overeenkomt met <strong>maximaal 750 euro</strong>. </li><li>In <strong>2024 </strong>zal de premie 75 euro/kWp bedragen voor installaties tot maximaal 4 kWp en bijkomend 37,5 euro/kWp van 4kWp tot 6 kWp, wat overeenkomt met <strong>maximaal 375 euro</strong>. </li></ul></li></ul><p><strong>Enkele voorbeelden:</strong> Stel u neemt in 2022 een nieuwe installatie in dienst:</p><ul><li>12 zonnepanelen van 320 Wp, samen goed voor een vermogen van 3,84 kWp. Indien u aan alle voorwaarden voldoet, ontvangt u een premie van 3,84 x 300 euro = 1152 euro.</li><li>18 panelen van 300 Wp, samen goed voor een vermogen van 5,40 kWp. Indien u aan alle voorwaarden voldoet, ontvangt u een premie van 4 x 300 euro + 1,40 x 150 euro = 1410 euro.</li><li>34 panelen van 290 Wp, samen goed voor een vermogen van 9,86 kWp. Indien u aan alle voorwaarden voldoet, ontvangt u een premie van 4 x 300 euro + 2 x 150 euro = 1500 euro.</li></ul><h3>Beschermde afnemers</h3><p>Het premiebedrag voor <a href=\"https://www.uat-vlaanderen.be/voordelen-en-premies-voor-beschermde-afnemers\">beschermde afnemers</a> ligt 20% hoger.</p><ul><li>In <strong>2021 en 2022</strong> bedraagt de premie 360 euro/kWp voor installaties tot maximaal 4 kWp en bijkomend 180 €/kWp van 4kWp tot 6 kWp, wat overeenkomt met maximaal 1.800 euro. </li><li>Het premiebedrag is begrensd tot 48% van de investeringskosten inclusief btw, vermeld op de facturen.</li><li>Of een woning al dan niet op het distributienetwerk aangesloten is met ‘uitsluitend nachttarief’, heeft geen invloed op bovenstaande bedragen.</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:34.435179592Z",
+      "laatstGewijzigd": "2023-04-17T14:20:22.517521897Z",
+      "laatstOntvangen": "2023-04-17T14:20:22.517521897Z",
+      "productnummer": "1886",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4e303e9a-4fe3-4c1e-9153-d1817c7a8af2",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5095a9a9-7ff0-4eaa-9c55-f4eccda4ebdc"
+    },
+    {
+      "id": "ca5afb09-fee8-495c-8778-62d1ed45626c",
+      "generatedAtTime": "2023-04-17T14:20:22.132844Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Call groene stroom"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u investeert in groen stroom specifiek fotovoltaïsche zonnepanelen met een zekere grootte en/of voor een specifieke toepassing, én kleine en middelgrote windturbines,komt uw project mogelijks in aanmerking voor een investeringssubsidie. Per call worden de ontvankelijke investeringsprojectenbeoordeeld en gerangschikt op basis van het bod, met name de steunvraag per verwachte energieopbrengst van de installatie. Het beschikbare subsidiebedrag wordt verdeeld over de gunstig gerangschikte investeringsprojecten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Energiedecreet van 8/05/2009: Decreet van 08/05/2009 houdende algemene bepalingen betreffende het energiebeleid</p><p>BVR 19/11/2010 houdende algemene bepalingen over het energiebeleid, art. 7.11.1, §1 (vanaf 2021 incl. PV)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:07.935949567Z",
+      "laatstGewijzigd": "2023-04-17T14:20:22.055242671Z",
+      "laatstOntvangen": "2023-04-17T14:20:22.055242671Z",
+      "productnummer": "2350",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ca5afb09-fee8-495c-8778-62d1ed45626c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bf650ce8-fddd-4682-ad94-274061b97b20"
+    },
+    {
+      "id": "7a864ebc-16d9-4875-a896-c86251e68584",
+      "generatedAtTime": "2023-04-17T11:15:04.523277Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsubsidie voor hobbyverenigingen (Sofie)"
+      },
+      "beschrijving": {
+        "nl": "<p>Om de gemeenschapsvormende waarde en de kwaliteitsvolle ondersteuning van lokale hobbyverenigingen te stimuleren, subsidieert de Vlaamse overheid hobbyverenigingen met een landelijke werking.</p>"
+      },
+      "startDienstVerlening": "2022-01-01T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 18 januari 2008 houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport (het Participatiedecreet).</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De hobbyvereniging is een vereniging met een landelijke werking. Ze telt minstens 30 afdelingen verspreid over minstens vier provincies van het Nederlandse taalgebied (het tweetalige gebied Brussel-Hoofdstad is gelijkgesteld aan een provincie). De hobbyvereniging organiseert activiteiten die de participatie verbreden en verdiepen door competenties op educatief, culturele of sportieve vlak te verhogen.</p><p>Hobbyverenigingen die al een werkingssubsidie ontvangen van de Vlaamse overheid, komen niet in aanmerking voor deze projectsubsidie.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Op de website van Departement Cultuur, Jeugd en Media vindt u meer informatie over hoe u een subsidieaanvraag moet indienen.</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "subsidies voor hobbyverenigingen "
+              },
+              "url": "https://www.vlaanderen.be/cjm/nl/participatie/sub-si-dies-het-ka-der-van-het-par-ti-ci-pa-tie-de-creet/hobbyverenigingen",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-17T08:45:05.400852109Z",
+      "laatstGewijzigd": "2023-04-17T11:15:04.445006781Z",
+      "laatstOntvangen": "2023-04-17T11:15:04.445006781Z",
+      "productnummer": "2873",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7a864ebc-16d9-4875-a896-c86251e68584",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"
+    },
+    {
+      "id": "4e2cedfb-1925-4acf-8d5e-696dea716f96",
+      "generatedAtTime": "2023-04-17T11:10:07.214553Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Europees"
+      ],
+      "naam": {
+        "nl": "Nog een testproduct IPDC verenigingsloket"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Dit is de verdere beschrijving tekst</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Dit is de regelgeving</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Dit zijn de uitzonderingen</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "testzoekterm",
+          "afsprakenbeheer prenatale consultaties",
+          "12 december",
+          "be",
+          "*acties",
+          "1/10 ouderschapsverlof",
+          "-buitenland; -buitenlander"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Dit zijn de bewijsstukken</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de procedure</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Vergunning C rechtsreeks aanvragen"
+              },
+              "url": "https://www.gamingcommission.be/nl",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Departement Cultuur, Jeugd en Media"
+          },
+          "url": "https://www.vlaanderen.be/cjm",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de kosten</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"
+          },
+          "naam": {
+            "nl": "Financiële voordelen"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-15T12:55:06.97857876Z",
+      "laatstGewijzigd": "2023-04-17T11:10:07.195495884Z",
+      "laatstOntvangen": "2023-04-17T11:10:07.195495884Z",
+      "productnummer": "2853",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4e2cedfb-1925-4acf-8d5e-696dea716f96",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"
+    },
+    {
+      "id": "358129fb-5147-446f-8ebe-209d7ec26b83",
+      "generatedAtTime": "2023-04-17T11:10:07.070156Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsubsidie voor hobbyverenigingen"
+      },
+      "beschrijving": {
+        "nl": "<p>Om de gemeenschapsvormende waarde en de kwaliteitsvolle ondersteuning van lokale hobbyverenigingen te stimuleren, subsidieert de Vlaamse overheid hobbyverenigingen met een landelijke werking.</p>"
+      },
+      "startDienstVerlening": "2022-01-01T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 18 januari 2008 houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport (het Participatiedecreet).</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De hobbyvereniging is een vereniging met een landelijke werking. Ze telt minstens 30 afdelingen verspreid over minstens vier provincies van het Nederlandse taalgebied (het tweetalige gebied Brussel-Hoofdstad is gelijkgesteld aan een provincie). De hobbyvereniging organiseert activiteiten die de participatie verbreden en verdiepen door competenties op educatief, culturele of sportieve vlak te verhogen.</p><p>Hobbyverenigingen die al een werkingssubsidie ontvangen van de Vlaamse overheid, komen niet in aanmerking voor deze projectsubsidie.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Op de website van Departement Cultuur, Jeugd en Media vindt u meer informatie over hoe u een subsidieaanvraag moet indienen.</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "subsidies voor hobbyverenigingen "
+              },
+              "url": "https://www.vlaanderen.be/cjm/nl/participatie/sub-si-dies-het-ka-der-van-het-par-ti-ci-pa-tie-de-creet/hobbyverenigingen",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-17T08:45:05.400852109Z",
+      "laatstGewijzigd": "2023-04-17T11:10:06.975917801Z",
+      "laatstOntvangen": "2023-04-17T11:10:06.975917801Z",
+      "productnummer": "2873",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/358129fb-5147-446f-8ebe-209d7ec26b83",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"
+    },
+    {
+      "id": "ef3aa37b-8bc2-4998-8df0-fdc2fdce5855",
+      "generatedAtTime": "2023-04-17T10:35:05.546861Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsubsidie voor hobbyverenigingen (Sofie)"
+      },
+      "beschrijving": {
+        "nl": "<p>Om de gemeenschapsvormende waarde en de kwaliteitsvolle ondersteuning van lokale hobbyverenigingen te stimuleren, subsidieert de Vlaamse overheid hobbyverenigingen met een landelijke werking.</p>"
+      },
+      "startDienstVerlening": "2022-01-01T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 18 januari 2008 houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport (het Participatiedecreet).</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De hobbyvereniging is een vereniging met een landelijke werking. Ze telt minstens 30 afdelingen verspreid over minstens vier provincies van het Nederlandse taalgebied (het tweetalige gebied Brussel-Hoofdstad is gelijkgesteld aan een provincie). De hobbyvereniging organiseert activiteiten die de participatie verbreden en verdiepen door competenties op educatief, culturele of sportieve vlak te verhogen.</p><p>Hobbyverenigingen die al een werkingssubsidie ontvangen van de Vlaamse overheid, komen niet in aanmerking voor deze projectsubsidie.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Op de website van Departement Cultuur, Jeugd en Media vindt u meer informatie over hoe u een subsidieaanvraag moet indienen.</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "subsidies voor hobbyverenigingen "
+              },
+              "url": "https://www.vlaanderen.be/cjm/nl/participatie/sub-si-dies-het-ka-der-van-het-par-ti-ci-pa-tie-de-creet/hobbyverenigingen",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-17T08:45:05.400852109Z",
+      "laatstGewijzigd": "2023-04-17T10:35:05.469937556Z",
+      "laatstOntvangen": "2023-04-17T10:35:05.469937556Z",
+      "productnummer": "2873",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ef3aa37b-8bc2-4998-8df0-fdc2fdce5855",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"
+    },
+    {
+      "id": "33ecb355-edc3-40f9-be3c-5c6d5d881f77",
+      "generatedAtTime": "2023-04-17T10:15:04.876075Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsubsidie voor hobbyverenigingen"
+      },
+      "beschrijving": {
+        "nl": "<p>Om de gemeenschapsvormende waarde en de kwaliteitsvolle ondersteuning van lokale hobbyverenigingen te stimuleren, subsidieert de Vlaamse overheid hobbyverenigingen met een landelijke werking.</p>"
+      },
+      "startDienstVerlening": "2022-01-01T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 18 januari 2008 houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport (het Participatiedecreet).</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De hobbyvereniging is een vereniging met een landelijke werking. Ze telt minstens 30 afdelingen verspreid over minstens vier provincies van het Nederlandse taalgebied (het tweetalige gebied Brussel-Hoofdstad is gelijkgesteld aan een provincie). De hobbyvereniging organiseert activiteiten die de participatie verbreden en verdiepen door competenties op educatief, culturele of sportieve vlak te verhogen.</p><p>Hobbyverenigingen die al een werkingssubsidie ontvangen van de Vlaamse overheid, komen niet in aanmerking voor deze projectsubsidie.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Op de website van Departement Cultuur, Jeugd en Media vindt u meer informatie over hoe u een subsidieaanvraag moet indienen.</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "subsidies voor hobbyverenigingen "
+              },
+              "url": "https://www.vlaanderen.be/cjm/nl/participatie/sub-si-dies-het-ka-der-van-het-par-ti-ci-pa-tie-de-creet/hobbyverenigingen",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-17T08:45:05.400852109Z",
+      "laatstGewijzigd": "2023-04-17T10:15:04.783474975Z",
+      "laatstOntvangen": "2023-04-17T10:15:04.783474975Z",
+      "productnummer": "2873",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/33ecb355-edc3-40f9-be3c-5c6d5d881f77",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"
+    },
+    {
+      "id": "fe57fe1e-b47d-498b-b795-9c1a8e69d1bf",
+      "generatedAtTime": "2023-04-17T08:45:05.483178Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsubsidie voor hobbyverenigingen"
+      },
+      "beschrijving": {
+        "nl": "<p>Om de gemeenschapsvormende waarde en de kwaliteitsvolle ondersteuning van lokale hobbyverenigingen te stimuleren, subsidieert de Vlaamse overheid hobbyverenigingen met een landelijke werking.</p>"
+      },
+      "startDienstVerlening": "2022-01-01T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 18 januari 2008 houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport (het Participatiedecreet).</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De hobbyvereniging is een vereniging met een landelijke werking. Ze telt minstens 30 afdelingen verspreid over minstens vier provincies van het Nederlandse taalgebied (het tweetalige gebied Brussel-Hoofdstad is gelijkgesteld aan een provincie). De hobbyvereniging organiseert activiteiten die de participatie verbreden en verdiepen door competenties op educatief, culturele of sportieve vlak te verhogen.</p><p>Hobbyverenigingen die al een werkingssubsidie ontvangen van de Vlaamse overheid, komen niet in aanmerking voor deze projectsubsidie.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Op de website van Departement Cultuur, Jeugd en Media vindt u meer informatie over hoe u een subsidieaanvraag moet indienen.</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "subsidies voor hobbyverenigingen "
+              },
+              "url": "https://www.vlaanderen.be/cjm/nl/participatie/sub-si-dies-het-ka-der-van-het-par-ti-ci-pa-tie-de-creet/hobbyverenigingen",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-17T08:45:05.400852109Z",
+      "laatstGewijzigd": "2023-04-17T08:45:05.40085358Z",
+      "laatstOntvangen": "2023-04-17T08:45:05.40085358Z",
+      "productnummer": "2873",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fe57fe1e-b47d-498b-b795-9c1a8e69d1bf",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0eb8d72b-5d3c-4eef-a331-35db0f708d80"
+    },
+    {
+      "id": "c336b0ff-8dec-4bbb-a028-7902f6f75d75",
+      "generatedAtTime": "2023-04-17T06:45:05.708675Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Europees"
+      ],
+      "naam": {
+        "nl": "Nog een testproduct LPDC/IPDC verenigingsloket"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Dit is de verdere beschrijving tekst</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Dit is de regelgeving</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Dit zijn de uitzonderingen</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "testzoekterm",
+          "afsprakenbeheer prenatale consultaties",
+          "12 december",
+          "be",
+          "*acties",
+          "1/10 ouderschapsverlof",
+          "-buitenland; -buitenlander"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Dit zijn de bewijsstukken</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de procedure</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Vergunning C rechtsreeks aanvragen"
+              },
+              "url": "https://www.gamingcommission.be/nl",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Departement Cultuur, Jeugd en Media"
+          },
+          "url": "https://www.vlaanderen.be/cjm",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de kosten</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"
+          },
+          "naam": {
+            "nl": "Financiële voordelen"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-15T12:55:06.97857876Z",
+      "laatstGewijzigd": "2023-04-17T06:45:05.618238863Z",
+      "laatstOntvangen": "2023-04-17T06:45:05.618238863Z",
+      "productnummer": "2853",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c336b0ff-8dec-4bbb-a028-7902f6f75d75",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"
+    },
+    {
+      "id": "edbb6055-9e10-4943-b6ce-16aba5763d2b",
+      "generatedAtTime": "2023-04-14T11:30:06.646177Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Europees"
+      ],
+      "naam": {
+        "nl": "Nog een Test product LPDC/IPDC verenigingsloket"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Dit is de verdere beschrijving tekst</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Dit is de regelgeving</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Dit zijn de uitzonderingen</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "testzoekterm",
+          "afsprakenbeheer prenatale consultaties",
+          "12 december",
+          "be",
+          "*acties",
+          "1/10 ouderschapsverlof",
+          "-buitenland; -buitenlander"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Dit zijn de bewijsstukken</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de procedure</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Vergunning C rechtsreeks aanvragen"
+              },
+              "url": "https://www.gamingcommission.be/nl",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Departement Cultuur, Jeugd en Media"
+          },
+          "url": "https://www.vlaanderen.be/cjm",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de kosten</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"
+          },
+          "naam": {
+            "nl": "Financiële voordelen"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-15T12:55:06.97857876Z",
+      "laatstGewijzigd": "2023-04-14T11:30:06.581703187Z",
+      "laatstOntvangen": "2023-04-14T11:30:06.581703187Z",
+      "productnummer": "2853",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/edbb6055-9e10-4943-b6ce-16aba5763d2b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"
+    },
+    {
+      "id": "ffff1750-d2fd-44b1-a612-d20fd8ab126e",
+      "generatedAtTime": "2023-04-14T11:25:04.43345Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Europees"
+      ],
+      "naam": {
+        "nl": "Nog een Test product LPDC/IPDC verenigingsloket"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Dit is de verdere beschrijving tekst</p>"
+      },
+      "startDienstVerlening": "2023-04-10T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Dit is de regelgeving</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Dit zijn de uitzonderingen</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "testzoekterm",
+          "afsprakenbeheer prenatale consultaties",
+          "12 december",
+          "be",
+          "*acties",
+          "1/10 ouderschapsverlof",
+          "-buitenland; -buitenlander"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Dit zijn de bewijsstukken</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de procedure</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Vergunning C rechtsreeks aanvragen"
+              },
+              "url": "https://www.gamingcommission.be/nl",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Departement Cultuur, Jeugd en Media"
+          },
+          "url": "https://www.vlaanderen.be/cjm",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de kosten</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"
+          },
+          "naam": {
+            "nl": "Financiële voordelen"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-15T12:55:06.97857876Z",
+      "laatstGewijzigd": "2023-04-14T11:25:04.363599425Z",
+      "laatstOntvangen": "2023-04-14T11:25:04.363599425Z",
+      "productnummer": "2853",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ffff1750-d2fd-44b1-a612-d20fd8ab126e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"
+    },
+    {
+      "id": "e6c64b5a-3d86-4867-80da-68f9de1041d8",
+      "generatedAtTime": "2023-04-14T11:20:05.645521Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Europees"
+      ],
+      "naam": {
+        "nl": "Nog een Test product LPDC/IPDC verenigingsloket"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Dit is de verdere beschrijving tekst</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Dit is de regelgeving</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Dit zijn de uitzonderingen</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "testzoekterm",
+          "afsprakenbeheer prenatale consultaties",
+          "12 december",
+          "be",
+          "*acties",
+          "1/10 ouderschapsverlof",
+          "-buitenland; -buitenlander"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Dit zijn de bewijsstukken</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de procedure</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Vergunning C rechtsreeks aanvragen"
+              },
+              "url": "https://www.gamingcommission.be/nl",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Departement Cultuur, Jeugd en Media"
+          },
+          "url": "https://www.vlaanderen.be/cjm",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de kosten</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"
+          },
+          "naam": {
+            "nl": "Financiële voordelen"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-15T12:55:06.97857876Z",
+      "laatstGewijzigd": "2023-04-14T11:20:05.55737279Z",
+      "laatstOntvangen": "2023-04-14T11:20:05.55737279Z",
+      "productnummer": "2853",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e6c64b5a-3d86-4867-80da-68f9de1041d8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"
+    },
+    {
+      "id": "d9b00a5b-f339-4eac-862a-6cbfe309d60d",
+      "generatedAtTime": "2023-04-14T07:20:05.952813Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Gratis verzekering voor vrijwilligers"
+      },
+      "beschrijving": {
+        "nl": "<p>Bepaalde vrijwilligersorganisaties kunnen jaarlijks tot 1000 vrijwilligersuren gratis verzekeren. De vrijwilligersverzekering biedt waarborgen voor burgerrechtelijke aansprakelijkheid, rechtsbijstand en lichamelijke ongevallen.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO021371",
+          "@id": "OVO021371"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De volgende organisaties kunnen beroep doen op de gratis verzekering:</p><ul><li>feitelijke verenigingen zonder winstoogmerk, door minstens 2 personen geleid, als<ul><li>de vertegenwoordigers en verantwoordelijken in het Vlaams Gewest of het Brussels Hoofdstedelijk Gewest wonen</li><li>ze geen personeel tewerkstellen</li><li>de voertaal Nederlands is</li></ul></li><li>vzw’s of stichtingen zonder betaald personeel, als<ul><li>ze een privaatrechtelijke rechtspersoon zijn</li><li>de maatschappelijke zetel gevestigd is in het Vlaams Gewest of het Brussels Hoofdstedelijk Gewest, en de statuten in het Nederlands zijn opgesteld.</li></ul></li><li>vzw’s of stichtingen in oprichting (en tijdens het eerste jaar van de werking), als<ul><li>er geen personeel wordt tewerkgesteld</li><li>de personen die verbintenissen aangaan in naam van de VZW of stichting in het Vlaams Gewest of Brussels Hoofdstedelijk Gewest wonen</li><li>de voertaal Nederlands is</li></ul></li><li>lokale afdelingen van koepelorganisaties, als het gaat om extra activiteiten. Voor de vaste activiteiten heeft de koepel verzekeringsplicht</li></ul><p>De verzekering geldt wereldwijd voor alle organisaties gevestigd in België, behalve voor activiteiten in de Verenigde Staten, en Canada.</p><p>Meer informatie over de voorwaarden leest u in het reglement.<br />Meer informatie over wat er onder de verzekering valt, leest u in de polis.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Als u nog geen erkenningsnummer hebt, vraag dan eerst een erkenningsnummer aan bij het Vlaams Steunpunt Vrijwilligerswerk. Erkenningsnummers afgeleverd voor 1 april 2019 zijn niet meer geldig.</li><li>U moet minstens 48 uur op voorhand de activiteiten doorgeven aan de verzekering</li><li>Na een schadegeval doet u een schadeaangifte bij de verzekeraar. Klik daarvoor in het loket op de knop ‘schade aangeven’ naast de aangegeven activiteit.</li></ul>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Gratis vrijwilligersverzekering"
+              },
+              "url": "http://www.vlaanderenvrijwilligt.be/gratis-vrijwilligersverzekering",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>De verzekering is gratis.</p>"
+          },
+          "naam": {
+            "nl": "De verzekering is gratis."
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De verzekering is gratis.</p>"
+          },
+          "naam": {
+            "nl": "De verzekering is gratis."
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-14T07:20:05.63429777Z",
+      "laatstGewijzigd": "2023-04-14T07:20:05.9351447Z",
+      "laatstOntvangen": "2023-04-14T07:20:05.9351447Z",
+      "productnummer": "2871",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d9b00a5b-f339-4eac-862a-6cbfe309d60d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2cb1f1f5-c40b-42e2-b9d6-30ce2f59afb2"
+    },
+    {
+      "id": "c04bba1d-2a46-4dcc-ac85-1a272fb1f8b5",
+      "generatedAtTime": "2023-04-14T07:20:05.747924Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Gratis verzekering voor vrijwilligers"
+      },
+      "beschrijving": {
+        "nl": "<p>Bepaalde vrijwilligersorganisaties kunnen jaarlijks tot 1000 vrijwilligersuren gratis verzekeren. De vrijwilligersverzekering biedt waarborgen voor burgerrechtelijke aansprakelijkheid, rechtsbijstand en lichamelijke ongevallen.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO021371",
+          "@id": "OVO021371"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De volgende organisaties kunnen beroep doen op de gratis verzekering:</p><ul><li>feitelijke verenigingen zonder winstoogmerk, door minstens 2 personen geleid, als<ul><li>de vertegenwoordigers en verantwoordelijken in het Vlaams Gewest of het Brussels Hoofdstedelijk Gewest wonen</li><li>ze geen personeel tewerkstellen</li><li>de voertaal Nederlands is</li></ul></li><li>vzw’s of stichtingen zonder betaald personeel, als<ul><li>ze een privaatrechtelijke rechtspersoon zijn</li><li>de maatschappelijke zetel gevestigd is in het Vlaams Gewest of het Brussels Hoofdstedelijk Gewest, en de statuten in het Nederlands zijn opgesteld.</li></ul></li><li>vzw’s of stichtingen in oprichting (en tijdens het eerste jaar van de werking), als<ul><li>er geen personeel wordt tewerkgesteld</li><li>de personen die verbintenissen aangaan in naam van de VZW of stichting in het Vlaams Gewest of Brussels Hoofdstedelijk Gewest wonen</li><li>de voertaal Nederlands is</li></ul></li><li>lokale afdelingen van koepelorganisaties, als het gaat om extra activiteiten. Voor de vaste activiteiten heeft de koepel verzekeringsplicht</li></ul><p>De verzekering geldt wereldwijd voor alle organisaties gevestigd in België, behalve voor activiteiten in de Verenigde Staten, en Canada.</p><p>Meer informatie over de voorwaarden leest u in het reglement.<br />Meer informatie over wat er onder de verzekering valt, leest u in de polis.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Als u nog geen erkenningsnummer hebt, vraag dan eerst een erkenningsnummer aan bij het Vlaams Steunpunt Vrijwilligerswerk. Erkenningsnummers afgeleverd voor 1 april 2019 zijn niet meer geldig.</li><li>U moet minstens 48 uur op voorhand de activiteiten doorgeven aan de verzekering</li><li>Na een schadegeval doet u een schadeaangifte bij de verzekeraar. Klik daarvoor in het loket op de knop ‘schade aangeven’ naast de aangegeven activiteit.</li></ul>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Gratis vrijwilligersverzekering"
+              },
+              "url": "http://www.vlaanderenvrijwilligt.be/gratis-vrijwilligersverzekering",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>De verzekering is gratis.</p>"
+          },
+          "naam": {
+            "nl": "De verzekering is gratis."
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De verzekering is gratis.</p>"
+          },
+          "naam": {
+            "nl": "De verzekering is gratis."
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-14T07:20:05.63429777Z",
+      "laatstGewijzigd": "2023-04-14T07:20:05.634300588Z",
+      "laatstOntvangen": "2023-04-14T07:20:05.634300588Z",
+      "productnummer": "2871",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c04bba1d-2a46-4dcc-ac85-1a272fb1f8b5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2cb1f1f5-c40b-42e2-b9d6-30ce2f59afb2"
+    },
+    {
+      "id": "f54bf0f0-a1bd-4f4e-b6dd-8ef19d4d1809",
+      "generatedAtTime": "2023-04-12T14:00:05.619402Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Europees"
+      ],
+      "naam": {
+        "nl": "Nog een Test product LPDC/IPDC verenigingsloket"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Dit is de verdere beschrijving tekst</p>"
+      },
+      "startDienstVerlening": "2022-12-15T12:00:00Z",
+      "eindeDienstVerlening": "2023-06-29T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Dit is de regelgeving</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Dit zijn de uitzonderingen</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "testzoekterm",
+          "afsprakenbeheer prenatale consultaties",
+          "12 december",
+          "be",
+          "*acties",
+          "1/10 ouderschapsverlof",
+          "-buitenland; -buitenlander"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Dit zijn de bewijsstukken</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de procedure</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Vergunning C rechtsreeks aanvragen"
+              },
+              "url": "https://www.gamingcommission.be/nl",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Departement Cultuur, Jeugd en Media"
+          },
+          "url": "https://www.vlaanderen.be/cjm",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de kosten</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"
+          },
+          "naam": {
+            "nl": "Financiële voordelen"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-15T12:55:06.97857876Z",
+      "laatstGewijzigd": "2023-04-12T14:00:05.511126127Z",
+      "laatstOntvangen": "2023-04-12T14:00:05.511126127Z",
+      "productnummer": "2853",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f54bf0f0-a1bd-4f4e-b6dd-8ef19d4d1809",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"
+    },
+    {
+      "id": "3c5ada16-7141-4dff-be25-b1d4da4a68ca",
+      "generatedAtTime": "2023-04-12T09:44:00.679432Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "nl": "<p data-indentation-level=\"0\">a</p>",
+        "en": "<p data-indentation-level=\"0\">a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23545068"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/f73c7109-06a0-45d7-b558-879d87ca3553",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/f73c7109-06a0-45d7-b558-879d87ca3553"
+        },
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/0f316807-839b-4554-a4d8-8656e9f83201",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/0f316807-839b-4554-a4d8-8656e9f83201"
+        },
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4"
+        }
+      ],
+      "creatie": "2023-04-12T08:58:06.868Z",
+      "laatstGewijzigd": "2023-04-12T09:43:51.06Z",
+      "laatstOntvangen": "2023-04-12T09:43:51.06Z",
+      "productnummer": "10151",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3c5ada16-7141-4dff-be25-b1d4da4a68ca",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/076fd700-a393-498b-9f88-5e194a0b9618"
+    },
+    {
+      "id": "f07baf25-ea1f-4449-9630-865c4de0d591",
+      "generatedAtTime": "2023-04-12T09:37:01.081126Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "nl": "<p data-indentation-level=\"0\">a</p>",
+        "en": "<p data-indentation-level=\"0\">a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23545068"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/52cc723a-9717-496d-9897-c6774cf124e4"
+        }
+      ],
+      "creatie": "2023-04-12T08:58:06.868Z",
+      "laatstGewijzigd": "2023-04-12T09:36:33.128Z",
+      "laatstOntvangen": "2023-04-12T09:36:33.128Z",
+      "productnummer": "10151",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f07baf25-ea1f-4449-9630-865c4de0d591",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/076fd700-a393-498b-9f88-5e194a0b9618"
+    },
+    {
+      "id": "b915a109-cef7-4a69-93e0-c496cc1bcbff",
+      "generatedAtTime": "2023-04-06T14:38:00.902931Z",
+      "naam": {
+        "en": "b",
+        "nl": "b"
+      },
+      "beschrijving": {
+        "en": "<p>b</p>",
+        "nl": "<p>b</p>"
+      },
+      "publicatiekanalen": [
+        "YourEurope"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "yourEuropeCategorieen": [
+        "VoertuigenVerkeersregels"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": "dd@hello.com",
+          "telefoonnummer": "016/24.74.70",
+          "openingsuren": "ma-do 08.30-12.30/13.30-16.30, vr 08.30-12.30",
+          "url": "https://www.hello.com",
+          "@type": "Contactgegevens",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-04T10:24:53.335Z",
+      "laatstGewijzigd": "2023-04-06T14:37:17.493Z",
+      "laatstOntvangen": "2023-04-06T14:37:17.493Z",
+      "productnummer": "10141",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b915a109-cef7-4a69-93e0-c496cc1bcbff",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f00d67d5-8727-464e-a2bd-e5e05af904ad"
+    },
+    {
+      "id": "abfd8d5d-43dc-4fd1-94e4-a5f5b5461fb7",
+      "generatedAtTime": "2023-04-06T14:36:00.92105Z",
+      "naam": {
+        "en": "b",
+        "nl": "b"
+      },
+      "beschrijving": {
+        "en": "<p>b</p>",
+        "nl": "<p>b</p>"
+      },
+      "publicatiekanalen": [
+        "YourEurope"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "yourEuropeCategorieen": [
+        "VoertuigenVerkeersregels"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": "dd@hello.com",
+          "telefoonnummer": "016/24.74.70",
+          "url": "https://www.hello.com",
+          "@type": "Contactgegevens",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-04T10:24:53.335Z",
+      "laatstGewijzigd": "2023-04-06T14:35:57.776Z",
+      "laatstOntvangen": "2023-04-06T14:35:57.776Z",
+      "productnummer": "10141",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/abfd8d5d-43dc-4fd1-94e4-a5f5b5461fb7",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f00d67d5-8727-464e-a2bd-e5e05af904ad"
+    },
+    {
+      "id": "5a840fe6-f231-4550-a053-3ae2c05044ff",
+      "generatedAtTime": "2023-04-06T14:32:03.197156Z",
+      "naam": {
+        "en": "b",
+        "nl": "b"
+      },
+      "beschrijving": {
+        "en": "<p>b</p>",
+        "nl": "<p>b</p>"
+      },
+      "publicatiekanalen": [
+        "YourEurope"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "yourEuropeCategorieen": [
+        "VoertuigenVerkeersregels"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": "dd@hello.com",
+          "telefoonnummer": "0412345678",
+          "openingsuren": " ",
+          "url": "https://www.hello.com",
+          "@type": "Contactgegevens",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-04T10:24:53.335Z",
+      "laatstGewijzigd": "2023-04-06T14:31:19.358Z",
+      "laatstOntvangen": "2023-04-06T14:31:19.358Z",
+      "productnummer": "10141",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5a840fe6-f231-4550-a053-3ae2c05044ff",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f00d67d5-8727-464e-a2bd-e5e05af904ad"
+    },
+    {
+      "id": "6d11d027-4bb9-4059-ab59-6e0b54e8da77",
+      "generatedAtTime": "2023-04-05T13:09:00.754893Z",
+      "naam": {
+        "en": "x",
+        "nl": "x"
+      },
+      "beschrijving": {
+        "en": "<p>x</p>",
+        "nl": "<p>x</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Title",
+            "nl": "Titel"
+          },
+          "url": "https://www.google.com",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "nl": "-",
+            "en": "-"
+          },
+          "url": "",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-04-05T13:01:31.239Z",
+      "laatstGewijzigd": "2023-04-05T13:07:50.307Z",
+      "laatstOntvangen": "2023-04-05T13:07:50.307Z",
+      "productnummer": "10149",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6d11d027-4bb9-4059-ab59-6e0b54e8da77",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/24f08b49-16fc-403c-8b86-660a9d70fcfa"
+    },
+    {
+      "id": "3439c7be-6e63-41e8-9974-639c95f15c1e",
+      "generatedAtTime": "2023-04-05T11:51:01.137937Z",
+      "naam": {
+        "nl": "q",
+        "en": "q"
+      },
+      "beschrijving": {
+        "en": "<p>q</p>",
+        "nl": "<p>q</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": "q@qc.com",
+          "telefoonnummer": " ",
+          "openingsuren": " ",
+          "url": " ",
+          "@type": "Contactgegevens",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-04T13:07:24.316Z",
+      "laatstGewijzigd": "2023-04-05T11:50:19.31Z",
+      "laatstOntvangen": "2023-04-05T11:50:19.31Z",
+      "productnummer": "10144",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3439c7be-6e63-41e8-9974-639c95f15c1e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ad788a25-d7ea-448c-b9e5-8fd902bf5086"
+    },
+    {
+      "id": "6d84d3e5-1971-4c6f-b8ab-44594d723c79",
+      "generatedAtTime": "2023-04-05T09:40:03.24794Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Sanity check V30.1",
+        "en": "Sanity check V30.1"
+      },
+      "beschrijving": {
+        "en": "<p>Sanity check V30.1</p>",
+        "nl": "<p>Sanity check V30.1</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE24224062"
+      ],
+      "yourEuropeCategorieen": [
+        "Diensten"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>test regelgeving</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>test uitzondering</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO005190",
+          "@id": "OVO005190"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Voorwaarden</p>",
+            "en": "<p>Voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>testing bewijsstuk</p>",
+              "en": "<p>testing bewijsstuk</p>"
+            },
+            "naam": {
+              "en": "Bewijs",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>test voorwaarde</p>",
+            "en": "<p>test voorwaarde</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>testing bewijsstuk</p>",
+              "en": "<p>testing bewijsstuk</p>"
+            },
+            "naam": {
+              "en": "Bewijs",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 1
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>test voorwaarde</p>",
+            "en": "<p>test voorwaarde</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>testing bewijsstuk</p>",
+              "en": "<p>testing bewijsstuk</p>"
+            },
+            "naam": {
+              "en": "Bewijs",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 2
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>test procedure</p>",
+            "nl": "<p>test procedure</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>test procedure</p>",
+            "nl": "<p>test procedure</p>"
+          },
+          "@type": "Procedure",
+          "order": 1
+        },
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>test procedure</p>",
+            "nl": "<p>test procedure</p>"
+          },
+          "@type": "Procedure",
+          "order": 2
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "en": "<p>testing kost</p>",
+            "nl": "<p>testing kost</p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "en": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>testing kost</p>",
+            "en": "<p>en</p>"
+          },
+          "naam": {
+            "en": "en",
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 1
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>testing kost</p>",
+            "en": "<p>en</p>"
+          },
+          "naam": {
+            "en": "en",
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 2
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>descr fin voordeel </p>",
+            "en": "<p>en</p>"
+          },
+          "naam": {
+            "en": "en",
+            "nl": "TEST fin voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>descr fin voordeel </p>",
+            "en": "<p>en</p>"
+          },
+          "naam": {
+            "en": "en",
+            "nl": "TEST fin voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 1
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>descr fin voordeel </p>",
+            "en": "<p>en</p>"
+          },
+          "naam": {
+            "en": "en",
+            "nl": "TEST fin voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 2
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021234&param=informatie&ref=search&AVIDS=1339097",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021234&param=informatie&ref=search&AVIDS=1339097",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-04-05T09:31:54.481Z",
+      "laatstGewijzigd": "2023-04-05T09:35:17.642Z",
+      "laatstOntvangen": "2023-04-05T09:35:17.642Z",
+      "linkedConcept": "https://ipdc.tni-vlaanderen.be/id/concept/0cc25d46-7dad-4e0b-96a3-3b5c74bda6fb",
+      "linkedConceptId": "0cc25d46-7dad-4e0b-96a3-3b5c74bda6fb",
+      "linkedConceptProductnummer": "10146",
+      "productnummer": "10147",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6d84d3e5-1971-4c6f-b8ab-44594d723c79",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/25fed578-1a65-4488-993d-cd01a3fbd042"
+    },
+    {
+      "id": "8c98c3ae-2f02-4b56-b0c3-aba74c2f29cc",
+      "generatedAtTime": "2023-04-05T06:50:58.955269Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "en": "a",
+        "nl": "Europees rijbewijs"
+      },
+      "beschrijving": {
+        "en": "<p>a</p>",
+        "nl": "<p></p><p>Een Europees rijbewijs is een document in bankkaartformaat met foto, waarmee u als bestuurder van een gemotoriseerd voertuig kunt aantonen dat u beschikt over voldoende kennis, inzicht en vaardigheid om een gemotoriseerd voertuig van een bepaalde categorie te kunnen en mogen besturen. Wie op de openbare weg een motorvoertuig bestuurt, moet beschikken over een rijbewijs, geldig voor de categorie waartoe het voertuig behoort.</p><p>Het Europees rijbewijs is 10 jaar geldig. Het is geldig in:</p><ul><li><p>alle landen van de <strong>Europese Economische Ruimte (EER)</strong>: dat zijn de landen van de Europese Unie plus IJsland, Liechtenstein en Noorwegen</p></li><li><p>de landen buiten de EER die het Belgisch rijbewijs erkennen. </p></li></ul><p></p>"
+      },
+      "startDienstVerlening": "2020-01-01T00:00:00Z",
+      "eindeDienstVerlening": "2030-12-31T00:00:00Z",
+      "publicatiekanalen": [
+        "YourEurope"
+      ],
+      "type": "Bewijs",
+      "themas": [
+        "BurgerOverheid",
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "yourEuropeCategorieen": [
+        "ReizenDocumenten"
+      ],
+      "zoektermen": {
+        "nl": [
+          "europese",
+          "rijbewijzen"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004718",
+          "@id": "OVO004718"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        },
+        {
+          "id": "OVO004718",
+          "@id": "OVO004718"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p></p><p>Als u een rijbewijs wil behalen, moet u slagen voor een <strong>theoretisch en een praktisch examen</strong>. U kunt pas aan het praktisch examen deelnemen na het volgen van een rijopleiding (met of zonder begeleider) en na een oefenperiode. Daarvoor hebt u een voorlopig rijbewijs nodig.</p><p></p>"
+          },
+          "naam": {
+            "nl": "Voorwaarde",
+            "en": "a"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p></p><ul><li><p><strong>Identiteitskaart</strong>.</p></li><li><p><strong>Voorlopig rijbewijs</strong>.</p></li><li><p>Document (<strong>attest van slagen</strong>) afgeleverd door het examencentrum.</p></li><li><p>Als de foto op uw elektronische identiteitskaart (eID) nog voldoende gelijkend is, dan kan die gebruikt worden voor uw rijbewijs.<br>Is de foto op uw eID niet gelijkend genoeg meer? Of wilt u een andere foto op uw rijbewijs? Breng dan ook een nieuwe <strong>foto </strong>mee.</p></li></ul><p></p>"
+            },
+            "naam": {
+              "en": "a",
+              "nl": "Wat meebrengen"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "en": "a",
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>a</p>",
+            "nl": "<p>U vraagt het Europese rijbewijs aan in de gemeente waar u bent ingeschreven.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-31T14:24:52.911Z",
+      "laatstGewijzigd": "2023-03-31T14:25:17.27Z",
+      "laatstOntvangen": "2023-03-31T14:25:17.27Z",
+      "linkedConcept": "https://ipdc.tni-vlaanderen.be/id/concept/031a6d3b-1be6-4606-be63-c138654443ff",
+      "linkedConceptId": "031a6d3b-1be6-4606-be63-c138654443ff",
+      "linkedConceptProductnummer": "10077",
+      "productnummer": "10137",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8c98c3ae-2f02-4b56-b0c3-aba74c2f29cc",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d35c740f-fd94-4d01-b285-d21ebb27950a"
+    }
+  ]
+}

@@ -1,1 +1,1437 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1000","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=999","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-11-14T15:30:35.479021Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1001","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-11-14T15:30:41.412075Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1000","@type":"EventStream","member":[{"id":"8085fc7a-f600-462f-a6e7-d054ba1b7b74","generatedAtTime":"2023-11-14T15:30:41.412075Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Decreetskosten havenbedrijven Maritieme Toegang","nl-BE-x-generated-informal":"Decreetskosten havenbedrijven Maritieme Toegang","nl":"Decreetskosten havenbedrijven Maritieme Toegang"},"beschrijving":{"nl-BE-x-formal":"<p>Decreetskosten havenbedrijven Maritieme Toegang</p>","nl-BE-x-generated-informal":"<p>Decreetskosten havenbedrijven Maritieme Toegang</p>","nl":"<p>Decreetskosten havenbedrijven Maritieme Toegang</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>","nl-BE-x-formal":"<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>","nl":"<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:40.321625351Z","laatstGewijzigd":"2023-11-14T15:30:41.349481316Z","laatstOntvangen":"2023-11-14T15:30:41.34948245Z","productnummer":"2197","gearchiveerd":false,"metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8085fc7a-f600-462f-a6e7-d054ba1b7b74","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/959b9fda-55f4-44fa-8710-908f7fff8634"},{"id":"733f5809-96b2-49fc-abda-b61fbe0625e0","generatedAtTime":"2023-11-14T15:30:41.224955Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies laadpalen (Relance)","nl-BE-x-formal":"Subsidies laadpalen (Relance)","nl":"Subsidies laadpalen (Relance)"},"beschrijving":{"nl":"<p>Subsidies laadpalen (Relance)</p>","nl-BE-x-formal":"<p>Subsidies laadpalen (Relance)</p>","nl-BE-x-generated-informal":"<p>Subsidies laadpalen (Relance)</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-formal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:40.191779287Z","laatstGewijzigd":"2023-11-14T15:30:41.176775694Z","laatstOntvangen":"2023-11-14T15:30:41.17677691Z","productnummer":"2196","gearchiveerd":false,"subsidiemaatregel":"ML","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/733f5809-96b2-49fc-abda-b61fbe0625e0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b8f1903f-cdbd-4c02-9ca4-04986bfaba90"},{"id":"7556ee8d-a984-4bd7-9140-3522b2fefba6","generatedAtTime":"2023-11-14T15:30:40.994148Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies Clean Power for Transport (Relance)","nl-BE-x-generated-informal":"Subsidies Clean Power for Transport (Relance)","nl-BE-x-formal":"Subsidies Clean Power for Transport (Relance)"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies Clean Power for Transport (Relance)</p>","nl-BE-x-formal":"<p>Subsidies Clean Power for Transport (Relance)</p>","nl":"<p>Subsidies Clean Power for Transport (Relance)</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Energiedecreet van 8 mei 2009</p>","nl-BE-x-formal":"<p>Energiedecreet van 8 mei 2009</p>","nl":"<p>Energiedecreet van 8 mei 2009</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:40.084104924Z","laatstGewijzigd":"2023-11-14T15:30:40.943631424Z","laatstOntvangen":"2023-11-14T15:30:40.943632376Z","productnummer":"2195","gearchiveerd":false,"subsidiemaatregel":"ML","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7556ee8d-a984-4bd7-9140-3522b2fefba6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/004150b9-8d22-4d8d-9784-84fa2556f560"},{"id":"cc4ec4fc-d1f2-4ca0-9f1e-6566c1a8f924","generatedAtTime":"2023-11-14T15:30:40.667653Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies internationele ontwikkelingssamenwerking","nl-BE-x-formal":"Subsidies internationele ontwikkelingssamenwerking","nl-BE-x-generated-informal":"Subsidies internationele ontwikkelingssamenwerking"},"beschrijving":{"nl":"<p>Subsidies internationele ontwikkelingssamenwerking</p>","nl-BE-x-formal":"<p>Subsidies internationele ontwikkelingssamenwerking</p>","nl-BE-x-generated-informal":"<p>Subsidies internationele ontwikkelingssamenwerking</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-formal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:39.932387111Z","laatstGewijzigd":"2023-11-14T15:30:40.619885696Z","laatstOntvangen":"2023-11-14T15:30:40.619886567Z","productnummer":"2194","gearchiveerd":false,"subsidiemaatregel":"MK","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cc4ec4fc-d1f2-4ca0-9f1e-6566c1a8f924","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/068e5da9-548b-481f-8744-ea8a8b9f9a32"},{"id":"bdef924f-fec2-46ea-a494-5ea8671c71eb","generatedAtTime":"2023-11-14T15:30:40.391777Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie VSV","nl-BE-x-formal":"Subsidie VSV","nl-BE-x-generated-informal":"Subsidie VSV"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidie VSV</p>","nl-BE-x-formal":"<p>Subsidie VSV</p>","nl":"<p>Subsidie VSV</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>","nl-BE-x-formal":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>","nl":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:39.820841719Z","laatstGewijzigd":"2023-11-14T15:30:40.343270356Z","laatstOntvangen":"2023-11-14T15:30:40.343271183Z","productnummer":"2193","gearchiveerd":false,"subsidiemaatregel":"MN","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bdef924f-fec2-46ea-a494-5ea8671c71eb","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dda5b004-96b5-4e55-a5d3-a4ded37b5d30"},{"id":"ec14e9cc-8332-4c63-89e9-d7b6cc0303ce","generatedAtTime":"2023-11-14T15:30:39.892804Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsubsidies Verkeersveiligheid","nl-BE-x-generated-informal":"Projectsubsidies Verkeersveiligheid","nl-BE-x-formal":"Projectsubsidies Verkeersveiligheid"},"beschrijving":{"nl-BE-x-formal":"<p>Projectsubsidies Verkeersveiligheid</p>","nl-BE-x-generated-informal":"<p>Projectsubsidies Verkeersveiligheid</p>","nl":"<p>Projectsubsidies Verkeersveiligheid</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>","nl-BE-x-formal":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>","nl":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:39.518324629Z","laatstGewijzigd":"2023-11-14T15:30:39.843873063Z","laatstOntvangen":"2023-11-14T15:30:39.843873981Z","productnummer":"2192","gearchiveerd":false,"subsidiemaatregel":"MN","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ec14e9cc-8332-4c63-89e9-d7b6cc0303ce","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/facb11b8-4d2f-4a21-b53c-f257e46f8338"},{"id":"7ac1f4eb-21bc-4ce5-bf58-1d8c4e49624e","generatedAtTime":"2023-11-14T15:30:39.527737Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie CARA","nl-BE-x-generated-informal":"Subsidie CARA","nl-BE-x-formal":"Subsidie CARA"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidie CARA</p>","nl-BE-x-generated-informal":"<p>Subsidie CARA</p>","nl":"<p>Subsidie CARA</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>","nl-BE-x-formal":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>","nl":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:39.278891445Z","laatstGewijzigd":"2023-11-14T15:30:39.478584767Z","laatstOntvangen":"2023-11-14T15:30:39.478585874Z","productnummer":"2191","gearchiveerd":false,"subsidiemaatregel":"MN","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7ac1f4eb-21bc-4ce5-bf58-1d8c4e49624e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/617f7dc5-3854-4f6d-80df-d42627698430"},{"id":"95164062-1c16-406d-912e-bccab9ddd000","generatedAtTime":"2023-11-14T15:30:39.250511Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies verplaatsen leidingen","nl-BE-x-generated-informal":"Subsidies verplaatsen leidingen","nl-BE-x-formal":"Subsidies verplaatsen leidingen"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies verplaatsen leidingen</p>","nl-BE-x-formal":"<p>Subsidies verplaatsen leidingen</p>","nl":"<p>Subsidies verplaatsen leidingen</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Artikel 2 van het besluit van de Regent van 2 juli<br />1949 - bij BVR van 8/11/2019 werd deze bepaling opgeheven. Dit BVR treedt in werking op 01/10/2020</p>","nl-BE-x-generated-informal":"<p>Artikel 2 van het besluit van de Regent van 2 juli<br/>1949 - bij BVR van 8/11/2019 werd deze bepaling opgeheven. Dit BVR treedt in werking op 01/10/2020</p>","nl":"<p>Artikel 2 van het besluit van de Regent van 2 juli<br />1949 - bij BVR van 8/11/2019 werd deze bepaling opgeheven. Dit BVR treedt in werking op 01/10/2020</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:39.132769245Z","laatstGewijzigd":"2023-11-14T15:30:39.198097994Z","laatstOntvangen":"2023-11-14T15:30:39.198098982Z","productnummer":"2190","gearchiveerd":false,"subsidiemaatregel":"MR","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/95164062-1c16-406d-912e-bccab9ddd000","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a9f3389c-7c91-4b24-be94-cbc3a024224d"},{"id":"26585d7f-0991-4041-8409-fdc35a49c4a8","generatedAtTime":"2023-11-14T15:30:38.919541Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg","nl-BE-x-formal":"Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg","nl":"Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg"},"beschrijving":{"nl":"<p>Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg</p>","nl-BE-x-generated-informal":"<p>Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg</p>","nl-BE-x-formal":"<p>Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-generated-informal":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-formal":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:38.999924825Z","laatstGewijzigd":"2023-11-14T15:30:38.867734214Z","laatstOntvangen":"2023-11-14T15:30:38.867735338Z","productnummer":"2189","gearchiveerd":false,"subsidiemaatregel":"MR","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/26585d7f-0991-4041-8409-fdc35a49c4a8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/38fea7c9-4ae6-48a2-96b4-1b46c1a1f851"},{"id":"07444a03-e6d0-4f8d-a8ad-498426f1a416","generatedAtTime":"2023-11-14T15:30:38.727246Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies decreet basisbereikbaarheid","nl-BE-x-generated-informal":"Subsidies decreet basisbereikbaarheid","nl-BE-x-formal":"Subsidies decreet basisbereikbaarheid"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies decreet basisbereikbaarheid</p>","nl-BE-x-formal":"<p>Subsidies decreet basisbereikbaarheid</p>","nl":"<p>Subsidies decreet basisbereikbaarheid</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-generated-informal":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-formal":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:38.862019859Z","laatstGewijzigd":"2023-11-14T15:30:38.679181898Z","laatstOntvangen":"2023-11-14T15:30:38.679182756Z","productnummer":"2188","gearchiveerd":false,"subsidiemaatregel":"MR","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/07444a03-e6d0-4f8d-a8ad-498426f1a416","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b4281129-8b14-4e6e-bd03-393f9486dd9c"},{"id":"a4b9b07b-270d-4c08-9b52-74b5a2a9741f","generatedAtTime":"2023-11-14T15:30:38.535424Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"EFRO","nl-BE-x-generated-informal":"EFRO","nl":"EFRO"},"beschrijving":{"nl":"<p>EFRO</p>","nl-BE-x-generated-informal":"<p>EFRO</p>","nl-BE-x-formal":"<p>EFRO</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-formal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:38.736758385Z","laatstGewijzigd":"2023-11-14T15:30:38.486204424Z","laatstOntvangen":"2023-11-14T15:30:38.486205802Z","productnummer":"2187","gearchiveerd":false,"subsidiemaatregel":"MR","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a4b9b07b-270d-4c08-9b52-74b5a2a9741f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0f2a6052-2929-4344-9bea-b675062592c5"},{"id":"305eb82e-d8b2-4062-92bf-dbd12ae14ca2","generatedAtTime":"2023-11-14T15:30:38.262076Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Subsidies overdrachten wegen","nl-BE-x-generated-informal":"Subsidies overdrachten wegen","nl":"Subsidies overdrachten wegen"},"beschrijving":{"nl":"<p>Subsidies overdrachten wegen</p>","nl-BE-x-formal":"<p>Subsidies overdrachten wegen</p>","nl-BE-x-generated-informal":"<p>Subsidies overdrachten wegen</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Artikel 295 van het decreet over het lokaal bestuur van 22 december 2017</p>","nl-BE-x-generated-informal":"<p>Artikel 295 van het decreet over het lokaal bestuur van 22 december 2017</p>","nl":"<p>Artikel 295 van het decreet over het lokaal bestuur van 22 december 2017</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:38.610512025Z","laatstGewijzigd":"2023-11-14T15:30:38.21203512Z","laatstOntvangen":"2023-11-14T15:30:38.212036167Z","productnummer":"2186","gearchiveerd":false,"subsidiemaatregel":"MR","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/305eb82e-d8b2-4062-92bf-dbd12ae14ca2","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/738f0202-416b-4ced-bef1-62e0ddd2eba3"},{"id":"f6804adf-3bdd-4820-ba5f-54cbf6477c04","generatedAtTime":"2023-11-14T15:30:38.079665Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies fietsfonds","nl-BE-x-formal":"Subsidies fietsfonds","nl-BE-x-generated-informal":"Subsidies fietsfonds"},"beschrijving":{"nl":"<p>Subsidies fietsfonds</p>","nl-BE-x-formal":"<p>Subsidies fietsfonds</p>","nl-BE-x-generated-informal":"<p>Subsidies fietsfonds</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-generated-informal":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-formal":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:38.505013195Z","laatstGewijzigd":"2023-11-14T15:30:38.03199191Z","laatstOntvangen":"2023-11-14T15:30:38.031992887Z","productnummer":"2185","gearchiveerd":false,"subsidiemaatregel":"MR","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f6804adf-3bdd-4820-ba5f-54cbf6477c04","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/13731e39-462d-484c-bc0d-bdd0e95a992a"},{"id":"821b19ca-3aab-44d4-a665-4c7f5922c7f2","generatedAtTime":"2023-11-14T15:30:37.91211Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies toegankelijkheid haltes","nl-BE-x-formal":"Subsidies toegankelijkheid haltes","nl-BE-x-generated-informal":"Subsidies toegankelijkheid haltes"},"beschrijving":{"nl":"<p>Subsidies toegankelijkheid haltes</p>","nl-BE-x-formal":"<p>Subsidies toegankelijkheid haltes</p>","nl-BE-x-generated-informal":"<p>Subsidies toegankelijkheid haltes</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-generated-informal":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-formal":"<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:38.37883669Z","laatstGewijzigd":"2023-11-14T15:30:37.863649232Z","laatstOntvangen":"2023-11-14T15:30:37.863650366Z","productnummer":"2184","gearchiveerd":false,"subsidiemaatregel":"ME","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/821b19ca-3aab-44d4-a665-4c7f5922c7f2","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5a51bfd2-65b6-4b9b-97b0-92140a8f6a02"},{"id":"4f4d3b5c-39c9-4080-b154-edfb20909085","generatedAtTime":"2023-11-14T15:30:37.600172Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies hinterlandconnectiviteit","nl-BE-x-formal":"Subsidies hinterlandconnectiviteit","nl":"Subsidies hinterlandconnectiviteit"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidies hinterlandconnectiviteit</p>","nl-BE-x-generated-informal":"<p>Subsidies hinterlandconnectiviteit</p>","nl":"<p>Subsidies hinterlandconnectiviteit</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Havendecreet van 2 maart 1999</p>","nl-BE-x-formal":"<p>Havendecreet van 2 maart 1999</p>","nl":"<p>Havendecreet van 2 maart 1999</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:38.224923222Z","laatstGewijzigd":"2023-11-14T15:30:37.552192312Z","laatstOntvangen":"2023-11-14T15:30:37.552193198Z","productnummer":"2183","gearchiveerd":false,"subsidiemaatregel":"MS","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4f4d3b5c-39c9-4080-b154-edfb20909085","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/075ab400-edd0-436d-886e-9d595b5ea54e"},{"id":"2fa4a3ba-1ca4-4e05-9784-8476deb20d1b","generatedAtTime":"2023-11-14T15:30:37.40543Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies structureel regionaal overlegorgaan haven","nl":"Subsidies structureel regionaal overlegorgaan haven","nl-BE-x-formal":"Subsidies structureel regionaal overlegorgaan haven"},"beschrijving":{"nl":"<p>Subsidies structureel regionaal overlegorgaan haven</p>","nl-BE-x-formal":"<p>Subsidies structureel regionaal overlegorgaan haven</p>","nl-BE-x-generated-informal":"<p>Subsidies structureel regionaal overlegorgaan haven</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet houdende het beleid en het beheer van de zeehavens van 2 maart 1999</p>","nl-BE-x-formal":"<p>Decreet houdende het beleid en het beheer van de zeehavens van 2 maart 1999</p>","nl":"<p>Decreet houdende het beleid en het beheer van de zeehavens van 2 maart 1999</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:38.116096265Z","laatstGewijzigd":"2023-11-14T15:30:37.354385477Z","laatstOntvangen":"2023-11-14T15:30:37.354386989Z","productnummer":"2182","gearchiveerd":false,"subsidiemaatregel":"MS","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2fa4a3ba-1ca4-4e05-9784-8476deb20d1b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/71148679-311f-47e9-b19b-b71a2ee2aae1"},{"id":"13b02574-77ba-47ff-94c6-261f91a5a83b","generatedAtTime":"2023-11-14T15:30:37.12722Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies mobiliteitscharters provincie","nl-BE-x-formal":"Subsidies mobiliteitscharters provincie","nl-BE-x-generated-informal":"Subsidies mobiliteitscharters provincie"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidies voor mobiliteitscharters provincie</p>","nl-BE-x-generated-informal":"<p>Subsidies voor mobiliteitscharters provincie</p>","nl":"<p>Subsidies voor mobiliteitscharters provincie</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl-BE-x-formal":"<p>Decreet decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>","nl":"<p>Decreet decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:38.006834195Z","laatstGewijzigd":"2023-11-14T15:30:37.078139723Z","laatstOntvangen":"2023-11-14T15:30:37.078140685Z","productnummer":"2181","gearchiveerd":false,"subsidiemaatregel":"MO","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/13b02574-77ba-47ff-94c6-261f91a5a83b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/76f147c7-7d75-46fc-9c7a-6c4c6bc542e8"},{"id":"f3388e90-bd4d-4b99-a8b0-c355d966110e","generatedAtTime":"2023-11-14T15:30:36.939832Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Subsidie Fietsberaad","nl-BE-x-generated-informal":"Subsidie Fietsberaad","nl":"Subsidie Fietsberaad"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidie Fietsberaad</p>","nl-BE-x-generated-informal":"<p>Subsidie Fietsberaad</p>","nl":"<p>Subsidie Fietsberaad</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-formal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:37.900371789Z","laatstGewijzigd":"2023-11-14T15:30:36.892676914Z","laatstOntvangen":"2023-11-14T15:30:36.892678791Z","productnummer":"2180","gearchiveerd":false,"subsidiemaatregel":"MO","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f3388e90-bd4d-4b99-a8b0-c355d966110e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b93943f1-2f4d-4541-bf0e-bae980e5c345"},{"id":"be28f7e1-6203-42d2-966d-e7baaf591799","generatedAtTime":"2023-11-14T15:30:36.765486Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies Mobiliteits- en bereikbaarheidsmanagers","nl-BE-x-formal":"Subsidies Mobiliteits- en bereikbaarheidsmanagers","nl":"Subsidies Mobiliteits- en bereikbaarheidsmanagers"},"beschrijving":{"nl":"<p>Subsidies voor mobiliteits- en bereikbaarheidsmanagers</p>","nl-BE-x-formal":"<p>Subsidies voor mobiliteits- en bereikbaarheidsmanagers</p>","nl-BE-x-generated-informal":"<p>Subsidies voor mobiliteits- en bereikbaarheidsmanagers</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-formal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:37.772698855Z","laatstGewijzigd":"2023-11-14T15:30:36.7124615Z","laatstOntvangen":"2023-11-14T15:30:36.712462378Z","productnummer":"2179","gearchiveerd":false,"subsidiemaatregel":"ML","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/be28f7e1-6203-42d2-966d-e7baaf591799","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2e48334c-892d-4c0c-bbf2-dbd92bcce717"},{"id":"19ed0309-00ab-42c1-88a2-c294b1b5fedd","generatedAtTime":"2023-11-14T15:30:36.598397Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Subsidie Vlaams Instituut voor de Logistiek","nl-BE-x-generated-informal":"Subsidie Vlaams Instituut voor de Logistiek","nl":"Subsidie Vlaams Instituut voor de Logistiek"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidie Vlaams Instituut voor de Logistiek</p>","nl-BE-x-formal":"<p>Subsidie Vlaams Instituut voor de Logistiek</p>","nl":"<p>Subsidie Vlaams Instituut voor de Logistiek</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-formal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:37.650280667Z","laatstGewijzigd":"2023-11-14T15:30:36.549007552Z","laatstOntvangen":"2023-11-14T15:30:36.549008468Z","productnummer":"2178","gearchiveerd":false,"subsidiemaatregel":"ML","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/19ed0309-00ab-42c1-88a2-c294b1b5fedd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0bfcfe0d-63ec-4f94-9ded-8fa72e5d95ea"},{"id":"ca1d63c7-6e79-45b1-a04a-037b6cb0b02f","generatedAtTime":"2023-11-14T15:30:36.421918Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies","nl-BE-x-generated-informal":"Subsidies erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies","nl-BE-x-formal":"Subsidies erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidies voor erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies</p>","nl-BE-x-generated-informal":"<p>Subsidies voor erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies</p>","nl":"<p>Subsidies voor erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Decreet tot vaststelling van de algemene regels inzake de erkenning en basissubsidiëring van mobiliteitsverenigingen en koepels van verenigingen en de subsidiëring van mobiliteitsprojecten van 13 februari 2004.</p>","nl-BE-x-formal":"<p>Decreet tot vaststelling van de algemene regels inzake de erkenning en basissubsidiëring van mobiliteitsverenigingen en koepels van verenigingen en de subsidiëring van mobiliteitsprojecten van 13 februari 2004.</p>","nl":"<p>Decreet tot vaststelling van de algemene regels inzake de erkenning en basissubsidiëring van mobiliteitsverenigingen en koepels van verenigingen en de subsidiëring van mobiliteitsprojecten van 13 februari 2004.</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-03-24T06:40:48.4051692Z","laatstGewijzigd":"2023-11-14T15:30:36.368828974Z","laatstOntvangen":"2023-11-14T15:30:36.368829924Z","productnummer":"2177","gearchiveerd":false,"subsidiemaatregel":"ML","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ca1d63c7-6e79-45b1-a04a-037b6cb0b02f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f7967db7-820d-4108-ba17-206cf4bc7818"},{"id":"0387d0c6-8399-4da4-85d9-5fbe0ea5e951","generatedAtTime":"2023-11-14T15:30:36.226546Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies woon-werkverkeer","nl-BE-x-formal":"Subsidies woon-werkverkeer","nl-BE-x-generated-informal":"Subsidies woon-werkverkeer"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies voor woon-werkverkeer</p>","nl-BE-x-formal":"<p>Subsidies voor woon-werkverkeer</p>","nl":"<p>Subsidies voor woon-werkverkeer</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-formal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:37.439266711Z","laatstGewijzigd":"2023-11-14T15:30:36.179866679Z","laatstOntvangen":"2023-11-14T15:30:36.179867523Z","productnummer":"2176","gearchiveerd":false,"subsidiemaatregel":"ME","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0387d0c6-8399-4da4-85d9-5fbe0ea5e951","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ac56e3a6-099a-401d-977d-46acc323ef99"},{"id":"a7a84472-02e8-40e3-aaef-097f39a01adb","generatedAtTime":"2023-11-14T15:30:35.954675Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies MAV","nl-BE-x-generated-informal":"Subsidies MAV","nl-BE-x-formal":"Subsidies MAV"},"beschrijving":{"nl":"<p>Subsidies voor de Mobiliteitscentrale Aangepast Vervoer (MAV)</p>","nl-BE-x-formal":"<p>Subsidies voor de Mobiliteitscentrale Aangepast Vervoer (MAV)</p>","nl-BE-x-generated-informal":"<p>Subsidies voor de Mobiliteitscentrale Aangepast Vervoer (MAV)</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>","nl-BE-x-formal":"<p>Uitgavendecreet</p>","nl-BE-x-generated-informal":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:37.287080292Z","laatstGewijzigd":"2023-11-14T15:30:35.905666717Z","laatstOntvangen":"2023-11-14T15:30:35.905667971Z","productnummer":"2175","gearchiveerd":false,"subsidiemaatregel":"ME","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a7a84472-02e8-40e3-aaef-097f39a01adb","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0e4ede28-cb30-4a2c-a08e-f204dc4e91e7"},{"id":"a8dac990-1ee0-4c00-b7fc-9ad9fd2f5150","generatedAtTime":"2023-11-14T15:30:35.702949Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Subsidies aangepast vervoer","nl-BE-x-generated-informal":"Subsidies aangepast vervoer","nl":"Subsidies aangepast vervoer"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies voor aangepast vervoer</p>","nl-BE-x-formal":"<p>Subsidies voor aangepast vervoer</p>","nl":"<p>Subsidies voor aangepast vervoer</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<p>Decreet tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit van 21 december 2012</p>","nl-BE-x-generated-informal":"<p>Decreet tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit van 21 december 2012</p>","nl":"<p>Decreet tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit van 21 december 2012</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:37.169437272Z","laatstGewijzigd":"2023-11-14T15:30:35.651162216Z","laatstOntvangen":"2023-11-14T15:30:35.651163181Z","productnummer":"2174","gearchiveerd":false,"subsidiemaatregel":"ME","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a8dac990-1ee0-4c00-b7fc-9ad9fd2f5150","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f9494ffa-459e-4e6a-acb7-0a4fa6853897"},{"id":"02c78852-e281-46e1-9937-731b6c224ecc","generatedAtTime":"2023-11-14T15:30:35.479021Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Subsidies bevordering duurzaam woon-werkverkeer ikv Pendelfonds","nl-BE-x-generated-informal":"Subsidies bevordering duurzaam woon-werkverkeer ikv Pendelfonds","nl":"Subsidies bevordering duurzaam woon-werkverkeer ikv Pendelfonds"},"beschrijving":{"nl-BE-x-formal":"<p>Subsidies om duurzaam woon-werkverkeer ikv het Pendelfonds te bevorderen</p>","nl-BE-x-generated-informal":"<p>Subsidies om duurzaam woon-werkverkeer ikv het Pendelfonds te bevorderen</p>","nl":"<p>Subsidies om duurzaam woon-werkverkeer ikv het Pendelfonds te bevorderen</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2006 (artikel 51 tot en met 62) + het Besluit van de Vlaamse Regering betreffende het Pendelfonds van 30 september 2016</p>","nl-BE-x-formal":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2006 (artikel 51 tot en met 62) + het Besluit van de Vlaamse Regering betreffende het Pendelfonds van 30 september 2016</p>","nl-BE-x-generated-informal":"<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2006 (artikel 51 tot en met 62) + het Besluit van de Vlaamse Regering betreffende het Pendelfonds van 30 september 2016</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"creatie":"2023-05-04T14:15:37.057480877Z","laatstGewijzigd":"2023-11-14T15:30:35.424041775Z","laatstOntvangen":"2023-11-14T15:30:35.424043043Z","productnummer":"2173","gearchiveerd":false,"subsidiemaatregel":"ME","metadata":{"uJeVersie":"32.3.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/02c78852-e281-46e1-9937-731b6c224ecc","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ea10fe06-6bc8-4527-a782-787ed2264333"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1000",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=999",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-11-14T15:30:35.479021Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1001",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-11-14T15:30:41.412075Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=1000",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "8085fc7a-f600-462f-a6e7-d054ba1b7b74",
+      "generatedAtTime": "2023-11-14T15:30:41.412075Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Decreetskosten havenbedrijven Maritieme Toegang",
+        "nl-BE-x-generated-informal": "Decreetskosten havenbedrijven Maritieme Toegang",
+        "nl": "Decreetskosten havenbedrijven Maritieme Toegang"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Decreetskosten havenbedrijven Maritieme Toegang</p>",
+        "nl-BE-x-generated-informal": "<p>Decreetskosten havenbedrijven Maritieme Toegang</p>",
+        "nl": "<p>Decreetskosten havenbedrijven Maritieme Toegang</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>",
+        "nl-BE-x-formal": "<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>",
+        "nl": "<p>Decreet van 2 maart 1999 houdende het beheer en beleid van de zeehavens</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:40.321625351Z",
+      "laatstGewijzigd": "2023-11-14T15:30:41.349481316Z",
+      "laatstOntvangen": "2023-11-14T15:30:41.34948245Z",
+      "productnummer": "2197",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8085fc7a-f600-462f-a6e7-d054ba1b7b74",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/959b9fda-55f4-44fa-8710-908f7fff8634"
+    },
+    {
+      "id": "733f5809-96b2-49fc-abda-b61fbe0625e0",
+      "generatedAtTime": "2023-11-14T15:30:41.224955Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies laadpalen (Relance)",
+        "nl-BE-x-formal": "Subsidies laadpalen (Relance)",
+        "nl": "Subsidies laadpalen (Relance)"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies laadpalen (Relance)</p>",
+        "nl-BE-x-formal": "<p>Subsidies laadpalen (Relance)</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies laadpalen (Relance)</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:40.191779287Z",
+      "laatstGewijzigd": "2023-11-14T15:30:41.176775694Z",
+      "laatstOntvangen": "2023-11-14T15:30:41.17677691Z",
+      "productnummer": "2196",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ML",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/733f5809-96b2-49fc-abda-b61fbe0625e0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b8f1903f-cdbd-4c02-9ca4-04986bfaba90"
+    },
+    {
+      "id": "7556ee8d-a984-4bd7-9140-3522b2fefba6",
+      "generatedAtTime": "2023-11-14T15:30:40.994148Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies Clean Power for Transport (Relance)",
+        "nl-BE-x-generated-informal": "Subsidies Clean Power for Transport (Relance)",
+        "nl-BE-x-formal": "Subsidies Clean Power for Transport (Relance)"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies Clean Power for Transport (Relance)</p>",
+        "nl-BE-x-formal": "<p>Subsidies Clean Power for Transport (Relance)</p>",
+        "nl": "<p>Subsidies Clean Power for Transport (Relance)</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Energiedecreet van 8 mei 2009</p>",
+        "nl-BE-x-formal": "<p>Energiedecreet van 8 mei 2009</p>",
+        "nl": "<p>Energiedecreet van 8 mei 2009</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:40.084104924Z",
+      "laatstGewijzigd": "2023-11-14T15:30:40.943631424Z",
+      "laatstOntvangen": "2023-11-14T15:30:40.943632376Z",
+      "productnummer": "2195",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ML",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7556ee8d-a984-4bd7-9140-3522b2fefba6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/004150b9-8d22-4d8d-9784-84fa2556f560"
+    },
+    {
+      "id": "cc4ec4fc-d1f2-4ca0-9f1e-6566c1a8f924",
+      "generatedAtTime": "2023-11-14T15:30:40.667653Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies internationele ontwikkelingssamenwerking",
+        "nl-BE-x-formal": "Subsidies internationele ontwikkelingssamenwerking",
+        "nl-BE-x-generated-informal": "Subsidies internationele ontwikkelingssamenwerking"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies internationele ontwikkelingssamenwerking</p>",
+        "nl-BE-x-formal": "<p>Subsidies internationele ontwikkelingssamenwerking</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies internationele ontwikkelingssamenwerking</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:39.932387111Z",
+      "laatstGewijzigd": "2023-11-14T15:30:40.619885696Z",
+      "laatstOntvangen": "2023-11-14T15:30:40.619886567Z",
+      "productnummer": "2194",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MK",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cc4ec4fc-d1f2-4ca0-9f1e-6566c1a8f924",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/068e5da9-548b-481f-8744-ea8a8b9f9a32"
+    },
+    {
+      "id": "bdef924f-fec2-46ea-a494-5ea8671c71eb",
+      "generatedAtTime": "2023-11-14T15:30:40.391777Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie VSV",
+        "nl-BE-x-formal": "Subsidie VSV",
+        "nl-BE-x-generated-informal": "Subsidie VSV"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidie VSV</p>",
+        "nl-BE-x-formal": "<p>Subsidie VSV</p>",
+        "nl": "<p>Subsidie VSV</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>",
+        "nl-BE-x-formal": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>",
+        "nl": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:39.820841719Z",
+      "laatstGewijzigd": "2023-11-14T15:30:40.343270356Z",
+      "laatstOntvangen": "2023-11-14T15:30:40.343271183Z",
+      "productnummer": "2193",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MN",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bdef924f-fec2-46ea-a494-5ea8671c71eb",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dda5b004-96b5-4e55-a5d3-a4ded37b5d30"
+    },
+    {
+      "id": "ec14e9cc-8332-4c63-89e9-d7b6cc0303ce",
+      "generatedAtTime": "2023-11-14T15:30:39.892804Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsubsidies Verkeersveiligheid",
+        "nl-BE-x-generated-informal": "Projectsubsidies Verkeersveiligheid",
+        "nl-BE-x-formal": "Projectsubsidies Verkeersveiligheid"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Projectsubsidies Verkeersveiligheid</p>",
+        "nl-BE-x-generated-informal": "<p>Projectsubsidies Verkeersveiligheid</p>",
+        "nl": "<p>Projectsubsidies Verkeersveiligheid</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>",
+        "nl-BE-x-formal": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>",
+        "nl": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:39.518324629Z",
+      "laatstGewijzigd": "2023-11-14T15:30:39.843873063Z",
+      "laatstOntvangen": "2023-11-14T15:30:39.843873981Z",
+      "productnummer": "2192",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MN",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ec14e9cc-8332-4c63-89e9-d7b6cc0303ce",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/facb11b8-4d2f-4a21-b53c-f257e46f8338"
+    },
+    {
+      "id": "7ac1f4eb-21bc-4ce5-bf58-1d8c4e49624e",
+      "generatedAtTime": "2023-11-14T15:30:39.527737Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie CARA",
+        "nl-BE-x-generated-informal": "Subsidie CARA",
+        "nl-BE-x-formal": "Subsidie CARA"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidie CARA</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidie CARA</p>",
+        "nl": "<p>Subsidie CARA</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>",
+        "nl-BE-x-formal": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>",
+        "nl": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:39.278891445Z",
+      "laatstGewijzigd": "2023-11-14T15:30:39.478584767Z",
+      "laatstOntvangen": "2023-11-14T15:30:39.478585874Z",
+      "productnummer": "2191",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MN",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7ac1f4eb-21bc-4ce5-bf58-1d8c4e49624e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/617f7dc5-3854-4f6d-80df-d42627698430"
+    },
+    {
+      "id": "95164062-1c16-406d-912e-bccab9ddd000",
+      "generatedAtTime": "2023-11-14T15:30:39.250511Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies verplaatsen leidingen",
+        "nl-BE-x-generated-informal": "Subsidies verplaatsen leidingen",
+        "nl-BE-x-formal": "Subsidies verplaatsen leidingen"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies verplaatsen leidingen</p>",
+        "nl-BE-x-formal": "<p>Subsidies verplaatsen leidingen</p>",
+        "nl": "<p>Subsidies verplaatsen leidingen</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Artikel 2 van het besluit van de Regent van 2 juli<br />1949 - bij BVR van 8/11/2019 werd deze bepaling opgeheven. Dit BVR treedt in werking op 01/10/2020</p>",
+        "nl-BE-x-generated-informal": "<p>Artikel 2 van het besluit van de Regent van 2 juli<br/>1949 - bij BVR van 8/11/2019 werd deze bepaling opgeheven. Dit BVR treedt in werking op 01/10/2020</p>",
+        "nl": "<p>Artikel 2 van het besluit van de Regent van 2 juli<br />1949 - bij BVR van 8/11/2019 werd deze bepaling opgeheven. Dit BVR treedt in werking op 01/10/2020</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:39.132769245Z",
+      "laatstGewijzigd": "2023-11-14T15:30:39.198097994Z",
+      "laatstOntvangen": "2023-11-14T15:30:39.198098982Z",
+      "productnummer": "2190",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MR",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/95164062-1c16-406d-912e-bccab9ddd000",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a9f3389c-7c91-4b24-be94-cbc3a024224d"
+    },
+    {
+      "id": "26585d7f-0991-4041-8409-fdc35a49c4a8",
+      "generatedAtTime": "2023-11-14T15:30:38.919541Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg",
+        "nl-BE-x-formal": "Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg",
+        "nl": "Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg</p>",
+        "nl-BE-x-formal": "<p>Subsidies nav verhogingen van de vastlegging ikv modules - werken gemeenteweg</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-formal": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:38.999924825Z",
+      "laatstGewijzigd": "2023-11-14T15:30:38.867734214Z",
+      "laatstOntvangen": "2023-11-14T15:30:38.867735338Z",
+      "productnummer": "2189",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MR",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/26585d7f-0991-4041-8409-fdc35a49c4a8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/38fea7c9-4ae6-48a2-96b4-1b46c1a1f851"
+    },
+    {
+      "id": "07444a03-e6d0-4f8d-a8ad-498426f1a416",
+      "generatedAtTime": "2023-11-14T15:30:38.727246Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies decreet basisbereikbaarheid",
+        "nl-BE-x-generated-informal": "Subsidies decreet basisbereikbaarheid",
+        "nl-BE-x-formal": "Subsidies decreet basisbereikbaarheid"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies decreet basisbereikbaarheid</p>",
+        "nl-BE-x-formal": "<p>Subsidies decreet basisbereikbaarheid</p>",
+        "nl": "<p>Subsidies decreet basisbereikbaarheid</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-formal": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:38.862019859Z",
+      "laatstGewijzigd": "2023-11-14T15:30:38.679181898Z",
+      "laatstOntvangen": "2023-11-14T15:30:38.679182756Z",
+      "productnummer": "2188",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MR",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/07444a03-e6d0-4f8d-a8ad-498426f1a416",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b4281129-8b14-4e6e-bd03-393f9486dd9c"
+    },
+    {
+      "id": "a4b9b07b-270d-4c08-9b52-74b5a2a9741f",
+      "generatedAtTime": "2023-11-14T15:30:38.535424Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "EFRO",
+        "nl-BE-x-generated-informal": "EFRO",
+        "nl": "EFRO"
+      },
+      "beschrijving": {
+        "nl": "<p>EFRO</p>",
+        "nl-BE-x-generated-informal": "<p>EFRO</p>",
+        "nl-BE-x-formal": "<p>EFRO</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:38.736758385Z",
+      "laatstGewijzigd": "2023-11-14T15:30:38.486204424Z",
+      "laatstOntvangen": "2023-11-14T15:30:38.486205802Z",
+      "productnummer": "2187",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MR",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a4b9b07b-270d-4c08-9b52-74b5a2a9741f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0f2a6052-2929-4344-9bea-b675062592c5"
+    },
+    {
+      "id": "305eb82e-d8b2-4062-92bf-dbd12ae14ca2",
+      "generatedAtTime": "2023-11-14T15:30:38.262076Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Subsidies overdrachten wegen",
+        "nl-BE-x-generated-informal": "Subsidies overdrachten wegen",
+        "nl": "Subsidies overdrachten wegen"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies overdrachten wegen</p>",
+        "nl-BE-x-formal": "<p>Subsidies overdrachten wegen</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies overdrachten wegen</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Artikel 295 van het decreet over het lokaal bestuur van 22 december 2017</p>",
+        "nl-BE-x-generated-informal": "<p>Artikel 295 van het decreet over het lokaal bestuur van 22 december 2017</p>",
+        "nl": "<p>Artikel 295 van het decreet over het lokaal bestuur van 22 december 2017</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:38.610512025Z",
+      "laatstGewijzigd": "2023-11-14T15:30:38.21203512Z",
+      "laatstOntvangen": "2023-11-14T15:30:38.212036167Z",
+      "productnummer": "2186",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MR",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/305eb82e-d8b2-4062-92bf-dbd12ae14ca2",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/738f0202-416b-4ced-bef1-62e0ddd2eba3"
+    },
+    {
+      "id": "f6804adf-3bdd-4820-ba5f-54cbf6477c04",
+      "generatedAtTime": "2023-11-14T15:30:38.079665Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies fietsfonds",
+        "nl-BE-x-formal": "Subsidies fietsfonds",
+        "nl-BE-x-generated-informal": "Subsidies fietsfonds"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies fietsfonds</p>",
+        "nl-BE-x-formal": "<p>Subsidies fietsfonds</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies fietsfonds</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-formal": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:38.505013195Z",
+      "laatstGewijzigd": "2023-11-14T15:30:38.03199191Z",
+      "laatstOntvangen": "2023-11-14T15:30:38.031992887Z",
+      "productnummer": "2185",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MR",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f6804adf-3bdd-4820-ba5f-54cbf6477c04",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/13731e39-462d-484c-bc0d-bdd0e95a992a"
+    },
+    {
+      "id": "821b19ca-3aab-44d4-a665-4c7f5922c7f2",
+      "generatedAtTime": "2023-11-14T15:30:37.91211Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies toegankelijkheid haltes",
+        "nl-BE-x-formal": "Subsidies toegankelijkheid haltes",
+        "nl-BE-x-generated-informal": "Subsidies toegankelijkheid haltes"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies toegankelijkheid haltes</p>",
+        "nl-BE-x-formal": "<p>Subsidies toegankelijkheid haltes</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies toegankelijkheid haltes</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-formal": "<p>Decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:38.37883669Z",
+      "laatstGewijzigd": "2023-11-14T15:30:37.863649232Z",
+      "laatstOntvangen": "2023-11-14T15:30:37.863650366Z",
+      "productnummer": "2184",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ME",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/821b19ca-3aab-44d4-a665-4c7f5922c7f2",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5a51bfd2-65b6-4b9b-97b0-92140a8f6a02"
+    },
+    {
+      "id": "4f4d3b5c-39c9-4080-b154-edfb20909085",
+      "generatedAtTime": "2023-11-14T15:30:37.600172Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies hinterlandconnectiviteit",
+        "nl-BE-x-formal": "Subsidies hinterlandconnectiviteit",
+        "nl": "Subsidies hinterlandconnectiviteit"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidies hinterlandconnectiviteit</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies hinterlandconnectiviteit</p>",
+        "nl": "<p>Subsidies hinterlandconnectiviteit</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Havendecreet van 2 maart 1999</p>",
+        "nl-BE-x-formal": "<p>Havendecreet van 2 maart 1999</p>",
+        "nl": "<p>Havendecreet van 2 maart 1999</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:38.224923222Z",
+      "laatstGewijzigd": "2023-11-14T15:30:37.552192312Z",
+      "laatstOntvangen": "2023-11-14T15:30:37.552193198Z",
+      "productnummer": "2183",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MS",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4f4d3b5c-39c9-4080-b154-edfb20909085",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/075ab400-edd0-436d-886e-9d595b5ea54e"
+    },
+    {
+      "id": "2fa4a3ba-1ca4-4e05-9784-8476deb20d1b",
+      "generatedAtTime": "2023-11-14T15:30:37.40543Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies structureel regionaal overlegorgaan haven",
+        "nl": "Subsidies structureel regionaal overlegorgaan haven",
+        "nl-BE-x-formal": "Subsidies structureel regionaal overlegorgaan haven"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies structureel regionaal overlegorgaan haven</p>",
+        "nl-BE-x-formal": "<p>Subsidies structureel regionaal overlegorgaan haven</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies structureel regionaal overlegorgaan haven</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet houdende het beleid en het beheer van de zeehavens van 2 maart 1999</p>",
+        "nl-BE-x-formal": "<p>Decreet houdende het beleid en het beheer van de zeehavens van 2 maart 1999</p>",
+        "nl": "<p>Decreet houdende het beleid en het beheer van de zeehavens van 2 maart 1999</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:38.116096265Z",
+      "laatstGewijzigd": "2023-11-14T15:30:37.354385477Z",
+      "laatstOntvangen": "2023-11-14T15:30:37.354386989Z",
+      "productnummer": "2182",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MS",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2fa4a3ba-1ca4-4e05-9784-8476deb20d1b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/71148679-311f-47e9-b19b-b71a2ee2aae1"
+    },
+    {
+      "id": "13b02574-77ba-47ff-94c6-261f91a5a83b",
+      "generatedAtTime": "2023-11-14T15:30:37.12722Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies mobiliteitscharters provincie",
+        "nl-BE-x-formal": "Subsidies mobiliteitscharters provincie",
+        "nl-BE-x-generated-informal": "Subsidies mobiliteitscharters provincie"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidies voor mobiliteitscharters provincie</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies voor mobiliteitscharters provincie</p>",
+        "nl": "<p>Subsidies voor mobiliteitscharters provincie</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl-BE-x-formal": "<p>Decreet decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>",
+        "nl": "<p>Decreet decreet van 26 april 2019 betreffende de basisbereikbaarheid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:38.006834195Z",
+      "laatstGewijzigd": "2023-11-14T15:30:37.078139723Z",
+      "laatstOntvangen": "2023-11-14T15:30:37.078140685Z",
+      "productnummer": "2181",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MO",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/13b02574-77ba-47ff-94c6-261f91a5a83b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/76f147c7-7d75-46fc-9c7a-6c4c6bc542e8"
+    },
+    {
+      "id": "f3388e90-bd4d-4b99-a8b0-c355d966110e",
+      "generatedAtTime": "2023-11-14T15:30:36.939832Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Subsidie Fietsberaad",
+        "nl-BE-x-generated-informal": "Subsidie Fietsberaad",
+        "nl": "Subsidie Fietsberaad"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidie Fietsberaad</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidie Fietsberaad</p>",
+        "nl": "<p>Subsidie Fietsberaad</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:37.900371789Z",
+      "laatstGewijzigd": "2023-11-14T15:30:36.892676914Z",
+      "laatstOntvangen": "2023-11-14T15:30:36.892678791Z",
+      "productnummer": "2180",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "MO",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f3388e90-bd4d-4b99-a8b0-c355d966110e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b93943f1-2f4d-4541-bf0e-bae980e5c345"
+    },
+    {
+      "id": "be28f7e1-6203-42d2-966d-e7baaf591799",
+      "generatedAtTime": "2023-11-14T15:30:36.765486Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies Mobiliteits- en bereikbaarheidsmanagers",
+        "nl-BE-x-formal": "Subsidies Mobiliteits- en bereikbaarheidsmanagers",
+        "nl": "Subsidies Mobiliteits- en bereikbaarheidsmanagers"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies voor mobiliteits- en bereikbaarheidsmanagers</p>",
+        "nl-BE-x-formal": "<p>Subsidies voor mobiliteits- en bereikbaarheidsmanagers</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies voor mobiliteits- en bereikbaarheidsmanagers</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:37.772698855Z",
+      "laatstGewijzigd": "2023-11-14T15:30:36.7124615Z",
+      "laatstOntvangen": "2023-11-14T15:30:36.712462378Z",
+      "productnummer": "2179",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ML",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/be28f7e1-6203-42d2-966d-e7baaf591799",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2e48334c-892d-4c0c-bbf2-dbd92bcce717"
+    },
+    {
+      "id": "19ed0309-00ab-42c1-88a2-c294b1b5fedd",
+      "generatedAtTime": "2023-11-14T15:30:36.598397Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Subsidie Vlaams Instituut voor de Logistiek",
+        "nl-BE-x-generated-informal": "Subsidie Vlaams Instituut voor de Logistiek",
+        "nl": "Subsidie Vlaams Instituut voor de Logistiek"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidie Vlaams Instituut voor de Logistiek</p>",
+        "nl-BE-x-formal": "<p>Subsidie Vlaams Instituut voor de Logistiek</p>",
+        "nl": "<p>Subsidie Vlaams Instituut voor de Logistiek</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:37.650280667Z",
+      "laatstGewijzigd": "2023-11-14T15:30:36.549007552Z",
+      "laatstOntvangen": "2023-11-14T15:30:36.549008468Z",
+      "productnummer": "2178",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ML",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/19ed0309-00ab-42c1-88a2-c294b1b5fedd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0bfcfe0d-63ec-4f94-9ded-8fa72e5d95ea"
+    },
+    {
+      "id": "ca1d63c7-6e79-45b1-a04a-037b6cb0b02f",
+      "generatedAtTime": "2023-11-14T15:30:36.421918Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies",
+        "nl-BE-x-generated-informal": "Subsidies erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies",
+        "nl-BE-x-formal": "Subsidies erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidies voor erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies voor erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies</p>",
+        "nl": "<p>Subsidies voor erkende mobiliteitsverenigingen - structureel/actieprogramma's/mobiliteitscampagne/projectsubsidies</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Decreet tot vaststelling van de algemene regels inzake de erkenning en basissubsidiëring van mobiliteitsverenigingen en koepels van verenigingen en de subsidiëring van mobiliteitsprojecten van 13 februari 2004.</p>",
+        "nl-BE-x-formal": "<p>Decreet tot vaststelling van de algemene regels inzake de erkenning en basissubsidiëring van mobiliteitsverenigingen en koepels van verenigingen en de subsidiëring van mobiliteitsprojecten van 13 februari 2004.</p>",
+        "nl": "<p>Decreet tot vaststelling van de algemene regels inzake de erkenning en basissubsidiëring van mobiliteitsverenigingen en koepels van verenigingen en de subsidiëring van mobiliteitsprojecten van 13 februari 2004.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:48.4051692Z",
+      "laatstGewijzigd": "2023-11-14T15:30:36.368828974Z",
+      "laatstOntvangen": "2023-11-14T15:30:36.368829924Z",
+      "productnummer": "2177",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ML",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ca1d63c7-6e79-45b1-a04a-037b6cb0b02f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f7967db7-820d-4108-ba17-206cf4bc7818"
+    },
+    {
+      "id": "0387d0c6-8399-4da4-85d9-5fbe0ea5e951",
+      "generatedAtTime": "2023-11-14T15:30:36.226546Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies woon-werkverkeer",
+        "nl-BE-x-formal": "Subsidies woon-werkverkeer",
+        "nl-BE-x-generated-informal": "Subsidies woon-werkverkeer"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies voor woon-werkverkeer</p>",
+        "nl-BE-x-formal": "<p>Subsidies voor woon-werkverkeer</p>",
+        "nl": "<p>Subsidies voor woon-werkverkeer</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:37.439266711Z",
+      "laatstGewijzigd": "2023-11-14T15:30:36.179866679Z",
+      "laatstOntvangen": "2023-11-14T15:30:36.179867523Z",
+      "productnummer": "2176",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ME",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0387d0c6-8399-4da4-85d9-5fbe0ea5e951",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ac56e3a6-099a-401d-977d-46acc323ef99"
+    },
+    {
+      "id": "a7a84472-02e8-40e3-aaef-097f39a01adb",
+      "generatedAtTime": "2023-11-14T15:30:35.954675Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies MAV",
+        "nl-BE-x-generated-informal": "Subsidies MAV",
+        "nl-BE-x-formal": "Subsidies MAV"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies voor de Mobiliteitscentrale Aangepast Vervoer (MAV)</p>",
+        "nl-BE-x-formal": "<p>Subsidies voor de Mobiliteitscentrale Aangepast Vervoer (MAV)</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies voor de Mobiliteitscentrale Aangepast Vervoer (MAV)</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-formal": "<p>Uitgavendecreet</p>",
+        "nl-BE-x-generated-informal": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:37.287080292Z",
+      "laatstGewijzigd": "2023-11-14T15:30:35.905666717Z",
+      "laatstOntvangen": "2023-11-14T15:30:35.905667971Z",
+      "productnummer": "2175",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ME",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a7a84472-02e8-40e3-aaef-097f39a01adb",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0e4ede28-cb30-4a2c-a08e-f204dc4e91e7"
+    },
+    {
+      "id": "a8dac990-1ee0-4c00-b7fc-9ad9fd2f5150",
+      "generatedAtTime": "2023-11-14T15:30:35.702949Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Subsidies aangepast vervoer",
+        "nl-BE-x-generated-informal": "Subsidies aangepast vervoer",
+        "nl": "Subsidies aangepast vervoer"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies voor aangepast vervoer</p>",
+        "nl-BE-x-formal": "<p>Subsidies voor aangepast vervoer</p>",
+        "nl": "<p>Subsidies voor aangepast vervoer</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<p>Decreet tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit van 21 december 2012</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit van 21 december 2012</p>",
+        "nl": "<p>Decreet tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit van 21 december 2012</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:37.169437272Z",
+      "laatstGewijzigd": "2023-11-14T15:30:35.651162216Z",
+      "laatstOntvangen": "2023-11-14T15:30:35.651163181Z",
+      "productnummer": "2174",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ME",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a8dac990-1ee0-4c00-b7fc-9ad9fd2f5150",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f9494ffa-459e-4e6a-acb7-0a4fa6853897"
+    },
+    {
+      "id": "02c78852-e281-46e1-9937-731b6c224ecc",
+      "generatedAtTime": "2023-11-14T15:30:35.479021Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Subsidies bevordering duurzaam woon-werkverkeer ikv Pendelfonds",
+        "nl-BE-x-generated-informal": "Subsidies bevordering duurzaam woon-werkverkeer ikv Pendelfonds",
+        "nl": "Subsidies bevordering duurzaam woon-werkverkeer ikv Pendelfonds"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Subsidies om duurzaam woon-werkverkeer ikv het Pendelfonds te bevorderen</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies om duurzaam woon-werkverkeer ikv het Pendelfonds te bevorderen</p>",
+        "nl": "<p>Subsidies om duurzaam woon-werkverkeer ikv het Pendelfonds te bevorderen</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2006 (artikel 51 tot en met 62) + het Besluit van de Vlaamse Regering betreffende het Pendelfonds van 30 september 2016</p>",
+        "nl-BE-x-formal": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2006 (artikel 51 tot en met 62) + het Besluit van de Vlaamse Regering betreffende het Pendelfonds van 30 september 2016</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2006 (artikel 51 tot en met 62) + het Besluit van de Vlaamse Regering betreffende het Pendelfonds van 30 september 2016</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:37.057480877Z",
+      "laatstGewijzigd": "2023-11-14T15:30:35.424041775Z",
+      "laatstOntvangen": "2023-11-14T15:30:35.424043043Z",
+      "productnummer": "2173",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ME",
+      "metadata": {
+        "uJeVersie": "32.3.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/02c78852-e281-46e1-9937-731b6c224ecc",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ea10fe06-6bc8-4527-a782-787ed2264333"
+    }
+  ]
+}

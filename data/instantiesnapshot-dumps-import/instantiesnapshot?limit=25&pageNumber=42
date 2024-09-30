@@ -1,1 +1,1543 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=42","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=41","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-03-24T17:35:13.45649Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=43","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-03-29T17:14:03.179428Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=42","@type":"EventStream","member":[{"id":"98040677-d158-4411-b2c0-a39804ed1ab8","generatedAtTime":"2023-03-29T17:14:03.179428Z","naam":{"nl":"a","en":"a"},"beschrijving":{"en":"<p>a</p>","nl":"<p>a</p>"},"geografischToepassingsgebieden":["BE23444011"],"yourEuropeCategorieen":["BelastingenBTW"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"websites":[{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Hello","nl":"Hallo"},"url":"https://www.hellu.com","@type":"Website","order":0},{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Bye","nl":"Dag"},"url":"https://by.com","@type":"Website","order":1}],"contactgegevens":[{"email":" ","telefoonnummer":"+32 16 27 20 11","openingsuren":" ","url":"https://leuven.be/kids-id","@type":"Contactgegevens","order":0},{"email":" ","telefoonnummer":"016 27 20 00","openingsuren":" ","url":"https://leuven.be/","@type":"Contactgegevens","order":1}],"creatie":"2023-03-24T10:39:53.889Z","laatstGewijzigd":"2023-03-29T18:13:06.22Z","laatstOntvangen":"2023-03-29T18:13:06.22Z","productnummer":"10132","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/98040677-d158-4411-b2c0-a39804ed1ab8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"},{"id":"d07ee4a4-0253-4586-ae48-b27728f3f1ea","generatedAtTime":"2023-03-29T16:02:03.097655Z","naam":{"nl":"a","en":"a"},"beschrijving":{"en":"<p>a</p>","nl":"<p>a</p>"},"geografischToepassingsgebieden":["BE23444011"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"websites":[{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Hello","nl":"Hallo"},"url":"https://www.hellu.com","@type":"Website","order":0},{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Bye","nl":"Dag"},"url":"https://by.com","@type":"Website","order":1}],"contactgegevens":[{"email":" ","telefoonnummer":"+32 16 27 20 11","openingsuren":" ","url":"https://leuven.be/kids-id","@type":"Contactgegevens","order":0},{"email":" ","telefoonnummer":"016 27 20 00","openingsuren":" ","url":"https://leuven.be/","@type":"Contactgegevens","order":1}],"creatie":"2023-03-24T10:39:53.889Z","laatstGewijzigd":"2023-03-29T17:00:27.112Z","laatstOntvangen":"2023-03-29T17:00:27.112Z","productnummer":"10132","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d07ee4a4-0253-4586-ae48-b27728f3f1ea","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"},{"id":"f5f6a624-b355-494e-a53c-3c8824599f47","generatedAtTime":"2023-03-29T12:58:02.960029Z","naam":{"nl":"a","en":"a"},"beschrijving":{"en":"<p>a</p>","nl":"<p>a</p>"},"publicatiekanalen":["YourEurope"],"geografischToepassingsgebieden":["BE23444011"],"yourEuropeCategorieen":["VoertuigenVerkeersregels"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"websites":[{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Hello","nl":"Hallo"},"url":"https://www.hellu.com","@type":"Website","order":0},{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Bye","nl":"Dag"},"url":"https://by.com","@type":"Website","order":1}],"contactgegevens":[{"email":" ","telefoonnummer":"+32 16 27 20 11","openingsuren":" ","url":"https://leuven.be/kids-id","@type":"Contactgegevens","order":0},{"email":" ","telefoonnummer":"016 27 20 00","openingsuren":" ","url":"https://leuven.be/","@type":"Contactgegevens","order":1}],"creatie":"2023-03-24T10:39:53.889Z","laatstGewijzigd":"2023-03-29T13:57:56.892Z","laatstOntvangen":"2023-03-29T13:57:56.892Z","productnummer":"10132","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f5f6a624-b355-494e-a53c-3c8824599f47","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"},{"id":"e050e44e-d584-434b-9d02-b987e4b3cba4","generatedAtTime":"2023-03-29T12:50:03.195859Z","naam":{"nl":"a","en":"a"},"beschrijving":{"en":"<p>a</p>","nl":"<p>a</p>"},"geografischToepassingsgebieden":["BE23444011"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"websites":[{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Hello","nl":"Hallo"},"url":"https://www.hellu.com","@type":"Website","order":0},{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Bye","nl":"Dag"},"url":"https://by.com","@type":"Website","order":1}],"contactgegevens":[{"email":" ","telefoonnummer":"+32 16 27 20 11","openingsuren":" ","url":"https://leuven.be/kids-id","@type":"Contactgegevens","order":0},{"email":" ","telefoonnummer":"016 27 20 00","openingsuren":" ","url":"https://leuven.be/","@type":"Contactgegevens","order":1}],"creatie":"2023-03-24T10:39:53.889Z","laatstGewijzigd":"2023-03-29T13:49:06.926Z","laatstOntvangen":"2023-03-29T13:49:06.926Z","productnummer":"10132","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e050e44e-d584-434b-9d02-b987e4b3cba4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"},{"id":"9538056e-5255-45be-b64a-5555b498bd83","generatedAtTime":"2023-03-29T12:22:02.948258Z","naam":{"nl":"a","en":"a"},"beschrijving":{"en":"<p>a</p>","nl":"<p>a</p>"},"geografischToepassingsgebieden":["BE23444011"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"websites":[{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Hello","nl":"Hallo"},"url":"https://www.hellu.com","@type":"Website","order":0},{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Bye","nl":"Dag"},"url":"https://by.com","@type":"Website","order":1}],"contactgegevens":[{"email":" ","telefoonnummer":"+32 16 27 20 11","openingsuren":" ","url":"https://leuven.be/kids-id","@type":"Contactgegevens","order":0},{"email":" ","telefoonnummer":"016 27 20 00","openingsuren":" ","url":"https://leuven.be/","@type":"Contactgegevens","order":1}],"creatie":"2023-03-24T10:39:53.889Z","laatstGewijzigd":"2023-03-29T13:20:54.559Z","laatstOntvangen":"2023-03-29T13:20:54.559Z","productnummer":"10132","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9538056e-5255-45be-b64a-5555b498bd83","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"},{"id":"36771c0c-cc45-465b-9d7d-20d5ca8e6ed8","generatedAtTime":"2023-03-29T12:14:03.007064Z","naam":{"nl":"a","en":"a"},"beschrijving":{"en":"<p>a</p>","nl":"<p>a</p>"},"geografischToepassingsgebieden":["BE23444011"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"websites":[{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Hello","nl":"Hallo"},"url":"https://www.hellu.com","@type":"Website","order":0}],"contactgegevens":[{"email":" ","telefoonnummer":"+32 16 27 20 11","openingsuren":" ","url":"https://leuven.be/kids-id","@type":"Contactgegevens","order":0},{"email":" ","telefoonnummer":"016 27 20 00","openingsuren":" ","url":"https://leuven.be/","@type":"Contactgegevens","order":1}],"creatie":"2023-03-24T10:39:53.889Z","laatstGewijzigd":"2023-03-29T13:13:37.718Z","laatstOntvangen":"2023-03-29T13:13:37.718Z","productnummer":"10132","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/36771c0c-cc45-465b-9d7d-20d5ca8e6ed8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"},{"id":"0753b9e3-f3c3-48f4-b345-dd7a10fc3c58","generatedAtTime":"2023-03-29T11:48:02.961174Z","naam":{"nl":"a","en":"a"},"beschrijving":{"en":"<p>a</p>","nl":"<p>a</p>"},"geografischToepassingsgebieden":["BE23444011"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"contactgegevens":[{"email":" ","telefoonnummer":"+32 16 27 20 11","openingsuren":" ","url":"https://leuven.be/kids-id","@type":"Contactgegevens","order":0},{"email":" ","telefoonnummer":"016 27 20 00","openingsuren":" ","url":"https://leuven.be/","@type":"Contactgegevens","order":1}],"creatie":"2023-03-24T10:39:53.889Z","laatstGewijzigd":"2023-03-29T12:46:58.971Z","laatstOntvangen":"2023-03-29T12:46:58.971Z","productnummer":"10132","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0753b9e3-f3c3-48f4-b345-dd7a10fc3c58","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"},{"id":"7c7d495b-cd7b-43aa-a0fb-5c233c072490","generatedAtTime":"2023-03-29T11:36:04.467166Z","naam":{"nl":"a","en":"a"},"beschrijving":{"en":"<p>a</p>","nl":"<p>a</p>"},"geografischToepassingsgebieden":["BE23444011"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"}],"contactgegevens":[{"email":" ","telefoonnummer":"+32 16 27 20 00","openingsuren":" ","url":"https://leuven.be/kids-id","@type":"Contactgegevens","order":0},{"email":" ","telefoonnummer":"016 27 20 00","openingsuren":" ","url":"https://leuven.be/","@type":"Contactgegevens","order":1}],"creatie":"2023-03-24T10:39:53.889Z","laatstGewijzigd":"2023-03-29T12:35:36.367Z","laatstOntvangen":"2023-03-29T12:35:36.367Z","productnummer":"10132","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7c7d495b-cd7b-43aa-a0fb-5c233c072490","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"},{"id":"0fbf8dc4-e2e3-421f-a5ad-18cefff2f31c","generatedAtTime":"2023-03-28T14:10:06.456158Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Europees"],"naam":{"nl":"Test product LPDC/IPDC verenigingsloket"},"beschrijving":{"nl":"<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"},"verdereBeschrijving":{"nl":"<p>Dit is de verdere beschrijving tekst</p>"},"startDienstVerlening":"2022-12-15T12:00:00Z","eindeDienstVerlening":"2023-06-29T12:00:00Z","type":"AdviesBegeleiding","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Dit is de regelgeving</p>"},"uitzonderingen":{"nl":"<p>Dit zijn de uitzonderingen</p>"},"zoektermen":{"nl":["testzoekterm","afsprakenbeheer prenatale consultaties","12 december","be","*acties","1/10 ouderschapsverlof","-buitenland; -buitenlander"]},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"uitvoerendeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Dit zijn de voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Dit zijn de bewijsstukken</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Dit is de beschrijving van de procedure</p>"},"websites":[{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Departement Cultuur, Jeugd en Media"},"url":"https://www.vlaanderen.be/cjm","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Dit is de beschrijving van de kosten</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"},"naam":{"nl":"Financiële voordelen"},"@type":"FinancieelVoordeel","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-15T12:55:06.97857876Z","laatstGewijzigd":"2023-03-28T14:10:06.330398696Z","laatstOntvangen":"2023-03-28T14:10:06.330398696Z","productnummer":"2853","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0fbf8dc4-e2e3-421f-a5ad-18cefff2f31c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"},{"id":"f9a53c44-77cf-4632-bbb6-341f7dffaeb0","generatedAtTime":"2023-03-28T11:30:06.355628Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Krisinstantie 29.5","en":"Krisinstantie 29.5 ENG"},"beschrijving":{"en":"<p>Krisinstantie 29.5 inleiding ENG</p>","nl":"<p>Krisinstantie 29.5 inleiding</p>"},"publicatiekanalen":["YourEurope"],"type":"InfrastructuurMateriaal","themas":["BurgerOverheid"],"doelgroepen":["Burger","Vereniging"],"geografischToepassingsgebieden":["BE24224062"],"yourEuropeCategorieen":["ProcedurePensioneringAanvraagUitkering"],"regelgevingTekst":{"nl":"<p>Krisinstantie 29.5.3 regelgeving</p>","en":"<p>Krisinstantie 29.5.3 regelgeving ENG</p>"},"uitzonderingen":{"en":"<p>Krisinstantie 29.5 uitzonderingen ENG</p>","nl":"<p>Krisinstantie 29.5 uitzonderingen</p>"},"bevoegdeOverheden":[{"id":"OVO002949","@id":"OVO002949"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77","@id":"http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Krisinstantie 29.5 voorwaarden</p>","en":"<p>Krisinstantie 29.5 voorwaarden ENG</p>"},"naam":{"en":"Requirements","nl":"Voorwaarden"},"bewijs":{"beschrijving":{"en":"<p>Krisinstantie 29.5 bewijsstukken ENG</p>","nl":"<p>Krisinstantie 29.5 bewijsstukken</p>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"en":"<p>Krisinstantie 29.5 beschrijving procedure ENG</p>","nl":"<p>Krisinstantie 29.5 beschrijving procedure</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"en":"<p>Krisinstantie 29.5 kost 1 ENG</p>","nl":"<p>Krisinstantie 29.5 kost 1</p>"},"naam":{"nl":"Kost","en":"Cost"},"@type":"Kost","order":0}],"financieleVoordelen":[{"beschrijving":{"en":"<p>Krisinstantie 29.5 fin voordeel 2 beschrijving ENG</p>","nl":"<p>Krisinstantie 29.5 fin voordeel 2 beschrijving</p>"},"naam":{"nl":"Krisinstantie 29.5 fin voordeel 2","en":"Krisinstantie 29.5 fin voordeel 2"},"@type":"FinancieelVoordeel","order":0},{"beschrijving":{"nl":"<p>Krisinstantie 29.5 fin voordeel 1 beschrijving</p>","en":"<p>Krisinstantie 29.5 fin voordeel 1 beschrijving ENG</p>"},"naam":{"nl":"Krisinstantie 29.5 fin voordeel 1","en":"Krisinstantie 29.5 fin voordeel 1"},"@type":"FinancieelVoordeel","order":1}],"creatie":"2023-03-23T15:35:33.118Z","laatstGewijzigd":"2023-03-28T11:25:09.987Z","laatstOntvangen":"2023-03-28T11:25:09.987Z","linkedConcept":"https://ipdc.tni-vlaanderen.be/id/concept/cc9f3418-37aa-4b58-9b82-5e336d91f865","linkedConceptId":"cc9f3418-37aa-4b58-9b82-5e336d91f865","linkedConceptProductnummer":"10116","productnummer":"10121","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f9a53c44-77cf-4632-bbb6-341f7dffaeb0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/110054d5-f969-4c5f-8f6e-11f53511dd57"},{"id":"c3f814bc-2804-40a0-923c-f18eefb8ee5d","generatedAtTime":"2023-03-28T09:39:48.839434Z","naam":{"nl":"Yves laptop: test instantie"},"beschrijving":{"nl":"<p>Yves laptop: test instantie update</p>"},"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002949","@id":"OVO002949"}],"creatie":"2023-03-28T09:21:07.278601163Z","laatstGewijzigd":"2023-03-28T09:39:48.72253532Z","laatstOntvangen":"2023-03-28T09:39:48.72253532Z","productnummer":"2908","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c3f814bc-2804-40a0-923c-f18eefb8ee5d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e9cf9216-929e-4630-802d-a91ca0f2ec2b"},{"id":"60205395-9814-464d-9f67-8fcf91720759","generatedAtTime":"2023-03-28T09:27:18.470062Z","naam":{"nl":"Yves laptop: test instantie"},"beschrijving":{"nl":"<p>Yves laptop: test instantie update</p>"},"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002949","@id":"OVO002949"}],"creatie":"2023-03-28T09:21:07.278601163Z","laatstGewijzigd":"2023-03-28T09:27:18.404481399Z","laatstOntvangen":"2023-03-28T09:27:18.404481399Z","productnummer":"2908","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/60205395-9814-464d-9f67-8fcf91720759","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e9cf9216-929e-4630-802d-a91ca0f2ec2b"},{"id":"b5196acc-1e03-4c5d-89f8-981df17375d5","generatedAtTime":"2023-03-28T09:26:46.893038Z","naam":{"nl":"Yves laptop: test instantie"},"beschrijving":{"nl":"<p>Yves laptop: test instantie update</p>"},"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002949","@id":"OVO002949"}],"creatie":"2023-03-28T09:21:07.278601163Z","laatstGewijzigd":"2023-03-28T09:26:46.800159127Z","laatstOntvangen":"2023-03-28T09:26:46.800159127Z","productnummer":"2908","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5196acc-1e03-4c5d-89f8-981df17375d5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e9cf9216-929e-4630-802d-a91ca0f2ec2b"},{"id":"886b977e-c950-434d-a655-9d5cdb8aa08a","generatedAtTime":"2023-03-28T09:21:07.482642Z","naam":{"nl":"Yves laptop: test instantie"},"beschrijving":{"nl":"<p>Yves laptop: test instantie</p>"},"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002949","@id":"OVO002949"}],"creatie":"2023-03-28T09:21:07.278601163Z","laatstGewijzigd":"2023-03-28T09:21:07.278612987Z","laatstOntvangen":"2023-03-28T09:21:07.278612987Z","productnummer":"2908","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/886b977e-c950-434d-a655-9d5cdb8aa08a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e9cf9216-929e-4630-802d-a91ca0f2ec2b"},{"id":"c7c3a3c8-56b5-4615-a441-b786cd9d9336","generatedAtTime":"2023-03-27T09:25:01.932138Z","naam":{"en":"Trauma counseling for newcomers","nl":"Traumabegeleiding bij nieuwkomers"},"beschrijving":{"nl":"<p>Voor heel wat vragen over wonen, werken, documenten, kinderopvang … kunnen alle inwoners van Sint-Niklaas terecht voor begeleiding en ondersteuning in het welzijnshuis.&nbsp;</p>","en":"<p>For many questions about living, working, documents, childcare, all residents of Sint-Niklaas can go to the welfare house for guidance and support.</p>"},"themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE23646021"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08","@id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08","@id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"}],"websites":[{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"en":"Counseling","nl":"Maatschappelijke begeleiding"},"url":"https://www.sint-niklaas.be/onze-dienstverlening/opvang/vluchtelingen/maatschappelijke-begeleiding","@type":"Website","order":0},{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"nl":"-","en":"-"},"url":"","@type":"Website","order":1}],"creatie":"2023-03-27T08:59:16.262Z","laatstGewijzigd":"2023-03-27T09:19:20.356Z","laatstOntvangen":"2023-03-27T09:19:20.356Z","productnummer":"10131","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c7c3a3c8-56b5-4615-a441-b786cd9d9336","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/134dce7a-de22-4344-95f3-543df9fea8e6"},{"id":"87430b07-68f4-42da-8f64-74cc2e720002","generatedAtTime":"2023-03-27T09:00:05.534034Z","naam":{"en":"Free dental care via Tand-em","nl":"Gratis tandzorg via Tand-em"},"beschrijving":{"nl":"<p>Bij Tand-em kan je naar de tandarts als je geen vaste tandarts hebt en bent doorverwezen door een hulpverlener.&nbsp;</p>","en":"<p>At Tand-em you can go to the dentist if you do not have and are not a regular dentist, referred by a healthcare provider.&nbsp;</p>"},"themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE23646021"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08","@id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08","@id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"}],"websites":[{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"nl":"Wat is ‘Tand-em’?","en":"What is ‘Tand-em’?"},"url":"https://www.sint-niklaas.be/sites/portaal/files/2020-01/Folder%20Tand-em%20pati%C3%ABnten%202020.pdf","@type":"Website","order":0}],"creatie":"2023-03-27T08:53:26.461Z","laatstGewijzigd":"2023-03-27T08:55:35.71Z","laatstOntvangen":"2023-03-27T08:55:35.71Z","productnummer":"10129","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/87430b07-68f4-42da-8f64-74cc2e720002","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6c3e2a5b-64f6-49ea-807d-b488cca16d30"},{"id":"81294057-7637-4476-b692-d8cc7a23a2a6","generatedAtTime":"2023-03-27T09:00:03.995169Z","naam":{"en":"Intervention in nursing related to scabies","nl":"Tussenkomst in verpleging in verband met scabiës"},"beschrijving":{"nl":"<p>Het “project scabiës Sint-Niklaas” is een samenwerking tussen WGC De Vlier, Vitaz en Stad Sint-Niklaas. De kern van het project is het op maat begeleiden van mensen die in een complexe situatie verkeren bij de bestrijding van scabiës.</p>","en":"<p>The “scabies Sint-Niklaas project” is a collaboration between WGC De Vlier, Vitaz and the City of Sint-Niklaas. The core of the project is tailor-made support for people who find themselves in a complex situation in combating scabies.</p>"},"themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE23646021"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08","@id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08","@id":"http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"}],"websites":[{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"nl":"Project Scabies","en":"Project Scabies"},"url":"https://www.sint-niklaas.be/onze-dienstverlening/gezondheid-en-zorg/project-scabies","@type":"Website","order":0}],"creatie":"2023-03-27T08:55:56.531Z","laatstGewijzigd":"2023-03-27T08:58:04.326Z","laatstOntvangen":"2023-03-27T08:58:04.326Z","productnummer":"10128","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/81294057-7637-4476-b692-d8cc7a23a2a6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/07b24025-cbc0-43b9-81a3-7ac8775833aa"},{"id":"df8afb7f-6a56-401d-9414-8f53eff201dd","generatedAtTime":"2023-03-27T08:55:02.410269Z","naam":{"en":"Dental care via Tand-em","nl":"Gratis tandzorg via Tand-em"},"beschrijving":{"nl":"<p>Bij Tand-em kan je naar de tandarts als je geen vaste tandarts hebt en bent doorverwezen door een hulpverlener.&nbsp;</p>","en":"<p>At Tand-em you can go to the dentist if you do not have and are not a regular dentist, referred by a healthcare provider.&nbsp;</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE23646021","BE24224062"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77","@id":"http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77","@id":"http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77"}],"websites":[{"beschrijving":{"nl":"<p></p>","en":"<p></p>"},"naam":{"nl":"Wat is ‘Tand-em’?","en":"What is ‘Tand-em’?"},"url":"https://www.sint-niklaas.be/sites/portaal/files/2020-01/Folder%20Tand-em%20pati%C3%ABnten%202020.pdf","@type":"Website","order":0}],"creatie":"2023-03-27T08:47:59.926Z","laatstGewijzigd":"2023-03-27T08:51:10.092Z","laatstOntvangen":"2023-03-27T08:51:10.092Z","productnummer":"10127","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/df8afb7f-6a56-401d-9414-8f53eff201dd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3cc2c540-9e0d-4901-a972-09a031058cac"},{"id":"7ea6d5dc-8426-4c10-b3d5-45752b52e14e","generatedAtTime":"2023-03-27T07:10:01.963476Z","naam":{"nl":"Instantie die abb wil archiveren"},"beschrijving":{"nl":"Abb probeert deze instantie te archiveren maar aangezien die niet bestaat, geeft dit een 404 foutmelding in onze logs. Om dit snel op te lossen en onze logs minder te laten vervuilen, hebben we (iom-team) deze instantie aangemaakt met het id dat zij gebruiken."},"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000004","@id":"OVO000004"}],"creatie":"2023-03-27T07:07:22.704348729Z","laatstGewijzigd":"2023-03-27T07:10:01.768217082Z","laatstOntvangen":"2023-03-27T07:10:01.768217082Z","productnummer":"10126","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7ea6d5dc-8426-4c10-b3d5-45752b52e14e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/74bdf5f7-e987-455a-9f29-e6f8fb4859e2"},{"id":"c13413d2-8f60-494e-b144-b62442640b72","generatedAtTime":"2023-03-27T07:07:23.128544Z","naam":{"nl":"Instantie die abb wil archiveren"},"beschrijving":{"nl":"Abb probeert deze instantie te archiveren maar aangezien die niet bestaat, geeft dit een 404 foutmelding in onze logs. Om dit snel op te lossen en onze logs minder te laten vervuilen, hebben we (iom-team) deze instantie aangemaakt met het id dat zij gebruiken."},"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000004","@id":"OVO000004"}],"creatie":"2023-03-27T07:07:22.704348729Z","laatstGewijzigd":"2023-03-27T07:07:22.70435252Z","laatstOntvangen":"2023-03-27T07:07:22.70435252Z","productnummer":"10126","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c13413d2-8f60-494e-b144-b62442640b72","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/74bdf5f7-e987-455a-9f29-e6f8fb4859e2"},{"id":"1735a30f-4060-4e51-994e-d74fc54c2cd6","generatedAtTime":"2023-03-24T17:35:13.929502Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Energieprestatiecertificaat"},"beschrijving":{"nl":"<p>Een energieprestatiecertificaat (EPC) is een document dat toont hoe <strong>energiezuinig</strong> een gebouw(eenheid) is. Zo vindt u op uw EPC informatie over hoe goed de gebouw(eenheid) geïsoleerd is, welke beglazing aanwezig is, hoe zuinig de verwarming is en de installatie voor warm water, …</p><p>Op het EPC staan ook aanbevelingen om de gebouw(eenheid) energiezuiniger te maken, want samen streven we naar een energiezuinig gebouwenpark.</p><p>Het Vlaamse gebouwenpark is erg divers. Om de informatie uit het <strong>EPC op maat</strong> van de gebouw(eenheid) te kunnen aanbieden, krijgt elk type gebouw(eenheid) dan ook een eigen gepast EPC.</p>"},"type":"Bewijs","themas":["MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"creatie":"2023-03-24T06:45:14.345476656Z","laatstGewijzigd":"2023-03-24T17:35:13.911592995Z","laatstOntvangen":"2023-03-24T17:35:13.911592995Z","productnummer":"2793","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1735a30f-4060-4e51-994e-d74fc54c2cd6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3648934d-b08d-4c2a-b6f8-cbaa6eca507b"},{"id":"3d530393-c37f-474f-bf6e-8798c874954c","generatedAtTime":"2023-03-24T17:35:13.788471Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Jobbonus plus voor zelfstandigen"},"beschrijving":{"nl":"<div><div><p>Met de jobbonus plus wil de Vlaamse Regering loontrekkenden met een laag inkomen of zelfstandigen in bijberoep stimuleren om de stap te zetten naar ondernemerschap in hoofdberoep.</p><p>De jobbonus plus is momenteel een wetsvoorstel. Het voorstel wordt pas definitief na goedkeuring door de Vlaamse Regering. Momenteel kunt u dus geen jobbonus plus ontvangen.</p></div></div>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000076","@id":"OVO000076"}],"websites":[{"naam":{"nl":"Vlaamse jobbonus"},"url":"https://www.vlaanderen.be/jobbonus","@type":"Website","order":0}],"creatie":"2023-03-24T06:45:14.229946025Z","laatstGewijzigd":"2023-03-24T17:35:13.770643247Z","laatstOntvangen":"2023-03-24T17:35:13.770643247Z","productnummer":"2784","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3d530393-c37f-474f-bf6e-8798c874954c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/01711d5f-f196-4036-b71b-627da76d7902"},{"id":"acccc9f1-3c84-4b62-8d8e-a6730037af47","generatedAtTime":"2023-03-24T17:35:13.676875Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkingsmiddelen Deeltijds kunstonderwijs"},"beschrijving":{"nl":"<p>Dit is het werkingsbudget voor de schoolbesturen van het deeltijds kunstonderwijs. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun academies.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs</p>"},"bevoegdeOverheden":[{"id":"OVO000050","@id":"OVO000050"}],"creatie":"2023-03-24T06:45:14.11056237Z","laatstGewijzigd":"2023-03-24T17:35:13.652652308Z","laatstOntvangen":"2023-03-24T17:35:13.652652308Z","productnummer":"2773","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/acccc9f1-3c84-4b62-8d8e-a6730037af47","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2fba0b00-185c-424b-8e60-be9305118315"},{"id":"192e5b5f-1266-4b79-ac2c-0ed08da3f462","generatedAtTime":"2023-03-24T17:35:13.566947Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Circusdecreet van 1 maart 2019: Internationale Reistoelage Circuskunsten"},"beschrijving":{"nl":"<p>Deze dienst is actief.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet houdende een circusbeleid van 1 maart 2019</p>"},"bevoegdeOverheden":[{"id":"OVO000067","@id":"OVO000067"}],"creatie":"2023-03-24T06:45:13.993367953Z","laatstGewijzigd":"2023-03-24T17:35:13.549583753Z","laatstOntvangen":"2023-03-24T17:35:13.549583753Z","productnummer":"2556","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/192e5b5f-1266-4b79-ac2c-0ed08da3f462","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc9fb27a-ccc9-4cb7-9cb3-5a2eaf4ac6e9"},{"id":"4754cd3d-18cb-40a5-816c-c1c8a1a9b6da","generatedAtTime":"2023-03-24T17:35:13.45649Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie"},"beschrijving":{"nl":"<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2023-03-24T06:45:13.877810941Z","laatstGewijzigd":"2023-03-24T17:35:13.43906701Z","laatstOntvangen":"2023-03-24T17:35:13.43906701Z","productnummer":"2535","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4754cd3d-18cb-40a5-816c-c1c8a1a9b6da","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6a7a9052-4077-432f-873d-83f103647385"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=42",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=41",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-03-24T17:35:13.45649Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=43",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-03-29T17:14:03.179428Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=42",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "98040677-d158-4411-b2c0-a39804ed1ab8",
+      "generatedAtTime": "2023-03-29T17:14:03.179428Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "en": "<p>a</p>",
+        "nl": "<p>a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "yourEuropeCategorieen": [
+        "BelastingenBTW"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Hello",
+            "nl": "Hallo"
+          },
+          "url": "https://www.hellu.com",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Bye",
+            "nl": "Dag"
+          },
+          "url": "https://by.com",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": " ",
+          "telefoonnummer": "+32 16 27 20 11",
+          "openingsuren": " ",
+          "url": "https://leuven.be/kids-id",
+          "@type": "Contactgegevens",
+          "order": 0
+        },
+        {
+          "email": " ",
+          "telefoonnummer": "016 27 20 00",
+          "openingsuren": " ",
+          "url": "https://leuven.be/",
+          "@type": "Contactgegevens",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-24T10:39:53.889Z",
+      "laatstGewijzigd": "2023-03-29T18:13:06.22Z",
+      "laatstOntvangen": "2023-03-29T18:13:06.22Z",
+      "productnummer": "10132",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/98040677-d158-4411-b2c0-a39804ed1ab8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"
+    },
+    {
+      "id": "d07ee4a4-0253-4586-ae48-b27728f3f1ea",
+      "generatedAtTime": "2023-03-29T16:02:03.097655Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "en": "<p>a</p>",
+        "nl": "<p>a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Hello",
+            "nl": "Hallo"
+          },
+          "url": "https://www.hellu.com",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Bye",
+            "nl": "Dag"
+          },
+          "url": "https://by.com",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": " ",
+          "telefoonnummer": "+32 16 27 20 11",
+          "openingsuren": " ",
+          "url": "https://leuven.be/kids-id",
+          "@type": "Contactgegevens",
+          "order": 0
+        },
+        {
+          "email": " ",
+          "telefoonnummer": "016 27 20 00",
+          "openingsuren": " ",
+          "url": "https://leuven.be/",
+          "@type": "Contactgegevens",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-24T10:39:53.889Z",
+      "laatstGewijzigd": "2023-03-29T17:00:27.112Z",
+      "laatstOntvangen": "2023-03-29T17:00:27.112Z",
+      "productnummer": "10132",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d07ee4a4-0253-4586-ae48-b27728f3f1ea",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"
+    },
+    {
+      "id": "f5f6a624-b355-494e-a53c-3c8824599f47",
+      "generatedAtTime": "2023-03-29T12:58:02.960029Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "en": "<p>a</p>",
+        "nl": "<p>a</p>"
+      },
+      "publicatiekanalen": [
+        "YourEurope"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "yourEuropeCategorieen": [
+        "VoertuigenVerkeersregels"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Hello",
+            "nl": "Hallo"
+          },
+          "url": "https://www.hellu.com",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Bye",
+            "nl": "Dag"
+          },
+          "url": "https://by.com",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": " ",
+          "telefoonnummer": "+32 16 27 20 11",
+          "openingsuren": " ",
+          "url": "https://leuven.be/kids-id",
+          "@type": "Contactgegevens",
+          "order": 0
+        },
+        {
+          "email": " ",
+          "telefoonnummer": "016 27 20 00",
+          "openingsuren": " ",
+          "url": "https://leuven.be/",
+          "@type": "Contactgegevens",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-24T10:39:53.889Z",
+      "laatstGewijzigd": "2023-03-29T13:57:56.892Z",
+      "laatstOntvangen": "2023-03-29T13:57:56.892Z",
+      "productnummer": "10132",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f5f6a624-b355-494e-a53c-3c8824599f47",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"
+    },
+    {
+      "id": "e050e44e-d584-434b-9d02-b987e4b3cba4",
+      "generatedAtTime": "2023-03-29T12:50:03.195859Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "en": "<p>a</p>",
+        "nl": "<p>a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Hello",
+            "nl": "Hallo"
+          },
+          "url": "https://www.hellu.com",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Bye",
+            "nl": "Dag"
+          },
+          "url": "https://by.com",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": " ",
+          "telefoonnummer": "+32 16 27 20 11",
+          "openingsuren": " ",
+          "url": "https://leuven.be/kids-id",
+          "@type": "Contactgegevens",
+          "order": 0
+        },
+        {
+          "email": " ",
+          "telefoonnummer": "016 27 20 00",
+          "openingsuren": " ",
+          "url": "https://leuven.be/",
+          "@type": "Contactgegevens",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-24T10:39:53.889Z",
+      "laatstGewijzigd": "2023-03-29T13:49:06.926Z",
+      "laatstOntvangen": "2023-03-29T13:49:06.926Z",
+      "productnummer": "10132",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e050e44e-d584-434b-9d02-b987e4b3cba4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"
+    },
+    {
+      "id": "9538056e-5255-45be-b64a-5555b498bd83",
+      "generatedAtTime": "2023-03-29T12:22:02.948258Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "en": "<p>a</p>",
+        "nl": "<p>a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Hello",
+            "nl": "Hallo"
+          },
+          "url": "https://www.hellu.com",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Bye",
+            "nl": "Dag"
+          },
+          "url": "https://by.com",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": " ",
+          "telefoonnummer": "+32 16 27 20 11",
+          "openingsuren": " ",
+          "url": "https://leuven.be/kids-id",
+          "@type": "Contactgegevens",
+          "order": 0
+        },
+        {
+          "email": " ",
+          "telefoonnummer": "016 27 20 00",
+          "openingsuren": " ",
+          "url": "https://leuven.be/",
+          "@type": "Contactgegevens",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-24T10:39:53.889Z",
+      "laatstGewijzigd": "2023-03-29T13:20:54.559Z",
+      "laatstOntvangen": "2023-03-29T13:20:54.559Z",
+      "productnummer": "10132",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9538056e-5255-45be-b64a-5555b498bd83",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"
+    },
+    {
+      "id": "36771c0c-cc45-465b-9d7d-20d5ca8e6ed8",
+      "generatedAtTime": "2023-03-29T12:14:03.007064Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "en": "<p>a</p>",
+        "nl": "<p>a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Hello",
+            "nl": "Hallo"
+          },
+          "url": "https://www.hellu.com",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": " ",
+          "telefoonnummer": "+32 16 27 20 11",
+          "openingsuren": " ",
+          "url": "https://leuven.be/kids-id",
+          "@type": "Contactgegevens",
+          "order": 0
+        },
+        {
+          "email": " ",
+          "telefoonnummer": "016 27 20 00",
+          "openingsuren": " ",
+          "url": "https://leuven.be/",
+          "@type": "Contactgegevens",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-24T10:39:53.889Z",
+      "laatstGewijzigd": "2023-03-29T13:13:37.718Z",
+      "laatstOntvangen": "2023-03-29T13:13:37.718Z",
+      "productnummer": "10132",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/36771c0c-cc45-465b-9d7d-20d5ca8e6ed8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"
+    },
+    {
+      "id": "0753b9e3-f3c3-48f4-b345-dd7a10fc3c58",
+      "generatedAtTime": "2023-03-29T11:48:02.961174Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "en": "<p>a</p>",
+        "nl": "<p>a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": " ",
+          "telefoonnummer": "+32 16 27 20 11",
+          "openingsuren": " ",
+          "url": "https://leuven.be/kids-id",
+          "@type": "Contactgegevens",
+          "order": 0
+        },
+        {
+          "email": " ",
+          "telefoonnummer": "016 27 20 00",
+          "openingsuren": " ",
+          "url": "https://leuven.be/",
+          "@type": "Contactgegevens",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-24T10:39:53.889Z",
+      "laatstGewijzigd": "2023-03-29T12:46:58.971Z",
+      "laatstOntvangen": "2023-03-29T12:46:58.971Z",
+      "productnummer": "10132",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0753b9e3-f3c3-48f4-b345-dd7a10fc3c58",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"
+    },
+    {
+      "id": "7c7d495b-cd7b-43aa-a0fb-5c233c072490",
+      "generatedAtTime": "2023-03-29T11:36:04.467166Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "en": "<p>a</p>",
+        "nl": "<p>a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        }
+      ],
+      "contactgegevens": [
+        {
+          "email": " ",
+          "telefoonnummer": "+32 16 27 20 00",
+          "openingsuren": " ",
+          "url": "https://leuven.be/kids-id",
+          "@type": "Contactgegevens",
+          "order": 0
+        },
+        {
+          "email": " ",
+          "telefoonnummer": "016 27 20 00",
+          "openingsuren": " ",
+          "url": "https://leuven.be/",
+          "@type": "Contactgegevens",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-24T10:39:53.889Z",
+      "laatstGewijzigd": "2023-03-29T12:35:36.367Z",
+      "laatstOntvangen": "2023-03-29T12:35:36.367Z",
+      "productnummer": "10132",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7c7d495b-cd7b-43aa-a0fb-5c233c072490",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/720eb1c3-b7a4-4c52-be50-18def75b6887"
+    },
+    {
+      "id": "0fbf8dc4-e2e3-421f-a5ad-18cefff2f31c",
+      "generatedAtTime": "2023-03-28T14:10:06.456158Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Europees"
+      ],
+      "naam": {
+        "nl": "Test product LPDC/IPDC verenigingsloket"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit is de <u><strong>inleidingtekst</strong></u>.</p><p>speciale tekens: 6™æ⇔</p><p>bullets</p><ul><li>test</li><li>test</li><li>test</li></ul><ol><li>test</li><li>test</li><li>test</li></ol><div data-table=\"\"><table data-table-type=\"lines\"><tbody><tr><td>een tabel</td><td>test</td></tr><tr><td>testt</td><td>test</td></tr><tr><td>test</td><td>test</td></tr></tbody></table></div><p> </p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Dit is de verdere beschrijving tekst</p>"
+      },
+      "startDienstVerlening": "2022-12-15T12:00:00Z",
+      "eindeDienstVerlening": "2023-06-29T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Dit is de regelgeving</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Dit zijn de uitzonderingen</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "testzoekterm",
+          "afsprakenbeheer prenatale consultaties",
+          "12 december",
+          "be",
+          "*acties",
+          "1/10 ouderschapsverlof",
+          "-buitenland; -buitenlander"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Dit zijn de bewijsstukken</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de procedure</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Vergunning C rechtsreeks aanvragen"
+              },
+              "url": "https://www.gamingcommission.be/nl",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Departement Cultuur, Jeugd en Media"
+          },
+          "url": "https://www.vlaanderen.be/cjm",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit is de beschrijving van de kosten</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn de Financiële voordelen</p><div data-table=\"\"><table><thead><tr><th colspan=\"2\"><h4>Financiële voordelen</h4></th></tr></thead><tbody><tr><td> </td></tr></tbody></table></div>"
+          },
+          "naam": {
+            "nl": "Financiële voordelen"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-15T12:55:06.97857876Z",
+      "laatstGewijzigd": "2023-03-28T14:10:06.330398696Z",
+      "laatstOntvangen": "2023-03-28T14:10:06.330398696Z",
+      "productnummer": "2853",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0fbf8dc4-e2e3-421f-a5ad-18cefff2f31c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc0a387f-c94a-4a0c-ae95-1f2c5a658c3e"
+    },
+    {
+      "id": "f9a53c44-77cf-4632-bbb6-341f7dffaeb0",
+      "generatedAtTime": "2023-03-28T11:30:06.355628Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Krisinstantie 29.5",
+        "en": "Krisinstantie 29.5 ENG"
+      },
+      "beschrijving": {
+        "en": "<p>Krisinstantie 29.5 inleiding ENG</p>",
+        "nl": "<p>Krisinstantie 29.5 inleiding</p>"
+      },
+      "publicatiekanalen": [
+        "YourEurope"
+      ],
+      "type": "InfrastructuurMateriaal",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE24224062"
+      ],
+      "yourEuropeCategorieen": [
+        "ProcedurePensioneringAanvraagUitkering"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Krisinstantie 29.5.3 regelgeving</p>",
+        "en": "<p>Krisinstantie 29.5.3 regelgeving ENG</p>"
+      },
+      "uitzonderingen": {
+        "en": "<p>Krisinstantie 29.5 uitzonderingen ENG</p>",
+        "nl": "<p>Krisinstantie 29.5 uitzonderingen</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002949",
+          "@id": "OVO002949"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Krisinstantie 29.5 voorwaarden</p>",
+            "en": "<p>Krisinstantie 29.5 voorwaarden ENG</p>"
+          },
+          "naam": {
+            "en": "Requirements",
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "en": "<p>Krisinstantie 29.5 bewijsstukken ENG</p>",
+              "nl": "<p>Krisinstantie 29.5 bewijsstukken</p>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>Krisinstantie 29.5 beschrijving procedure ENG</p>",
+            "nl": "<p>Krisinstantie 29.5 beschrijving procedure</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "en": "<p>Krisinstantie 29.5 kost 1 ENG</p>",
+            "nl": "<p>Krisinstantie 29.5 kost 1</p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "en": "Cost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "en": "<p>Krisinstantie 29.5 fin voordeel 2 beschrijving ENG</p>",
+            "nl": "<p>Krisinstantie 29.5 fin voordeel 2 beschrijving</p>"
+          },
+          "naam": {
+            "nl": "Krisinstantie 29.5 fin voordeel 2",
+            "en": "Krisinstantie 29.5 fin voordeel 2"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>Krisinstantie 29.5 fin voordeel 1 beschrijving</p>",
+            "en": "<p>Krisinstantie 29.5 fin voordeel 1 beschrijving ENG</p>"
+          },
+          "naam": {
+            "nl": "Krisinstantie 29.5 fin voordeel 1",
+            "en": "Krisinstantie 29.5 fin voordeel 1"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-23T15:35:33.118Z",
+      "laatstGewijzigd": "2023-03-28T11:25:09.987Z",
+      "laatstOntvangen": "2023-03-28T11:25:09.987Z",
+      "linkedConcept": "https://ipdc.tni-vlaanderen.be/id/concept/cc9f3418-37aa-4b58-9b82-5e336d91f865",
+      "linkedConceptId": "cc9f3418-37aa-4b58-9b82-5e336d91f865",
+      "linkedConceptProductnummer": "10116",
+      "productnummer": "10121",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f9a53c44-77cf-4632-bbb6-341f7dffaeb0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/110054d5-f969-4c5f-8f6e-11f53511dd57"
+    },
+    {
+      "id": "c3f814bc-2804-40a0-923c-f18eefb8ee5d",
+      "generatedAtTime": "2023-03-28T09:39:48.839434Z",
+      "naam": {
+        "nl": "Yves laptop: test instantie"
+      },
+      "beschrijving": {
+        "nl": "<p>Yves laptop: test instantie update</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002949",
+          "@id": "OVO002949"
+        }
+      ],
+      "creatie": "2023-03-28T09:21:07.278601163Z",
+      "laatstGewijzigd": "2023-03-28T09:39:48.72253532Z",
+      "laatstOntvangen": "2023-03-28T09:39:48.72253532Z",
+      "productnummer": "2908",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c3f814bc-2804-40a0-923c-f18eefb8ee5d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e9cf9216-929e-4630-802d-a91ca0f2ec2b"
+    },
+    {
+      "id": "60205395-9814-464d-9f67-8fcf91720759",
+      "generatedAtTime": "2023-03-28T09:27:18.470062Z",
+      "naam": {
+        "nl": "Yves laptop: test instantie"
+      },
+      "beschrijving": {
+        "nl": "<p>Yves laptop: test instantie update</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002949",
+          "@id": "OVO002949"
+        }
+      ],
+      "creatie": "2023-03-28T09:21:07.278601163Z",
+      "laatstGewijzigd": "2023-03-28T09:27:18.404481399Z",
+      "laatstOntvangen": "2023-03-28T09:27:18.404481399Z",
+      "productnummer": "2908",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/60205395-9814-464d-9f67-8fcf91720759",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e9cf9216-929e-4630-802d-a91ca0f2ec2b"
+    },
+    {
+      "id": "b5196acc-1e03-4c5d-89f8-981df17375d5",
+      "generatedAtTime": "2023-03-28T09:26:46.893038Z",
+      "naam": {
+        "nl": "Yves laptop: test instantie"
+      },
+      "beschrijving": {
+        "nl": "<p>Yves laptop: test instantie update</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002949",
+          "@id": "OVO002949"
+        }
+      ],
+      "creatie": "2023-03-28T09:21:07.278601163Z",
+      "laatstGewijzigd": "2023-03-28T09:26:46.800159127Z",
+      "laatstOntvangen": "2023-03-28T09:26:46.800159127Z",
+      "productnummer": "2908",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5196acc-1e03-4c5d-89f8-981df17375d5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e9cf9216-929e-4630-802d-a91ca0f2ec2b"
+    },
+    {
+      "id": "886b977e-c950-434d-a655-9d5cdb8aa08a",
+      "generatedAtTime": "2023-03-28T09:21:07.482642Z",
+      "naam": {
+        "nl": "Yves laptop: test instantie"
+      },
+      "beschrijving": {
+        "nl": "<p>Yves laptop: test instantie</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002949",
+          "@id": "OVO002949"
+        }
+      ],
+      "creatie": "2023-03-28T09:21:07.278601163Z",
+      "laatstGewijzigd": "2023-03-28T09:21:07.278612987Z",
+      "laatstOntvangen": "2023-03-28T09:21:07.278612987Z",
+      "productnummer": "2908",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/886b977e-c950-434d-a655-9d5cdb8aa08a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e9cf9216-929e-4630-802d-a91ca0f2ec2b"
+    },
+    {
+      "id": "c7c3a3c8-56b5-4615-a441-b786cd9d9336",
+      "generatedAtTime": "2023-03-27T09:25:01.932138Z",
+      "naam": {
+        "en": "Trauma counseling for newcomers",
+        "nl": "Traumabegeleiding bij nieuwkomers"
+      },
+      "beschrijving": {
+        "nl": "<p>Voor heel wat vragen over wonen, werken, documenten, kinderopvang … kunnen alle inwoners van Sint-Niklaas terecht voor begeleiding en ondersteuning in het welzijnshuis.&nbsp;</p>",
+        "en": "<p>For many questions about living, working, documents, childcare, all residents of Sint-Niklaas can go to the welfare house for guidance and support.</p>"
+      },
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE23646021"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "en": "Counseling",
+            "nl": "Maatschappelijke begeleiding"
+          },
+          "url": "https://www.sint-niklaas.be/onze-dienstverlening/opvang/vluchtelingen/maatschappelijke-begeleiding",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "nl": "-",
+            "en": "-"
+          },
+          "url": "",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-27T08:59:16.262Z",
+      "laatstGewijzigd": "2023-03-27T09:19:20.356Z",
+      "laatstOntvangen": "2023-03-27T09:19:20.356Z",
+      "productnummer": "10131",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c7c3a3c8-56b5-4615-a441-b786cd9d9336",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/134dce7a-de22-4344-95f3-543df9fea8e6"
+    },
+    {
+      "id": "87430b07-68f4-42da-8f64-74cc2e720002",
+      "generatedAtTime": "2023-03-27T09:00:05.534034Z",
+      "naam": {
+        "en": "Free dental care via Tand-em",
+        "nl": "Gratis tandzorg via Tand-em"
+      },
+      "beschrijving": {
+        "nl": "<p>Bij Tand-em kan je naar de tandarts als je geen vaste tandarts hebt en bent doorverwezen door een hulpverlener.&nbsp;</p>",
+        "en": "<p>At Tand-em you can go to the dentist if you do not have and are not a regular dentist, referred by a healthcare provider.&nbsp;</p>"
+      },
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE23646021"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "nl": "Wat is ‘Tand-em’?",
+            "en": "What is ‘Tand-em’?"
+          },
+          "url": "https://www.sint-niklaas.be/sites/portaal/files/2020-01/Folder%20Tand-em%20pati%C3%ABnten%202020.pdf",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-27T08:53:26.461Z",
+      "laatstGewijzigd": "2023-03-27T08:55:35.71Z",
+      "laatstOntvangen": "2023-03-27T08:55:35.71Z",
+      "productnummer": "10129",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/87430b07-68f4-42da-8f64-74cc2e720002",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6c3e2a5b-64f6-49ea-807d-b488cca16d30"
+    },
+    {
+      "id": "81294057-7637-4476-b692-d8cc7a23a2a6",
+      "generatedAtTime": "2023-03-27T09:00:03.995169Z",
+      "naam": {
+        "en": "Intervention in nursing related to scabies",
+        "nl": "Tussenkomst in verpleging in verband met scabiës"
+      },
+      "beschrijving": {
+        "nl": "<p>Het “project scabiës Sint-Niklaas” is een samenwerking tussen WGC De Vlier, Vitaz en Stad Sint-Niklaas. De kern van het project is het op maat begeleiden van mensen die in een complexe situatie verkeren bij de bestrijding van scabiës.</p>",
+        "en": "<p>The “scabies Sint-Niklaas project” is a collaboration between WGC De Vlier, Vitaz and the City of Sint-Niklaas. The core of the project is tailor-made support for people who find themselves in a complex situation in combating scabies.</p>"
+      },
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE23646021"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/71f6925a4b895c2a91dce039c87d227809edcda82963714814141b1e41631b08"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "nl": "Project Scabies",
+            "en": "Project Scabies"
+          },
+          "url": "https://www.sint-niklaas.be/onze-dienstverlening/gezondheid-en-zorg/project-scabies",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-27T08:55:56.531Z",
+      "laatstGewijzigd": "2023-03-27T08:58:04.326Z",
+      "laatstOntvangen": "2023-03-27T08:58:04.326Z",
+      "productnummer": "10128",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/81294057-7637-4476-b692-d8cc7a23a2a6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/07b24025-cbc0-43b9-81a3-7ac8775833aa"
+    },
+    {
+      "id": "df8afb7f-6a56-401d-9414-8f53eff201dd",
+      "generatedAtTime": "2023-03-27T08:55:02.410269Z",
+      "naam": {
+        "en": "Dental care via Tand-em",
+        "nl": "Gratis tandzorg via Tand-em"
+      },
+      "beschrijving": {
+        "nl": "<p>Bij Tand-em kan je naar de tandarts als je geen vaste tandarts hebt en bent doorverwezen door een hulpverlener.&nbsp;</p>",
+        "en": "<p>At Tand-em you can go to the dentist if you do not have and are not a regular dentist, referred by a healthcare provider.&nbsp;</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE23646021",
+        "BE24224062"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/c648ea5d12626ee3364a02debb223908a71e68f53d69a7a7136585b58a083e77"
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p></p>",
+            "en": "<p></p>"
+          },
+          "naam": {
+            "nl": "Wat is ‘Tand-em’?",
+            "en": "What is ‘Tand-em’?"
+          },
+          "url": "https://www.sint-niklaas.be/sites/portaal/files/2020-01/Folder%20Tand-em%20pati%C3%ABnten%202020.pdf",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-27T08:47:59.926Z",
+      "laatstGewijzigd": "2023-03-27T08:51:10.092Z",
+      "laatstOntvangen": "2023-03-27T08:51:10.092Z",
+      "productnummer": "10127",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/df8afb7f-6a56-401d-9414-8f53eff201dd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3cc2c540-9e0d-4901-a972-09a031058cac"
+    },
+    {
+      "id": "7ea6d5dc-8426-4c10-b3d5-45752b52e14e",
+      "generatedAtTime": "2023-03-27T07:10:01.963476Z",
+      "naam": {
+        "nl": "Instantie die abb wil archiveren"
+      },
+      "beschrijving": {
+        "nl": "Abb probeert deze instantie te archiveren maar aangezien die niet bestaat, geeft dit een 404 foutmelding in onze logs. Om dit snel op te lossen en onze logs minder te laten vervuilen, hebben we (iom-team) deze instantie aangemaakt met het id dat zij gebruiken."
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000004",
+          "@id": "OVO000004"
+        }
+      ],
+      "creatie": "2023-03-27T07:07:22.704348729Z",
+      "laatstGewijzigd": "2023-03-27T07:10:01.768217082Z",
+      "laatstOntvangen": "2023-03-27T07:10:01.768217082Z",
+      "productnummer": "10126",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7ea6d5dc-8426-4c10-b3d5-45752b52e14e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/74bdf5f7-e987-455a-9f29-e6f8fb4859e2"
+    },
+    {
+      "id": "c13413d2-8f60-494e-b144-b62442640b72",
+      "generatedAtTime": "2023-03-27T07:07:23.128544Z",
+      "naam": {
+        "nl": "Instantie die abb wil archiveren"
+      },
+      "beschrijving": {
+        "nl": "Abb probeert deze instantie te archiveren maar aangezien die niet bestaat, geeft dit een 404 foutmelding in onze logs. Om dit snel op te lossen en onze logs minder te laten vervuilen, hebben we (iom-team) deze instantie aangemaakt met het id dat zij gebruiken."
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000004",
+          "@id": "OVO000004"
+        }
+      ],
+      "creatie": "2023-03-27T07:07:22.704348729Z",
+      "laatstGewijzigd": "2023-03-27T07:07:22.70435252Z",
+      "laatstOntvangen": "2023-03-27T07:07:22.70435252Z",
+      "productnummer": "10126",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c13413d2-8f60-494e-b144-b62442640b72",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/74bdf5f7-e987-455a-9f29-e6f8fb4859e2"
+    },
+    {
+      "id": "1735a30f-4060-4e51-994e-d74fc54c2cd6",
+      "generatedAtTime": "2023-03-24T17:35:13.929502Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Energieprestatiecertificaat"
+      },
+      "beschrijving": {
+        "nl": "<p>Een energieprestatiecertificaat (EPC) is een document dat toont hoe <strong>energiezuinig</strong> een gebouw(eenheid) is. Zo vindt u op uw EPC informatie over hoe goed de gebouw(eenheid) geïsoleerd is, welke beglazing aanwezig is, hoe zuinig de verwarming is en de installatie voor warm water, …</p><p>Op het EPC staan ook aanbevelingen om de gebouw(eenheid) energiezuiniger te maken, want samen streven we naar een energiezuinig gebouwenpark.</p><p>Het Vlaamse gebouwenpark is erg divers. Om de informatie uit het <strong>EPC op maat</strong> van de gebouw(eenheid) te kunnen aanbieden, krijgt elk type gebouw(eenheid) dan ook een eigen gepast EPC.</p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:14.345476656Z",
+      "laatstGewijzigd": "2023-03-24T17:35:13.911592995Z",
+      "laatstOntvangen": "2023-03-24T17:35:13.911592995Z",
+      "productnummer": "2793",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1735a30f-4060-4e51-994e-d74fc54c2cd6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3648934d-b08d-4c2a-b6f8-cbaa6eca507b"
+    },
+    {
+      "id": "3d530393-c37f-474f-bf6e-8798c874954c",
+      "generatedAtTime": "2023-03-24T17:35:13.788471Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Jobbonus plus voor zelfstandigen"
+      },
+      "beschrijving": {
+        "nl": "<div><div><p>Met de jobbonus plus wil de Vlaamse Regering loontrekkenden met een laag inkomen of zelfstandigen in bijberoep stimuleren om de stap te zetten naar ondernemerschap in hoofdberoep.</p><p>De jobbonus plus is momenteel een wetsvoorstel. Het voorstel wordt pas definitief na goedkeuring door de Vlaamse Regering. Momenteel kunt u dus geen jobbonus plus ontvangen.</p></div></div>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000076",
+          "@id": "OVO000076"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Vlaamse jobbonus"
+          },
+          "url": "https://www.vlaanderen.be/jobbonus",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:45:14.229946025Z",
+      "laatstGewijzigd": "2023-03-24T17:35:13.770643247Z",
+      "laatstOntvangen": "2023-03-24T17:35:13.770643247Z",
+      "productnummer": "2784",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3d530393-c37f-474f-bf6e-8798c874954c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/01711d5f-f196-4036-b71b-627da76d7902"
+    },
+    {
+      "id": "acccc9f1-3c84-4b62-8d8e-a6730037af47",
+      "generatedAtTime": "2023-03-24T17:35:13.676875Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkingsmiddelen Deeltijds kunstonderwijs"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit is het werkingsbudget voor de schoolbesturen van het deeltijds kunstonderwijs. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun academies.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000050",
+          "@id": "OVO000050"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:14.11056237Z",
+      "laatstGewijzigd": "2023-03-24T17:35:13.652652308Z",
+      "laatstOntvangen": "2023-03-24T17:35:13.652652308Z",
+      "productnummer": "2773",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/acccc9f1-3c84-4b62-8d8e-a6730037af47",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2fba0b00-185c-424b-8e60-be9305118315"
+    },
+    {
+      "id": "192e5b5f-1266-4b79-ac2c-0ed08da3f462",
+      "generatedAtTime": "2023-03-24T17:35:13.566947Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Circusdecreet van 1 maart 2019: Internationale Reistoelage Circuskunsten"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet houdende een circusbeleid van 1 maart 2019</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000067",
+          "@id": "OVO000067"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.993367953Z",
+      "laatstGewijzigd": "2023-03-24T17:35:13.549583753Z",
+      "laatstOntvangen": "2023-03-24T17:35:13.549583753Z",
+      "productnummer": "2556",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/192e5b5f-1266-4b79-ac2c-0ed08da3f462",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc9fb27a-ccc9-4cb7-9cb3-5a2eaf4ac6e9"
+    },
+    {
+      "id": "4754cd3d-18cb-40a5-816c-c1c8a1a9b6da",
+      "generatedAtTime": "2023-03-24T17:35:13.45649Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.877810941Z",
+      "laatstGewijzigd": "2023-03-24T17:35:13.43906701Z",
+      "laatstOntvangen": "2023-03-24T17:35:13.43906701Z",
+      "productnummer": "2535",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4754cd3d-18cb-40a5-816c-c1c8a1a9b6da",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6a7a9052-4077-432f-873d-83f103647385"
+    }
+  ]
+}

@@ -1,1 +1,1269 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=23","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=24","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-03-24T17:10:50.040025Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=22","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-03-24T06:45:13.160486Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=23","@type":"EventStream","member":[{"id":"bb09fdd8-ed12-4624-9dc0-b4106193a665","generatedAtTime":"2023-03-24T17:10:50.040025Z","naam":{"nl":"Premie 6 - verplicht + kosten in 2e stap","en":"Premium 6 - obligatory + costs in 2nd step"},"beschrijving":{"nl":"<p>Premie 6 - verplichte velden + eerst zonder kosten aangemaakt. Dan engelse vertaling toegevoegd. Daarna meerdere kosten in het nederlands toegevoegd voor test of meerdere vertalingen in het engels toegevoegd kunnen worden.</p>","en":"<p>Premium 6 - obligatory + costs in 2<sup>nd</sup> step. First created without costs. Then costs are added to Dutch translation. Then costs are added to the English translation.</p>"},"geografischToepassingsgebieden":["BE"],"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"kosten":[{"beschrijving":{"nl":"<p>1 euro</p>","en":"<p>1 euro</p>"},"naam":{"nl":"Kost 1","en":"Cost 1"},"@type":"Kost","order":0},{"beschrijving":{"nl":"<p>2 euro</p>","en":"<p>2 euro</p>"},"naam":{"nl":"Kost 2","en":"Cost 2"},"@type":"Kost","order":1}],"creatie":"2023-03-24T17:10:50.010190875Z","laatstGewijzigd":"2023-03-24T17:10:50.010197175Z","laatstOntvangen":"2023-03-24T17:10:50.010197175Z","productnummer":"2830","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bb09fdd8-ed12-4624-9dc0-b4106193a665","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a28f04be-f7ca-4862-acba-3ddc5fde7384"},{"id":"4ced374b-d982-4b72-bae7-1670fb6a4757","generatedAtTime":"2023-03-24T17:10:49.910696Z","naam":{"nl":"Premie 5 - verplicht + type"},"beschrijving":{"nl":"<p>Inleiding voor premie 5. <a href=\"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen\">/node/31655</a></p>"},"type":"AdviesBegeleiding","geografischToepassingsgebieden":["BE","BE1"],"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T17:10:49.854818907Z","laatstGewijzigd":"2023-03-24T17:10:49.854825115Z","laatstOntvangen":"2023-03-24T17:10:49.854825115Z","productnummer":"2829","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4ced374b-d982-4b72-bae7-1670fb6a4757","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d04a2e2f-3954-41c2-9312-0fcecdf67461"},{"id":"ad28e80b-af85-4983-be3f-0a2e715aa5e9","generatedAtTime":"2023-03-24T17:10:49.737271Z","naam":{"nl":"Premie 4 - verplicht + procedure"},"beschrijving":{"nl":"<p>verplichte velden + procedure met website</p>"},"geografischToepassingsgebieden":["BE"],"bevoegdeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Beschrijving</p>"},"websites":[{"naam":{"nl":"Subsidie voor de renovatie van huurwoningen"},"url":"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen","@type":"Website","order":0}],"@type":"Procedure","order":0}],"creatie":"2023-03-24T17:10:49.714030094Z","laatstGewijzigd":"2023-03-24T17:10:49.714035474Z","laatstOntvangen":"2023-03-24T17:10:49.714035474Z","productnummer":"2828","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ad28e80b-af85-4983-be3f-0a2e715aa5e9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5260b3b7-8ee6-4e32-b2ea-52077b1c7d82"},{"id":"b556a7ac-6b20-40b1-8a06-98438d19d6d3","generatedAtTime":"2023-03-24T17:10:49.609753Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"en":"Zorgtariefpas en","nl":"Zorgtariefpas"},"beschrijving":{"nl":"<p><a href=\"https://www.uat-vlaanderen.be/informatiemanagement/informatie-digitaliseren/digitalisering-inkomende-post/maatwerk-digipost\">/node/57356</a> Met de zorgtariefpas kunnen ouders van kinderen tot 18 jaar een financiële tussenkomst krijgen in medische kosten voor de behandeling bij de: </p><p><a href=\"https://www.uat-vlaanderen.be/ingrijpende-energetische-renovatie\">/node/12323</a></p><p>/node/25765</p><ul><li>oogarts</li><li>opticien</li><li>tandarts</li><li>orthodontistsdfsdf</li><li>oorarts</li><li>orthopedist</li><li>logopedist</li><li>psychiater</li><li>psycholoog</li><li>diëtist</li><li>apotheker.</li></ul>","en":"<p>Met de zorgtariefpas kunnen ouders van kinderen tot 18 jaar een financiële tussenkomst krijgen in medische kosten voor de behandeling bij de: </p><ul><li>oogarts</li><li>opticien</li><li>tandarts</li><li>orthodontist</li><li>oorarts</li><li>orthopedist</li><li>logopedist</li><li>psychiater</li><li>psycholoog</li><li>diëtist</li><li>apotheker.</li></ul>"},"type":"AdviesBegeleiding","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"en":"<p>De jongere:</p><ul><li>is maximum 18 jaar</li><li>is ingeschreven in het bevolkingsregister of het vreemdelingenregister in de gemeente</li><li>is aangesloten bij een erkend ziekenfonds.</li></ul><p>Het gezinsinkomen is te laag om te zorgen dat de kinderen de gezondheidszorgen krijgen die ze nodig hebben.</p>","nl":"<p>De jongere:</p><ul><li>is maximum 18 jaar</li><li>is ingeschreven in het bevolkingsregister of het vreemdelingenregister in de gemeente</li><li>is aangesloten bij een erkend ziekenfonds.</li></ul><p>Het gezinsinkomen is te laag om te zorgen dat de kinderen de gezondheidszorgen krijgen die ze nodig hebben.</p>"},"naam":{"en":"Requirements","nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<ul><li>attest van de geneesheer om de noodzaak van de behandeling aan te geven</li><li>aansluiting ziekenfonds</li><li>rekeninguittreksels van de laatste drie maanden.</li></ul>","en":"<ul><li>attest van de geneesheer om de noodzaak van de behandeling aan te geven</li><li>aansluiting ziekenfonds</li><li>rekeninguittreksels van de laatste drie maanden.</li></ul>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"nl":"<ul><li>U vraagt de zorgtariefpas aan bij het OCMW.</li><li>Het OCMW reikt u de zorgtariefpas uit na een sociaal en financieel onderzoek.</li></ul>","en":"<ul><li>U vraagt de zorgtariefpas aan bij het OCMW.</li><li>Het OCMW reikt u de zorgtariefpas uit na een sociaal en financieel onderzoek.</li></ul>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Met de zorgtariefpas krijgt u</p><ul><li>het remgeld terugbetaald</li><li>een korting op geneesmiddelen en andere benodigdheden (bijvoorbeeld een bril, beugel, hoorapparaat, steunzolen, ...).</li></ul>","en":"<p>Met de zorgtariefpas krijgt u</p><ul><li>het remgeld terugbetaald</li><li>een korting op geneesmiddelen en andere benodigdheden (bijvoorbeeld een bril, beugel, hoorapparaat, steunzolen, ...).</li></ul>"},"naam":{"nl":"Kost","en":"Cost"},"@type":"Kost","order":0}],"creatie":"2023-03-09T15:55:18.969370095Z","laatstGewijzigd":"2023-03-24T17:10:49.580194312Z","laatstOntvangen":"2023-03-24T17:10:49.580194312Z","productnummer":"39","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b556a7ac-6b20-40b1-8a06-98438d19d6d3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0e7f8fb0-c504-4791-abba-1b2c7de9e434"},{"id":"85c7a70d-cfa9-46b2-b478-aa2fd61e7f70","generatedAtTime":"2023-03-24T17:10:49.199819Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Standplaats voor niet-commerciële verkoop"},"beschrijving":{"nl":"<p>Wenst u een standplaats voor een niet-commerciële verkoop? Dan moet u een aanvraag indienen bij uw stad of gemeente.</p>"},"verdereBeschrijving":{"nl":"<p>Test</p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<p>Test</p>"},"uitzonderingen":{"nl":"<p>Test</p>"},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Test voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Test</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Hoe u een standplaats kunt aanvragen en aan welke voorwaarden u moet voldoen kunt u nagaan bij uw stad of gemeente.</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Test</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-09T15:50:15.913497243Z","laatstGewijzigd":"2023-03-24T17:10:49.101897795Z","laatstOntvangen":"2023-03-24T17:10:49.101897795Z","productnummer":"1852","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/85c7a70d-cfa9-46b2-b478-aa2fd61e7f70","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3ddf81d8-edd9-47f2-9a2c-f09d14cad3e3"},{"id":"a424a708-d5ef-40a7-ae73-77ba6ef1482d","generatedAtTime":"2023-03-24T17:05:39.200278Z","naam":{"nl":"IPDCv3 test"},"beschrijving":{"nl":"<p>IPDCv3 test</p>"},"geografischToepassingsgebieden":["BE"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T17:05:39.101639157Z","laatstGewijzigd":"2023-03-24T17:05:39.101644395Z","laatstOntvangen":"2023-03-24T17:05:39.101644395Z","productnummer":"2823","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a424a708-d5ef-40a7-ae73-77ba6ef1482d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bcc2d85f-1b5a-4b26-9662-b754f6a38563"},{"id":"f1950ac4-3f5b-45fe-bd4c-6156c680bfd3","generatedAtTime":"2023-03-24T17:05:38.910039Z","bevoegdBestuursniveaus":["Vlaams","Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Toelating voor ambulante activiteit op openbaar domein buiten de openbare markt "},"beschrijving":{"nl":"<p>Voor de uitbating van een kraam op het openbaar domein (ambulante activiteit) hebt u een toelating van de gemeente nodig. Een ambulante activiteit heeft betrekking op de verkoop, het te koop aanbieden of het uitstallen met het oog op de verkoop aan de consument van producten of diensten, door een handelaar buiten de vestiging vermeld in zijn inschrijving in de Kruispuntbank van Ondernemingen (KBO) of door een persoon die niet over zo’n vestiging beschikt. </p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<ul><li><p>Wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten</p></li><li><p>Koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van ambulante activiteiten</p></li><li><p>Decreet van 24 februari 2017 tot wijziging van artikel 8 en 10 van de wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten</p></li><li><p>Besluit van de Vlaamse Regering van 21 april 2017 houdende de wijziging van diverse bepalingen van het koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van ambulante activiteiten; </p></li><li><p>Gemeentelijk reglement en/of politieverordening </p></li></ul>"},"zoektermen":{"nl":["ambulante activiteit","ambulante activiteiten","ambulante handel","openbaar domein","foodtrucks","foodtruck","food truck","standplaats","marktkraam"]},"bevoegdeOverheden":[{"id":"OVO001989","@id":"OVO001989"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Om een ambulante activiteit te kunnen uitoefenen, moet u aan de onderstaande voorwaarden voldoen.</p><ul><li><p>U hebt een machtiging tot het uitoefenen van ambulante activiteiten als werkgever (de zogenaamde leurkaart). Die machtiging wordt afgeleverd door een <a href=\"http://economie.fgov.be/nl/themas/ondernemingen/een-onderneming-oprichten/belangrijkste-stappen-om-een/te-ondernemen-stappen-bij-een/de-erkende\">erkend ondernemingsloket</a> en is geldig in heel België voor de duur van de activiteit.</p></li><li><p>U hebt een verzekering voor burgerlijke aansprakelijkheid en brandrisico’s en, indien van toepassing, een keuringsattest voor uw gas- en/of elektriciteitsinstallatie.</p></li><li><p>U hebt, als u voeding wilt verkopen, een registratie, erkenning of toelating van het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) .</p></li><li><p>U hebt, als u gegiste en/of sterke drank wilt schenken, een drankvergunning voor een reizende drankgelegenheid. Die drankvergunning vraagt u aan bij de gemeente waar u gedomicilieerd bent.</p></li><li><p>U hebt, als u gegiste en/of sterke drank wilt verkopen (geen consumptie ter plaatse), een handelaarsvergunning ethylalcohol en alcoholhoudende dranken. <a href=\"https://financien.belgium.be/douane_accijnzen/contacteer-de-aada\">U vraagt die vergunning</a> aan bij de gewestelijke directie van Douane en Accijnzen.</p></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U dient uw kandidatuur in via het aanvraagformulier en voegt daar de onderstaande documenten bij:</p><ul><li><p>een kopie van uw machtiging als werkgever</p></li><li><p>een kopie van uw e-ID</p></li><li><p>een kopie van de verzekeringspolis burgerlijke aansprakelijkheid (bewijs van een geldige dekking)</p></li><li><p>een kopie van de brandverzekering (bewijs van een geldige dekking)</p></li><li><p>een kopie van het attest keuring elektriciteitsinstallatie (indien van toepassing)</p></li><li><p>een kopie van het attest keuring gasinstallatie (indien van toepassing)</p></li><li><p>een kopie van de registratie, erkenning of toelating van het FAVV (indien van toepassing)</p></li><li><p>een drankvergunning voor reizende drankgelegenheid (indien van toepassing)</p></li><li><p>een handelaarsvergunning ethylalcohol en alcoholhoudende dranken (indien van toepassing)</p></li><li><p>als het privaat domein eigendom is van een derde partij: het schriftelijk akkoord van de eigenaar(s), de uitbater(s) of de huurder(s) van de private eigendommen.</p></li></ul><p>U kunt uw aanvraag, gericht aan de gemeente ter attentie van het college van burgemeester en schepenen, indienen:</p><ul><li><p>per brief tegen ontvangstbewijs</p></li><li><p>per aangetekende brief met ontvangstbewijs</p></li><li><p>per e-mail (duurzame drager tegen ontvangstbewijs).</p></li></ul><p>Het college van burgemeester en schepenen beslist over de toekenning van de toelating.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Organisatie van ambulante activiteiten en kermissen (VLAIO.be)"},"url":"https://www.vlaio.be/nl/vlaio-netwerk/lokale-besturen/organisatie-van-ambulante-activiteiten-en-kermissen/organisatie-van","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>De aanvraag is gratis. De kostprijs voor de inname van de standplaats is bepaald in het gemeentelijk belasting- of retributiereglement. </p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-09T15:40:24.123296327Z","laatstGewijzigd":"2023-03-24T17:05:38.838698758Z","laatstOntvangen":"2023-03-24T17:05:38.838698758Z","productnummer":"2127","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f1950ac4-3f5b-45fe-bd4c-6156c680bfd3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7a5d5ee4-57e4-4124-9b54-bbbf94bb7012"},{"id":"03c8d582-1ecf-4e47-aea6-e1bd3bd097af","generatedAtTime":"2023-03-24T17:05:38.582732Z","naam":{"nl":"Product aanpassing 2e nieuwjaarstest"},"beschrijving":{"nl":"<p>Een 2e nieuwjaarstest</p>"},"type":"Toelating","geografischToepassingsgebieden":["BE"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Dit zijn voorwaarden als test</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-03-24T17:05:37.976579308Z","laatstGewijzigd":"2023-03-24T17:05:37.976585016Z","laatstOntvangen":"2023-03-24T17:05:37.976585016Z","productnummer":"2821","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/03c8d582-1ecf-4e47-aea6-e1bd3bd097af","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/639027f5-4557-485f-9118-c7d16c90dcc8"},{"id":"ebc931ae-04c0-4147-86bd-11904468643d","generatedAtTime":"2023-03-24T16:26:45.6085Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Aangifte van adreswijziging","en":"a"},"beschrijving":{"nl":"<div class=\"typography\"><p></p><p>Als u verhuist, moet u uw nieuwe adres <strong>binnen de 8 werkdagen</strong> aangeven bij de dienst Burgerzaken van uw nieuwe stad of gemeente. Maar ook als u binnen dezelfde gemeente verhuist, moet u dit aangeven.</p>\n<p></p></div>","en":"<p>a</p>"},"startDienstVerlening":"2020-01-01T00:00:00Z","eindeDienstVerlening":"2030-12-31T00:00:00Z","publicatiekanalen":["YourEurope"],"type":"Bewijs","themas":["BouwenWonen","BurgerOverheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE23444011"],"yourEuropeCategorieen":["VerblijfVerhuizing"],"bevoegdeOverheden":[{"id":"OVO004718","@id":"OVO004718"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8","@id":"http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"},{"id":"OVO004718","@id":"OVO004718"}],"voorwaarden":[{"beschrijving":{"en":"<p>a</p>","nl":"<p>U kunt de verhuis pas aangeven als u ook effectief verhuisd bent.</p>"},"naam":{"nl":"Voorwaarde","en":"a"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"en":"a","nl":"Procedure"},"beschrijving":{"en":"<p>a</p>","nl":"<div class=\"typography\"><p></p><p>U moet de adreswijziging melden aan de gemeente waar het nieuwe adres gelegen is:</p>\n<ul>\n<li>U kunt de adreswijziging online melden via het digitaal loket van uw (nieuwe) gemeente.</li>\n<li>U kunt langsgaan bij de dienst Burgerzaken van uw (nieuwe) gemeente.</li>\n</ul>\n<p>Om de adreswijziging voor het hele gezin door te geven, volstaat het dat één van de meerderjarige leden van het gezin de aangifte doet.</p>\n<p>Om de adreswijziging te kunnen doorgeven, hebt u een geldig identiteitsbewijs nodig met uw rijksregisternummer.</p>\n<p>Als een niet-ontvoogde minderjarige de verblijfplaats van zijn ouders voor het eerst verlaat om zijn hoofdverblijf elders te vestigen, moet hij vergezeld zijn door iemand die het ouderlijke gezag uitoefent.</p>\n<h3>Controle van domicilie en aanpassing identiteitsdocumenten</h3>\n<p>Na de aangifte controleert een wijkagent of een bevoegde ambtenaar of u werkelijk op het aangegeven adres uw hoofdverblijfplaats hebt. Na deze controle wordt u ingeschreven op uw nieuwe adres en wordt u uitgenodigd om uw identiteitskaart op het gemeentehuis te laten aanpassen. Hiervoor hebt u uw elektronische identiteitskaart met pincode nodig.</p>\n<p>Vanaf het moment dat uw identiteitskaart aangepast is, kunt u alle andere instanties van uw adresverandering op de hoogte brengen.</p>\n<h3>Inschrijvingsbewijs van voertuigen</h3>\n<p>De adreswijziging moet niet langer aangebracht worden op het inschrijvingsbewijs van uw voertuig(en). Het kentekenbewijs zal enkel nog het adres vermelden dat geldig was op het moment van uitgifte.</p>\n<p></p></div>"},"@type":"Procedure","order":0}],"websites":[{"beschrijving":{"nl":"<p>Inschrijving in de bevolkingsregisters</p>"},"naam":{"nl":"Inschrijving in de bevolkingsregisters","en":"a"},"url":"https://www.ibz.rrn.fgov.be/nl/bevolking/faq/de-inschrijving-in-de-bevolkingsregisters/","@type":"Website","order":0}],"creatie":"2023-03-24T16:25:11.62Z","laatstGewijzigd":"2023-03-24T16:26:18.841Z","laatstOntvangen":"2023-03-24T16:26:18.841Z","linkedConcept":"https://ipdc.tni-vlaanderen.be/id/concept/38f480a7-0642-43d4-b31b-fc2e5ea02f94","linkedConceptId":"38f480a7-0642-43d4-b31b-fc2e5ea02f94","linkedConceptProductnummer":"10076","productnummer":"10125","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ebc931ae-04c0-4147-86bd-11904468643d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/96148d04-5692-45c4-92d6-f3806cf28495"},{"id":"3b81ae69-0bc0-44c0-b2c2-6590af574ea1","generatedAtTime":"2023-03-24T15:15:04.535522Z","naam":{"en":"a","nl":"Elektronische identiteitskaart (eID)"},"beschrijving":{"nl":"<p>Elektronische identiteitskaart (eID)</p>","en":"<p>a</p>"},"geografischToepassingsgebieden":["BE24123105"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/011a6ad0efca0b7e03ca9b99bd6c636a26cbde49aa0d6844b9ebc434dc58216c","@id":"http://data.lblod.info/id/bestuurseenheden/011a6ad0efca0b7e03ca9b99bd6c636a26cbde49aa0d6844b9ebc434dc58216c"}],"creatie":"2023-03-24T15:13:04.892Z","laatstGewijzigd":"2023-03-24T15:13:48.758Z","laatstOntvangen":"2023-03-24T15:13:48.758Z","linkedConcept":"https://ipdc.tni-vlaanderen.be/id/concept/a09a26a3-d1e8-40f5-bc81-da64ee819e1e","linkedConceptId":"a09a26a3-d1e8-40f5-bc81-da64ee819e1e","linkedConceptProductnummer":"148","productnummer":"10124","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3b81ae69-0bc0-44c0-b2c2-6590af574ea1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cba1dc16-d822-4510-a558-64c3a0393cf1"},{"id":"d73ad2da-9d4a-4eae-b2a3-3d0a3d7946b6","generatedAtTime":"2023-03-24T15:10:01.913175Z","naam":{"nl":"a","en":"a"},"beschrijving":{"en":"<p>a</p>","nl":"<p>a</p>"},"geografischToepassingsgebieden":["BE23141002"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4","@id":"http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4","@id":"http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4"}],"creatie":"2023-03-24T10:06:41.144Z","laatstGewijzigd":"2023-03-24T15:10:01.836593588Z","laatstOntvangen":"2023-03-24T15:10:01.836593588Z","productnummer":"10123","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d73ad2da-9d4a-4eae-b2a3-3d0a3d7946b6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7cfc6306-26f1-4bae-944b-c55228e17fe3"},{"id":"27b757c5-e812-43ff-818f-7069420e0050","generatedAtTime":"2023-03-24T15:05:02.508901Z","naam":{"nl":"a","en":"a"},"beschrijving":{"en":"<p>a</p>","nl":"<p>a</p>"},"geografischToepassingsgebieden":["BE23141002"],"bevoegdeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4","@id":"http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4"}],"uitvoerendeOverheden":[{"id":"http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4","@id":"http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4"}],"creatie":"2023-03-24T10:06:41.144Z","laatstGewijzigd":"2023-03-24T15:03:01.11Z","laatstOntvangen":"2023-03-24T15:03:01.11Z","productnummer":"10123","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/27b757c5-e812-43ff-818f-7069420e0050","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7cfc6306-26f1-4bae-944b-c55228e17fe3"},{"id":"fe0ac98a-83d4-4062-ba8b-5f16ccb29f8f","generatedAtTime":"2023-03-24T08:30:02.810914Z","naam":{"nl":"Instantie die abb wil archiveren"},"beschrijving":{"nl":"Abb probeert deze instantie te archiveren maar aangezien die niet bestaat, geeft dit een 404 foutmelding in onze logs. Om dit snel op te lossen en onze logs minder te laten vervuilen, hebben we (iom-team) deze instantie aangemaakt met het id dat zij gebruiken."},"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000004","@id":"OVO000004"}],"creatie":"2023-03-24T08:25:22.611967579Z","laatstGewijzigd":"2023-03-24T08:30:02.721735351Z","laatstOntvangen":"2023-03-24T08:30:02.721735351Z","productnummer":"10122","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fe0ac98a-83d4-4062-ba8b-5f16ccb29f8f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0b78b19d-132c-46c8-a203-4dfd08dbe7c0"},{"id":"57698cbc-e591-4aff-8cf8-32f0bdd8b939","generatedAtTime":"2023-03-24T08:25:23.222976Z","naam":{"nl":"Instantie die abb wil archiveren"},"beschrijving":{"nl":"Abb probeert deze instantie te archiveren maar aangezien die niet bestaat, geeft dit een 404 foutmelding in onze logs. Om dit snel op te lossen en onze logs minder te laten vervuilen, hebben we (iom-team) deze instantie aangemaakt met het id dat zij gebruiken."},"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000004","@id":"OVO000004"}],"creatie":"2023-03-24T08:25:22.611967579Z","laatstGewijzigd":"2023-03-24T08:25:22.612027201Z","laatstOntvangen":"2023-03-24T08:25:22.612027201Z","productnummer":"10122","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/57698cbc-e591-4aff-8cf8-32f0bdd8b939","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0b78b19d-132c-46c8-a203-4dfd08dbe7c0"},{"id":"f0474821-8d32-4f64-a9b8-12a0217924e0","generatedAtTime":"2023-03-24T06:45:14.362763Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Energieprestatiecertificaat"},"beschrijving":{"nl":"<p>Een energieprestatiecertificaat (EPC) is een document dat toont hoe <strong>energiezuinig</strong> een gebouw(eenheid) is. Zo vindt u op uw EPC informatie over hoe goed de gebouw(eenheid) geïsoleerd is, welke beglazing aanwezig is, hoe zuinig de verwarming is en de installatie voor warm water, …</p><p>Op het EPC staan ook aanbevelingen om de gebouw(eenheid) energiezuiniger te maken, want samen streven we naar een energiezuinig gebouwenpark.</p><p>Het Vlaamse gebouwenpark is erg divers. Om de informatie uit het <strong>EPC op maat</strong> van de gebouw(eenheid) te kunnen aanbieden, krijgt elk type gebouw(eenheid) dan ook een eigen gepast EPC.</p>"},"type":"Bewijs","themas":["MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:45:14.345476656Z","laatstGewijzigd":"2023-03-24T06:45:14.345478318Z","laatstOntvangen":"2023-03-24T06:45:14.345478318Z","productnummer":"2793","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f0474821-8d32-4f64-a9b8-12a0217924e0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3648934d-b08d-4c2a-b6f8-cbaa6eca507b"},{"id":"80aabf02-dbcd-4c54-a67b-a9f394302cfe","generatedAtTime":"2023-03-24T06:45:14.247355Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Jobbonus plus voor zelfstandigen"},"beschrijving":{"nl":"<div><div><p>Met de jobbonus plus wil de Vlaamse Regering loontrekkenden met een laag inkomen of zelfstandigen in bijberoep stimuleren om de stap te zetten naar ondernemerschap in hoofdberoep.</p><p>De jobbonus plus is momenteel een wetsvoorstel. Het voorstel wordt pas definitief na goedkeuring door de Vlaamse Regering. Momenteel kunt u dus geen jobbonus plus ontvangen.</p></div></div>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:45:14.229946025Z","laatstGewijzigd":"2023-03-24T06:45:14.22994798Z","laatstOntvangen":"2023-03-24T06:45:14.22994798Z","productnummer":"2784","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/80aabf02-dbcd-4c54-a67b-a9f394302cfe","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/01711d5f-f196-4036-b71b-627da76d7902"},{"id":"2a64c74b-6462-4a99-ad59-8d5c6e7447d1","generatedAtTime":"2023-03-24T06:45:14.127357Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkingsmiddelen Deeltijds kunstonderwijs"},"beschrijving":{"nl":"<p>Dit is het werkingsbudget voor de schoolbesturen van het deeltijds kunstonderwijs. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun academies.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:45:14.11056237Z","laatstGewijzigd":"2023-03-24T06:45:14.11056433Z","laatstOntvangen":"2023-03-24T06:45:14.11056433Z","productnummer":"2773","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2a64c74b-6462-4a99-ad59-8d5c6e7447d1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2fba0b00-185c-424b-8e60-be9305118315"},{"id":"fbef1e88-43bb-4433-a0ef-fa2f3de62820","generatedAtTime":"2023-03-24T06:45:14.010162Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Circusdecreet van 1 maart 2019: Internationale Reistoelage Circuskunsten"},"beschrijving":{"nl":"<p>Deze dienst is actief.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet houdende een circusbeleid van 1 maart 2019</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:45:13.993367953Z","laatstGewijzigd":"2023-03-24T06:45:13.993370161Z","laatstOntvangen":"2023-03-24T06:45:13.993370161Z","productnummer":"2556","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fbef1e88-43bb-4433-a0ef-fa2f3de62820","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc9fb27a-ccc9-4cb7-9cb3-5a2eaf4ac6e9"},{"id":"7f3b968f-1f9f-4962-b42b-70c0b078c289","generatedAtTime":"2023-03-24T06:45:13.894735Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie"},"beschrijving":{"nl":"<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>"},"type":"FinancieelVoordeel","themas":["BurgerOverheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:45:13.877810941Z","laatstGewijzigd":"2023-03-24T06:45:13.877812754Z","laatstOntvangen":"2023-03-24T06:45:13.877812754Z","productnummer":"2535","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7f3b968f-1f9f-4962-b42b-70c0b078c289","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6a7a9052-4077-432f-873d-83f103647385"},{"id":"9f500e80-18d4-44de-98a8-c1742589925a","generatedAtTime":"2023-03-24T06:45:13.791037Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor projectoproepen departement Omgeving binnen het omgevingsbeleid ruimte en milieu"},"beschrijving":{"nl":"<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:45:13.774062452Z","laatstGewijzigd":"2023-03-24T06:45:13.774064595Z","laatstOntvangen":"2023-03-24T06:45:13.774064595Z","productnummer":"2506","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9f500e80-18d4-44de-98a8-c1742589925a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/22c190ed-c423-4575-8faa-1549ea34e280"},{"id":"349a962f-7710-453e-a95d-065d148898c2","generatedAtTime":"2023-03-24T06:45:13.687982Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies ontwikkelingssamenwerking in Vlaanderen"},"beschrijving":{"nl":"<p>Deze subsidies worden aangewend voor acties in Vlaanderen, met als doel de Vlaamse bevolking te betrekken bij de internationale ontwikkelingsagenda. Dit gebeurt via werkingssubsidies aan actoren met een groot publieksbereik.</p><p>Voor verschillende organisaties, die zich inzetten voor ontwikkelingssamenwerking, worden loonsubsidies verleend. Verder wordt er aan vzw VVOB (Vlaamse Vereniging voor Ontwikkelingssamenwerking en technische Bijstand), een nominatim financiering verleend. Vlaanderen zet ook in op inclusieve financiering.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:45:13.671125333Z","laatstGewijzigd":"2023-03-24T06:45:13.67112695Z","laatstOntvangen":"2023-03-24T06:45:13.67112695Z","productnummer":"2503","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/349a962f-7710-453e-a95d-065d148898c2","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bc915432-d2d9-4c5e-8e80-eb9b6a41c630"},{"id":"52249b26-835d-49f4-988d-6c8cca15fa9c","generatedAtTime":"2023-03-24T06:45:13.574027Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies ontwikkelingssamenwerking in het Zuiden"},"beschrijving":{"nl":"<p>De subsidies ontwikkelingssamenwerking in het Zuiden worden toegekend in functie van projecten in de prioritaire partnerlanden (Mozambique, Malawi, Marokko) en de regio zuidelijk Afrika. In Mozambique ligt de focus op gezondheid, in Malawi op landbouw en in Marokko op groene economie.</p><p>Een aantal uitdagingen stoppen niet aan de grenzen van de drie partnerlanden en daarom worden ook initiatieven met regionale reikwijdte van de VN en andere organisaties ondersteund.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:45:13.557226596Z","laatstGewijzigd":"2023-03-24T06:45:13.557228116Z","laatstOntvangen":"2023-03-24T06:45:13.557228116Z","productnummer":"2502","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/52249b26-835d-49f4-988d-6c8cca15fa9c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6577af5b-951c-4483-b285-e5bf4996f5ad"},{"id":"ddb4d028-ac53-4240-b86c-caac68ebbf71","generatedAtTime":"2023-03-24T06:45:13.452553Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies ontwikkelingssamenwerking humanitaire actie"},"beschrijving":{"nl":"<p>Subsidies ontwikkelingssamenwerking humanitaire actie richten zich op noodsituaties die door natuurrampen of conflicten veroorzaakt worden. Ze omvatten zowel directe hulp als steun aan acties die noodsituaties voorkomen of die de rampenparaatheid van gemeenschappen bevorderen. Een groot aandeel gaat naar structurele humanitaire actie, o.a. het Central Emergency Response Fund.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:45:13.435607739Z","laatstGewijzigd":"2023-03-24T06:45:13.435610268Z","laatstOntvangen":"2023-03-24T06:45:13.435610268Z","productnummer":"2501","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ddb4d028-ac53-4240-b86c-caac68ebbf71","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/01d70d3d-cb69-4968-82f4-bee496fb8bda"},{"id":"dc3224ee-dc7b-4462-8fb7-59601a880f00","generatedAtTime":"2023-03-24T06:45:13.291385Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Compensatie voor gratis energiescans"},"beschrijving":{"nl":"<p>Via een energiescan komen burgers te weten hoe ze thuis energie kunnen besparen. Bepaalde doelgroepen komen in aanmerking voor een gratis scan. Voor het uitvoeren van die gratis scans kunnen energie-experten een compensatie van de Vlaamse overheid krijgen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<div><div><div><div><p>Energiebesluit van 19 november 2010</p></div></div></div></div>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:45:13.271099387Z","laatstGewijzigd":"2023-03-24T06:45:13.271101133Z","laatstOntvangen":"2023-03-24T06:45:13.271101133Z","productnummer":"2494","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/dc3224ee-dc7b-4462-8fb7-59601a880f00","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/69200f8b-f0cd-4535-b0f1-e02eb08f16e5"},{"id":"5b7d0899-579c-46db-b034-17f77d99338c","generatedAtTime":"2023-03-24T06:45:13.160486Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Lokaal","Derden"],"naam":{"nl":"Vastgoedinformatiedossier"},"beschrijving":{"nl":"<p>Stedenbouwkundige informatie, informatie rond erfdienstbaarheden, ligging in beschermd gebied, ruimtelijke plannen, … die de overheid in aparte databanken bewaart, wordt vanaf 2024 gebundeld in één vastgoedinformatiedossier.</p><p>Via het Vastgoedinformatieplatform kan de aanvrager via één eenvoudige weg de benodigde vastgoedinfo opvragen in het kader van een verkoop of langdurige verhuur. Het platform verzamelt dan alle data uit de beschikbare, aangesloten bronnen. De bevoegde gemeente krijgt via het platform een vraag om het dossier te vervolledigen en te controleren op de kwaliteit, waarna de info wordt afgeleverd aan de aanvrager.</p>"},"type":"AdviesBegeleiding","themas":["BouwenWonen"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-24T06:45:13.143657765Z","laatstGewijzigd":"2023-03-24T06:45:13.143659164Z","laatstOntvangen":"2023-03-24T06:45:13.143659164Z","productnummer":"2479","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5b7d0899-579c-46db-b034-17f77d99338c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2700f51e-c202-4166-b97e-9b5eeb0bd5b6"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=23",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=24",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-03-24T17:10:50.040025Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=22",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-03-24T06:45:13.160486Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=23",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "bb09fdd8-ed12-4624-9dc0-b4106193a665",
+      "generatedAtTime": "2023-03-24T17:10:50.040025Z",
+      "naam": {
+        "nl": "Premie 6 - verplicht + kosten in 2e stap",
+        "en": "Premium 6 - obligatory + costs in 2nd step"
+      },
+      "beschrijving": {
+        "nl": "<p>Premie 6 - verplichte velden + eerst zonder kosten aangemaakt. Dan engelse vertaling toegevoegd. Daarna meerdere kosten in het nederlands toegevoegd voor test of meerdere vertalingen in het engels toegevoegd kunnen worden.</p>",
+        "en": "<p>Premium 6 - obligatory + costs in 2<sup>nd</sup> step. First created without costs. Then costs are added to Dutch translation. Then costs are added to the English translation.</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>1 euro</p>",
+            "en": "<p>1 euro</p>"
+          },
+          "naam": {
+            "nl": "Kost 1",
+            "en": "Cost 1"
+          },
+          "@type": "Kost",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>2 euro</p>",
+            "en": "<p>2 euro</p>"
+          },
+          "naam": {
+            "nl": "Kost 2",
+            "en": "Cost 2"
+          },
+          "@type": "Kost",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-24T17:10:50.010190875Z",
+      "laatstGewijzigd": "2023-03-24T17:10:50.010197175Z",
+      "laatstOntvangen": "2023-03-24T17:10:50.010197175Z",
+      "productnummer": "2830",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bb09fdd8-ed12-4624-9dc0-b4106193a665",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a28f04be-f7ca-4862-acba-3ddc5fde7384"
+    },
+    {
+      "id": "4ced374b-d982-4b72-bae7-1670fb6a4757",
+      "generatedAtTime": "2023-03-24T17:10:49.910696Z",
+      "naam": {
+        "nl": "Premie 5 - verplicht + type"
+      },
+      "beschrijving": {
+        "nl": "<p>Inleiding voor premie 5. <a href=\"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen\">/node/31655</a></p>"
+      },
+      "type": "AdviesBegeleiding",
+      "geografischToepassingsgebieden": [
+        "BE",
+        "BE1"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T17:10:49.854818907Z",
+      "laatstGewijzigd": "2023-03-24T17:10:49.854825115Z",
+      "laatstOntvangen": "2023-03-24T17:10:49.854825115Z",
+      "productnummer": "2829",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4ced374b-d982-4b72-bae7-1670fb6a4757",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d04a2e2f-3954-41c2-9312-0fcecdf67461"
+    },
+    {
+      "id": "ad28e80b-af85-4983-be3f-0a2e715aa5e9",
+      "generatedAtTime": "2023-03-24T17:10:49.737271Z",
+      "naam": {
+        "nl": "Premie 4 - verplicht + procedure"
+      },
+      "beschrijving": {
+        "nl": "<p>verplichte velden + procedure met website</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Beschrijving</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Subsidie voor de renovatie van huurwoningen"
+              },
+              "url": "https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T17:10:49.714030094Z",
+      "laatstGewijzigd": "2023-03-24T17:10:49.714035474Z",
+      "laatstOntvangen": "2023-03-24T17:10:49.714035474Z",
+      "productnummer": "2828",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ad28e80b-af85-4983-be3f-0a2e715aa5e9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5260b3b7-8ee6-4e32-b2ea-52077b1c7d82"
+    },
+    {
+      "id": "b556a7ac-6b20-40b1-8a06-98438d19d6d3",
+      "generatedAtTime": "2023-03-24T17:10:49.609753Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "en": "Zorgtariefpas en",
+        "nl": "Zorgtariefpas"
+      },
+      "beschrijving": {
+        "nl": "<p><a href=\"https://www.uat-vlaanderen.be/informatiemanagement/informatie-digitaliseren/digitalisering-inkomende-post/maatwerk-digipost\">/node/57356</a> Met de zorgtariefpas kunnen ouders van kinderen tot 18 jaar een financiële tussenkomst krijgen in medische kosten voor de behandeling bij de: </p><p><a href=\"https://www.uat-vlaanderen.be/ingrijpende-energetische-renovatie\">/node/12323</a></p><p>/node/25765</p><ul><li>oogarts</li><li>opticien</li><li>tandarts</li><li>orthodontistsdfsdf</li><li>oorarts</li><li>orthopedist</li><li>logopedist</li><li>psychiater</li><li>psycholoog</li><li>diëtist</li><li>apotheker.</li></ul>",
+        "en": "<p>Met de zorgtariefpas kunnen ouders van kinderen tot 18 jaar een financiële tussenkomst krijgen in medische kosten voor de behandeling bij de: </p><ul><li>oogarts</li><li>opticien</li><li>tandarts</li><li>orthodontist</li><li>oorarts</li><li>orthopedist</li><li>logopedist</li><li>psychiater</li><li>psycholoog</li><li>diëtist</li><li>apotheker.</li></ul>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "en": "<p>De jongere:</p><ul><li>is maximum 18 jaar</li><li>is ingeschreven in het bevolkingsregister of het vreemdelingenregister in de gemeente</li><li>is aangesloten bij een erkend ziekenfonds.</li></ul><p>Het gezinsinkomen is te laag om te zorgen dat de kinderen de gezondheidszorgen krijgen die ze nodig hebben.</p>",
+            "nl": "<p>De jongere:</p><ul><li>is maximum 18 jaar</li><li>is ingeschreven in het bevolkingsregister of het vreemdelingenregister in de gemeente</li><li>is aangesloten bij een erkend ziekenfonds.</li></ul><p>Het gezinsinkomen is te laag om te zorgen dat de kinderen de gezondheidszorgen krijgen die ze nodig hebben.</p>"
+          },
+          "naam": {
+            "en": "Requirements",
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<ul><li>attest van de geneesheer om de noodzaak van de behandeling aan te geven</li><li>aansluiting ziekenfonds</li><li>rekeninguittreksels van de laatste drie maanden.</li></ul>",
+              "en": "<ul><li>attest van de geneesheer om de noodzaak van de behandeling aan te geven</li><li>aansluiting ziekenfonds</li><li>rekeninguittreksels van de laatste drie maanden.</li></ul>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>U vraagt de zorgtariefpas aan bij het OCMW.</li><li>Het OCMW reikt u de zorgtariefpas uit na een sociaal en financieel onderzoek.</li></ul>",
+            "en": "<ul><li>U vraagt de zorgtariefpas aan bij het OCMW.</li><li>Het OCMW reikt u de zorgtariefpas uit na een sociaal en financieel onderzoek.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Met de zorgtariefpas krijgt u</p><ul><li>het remgeld terugbetaald</li><li>een korting op geneesmiddelen en andere benodigdheden (bijvoorbeeld een bril, beugel, hoorapparaat, steunzolen, ...).</li></ul>",
+            "en": "<p>Met de zorgtariefpas krijgt u</p><ul><li>het remgeld terugbetaald</li><li>een korting op geneesmiddelen en andere benodigdheden (bijvoorbeeld een bril, beugel, hoorapparaat, steunzolen, ...).</li></ul>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "en": "Cost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T15:55:18.969370095Z",
+      "laatstGewijzigd": "2023-03-24T17:10:49.580194312Z",
+      "laatstOntvangen": "2023-03-24T17:10:49.580194312Z",
+      "productnummer": "39",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b556a7ac-6b20-40b1-8a06-98438d19d6d3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0e7f8fb0-c504-4791-abba-1b2c7de9e434"
+    },
+    {
+      "id": "85c7a70d-cfa9-46b2-b478-aa2fd61e7f70",
+      "generatedAtTime": "2023-03-24T17:10:49.199819Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Standplaats voor niet-commerciële verkoop"
+      },
+      "beschrijving": {
+        "nl": "<p>Wenst u een standplaats voor een niet-commerciële verkoop? Dan moet u een aanvraag indienen bij uw stad of gemeente.</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Test</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Test</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Test</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Test</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Hoe u een standplaats kunt aanvragen en aan welke voorwaarden u moet voldoen kunt u nagaan bij uw stad of gemeente.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T15:50:15.913497243Z",
+      "laatstGewijzigd": "2023-03-24T17:10:49.101897795Z",
+      "laatstOntvangen": "2023-03-24T17:10:49.101897795Z",
+      "productnummer": "1852",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/85c7a70d-cfa9-46b2-b478-aa2fd61e7f70",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3ddf81d8-edd9-47f2-9a2c-f09d14cad3e3"
+    },
+    {
+      "id": "a424a708-d5ef-40a7-ae73-77ba6ef1482d",
+      "generatedAtTime": "2023-03-24T17:05:39.200278Z",
+      "naam": {
+        "nl": "IPDCv3 test"
+      },
+      "beschrijving": {
+        "nl": "<p>IPDCv3 test</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T17:05:39.101639157Z",
+      "laatstGewijzigd": "2023-03-24T17:05:39.101644395Z",
+      "laatstOntvangen": "2023-03-24T17:05:39.101644395Z",
+      "productnummer": "2823",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a424a708-d5ef-40a7-ae73-77ba6ef1482d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bcc2d85f-1b5a-4b26-9662-b754f6a38563"
+    },
+    {
+      "id": "f1950ac4-3f5b-45fe-bd4c-6156c680bfd3",
+      "generatedAtTime": "2023-03-24T17:05:38.910039Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams",
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Toelating voor ambulante activiteit op openbaar domein buiten de openbare markt "
+      },
+      "beschrijving": {
+        "nl": "<p>Voor de uitbating van een kraam op het openbaar domein (ambulante activiteit) hebt u een toelating van de gemeente nodig. Een ambulante activiteit heeft betrekking op de verkoop, het te koop aanbieden of het uitstallen met het oog op de verkoop aan de consument van producten of diensten, door een handelaar buiten de vestiging vermeld in zijn inschrijving in de Kruispuntbank van Ondernemingen (KBO) of door een persoon die niet over zo’n vestiging beschikt. </p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li><p>Wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten</p></li><li><p>Koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van ambulante activiteiten</p></li><li><p>Decreet van 24 februari 2017 tot wijziging van artikel 8 en 10 van de wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten</p></li><li><p>Besluit van de Vlaamse Regering van 21 april 2017 houdende de wijziging van diverse bepalingen van het koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van ambulante activiteiten; </p></li><li><p>Gemeentelijk reglement en/of politieverordening </p></li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "ambulante activiteit",
+          "ambulante activiteiten",
+          "ambulante handel",
+          "openbaar domein",
+          "foodtrucks",
+          "foodtruck",
+          "food truck",
+          "standplaats",
+          "marktkraam"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001989",
+          "@id": "OVO001989"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Om een ambulante activiteit te kunnen uitoefenen, moet u aan de onderstaande voorwaarden voldoen.</p><ul><li><p>U hebt een machtiging tot het uitoefenen van ambulante activiteiten als werkgever (de zogenaamde leurkaart). Die machtiging wordt afgeleverd door een <a href=\"http://economie.fgov.be/nl/themas/ondernemingen/een-onderneming-oprichten/belangrijkste-stappen-om-een/te-ondernemen-stappen-bij-een/de-erkende\">erkend ondernemingsloket</a> en is geldig in heel België voor de duur van de activiteit.</p></li><li><p>U hebt een verzekering voor burgerlijke aansprakelijkheid en brandrisico’s en, indien van toepassing, een keuringsattest voor uw gas- en/of elektriciteitsinstallatie.</p></li><li><p>U hebt, als u voeding wilt verkopen, een registratie, erkenning of toelating van het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) .</p></li><li><p>U hebt, als u gegiste en/of sterke drank wilt schenken, een drankvergunning voor een reizende drankgelegenheid. Die drankvergunning vraagt u aan bij de gemeente waar u gedomicilieerd bent.</p></li><li><p>U hebt, als u gegiste en/of sterke drank wilt verkopen (geen consumptie ter plaatse), een handelaarsvergunning ethylalcohol en alcoholhoudende dranken. <a href=\"https://financien.belgium.be/douane_accijnzen/contacteer-de-aada\">U vraagt die vergunning</a> aan bij de gewestelijke directie van Douane en Accijnzen.</p></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U dient uw kandidatuur in via het aanvraagformulier en voegt daar de onderstaande documenten bij:</p><ul><li><p>een kopie van uw machtiging als werkgever</p></li><li><p>een kopie van uw e-ID</p></li><li><p>een kopie van de verzekeringspolis burgerlijke aansprakelijkheid (bewijs van een geldige dekking)</p></li><li><p>een kopie van de brandverzekering (bewijs van een geldige dekking)</p></li><li><p>een kopie van het attest keuring elektriciteitsinstallatie (indien van toepassing)</p></li><li><p>een kopie van het attest keuring gasinstallatie (indien van toepassing)</p></li><li><p>een kopie van de registratie, erkenning of toelating van het FAVV (indien van toepassing)</p></li><li><p>een drankvergunning voor reizende drankgelegenheid (indien van toepassing)</p></li><li><p>een handelaarsvergunning ethylalcohol en alcoholhoudende dranken (indien van toepassing)</p></li><li><p>als het privaat domein eigendom is van een derde partij: het schriftelijk akkoord van de eigenaar(s), de uitbater(s) of de huurder(s) van de private eigendommen.</p></li></ul><p>U kunt uw aanvraag, gericht aan de gemeente ter attentie van het college van burgemeester en schepenen, indienen:</p><ul><li><p>per brief tegen ontvangstbewijs</p></li><li><p>per aangetekende brief met ontvangstbewijs</p></li><li><p>per e-mail (duurzame drager tegen ontvangstbewijs).</p></li></ul><p>Het college van burgemeester en schepenen beslist over de toekenning van de toelating.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Organisatie van ambulante activiteiten en kermissen (VLAIO.be)"
+          },
+          "url": "https://www.vlaio.be/nl/vlaio-netwerk/lokale-besturen/organisatie-van-ambulante-activiteiten-en-kermissen/organisatie-van",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>De aanvraag is gratis. De kostprijs voor de inname van de standplaats is bepaald in het gemeentelijk belasting- of retributiereglement. </p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T15:40:24.123296327Z",
+      "laatstGewijzigd": "2023-03-24T17:05:38.838698758Z",
+      "laatstOntvangen": "2023-03-24T17:05:38.838698758Z",
+      "productnummer": "2127",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f1950ac4-3f5b-45fe-bd4c-6156c680bfd3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7a5d5ee4-57e4-4124-9b54-bbbf94bb7012"
+    },
+    {
+      "id": "03c8d582-1ecf-4e47-aea6-e1bd3bd097af",
+      "generatedAtTime": "2023-03-24T17:05:38.582732Z",
+      "naam": {
+        "nl": "Product aanpassing 2e nieuwjaarstest"
+      },
+      "beschrijving": {
+        "nl": "<p>Een 2e nieuwjaarstest</p>"
+      },
+      "type": "Toelating",
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Dit zijn voorwaarden als test</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T17:05:37.976579308Z",
+      "laatstGewijzigd": "2023-03-24T17:05:37.976585016Z",
+      "laatstOntvangen": "2023-03-24T17:05:37.976585016Z",
+      "productnummer": "2821",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/03c8d582-1ecf-4e47-aea6-e1bd3bd097af",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/639027f5-4557-485f-9118-c7d16c90dcc8"
+    },
+    {
+      "id": "ebc931ae-04c0-4147-86bd-11904468643d",
+      "generatedAtTime": "2023-03-24T16:26:45.6085Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Aangifte van adreswijziging",
+        "en": "a"
+      },
+      "beschrijving": {
+        "nl": "<div class=\"typography\"><p></p><p>Als u verhuist, moet u uw nieuwe adres <strong>binnen de 8 werkdagen</strong> aangeven bij de dienst Burgerzaken van uw nieuwe stad of gemeente. Maar ook als u binnen dezelfde gemeente verhuist, moet u dit aangeven.</p>\n<p></p></div>",
+        "en": "<p>a</p>"
+      },
+      "startDienstVerlening": "2020-01-01T00:00:00Z",
+      "eindeDienstVerlening": "2030-12-31T00:00:00Z",
+      "publicatiekanalen": [
+        "YourEurope"
+      ],
+      "type": "Bewijs",
+      "themas": [
+        "BouwenWonen",
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE23444011"
+      ],
+      "yourEuropeCategorieen": [
+        "VerblijfVerhuizing"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO004718",
+          "@id": "OVO004718"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/d93451bf-e89a-4528-80f3-f0a1c19361a8"
+        },
+        {
+          "id": "OVO004718",
+          "@id": "OVO004718"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "en": "<p>a</p>",
+            "nl": "<p>U kunt de verhuis pas aangeven als u ook effectief verhuisd bent.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarde",
+            "en": "a"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "en": "a",
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>a</p>",
+            "nl": "<div class=\"typography\"><p></p><p>U moet de adreswijziging melden aan de gemeente waar het nieuwe adres gelegen is:</p>\n<ul>\n<li>U kunt de adreswijziging online melden via het digitaal loket van uw (nieuwe) gemeente.</li>\n<li>U kunt langsgaan bij de dienst Burgerzaken van uw (nieuwe) gemeente.</li>\n</ul>\n<p>Om de adreswijziging voor het hele gezin door te geven, volstaat het dat één van de meerderjarige leden van het gezin de aangifte doet.</p>\n<p>Om de adreswijziging te kunnen doorgeven, hebt u een geldig identiteitsbewijs nodig met uw rijksregisternummer.</p>\n<p>Als een niet-ontvoogde minderjarige de verblijfplaats van zijn ouders voor het eerst verlaat om zijn hoofdverblijf elders te vestigen, moet hij vergezeld zijn door iemand die het ouderlijke gezag uitoefent.</p>\n<h3>Controle van domicilie en aanpassing identiteitsdocumenten</h3>\n<p>Na de aangifte controleert een wijkagent of een bevoegde ambtenaar of u werkelijk op het aangegeven adres uw hoofdverblijfplaats hebt. Na deze controle wordt u ingeschreven op uw nieuwe adres en wordt u uitgenodigd om uw identiteitskaart op het gemeentehuis te laten aanpassen. Hiervoor hebt u uw elektronische identiteitskaart met pincode nodig.</p>\n<p>Vanaf het moment dat uw identiteitskaart aangepast is, kunt u alle andere instanties van uw adresverandering op de hoogte brengen.</p>\n<h3>Inschrijvingsbewijs van voertuigen</h3>\n<p>De adreswijziging moet niet langer aangebracht worden op het inschrijvingsbewijs van uw voertuig(en). Het kentekenbewijs zal enkel nog het adres vermelden dat geldig was op het moment van uitgifte.</p>\n<p></p></div>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "beschrijving": {
+            "nl": "<p>Inschrijving in de bevolkingsregisters</p>"
+          },
+          "naam": {
+            "nl": "Inschrijving in de bevolkingsregisters",
+            "en": "a"
+          },
+          "url": "https://www.ibz.rrn.fgov.be/nl/bevolking/faq/de-inschrijving-in-de-bevolkingsregisters/",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T16:25:11.62Z",
+      "laatstGewijzigd": "2023-03-24T16:26:18.841Z",
+      "laatstOntvangen": "2023-03-24T16:26:18.841Z",
+      "linkedConcept": "https://ipdc.tni-vlaanderen.be/id/concept/38f480a7-0642-43d4-b31b-fc2e5ea02f94",
+      "linkedConceptId": "38f480a7-0642-43d4-b31b-fc2e5ea02f94",
+      "linkedConceptProductnummer": "10076",
+      "productnummer": "10125",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ebc931ae-04c0-4147-86bd-11904468643d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/96148d04-5692-45c4-92d6-f3806cf28495"
+    },
+    {
+      "id": "3b81ae69-0bc0-44c0-b2c2-6590af574ea1",
+      "generatedAtTime": "2023-03-24T15:15:04.535522Z",
+      "naam": {
+        "en": "a",
+        "nl": "Elektronische identiteitskaart (eID)"
+      },
+      "beschrijving": {
+        "nl": "<p>Elektronische identiteitskaart (eID)</p>",
+        "en": "<p>a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE24123105"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/011a6ad0efca0b7e03ca9b99bd6c636a26cbde49aa0d6844b9ebc434dc58216c",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/011a6ad0efca0b7e03ca9b99bd6c636a26cbde49aa0d6844b9ebc434dc58216c"
+        }
+      ],
+      "creatie": "2023-03-24T15:13:04.892Z",
+      "laatstGewijzigd": "2023-03-24T15:13:48.758Z",
+      "laatstOntvangen": "2023-03-24T15:13:48.758Z",
+      "linkedConcept": "https://ipdc.tni-vlaanderen.be/id/concept/a09a26a3-d1e8-40f5-bc81-da64ee819e1e",
+      "linkedConceptId": "a09a26a3-d1e8-40f5-bc81-da64ee819e1e",
+      "linkedConceptProductnummer": "148",
+      "productnummer": "10124",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3b81ae69-0bc0-44c0-b2c2-6590af574ea1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cba1dc16-d822-4510-a558-64c3a0393cf1"
+    },
+    {
+      "id": "d73ad2da-9d4a-4eae-b2a3-3d0a3d7946b6",
+      "generatedAtTime": "2023-03-24T15:10:01.913175Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "en": "<p>a</p>",
+        "nl": "<p>a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23141002"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4"
+        }
+      ],
+      "creatie": "2023-03-24T10:06:41.144Z",
+      "laatstGewijzigd": "2023-03-24T15:10:01.836593588Z",
+      "laatstOntvangen": "2023-03-24T15:10:01.836593588Z",
+      "productnummer": "10123",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d73ad2da-9d4a-4eae-b2a3-3d0a3d7946b6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7cfc6306-26f1-4bae-944b-c55228e17fe3"
+    },
+    {
+      "id": "27b757c5-e812-43ff-818f-7069420e0050",
+      "generatedAtTime": "2023-03-24T15:05:02.508901Z",
+      "naam": {
+        "nl": "a",
+        "en": "a"
+      },
+      "beschrijving": {
+        "en": "<p>a</p>",
+        "nl": "<p>a</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE23141002"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4",
+          "@id": "http://data.lblod.info/id/bestuurseenheden/974816591f269bb7d74aa1720922651529f3d3b2a787f5c60b73e5a0384950a4"
+        }
+      ],
+      "creatie": "2023-03-24T10:06:41.144Z",
+      "laatstGewijzigd": "2023-03-24T15:03:01.11Z",
+      "laatstOntvangen": "2023-03-24T15:03:01.11Z",
+      "productnummer": "10123",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/27b757c5-e812-43ff-818f-7069420e0050",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7cfc6306-26f1-4bae-944b-c55228e17fe3"
+    },
+    {
+      "id": "fe0ac98a-83d4-4062-ba8b-5f16ccb29f8f",
+      "generatedAtTime": "2023-03-24T08:30:02.810914Z",
+      "naam": {
+        "nl": "Instantie die abb wil archiveren"
+      },
+      "beschrijving": {
+        "nl": "Abb probeert deze instantie te archiveren maar aangezien die niet bestaat, geeft dit een 404 foutmelding in onze logs. Om dit snel op te lossen en onze logs minder te laten vervuilen, hebben we (iom-team) deze instantie aangemaakt met het id dat zij gebruiken."
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000004",
+          "@id": "OVO000004"
+        }
+      ],
+      "creatie": "2023-03-24T08:25:22.611967579Z",
+      "laatstGewijzigd": "2023-03-24T08:30:02.721735351Z",
+      "laatstOntvangen": "2023-03-24T08:30:02.721735351Z",
+      "productnummer": "10122",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fe0ac98a-83d4-4062-ba8b-5f16ccb29f8f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0b78b19d-132c-46c8-a203-4dfd08dbe7c0"
+    },
+    {
+      "id": "57698cbc-e591-4aff-8cf8-32f0bdd8b939",
+      "generatedAtTime": "2023-03-24T08:25:23.222976Z",
+      "naam": {
+        "nl": "Instantie die abb wil archiveren"
+      },
+      "beschrijving": {
+        "nl": "Abb probeert deze instantie te archiveren maar aangezien die niet bestaat, geeft dit een 404 foutmelding in onze logs. Om dit snel op te lossen en onze logs minder te laten vervuilen, hebben we (iom-team) deze instantie aangemaakt met het id dat zij gebruiken."
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000004",
+          "@id": "OVO000004"
+        }
+      ],
+      "creatie": "2023-03-24T08:25:22.611967579Z",
+      "laatstGewijzigd": "2023-03-24T08:25:22.612027201Z",
+      "laatstOntvangen": "2023-03-24T08:25:22.612027201Z",
+      "productnummer": "10122",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/57698cbc-e591-4aff-8cf8-32f0bdd8b939",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0b78b19d-132c-46c8-a203-4dfd08dbe7c0"
+    },
+    {
+      "id": "f0474821-8d32-4f64-a9b8-12a0217924e0",
+      "generatedAtTime": "2023-03-24T06:45:14.362763Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Energieprestatiecertificaat"
+      },
+      "beschrijving": {
+        "nl": "<p>Een energieprestatiecertificaat (EPC) is een document dat toont hoe <strong>energiezuinig</strong> een gebouw(eenheid) is. Zo vindt u op uw EPC informatie over hoe goed de gebouw(eenheid) geïsoleerd is, welke beglazing aanwezig is, hoe zuinig de verwarming is en de installatie voor warm water, …</p><p>Op het EPC staan ook aanbevelingen om de gebouw(eenheid) energiezuiniger te maken, want samen streven we naar een energiezuinig gebouwenpark.</p><p>Het Vlaamse gebouwenpark is erg divers. Om de informatie uit het <strong>EPC op maat</strong> van de gebouw(eenheid) te kunnen aanbieden, krijgt elk type gebouw(eenheid) dan ook een eigen gepast EPC.</p>"
+      },
+      "type": "Bewijs",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:14.345476656Z",
+      "laatstGewijzigd": "2023-03-24T06:45:14.345478318Z",
+      "laatstOntvangen": "2023-03-24T06:45:14.345478318Z",
+      "productnummer": "2793",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f0474821-8d32-4f64-a9b8-12a0217924e0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3648934d-b08d-4c2a-b6f8-cbaa6eca507b"
+    },
+    {
+      "id": "80aabf02-dbcd-4c54-a67b-a9f394302cfe",
+      "generatedAtTime": "2023-03-24T06:45:14.247355Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Jobbonus plus voor zelfstandigen"
+      },
+      "beschrijving": {
+        "nl": "<div><div><p>Met de jobbonus plus wil de Vlaamse Regering loontrekkenden met een laag inkomen of zelfstandigen in bijberoep stimuleren om de stap te zetten naar ondernemerschap in hoofdberoep.</p><p>De jobbonus plus is momenteel een wetsvoorstel. Het voorstel wordt pas definitief na goedkeuring door de Vlaamse Regering. Momenteel kunt u dus geen jobbonus plus ontvangen.</p></div></div>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:14.229946025Z",
+      "laatstGewijzigd": "2023-03-24T06:45:14.22994798Z",
+      "laatstOntvangen": "2023-03-24T06:45:14.22994798Z",
+      "productnummer": "2784",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/80aabf02-dbcd-4c54-a67b-a9f394302cfe",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/01711d5f-f196-4036-b71b-627da76d7902"
+    },
+    {
+      "id": "2a64c74b-6462-4a99-ad59-8d5c6e7447d1",
+      "generatedAtTime": "2023-03-24T06:45:14.127357Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkingsmiddelen Deeltijds kunstonderwijs"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit is het werkingsbudget voor de schoolbesturen van het deeltijds kunstonderwijs. Deze middelen kunnen de schoolbesturen inzetten voor de werking, uitrusting, groot onderhoud, investeringen en personeel in hun academies.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:14.11056237Z",
+      "laatstGewijzigd": "2023-03-24T06:45:14.11056433Z",
+      "laatstOntvangen": "2023-03-24T06:45:14.11056433Z",
+      "productnummer": "2773",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2a64c74b-6462-4a99-ad59-8d5c6e7447d1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2fba0b00-185c-424b-8e60-be9305118315"
+    },
+    {
+      "id": "fbef1e88-43bb-4433-a0ef-fa2f3de62820",
+      "generatedAtTime": "2023-03-24T06:45:14.010162Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Circusdecreet van 1 maart 2019: Internationale Reistoelage Circuskunsten"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze dienst is actief.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet houdende een circusbeleid van 1 maart 2019</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.993367953Z",
+      "laatstGewijzigd": "2023-03-24T06:45:13.993370161Z",
+      "laatstOntvangen": "2023-03-24T06:45:13.993370161Z",
+      "productnummer": "2556",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fbef1e88-43bb-4433-a0ef-fa2f3de62820",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc9fb27a-ccc9-4cb7-9cb3-5a2eaf4ac6e9"
+    },
+    {
+      "id": "7f3b968f-1f9f-4962-b42b-70c0b078c289",
+      "generatedAtTime": "2023-03-24T06:45:13.894735Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies naar aanleiding van de Oekraïnecrisis op het vlak van inburgering en integratie"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan partners zoals Vluchtelingenwerk Vlaanderen om een alternatief aanbod integratie- en inburgeringsbeleid uit te werken om in te spelen op de actuele en dringendste noden in het kader van de Oekraïnecrisis.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.877810941Z",
+      "laatstGewijzigd": "2023-03-24T06:45:13.877812754Z",
+      "laatstOntvangen": "2023-03-24T06:45:13.877812754Z",
+      "productnummer": "2535",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7f3b968f-1f9f-4962-b42b-70c0b078c289",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6a7a9052-4077-432f-873d-83f103647385"
+    },
+    {
+      "id": "9f500e80-18d4-44de-98a8-c1742589925a",
+      "generatedAtTime": "2023-03-24T06:45:13.791037Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor projectoproepen departement Omgeving binnen het omgevingsbeleid ruimte en milieu"
+      },
+      "beschrijving": {
+        "nl": "<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.774062452Z",
+      "laatstGewijzigd": "2023-03-24T06:45:13.774064595Z",
+      "laatstOntvangen": "2023-03-24T06:45:13.774064595Z",
+      "productnummer": "2506",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9f500e80-18d4-44de-98a8-c1742589925a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/22c190ed-c423-4575-8faa-1549ea34e280"
+    },
+    {
+      "id": "349a962f-7710-453e-a95d-065d148898c2",
+      "generatedAtTime": "2023-03-24T06:45:13.687982Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies ontwikkelingssamenwerking in Vlaanderen"
+      },
+      "beschrijving": {
+        "nl": "<p>Deze subsidies worden aangewend voor acties in Vlaanderen, met als doel de Vlaamse bevolking te betrekken bij de internationale ontwikkelingsagenda. Dit gebeurt via werkingssubsidies aan actoren met een groot publieksbereik.</p><p>Voor verschillende organisaties, die zich inzetten voor ontwikkelingssamenwerking, worden loonsubsidies verleend. Verder wordt er aan vzw VVOB (Vlaamse Vereniging voor Ontwikkelingssamenwerking en technische Bijstand), een nominatim financiering verleend. Vlaanderen zet ook in op inclusieve financiering.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.671125333Z",
+      "laatstGewijzigd": "2023-03-24T06:45:13.67112695Z",
+      "laatstOntvangen": "2023-03-24T06:45:13.67112695Z",
+      "productnummer": "2503",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/349a962f-7710-453e-a95d-065d148898c2",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bc915432-d2d9-4c5e-8e80-eb9b6a41c630"
+    },
+    {
+      "id": "52249b26-835d-49f4-988d-6c8cca15fa9c",
+      "generatedAtTime": "2023-03-24T06:45:13.574027Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies ontwikkelingssamenwerking in het Zuiden"
+      },
+      "beschrijving": {
+        "nl": "<p>De subsidies ontwikkelingssamenwerking in het Zuiden worden toegekend in functie van projecten in de prioritaire partnerlanden (Mozambique, Malawi, Marokko) en de regio zuidelijk Afrika. In Mozambique ligt de focus op gezondheid, in Malawi op landbouw en in Marokko op groene economie.</p><p>Een aantal uitdagingen stoppen niet aan de grenzen van de drie partnerlanden en daarom worden ook initiatieven met regionale reikwijdte van de VN en andere organisaties ondersteund.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.557226596Z",
+      "laatstGewijzigd": "2023-03-24T06:45:13.557228116Z",
+      "laatstOntvangen": "2023-03-24T06:45:13.557228116Z",
+      "productnummer": "2502",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/52249b26-835d-49f4-988d-6c8cca15fa9c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6577af5b-951c-4483-b285-e5bf4996f5ad"
+    },
+    {
+      "id": "ddb4d028-ac53-4240-b86c-caac68ebbf71",
+      "generatedAtTime": "2023-03-24T06:45:13.452553Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies ontwikkelingssamenwerking humanitaire actie"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies ontwikkelingssamenwerking humanitaire actie richten zich op noodsituaties die door natuurrampen of conflicten veroorzaakt worden. Ze omvatten zowel directe hulp als steun aan acties die noodsituaties voorkomen of die de rampenparaatheid van gemeenschappen bevorderen. Een groot aandeel gaat naar structurele humanitaire actie, o.a. het Central Emergency Response Fund.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.435607739Z",
+      "laatstGewijzigd": "2023-03-24T06:45:13.435610268Z",
+      "laatstOntvangen": "2023-03-24T06:45:13.435610268Z",
+      "productnummer": "2501",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ddb4d028-ac53-4240-b86c-caac68ebbf71",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/01d70d3d-cb69-4968-82f4-bee496fb8bda"
+    },
+    {
+      "id": "dc3224ee-dc7b-4462-8fb7-59601a880f00",
+      "generatedAtTime": "2023-03-24T06:45:13.291385Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Compensatie voor gratis energiescans"
+      },
+      "beschrijving": {
+        "nl": "<p>Via een energiescan komen burgers te weten hoe ze thuis energie kunnen besparen. Bepaalde doelgroepen komen in aanmerking voor een gratis scan. Voor het uitvoeren van die gratis scans kunnen energie-experten een compensatie van de Vlaamse overheid krijgen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<div><div><div><div><p>Energiebesluit van 19 november 2010</p></div></div></div></div>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.271099387Z",
+      "laatstGewijzigd": "2023-03-24T06:45:13.271101133Z",
+      "laatstOntvangen": "2023-03-24T06:45:13.271101133Z",
+      "productnummer": "2494",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/dc3224ee-dc7b-4462-8fb7-59601a880f00",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/69200f8b-f0cd-4535-b0f1-e02eb08f16e5"
+    },
+    {
+      "id": "5b7d0899-579c-46db-b034-17f77d99338c",
+      "generatedAtTime": "2023-03-24T06:45:13.160486Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal",
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Vastgoedinformatiedossier"
+      },
+      "beschrijving": {
+        "nl": "<p>Stedenbouwkundige informatie, informatie rond erfdienstbaarheden, ligging in beschermd gebied, ruimtelijke plannen, … die de overheid in aparte databanken bewaart, wordt vanaf 2024 gebundeld in één vastgoedinformatiedossier.</p><p>Via het Vastgoedinformatieplatform kan de aanvrager via één eenvoudige weg de benodigde vastgoedinfo opvragen in het kader van een verkoop of langdurige verhuur. Het platform verzamelt dan alle data uit de beschikbare, aangesloten bronnen. De bevoegde gemeente krijgt via het platform een vraag om het dossier te vervolledigen en te controleren op de kwaliteit, waarna de info wordt afgeleverd aan de aanvrager.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:13.143657765Z",
+      "laatstGewijzigd": "2023-03-24T06:45:13.143659164Z",
+      "laatstOntvangen": "2023-03-24T06:45:13.143659164Z",
+      "productnummer": "2479",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5b7d0899-579c-46db-b034-17f77d99338c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2700f51e-c202-4166-b97e-9b5eeb0bd5b6"
+    }
+  ]
+}

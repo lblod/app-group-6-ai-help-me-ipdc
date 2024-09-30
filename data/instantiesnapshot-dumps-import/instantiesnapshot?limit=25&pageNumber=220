@@ -1,1 +1,1525 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=220","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=221","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-11T11:30:56.296944Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=219","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-11T11:30:53.998568Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=220","@type":"EventStream","member":[{"id":"45a71972-265f-427e-894a-d330aec521c1","generatedAtTime":"2023-05-11T11:30:56.296944Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams","Provinciaal","Lokaal"],"naam":{"nl":"Onteigeningen op Vlaams grondgebied"},"beschrijving":{"nl":"<p>De verschillende overheden in Vlaanderen kunnen gebouwen en gronden onteigenen om redenen van openbaar nut of algemeen belang, bijvoorbeeld om gebouwen op te richten of wegen en rioleringen aan te leggen. De besturen mogen enkel onteigenen voor projecten binnen hun bevoegdheidssfeer.</p>"},"type":"FinancieleVerplichting","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet betreffende onteigening voor het algemeen nut (<a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028180&amp;param=inhoud\">'het Vlaams Onteigeningsdecreet van 24 februari 2017'</a>)</p>"},"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"websites":[{"naam":{"nl":"Onteigening door de overheid"},"url":"https://www.vlaanderen.be/onteigening-door-de-overheid","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:42.9346057Z","laatstGewijzigd":"2023-05-04T12:40:52.430103258Z","laatstOntvangen":"2023-05-04T12:40:52.430103258Z","productnummer":"1996","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/45a71972-265f-427e-894a-d330aec521c1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e4a2b5b5-7bdb-487f-b5f9-37d950a47043"},{"id":"12a93b4f-61de-408b-b10a-37c0b2e7c881","generatedAtTime":"2023-05-11T11:30:56.115271Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Toelating, vergunning of huurovereenkomst voor de organisatie van een evenement op of langs een bevaarbare waterweg"},"beschrijving":{"nl":"<p>Wilt u op openbaar domein een evenement of recreatieve activiteit organiseren<strong> </strong>op of langs een bevaarbare waterweg in het Vlaamse gewest?</p><p>Voor <strong>niet-commerciële evenementen</strong> (waterski, roei- en kajakwedstrijden, triatlon, barbecue, fietstocht met volgwagen, …) moet u een <strong>toelating of vergunning</strong> hebben van De Vlaamse Waterweg nv.<br />Voor <strong>commerciële evenementen</strong> moet er een <strong>huurovereenkomst</strong> afgesloten worden.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"uitzonderingen":{"nl":"<p>Deze activiteiten worden <strong>niet beschouwd als een evenement</strong>:</p><ul><li>activiteit met besloten karakter (trouwfeest, bedrijfsfeest, …)</li><li>foodtruck</li><li>ijskraam</li><li>opname voor film of tv</li><li>tijdelijke plaatsing van kunstvoorwerpen.</li></ul><p>Voor dit soort activiteiten moet u (minimaal 30 dagen op voorhand) een ‘<a href=\"https://www.uat-vlaanderen.be/vergunning-voor-het-privegebruik-van-waterwegen-en-hun-aanhorigheden\">vergunning voor privatief gebruik van openbaar domein</a>’ aanvragen.</p>"},"bevoegdeOverheden":[{"id":"OVO000112","@id":"OVO000112"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De organisator moet altijd <strong>een aanvraag</strong> voor een evenement indienen in geval van <strong>één of meerdere van onderstaande situaties</strong>.</p><ol><li>De organisator wil signalisatie plaatsen. </li><li>De organisator wil de afsluiting van het jaagpad aanvragen. </li><li>De organisator wil een stremming of beperking van het scheepvaartverkeer aanvragen. </li><li>De organisator verwacht hinder voor het scheepvaartverkeer en/of andere waterweggebruikers (zoals trager varen, uiterst stuurboordwal varen, …).</li><li>De organisator wil bijkomende bediening aanvragen van sluizen en/of beweegbare bruggen buiten de reguliere bedieningstijden of regelgeving.<br />(<strong>In principe worden de bruggen en sluizen niet bediend buiten de reguliere bedieningsuren of regelgeving</strong>. Op VisuRIS vindt u de <a href=\"https://www.visuris.be/kunstwerken\">bedieningsuren van alle beweegbare bruggen en sluizen</a>. In uitzonderlijke gevallen kan het echter wenselijk zijn om bediening buiten de reguliere bedieningsuren of regelgeving van een sluis of beweegbare brug aan te vragen.)</li><li>De organisator wil het gebruik van het terrein (grond) van De Vlaamse Waterweg nv aanvragen.</li><li>Er wordt een wedstrijd georganiseerd. </li></ol><p>Als een activiteit wordt gepland met <strong>door spierkracht voortbewogen kleine schepen (kano, kajak, roeiboten, SUP)</strong> wordt de bovenstaande lijst uitgebreid met 2 bijkomende situaties:</p><ol start=\"8\" type=\"1\"><li>de organisator wil de activiteit laten plaatsvinden op locaties waar binnen de geldende regels niet met ‘met spierkracht voorbewogen schepen’ gevaren mag worden, zoals bijvoorbeeld op de Beneden-Zeeschelde en in snelvaartvakken (zie <a href=\"https://www.visuris.be/kano\">Waar mag je kanovaren, kajakken, roeien of suppen?</a>)</li><li>de organisator verwacht meer dan 20 deelnemende vaartuigen (met uitzondering van reguliere trainingen in eigen club). </li></ol><p>Ten slotte moet elke activiteit die <strong>zwemmen</strong> omvat, aangevraagd worden, aangezien zwemmen in de regel verboden is.<br />Bij ‘Uitzonderingen’ hieronder staat opgelijst welke activiteiten niet als een ‘evenement’ worden beschouwd.</p><ul><li>Indien u voor de organisatie van het evenement ook een toelating voor het rijden op het jaagpad wilt aanvragen, dan kunt u dit meteen doen bij de aanvraag voor het evenement. U hoeft daarvoor dus geen aparte jaagpadtoelating aan te vragen. De jaagpadtoelatingen in het kader van een evenement worden tot een uiterst minimum beperkt.</li><li>Als het een <strong>niet-commercieel evenement</strong> betreft, kan een<strong> toelating of vergunning</strong> verkregen worden, waarvoor geen retributie betaald moet worden. Aan een toelating of vergunning worden wel altijd een aantal algemene en specifieke voorwaarden verbonden. De<strong> algemene voorwaarden</strong> van een vergunning staan in het in het <a href=\"https://www.vlaamsewaterweg.be/sites/default/files/retributiebesluit_algemene_voorwaarden.pdf\">Retributiebesluit (art. 5-15)</a>. In de vergunning worden, indien nodig, ook de nodige <strong>specifieke voorwaarden</strong> opgenomen.</li><li>Als het een <strong>commercieel evenement</strong> betreft, kan een <strong>huurovereenkomst</strong> tussen de aanvrager en De Vlaamse Waterweg nv worden opgemaakt, waarin de voorwaarden worden opgenomen. Voor de tarieven, zie ‘Bedrag’.<ul></ul></li></ul><h3>Wat wordt verstaan onder ‘commercieel evenement’?</h3><p>Een evenement wordt als commercieel aanzien wanneer (niet cumulatief):</p><ul><li>inkom of deelnamevergoeding wordt gevraagd</li><li>drank, voeding of goederen worden verkocht</li></ul><p>tenzij in het geval van een:</p><ul><li><strong>benefietactie</strong> waarbij de winst van het evenement integraal aan een goed doel wordt geschonken</li><li>evenement waarbij kan worden aangetoond dat de <strong>inkomsten</strong> uit eventuele verkoop of toegangsgeld <strong>volledig</strong> worden <strong>aangewend</strong><ul><li><strong>voor de organisatie van het evenement</strong> zelf</li><li>en/of <strong>voor de dagelijkse werking van een sportieve of culturele vereniging</strong>.</li></ul></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Dien uw aanvraag online in via het <a href=\"https://e-loket.vlaamsewaterweg.be/aanvraag-evenement\">e-loket van De Vlaamse Waterweg nv</a>.</li><li>Doe de aanvraag het minimaal <strong>3 maanden vóór het evenement</strong>.</li><li>De Vlaamse Waterweg nv zal elke aanvraag onderzoeken en indien mogelijk<ul><li>voor een niet-commercieel evenement een <strong>toelating of vergunning </strong>afleveren</li><li>voor een commercieel evenement een <strong>huurovereenkomst </strong>opmaken.</li></ul></li></ul>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Evenement (recreatieve activiteiten) op of langs een waterweg (De Vlaamse Waterweg nv)"},"url":"https://www.vlaamsewaterweg.be/evenement-recreatieve-activiteiten%C2%A0op-langs-een-waterweg","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<ul><li>Als De Vlaamse Waterweg nv oordeelt dat het een <strong>niet-commercieel evenement</strong> betreft, kan een toelating of vergunning verkregen worden, die <strong>vrijgesteld</strong> is van retributies.</li><li>Als De Vlaamse Waterweg nv oordeelt dat het een <strong>commercieel evenement</strong> betreft, kan een huurovereenkomst afgesloten worden, waarbij volgende <strong>tarieven </strong>van toepassing zijn:<div data-table=\"\"><table data-table-type=\"lines\"><thead><tr><th>2022</th><th>minimumtarief per dag<br />(tot 1000 m<sup>2</sup>)</th><th>per bijkomende m<sup>2</sup>/dag<br />(vanaf 1001 m<sup>2</sup>)</th></tr></thead><tbody><tr><th>Evenement op het water</th><td>471 euro</td><td>0,262 euro</td></tr><tr><th>Evenement langs het water</th><td>235 euro</td><td>0,131 euro</td></tr></tbody></table></div><ul><li>De vermelde tarieven worden jaarlijks geïndexeerd.</li><li>Op de website van de Vlaamse Waterweg nv vindt u meer informatie over de (gedeeltelijke) doorrekening voor de dagen van op- en afbouw.</li></ul></li></ul>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:40:33.795142413Z","laatstGewijzigd":"2023-05-05T17:40:05.343006544Z","laatstOntvangen":"2023-05-05T17:40:05.343006544Z","productnummer":"1997","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/12a93b4f-61de-408b-b10a-37c0b2e7c881","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/df24f4e2-f52a-47c4-bb51-33f4c1d56a53"},{"id":"15c54fd1-d747-4075-acf4-19dc4029c221","generatedAtTime":"2023-05-11T11:30:56.031833Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Jaagpadtoelating voor motorvoertuig(en)"},"beschrijving":{"nl":"<p>Wilt u met één of meerdere motorvoertuigen op een jaagpad rijden dat beheerd wordt door De Vlaamse Waterweg nv? Dan kunt u daarvoor een toelating aanvragen.</p>"},"type":"Toelating","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Raad van Bestuur van De Vlaamse Waterweg nv betreffende de tarifering van jaagpadtoelatingen van 18/10/2018</p>"},"bevoegdeOverheden":[{"id":"OVO000112","@id":"OVO000112"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li>Hebt u een jaagpadtoelating nodig voor een <strong>evenement</strong> op of langs de waterweg? Dan wordt de jaagpadtoelating geregeld via de <a href=\"https://www.uat-vlaanderen.be/toelating-vergunning-of-huurovereenkomst-voor-de-organisatie-van-een-evenement-op-of-langs-een-bevaarbare-waterweg\">aanvraag voor het evenement op of langs de waterweg</a>. U hoeft deze jaagpadtoelating dan niet apart aan te vragen.</li><li><strong>Personen met een handicap</strong> kunnen voor het beoefenen van de hengelsport een jaagpadtoelating aanvragen voor maximaal 2 trajecten van maximaal 2,5 km in beide richtingen vanaf een kruising van een jaagpad met een openbare weg. Hiervoor moet men bij de aanvraag een parkeerkaart voor personen met een handicap of een bewijs van invaliditeit waarmee de voorwaarden voor het verkrijgen van een parkeerkaart voor personen met een handicap kunnen worden aangetoond, voorleggen.</li><li>De <strong>termijn</strong> van de toelating en het <strong>tarief</strong> hangen af van de <a href=\"https://www.vlaamsewaterweg.be/jaagpadtoelatingen\">categorie van de gebruiker</a>.</li><li>Een jaagpadtoelating kan worden aangevraagd<ul><li>voor een <strong>bepaald traject</strong></li><li>of <a href=\"https://www.vlaamsewaterweg.be/jaagpadtoelatingen\">voor bepaalde doelgroepen en onder bepaalde voorwaarden</a> voor <strong>alle jaagpaden</strong> binnen het hele ambtsgebied van De Vlaamse Waterweg nv.</li></ul></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Dien uw aanvraag minimaal <strong>1 maand op voorhand</strong> in.</li><li>U moet de jaagpadtoelating online aanvragen via het <a href=\"https://e-loket.vlaamsewaterweg.be/jaagpadtoelating\">e-loket van De Vlaamse Waterweg nv</a>.</li><li>De Vlaamse Waterweg nv beslist bij een aanvraag voor een toelating autonoom of een toelating kan worden gegeven.</li></ul>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Jaagpadtoelatingen (De Vlaamse Waterweg nv)"},"url":"https://www.vlaamsewaterweg.be/jaagpadtoelatingen","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>In een aantal gevallen moet u voor de jaagpadtoelating een <strong>vergoeding</strong> betalen. Die vergoeding is afhankelijk van de categorie van de gebruiker en de termijn. Zie hiervoor de <a href=\"https://www.vlaamsewaterweg.be/jaagpadtoelatingen\">overzichtstabel met termijn en tarief per categorie</a>.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:40:40.357561629Z","laatstGewijzigd":"2023-05-05T17:45:07.105800911Z","laatstOntvangen":"2023-05-05T17:45:07.105800911Z","productnummer":"1998","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/15c54fd1-d747-4075-acf4-19dc4029c221","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/1743585d-b88b-4f81-8d78-f1a2df53fff3"},{"id":"7b5def74-629a-495a-bb51-5860901d183f","generatedAtTime":"2023-05-11T11:30:56.031598Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Bijkomende retroactieve investeringspremie voor eigenaars van een warmtepomp én zonnepanelen na afschaffing van terugdraaiende teller"},"beschrijving":{"nl":"<p>Wie aan de voorwaarden voldoet en al over een digitale meter beschikt, kan de retroactieve premie voor eigenaars van een warmtepomp én zonnepanelen aanvragen via het online loket van Fluvius.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering tot wijziging van het Energiebesluit van 19 november 2010, wat betreft het invoeren van een retroactieve investeringspremie voor andere decentrale productie-installaties dan fotovoltaïsche zonnepanelen waarvoor de virtuele terugdraaiende teller wegvalt en wat betreft het invoeren van een retroactieve investeringspremie voor de plaatsing van een warmtepomp in dienst genomen voor 1 januari 2021 in combinatie met fotovoltaïsche zonnepanelen</p>"},"uitzonderingen":{"nl":"<p>Komen niet in aanmerking voor deze bijkomende retroactieve investeringspremie:</p><ul><li>warmtepomp die specifiek dient voor warmwaterproductie</li><li>warmtepompboiler</li><li>warmtepomp voor zwembadverwarming</li><li>warmtepomp die louter voor koeling instaat (en dus niet dient voor de ruimteverwarming).</li></ul>"},"zoektermen":{"nl":["compensatieteller","tellercompensatie","retro-actieve compensatie","compensatieregeling","RAI"]},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li><p>De hoogte van deze bijkomende retroactieve investeringspremie bedraagt <strong>1163 euro</strong>.</p></li><li><p>De retroactieve investeringspremie voor warmtepompen komt toe aan wie op 1 oktober 2021 (namelijk de datum van de inwerkingtreding van het besluit van de Vlaamse Regering) de eigenaar is van de warmtepomp (dus van het gebouw dat de warmtepomp van verwarming voorziet).</p></li></ul><p>Volgende voorwaarden zijn van toepassing voor de retroactieve investeringspremie warmtepomp:</p><ul><li>U bent eigenaar van een elektrische warmtepomp <strong>als enige gebouwverwarming in combinatie met zonnepanelen</strong> met een omvormersvermogen van maximaal 10 kVA.</li><li>De installatie moet over een <strong>digitale meter </strong>beschikken of een andere meter die de injectie en afname afzonderlijk kan meten.</li><li>De warmtepomp moet <strong>in dienst zijn genomen in de periode van 1 januari 2006 tot en met 28 februari 2021</strong>. Op hetzelfde EAN-nummer moeten in de periode van 1 januari 2006 tot en met 31 december 2020 fotovoltaïsche zonnepanelen zijn geplaatst van maximaal 10 kVA. </li><li>U moet uw premieaanvraag <strong>online indienen bij Fluvius</strong> uiterlijk <strong>6 maanden na de plaatsing</strong> van de digitale meter.<br />Als uw digitale meter geplaatst werd vóór of op 1 oktober 2021, dan moest uw aanvraag uiterlijk op 31 maart 2022 ingediend zijn.</li><li>De omvormer van de zonnepaneleninstallatie is in staat elektriciteit te injecteren op het elektriciteitsdistributienet en heeft dat gedurende de 12 maanden nog gedaan.</li><li>De warmtepomp werkt op <strong>elektriciteit</strong>.</li><li>De warmtepomp dient als <strong>hoofdverwarming </strong>van de gebouweenheid (woning, kantoor,…). Zie ook: ‘<a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-een-warmtepomp-en-zonnepanelen/een-warmtepomp-als-hoofdverwarming-wat-betekent-dat\">Een warmtepomp als hoofdverwarming, wat betekent dat?</a>’</li><li>De eigenaar van de warmtepomp moet een of meerdere officiële <strong>bewijsstukken </strong>kunnen voorleggen die de datum van indienstname en de plaatsing van de warmtepomp staven (zoals een eindfactuur of een keuringsverslag, foto’s gelden niet als stavingstukken). Voor het overzicht van alle bewijsstukken, zie hieronder bij ‘Procedure’.</li><li>De warmtepomp blijft minstens 5 jaar in dienst na het verkrijgen van de premie.</li><li>Per <strong>EAN-nummer</strong> komt slechts <strong>1 warmtepomp in aanmerking</strong> voor de retroactieve investeringspremie van <strong>1.163 euro</strong>.</li></ul><p><a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-een-warmtepomp-en-zonnepanelen/aan-welke-voorwaarden-moeten-de-installatie-en-de-aanvraag-voldoen-voor-de-retroactieve\">Meer informatie over de voorwaarden van deze bijkomende retroactieve investeringspremie</a>.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Eigenaars die aan de voorwaarden voldoen kunnen hun <a href=\"https://www.fluvius.be/nl/thema/premies/retroactieve-investeringspremies/warmtepomp\">retroactieve investeringspremie warmtepomp online aanvragen<strong> </strong>bij Fluvius.</a></li><li>De aanvraag van deze bijkomende premie staat los van de aanvraag van de retroactieve investeringspremie voor de zonnepanelen en moet dus apart aangevraagd worden. Let hierbij goed op de aanvraagtermijnen.</li><li>Uiterlijke aanvraagdatum<ul><li>Als uw digitale meter geplaatst werd vóór of op 1 oktober 2021, dan moest uw aanvraag uiterlijk op 31 maart 2022 ingediend zijn.</li><li>Eigenaars van warmtepompen die nog over een klassieke Ferrarismeter beschikken, kunnen tot 6 maanden na de plaatsing van de digitale meter een aanvraag indienen en dat <strong>uiterlijk op 31 december 2025.</strong></li></ul></li><li><p>Uw aanvraag moet volgende informatie bevatten:</p><ul><li>de unieke identificatie, het rijksregisternummer, BIS-nummer of ondernemingsnummer, en de contactgegevens van de aanvrager van de retroactieve investeringspremie</li><li>het rekeningnummer waarop de retroactieve investeringspremie wordt uitbetaald</li><li>de identificatie van de warmtepomp aan de hand van het EAN-nummer van het toegangspunt (gekend bij Fluvius)</li><li>de datum van de plaatsing van de digitale meter (gekend bij Fluvius)</li><li>bewijsstuk(ken) die de plaatsing van de warmtepomp (met adres, merk, type) en de datum van indienstname staven, in ieder geval <strong>één of meerdere</strong> van de onderstaande <strong>bewijsstukken</strong>:<ul><li>eindfactuur van de plaatsing van de warmtepomp</li><li>keuringsattest van de warmtepomp</li><li>de EPB-aangifte</li><li>goedkeuring van de REG-premie-aanvraag van de warmtepomp, bij de netbeheerder</li><li>bewijs van belastingvermindering voor de warmtepomp</li><li>certificaat van grondboring bij een geothermische warmtepomp</li><li>de melding, of de aanvraag van de omgevingsvergunning of stedenbouwkundige vergunning voor het plaatsen van een warmtepomp.</li></ul></li></ul></li><li>Aanvraag ingediend?<ul><li>Fluvius bekijkt of uw dossier voldoet aan de voorwaarden.</li><li>Fluvius behandelt uw dossier binnen de 15 weken. Fluvius laat u per e-mail weten of uw dossier wordt goedgekeurd of afgekeurd (met vermelding van reden).</li></ul></li><li>Op Energiesparen.be:<ul><li>staat <a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-een-warmtepomp-en-zonnepanelen/wanneer-waar-en-hoe-kan-ik-de-retroactieve-investeringspremie-aanvragen\">meer informatie over de procedure van deze bijkomende retroactieve investeringspremie</a></li><li>kunt u zich <a href=\"https://energiesparen.be/retroactieve-investeringspremie\">inschrijven op de nieuwsberichten over de retroactieve investeringspremie(s)</a>. Op die manier wordt u per e-mail op de hoogte gehouden.</li></ul></li></ul>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Retroactieve investeringspremie voor warmtepomp (op Fluvius.be)"},"url":"https://www.fluvius.be/nl/thema/premies/retroactieve-investeringspremies/warmtepomp","@type":"Website","order":0},{"naam":{"nl":"Bijkomende retroactieve investeringspremie voor eigenaars van warmtepomp en zonnepanelen (Energiesparen.be)"},"url":"https://www.energiesparen.be/retroactieve-investeringspremie/faq/rubriek-ik-heb-een-warmtepomp-en-zonnepanelen","@type":"Website","order":1}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Deze eenmalige premie bedraagt <strong>1.163 euro</strong> en komt bovenop de <a href=\"https://www.uat-vlaanderen.be/retroactieve-investeringspremie-voor-eigenaars-van-zonnepanelen-na-afschaffing-van-terugdraaiende-teller\">retroactieve investeringspremie voor de zonnepanelen</a>. </p><p>De aanvraag van deze bijkomende premie staat los van de aanvraag van de retroactieve investeringspremie voor de zonnepanelen en moet dus apart aangevraagd worden.<strong> </strong>Let hierbij goed op de aanvraagtermijnen.</p><p><a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-een-warmtepomp-en-zonnepanelen/welke-retroactieve-investeringspremie-mag-ik-verwachten\">Meer details over het bedrag van deze bijkomende retroactieve investeringspremie</a>.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:40.692677749Z","laatstGewijzigd":"2023-05-05T17:45:08.15981337Z","laatstOntvangen":"2023-05-05T17:45:08.15981337Z","productnummer":"1999","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7b5def74-629a-495a-bb51-5860901d183f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f39549f4-a250-42a6-91a7-f5fefdc73d42"},{"id":"46a829c5-9131-460d-983b-c5c26459627d","generatedAtTime":"2023-05-11T11:30:55.867454Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Retroactieve investeringspremie voor eigenaars van een microwarmte-krachtkoppeling of kleine windmolen na afschaffing van terugdraaiende teller"},"beschrijving":{"nl":"<p>Wie aan de voorwaarden voldoet en al over een digitale meter beschikt, kan de retroactieve premie voor microwarmte-krachtkoppeling of een kleine windmolen aanvragen via het onlineloket van Fluvius.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<div><div><p>Besluit van de Vlaamse Regering tot wijziging van het Energiebesluit van 19 november 2010, wat betreft het invoeren van een retroactieve investeringspremie voor andere decentrale productie-installaties dan fotovoltaïsche zonnepanelen waarvoor de virtuele terugdraaiende teller wegvalt en wat betreft het invoeren van een retroactieve investeringspremie voor de plaatsing van een warmtepomp in dienst genomen voor 1 januari 2021 in combinatie met fotovoltaïsche zonnepanelen</p></div></div>"},"zoektermen":{"nl":["compensatieteller","tellercompensatie","retro-actieve","compensatie","compensatieregeling","RAI","microwarmtekrachtkoppeling"]},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Om in aanmerking te komen voor deze eenmalige retroactieve investeringspremie, moeten uw installatie en uw aanvraag aan álle onderstaande voorwaarden voldoen.</p><ul><li>Uw installatie heeft een vermogen van <strong>maximaal 10 kVA</strong> en is <strong>in dienst genomen in de periode van 1 januari 2006 tot en met 31 december 2020</strong>.</li><li>Uw installatie is aangesloten op het distributienet en de installatie is in staat elektriciteit te injecteren op het elektriciteitsdistributienet en heeft dat gedurende de laatste 12 maanden nog gedaan.</li><li>U had op <strong>14 januari 2021</strong> de voordelen van de <strong>terugdraaiende teller</strong>: de zonnepaneleninstallatie kon stroom op het net zetten en de meter kon terugdraaien. (14-1-2021 is het moment van de uitspraak van het arrest van het Grondwettelijk Hof).</li><li>Uw installatie is <strong>uiterlijk op 1 december 2021 aangemeld</strong> bij de netbeheerder (Fluvius).</li><li>Er is een digitale meter geplaatst of een andere meter die de injectie en afname afzonderlijk kan meten.</li><li>U moet uw premieaanvraag <strong>online indienen bij Fluvius</strong> uiterlijk <strong>6 maanden na de plaatsing</strong> van de digitale meter.<br />Als uw digitale meter geplaatst werd vóór of op 1 oktober 2021, dan moest uw aanvraag uiterlijk op 31 maart 2022 ingediend zijn.</li><li>De eigenaar of gebruiker van de installatie heeft de netbeheerder (Fluvius) vanaf 1 januari 2025 voor de plaatsing van de digitale meter niet de toegang geweigerd tot de ruimte waar de elektriciteits- of aardgasmeter staat.</li><li>Wie een microwarmte-krachtkoppeling of kleine windmolen heeft geplaatst vóór 2021 en tussen 1 oktober 2021 en 31 december 2023 <strong>zelf een digitale meter aanvraagt</strong>, heeft recht op een <strong>bonus van 100 euro</strong>, bovenop de retroactieve investeringspremie voor microwarmte-krachtkoppeling of kleine windmolen (zie ook bij ‘Bedrag’ hieronder). U hoeft daarvoor niets extra te doen.</li><li>Er mag geen rechtsvordering ten aanzien van het Vlaamse Gewest tot vergoeding van enige schade zijn ingediend.</li><li>De micro-wkk of kleine windmolen blijft minstens 5 jaar in dienst na het verkrijgen van de premie.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Eigenaars die aan de voorwaarden voldoen kunnen <a href=\"https://www.fluvius.be/nl/thema/premies/retroactieve-investeringspremies/andere-hernieuwbare-energie\">deze retroactieve investeringspremie online aanvragen<strong> </strong>bij Fluvius</a>.</li><li>De aanvraag van deze bijkomende premie staat los van de aanvraag van de retroactieve investeringspremie voor de zonnepanelen en moet dus apart aangevraagd worden. Let hierbij goed op de aanvraagtermijnen.</li><li>Uiterlijke aanvraagdatum<ul><li>Als uw digitale meter geplaatst werd vóór of op 1 oktober 2021, dan moest uw aanvraag uiterlijk op 31 maart 2022 ingediend zijn.</li><li>Eigenaars van een micro-wkk of kleine windmolen die nog over een klassieke Ferrarismeter beschikken, kunnen <strong>tot 6 maanden na de plaatsing van de digitale meter</strong> een aanvraag indienen en dat <strong>uiterlijk op 31 december 2025.</strong><ul></ul></li></ul></li><li>Uw aanvraag moet volgende informatie bevatten:<ul><li>de unieke identificatie, het rijksregisternummer, BIS-nummer of ondernemingsnummer, en de contactgegevens van de aanvrager van de retroactieve investeringspremie</li><li>het rekeningnummer waarop de retroactieve investeringspremie wordt uitbetaald</li><li>de identificatie van de decentrale productie-installatie aan de hand van het EAN-nummer van het toegangspunt (gekend bij Fluvius)</li><li>de datum van indienstneming van de decentrale productie-installatie</li><li>het geïnstalleerd vermogen van de decentrale productie-installatie uitgedrukt in kWe</li><li>de datum van de plaatsing van de digitale meter (gekend bij Fluvius)</li><li>de technologie van de decentrale productie-installatie.</li></ul></li><li>Aanvraag ingediend?<ul><li>Fluvius bekijkt of uw dossier voldoet aan de voorwaarden.</li><li>Fluvius behandelt uw dossier binnen de 15 weken. Fluvius laat u per e-mail weten of uw dossier wordt goedgekeurd of afgekeurd (met vermelding van reden).</li></ul></li></ul><p>Op Energiesparen.be:</p><ul><li>staat <a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-microwarmte-krachtkoppeling-of-een-kleine-windmolen/wanneer-waar-en-hoe-kan-ik-de-retroactieve-investeringspremie-aanvragen\">meer informatie over de procedure van deze retroactieve investeringspremie</a></li><li>kunt u zich <a href=\"https://energiesparen.be/retroactieve-investeringspremie\">inschrijven op de nieuwsberichten over de retroactieve investeringspremie(s)</a>. Op die manier wordt u per e-mail op de hoogte gehouden.</li></ul>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Retroactieve investeringspremie voor micro-wwk of kleine windmolen (op Fluvius.be)"},"url":"https://www.fluvius.be/nl/thema/premies/retroactieve-investeringspremies/andere-hernieuwbare-energie","@type":"Website","order":0},{"naam":{"nl":"Retroactieve investeringspremie voor eigenaars van een micro-wkk of kleine windmolen (Energiesparen.be)"},"url":"https://www.energiesparen.be/retroactieve-investeringspremie/faq/bedrag-voor-micro-wwk-en-kleine-windmolen","@type":"Website","order":1}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het bedrag van deze eenmalige premie voor uw individuele installatie hangt af van</p><ul><li>het jaar van indienstname van de installatie (periode 2006-2020)</li><li>het jaar van de plaatsing van de digitale meter</li><li>en het nominaal elektrisch vermogen.</li></ul><p>De premie kan oplopen</p><ul><li>tot 2.015 euro per kilowatt (kW) voor microwarmte-krachtinstallaties op basis van biogas</li><li>tot 2.400 euro per kilowatt (kW) voor microwarmte-krachtinstallaties<strong> </strong>op basis van andere brandstoffen</li><li>tot 5.982 euro per kW voor brandstofcellen of stirlingmotoren</li><li>en tot 7.175 euro per kW voor kleine windturbines.</li></ul><p>Op Energiesparen.be vindt u <a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-microwarmte-krachtkoppeling-of-een-kleine-windmolen/welke-retroactieve-investeringspremie-mag-ik-verwachten\">meer informatie over het premiebedrag en tabellen met de mogelijke premiebedragen</a>.</p><h3>Bonus</h3><p>Wie een microwarmte-krachtkoppeling of kleine windmolen heeft geplaatst vóór 2021 en tussen 1 oktober 2021 en 31 december 2023 <strong>zelf een digitale meter aanvraagt</strong>, heeft recht op een <strong>bonus van 100 euro</strong>, bovenop de retroactieve investeringspremie voor microwarmte-krachtkoppeling of kleine windmolen. U hoeft daarvoor niets te doen. In de aanvraagmodule van Fluvius voor de retroactieve investeringspremie voor zonnepanelen, houdt Fluvius rekening met uw aanvraag van de digitale meter. In de e-mail waarin Fluvius aangeeft dat ze uw dossier goedkeuren, zal u het bedrag voor de bonus apart zien staan.</p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:41.008816916Z","laatstGewijzigd":"2023-05-05T17:45:08.552714599Z","laatstOntvangen":"2023-05-05T17:45:08.552714599Z","productnummer":"2000","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/46a829c5-9131-460d-983b-c5c26459627d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ca03b364-d80f-43f7-8e85-f96f2dd419b0"},{"id":"651a0611-da40-4fff-9c70-e56a866de21e","generatedAtTime":"2023-05-11T11:30:55.826277Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Premie voor sturingsapparaat voor elektrische warmte in gebouwen"},"beschrijving":{"nl":"<p>Dankzij de komst van de digitale meter, kan men zowel in woongebouwen als niet-woongebouwen op een efficiënte manier het warmte- en elektriciteitsverbruik regelen. Via een automatische <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/groene-energie/elektriciteitsgebruik-slim-sturen-met-een-energiemanagementsysteem\">slimme sturing</a> van uw elektrische accumulatieverwarming, elektrische boiler, warmtepomp of warmtepompboiler, kunt u aanzienlijk besparen op uw elektriciteitskosten. Wie investeert in een zo’n sturingsapparaat, kan hiervoor een premie krijgen via netbeheerder Fluvius. </p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<div><div><p>Energiebesluit van 19 november 2010</p></div></div>"},"zoektermen":{"nl":["sturing","elektrische apparaten","stuurapparaat","sturingssysteem","sturingapparaat","sturingsysteem"]},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<ul><li><p>Deze premie is bedoeld voor bestaande of nieuwe</p><ul><li><p><strong>woningen, appartementen, en appartementsgebouwen</strong></p></li><li><p><strong>niet-woongebouwen.</strong> </p></li></ul></li><li><p>De investeerder in het sturingsapparaat of geheel van sturingsapparaten kan de premie aanvragen.</p></li><li><p>De datum van de <strong>eindfactuur </strong>ligt tussen <strong>1-1-2022 en 31-12-2023</strong>. Het jaartal van de eindfactuur bepaalt de premievoorwaarden die van toepassing zijn. </p></li><li>Enkel facturen die maximaal 2 jaar oud zijn op het ogenblik van de premieaanvraag komen in aanmerking.</li><li>De premie kan <strong>per EAN-code slechts 1 keer</strong> worden aangevraagd.</li><li><p>Bekijk <strong>alle voorwaarden en technische eisen</strong> op het</p><ul><li><p><a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/sturing-elektrische-warmte\">informatieblad Fluvius sturingspremie voor woongebouwen </a></p></li><li><p><a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-bedrijven/sturing-elektrische-warmte\">informatieblad Fluvius sturingspremie voor niet-woongebouwen</a>. </p></li></ul></li></ul><p>Hieronder worden enkel de belangrijkste voorwaarden en technische eisen opgesomd.</p><ul><li>Het <strong>sturingsapparaat </strong>of geheel van de sturingsapparaten moet controlesignalen sturen naar de <strong>accumulatieverwarming</strong>, <strong>elektrische boiler</strong>, <strong>warmtepompboiler</strong> of <strong>warmtepomp </strong>waarbij het opgenomen elektrisch vermogen van de accumulatieverwarming, elektrische boiler, warmtepompboiler of warmtepomp wijzigt. Dit controlesignaal kan, mits het in acht nemen van mogelijke veiligheidsbeperkingen van het te besturen toestel, minstens elk van de volgende wijzigingen van het opgenomen elektrisch vermogen van de accumulatieverwarming, elektrische boiler, warmtepompboiler of warmtepomp bewerkstelligen: <ul><li><p>gedwongen het afgenomen elektrisch vermogen verlagen of gedwongen uitschakelen</p></li><li><p>gedwongen het afgenomen elektrisch vermogen verhogen of gedwongen in werking treden.</p></li></ul></li><li>Het <strong>sturingsapparaat of geheel van apparaten meet het energieverbruik </strong>van de accumulatieverwarming, elektrische boiler, warmtepompboiler of warmtepomp op regelmatige tijdsintervallen die korter dan of gelijk zijn aan 5 minuten.</li><li>Het sturingsapparaat of geheel van apparaten <strong>bevat minstens een van de volgende functionaliteiten</strong> en gebruikt de daaruit voortkomende informatie actief bij de sturing: <ul><li>communicatie met PV-omvormer of een afzonderlijke meting van de decentrale elektriciteitsproductie-installatie op regelmatige tijdsintervallen die korter dan of gelijk zijn aan 5 minuten</li><li>communicatie met een gebruikerspoort van digitale meter</li><li>meting van het totaalverbruik op regelmatige tijdsintervallen die korter dan of gelijk zijn aan 5 minuten</li><li>internetconnectiviteit</li><li>draadloze langeafstandcommunicatie.</li></ul></li><li>Het sturingsapparaat of geheel van apparaten wordt <strong>geplaatst door een aannemer</strong>.</li><li>Als accumulatieverwarming wordt beschouwd: een elektrisch verwarmingstoestel voor ruimteverwarming dat voorzien is van warmteopslag in keramisch materiaal.</li><li>De <strong>aankoop-, installatie-, of onderhoudskosten voor een accumulatieverwarming, elektrische boiler, warmtepompboiler of warmtepomp komen niet in aanmerking </strong>voor deze premie.</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<ul><li>Om de aanvraag in te dienen, hebt u een <strong>attest van de aannemer</strong> nodig.</li><li>U vraagt de premie aan <strong>na de werken</strong></li><li>Op de website van Fluvius vindt u het<ul><li><a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/sturing-elektrische-warmte\">attest en online-aanvraagformulier voor woongebouwen</a></li><li><a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-bedrijven/sturing-elektrische-warmte\">attest en online-aanvraagformulier voor niet-woongebouwen</a>.</li></ul></li></ul>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Het premiebedrag is <strong>50% van het factuurbedrag</strong> voor het sturingsapparaat, met een <strong>maximum van 400 euro</strong>. </p><p>Deze premie maakt deel uit van het Nationale Plan voor Herstel en Veerkracht en wordt (deels) gefinancierd door de Europese Unie (NextGenerationEU). </p>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:40:43.371441734Z","laatstGewijzigd":"2023-05-05T17:45:11.754230738Z","laatstOntvangen":"2023-05-05T17:45:11.754230738Z","productnummer":"2114","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/651a0611-da40-4fff-9c70-e56a866de21e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/8dc01ec9-5358-45ed-90f3-39fac1a5aa86"},{"id":"26b241bd-3e93-4b28-8fd2-82f69badcf86","generatedAtTime":"2023-05-11T11:30:55.717997Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Natuurinspectie"},"beschrijving":{"nl":"<p>Veel natuur in Vlaanderen is wettelijk beschermd. Natuurinspecteurs van de Vlaamse overheid controleren of iedereen de milieubeheerregelgeving respecteert, de regelgeving over bos, natuur, jacht, visserij en beschermde soorten. Om milieumisdrijven en milieu-inbreuken op te sporen hebben ze bepaalde bevoegdheden en kunnen ze sancties opleggen.</p>"},"themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"websites":[{"naam":{"nl":"ANB - Natuurinspectie - Regio's"},"url":"https://natuurenbos.vlaanderen.be/natuurinspectie/waar-kan-ik-een-overtreding-melden","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:45.34298643Z","laatstGewijzigd":"2023-05-05T17:50:08.875268261Z","laatstOntvangen":"2023-05-05T17:50:08.875268261Z","productnummer":"2116","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/26b241bd-3e93-4b28-8fd2-82f69badcf86","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cefb4455-174d-498e-8a0f-8a732c87e0c2"},{"id":"0e0b4a01-02db-4df4-b5c2-a8207f3b020b","generatedAtTime":"2023-05-11T11:30:55.588439Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor Dynamoprojecten"},"beschrijving":{"nl":"<p>Met dynamoPROJECT stimuleren we scholen om een creatieve samenwerking aan te gaan met externe culturele partners. Leerlingen en leerkrachten doorlopen samen met minimum één externe culturele partner een samenhangend en creatief traject dat gekoppeld is aan het lesgebeuren en gericht is op een duurzame verankering van cultuureducatie.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 25 april 2014 betreffende het onderwijs XXIV, artikel X.1 die werd vervangen door de gecodificeerde decreten sommige bepalingen voor het onderwijs van 28 oktober 2016, art. IV. 33</p><p>BVR van 20/06/2014 betreffende de nadere voorwaarden en procedure om subsidies toe te kennen voor projecten die cultuureducatie van onderwijsinstellingen stimuleren</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-03-24T06:40:48.948035593Z","laatstGewijzigd":"2023-05-05T17:50:31.415655494Z","laatstOntvangen":"2023-05-05T17:50:31.415655494Z","productnummer":"2214","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0e0b4a01-02db-4df4-b5c2-a8207f3b020b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2a88a7f9-16ad-4a23-b434-be9b4a30ae16"},{"id":"e75a1637-fd42-4a74-a8ca-9c19c8212259","generatedAtTime":"2023-05-11T11:30:55.527469Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Publieke laadpaal aanvragen - Paal volgt wagen"},"beschrijving":{"nl":"<p>Iedereen die <strong>niet over een private parkeerplaats (garage of oprit) beschikt</strong> en dus zelf geen laadpunt kan installeren, kan een publiek toegankelijk laadpunt aanvragen op <strong>maximaal 250 meter wandelafstand van de woonst/werkplaats</strong> (‘Paal volgt wagen’).</p>"},"type":"Voorwerp","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000096","@id":"OVO000096"}],"websites":[{"naam":{"nl":"Publieke laadpaal aanvragen"},"url":"https://www.vlaanderen.be/publieke-laadpaal-aanvragen","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:47.623794376Z","laatstGewijzigd":"2023-05-05T17:50:16.320861393Z","laatstOntvangen":"2023-05-05T17:50:16.320861393Z","productnummer":"2152","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e75a1637-fd42-4a74-a8ca-9c19c8212259","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/832c4e7b-9bbe-49f1-b254-6a1e2af69219"},{"id":"7397215a-8d69-49a4-a9b6-6a144ad0bf0f","generatedAtTime":"2023-05-11T11:30:55.475847Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies ihkv internationalisering"},"beschrijving":{"nl":"<p>Allerhande subsidies voor het stimuleren van internationale samenwerking en van de studentenmobiliteit.</p>"},"type":"FinancieelVoordeel","themas":["OnderwijsWetenschap"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000049","@id":"OVO000049"}],"creatie":"2023-03-24T06:40:49.060827738Z","laatstGewijzigd":"2023-05-05T17:50:33.722799459Z","laatstOntvangen":"2023-05-05T17:50:33.722799459Z","productnummer":"2223","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7397215a-8d69-49a4-a9b6-6a144ad0bf0f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/8f93df76-a197-4005-9c42-41bcda64c77a"},{"id":"dee114a1-f0e5-44b0-8964-4caaf300b100","generatedAtTime":"2023-05-11T11:30:55.380633Z","bevoegdBestuursniveaus":["Federaal","Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Drankvergunning voor reizende drankgelegenheid"},"beschrijving":{"nl":"<p>Als uitbater van een reizende drankgelegenheid (bijv. een tapwagen, een mobiele cocktailbar, een bar-boot...) hebt u een drankvergunning nodig voor het schenken van alcohol voor consumptie ter plaatse. Het gaat daarbij om gegiste dranken (bijv. bier, wijn, mousserende wijn…) en sterke dranken (bijv. gin, cognac, cocktails…). </p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<ul><li><p>KB van 3 april 1953 tot samenordening van de wetsbepalingen inzake de slijterijen van gegiste dranken</p></li><li><p>KB van 4 april 1953 tot regeling van de uitvoering van de wetsbepalingen inzake de slijterijen van gegiste dranken</p></li><li><p>Wet van 28 december 1983 betreffende het verstrekken van sterke drank en het betreffende vergunningsrecht</p></li><li><p>Wet van 15 december 2005 houdende administratieve vereenvoudiging II</p></li></ul>"},"zoektermen":{"nl":["Drankvergunning","vergunning gegiste dranken","vergunning sterke drank","tapwagen","mobiele toog","foodtruck","marktkraam","alcohol","gegiste","sterke drank","sterkedrank"]},"bevoegdeOverheden":[{"id":"OVO001989","@id":"OVO001989"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Om in aanmerking te komen voor een drankvergunning, moet u voldoen aan de door de federale overheid bepaalde moraliteitsvoorwaarden. De controle gebeurt op basis van een <a href=\"https://www.uat-vlaanderen.be/uittreksel-uit-het-strafregister\">uittreksel uit het strafregister</a> (uittreksel strafregister model 596.1).</p><p>Het attest moet aangeleverd worden door:</p><ul><li><p>de uitbater</p></li><li><p>de eventuele zaakvoerder of zijn aangestelde</p></li><li><p>de inwonende personen die in de uitbating zouden kunnen deelnemen</p></li></ul><p>Als de uitbating in handen is van een vennootschap, moeten alle medezaakvoerders een attest kunnen voorleggen. De moraliteitsvoorwaarden zijn persoonsgeboden. De vergunning is persoonsgebonden en kan niet worden overgedragen.</p><p>De vergunning geldt voor het hele Belgische grondgebied en is geldig tot:</p><ul><li>de stopzetting van de activiteit </li><li>een wijziging op het vlak van de uitbater (bijv. wijziging medevennoot).</li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U vraagt een drankvergunning aan bij het gemeentebestuur van uw woonplaats via het aanvraagformulier en vervolledigt de aanvraag met een uittreksel uit het strafregister (model 596.1) voor elk van volgende personen:</p><ul><li>de uitbater</li><li>de eventuele zaakvoerder of zijn aangestelde en inwonende personen die aan de uitbating zouden deelnemen </li><li>alle medezaakvoerders, als een vennootschap de zaak uitbaat.</li></ul><p>Na controle van de moraliteit (op basis van het uittreksel uit het strafregister) levert de gemeente de drankvergunning af.</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>De aanvraag en de vergunning zijn gratis.</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:40:46.114704819Z","laatstGewijzigd":"2023-05-04T12:40:59.248499377Z","laatstOntvangen":"2023-05-04T12:40:59.248499377Z","productnummer":"2227","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/dee114a1-f0e5-44b0-8964-4caaf300b100","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2913a9ee-27a0-496a-a206-b87fb4d771f7"},{"id":"6432a6ef-6db7-4ef3-b24b-8c85a62993f1","generatedAtTime":"2023-05-11T11:30:55.313655Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkingssubsidies in het kader van het gelijkekansenbeleid"},"beschrijving":{"nl":"<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Jaarlijks uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO001835","@id":"OVO001835"}],"creatie":"2023-03-24T06:40:50.249299708Z","laatstGewijzigd":"2023-05-05T17:55:18.183738892Z","laatstOntvangen":"2023-05-05T17:55:18.183738892Z","productnummer":"2266","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6432a6ef-6db7-4ef3-b24b-8c85a62993f1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/59d05574-e517-4b74-a5ed-78f2759e5f97"},{"id":"a4d7b8a1-9e72-42af-b36f-c25a72b1e55e","generatedAtTime":"2023-05-11T11:30:54.911299Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsubsidie aankoop met het oog op bebossing (BCF)"},"beschrijving":{"nl":"<p>Aankoop van grond</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:50.627229605Z","laatstGewijzigd":"2023-05-05T17:55:21.709850164Z","laatstOntvangen":"2023-05-05T17:55:21.709850164Z","productnummer":"2284","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a4d7b8a1-9e72-42af-b36f-c25a72b1e55e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5bb52b19-9f89-404a-ac18-ee3dcb5f82e7"},{"id":"62330495-7ecf-4cc8-90a3-1115353147f8","generatedAtTime":"2023-05-11T11:30:54.897458Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Aankoopsubsidie met het oog op erkenning"},"beschrijving":{"nl":"<p>Aankoop van gronden met het oog op het realiseren van een terrein waarop een natuurbeheerplan van type 4 van toepassing is.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:50.516035633Z","laatstGewijzigd":"2023-05-05T17:55:21.462047406Z","laatstOntvangen":"2023-05-05T17:55:21.462047406Z","productnummer":"2283","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/62330495-7ecf-4cc8-90a3-1115353147f8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/533876a2-9e9a-42c6-9e8b-3da64925b62e"},{"id":"a75d16d4-32eb-4e07-9b04-25d80e81fd77","generatedAtTime":"2023-05-11T11:30:54.820172Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor het aanpassen van een omheining ifv de wolf"},"beschrijving":{"nl":"<p>Subsidie voor het aanpassen van een omheining<br />in functie van de wolf.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>BVR eerste keer principieel goedgekeurd<br />(16/7/2021)</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:50.739796279Z","laatstGewijzigd":"2023-05-05T17:55:22.238358448Z","laatstOntvangen":"2023-05-05T17:55:22.238358448Z","productnummer":"2287","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a75d16d4-32eb-4e07-9b04-25d80e81fd77","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2a2f5821-4e70-48b9-822d-5ffe021cf1bb"},{"id":"22a3a764-37cd-48b6-a0da-a1c1634fab6e","generatedAtTime":"2023-05-11T11:30:54.661824Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Recyclagehub (steun voor ondernemingen die willen investeren in innovatieve recyclagetechnologieën om materiaalkringlopen te sluiten)"},"beschrijving":{"nl":"<p>Toekenning van steun aan ondernemingen om materiaalkringlopen te sluiten.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Materialendecreet : het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, art.15, 1° (1 juli 2016)</p><p>BVR van 3 september 2021</p>"},"bevoegdeOverheden":[{"id":"OVO003323","@id":"OVO003323"}],"creatie":"2023-03-24T06:40:51.211558651Z","laatstGewijzigd":"2023-05-05T17:55:26.356815461Z","laatstOntvangen":"2023-05-05T17:55:26.356815461Z","productnummer":"2307","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/22a3a764-37cd-48b6-a0da-a1c1634fab6e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c109bd54-c184-435a-9cb6-4ba8742281e2"},{"id":"6889fece-d29d-4f6f-a429-e75f7f1c7822","generatedAtTime":"2023-05-11T11:30:54.656109Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Bebossing/herbebossing/inkomenssteun"},"beschrijving":{"nl":"<p>Subsidie voor aanplant of heraanplant van bos<br />eventueel in combinatie met inkomenscompensatie.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>BVR 02/10/15 betreffende het verlenen van<br />subsidies voor bebossing en voor herbebossing</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"creatie":"2023-03-24T06:40:50.851453903Z","laatstGewijzigd":"2023-05-05T17:55:22.398640724Z","laatstOntvangen":"2023-05-05T17:55:22.398640724Z","productnummer":"2288","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6889fece-d29d-4f6f-a429-e75f7f1c7822","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3c8ca753-adc5-45ce-a741-3cf46aeb8b3b"},{"id":"4c617937-d32f-4102-baef-e7fc053a29ee","generatedAtTime":"2023-05-11T11:30:54.546829Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies Relance VV24"},"beschrijving":{"nl":"<p>Subsidiëring voor klimaatadaptieve en -mitigerende maatregelen in de open ruimte (betalingenvia MINA) aan provincies, gemeenten, regionale landschappen, individuele landbouwers,…(zowel subsidies binnen Water-Land-Schap als subsidies binnen VLM-projecten. ‘ondersteuning voor de uitvoering van lokale maatregelen in het kader van relance/Blue Deal vv24’)</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>conform VCO en begrotingsdecreet</p>"},"bevoegdeOverheden":[{"id":"OVO003323","@id":"OVO003323"}],"creatie":"2023-03-24T06:40:51.451444665Z","laatstGewijzigd":"2023-05-05T17:55:26.75448842Z","laatstOntvangen":"2023-05-05T17:55:26.75448842Z","productnummer":"2309","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4c617937-d32f-4102-baef-e7fc053a29ee","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ee00185d-1784-434c-ba6b-21727109635a"},{"id":"5c9cd810-89b9-4d98-ac48-673304822240","generatedAtTime":"2023-05-11T11:30:54.467829Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor uitvoering landinrichtingsplannen"},"beschrijving":{"nl":"<p>Een landinrichtingsplan omvat de voorgenomen maatregelen (inrichtingswerken, grondverwervingen, instellen erfdienstbaarheden, ...) voor de aanpak van openruimte-vraagstukken (behoud, bescherming en ontwikkeling van de open ruimte) op maat van het gebied. Een landinrichtingsplan wordt, onder aansturing van een planbegeleidingsgroep, opgemaakt door de Vlaamse Landmaatschappij (VLM).</p><p>De minister stelt de landinrichtingsplannen vast en kent daarna, per maatregel op basis van concrete uitvoeringsdossiers, via ministerieel besluit, subsidies toe aan de partners voor de uitvoering van ‘hun’ maatregelen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 28 maart 2014 betreffende de landinrichting</p><p>BVR van 6/06/2014 betreffende de landinrichting</p>"},"bevoegdeOverheden":[{"id":"OVO003323","@id":"OVO003323"}],"creatie":"2023-03-24T06:40:51.567788587Z","laatstGewijzigd":"2023-05-05T17:55:27.982354085Z","laatstOntvangen":"2023-05-05T17:55:27.982354085Z","productnummer":"2319","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5c9cd810-89b9-4d98-ac48-673304822240","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fcffcd10-63be-40ea-8d14-4be2d05e3ab9"},{"id":"845e9a08-48b6-43f3-bee4-b6778c2b37c5","generatedAtTime":"2023-05-11T11:30:54.445612Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor projectoproepen departement Omgeving binnen het thema-overschrijdend instrumentarium omgeving"},"beschrijving":{"nl":"<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO003323","@id":"OVO003323"}],"creatie":"2023-03-24T06:40:51.792717852Z","laatstGewijzigd":"2023-05-05T17:55:28.382442512Z","laatstOntvangen":"2023-05-05T17:55:28.382442512Z","productnummer":"2321","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/845e9a08-48b6-43f3-bee4-b6778c2b37c5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/428c7d21-8294-4a9f-af89-6724b633e03c"},{"id":"90039f2e-507d-4daf-ba7b-c042a6fc8b74","generatedAtTime":"2023-05-11T11:30:54.319252Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor tewerkstelling VIA-akkoorden"},"beschrijving":{"nl":"<p>Subsidie voor loonkosten en eindejaarspremie<br />van werknemers bij milieu- en natuurverenigingen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>geen BVR</p><p>Vlaams akkoord voor de social-profit/non-profit van 6 juni 2005;<br />Vierde Vlaams Intersectoraal Akkoord voor de social-/non-profitsectoren voor de periode 2011 tot 2015 van 2 december 2011;</p>"},"bevoegdeOverheden":[{"id":"OVO003323","@id":"OVO003323"}],"creatie":"2023-03-24T06:40:52.021860204Z","laatstGewijzigd":"2023-05-05T17:55:30.408447258Z","laatstOntvangen":"2023-05-05T17:55:30.408447258Z","productnummer":"2329","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/90039f2e-507d-4daf-ba7b-c042a6fc8b74","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/85c5b830-e942-4c79-8c26-dba1a3e326fc"},{"id":"47461bed-1b28-4d93-b4b0-3c5d05bff266","generatedAtTime":"2023-05-11T11:30:54.307256Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor tewerkstelling DAC-statuut bij milieu- en natuurverenigingen"},"beschrijving":{"nl":"<p>Subsidie voor loonkost van DAC tewerkstellingsplaatsen bij milieu- en natuurverenigingen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>BVR 19/10/2012 tot wijziging van het BVR 14/05/2004 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut, wat betreft de delegatie voor het toekennen van de subsidie en het verloop van de procedure voor het toekennen ervan</p>"},"bevoegdeOverheden":[{"id":"OVO003323","@id":"OVO003323"}],"creatie":"2023-03-24T06:40:51.904118166Z","laatstGewijzigd":"2023-05-05T17:55:28.727066518Z","laatstOntvangen":"2023-05-05T17:55:28.727066518Z","productnummer":"2324","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/47461bed-1b28-4d93-b4b0-3c5d05bff266","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/354ee4f5-1a67-4707-b8bc-f6580ba26a66"},{"id":"6a6613a2-8867-4501-964b-d67aedcc6941","generatedAtTime":"2023-05-11T11:30:54.088342Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Beheerspremie varend erfgoed"},"beschrijving":{"nl":"<p>Alle eigenaars en beheerders van beschermde vaartuigen kunnen aanspraak maken op een premie voor het beheer van het vaartuig. Zo wil de Vlaamse overheid hen ondersteunen om de erfgoedwaarde van het beschermd vaartuig te behouden. Eigenaars van niet-beschermd varend erfgoed dat enkel in de inventaris is opgenomen, kunnen geen premie aanvragen.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 29 maart 2002 tot bescherming van varend erfgoed en BVR 27 november 2015</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Alle maatregelen die het behoud van de erfgoedwaarden van beschermd varend erfgoed nastreven, komen in aanmerking voor een beheerspremie, op voorwaarde dat ze zijn opgenomen in een goedgekeurde beheersprogramma. Ook maatregelen voor het actief in de vaart houden, het terug varend of het drijvend maken van het beschermde vaartuig komen in aanmerking.</p><p>Op de website van Onroerend Erfgoed vindt u <a href=\"https://www.onroerenderfgoed.be/beheerspremie-varend-erfgoed\">alle info en voorwaarden van de beheerspremie voor varend erfgoed</a>.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:40:52.54851702Z","laatstGewijzigd":"2023-05-05T18:00:07.378642061Z","laatstOntvangen":"2023-05-05T18:00:07.378642061Z","productnummer":"2340","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6a6613a2-8867-4501-964b-d67aedcc6941","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/85ed6c40-70ce-4053-b3a6-e32af1ea90ed"},{"id":"50a5d700-f44e-4fce-b1ef-cd90be788e1e","generatedAtTime":"2023-05-11T11:30:54.079802Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erfgoedpremie via oproep (voor ingrijpende werken)"},"beschrijving":{"nl":"<p>Wilt u een erfgoedpremie aanvragen voor grote, uitgebreide beheers- of restauratiewerken aan beschermd onroerend erfgoed en passen de werken binnen het thema van een oproep, dan kunt u deelnemen aan die oproep. Er hangt geen maximumbedrag vast aan de erfgoedpremie via thematische oproep.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 12 juli 2013 - BVR van 16 mei 2014<br />Hoofdstuk 11 premies</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"websites":[{"naam":{"nl":"Erfgoedpremie via oproep"},"url":"https://www.onroerenderfgoed.be/erfgoedpremie-oproep","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:53.007634466Z","laatstGewijzigd":"2023-05-05T18:00:08.176976994Z","laatstOntvangen":"2023-05-05T18:00:08.176976994Z","productnummer":"2342","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/50a5d700-f44e-4fce-b1ef-cd90be788e1e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c0100718-1466-4b23-8c8e-19cd14d99147"},{"id":"976f4d36-65e9-44be-833f-93ceec5eac42","generatedAtTime":"2023-05-11T11:30:53.998568Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Call groene stroom"},"beschrijving":{"nl":"<p>Als u investeert in groen stroom specifiek fotovoltaïsche zonnepanelen met een zekere grootte en/of voor een specifieke toepassing, én kleine en middelgrote windturbines,komt uw project mogelijks in aanmerking voor een investeringssubsidie. Per call worden de ontvankelijke investeringsprojectenbeoordeeld en gerangschikt op basis van het bod, met name de steunvraag per verwachte energieopbrengst van de installatie. Het beschikbare subsidiebedrag wordt verdeeld over de gunstig gerangschikte investeringsprojecten.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Energiedecreet van 8/05/2009: Decreet van 08/05/2009 houdende algemene bepalingen betreffende het energiebeleid</p><p>BVR 19/11/2010 houdende algemene bepalingen over het energiebeleid, art. 7.11.1, §1 (vanaf 2021 incl. PV)</p>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"creatie":"2023-03-24T06:45:07.935949567Z","laatstGewijzigd":"2023-05-05T18:00:10.193145665Z","laatstOntvangen":"2023-05-05T18:00:10.193145665Z","productnummer":"2350","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/976f4d36-65e9-44be-833f-93ceec5eac42","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bf650ce8-fddd-4682-ad94-274061b97b20"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=220",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=221",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-11T11:30:56.296944Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=219",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-11T11:30:53.998568Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=220",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "45a71972-265f-427e-894a-d330aec521c1",
+      "generatedAtTime": "2023-05-11T11:30:56.296944Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams",
+        "Provinciaal",
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Onteigeningen op Vlaams grondgebied"
+      },
+      "beschrijving": {
+        "nl": "<p>De verschillende overheden in Vlaanderen kunnen gebouwen en gronden onteigenen om redenen van openbaar nut of algemeen belang, bijvoorbeeld om gebouwen op te richten of wegen en rioleringen aan te leggen. De besturen mogen enkel onteigenen voor projecten binnen hun bevoegdheidssfeer.</p>"
+      },
+      "type": "FinancieleVerplichting",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet betreffende onteigening voor het algemeen nut (<a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028180&amp;param=inhoud\">'het Vlaams Onteigeningsdecreet van 24 februari 2017'</a>)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Onteigening door de overheid"
+          },
+          "url": "https://www.vlaanderen.be/onteigening-door-de-overheid",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:42.9346057Z",
+      "laatstGewijzigd": "2023-05-04T12:40:52.430103258Z",
+      "laatstOntvangen": "2023-05-04T12:40:52.430103258Z",
+      "productnummer": "1996",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/45a71972-265f-427e-894a-d330aec521c1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e4a2b5b5-7bdb-487f-b5f9-37d950a47043"
+    },
+    {
+      "id": "12a93b4f-61de-408b-b10a-37c0b2e7c881",
+      "generatedAtTime": "2023-05-11T11:30:56.115271Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Toelating, vergunning of huurovereenkomst voor de organisatie van een evenement op of langs een bevaarbare waterweg"
+      },
+      "beschrijving": {
+        "nl": "<p>Wilt u op openbaar domein een evenement of recreatieve activiteit organiseren<strong> </strong>op of langs een bevaarbare waterweg in het Vlaamse gewest?</p><p>Voor <strong>niet-commerciële evenementen</strong> (waterski, roei- en kajakwedstrijden, triatlon, barbecue, fietstocht met volgwagen, …) moet u een <strong>toelating of vergunning</strong> hebben van De Vlaamse Waterweg nv.<br />Voor <strong>commerciële evenementen</strong> moet er een <strong>huurovereenkomst</strong> afgesloten worden.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "uitzonderingen": {
+        "nl": "<p>Deze activiteiten worden <strong>niet beschouwd als een evenement</strong>:</p><ul><li>activiteit met besloten karakter (trouwfeest, bedrijfsfeest, …)</li><li>foodtruck</li><li>ijskraam</li><li>opname voor film of tv</li><li>tijdelijke plaatsing van kunstvoorwerpen.</li></ul><p>Voor dit soort activiteiten moet u (minimaal 30 dagen op voorhand) een ‘<a href=\"https://www.uat-vlaanderen.be/vergunning-voor-het-privegebruik-van-waterwegen-en-hun-aanhorigheden\">vergunning voor privatief gebruik van openbaar domein</a>’ aanvragen.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000112",
+          "@id": "OVO000112"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De organisator moet altijd <strong>een aanvraag</strong> voor een evenement indienen in geval van <strong>één of meerdere van onderstaande situaties</strong>.</p><ol><li>De organisator wil signalisatie plaatsen. </li><li>De organisator wil de afsluiting van het jaagpad aanvragen. </li><li>De organisator wil een stremming of beperking van het scheepvaartverkeer aanvragen. </li><li>De organisator verwacht hinder voor het scheepvaartverkeer en/of andere waterweggebruikers (zoals trager varen, uiterst stuurboordwal varen, …).</li><li>De organisator wil bijkomende bediening aanvragen van sluizen en/of beweegbare bruggen buiten de reguliere bedieningstijden of regelgeving.<br />(<strong>In principe worden de bruggen en sluizen niet bediend buiten de reguliere bedieningsuren of regelgeving</strong>. Op VisuRIS vindt u de <a href=\"https://www.visuris.be/kunstwerken\">bedieningsuren van alle beweegbare bruggen en sluizen</a>. In uitzonderlijke gevallen kan het echter wenselijk zijn om bediening buiten de reguliere bedieningsuren of regelgeving van een sluis of beweegbare brug aan te vragen.)</li><li>De organisator wil het gebruik van het terrein (grond) van De Vlaamse Waterweg nv aanvragen.</li><li>Er wordt een wedstrijd georganiseerd. </li></ol><p>Als een activiteit wordt gepland met <strong>door spierkracht voortbewogen kleine schepen (kano, kajak, roeiboten, SUP)</strong> wordt de bovenstaande lijst uitgebreid met 2 bijkomende situaties:</p><ol start=\"8\" type=\"1\"><li>de organisator wil de activiteit laten plaatsvinden op locaties waar binnen de geldende regels niet met ‘met spierkracht voorbewogen schepen’ gevaren mag worden, zoals bijvoorbeeld op de Beneden-Zeeschelde en in snelvaartvakken (zie <a href=\"https://www.visuris.be/kano\">Waar mag je kanovaren, kajakken, roeien of suppen?</a>)</li><li>de organisator verwacht meer dan 20 deelnemende vaartuigen (met uitzondering van reguliere trainingen in eigen club). </li></ol><p>Ten slotte moet elke activiteit die <strong>zwemmen</strong> omvat, aangevraagd worden, aangezien zwemmen in de regel verboden is.<br />Bij ‘Uitzonderingen’ hieronder staat opgelijst welke activiteiten niet als een ‘evenement’ worden beschouwd.</p><ul><li>Indien u voor de organisatie van het evenement ook een toelating voor het rijden op het jaagpad wilt aanvragen, dan kunt u dit meteen doen bij de aanvraag voor het evenement. U hoeft daarvoor dus geen aparte jaagpadtoelating aan te vragen. De jaagpadtoelatingen in het kader van een evenement worden tot een uiterst minimum beperkt.</li><li>Als het een <strong>niet-commercieel evenement</strong> betreft, kan een<strong> toelating of vergunning</strong> verkregen worden, waarvoor geen retributie betaald moet worden. Aan een toelating of vergunning worden wel altijd een aantal algemene en specifieke voorwaarden verbonden. De<strong> algemene voorwaarden</strong> van een vergunning staan in het in het <a href=\"https://www.vlaamsewaterweg.be/sites/default/files/retributiebesluit_algemene_voorwaarden.pdf\">Retributiebesluit (art. 5-15)</a>. In de vergunning worden, indien nodig, ook de nodige <strong>specifieke voorwaarden</strong> opgenomen.</li><li>Als het een <strong>commercieel evenement</strong> betreft, kan een <strong>huurovereenkomst</strong> tussen de aanvrager en De Vlaamse Waterweg nv worden opgemaakt, waarin de voorwaarden worden opgenomen. Voor de tarieven, zie ‘Bedrag’.<ul></ul></li></ul><h3>Wat wordt verstaan onder ‘commercieel evenement’?</h3><p>Een evenement wordt als commercieel aanzien wanneer (niet cumulatief):</p><ul><li>inkom of deelnamevergoeding wordt gevraagd</li><li>drank, voeding of goederen worden verkocht</li></ul><p>tenzij in het geval van een:</p><ul><li><strong>benefietactie</strong> waarbij de winst van het evenement integraal aan een goed doel wordt geschonken</li><li>evenement waarbij kan worden aangetoond dat de <strong>inkomsten</strong> uit eventuele verkoop of toegangsgeld <strong>volledig</strong> worden <strong>aangewend</strong><ul><li><strong>voor de organisatie van het evenement</strong> zelf</li><li>en/of <strong>voor de dagelijkse werking van een sportieve of culturele vereniging</strong>.</li></ul></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Dien uw aanvraag online in via het <a href=\"https://e-loket.vlaamsewaterweg.be/aanvraag-evenement\">e-loket van De Vlaamse Waterweg nv</a>.</li><li>Doe de aanvraag het minimaal <strong>3 maanden vóór het evenement</strong>.</li><li>De Vlaamse Waterweg nv zal elke aanvraag onderzoeken en indien mogelijk<ul><li>voor een niet-commercieel evenement een <strong>toelating of vergunning </strong>afleveren</li><li>voor een commercieel evenement een <strong>huurovereenkomst </strong>opmaken.</li></ul></li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Evenement (recreatieve activiteiten) op of langs een waterweg (De Vlaamse Waterweg nv)"
+          },
+          "url": "https://www.vlaamsewaterweg.be/evenement-recreatieve-activiteiten%C2%A0op-langs-een-waterweg",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Als De Vlaamse Waterweg nv oordeelt dat het een <strong>niet-commercieel evenement</strong> betreft, kan een toelating of vergunning verkregen worden, die <strong>vrijgesteld</strong> is van retributies.</li><li>Als De Vlaamse Waterweg nv oordeelt dat het een <strong>commercieel evenement</strong> betreft, kan een huurovereenkomst afgesloten worden, waarbij volgende <strong>tarieven </strong>van toepassing zijn:<div data-table=\"\"><table data-table-type=\"lines\"><thead><tr><th>2022</th><th>minimumtarief per dag<br />(tot 1000 m<sup>2</sup>)</th><th>per bijkomende m<sup>2</sup>/dag<br />(vanaf 1001 m<sup>2</sup>)</th></tr></thead><tbody><tr><th>Evenement op het water</th><td>471 euro</td><td>0,262 euro</td></tr><tr><th>Evenement langs het water</th><td>235 euro</td><td>0,131 euro</td></tr></tbody></table></div><ul><li>De vermelde tarieven worden jaarlijks geïndexeerd.</li><li>Op de website van de Vlaamse Waterweg nv vindt u meer informatie over de (gedeeltelijke) doorrekening voor de dagen van op- en afbouw.</li></ul></li></ul>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:33.795142413Z",
+      "laatstGewijzigd": "2023-05-05T17:40:05.343006544Z",
+      "laatstOntvangen": "2023-05-05T17:40:05.343006544Z",
+      "productnummer": "1997",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/12a93b4f-61de-408b-b10a-37c0b2e7c881",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/df24f4e2-f52a-47c4-bb51-33f4c1d56a53"
+    },
+    {
+      "id": "15c54fd1-d747-4075-acf4-19dc4029c221",
+      "generatedAtTime": "2023-05-11T11:30:56.031833Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Jaagpadtoelating voor motorvoertuig(en)"
+      },
+      "beschrijving": {
+        "nl": "<p>Wilt u met één of meerdere motorvoertuigen op een jaagpad rijden dat beheerd wordt door De Vlaamse Waterweg nv? Dan kunt u daarvoor een toelating aanvragen.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Raad van Bestuur van De Vlaamse Waterweg nv betreffende de tarifering van jaagpadtoelatingen van 18/10/2018</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000112",
+          "@id": "OVO000112"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li>Hebt u een jaagpadtoelating nodig voor een <strong>evenement</strong> op of langs de waterweg? Dan wordt de jaagpadtoelating geregeld via de <a href=\"https://www.uat-vlaanderen.be/toelating-vergunning-of-huurovereenkomst-voor-de-organisatie-van-een-evenement-op-of-langs-een-bevaarbare-waterweg\">aanvraag voor het evenement op of langs de waterweg</a>. U hoeft deze jaagpadtoelating dan niet apart aan te vragen.</li><li><strong>Personen met een handicap</strong> kunnen voor het beoefenen van de hengelsport een jaagpadtoelating aanvragen voor maximaal 2 trajecten van maximaal 2,5 km in beide richtingen vanaf een kruising van een jaagpad met een openbare weg. Hiervoor moet men bij de aanvraag een parkeerkaart voor personen met een handicap of een bewijs van invaliditeit waarmee de voorwaarden voor het verkrijgen van een parkeerkaart voor personen met een handicap kunnen worden aangetoond, voorleggen.</li><li>De <strong>termijn</strong> van de toelating en het <strong>tarief</strong> hangen af van de <a href=\"https://www.vlaamsewaterweg.be/jaagpadtoelatingen\">categorie van de gebruiker</a>.</li><li>Een jaagpadtoelating kan worden aangevraagd<ul><li>voor een <strong>bepaald traject</strong></li><li>of <a href=\"https://www.vlaamsewaterweg.be/jaagpadtoelatingen\">voor bepaalde doelgroepen en onder bepaalde voorwaarden</a> voor <strong>alle jaagpaden</strong> binnen het hele ambtsgebied van De Vlaamse Waterweg nv.</li></ul></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Dien uw aanvraag minimaal <strong>1 maand op voorhand</strong> in.</li><li>U moet de jaagpadtoelating online aanvragen via het <a href=\"https://e-loket.vlaamsewaterweg.be/jaagpadtoelating\">e-loket van De Vlaamse Waterweg nv</a>.</li><li>De Vlaamse Waterweg nv beslist bij een aanvraag voor een toelating autonoom of een toelating kan worden gegeven.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Jaagpadtoelatingen (De Vlaamse Waterweg nv)"
+          },
+          "url": "https://www.vlaamsewaterweg.be/jaagpadtoelatingen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>In een aantal gevallen moet u voor de jaagpadtoelating een <strong>vergoeding</strong> betalen. Die vergoeding is afhankelijk van de categorie van de gebruiker en de termijn. Zie hiervoor de <a href=\"https://www.vlaamsewaterweg.be/jaagpadtoelatingen\">overzichtstabel met termijn en tarief per categorie</a>.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:40.357561629Z",
+      "laatstGewijzigd": "2023-05-05T17:45:07.105800911Z",
+      "laatstOntvangen": "2023-05-05T17:45:07.105800911Z",
+      "productnummer": "1998",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/15c54fd1-d747-4075-acf4-19dc4029c221",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/1743585d-b88b-4f81-8d78-f1a2df53fff3"
+    },
+    {
+      "id": "7b5def74-629a-495a-bb51-5860901d183f",
+      "generatedAtTime": "2023-05-11T11:30:56.031598Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Bijkomende retroactieve investeringspremie voor eigenaars van een warmtepomp én zonnepanelen na afschaffing van terugdraaiende teller"
+      },
+      "beschrijving": {
+        "nl": "<p>Wie aan de voorwaarden voldoet en al over een digitale meter beschikt, kan de retroactieve premie voor eigenaars van een warmtepomp én zonnepanelen aanvragen via het online loket van Fluvius.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering tot wijziging van het Energiebesluit van 19 november 2010, wat betreft het invoeren van een retroactieve investeringspremie voor andere decentrale productie-installaties dan fotovoltaïsche zonnepanelen waarvoor de virtuele terugdraaiende teller wegvalt en wat betreft het invoeren van een retroactieve investeringspremie voor de plaatsing van een warmtepomp in dienst genomen voor 1 januari 2021 in combinatie met fotovoltaïsche zonnepanelen</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Komen niet in aanmerking voor deze bijkomende retroactieve investeringspremie:</p><ul><li>warmtepomp die specifiek dient voor warmwaterproductie</li><li>warmtepompboiler</li><li>warmtepomp voor zwembadverwarming</li><li>warmtepomp die louter voor koeling instaat (en dus niet dient voor de ruimteverwarming).</li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "compensatieteller",
+          "tellercompensatie",
+          "retro-actieve compensatie",
+          "compensatieregeling",
+          "RAI"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li><p>De hoogte van deze bijkomende retroactieve investeringspremie bedraagt <strong>1163 euro</strong>.</p></li><li><p>De retroactieve investeringspremie voor warmtepompen komt toe aan wie op 1 oktober 2021 (namelijk de datum van de inwerkingtreding van het besluit van de Vlaamse Regering) de eigenaar is van de warmtepomp (dus van het gebouw dat de warmtepomp van verwarming voorziet).</p></li></ul><p>Volgende voorwaarden zijn van toepassing voor de retroactieve investeringspremie warmtepomp:</p><ul><li>U bent eigenaar van een elektrische warmtepomp <strong>als enige gebouwverwarming in combinatie met zonnepanelen</strong> met een omvormersvermogen van maximaal 10 kVA.</li><li>De installatie moet over een <strong>digitale meter </strong>beschikken of een andere meter die de injectie en afname afzonderlijk kan meten.</li><li>De warmtepomp moet <strong>in dienst zijn genomen in de periode van 1 januari 2006 tot en met 28 februari 2021</strong>. Op hetzelfde EAN-nummer moeten in de periode van 1 januari 2006 tot en met 31 december 2020 fotovoltaïsche zonnepanelen zijn geplaatst van maximaal 10 kVA. </li><li>U moet uw premieaanvraag <strong>online indienen bij Fluvius</strong> uiterlijk <strong>6 maanden na de plaatsing</strong> van de digitale meter.<br />Als uw digitale meter geplaatst werd vóór of op 1 oktober 2021, dan moest uw aanvraag uiterlijk op 31 maart 2022 ingediend zijn.</li><li>De omvormer van de zonnepaneleninstallatie is in staat elektriciteit te injecteren op het elektriciteitsdistributienet en heeft dat gedurende de 12 maanden nog gedaan.</li><li>De warmtepomp werkt op <strong>elektriciteit</strong>.</li><li>De warmtepomp dient als <strong>hoofdverwarming </strong>van de gebouweenheid (woning, kantoor,…). Zie ook: ‘<a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-een-warmtepomp-en-zonnepanelen/een-warmtepomp-als-hoofdverwarming-wat-betekent-dat\">Een warmtepomp als hoofdverwarming, wat betekent dat?</a>’</li><li>De eigenaar van de warmtepomp moet een of meerdere officiële <strong>bewijsstukken </strong>kunnen voorleggen die de datum van indienstname en de plaatsing van de warmtepomp staven (zoals een eindfactuur of een keuringsverslag, foto’s gelden niet als stavingstukken). Voor het overzicht van alle bewijsstukken, zie hieronder bij ‘Procedure’.</li><li>De warmtepomp blijft minstens 5 jaar in dienst na het verkrijgen van de premie.</li><li>Per <strong>EAN-nummer</strong> komt slechts <strong>1 warmtepomp in aanmerking</strong> voor de retroactieve investeringspremie van <strong>1.163 euro</strong>.</li></ul><p><a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-een-warmtepomp-en-zonnepanelen/aan-welke-voorwaarden-moeten-de-installatie-en-de-aanvraag-voldoen-voor-de-retroactieve\">Meer informatie over de voorwaarden van deze bijkomende retroactieve investeringspremie</a>.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Eigenaars die aan de voorwaarden voldoen kunnen hun <a href=\"https://www.fluvius.be/nl/thema/premies/retroactieve-investeringspremies/warmtepomp\">retroactieve investeringspremie warmtepomp online aanvragen<strong> </strong>bij Fluvius.</a></li><li>De aanvraag van deze bijkomende premie staat los van de aanvraag van de retroactieve investeringspremie voor de zonnepanelen en moet dus apart aangevraagd worden. Let hierbij goed op de aanvraagtermijnen.</li><li>Uiterlijke aanvraagdatum<ul><li>Als uw digitale meter geplaatst werd vóór of op 1 oktober 2021, dan moest uw aanvraag uiterlijk op 31 maart 2022 ingediend zijn.</li><li>Eigenaars van warmtepompen die nog over een klassieke Ferrarismeter beschikken, kunnen tot 6 maanden na de plaatsing van de digitale meter een aanvraag indienen en dat <strong>uiterlijk op 31 december 2025.</strong></li></ul></li><li><p>Uw aanvraag moet volgende informatie bevatten:</p><ul><li>de unieke identificatie, het rijksregisternummer, BIS-nummer of ondernemingsnummer, en de contactgegevens van de aanvrager van de retroactieve investeringspremie</li><li>het rekeningnummer waarop de retroactieve investeringspremie wordt uitbetaald</li><li>de identificatie van de warmtepomp aan de hand van het EAN-nummer van het toegangspunt (gekend bij Fluvius)</li><li>de datum van de plaatsing van de digitale meter (gekend bij Fluvius)</li><li>bewijsstuk(ken) die de plaatsing van de warmtepomp (met adres, merk, type) en de datum van indienstname staven, in ieder geval <strong>één of meerdere</strong> van de onderstaande <strong>bewijsstukken</strong>:<ul><li>eindfactuur van de plaatsing van de warmtepomp</li><li>keuringsattest van de warmtepomp</li><li>de EPB-aangifte</li><li>goedkeuring van de REG-premie-aanvraag van de warmtepomp, bij de netbeheerder</li><li>bewijs van belastingvermindering voor de warmtepomp</li><li>certificaat van grondboring bij een geothermische warmtepomp</li><li>de melding, of de aanvraag van de omgevingsvergunning of stedenbouwkundige vergunning voor het plaatsen van een warmtepomp.</li></ul></li></ul></li><li>Aanvraag ingediend?<ul><li>Fluvius bekijkt of uw dossier voldoet aan de voorwaarden.</li><li>Fluvius behandelt uw dossier binnen de 15 weken. Fluvius laat u per e-mail weten of uw dossier wordt goedgekeurd of afgekeurd (met vermelding van reden).</li></ul></li><li>Op Energiesparen.be:<ul><li>staat <a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-een-warmtepomp-en-zonnepanelen/wanneer-waar-en-hoe-kan-ik-de-retroactieve-investeringspremie-aanvragen\">meer informatie over de procedure van deze bijkomende retroactieve investeringspremie</a></li><li>kunt u zich <a href=\"https://energiesparen.be/retroactieve-investeringspremie\">inschrijven op de nieuwsberichten over de retroactieve investeringspremie(s)</a>. Op die manier wordt u per e-mail op de hoogte gehouden.</li></ul></li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Retroactieve investeringspremie voor warmtepomp (op Fluvius.be)"
+          },
+          "url": "https://www.fluvius.be/nl/thema/premies/retroactieve-investeringspremies/warmtepomp",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "Bijkomende retroactieve investeringspremie voor eigenaars van warmtepomp en zonnepanelen (Energiesparen.be)"
+          },
+          "url": "https://www.energiesparen.be/retroactieve-investeringspremie/faq/rubriek-ik-heb-een-warmtepomp-en-zonnepanelen",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Deze eenmalige premie bedraagt <strong>1.163 euro</strong> en komt bovenop de <a href=\"https://www.uat-vlaanderen.be/retroactieve-investeringspremie-voor-eigenaars-van-zonnepanelen-na-afschaffing-van-terugdraaiende-teller\">retroactieve investeringspremie voor de zonnepanelen</a>. </p><p>De aanvraag van deze bijkomende premie staat los van de aanvraag van de retroactieve investeringspremie voor de zonnepanelen en moet dus apart aangevraagd worden.<strong> </strong>Let hierbij goed op de aanvraagtermijnen.</p><p><a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-een-warmtepomp-en-zonnepanelen/welke-retroactieve-investeringspremie-mag-ik-verwachten\">Meer details over het bedrag van deze bijkomende retroactieve investeringspremie</a>.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:40.692677749Z",
+      "laatstGewijzigd": "2023-05-05T17:45:08.15981337Z",
+      "laatstOntvangen": "2023-05-05T17:45:08.15981337Z",
+      "productnummer": "1999",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7b5def74-629a-495a-bb51-5860901d183f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f39549f4-a250-42a6-91a7-f5fefdc73d42"
+    },
+    {
+      "id": "46a829c5-9131-460d-983b-c5c26459627d",
+      "generatedAtTime": "2023-05-11T11:30:55.867454Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Retroactieve investeringspremie voor eigenaars van een microwarmte-krachtkoppeling of kleine windmolen na afschaffing van terugdraaiende teller"
+      },
+      "beschrijving": {
+        "nl": "<p>Wie aan de voorwaarden voldoet en al over een digitale meter beschikt, kan de retroactieve premie voor microwarmte-krachtkoppeling of een kleine windmolen aanvragen via het onlineloket van Fluvius.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<div><div><p>Besluit van de Vlaamse Regering tot wijziging van het Energiebesluit van 19 november 2010, wat betreft het invoeren van een retroactieve investeringspremie voor andere decentrale productie-installaties dan fotovoltaïsche zonnepanelen waarvoor de virtuele terugdraaiende teller wegvalt en wat betreft het invoeren van een retroactieve investeringspremie voor de plaatsing van een warmtepomp in dienst genomen voor 1 januari 2021 in combinatie met fotovoltaïsche zonnepanelen</p></div></div>"
+      },
+      "zoektermen": {
+        "nl": [
+          "compensatieteller",
+          "tellercompensatie",
+          "retro-actieve",
+          "compensatie",
+          "compensatieregeling",
+          "RAI",
+          "microwarmtekrachtkoppeling"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Om in aanmerking te komen voor deze eenmalige retroactieve investeringspremie, moeten uw installatie en uw aanvraag aan álle onderstaande voorwaarden voldoen.</p><ul><li>Uw installatie heeft een vermogen van <strong>maximaal 10 kVA</strong> en is <strong>in dienst genomen in de periode van 1 januari 2006 tot en met 31 december 2020</strong>.</li><li>Uw installatie is aangesloten op het distributienet en de installatie is in staat elektriciteit te injecteren op het elektriciteitsdistributienet en heeft dat gedurende de laatste 12 maanden nog gedaan.</li><li>U had op <strong>14 januari 2021</strong> de voordelen van de <strong>terugdraaiende teller</strong>: de zonnepaneleninstallatie kon stroom op het net zetten en de meter kon terugdraaien. (14-1-2021 is het moment van de uitspraak van het arrest van het Grondwettelijk Hof).</li><li>Uw installatie is <strong>uiterlijk op 1 december 2021 aangemeld</strong> bij de netbeheerder (Fluvius).</li><li>Er is een digitale meter geplaatst of een andere meter die de injectie en afname afzonderlijk kan meten.</li><li>U moet uw premieaanvraag <strong>online indienen bij Fluvius</strong> uiterlijk <strong>6 maanden na de plaatsing</strong> van de digitale meter.<br />Als uw digitale meter geplaatst werd vóór of op 1 oktober 2021, dan moest uw aanvraag uiterlijk op 31 maart 2022 ingediend zijn.</li><li>De eigenaar of gebruiker van de installatie heeft de netbeheerder (Fluvius) vanaf 1 januari 2025 voor de plaatsing van de digitale meter niet de toegang geweigerd tot de ruimte waar de elektriciteits- of aardgasmeter staat.</li><li>Wie een microwarmte-krachtkoppeling of kleine windmolen heeft geplaatst vóór 2021 en tussen 1 oktober 2021 en 31 december 2023 <strong>zelf een digitale meter aanvraagt</strong>, heeft recht op een <strong>bonus van 100 euro</strong>, bovenop de retroactieve investeringspremie voor microwarmte-krachtkoppeling of kleine windmolen (zie ook bij ‘Bedrag’ hieronder). U hoeft daarvoor niets extra te doen.</li><li>Er mag geen rechtsvordering ten aanzien van het Vlaamse Gewest tot vergoeding van enige schade zijn ingediend.</li><li>De micro-wkk of kleine windmolen blijft minstens 5 jaar in dienst na het verkrijgen van de premie.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Eigenaars die aan de voorwaarden voldoen kunnen <a href=\"https://www.fluvius.be/nl/thema/premies/retroactieve-investeringspremies/andere-hernieuwbare-energie\">deze retroactieve investeringspremie online aanvragen<strong> </strong>bij Fluvius</a>.</li><li>De aanvraag van deze bijkomende premie staat los van de aanvraag van de retroactieve investeringspremie voor de zonnepanelen en moet dus apart aangevraagd worden. Let hierbij goed op de aanvraagtermijnen.</li><li>Uiterlijke aanvraagdatum<ul><li>Als uw digitale meter geplaatst werd vóór of op 1 oktober 2021, dan moest uw aanvraag uiterlijk op 31 maart 2022 ingediend zijn.</li><li>Eigenaars van een micro-wkk of kleine windmolen die nog over een klassieke Ferrarismeter beschikken, kunnen <strong>tot 6 maanden na de plaatsing van de digitale meter</strong> een aanvraag indienen en dat <strong>uiterlijk op 31 december 2025.</strong><ul></ul></li></ul></li><li>Uw aanvraag moet volgende informatie bevatten:<ul><li>de unieke identificatie, het rijksregisternummer, BIS-nummer of ondernemingsnummer, en de contactgegevens van de aanvrager van de retroactieve investeringspremie</li><li>het rekeningnummer waarop de retroactieve investeringspremie wordt uitbetaald</li><li>de identificatie van de decentrale productie-installatie aan de hand van het EAN-nummer van het toegangspunt (gekend bij Fluvius)</li><li>de datum van indienstneming van de decentrale productie-installatie</li><li>het geïnstalleerd vermogen van de decentrale productie-installatie uitgedrukt in kWe</li><li>de datum van de plaatsing van de digitale meter (gekend bij Fluvius)</li><li>de technologie van de decentrale productie-installatie.</li></ul></li><li>Aanvraag ingediend?<ul><li>Fluvius bekijkt of uw dossier voldoet aan de voorwaarden.</li><li>Fluvius behandelt uw dossier binnen de 15 weken. Fluvius laat u per e-mail weten of uw dossier wordt goedgekeurd of afgekeurd (met vermelding van reden).</li></ul></li></ul><p>Op Energiesparen.be:</p><ul><li>staat <a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-microwarmte-krachtkoppeling-of-een-kleine-windmolen/wanneer-waar-en-hoe-kan-ik-de-retroactieve-investeringspremie-aanvragen\">meer informatie over de procedure van deze retroactieve investeringspremie</a></li><li>kunt u zich <a href=\"https://energiesparen.be/retroactieve-investeringspremie\">inschrijven op de nieuwsberichten over de retroactieve investeringspremie(s)</a>. Op die manier wordt u per e-mail op de hoogte gehouden.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Retroactieve investeringspremie voor micro-wwk of kleine windmolen (op Fluvius.be)"
+          },
+          "url": "https://www.fluvius.be/nl/thema/premies/retroactieve-investeringspremies/andere-hernieuwbare-energie",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "Retroactieve investeringspremie voor eigenaars van een micro-wkk of kleine windmolen (Energiesparen.be)"
+          },
+          "url": "https://www.energiesparen.be/retroactieve-investeringspremie/faq/bedrag-voor-micro-wwk-en-kleine-windmolen",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het bedrag van deze eenmalige premie voor uw individuele installatie hangt af van</p><ul><li>het jaar van indienstname van de installatie (periode 2006-2020)</li><li>het jaar van de plaatsing van de digitale meter</li><li>en het nominaal elektrisch vermogen.</li></ul><p>De premie kan oplopen</p><ul><li>tot 2.015 euro per kilowatt (kW) voor microwarmte-krachtinstallaties op basis van biogas</li><li>tot 2.400 euro per kilowatt (kW) voor microwarmte-krachtinstallaties<strong> </strong>op basis van andere brandstoffen</li><li>tot 5.982 euro per kW voor brandstofcellen of stirlingmotoren</li><li>en tot 7.175 euro per kW voor kleine windturbines.</li></ul><p>Op Energiesparen.be vindt u <a href=\"https://www.energiesparen.be/groene-energie-en-wkk/groene-energie-opwekken/zonne-energie/zonnepanelen-voor-elektriciteit/retroactieve-investeringspremie-terugdraaiende-teller/veelgestelde-vragen-terugdraaiende-teller/ik-heb-microwarmte-krachtkoppeling-of-een-kleine-windmolen/welke-retroactieve-investeringspremie-mag-ik-verwachten\">meer informatie over het premiebedrag en tabellen met de mogelijke premiebedragen</a>.</p><h3>Bonus</h3><p>Wie een microwarmte-krachtkoppeling of kleine windmolen heeft geplaatst vóór 2021 en tussen 1 oktober 2021 en 31 december 2023 <strong>zelf een digitale meter aanvraagt</strong>, heeft recht op een <strong>bonus van 100 euro</strong>, bovenop de retroactieve investeringspremie voor microwarmte-krachtkoppeling of kleine windmolen. U hoeft daarvoor niets te doen. In de aanvraagmodule van Fluvius voor de retroactieve investeringspremie voor zonnepanelen, houdt Fluvius rekening met uw aanvraag van de digitale meter. In de e-mail waarin Fluvius aangeeft dat ze uw dossier goedkeuren, zal u het bedrag voor de bonus apart zien staan.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:41.008816916Z",
+      "laatstGewijzigd": "2023-05-05T17:45:08.552714599Z",
+      "laatstOntvangen": "2023-05-05T17:45:08.552714599Z",
+      "productnummer": "2000",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/46a829c5-9131-460d-983b-c5c26459627d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ca03b364-d80f-43f7-8e85-f96f2dd419b0"
+    },
+    {
+      "id": "651a0611-da40-4fff-9c70-e56a866de21e",
+      "generatedAtTime": "2023-05-11T11:30:55.826277Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Premie voor sturingsapparaat voor elektrische warmte in gebouwen"
+      },
+      "beschrijving": {
+        "nl": "<p>Dankzij de komst van de digitale meter, kan men zowel in woongebouwen als niet-woongebouwen op een efficiënte manier het warmte- en elektriciteitsverbruik regelen. Via een automatische <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/groene-energie/elektriciteitsgebruik-slim-sturen-met-een-energiemanagementsysteem\">slimme sturing</a> van uw elektrische accumulatieverwarming, elektrische boiler, warmtepomp of warmtepompboiler, kunt u aanzienlijk besparen op uw elektriciteitskosten. Wie investeert in een zo’n sturingsapparaat, kan hiervoor een premie krijgen via netbeheerder Fluvius. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<div><div><p>Energiebesluit van 19 november 2010</p></div></div>"
+      },
+      "zoektermen": {
+        "nl": [
+          "sturing",
+          "elektrische apparaten",
+          "stuurapparaat",
+          "sturingssysteem",
+          "sturingapparaat",
+          "sturingsysteem"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<ul><li><p>Deze premie is bedoeld voor bestaande of nieuwe</p><ul><li><p><strong>woningen, appartementen, en appartementsgebouwen</strong></p></li><li><p><strong>niet-woongebouwen.</strong> </p></li></ul></li><li><p>De investeerder in het sturingsapparaat of geheel van sturingsapparaten kan de premie aanvragen.</p></li><li><p>De datum van de <strong>eindfactuur </strong>ligt tussen <strong>1-1-2022 en 31-12-2023</strong>. Het jaartal van de eindfactuur bepaalt de premievoorwaarden die van toepassing zijn. </p></li><li>Enkel facturen die maximaal 2 jaar oud zijn op het ogenblik van de premieaanvraag komen in aanmerking.</li><li>De premie kan <strong>per EAN-code slechts 1 keer</strong> worden aangevraagd.</li><li><p>Bekijk <strong>alle voorwaarden en technische eisen</strong> op het</p><ul><li><p><a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/sturing-elektrische-warmte\">informatieblad Fluvius sturingspremie voor woongebouwen </a></p></li><li><p><a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-bedrijven/sturing-elektrische-warmte\">informatieblad Fluvius sturingspremie voor niet-woongebouwen</a>. </p></li></ul></li></ul><p>Hieronder worden enkel de belangrijkste voorwaarden en technische eisen opgesomd.</p><ul><li>Het <strong>sturingsapparaat </strong>of geheel van de sturingsapparaten moet controlesignalen sturen naar de <strong>accumulatieverwarming</strong>, <strong>elektrische boiler</strong>, <strong>warmtepompboiler</strong> of <strong>warmtepomp </strong>waarbij het opgenomen elektrisch vermogen van de accumulatieverwarming, elektrische boiler, warmtepompboiler of warmtepomp wijzigt. Dit controlesignaal kan, mits het in acht nemen van mogelijke veiligheidsbeperkingen van het te besturen toestel, minstens elk van de volgende wijzigingen van het opgenomen elektrisch vermogen van de accumulatieverwarming, elektrische boiler, warmtepompboiler of warmtepomp bewerkstelligen: <ul><li><p>gedwongen het afgenomen elektrisch vermogen verlagen of gedwongen uitschakelen</p></li><li><p>gedwongen het afgenomen elektrisch vermogen verhogen of gedwongen in werking treden.</p></li></ul></li><li>Het <strong>sturingsapparaat of geheel van apparaten meet het energieverbruik </strong>van de accumulatieverwarming, elektrische boiler, warmtepompboiler of warmtepomp op regelmatige tijdsintervallen die korter dan of gelijk zijn aan 5 minuten.</li><li>Het sturingsapparaat of geheel van apparaten <strong>bevat minstens een van de volgende functionaliteiten</strong> en gebruikt de daaruit voortkomende informatie actief bij de sturing: <ul><li>communicatie met PV-omvormer of een afzonderlijke meting van de decentrale elektriciteitsproductie-installatie op regelmatige tijdsintervallen die korter dan of gelijk zijn aan 5 minuten</li><li>communicatie met een gebruikerspoort van digitale meter</li><li>meting van het totaalverbruik op regelmatige tijdsintervallen die korter dan of gelijk zijn aan 5 minuten</li><li>internetconnectiviteit</li><li>draadloze langeafstandcommunicatie.</li></ul></li><li>Het sturingsapparaat of geheel van apparaten wordt <strong>geplaatst door een aannemer</strong>.</li><li>Als accumulatieverwarming wordt beschouwd: een elektrisch verwarmingstoestel voor ruimteverwarming dat voorzien is van warmteopslag in keramisch materiaal.</li><li>De <strong>aankoop-, installatie-, of onderhoudskosten voor een accumulatieverwarming, elektrische boiler, warmtepompboiler of warmtepomp komen niet in aanmerking </strong>voor deze premie.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>Om de aanvraag in te dienen, hebt u een <strong>attest van de aannemer</strong> nodig.</li><li>U vraagt de premie aan <strong>na de werken</strong></li><li>Op de website van Fluvius vindt u het<ul><li><a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-huishoudelijke-klanten/sturing-elektrische-warmte\">attest en online-aanvraagformulier voor woongebouwen</a></li><li><a href=\"https://www.fluvius.be/nl/thema/premies/premies-voor-bedrijven/sturing-elektrische-warmte\">attest en online-aanvraagformulier voor niet-woongebouwen</a>.</li></ul></li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het premiebedrag is <strong>50% van het factuurbedrag</strong> voor het sturingsapparaat, met een <strong>maximum van 400 euro</strong>. </p><p>Deze premie maakt deel uit van het Nationale Plan voor Herstel en Veerkracht en wordt (deels) gefinancierd door de Europese Unie (NextGenerationEU). </p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:43.371441734Z",
+      "laatstGewijzigd": "2023-05-05T17:45:11.754230738Z",
+      "laatstOntvangen": "2023-05-05T17:45:11.754230738Z",
+      "productnummer": "2114",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/651a0611-da40-4fff-9c70-e56a866de21e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/8dc01ec9-5358-45ed-90f3-39fac1a5aa86"
+    },
+    {
+      "id": "26b241bd-3e93-4b28-8fd2-82f69badcf86",
+      "generatedAtTime": "2023-05-11T11:30:55.717997Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Natuurinspectie"
+      },
+      "beschrijving": {
+        "nl": "<p>Veel natuur in Vlaanderen is wettelijk beschermd. Natuurinspecteurs van de Vlaamse overheid controleren of iedereen de milieubeheerregelgeving respecteert, de regelgeving over bos, natuur, jacht, visserij en beschermde soorten. Om milieumisdrijven en milieu-inbreuken op te sporen hebben ze bepaalde bevoegdheden en kunnen ze sancties opleggen.</p>"
+      },
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "ANB - Natuurinspectie - Regio's"
+          },
+          "url": "https://natuurenbos.vlaanderen.be/natuurinspectie/waar-kan-ik-een-overtreding-melden",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:45.34298643Z",
+      "laatstGewijzigd": "2023-05-05T17:50:08.875268261Z",
+      "laatstOntvangen": "2023-05-05T17:50:08.875268261Z",
+      "productnummer": "2116",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/26b241bd-3e93-4b28-8fd2-82f69badcf86",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cefb4455-174d-498e-8a0f-8a732c87e0c2"
+    },
+    {
+      "id": "0e0b4a01-02db-4df4-b5c2-a8207f3b020b",
+      "generatedAtTime": "2023-05-11T11:30:55.588439Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor Dynamoprojecten"
+      },
+      "beschrijving": {
+        "nl": "<p>Met dynamoPROJECT stimuleren we scholen om een creatieve samenwerking aan te gaan met externe culturele partners. Leerlingen en leerkrachten doorlopen samen met minimum één externe culturele partner een samenhangend en creatief traject dat gekoppeld is aan het lesgebeuren en gericht is op een duurzame verankering van cultuureducatie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 25 april 2014 betreffende het onderwijs XXIV, artikel X.1 die werd vervangen door de gecodificeerde decreten sommige bepalingen voor het onderwijs van 28 oktober 2016, art. IV. 33</p><p>BVR van 20/06/2014 betreffende de nadere voorwaarden en procedure om subsidies toe te kennen voor projecten die cultuureducatie van onderwijsinstellingen stimuleren</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:48.948035593Z",
+      "laatstGewijzigd": "2023-05-05T17:50:31.415655494Z",
+      "laatstOntvangen": "2023-05-05T17:50:31.415655494Z",
+      "productnummer": "2214",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0e0b4a01-02db-4df4-b5c2-a8207f3b020b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2a88a7f9-16ad-4a23-b434-be9b4a30ae16"
+    },
+    {
+      "id": "e75a1637-fd42-4a74-a8ca-9c19c8212259",
+      "generatedAtTime": "2023-05-11T11:30:55.527469Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Publieke laadpaal aanvragen - Paal volgt wagen"
+      },
+      "beschrijving": {
+        "nl": "<p>Iedereen die <strong>niet over een private parkeerplaats (garage of oprit) beschikt</strong> en dus zelf geen laadpunt kan installeren, kan een publiek toegankelijk laadpunt aanvragen op <strong>maximaal 250 meter wandelafstand van de woonst/werkplaats</strong> (‘Paal volgt wagen’).</p>"
+      },
+      "type": "Voorwerp",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000096",
+          "@id": "OVO000096"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Publieke laadpaal aanvragen"
+          },
+          "url": "https://www.vlaanderen.be/publieke-laadpaal-aanvragen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:47.623794376Z",
+      "laatstGewijzigd": "2023-05-05T17:50:16.320861393Z",
+      "laatstOntvangen": "2023-05-05T17:50:16.320861393Z",
+      "productnummer": "2152",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e75a1637-fd42-4a74-a8ca-9c19c8212259",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/832c4e7b-9bbe-49f1-b254-6a1e2af69219"
+    },
+    {
+      "id": "7397215a-8d69-49a4-a9b6-6a144ad0bf0f",
+      "generatedAtTime": "2023-05-11T11:30:55.475847Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies ihkv internationalisering"
+      },
+      "beschrijving": {
+        "nl": "<p>Allerhande subsidies voor het stimuleren van internationale samenwerking en van de studentenmobiliteit.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000049",
+          "@id": "OVO000049"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:49.060827738Z",
+      "laatstGewijzigd": "2023-05-05T17:50:33.722799459Z",
+      "laatstOntvangen": "2023-05-05T17:50:33.722799459Z",
+      "productnummer": "2223",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7397215a-8d69-49a4-a9b6-6a144ad0bf0f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/8f93df76-a197-4005-9c42-41bcda64c77a"
+    },
+    {
+      "id": "dee114a1-f0e5-44b0-8964-4caaf300b100",
+      "generatedAtTime": "2023-05-11T11:30:55.380633Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal",
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Drankvergunning voor reizende drankgelegenheid"
+      },
+      "beschrijving": {
+        "nl": "<p>Als uitbater van een reizende drankgelegenheid (bijv. een tapwagen, een mobiele cocktailbar, een bar-boot...) hebt u een drankvergunning nodig voor het schenken van alcohol voor consumptie ter plaatse. Het gaat daarbij om gegiste dranken (bijv. bier, wijn, mousserende wijn…) en sterke dranken (bijv. gin, cognac, cocktails…). </p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li><p>KB van 3 april 1953 tot samenordening van de wetsbepalingen inzake de slijterijen van gegiste dranken</p></li><li><p>KB van 4 april 1953 tot regeling van de uitvoering van de wetsbepalingen inzake de slijterijen van gegiste dranken</p></li><li><p>Wet van 28 december 1983 betreffende het verstrekken van sterke drank en het betreffende vergunningsrecht</p></li><li><p>Wet van 15 december 2005 houdende administratieve vereenvoudiging II</p></li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "Drankvergunning",
+          "vergunning gegiste dranken",
+          "vergunning sterke drank",
+          "tapwagen",
+          "mobiele toog",
+          "foodtruck",
+          "marktkraam",
+          "alcohol",
+          "gegiste",
+          "sterke drank",
+          "sterkedrank"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001989",
+          "@id": "OVO001989"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Om in aanmerking te komen voor een drankvergunning, moet u voldoen aan de door de federale overheid bepaalde moraliteitsvoorwaarden. De controle gebeurt op basis van een <a href=\"https://www.uat-vlaanderen.be/uittreksel-uit-het-strafregister\">uittreksel uit het strafregister</a> (uittreksel strafregister model 596.1).</p><p>Het attest moet aangeleverd worden door:</p><ul><li><p>de uitbater</p></li><li><p>de eventuele zaakvoerder of zijn aangestelde</p></li><li><p>de inwonende personen die in de uitbating zouden kunnen deelnemen</p></li></ul><p>Als de uitbating in handen is van een vennootschap, moeten alle medezaakvoerders een attest kunnen voorleggen. De moraliteitsvoorwaarden zijn persoonsgeboden. De vergunning is persoonsgebonden en kan niet worden overgedragen.</p><p>De vergunning geldt voor het hele Belgische grondgebied en is geldig tot:</p><ul><li>de stopzetting van de activiteit </li><li>een wijziging op het vlak van de uitbater (bijv. wijziging medevennoot).</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U vraagt een drankvergunning aan bij het gemeentebestuur van uw woonplaats via het aanvraagformulier en vervolledigt de aanvraag met een uittreksel uit het strafregister (model 596.1) voor elk van volgende personen:</p><ul><li>de uitbater</li><li>de eventuele zaakvoerder of zijn aangestelde en inwonende personen die aan de uitbating zouden deelnemen </li><li>alle medezaakvoerders, als een vennootschap de zaak uitbaat.</li></ul><p>Na controle van de moraliteit (op basis van het uittreksel uit het strafregister) levert de gemeente de drankvergunning af.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>De aanvraag en de vergunning zijn gratis.</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:46.114704819Z",
+      "laatstGewijzigd": "2023-05-04T12:40:59.248499377Z",
+      "laatstOntvangen": "2023-05-04T12:40:59.248499377Z",
+      "productnummer": "2227",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/dee114a1-f0e5-44b0-8964-4caaf300b100",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2913a9ee-27a0-496a-a206-b87fb4d771f7"
+    },
+    {
+      "id": "6432a6ef-6db7-4ef3-b24b-8c85a62993f1",
+      "generatedAtTime": "2023-05-11T11:30:55.313655Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkingssubsidies in het kader van het gelijkekansenbeleid"
+      },
+      "beschrijving": {
+        "nl": "<p>Werkingssubsidies aan organisaties in het kader van het gelijkekansenbeleid, zoals Transgender Infopunt, Cavaria, Holebifoon, Belgian Pride, Grip, Ella, Furia, Vrouwenraad, Rosa, Unia…</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Jaarlijks uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001835",
+          "@id": "OVO001835"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:50.249299708Z",
+      "laatstGewijzigd": "2023-05-05T17:55:18.183738892Z",
+      "laatstOntvangen": "2023-05-05T17:55:18.183738892Z",
+      "productnummer": "2266",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6432a6ef-6db7-4ef3-b24b-8c85a62993f1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/59d05574-e517-4b74-a5ed-78f2759e5f97"
+    },
+    {
+      "id": "a4d7b8a1-9e72-42af-b36f-c25a72b1e55e",
+      "generatedAtTime": "2023-05-11T11:30:54.911299Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsubsidie aankoop met het oog op bebossing (BCF)"
+      },
+      "beschrijving": {
+        "nl": "<p>Aankoop van grond</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:50.627229605Z",
+      "laatstGewijzigd": "2023-05-05T17:55:21.709850164Z",
+      "laatstOntvangen": "2023-05-05T17:55:21.709850164Z",
+      "productnummer": "2284",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a4d7b8a1-9e72-42af-b36f-c25a72b1e55e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5bb52b19-9f89-404a-ac18-ee3dcb5f82e7"
+    },
+    {
+      "id": "62330495-7ecf-4cc8-90a3-1115353147f8",
+      "generatedAtTime": "2023-05-11T11:30:54.897458Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Aankoopsubsidie met het oog op erkenning"
+      },
+      "beschrijving": {
+        "nl": "<p>Aankoop van gronden met het oog op het realiseren van een terrein waarop een natuurbeheerplan van type 4 van toepassing is.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>BVR 14/07/2017 betreffende de subsidiëring<br />van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:50.516035633Z",
+      "laatstGewijzigd": "2023-05-05T17:55:21.462047406Z",
+      "laatstOntvangen": "2023-05-05T17:55:21.462047406Z",
+      "productnummer": "2283",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/62330495-7ecf-4cc8-90a3-1115353147f8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/533876a2-9e9a-42c6-9e8b-3da64925b62e"
+    },
+    {
+      "id": "a75d16d4-32eb-4e07-9b04-25d80e81fd77",
+      "generatedAtTime": "2023-05-11T11:30:54.820172Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor het aanpassen van een omheining ifv de wolf"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor het aanpassen van een omheining<br />in functie van de wolf.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>BVR eerste keer principieel goedgekeurd<br />(16/7/2021)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:50.739796279Z",
+      "laatstGewijzigd": "2023-05-05T17:55:22.238358448Z",
+      "laatstOntvangen": "2023-05-05T17:55:22.238358448Z",
+      "productnummer": "2287",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a75d16d4-32eb-4e07-9b04-25d80e81fd77",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2a2f5821-4e70-48b9-822d-5ffe021cf1bb"
+    },
+    {
+      "id": "22a3a764-37cd-48b6-a0da-a1c1634fab6e",
+      "generatedAtTime": "2023-05-11T11:30:54.661824Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Recyclagehub (steun voor ondernemingen die willen investeren in innovatieve recyclagetechnologieën om materiaalkringlopen te sluiten)"
+      },
+      "beschrijving": {
+        "nl": "<p>Toekenning van steun aan ondernemingen om materiaalkringlopen te sluiten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Materialendecreet : het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, art.15, 1° (1 juli 2016)</p><p>BVR van 3 september 2021</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003323",
+          "@id": "OVO003323"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:51.211558651Z",
+      "laatstGewijzigd": "2023-05-05T17:55:26.356815461Z",
+      "laatstOntvangen": "2023-05-05T17:55:26.356815461Z",
+      "productnummer": "2307",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/22a3a764-37cd-48b6-a0da-a1c1634fab6e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c109bd54-c184-435a-9cb6-4ba8742281e2"
+    },
+    {
+      "id": "6889fece-d29d-4f6f-a429-e75f7f1c7822",
+      "generatedAtTime": "2023-05-11T11:30:54.656109Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Bebossing/herbebossing/inkomenssteun"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor aanplant of heraanplant van bos<br />eventueel in combinatie met inkomenscompensatie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>BVR 02/10/15 betreffende het verlenen van<br />subsidies voor bebossing en voor herbebossing</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:50.851453903Z",
+      "laatstGewijzigd": "2023-05-05T17:55:22.398640724Z",
+      "laatstOntvangen": "2023-05-05T17:55:22.398640724Z",
+      "productnummer": "2288",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6889fece-d29d-4f6f-a429-e75f7f1c7822",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3c8ca753-adc5-45ce-a741-3cf46aeb8b3b"
+    },
+    {
+      "id": "4c617937-d32f-4102-baef-e7fc053a29ee",
+      "generatedAtTime": "2023-05-11T11:30:54.546829Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies Relance VV24"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidiëring voor klimaatadaptieve en -mitigerende maatregelen in de open ruimte (betalingenvia MINA) aan provincies, gemeenten, regionale landschappen, individuele landbouwers,…(zowel subsidies binnen Water-Land-Schap als subsidies binnen VLM-projecten. ‘ondersteuning voor de uitvoering van lokale maatregelen in het kader van relance/Blue Deal vv24’)</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>conform VCO en begrotingsdecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003323",
+          "@id": "OVO003323"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:51.451444665Z",
+      "laatstGewijzigd": "2023-05-05T17:55:26.75448842Z",
+      "laatstOntvangen": "2023-05-05T17:55:26.75448842Z",
+      "productnummer": "2309",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4c617937-d32f-4102-baef-e7fc053a29ee",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ee00185d-1784-434c-ba6b-21727109635a"
+    },
+    {
+      "id": "5c9cd810-89b9-4d98-ac48-673304822240",
+      "generatedAtTime": "2023-05-11T11:30:54.467829Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor uitvoering landinrichtingsplannen"
+      },
+      "beschrijving": {
+        "nl": "<p>Een landinrichtingsplan omvat de voorgenomen maatregelen (inrichtingswerken, grondverwervingen, instellen erfdienstbaarheden, ...) voor de aanpak van openruimte-vraagstukken (behoud, bescherming en ontwikkeling van de open ruimte) op maat van het gebied. Een landinrichtingsplan wordt, onder aansturing van een planbegeleidingsgroep, opgemaakt door de Vlaamse Landmaatschappij (VLM).</p><p>De minister stelt de landinrichtingsplannen vast en kent daarna, per maatregel op basis van concrete uitvoeringsdossiers, via ministerieel besluit, subsidies toe aan de partners voor de uitvoering van ‘hun’ maatregelen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 28 maart 2014 betreffende de landinrichting</p><p>BVR van 6/06/2014 betreffende de landinrichting</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003323",
+          "@id": "OVO003323"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:51.567788587Z",
+      "laatstGewijzigd": "2023-05-05T17:55:27.982354085Z",
+      "laatstOntvangen": "2023-05-05T17:55:27.982354085Z",
+      "productnummer": "2319",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5c9cd810-89b9-4d98-ac48-673304822240",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fcffcd10-63be-40ea-8d14-4be2d05e3ab9"
+    },
+    {
+      "id": "845e9a08-48b6-43f3-bee4-b6778c2b37c5",
+      "generatedAtTime": "2023-05-11T11:30:54.445612Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor projectoproepen departement Omgeving binnen het thema-overschrijdend instrumentarium omgeving"
+      },
+      "beschrijving": {
+        "nl": "<p>Lopende en aankomende subsidie-initiatieven of andere vormen van financiële ondersteuning van het Departement Omgeving die gekoppeld zijn aan een oproep.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003323",
+          "@id": "OVO003323"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:51.792717852Z",
+      "laatstGewijzigd": "2023-05-05T17:55:28.382442512Z",
+      "laatstOntvangen": "2023-05-05T17:55:28.382442512Z",
+      "productnummer": "2321",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/845e9a08-48b6-43f3-bee4-b6778c2b37c5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/428c7d21-8294-4a9f-af89-6724b633e03c"
+    },
+    {
+      "id": "90039f2e-507d-4daf-ba7b-c042a6fc8b74",
+      "generatedAtTime": "2023-05-11T11:30:54.319252Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor tewerkstelling VIA-akkoorden"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor loonkosten en eindejaarspremie<br />van werknemers bij milieu- en natuurverenigingen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>geen BVR</p><p>Vlaams akkoord voor de social-profit/non-profit van 6 juni 2005;<br />Vierde Vlaams Intersectoraal Akkoord voor de social-/non-profitsectoren voor de periode 2011 tot 2015 van 2 december 2011;</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003323",
+          "@id": "OVO003323"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.021860204Z",
+      "laatstGewijzigd": "2023-05-05T17:55:30.408447258Z",
+      "laatstOntvangen": "2023-05-05T17:55:30.408447258Z",
+      "productnummer": "2329",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/90039f2e-507d-4daf-ba7b-c042a6fc8b74",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/85c5b830-e942-4c79-8c26-dba1a3e326fc"
+    },
+    {
+      "id": "47461bed-1b28-4d93-b4b0-3c5d05bff266",
+      "generatedAtTime": "2023-05-11T11:30:54.307256Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor tewerkstelling DAC-statuut bij milieu- en natuurverenigingen"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor loonkost van DAC tewerkstellingsplaatsen bij milieu- en natuurverenigingen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>BVR 19/10/2012 tot wijziging van het BVR 14/05/2004 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut, wat betreft de delegatie voor het toekennen van de subsidie en het verloop van de procedure voor het toekennen ervan</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003323",
+          "@id": "OVO003323"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:51.904118166Z",
+      "laatstGewijzigd": "2023-05-05T17:55:28.727066518Z",
+      "laatstOntvangen": "2023-05-05T17:55:28.727066518Z",
+      "productnummer": "2324",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/47461bed-1b28-4d93-b4b0-3c5d05bff266",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/354ee4f5-1a67-4707-b8bc-f6580ba26a66"
+    },
+    {
+      "id": "6a6613a2-8867-4501-964b-d67aedcc6941",
+      "generatedAtTime": "2023-05-11T11:30:54.088342Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Beheerspremie varend erfgoed"
+      },
+      "beschrijving": {
+        "nl": "<p>Alle eigenaars en beheerders van beschermde vaartuigen kunnen aanspraak maken op een premie voor het beheer van het vaartuig. Zo wil de Vlaamse overheid hen ondersteunen om de erfgoedwaarde van het beschermd vaartuig te behouden. Eigenaars van niet-beschermd varend erfgoed dat enkel in de inventaris is opgenomen, kunnen geen premie aanvragen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 29 maart 2002 tot bescherming van varend erfgoed en BVR 27 november 2015</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Alle maatregelen die het behoud van de erfgoedwaarden van beschermd varend erfgoed nastreven, komen in aanmerking voor een beheerspremie, op voorwaarde dat ze zijn opgenomen in een goedgekeurde beheersprogramma. Ook maatregelen voor het actief in de vaart houden, het terug varend of het drijvend maken van het beschermde vaartuig komen in aanmerking.</p><p>Op de website van Onroerend Erfgoed vindt u <a href=\"https://www.onroerenderfgoed.be/beheerspremie-varend-erfgoed\">alle info en voorwaarden van de beheerspremie voor varend erfgoed</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.54851702Z",
+      "laatstGewijzigd": "2023-05-05T18:00:07.378642061Z",
+      "laatstOntvangen": "2023-05-05T18:00:07.378642061Z",
+      "productnummer": "2340",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6a6613a2-8867-4501-964b-d67aedcc6941",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/85ed6c40-70ce-4053-b3a6-e32af1ea90ed"
+    },
+    {
+      "id": "50a5d700-f44e-4fce-b1ef-cd90be788e1e",
+      "generatedAtTime": "2023-05-11T11:30:54.079802Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erfgoedpremie via oproep (voor ingrijpende werken)"
+      },
+      "beschrijving": {
+        "nl": "<p>Wilt u een erfgoedpremie aanvragen voor grote, uitgebreide beheers- of restauratiewerken aan beschermd onroerend erfgoed en passen de werken binnen het thema van een oproep, dan kunt u deelnemen aan die oproep. Er hangt geen maximumbedrag vast aan de erfgoedpremie via thematische oproep.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 12 juli 2013 - BVR van 16 mei 2014<br />Hoofdstuk 11 premies</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Erfgoedpremie via oproep"
+          },
+          "url": "https://www.onroerenderfgoed.be/erfgoedpremie-oproep",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:53.007634466Z",
+      "laatstGewijzigd": "2023-05-05T18:00:08.176976994Z",
+      "laatstOntvangen": "2023-05-05T18:00:08.176976994Z",
+      "productnummer": "2342",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/50a5d700-f44e-4fce-b1ef-cd90be788e1e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c0100718-1466-4b23-8c8e-19cd14d99147"
+    },
+    {
+      "id": "976f4d36-65e9-44be-833f-93ceec5eac42",
+      "generatedAtTime": "2023-05-11T11:30:53.998568Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Call groene stroom"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u investeert in groen stroom specifiek fotovoltaïsche zonnepanelen met een zekere grootte en/of voor een specifieke toepassing, én kleine en middelgrote windturbines,komt uw project mogelijks in aanmerking voor een investeringssubsidie. Per call worden de ontvankelijke investeringsprojectenbeoordeeld en gerangschikt op basis van het bod, met name de steunvraag per verwachte energieopbrengst van de installatie. Het beschikbare subsidiebedrag wordt verdeeld over de gunstig gerangschikte investeringsprojecten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Energiedecreet van 8/05/2009: Decreet van 08/05/2009 houdende algemene bepalingen betreffende het energiebeleid</p><p>BVR 19/11/2010 houdende algemene bepalingen over het energiebeleid, art. 7.11.1, §1 (vanaf 2021 incl. PV)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:07.935949567Z",
+      "laatstGewijzigd": "2023-05-05T18:00:10.193145665Z",
+      "laatstOntvangen": "2023-05-05T18:00:10.193145665Z",
+      "productnummer": "2350",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/976f4d36-65e9-44be-833f-93ceec5eac42",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bf650ce8-fddd-4682-ad94-274061b97b20"
+    }
+  ]
+}

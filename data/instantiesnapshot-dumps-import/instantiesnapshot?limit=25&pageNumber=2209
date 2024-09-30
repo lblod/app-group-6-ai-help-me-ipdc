@@ -1,1 +1,2219 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2209","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2210","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2024-08-07T06:20:15.055793Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2208","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2024-08-07T06:15:39.04889Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2209","@type":"EventStream","member":[{"id":"8e1e5b19-7ae3-4d17-8194-0a724b2a6b90","generatedAtTime":"2024-08-07T06:20:15.055793Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Vlaams Beschermingsmechanisme 11","nl":"Vlaams Beschermingsmechanisme 11","nl-BE-x-generated-informal":"Vlaams Beschermingsmechanisme 11"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die door de coronamaatregelen van eind 2021 verplicht moesten sluiten of hun omzet met 60% of meer zagen dalen, kunnen in aanmerking komen voor de steunmaatregel.</p>","nl":"<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die door de coronamaatregelen van eind 2021 verplicht moesten sluiten of hun omzet met 60% of meer zagen dalen, kunnen in aanmerking komen voor de steunmaatregel.</p>","nl-BE-x-formal":"<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die door de coronamaatregelen van eind 2021 verplicht moesten sluiten of hun omzet met 60% of meer zagen dalen, kunnen in aanmerking komen voor de steunmaatregel.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["VBM11","VBM 11","VBM","beschermingspremie"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p><strong>De maatregel kan niet meer worden aangevraagd.</strong></p>","nl":"<p><strong>De maatregel kan niet meer worden aangevraagd.</strong></p>","nl-BE-x-formal":"<p><strong>De maatregel kan niet meer worden aangevraagd.</strong></p>"},"@type":"Procedure","order":0}],"creatie":"2021-12-06T17:44:36Z","laatstGewijzigd":"2023-05-11T16:25:27Z","laatstOntvangen":"2024-08-07T06:20:14.949078362Z","productnummer":"2024","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8e1e5b19-7ae3-4d17-8194-0a724b2a6b90","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0c6d3b03-ed4e-4b67-8527-7c4ab83955b8"},{"id":"0563040d-8d0e-47f3-b8bb-00178e1adb6e","generatedAtTime":"2024-08-07T06:20:14.806429Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"VBM10 - Vlaams Beschermingsmechanisme 10","nl-BE-x-generated-informal":"VBM10 - Vlaams Beschermingsmechanisme 10","nl":"VBM10 - Vlaams Beschermingsmechanisme 10"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die in de periode <strong>van 1 juli tot en met 30 september 2021</strong> hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p>","nl":"<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die in de periode <strong>van 1 juli tot en met 30 september 2021</strong> hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p>","nl-BE-x-formal":"<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die in de periode <strong>van 1 juli tot en met 30 september 2021</strong> hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["VB10","beschermingsmechanisme"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl":"<p>De maatregel kan niet meer aangevraagd worden.</p>","nl-BE-x-formal":"<p>De maatregel kan niet meer aangevraagd worden.</p>","nl-BE-x-generated-informal":"<p>De maatregel kan niet meer aangevraagd worden.</p>"},"@type":"Procedure","order":0}],"creatie":"2021-07-28T15:15:57Z","laatstGewijzigd":"2023-05-11T16:54:16Z","laatstOntvangen":"2024-08-07T06:20:14.717038733Z","productnummer":"1986","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0563040d-8d0e-47f3-b8bb-00178e1adb6e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e96f1dfb-84e2-4841-b9f9-b9c4d55d2a1d"},{"id":"3e20871a-f9bb-477b-b545-158985be8cea","generatedAtTime":"2024-08-07T06:20:14.554104Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Blue Deal Ecologiesteun Waterbesparing","nl":"Blue Deal Ecologiesteun Waterbesparing","nl-BE-x-formal":"Blue Deal Ecologiesteun Waterbesparing"},"beschrijving":{"nl":"<p>Vlaanderen maakt extra middelen vrij voor innovatieve waterprojecten. Bedrijven die een concreet waterproject hebben uitgewerkt of daarvoor plannen koesteren, kunnen hun projectidee al aftoetsen bij VLAIO, dat nagaat of het projectvoorstel in aanmerking komt voor de strategische ecologiesteun of een andere subsidiëringsmogelijkheid. </p>","nl-BE-x-formal":"<p>Vlaanderen maakt extra middelen vrij voor innovatieve waterprojecten. Bedrijven die een concreet waterproject hebben uitgewerkt of daarvoor plannen koesteren, kunnen hun projectidee al aftoetsen bij VLAIO, dat nagaat of het projectvoorstel in aanmerking komt voor de strategische ecologiesteun of een andere subsidiëringsmogelijkheid. </p>","nl-BE-x-generated-informal":"<p>Vlaanderen maakt extra middelen vrij voor innovatieve waterprojecten. Bedrijven die een concreet waterproject hebben uitgewerkt of daarvoor plannen koesteren, kunnen hun projectidee al aftoetsen bij VLAIO, dat nagaat of het projectvoorstel in aanmerking komt voor de strategische ecologiesteun of een andere subsidiëringsmogelijkheid. </p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["waterscan","klimaatstress","droogtebestrijding","waterbalans","waterscans","waterbesparing","waterbesparende maatregelen"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"websites":[{"naam":{"nl-BE-x-formal":"Blue deal waterbesparende investeringen (VLAIO.be)","nl":"Blue deal waterbesparende investeringen (VLAIO.be)","nl-BE-x-generated-informal":"Blue deal waterbesparende investeringen (VLAIO.be)"},"url":"https://www.vlaio.be/nl/subsidies-financiering/blue-deal-waterbesparende-investeringen","@type":"Website","order":0}],"creatie":"2021-06-14T18:51:41Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-07T06:20:14.439493738Z","productnummer":"1980","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3e20871a-f9bb-477b-b545-158985be8cea","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7d668973-1959-4033-a31b-11665afd1c04"},{"id":"3cfd162f-a571-462f-abd5-d572158acb92","generatedAtTime":"2024-08-07T06:20:14.173851Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Corona-omboekingspremie","nl-BE-x-formal":"Corona-omboekingspremie","nl-BE-x-generated-informal":"Corona-omboekingspremie"},"beschrijving":{"nl":"<p>De evenementensector werd hard getroffen door de coronamaatregelen. Geplande en geboekte evenementen moesten geannuleerd worden, tickets moesten terugbetaald of omgeboekt worden. De getroffen ondernemingen worden, afhankelijk van het aantal verrichte eerste omboekingen, ondersteund met de corona-omboekingspremie.</p>","nl-BE-x-formal":"<p>De evenementensector werd hard getroffen door de coronamaatregelen. Geplande en geboekte evenementen moesten geannuleerd worden, tickets moesten terugbetaald of omgeboekt worden. De getroffen ondernemingen worden, afhankelijk van het aantal verrichte eerste omboekingen, ondersteund met de corona-omboekingspremie.</p>","nl-BE-x-generated-informal":"<p>De evenementensector werd hard getroffen door de coronamaatregelen. Geplande en geboekte evenementen moesten geannuleerd worden, tickets moesten terugbetaald of omgeboekt worden. De getroffen ondernemingen worden, afhankelijk van het aantal verrichte eerste omboekingen, ondersteund met de corona-omboekingspremie.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"contactOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-formal":"<p>Een aanvraag indienen is mogelijk vanaf medio september 2021. </p>","nl-BE-x-generated-informal":"<p>Een aanvraag indienen is mogelijk vanaf medio september 2021. </p>","nl":"<p>Een aanvraag indienen is mogelijk vanaf medio september 2021. </p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Elke in aanmerking komende omboeking werd betoelaagd met maximaal 2 euro per omboeking. </p>","nl-BE-x-formal":"<p>Elke in aanmerking komende omboeking werd betoelaagd met maximaal 2 euro per omboeking. </p>","nl-BE-x-generated-informal":"<p>Elke in aanmerking komende omboeking werd betoelaagd met maximaal 2 euro per omboeking. </p>"},"naam":{"nl":"Financieel voordeel","nl-BE-x-formal":"Financieel voordeel","nl-BE-x-generated-informal":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2021-06-07T07:44:07Z","laatstGewijzigd":"2023-05-11T17:03:50Z","laatstOntvangen":"2024-08-07T06:20:14.060352684Z","productnummer":"1978","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3cfd162f-a571-462f-abd5-d572158acb92","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/50765b16-c096-4176-aa2f-0222572b6992"},{"id":"67bcf093-bb49-4fde-9194-3bf61d6cf551","generatedAtTime":"2024-08-07T06:20:13.904158Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Toelating tot arbeid voor buitenlandse werknemers","nl-BE-x-formal":"Toelating tot arbeid voor buitenlandse werknemers","nl-BE-x-generated-informal":"Toelating tot arbeid voor buitenlandse werknemers"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Als je als werkgever een buitenlandse werknemer in loondienst wilt aanwerven, moet je daar vooraf een toelating tot arbeid voor aanvragen.</p>","nl":"<p>Als u als werkgever een buitenlandse werknemer in loondienst wilt aanwerven, moet u daar vooraf een toelating tot arbeid voor aanvragen.</p>","nl-BE-x-formal":"<p>Als u als werkgever een buitenlandse werknemer in loondienst wilt aanwerven, moet u daar vooraf een toelating tot arbeid voor aanvragen.</p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Het soort werk dat de buitenlander zal verrichten, bepaalt of hij zal worden toegelaten tot de arbeidsmarkt. Een toelating tot arbeid kan alleen worden toegekend als het werk van de buitenlander tot <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-categorieen\">een welbepaalde categorie</a> behoort. Voor elke categorie gelden aparte voorwaarden en procedures.</p><p><a href=\"https://www.uat-vlaanderen.be/als-buitenlander-in-vlaanderen-werken/simulator-toelatingen-tot-arbeid\">Door enkele vragen te beantwoorden</a>, kunt u nagaan via welke categorie van werknemer u mogelijk in aanmerking komt voor een toelating tot arbeid.</p><p>Voor bepaalde categorieën van buitenlanders is er <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-voor-wie\">geen toelating tot arbeid vereist</a>, bijvoorbeeld als het gaat om onderdanen van een EU-lidstaat of van IJsland, Noorwegen, Liechtenstein of Zwitserland. Zij mogen om het even welke job uitoefenen in Vlaanderen, bij om het even welke werkgever.</p>","nl-BE-x-generated-informal":"<p>Het soort werk dat de buitenlander zal verrichten, bepaalt of hij zal worden toegelaten tot de arbeidsmarkt. Een toelating tot arbeid kan alleen worden toegekend als het werk van de buitenlander tot <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-categorieen\">een welbepaalde categorie</a> behoort. Voor elke categorie gelden aparte voorwaarden en procedures.</p><p><a href=\"https://www.uat-vlaanderen.be/als-buitenlander-in-vlaanderen-werken/simulator-toelatingen-tot-arbeid\">Door enkele vragen te beantwoorden</a>, kan je nagaan via welke categorie van werknemer je mogelijk in aanmerking komt voor een toelating tot arbeid.</p><p>Voor bepaalde categorieën van buitenlanders is er <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-voor-wie\">geen toelating tot arbeid vereist</a>, bijvoorbeeld als het gaat om onderdanen van een EU-lidstaat of van IJsland, Noorwegen, Liechtenstein of Zwitserland. Zij mogen om het even welke job uitoefenen in Vlaanderen, bij om het even welke werkgever.</p>","nl-BE-x-formal":"<p>Het soort werk dat de buitenlander zal verrichten, bepaalt of hij zal worden toegelaten tot de arbeidsmarkt. Een toelating tot arbeid kan alleen worden toegekend als het werk van de buitenlander tot <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-categorieen\">een welbepaalde categorie</a> behoort. Voor elke categorie gelden aparte voorwaarden en procedures.</p><p><a href=\"https://www.uat-vlaanderen.be/als-buitenlander-in-vlaanderen-werken/simulator-toelatingen-tot-arbeid\">Door enkele vragen te beantwoorden</a>, kunt u nagaan via welke categorie van werknemer u mogelijk in aanmerking komt voor een toelating tot arbeid.</p><p>Voor bepaalde categorieën van buitenlanders is er <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-voor-wie\">geen toelating tot arbeid vereist</a>, bijvoorbeeld als het gaat om onderdanen van een EU-lidstaat of van IJsland, Noorwegen, Liechtenstein of Zwitserland. Zij mogen om het even welke job uitoefenen in Vlaanderen, bij om het even welke werkgever.</p>"},"naam":{"nl-BE-x-formal":"Voorwaarden","nl-BE-x-generated-informal":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Afhankelijk van de periode die de buitenlandse werknemer in Vlaanderen za werken, vraag je de toelating tot arbeid aan <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-aanvragen-via-e-mail\">per e-mail</a> of via <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-online-aanvragen-via-uniek-loket\">het uniek loket</a>.</p>","nl-BE-x-formal":"<p>Afhankelijk van de periode die de buitenlandse werknemer in Vlaanderen za werken, vraagt u de toelating tot arbeid aan <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-aanvragen-via-e-mail\">per e-mail</a> of via <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-online-aanvragen-via-uniek-loket\">het uniek loket</a>.</p>","nl":"<p>Afhankelijk van de periode die de buitenlandse werknemer in Vlaanderen za werken, vraagt u de toelating tot arbeid aan <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-aanvragen-via-e-mail\">per e-mail</a> of via <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-online-aanvragen-via-uniek-loket\">het uniek loket</a>.</p>"},"@type":"Procedure","order":0}],"creatie":"2021-06-03T12:59:44Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-07T06:20:13.763161106Z","productnummer":"1976","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/67bcf093-bb49-4fde-9194-3bf61d6cf551","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/1dd6db9b-c9a4-470e-885b-f7a589dea300"},{"id":"b78616ce-24a4-40ef-9f87-763db0f09bdb","generatedAtTime":"2024-08-07T06:20:13.044079Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"O&O-haalbaarheidsstudie","nl-BE-x-formal":"O&O-haalbaarheidsstudie","nl-BE-x-generated-informal":"O&amp;O-haalbaarheidsstudie"},"beschrijving":{"nl":"<p>Bedrijven die een innovatief project beogen waarvan de haalbaarheid nog onvoldoende duidelijk is, kunnen onder bepaalde voorwaarden steun krijgen voor een O&amp;O-haalbaarheidsstudie. Die moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p>","nl-BE-x-formal":"<p>Bedrijven die een innovatief project beogen waarvan de haalbaarheid nog onvoldoende duidelijk is, kunnen onder bepaalde voorwaarden steun krijgen voor een O&amp;O-haalbaarheidsstudie. Die moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p>","nl-BE-x-generated-informal":"<p>Bedrijven die een innovatief project beogen waarvan de haalbaarheid nog onvoldoende duidelijk is, kunnen onder bepaalde voorwaarden steun krijgen voor een O&amp;O-haalbaarheidsstudie. Die moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["O&O","O&O-haalbaarheid","onderzoek & ontwikkeling","R&d-haalbaarheid","r&","research and development"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"contactOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"voorwaarden":[{"beschrijving":{"nl-BE-x-formal":"<p>Een haalbaarheidsstudie moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p><p>De innovatie die met het innovatieve vervolgtraject beoogd wordt, moet het potentieel hebben voor voldoende valorisatie in Vlaanderen. De haalbaarheidsstudie is een voorbereiding voor een steunbaar innovatief vervolgtraject.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>","nl":"<p>Een haalbaarheidsstudie moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p><p>De innovatie die met het innovatieve vervolgtraject beoogd wordt, moet het potentieel hebben voor voldoende valorisatie in Vlaanderen. De haalbaarheidsstudie is een voorbereiding voor een steunbaar innovatief vervolgtraject.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>","nl-BE-x-generated-informal":"<p>Een haalbaarheidsstudie moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p><p>De innovatie die met het innovatieve vervolgtraject beoogd wordt, moet het potentieel hebben voor voldoende valorisatie in Vlaanderen. De haalbaarheidsstudie is een voorbereiding voor een steunbaar innovatief vervolgtraject.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>"},"naam":{"nl-BE-x-formal":"Voorwaarden","nl-BE-x-generated-informal":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-formal":"<p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Bekijk de aanvraagprocedure op de website van VLAIO</a>.</p>","nl-BE-x-generated-informal":"<p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Bekijk de aanvraagprocedure op de website van VLAIO</a>.</p>","nl":"<p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Bekijk de aanvraagprocedure op de website van VLAIO</a>.</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl-BE-x-formal":"<p>Met deze steun kunt u 40 tot 50% van de projectbegroting financieren, met een maximale steun van 50.000 euro. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>","nl-BE-x-generated-informal":"<p>Met deze steun kan je 40 tot 50% van de projectbegroting financieren, met een maximale steun van 50.000 euro. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>","nl":"<p>Met deze steun kunt u 40 tot 50% van de projectbegroting financieren, met een maximale steun van 50.000 euro. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>"},"naam":{"nl":"Financieel voordeel","nl-BE-x-formal":"Financieel voordeel","nl-BE-x-generated-informal":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2021-05-26T15:36:11Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-07T06:20:12.904400178Z","productnummer":"1974","gearchiveerd":false,"publicatieLink":{"naam":{"nl-BE-x-generated-informal":"Lees meer op vlaanderen.be","nl-BE-x-formal":"Lees meer op vlaanderen.be","nl":"Lees meer op vlaanderen.be","en":"See also on vlaanderen.be"},"url":"https://www.uat-vlaanderen.be/Product/35bf1e7d-3904-4bda-a88b-2170885c8fcc"},"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"verwanteProducten":[{"id":"388e90d9-68fb-4717-bdf8-5ff4c071939f","productnummer":"268","type":"INSTANTIE","order":0}],"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b78616ce-24a4-40ef-9f87-763db0f09bdb","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/be9fb04d-a832-4282-ab61-1f8045cfad3c"},{"id":"eaeb5f7f-ee22-4277-b1a3-c0fc692ef48a","generatedAtTime":"2024-08-07T06:20:12.643684Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Vlaams Beschermingsmechanisme 9","nl":"Vlaams Beschermingsmechanisme 9","nl-BE-x-generated-informal":"Vlaams Beschermingsmechanisme 9"},"beschrijving":{"nl":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 juni 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 juni 2021 en 30 juni 2021, konden deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 9 juni volledig mochten heropenen, konden nog steeds een aanvraag indienen als verplicht gesloten sector voor de periode van 1 tot en met 8 juni 2021.</p>","nl-BE-x-formal":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 juni 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 juni 2021 en 30 juni 2021, konden deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 9 juni volledig mochten heropenen, konden nog steeds een aanvraag indienen als verplicht gesloten sector voor de periode van 1 tot en met 8 juni 2021.</p>","nl-BE-x-generated-informal":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 juni 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 juni 2021 en 30 juni 2021, konden deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 9 juni volledig mochten heropenen, konden nog steeds een aanvraag indienen als verplicht gesloten sector voor de periode van 1 tot en met 8 juni 2021.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["VBM9","VBM 9","bescherm mijn idee"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl":"<p>Het Vlaams Beschermingsmechanisme 9 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>","nl-BE-x-formal":"<p>Het Vlaams Beschermingsmechanisme 9 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>","nl-BE-x-generated-informal":"<p>Het Vlaams Beschermingsmechanisme 9 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>"},"@type":"Procedure","order":0}],"creatie":"2021-04-29T12:18:22Z","laatstGewijzigd":"2023-05-11T16:32:41Z","laatstOntvangen":"2024-08-07T06:20:12.525162337Z","productnummer":"1972","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/eaeb5f7f-ee22-4277-b1a3-c0fc692ef48a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6e0b45ed-84c2-44d7-81a0-194faba12bb9"},{"id":"41033706-b55f-4bc2-b9b4-cb409c4ecc99","generatedAtTime":"2024-08-07T06:20:12.37608Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"VBM8 - Vlaams Beschermingsmechanisme 8","nl":"VBM8 - Vlaams Beschermingsmechanisme 8","nl-BE-x-generated-informal":"VBM8 - Vlaams Beschermingsmechanisme 8"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 mei 2021 hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 mei 2021 en 31 mei 2021, kunnen deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 8 mei hun terrassen mogen openen, kunnen nog steeds een aanvraag indienen als verplicht gesloten sector voor de hele maand mei 2021.</p>","nl":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 mei 2021 hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 mei 2021 en 31 mei 2021, kunnen deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 8 mei hun terrassen mogen openen, kunnen nog steeds een aanvraag indienen als verplicht gesloten sector voor de hele maand mei 2021.</p>","nl-BE-x-formal":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 mei 2021 hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 mei 2021 en 31 mei 2021, kunnen deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 8 mei hun terrassen mogen openen, kunnen nog steeds een aanvraag indienen als verplicht gesloten sector voor de hele maand mei 2021.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["VBM8","VBM 8"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-formal":"<p>Het Vlaams Beschermingsmechanisme 8 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>","nl-BE-x-generated-informal":"<p>Het Vlaams Beschermingsmechanisme 8 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>","nl":"<p>Het Vlaams Beschermingsmechanisme 8 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>"},"@type":"Procedure","order":0}],"creatie":"2021-04-29T12:16:40Z","laatstGewijzigd":"2023-05-11T16:32:34Z","laatstOntvangen":"2024-08-07T06:20:12.274102142Z","productnummer":"1971","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/41033706-b55f-4bc2-b9b4-cb409c4ecc99","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4cd616f7-a2a2-49ee-b3ef-327287d26776"},{"id":"bad0ceb1-6bae-442c-b38d-aa028dcced65","generatedAtTime":"2024-08-07T06:20:12.121407Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vlaams beschermingsmechanisme 7","nl-BE-x-formal":"Vlaams beschermingsmechanisme 7","nl-BE-x-generated-informal":"Vlaams beschermingsmechanisme 7"},"beschrijving":{"nl":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>","nl-BE-x-formal":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>","nl-BE-x-generated-informal":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["VBM7","VB7","beschermingsmechanisme","corona","vlaio"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>","nl-BE-x-formal":"<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>","nl":"<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl-BE-x-formal":"<h3>.</h3>","nl-BE-x-generated-informal":"<h3>.</h3>","nl":"<h3>.</h3>"},"naam":{"nl":"Financieel voordeel","nl-BE-x-formal":"Financieel voordeel","nl-BE-x-generated-informal":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2021-03-22T09:14:01Z","laatstGewijzigd":"2023-05-11T16:32:26Z","laatstOntvangen":"2024-08-07T06:20:11.999655403Z","productnummer":"1964","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bad0ceb1-6bae-442c-b38d-aa028dcced65","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/da553edb-0060-4327-bfff-bf64aa5ea99a"},{"id":"c10ea2b5-ca7f-409a-906d-fdf49a822372","generatedAtTime":"2024-08-07T06:20:11.852063Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Vlaams Beschermingsmechanisme 6","nl":"Vlaams Beschermingsmechanisme 6","nl-BE-x-generated-informal":"Vlaams Beschermingsmechanisme 6"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 maart 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking voor deze steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 maart 2021 en 31 maart 2021 of tussen 27 maart 2021 en 31 maart 2021 konden deze steun aanvragen voor de sluitingsperiode.</p>","nl-BE-x-formal":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 maart 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking voor deze steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 maart 2021 en 31 maart 2021 of tussen 27 maart 2021 en 31 maart 2021 konden deze steun aanvragen voor de sluitingsperiode.</p>","nl":"<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 maart 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking voor deze steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 maart 2021 en 31 maart 2021 of tussen 27 maart 2021 en 31 maart 2021 konden deze steun aanvragen voor de sluitingsperiode.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["VBM6","VB6","beschermingsmechanisme","corona","vlaio"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-formal":"<p><strong>Het Vlaams Beschermingsmechanisme 6 kan niet meer aangevraagd worden.</strong></p>","nl":"<p><strong>Het Vlaams Beschermingsmechanisme 6 kan niet meer aangevraagd worden.</strong></p>","nl-BE-x-generated-informal":"<p><strong>Het Vlaams Beschermingsmechanisme 6 kan niet meer aangevraagd worden.</strong></p>"},"@type":"Procedure","order":0}],"creatie":"2021-03-19T13:28:05Z","laatstGewijzigd":"2023-05-11T16:32:19Z","laatstOntvangen":"2024-08-07T06:20:11.764870506Z","productnummer":"1963","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c10ea2b5-ca7f-409a-906d-fdf49a822372","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/74294050-0e79-46fb-9e22-0ebd13d58ccc"},{"id":"ad4dab4c-4dfa-4ef4-8e69-69335c255201","generatedAtTime":"2024-08-07T06:20:11.563845Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Heropstartlening","nl-BE-x-formal":"Heropstartlening","nl-BE-x-generated-informal":"Heropstartlening"},"beschrijving":{"nl-BE-x-formal":"<p>Via de heropstartlening konden ondernemers die handelsgoederen moeten aankopen, zoals kleinhandelaars en horeca-uitbaters, en die te weinig liquide middelen hadden om hun voorraden aan te vullen, een lening afsluiten voor de financiering van de aankopen van handelsgoederen, voorraden en overige heropstartkosten. </p>","nl-BE-x-generated-informal":"<p>Via de heropstartlening konden ondernemers die handelsgoederen moeten aankopen, zoals kleinhandelaars en horeca-uitbaters, en die te weinig liquide middelen hadden om hun voorraden aan te vullen, een lening afsluiten voor de financiering van de aankopen van handelsgoederen, voorraden en overige heropstartkosten. </p>","nl":"<p>Via de heropstartlening konden ondernemers die handelsgoederen moeten aankopen, zoals kleinhandelaars en horeca-uitbaters, en die te weinig liquide middelen hadden om hun voorraden aan te vullen, een lening afsluiten voor de financiering van de aankopen van handelsgoederen, voorraden en overige heropstartkosten. </p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["herstart","herstartlening","heropstart","heropstarten","corona","post-corona","post corona","coronacrisis","heropstartpremie","corona heropstartlening","heropstartpremie","coronaheropstartlening"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"contactOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-formal":"<p><strong>De heropstartlening kan niet meer aangevraagd worden.</strong></p>","nl-BE-x-generated-informal":"<p><strong>De heropstartlening kan niet meer aangevraagd worden.</strong></p>","nl":"<p><strong>De heropstartlening kan niet meer aangevraagd worden.</strong></p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Heropstartlening","nl-BE-x-formal":"Heropstartlening","nl-BE-x-generated-informal":"Heropstartlening"},"url":"https://www.vlaio.be/nl/subsidies-financiering/heropstartlening","@type":"Website","order":0}],"creatie":"2021-03-17T13:16:31Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-07T06:20:11.45145934Z","productnummer":"1962","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ad4dab4c-4dfa-4ef4-8e69-69335c255201","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/21abfdf6-fac6-4eff-a5dc-22559da131b7"},{"id":"e475366d-8b22-4be1-82b8-a8bff843e16c","generatedAtTime":"2024-08-07T06:20:11.284481Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Innovatieve starterssteun","nl-BE-x-generated-informal":"Innovatieve starterssteun","nl":"Innovatieve starterssteun"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Innovatieve starterssteun ondersteunt starters in het opnemen van een pioniersrol binnen hun markt.</p>","nl-BE-x-formal":"<p>Innovatieve starterssteun ondersteunt starters in het opnemen van een pioniersrol binnen hun markt.</p>","nl":"<p>Innovatieve starterssteun ondersteunt starters in het opnemen van een pioniersrol binnen hun markt.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["startersteun","starterssteun"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"voorwaarden":[{"beschrijving":{"nl-BE-x-formal":"<p>Bekijk de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">voorwaarden om in aanmerking te komen voor innovatieve starterssteun</a> op de website van VLAIO.</p>","nl":"<p>Bekijk de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">voorwaarden om in aanmerking te komen voor innovatieve starterssteun</a> op de website van VLAIO.</p>","nl-BE-x-generated-informal":"<p>Bekijk de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">voorwaarden om in aanmerking te komen voor innovatieve starterssteun</a> op de website van VLAIO.</p>"},"naam":{"nl-BE-x-formal":"Voorwaarden","nl-BE-x-generated-informal":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl":"<p>Een starter kan zichzelf niet aanmelden voor deze innovatieve starterssteun. Een aanmelding kan alleen via één van de VLAIO-partners.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">Lees meer op de website van VLAIO</a>.</p>","nl-BE-x-generated-informal":"<p>Een starter kan zichzelf niet aanmelden voor deze innovatieve starterssteun. Een aanmelding kan alleen via één van de VLAIO-partners.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">Lees meer op de website van VLAIO</a>.</p>","nl-BE-x-formal":"<p>Een starter kan zichzelf niet aanmelden voor deze innovatieve starterssteun. Een aanmelding kan alleen via één van de VLAIO-partners.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">Lees meer op de website van VLAIO</a>.</p>"},"@type":"Procedure","order":0}],"creatie":"2021-03-12T10:15:54Z","laatstGewijzigd":"2023-06-27T21:18:58Z","laatstOntvangen":"2024-08-07T06:20:11.181680675Z","productnummer":"1961","gearchiveerd":false,"subsidiemaatregel":"EN","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e475366d-8b22-4be1-82b8-a8bff843e16c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a5cdfe7b-2399-482b-a47f-0a3496b7cabf"},{"id":"0a4209bc-cbd2-4f68-9e26-bcd36bf9d8eb","generatedAtTime":"2024-08-07T06:20:10.957053Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vlaams Beschermingsmechanisme 5","nl-BE-x-generated-informal":"Vlaams Beschermingsmechanisme 5","nl-BE-x-formal":"Vlaams Beschermingsmechanisme 5"},"beschrijving":{"nl":"<p>Zelfstandigen en ondernemingen die tussen 1 tot 28 februari 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. <strong>Die kan nu niet meer aangevraagd worden</strong>.</p>","nl-BE-x-formal":"<p>Zelfstandigen en ondernemingen die tussen 1 tot 28 februari 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. <strong>Die kan nu niet meer aangevraagd worden</strong>.</p>","nl-BE-x-generated-informal":"<p>Zelfstandigen en ondernemingen die tussen 1 tot 28 februari 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. <strong>Die kan nu niet meer aangevraagd worden</strong>.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["VBM5","beschermingsmechanisme","VB5"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"creatie":"2021-02-25T13:32:17Z","laatstGewijzigd":"2023-05-11T16:32:04Z","laatstOntvangen":"2024-08-07T06:20:10.867863072Z","productnummer":"1958","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0a4209bc-cbd2-4f68-9e26-bcd36bf9d8eb","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5190fd6f-9827-4329-bacb-a3172b76fb05"},{"id":"27e9adfa-6cae-4504-b6af-fd10c4b95073","generatedAtTime":"2024-08-07T06:20:10.724243Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vlaams Beschermingsmechanisme 4","nl-BE-x-generated-informal":"Vlaams Beschermingsmechanisme 4","nl-BE-x-formal":"Vlaams Beschermingsmechanisme 4"},"beschrijving":{"nl":"<p>Zelfstandigen en ondernemingen die hun omzet met 60% of meer zagen dalen tussen 1 en 31 januari 2021, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. </p>","nl-BE-x-formal":"<p>Zelfstandigen en ondernemingen die hun omzet met 60% of meer zagen dalen tussen 1 en 31 januari 2021, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. </p>","nl-BE-x-generated-informal":"<p>Zelfstandigen en ondernemingen die hun omzet met 60% of meer zagen dalen tussen 1 en 31 januari 2021, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. </p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["VBM4","beschermingsmechanisme","beschermingspremie","VB4","corona","vlaio"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-formal":"<p><strong>Het Vlaams Beschermingsmechanisme 4 kan niet meer aangevraagd worden.</strong></p><h3> </h3>","nl-BE-x-generated-informal":"<p><strong>Het Vlaams Beschermingsmechanisme 4 kan niet meer aangevraagd worden.</strong></p><h3> </h3>","nl":"<p><strong>Het Vlaams Beschermingsmechanisme 4 kan niet meer aangevraagd worden.</strong></p><h3> </h3>"},"@type":"Procedure","order":0}],"creatie":"2021-02-11T18:40:20Z","laatstGewijzigd":"2023-05-11T16:31:56Z","laatstOntvangen":"2024-08-07T06:20:10.634626767Z","productnummer":"1955","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/27e9adfa-6cae-4504-b6af-fd10c4b95073","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/9fb5e809-fb5f-4608-aac8-35070ccd9eb1"},{"id":"3ed11b75-8e91-4c16-b4c2-f4077b31aaaa","generatedAtTime":"2024-08-07T06:20:10.472995Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Brexit-veerkrachtsubsidie","nl-BE-x-generated-informal":"Brexit-veerkrachtsubsidie","nl-BE-x-formal":"Brexit-veerkrachtsubsidie"},"beschrijving":{"nl-BE-x-generated-informal":"<p>De brexit-veerkrachtsubsidie is een subsidie waarmee kmo’s die direct of indirect getroffen zijn door de brexit, worden ondersteund.</p>","nl-BE-x-formal":"<p>De brexit-veerkrachtsubsidie is een subsidie waarmee kmo’s die direct of indirect getroffen zijn door de brexit, worden ondersteund.</p>","nl":"<p>De brexit-veerkrachtsubsidie is een subsidie waarmee kmo’s die direct of indirect getroffen zijn door de brexit, worden ondersteund.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["veerkracht","veerkrachtsteun","veerkrachtpremie","brexit"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"voorwaarden":[{"beschrijving":{"nl-BE-x-formal":"<p>De brexit-veerkrachtsubsidie is bedoeld voor ondernemingen die door de brexit hun businessmodel strategisch willen heroriënteren. De volgende elementen zijn daarbij van belang: </p><ul><li>de steun aanvragende onderneming is direct of indirect getroffen door de brexit</li><li>het project zet aan tot een strategische transformatie van het businessmodel van de onderneming</li><li>het project heeft een substantiële impact op de ondernemingsprocessen van de hele onderneming;</li><li>de nieuwe strategie is moeilijk omkeerbaar</li></ul><p>Enkele voorbeelden van strategische heroriëntaties:</p><ul><li>nieuwe buitenlandse markten aanboren</li><li>verloren UK-marktaandeel compenseren door een nieuw product of nieuwe dienst in een bestaande markt aan te bieden en/of een bestaand product of bestaande dienst in een nieuwe markt aan te bieden</li><li>de competitiviteit van uw onderneming verhogen door een nieuw businessmodel te implementeren</li></ul><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>","nl-BE-x-generated-informal":"<p>De brexit-veerkrachtsubsidie is bedoeld voor ondernemingen die door de brexit hun businessmodel strategisch willen heroriënteren. De volgende elementen zijn daarbij van belang: </p><ul><li>de steun aanvragende onderneming is direct of indirect getroffen door de brexit</li><li>het project zet aan tot een strategische transformatie van het businessmodel van de onderneming</li><li>het project heeft een substantiële impact op de ondernemingsprocessen van de hele onderneming;</li><li>de nieuwe strategie is moeilijk omkeerbaar</li></ul><p>Enkele voorbeelden van strategische heroriëntaties:</p><ul><li>nieuwe buitenlandse markten aanboren</li><li>verloren UK-marktaandeel compenseren door een nieuw product of nieuwe dienst in een bestaande markt aan te bieden en/of een bestaand product of bestaande dienst in een nieuwe markt aan te bieden</li><li>de competitiviteit van jouw onderneming verhogen door een nieuw businessmodel te implementeren</li></ul><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vind je op de website van VLAIO</a>.</p>","nl":"<p>De brexit-veerkrachtsubsidie is bedoeld voor ondernemingen die door de brexit hun businessmodel strategisch willen heroriënteren. De volgende elementen zijn daarbij van belang: </p><ul><li>de steun aanvragende onderneming is direct of indirect getroffen door de brexit</li><li>het project zet aan tot een strategische transformatie van het businessmodel van de onderneming</li><li>het project heeft een substantiële impact op de ondernemingsprocessen van de hele onderneming;</li><li>de nieuwe strategie is moeilijk omkeerbaar</li></ul><p>Enkele voorbeelden van strategische heroriëntaties:</p><ul><li>nieuwe buitenlandse markten aanboren</li><li>verloren UK-marktaandeel compenseren door een nieuw product of nieuwe dienst in een bestaande markt aan te bieden en/of een bestaand product of bestaande dienst in een nieuwe markt aan te bieden</li><li>de competitiviteit van uw onderneming verhogen door een nieuw businessmodel te implementeren</li></ul><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>"},"naam":{"nl-BE-x-formal":"Voorwaarden","nl-BE-x-generated-informal":"Voorwaarden","nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl":"<p>Sinds 1 februari 2021 kunnen projectaanvragen ingediend worden. De uiterste indiendatum is 31 december 2022 om 12 uur.</p><p>De projectaanvragen worden beslist in volgorde van indiening, tot de beschikbare middelen uitgeput zijn. Als de middelen vroeger dan 31 december 2022 uitgeput zijn, kan VLAIO de oproep vroeger afsluiten.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>","nl-BE-x-generated-informal":"<p>Sinds 1 februari 2021 kunnen projectaanvragen ingediend worden. De uiterste indiendatum is 31 december 2022 om 12 uur.</p><p>De projectaanvragen worden beslist in volgorde van indiening, tot de beschikbare middelen uitgeput zijn. Als de middelen vroeger dan 31 december 2022 uitgeput zijn, kan VLAIO de oproep vroeger afsluiten.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vind je op de website van VLAIO</a>.</p>","nl-BE-x-formal":"<p>Sinds 1 februari 2021 kunnen projectaanvragen ingediend worden. De uiterste indiendatum is 31 december 2022 om 12 uur.</p><p>De projectaanvragen worden beslist in volgorde van indiening, tot de beschikbare middelen uitgeput zijn. Als de middelen vroeger dan 31 december 2022 uitgeput zijn, kan VLAIO de oproep vroeger afsluiten.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl-BE-x-generated-informal":"Brexit-veerkrachtsubsidie (VLAIO.be)","nl":"Brexit-veerkrachtsubsidie (VLAIO.be)","nl-BE-x-formal":"Brexit-veerkrachtsubsidie (VLAIO.be)"},"url":"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl-BE-x-generated-informal":"<p>Een kmo kan maximaal 50.000 euro subsidie ontvangen binnen deze projectoproep. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vind je op de website van VLAIO</a>.</p>","nl":"<p>Een kmo kan maximaal 50.000 euro subsidie ontvangen binnen deze projectoproep. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>","nl-BE-x-formal":"<p>Een kmo kan maximaal 50.000 euro subsidie ontvangen binnen deze projectoproep. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>"},"naam":{"nl":"Financieel voordeel","nl-BE-x-formal":"Financieel voordeel","nl-BE-x-generated-informal":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2020-12-23T16:23:39Z","laatstGewijzigd":"2023-04-17T13:28:39Z","laatstOntvangen":"2024-08-07T06:20:10.284510433Z","productnummer":"1956","gearchiveerd":false,"publicatieLink":{"naam":{"nl-BE-x-generated-informal":"Lees meer op vlaanderen.be","nl-BE-x-formal":"Lees meer op vlaanderen.be","nl":"Lees meer op vlaanderen.be","en":"See also on vlaanderen.be"},"url":"https://www.uat-vlaanderen.be/Product/0f470501-8ea8-4704-ae2e-ef0232718073"},"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3ed11b75-8e91-4c16-b4c2-f4077b31aaaa","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0b2c80c7-19bd-4d13-8f8d-7460e653ad9c"},{"id":"9509de75-fd8b-4d1e-9d59-1550aab613b4","generatedAtTime":"2024-08-07T06:20:09.85527Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Globalisatiemechanisme","nl":"Globalisatiemechanisme","nl-BE-x-generated-informal":"Globalisatiemechanisme"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Het corona-globalisatiemechanisme (CGM) is een steunmaatregel voor ondernemingen die in de periode van 1 april 2020 tot en met 31 december 2020 een omzetdaling van minstens 60% én een boekhoudkundig verlies hebben geleden ingevolge de coronavirusmaatregelen.</p>","nl":"<p>Het corona-globalisatiemechanisme (CGM) is een steunmaatregel voor ondernemingen die in de periode van 1 april 2020 tot en met 31 december 2020 een omzetdaling van minstens 60% én een boekhoudkundig verlies hebben geleden ingevolge de coronavirusmaatregelen.</p>","nl-BE-x-formal":"<p>Het corona-globalisatiemechanisme (CGM) is een steunmaatregel voor ondernemingen die in de periode van 1 april 2020 tot en met 31 december 2020 een omzetdaling van minstens 60% én een boekhoudkundig verlies hebben geleden ingevolge de coronavirusmaatregelen.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["globalisatie","globalisatiepremie","globaliseringspremie","corona","vlaio","globaliseringsmechanisme","globalisatiemechanisme","coronacrisis","post-corona","post corona"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"contactOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl":"<p><strong>Het globalisatiemechanisme kan niet meer aangevraagd worden.</strong></p>","nl-BE-x-formal":"<p><strong>Het globalisatiemechanisme kan niet meer aangevraagd worden.</strong></p>","nl-BE-x-generated-informal":"<p><strong>Het globalisatiemechanisme kan niet meer aangevraagd worden.</strong></p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl-BE-x-formal":"Globalisatiemechanisme","nl":"Globalisatiemechanisme","nl-BE-x-generated-informal":"Globalisatiemechanisme"},"url":"https://www.vlaio.be/nl/subsidies-financiering/globalisatiemechanisme/wat-is-het-globalisatiemechanisme","@type":"Website","order":0}],"creatie":"2020-12-22T09:33:23Z","laatstGewijzigd":"2023-05-11T16:47:32Z","laatstOntvangen":"2024-08-07T06:20:09.713382591Z","productnummer":"1946","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9509de75-fd8b-4d1e-9d59-1550aab613b4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/9594aca6-cdc3-4054-ba1c-db00aff6ab05"},{"id":"3f18d4f0-9434-4f39-ae37-2dced0a67f44","generatedAtTime":"2024-08-07T06:20:09.537202Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Vlaams Beschermingsmechanisme 3","nl-BE-x-generated-informal":"Vlaams Beschermingsmechanisme 3","nl-BE-x-formal":"Vlaams Beschermingsmechanisme 3"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 15 november en 31 december 2020, of ondernemingen die verplicht gesloten moesten blijven tijdens diezelfde periode, kunnen een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>","nl":"<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 15 november en 31 december 2020, of ondernemingen die verplicht gesloten moesten blijven tijdens diezelfde periode, kunnen een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>","nl-BE-x-formal":"<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 15 november en 31 december 2020, of ondernemingen die verplicht gesloten moesten blijven tijdens diezelfde periode, kunnen een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["VBM","3","vbm3","VBM 3","VB3","VB 3"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"contactOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p><strong>Het Vlaams Beschermingsmechanisme 3 kan niet meer aangevraagd worden.</strong></p>","nl-BE-x-formal":"<p><strong>Het Vlaams Beschermingsmechanisme 3 kan niet meer aangevraagd worden.</strong></p>","nl":"<p><strong>Het Vlaams Beschermingsmechanisme 3 kan niet meer aangevraagd worden.</strong></p>"},"@type":"Procedure","order":0}],"creatie":"2020-12-10T09:25:10Z","laatstGewijzigd":"2023-05-11T16:52:35Z","laatstOntvangen":"2024-08-07T06:20:09.429550155Z","productnummer":"1945","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3f18d4f0-9434-4f39-ae37-2dced0a67f44","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c09db984-6356-4f58-b399-c1fc630d0ec4"},{"id":"8c02b8c1-8453-4a26-b60b-062f2b48aedf","generatedAtTime":"2024-08-07T06:20:07.220495Z","naam":{"nl":"Corona-hinderpremie","nl-BE-x-formal":"Corona-hinderpremie","nl-BE-x-generated-informal":"Corona-hinderpremie"},"beschrijving":{"nl":"<p>Handelaars, horecazaken, zelfstandigen en dienstverleners die getroffen zijn door de verplichte sluitingsmaatregelen ten gevolge van de coronacrisis, komen mogelijk in aanmerking voor de corona-hinderpremie. Die premie moet ondernemingen die ernstig inkomensverlies lijden, gedeeltelijk compenseren.</p>","nl-BE-x-formal":"<p>Handelaars, horecazaken, zelfstandigen en dienstverleners die getroffen zijn door de verplichte sluitingsmaatregelen ten gevolge van de coronacrisis, komen mogelijk in aanmerking voor de corona-hinderpremie. Die premie moet ondernemingen die ernstig inkomensverlies lijden, gedeeltelijk compenseren.</p>","nl-BE-x-generated-informal":"<p>Handelaars, horecazaken, zelfstandigen en dienstverleners die getroffen zijn door de verplichte sluitingsmaatregelen ten gevolge van de coronacrisis, komen mogelijk in aanmerking voor de corona-hinderpremie. Die premie moet ondernemingen die ernstig inkomensverlies lijden, gedeeltelijk compenseren.</p>"},"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["hinderpremie","sluitingspremie","corona","coronavirus","coronamaatregelen","hinder","compensatie","financiële tegemoetkoming","tegemoetkoming","lockdown","omzetverlies"]},"bevoegdeOverheden":[{"id":"OVO000076","@id":"OVO000076"}],"contactOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"creatie":"2020-03-18T20:04:25Z","laatstGewijzigd":"2023-05-11T17:06:51Z","laatstOntvangen":"2024-08-07T06:20:07.131922514Z","productnummer":"2031","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8c02b8c1-8453-4a26-b60b-062f2b48aedf","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/1a4b8ca3-e17d-4562-91ee-d3f5234f6d55"},{"id":"b5e93c81-66df-4c8d-ba54-1c563290119f","generatedAtTime":"2024-08-07T06:15:41.141496Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Corona-lening (Achtergestelde lening op drie jaar)","nl-BE-x-formal":"Corona-lening (Achtergestelde lening op drie jaar)","nl-BE-x-generated-informal":"Corona-lening (Achtergestelde lening op drie jaar)"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Ondernemingen die extra werkkapitaal nodig hadden om de gevolgen van de coronacrisis op te vangen, konden een achtergestelde lening krijgen met een looptijd van 3 jaar, als aanvulling op overbruggingskredieten op heel korte termijn vanuit het federale niveau.</p>","nl-BE-x-formal":"<p>Ondernemingen die extra werkkapitaal nodig hadden om de gevolgen van de coronacrisis op te vangen, konden een achtergestelde lening krijgen met een looptijd van 3 jaar, als aanvulling op overbruggingskredieten op heel korte termijn vanuit het federale niveau.</p>","nl":"<p>Ondernemingen die extra werkkapitaal nodig hadden om de gevolgen van de coronacrisis op te vangen, konden een achtergestelde lening krijgen met een looptijd van 3 jaar, als aanvulling op overbruggingskredieten op heel korte termijn vanuit het federale niveau.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"financieleVoordelen":[{"beschrijving":{"nl-BE-x-generated-informal":"<p>Het gaat om een achtergestelde lening van minimaal 25.000 en maximaal 2,8 miljoen euro (eventueel verhoogd tot 4,3 miljoen als er een bijkomende investeerder of financier optreedt).</p>","nl-BE-x-formal":"<p>Het gaat om een achtergestelde lening van minimaal 25.000 en maximaal 2,8 miljoen euro (eventueel verhoogd tot 4,3 miljoen als er een bijkomende investeerder of financier optreedt).</p>","nl":"<p>Het gaat om een achtergestelde lening van minimaal 25.000 en maximaal 2,8 miljoen euro (eventueel verhoogd tot 4,3 miljoen als er een bijkomende investeerder of financier optreedt).</p>"},"naam":{"nl":"Financieel voordeel","nl-BE-x-formal":"Financieel voordeel","nl-BE-x-generated-informal":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2020-12-02T18:45:23Z","laatstGewijzigd":"2023-05-11T17:01:16Z","laatstOntvangen":"2024-08-07T06:15:41.04303164Z","productnummer":"1943","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5e93c81-66df-4c8d-ba54-1c563290119f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/02b2cd5f-7b19-490e-b13b-3e6fda69e355"},{"id":"85f295fd-6bf7-4686-be6b-2924cd3725b7","generatedAtTime":"2024-08-07T06:15:40.589969Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Nieuw Vlaams Beschermingsmechanisme (NVB)","nl":"Nieuw Vlaams Beschermingsmechanisme (NVB)","nl-BE-x-generated-informal":"Nieuw Vlaams Beschermingsmechanisme (NVB)"},"beschrijving":{"nl":"<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 oktober en 15 november 2020 óf tussen 19 oktober en 15 november 2020, of ondernemingen die verplicht werden te sluiten, konden een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>","nl-BE-x-generated-informal":"<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 oktober en 15 november 2020 óf tussen 19 oktober en 15 november 2020, of ondernemingen die verplicht werden te sluiten, konden een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>","nl-BE-x-formal":"<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 oktober en 15 november 2020 óf tussen 19 oktober en 15 november 2020, of ondernemingen die verplicht werden te sluiten, konden een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl":"<p>Het Nieuw Vlaams Beschermingsmechanisme (NVB) kan niet meer aangevraagd worden.</p>","nl-BE-x-formal":"<p>Het Nieuw Vlaams Beschermingsmechanisme (NVB) kan niet meer aangevraagd worden.</p>","nl-BE-x-generated-informal":"<p>Het Nieuw Vlaams Beschermingsmechanisme (NVB) kan niet meer aangevraagd worden.</p>"},"@type":"Procedure","order":0}],"creatie":"2020-10-23T16:45:54Z","laatstGewijzigd":"2023-05-11T16:31:12Z","laatstOntvangen":"2024-08-07T06:15:40.49604246Z","productnummer":"1921","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/85f295fd-6bf7-4686-be6b-2924cd3725b7","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ae2bc9b9-0d41-4521-a7ec-ebf55b81a900"},{"id":"e9d71656-90c1-4ea9-8c5d-991ea45f7579","generatedAtTime":"2024-08-07T06:15:40.283783Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Terugbetaalbaar voorschot voor evenementen","nl-BE-x-generated-informal":"Terugbetaalbaar voorschot voor evenementen","nl-BE-x-formal":"Terugbetaalbaar voorschot voor evenementen"},"beschrijving":{"nl":"<p>Covid-19 creëert grote onzekerheid voor de evenementensector. Een terugbetaalbaar voorschot voor organisatoren creëert werkkapitaal om nieuwe evenementen voor te bereiden en op te zetten.</p>","nl-BE-x-generated-informal":"<p>Covid-19 creëert grote onzekerheid voor de evenementensector. Een terugbetaalbaar voorschot voor organisatoren creëert werkkapitaal om nieuwe evenementen voor te bereiden en op te zetten.</p>","nl-BE-x-formal":"<p>Covid-19 creëert grote onzekerheid voor de evenementensector. Een terugbetaalbaar voorschot voor organisatoren creëert werkkapitaal om nieuwe evenementen voor te bereiden en op te zetten.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["voorschot","event","events","eventsector","evenement","evenementen","evenementensector","evenementsector"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"contactOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"websites":[{"naam":{"nl-BE-x-generated-informal":"Terugbetaalbaar voorschot (VLAIO.be)","nl":"Terugbetaalbaar voorschot (VLAIO.be)","nl-BE-x-formal":"Terugbetaalbaar voorschot (VLAIO.be)"},"url":"https://www.vlaio.be/nl/subsidies-financiering/voorschot-voor-organisatoren-van-evenementen","@type":"Website","order":0}],"financieleVoordelen":[{"beschrijving":{"nl-BE-x-formal":"<p>Voorschot</p>","nl":"<p>Voorschot</p>","nl-BE-x-generated-informal":"<p>Voorschot</p>"},"naam":{"nl":"Financieel voordeel","nl-BE-x-formal":"Financieel voordeel","nl-BE-x-generated-informal":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2020-08-21T14:50:40Z","laatstGewijzigd":"2023-05-11T16:59:30Z","laatstOntvangen":"2024-08-07T06:15:40.179836887Z","productnummer":"1907","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e9d71656-90c1-4ea9-8c5d-991ea45f7579","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/36369eb1-7c36-48cb-bbcb-03612628e088"},{"id":"c3e9dbea-aa37-4d81-8150-bfb1b1f2b434","generatedAtTime":"2024-08-07T06:15:39.964594Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Vlaams beschermingsmechanisme","nl":"Vlaams beschermingsmechanisme","nl-BE-x-generated-informal":"Vlaams beschermingsmechanisme"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Bedrijven die door de exploitatiebeperkingen vanwege de coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 augustus en 30 september 2020, konden een premie ontvangen. Die moest hen helpen die omzetdaling op te vangen.</p>","nl":"<p>Bedrijven die door de exploitatiebeperkingen vanwege de coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 augustus en 30 september 2020, konden een premie ontvangen. Die moest hen helpen die omzetdaling op te vangen.</p>","nl-BE-x-formal":"<p>Bedrijven die door de exploitatiebeperkingen vanwege de coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 augustus en 30 september 2020, konden een premie ontvangen. Die moest hen helpen die omzetdaling op te vangen.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["VBM","beschermingsmechanisme","corona","coronapremie","coronamaatregel","subsidie","vlaio","beschermingsregeling","avondklok","Antwerpen"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"contactOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p><strong>De premie kan niet meer aangevraagd worden.</strong></p>","nl-BE-x-formal":"<p><strong>De premie kan niet meer aangevraagd worden.</strong></p>","nl":"<p><strong>De premie kan niet meer aangevraagd worden.</strong></p>"},"@type":"Procedure","order":0}],"creatie":"2020-08-07T15:28:04Z","laatstGewijzigd":"2023-05-11T16:31:05Z","laatstOntvangen":"2024-08-07T06:15:39.873808952Z","productnummer":"1911","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"verwanteProducten":[{"id":"3eac0581-b28e-43b6-bd59-03f219aa2abc","productnummer":"1880","type":"INSTANTIE","order":0}],"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c3e9dbea-aa37-4d81-8150-bfb1b1f2b434","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/45350d0f-136f-4bbd-8e67-ea658998d439"},{"id":"67ef17fc-3878-4fde-90cb-ad1981412194","generatedAtTime":"2024-08-07T06:15:39.671135Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Corona-ondersteuningspremie (stopgezet)","nl":"Corona-ondersteuningspremie (stopgezet)","nl-BE-x-formal":"Corona-ondersteuningspremie (stopgezet)"},"beschrijving":{"nl":"<p>De corona-ondersteuningspremie was een financiële tegemoetkoming voor ondernemingen die tijdens de coronacrisis open zijn gebleven of die na de versoepeling van de coronamaatregelen opnieuw opengingen, en die een omzetdaling van minstens 60% ervoeren omdat ze exploitatiebeperkingen moesten naleven.</p>","nl-BE-x-formal":"<p>De corona-ondersteuningspremie was een financiële tegemoetkoming voor ondernemingen die tijdens de coronacrisis open zijn gebleven of die na de versoepeling van de coronamaatregelen opnieuw opengingen, en die een omzetdaling van minstens 60% ervoeren omdat ze exploitatiebeperkingen moesten naleven.</p>","nl-BE-x-generated-informal":"<p>De corona-ondersteuningspremie was een financiële tegemoetkoming voor ondernemingen die tijdens de coronacrisis open zijn gebleven of die na de versoepeling van de coronamaatregelen opnieuw opengingen, en die een omzetdaling van minstens 60% ervoeren omdat ze exploitatiebeperkingen moesten naleven.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["compensatie","heropstarten","heropstart","heropstartpremie","extra premie","bijkomende","premie","verlengde","heropening","omzetdaling","omzetverlies","COP","ondersteuning","ondersteuningspremie"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Je kan de corona-ondersteuningspremie niet meer aanvragen.</p>","nl-BE-x-formal":"<p>U kunt de corona-ondersteuningspremie niet meer aanvragen.</p>","nl":"<p>U kunt de corona-ondersteuningspremie niet meer aanvragen.</p>"},"@type":"Procedure","order":0}],"creatie":"2020-06-08T13:36:45Z","laatstGewijzigd":"2023-06-27T21:17:40Z","laatstOntvangen":"2024-08-07T06:15:39.575662668Z","productnummer":"1888","gearchiveerd":false,"subsidiemaatregel":"ED","metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"deminimis":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/67ef17fc-3878-4fde-90cb-ad1981412194","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fe135883-8b76-4c06-97e0-3b0f5ca41009"},{"id":"6d19e017-94e5-4b66-bb36-201b52934b74","generatedAtTime":"2024-08-07T06:15:39.391462Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Handelshuurlening ","nl-BE-x-formal":"Handelshuurlening ","nl-BE-x-generated-informal":"Handelshuurlening "},"beschrijving":{"nl":"<p>Ondernemingen die door de coronamaatregelen moeilijkheden ondervinden om hun handelshuur te betalen, konden onder bepaalde voorwaarden een handelshuurlening krijgen. De maatregel hield in dat de Vlaamse overheid maximaal 4 maanden huur voorschiet via een lening aan de huurder, op voorwaarde dat de verhuurder ook 1 of 2 maanden huur kwijtscheldt.</p>","nl-BE-x-formal":"<p>Ondernemingen die door de coronamaatregelen moeilijkheden ondervinden om hun handelshuur te betalen, konden onder bepaalde voorwaarden een handelshuurlening krijgen. De maatregel hield in dat de Vlaamse overheid maximaal 4 maanden huur voorschiet via een lening aan de huurder, op voorwaarde dat de verhuurder ook 1 of 2 maanden huur kwijtscheldt.</p>","nl-BE-x-generated-informal":"<p>Ondernemingen die door de coronamaatregelen moeilijkheden ondervinden om hun handelshuur te betalen, konden onder bepaalde voorwaarden een handelshuurlening krijgen. De maatregel hield in dat de Vlaamse overheid maximaal 4 maanden huur voorschiet via een lening aan de huurder, op voorwaarde dat de verhuurder ook 1 of 2 maanden huur kwijtscheldt.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-formal":"<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 20 maart tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol><ul></ul>","nl-BE-x-generated-informal":"<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 20 maart tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol><ul></ul>","nl":"<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 20 maart tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol><ul></ul>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["handelshuurlening","handelshuur","handelspand huur","handelspand","winkelruimte","corona","huurprijs","huurprobleem","HHL","handelswi","winkelpand","huurproblemen"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Je kon jouw aanvraag indienen <strong>tot en met 30 juni 2021 om 20 uur. </strong>De handelshuurlening kan nu niet meer aangevraagd worden.</p>","nl":"<p>U kon uw aanvraag indienen <strong>tot en met 30 juni 2021 om 20 uur. </strong>De handelshuurlening kan nu niet meer aangevraagd worden.</p>","nl-BE-x-formal":"<p>U kon uw aanvraag indienen <strong>tot en met 30 juni 2021 om 20 uur. </strong>De handelshuurlening kan nu niet meer aangevraagd worden.</p>"},"@type":"Procedure","order":0}],"creatie":"2020-06-02T16:40:22Z","laatstGewijzigd":"2023-05-11T16:54:56Z","laatstOntvangen":"2024-08-07T06:15:39.277125175Z","productnummer":"1885","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6d19e017-94e5-4b66-bb36-201b52934b74","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cea9fbd9-b510-4581-9517-2d8f3776fe1f"},{"id":"1414d398-da2c-49ee-a9bf-e998868aa686","generatedAtTime":"2024-08-07T06:15:39.04889Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-formal":"Corona-compensatiepremie","nl-BE-x-generated-informal":"Corona-compensatiepremie","nl":"Corona-compensatiepremie"},"beschrijving":{"nl":"<p>Ondernemingen die een grote omzetdaling kenden als gevolg van de coronacrisis, konden van de Vlaamse overheid een compensatiepremie van 3.000 euro krijgen om hun verliezen deels te compenseren. De premie kan niet meer aangevraagd worden.</p>","nl-BE-x-generated-informal":"<p>Ondernemingen die een grote omzetdaling kenden als gevolg van de coronacrisis, konden van de Vlaamse overheid een compensatiepremie van 3.000 euro krijgen om hun verliezen deels te compenseren. De premie kan niet meer aangevraagd worden.</p>","nl-BE-x-formal":"<p>Ondernemingen die een grote omzetdaling kenden als gevolg van de coronacrisis, konden van de Vlaamse overheid een compensatiepremie van 3.000 euro krijgen om hun verliezen deels te compenseren. De premie kan niet meer aangevraagd worden.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 10 april 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ten gevolge van de exploitatiebeperkingen opgelegd door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol>","nl":"<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 10 april 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ten gevolge van de exploitatiebeperkingen opgelegd door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol>","nl-BE-x-formal":"<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 10 april 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ten gevolge van de exploitatiebeperkingen opgelegd door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol>"},"aangemaaktDoor":{"id":"OVO000001","@id":"OVO000001"},"zoektermen":{"nl":["compensatie","premie","compensatiepremie","corona","coronacompensatiepremie","ccp","coronacrisis"]},"bevoegdeOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"contactOverheden":[{"id":"OVO000039","@id":"OVO000039"}],"procedures":[{"naam":{"nl-BE-x-generated-informal":"Procedure","nl":"Procedure","nl-BE-x-formal":"Procedure"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Je kan de corona-compensatiepremie niet meer aanvragen<strong>. </strong></p>","nl-BE-x-formal":"<p>U kunt de corona-compensatiepremie niet meer aanvragen<strong>. </strong></p>","nl":"<p>U kunt de corona-compensatiepremie niet meer aanvragen<strong>. </strong></p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl-BE-x-formal":"Corona-compensatiepremie","nl-BE-x-generated-informal":"Corona-compensatiepremie","nl":"Corona-compensatiepremie"},"url":"https://www.vlaio.be/nl/subsidies-financiering/corona-compensatiepremie","@type":"Website","order":0}],"creatie":"2020-04-01T11:56:25Z","laatstGewijzigd":"2023-10-19T12:32:49Z","laatstOntvangen":"2024-08-07T06:15:38.91246132Z","productnummer":"1880","gearchiveerd":false,"metadata":{"uJeVersie":"36.1.0","generatedFormeleFields":false,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1414d398-da2c-49ee-a9bf-e998868aa686","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3eac0581-b28e-43b6-bd59-03f219aa2abc"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2209",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2210",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2024-08-07T06:20:15.055793Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2208",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2024-08-07T06:15:39.04889Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2209",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "8e1e5b19-7ae3-4d17-8194-0a724b2a6b90",
+      "generatedAtTime": "2024-08-07T06:20:15.055793Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Vlaams Beschermingsmechanisme 11",
+        "nl": "Vlaams Beschermingsmechanisme 11",
+        "nl-BE-x-generated-informal": "Vlaams Beschermingsmechanisme 11"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die door de coronamaatregelen van eind 2021 verplicht moesten sluiten of hun omzet met 60% of meer zagen dalen, kunnen in aanmerking komen voor de steunmaatregel.</p>",
+        "nl": "<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die door de coronamaatregelen van eind 2021 verplicht moesten sluiten of hun omzet met 60% of meer zagen dalen, kunnen in aanmerking komen voor de steunmaatregel.</p>",
+        "nl-BE-x-formal": "<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die door de coronamaatregelen van eind 2021 verplicht moesten sluiten of hun omzet met 60% of meer zagen dalen, kunnen in aanmerking komen voor de steunmaatregel.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "VBM11",
+          "VBM 11",
+          "VBM",
+          "beschermingspremie"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p><strong>De maatregel kan niet meer worden aangevraagd.</strong></p>",
+            "nl": "<p><strong>De maatregel kan niet meer worden aangevraagd.</strong></p>",
+            "nl-BE-x-formal": "<p><strong>De maatregel kan niet meer worden aangevraagd.</strong></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-12-06T17:44:36Z",
+      "laatstGewijzigd": "2023-05-11T16:25:27Z",
+      "laatstOntvangen": "2024-08-07T06:20:14.949078362Z",
+      "productnummer": "2024",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8e1e5b19-7ae3-4d17-8194-0a724b2a6b90",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0c6d3b03-ed4e-4b67-8527-7c4ab83955b8"
+    },
+    {
+      "id": "0563040d-8d0e-47f3-b8bb-00178e1adb6e",
+      "generatedAtTime": "2024-08-07T06:20:14.806429Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "VBM10 - Vlaams Beschermingsmechanisme 10",
+        "nl-BE-x-generated-informal": "VBM10 - Vlaams Beschermingsmechanisme 10",
+        "nl": "VBM10 - Vlaams Beschermingsmechanisme 10"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die in de periode <strong>van 1 juli tot en met 30 september 2021</strong> hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p>",
+        "nl": "<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die in de periode <strong>van 1 juli tot en met 30 september 2021</strong> hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p>",
+        "nl-BE-x-formal": "<p>Zelfstandigen en ondernemingen die actief zijn in een aantal welbepaalde sectoren en die in de periode <strong>van 1 juli tot en met 30 september 2021</strong> hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "VB10",
+          "beschermingsmechanisme"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>De maatregel kan niet meer aangevraagd worden.</p>",
+            "nl-BE-x-formal": "<p>De maatregel kan niet meer aangevraagd worden.</p>",
+            "nl-BE-x-generated-informal": "<p>De maatregel kan niet meer aangevraagd worden.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-07-28T15:15:57Z",
+      "laatstGewijzigd": "2023-05-11T16:54:16Z",
+      "laatstOntvangen": "2024-08-07T06:20:14.717038733Z",
+      "productnummer": "1986",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0563040d-8d0e-47f3-b8bb-00178e1adb6e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e96f1dfb-84e2-4841-b9f9-b9c4d55d2a1d"
+    },
+    {
+      "id": "3e20871a-f9bb-477b-b545-158985be8cea",
+      "generatedAtTime": "2024-08-07T06:20:14.554104Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Blue Deal Ecologiesteun Waterbesparing",
+        "nl": "Blue Deal Ecologiesteun Waterbesparing",
+        "nl-BE-x-formal": "Blue Deal Ecologiesteun Waterbesparing"
+      },
+      "beschrijving": {
+        "nl": "<p>Vlaanderen maakt extra middelen vrij voor innovatieve waterprojecten. Bedrijven die een concreet waterproject hebben uitgewerkt of daarvoor plannen koesteren, kunnen hun projectidee al aftoetsen bij VLAIO, dat nagaat of het projectvoorstel in aanmerking komt voor de strategische ecologiesteun of een andere subsidiëringsmogelijkheid. </p>",
+        "nl-BE-x-formal": "<p>Vlaanderen maakt extra middelen vrij voor innovatieve waterprojecten. Bedrijven die een concreet waterproject hebben uitgewerkt of daarvoor plannen koesteren, kunnen hun projectidee al aftoetsen bij VLAIO, dat nagaat of het projectvoorstel in aanmerking komt voor de strategische ecologiesteun of een andere subsidiëringsmogelijkheid. </p>",
+        "nl-BE-x-generated-informal": "<p>Vlaanderen maakt extra middelen vrij voor innovatieve waterprojecten. Bedrijven die een concreet waterproject hebben uitgewerkt of daarvoor plannen koesteren, kunnen hun projectidee al aftoetsen bij VLAIO, dat nagaat of het projectvoorstel in aanmerking komt voor de strategische ecologiesteun of een andere subsidiëringsmogelijkheid. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "waterscan",
+          "klimaatstress",
+          "droogtebestrijding",
+          "waterbalans",
+          "waterscans",
+          "waterbesparing",
+          "waterbesparende maatregelen"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-formal": "Blue deal waterbesparende investeringen (VLAIO.be)",
+            "nl": "Blue deal waterbesparende investeringen (VLAIO.be)",
+            "nl-BE-x-generated-informal": "Blue deal waterbesparende investeringen (VLAIO.be)"
+          },
+          "url": "https://www.vlaio.be/nl/subsidies-financiering/blue-deal-waterbesparende-investeringen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-06-14T18:51:41Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-07T06:20:14.439493738Z",
+      "productnummer": "1980",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3e20871a-f9bb-477b-b545-158985be8cea",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7d668973-1959-4033-a31b-11665afd1c04"
+    },
+    {
+      "id": "3cfd162f-a571-462f-abd5-d572158acb92",
+      "generatedAtTime": "2024-08-07T06:20:14.173851Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Corona-omboekingspremie",
+        "nl-BE-x-formal": "Corona-omboekingspremie",
+        "nl-BE-x-generated-informal": "Corona-omboekingspremie"
+      },
+      "beschrijving": {
+        "nl": "<p>De evenementensector werd hard getroffen door de coronamaatregelen. Geplande en geboekte evenementen moesten geannuleerd worden, tickets moesten terugbetaald of omgeboekt worden. De getroffen ondernemingen worden, afhankelijk van het aantal verrichte eerste omboekingen, ondersteund met de corona-omboekingspremie.</p>",
+        "nl-BE-x-formal": "<p>De evenementensector werd hard getroffen door de coronamaatregelen. Geplande en geboekte evenementen moesten geannuleerd worden, tickets moesten terugbetaald of omgeboekt worden. De getroffen ondernemingen worden, afhankelijk van het aantal verrichte eerste omboekingen, ondersteund met de corona-omboekingspremie.</p>",
+        "nl-BE-x-generated-informal": "<p>De evenementensector werd hard getroffen door de coronamaatregelen. Geplande en geboekte evenementen moesten geannuleerd worden, tickets moesten terugbetaald of omgeboekt worden. De getroffen ondernemingen worden, afhankelijk van het aantal verrichte eerste omboekingen, ondersteund met de corona-omboekingspremie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>Een aanvraag indienen is mogelijk vanaf medio september 2021. </p>",
+            "nl-BE-x-generated-informal": "<p>Een aanvraag indienen is mogelijk vanaf medio september 2021. </p>",
+            "nl": "<p>Een aanvraag indienen is mogelijk vanaf medio september 2021. </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Elke in aanmerking komende omboeking werd betoelaagd met maximaal 2 euro per omboeking. </p>",
+            "nl-BE-x-formal": "<p>Elke in aanmerking komende omboeking werd betoelaagd met maximaal 2 euro per omboeking. </p>",
+            "nl-BE-x-generated-informal": "<p>Elke in aanmerking komende omboeking werd betoelaagd met maximaal 2 euro per omboeking. </p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel",
+            "nl-BE-x-formal": "Financieel voordeel",
+            "nl-BE-x-generated-informal": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-06-07T07:44:07Z",
+      "laatstGewijzigd": "2023-05-11T17:03:50Z",
+      "laatstOntvangen": "2024-08-07T06:20:14.060352684Z",
+      "productnummer": "1978",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3cfd162f-a571-462f-abd5-d572158acb92",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/50765b16-c096-4176-aa2f-0222572b6992"
+    },
+    {
+      "id": "67bcf093-bb49-4fde-9194-3bf61d6cf551",
+      "generatedAtTime": "2024-08-07T06:20:13.904158Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Toelating tot arbeid voor buitenlandse werknemers",
+        "nl-BE-x-formal": "Toelating tot arbeid voor buitenlandse werknemers",
+        "nl-BE-x-generated-informal": "Toelating tot arbeid voor buitenlandse werknemers"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Als je als werkgever een buitenlandse werknemer in loondienst wilt aanwerven, moet je daar vooraf een toelating tot arbeid voor aanvragen.</p>",
+        "nl": "<p>Als u als werkgever een buitenlandse werknemer in loondienst wilt aanwerven, moet u daar vooraf een toelating tot arbeid voor aanvragen.</p>",
+        "nl-BE-x-formal": "<p>Als u als werkgever een buitenlandse werknemer in loondienst wilt aanwerven, moet u daar vooraf een toelating tot arbeid voor aanvragen.</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Het soort werk dat de buitenlander zal verrichten, bepaalt of hij zal worden toegelaten tot de arbeidsmarkt. Een toelating tot arbeid kan alleen worden toegekend als het werk van de buitenlander tot <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-categorieen\">een welbepaalde categorie</a> behoort. Voor elke categorie gelden aparte voorwaarden en procedures.</p><p><a href=\"https://www.uat-vlaanderen.be/als-buitenlander-in-vlaanderen-werken/simulator-toelatingen-tot-arbeid\">Door enkele vragen te beantwoorden</a>, kunt u nagaan via welke categorie van werknemer u mogelijk in aanmerking komt voor een toelating tot arbeid.</p><p>Voor bepaalde categorieën van buitenlanders is er <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-voor-wie\">geen toelating tot arbeid vereist</a>, bijvoorbeeld als het gaat om onderdanen van een EU-lidstaat of van IJsland, Noorwegen, Liechtenstein of Zwitserland. Zij mogen om het even welke job uitoefenen in Vlaanderen, bij om het even welke werkgever.</p>",
+            "nl-BE-x-generated-informal": "<p>Het soort werk dat de buitenlander zal verrichten, bepaalt of hij zal worden toegelaten tot de arbeidsmarkt. Een toelating tot arbeid kan alleen worden toegekend als het werk van de buitenlander tot <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-categorieen\">een welbepaalde categorie</a> behoort. Voor elke categorie gelden aparte voorwaarden en procedures.</p><p><a href=\"https://www.uat-vlaanderen.be/als-buitenlander-in-vlaanderen-werken/simulator-toelatingen-tot-arbeid\">Door enkele vragen te beantwoorden</a>, kan je nagaan via welke categorie van werknemer je mogelijk in aanmerking komt voor een toelating tot arbeid.</p><p>Voor bepaalde categorieën van buitenlanders is er <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-voor-wie\">geen toelating tot arbeid vereist</a>, bijvoorbeeld als het gaat om onderdanen van een EU-lidstaat of van IJsland, Noorwegen, Liechtenstein of Zwitserland. Zij mogen om het even welke job uitoefenen in Vlaanderen, bij om het even welke werkgever.</p>",
+            "nl-BE-x-formal": "<p>Het soort werk dat de buitenlander zal verrichten, bepaalt of hij zal worden toegelaten tot de arbeidsmarkt. Een toelating tot arbeid kan alleen worden toegekend als het werk van de buitenlander tot <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-categorieen\">een welbepaalde categorie</a> behoort. Voor elke categorie gelden aparte voorwaarden en procedures.</p><p><a href=\"https://www.uat-vlaanderen.be/als-buitenlander-in-vlaanderen-werken/simulator-toelatingen-tot-arbeid\">Door enkele vragen te beantwoorden</a>, kunt u nagaan via welke categorie van werknemer u mogelijk in aanmerking komt voor een toelating tot arbeid.</p><p>Voor bepaalde categorieën van buitenlanders is er <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-voor-wie\">geen toelating tot arbeid vereist</a>, bijvoorbeeld als het gaat om onderdanen van een EU-lidstaat of van IJsland, Noorwegen, Liechtenstein of Zwitserland. Zij mogen om het even welke job uitoefenen in Vlaanderen, bij om het even welke werkgever.</p>"
+          },
+          "naam": {
+            "nl-BE-x-formal": "Voorwaarden",
+            "nl-BE-x-generated-informal": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>Afhankelijk van de periode die de buitenlandse werknemer in Vlaanderen za werken, vraag je de toelating tot arbeid aan <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-aanvragen-via-e-mail\">per e-mail</a> of via <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-online-aanvragen-via-uniek-loket\">het uniek loket</a>.</p>",
+            "nl-BE-x-formal": "<p>Afhankelijk van de periode die de buitenlandse werknemer in Vlaanderen za werken, vraagt u de toelating tot arbeid aan <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-aanvragen-via-e-mail\">per e-mail</a> of via <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-online-aanvragen-via-uniek-loket\">het uniek loket</a>.</p>",
+            "nl": "<p>Afhankelijk van de periode die de buitenlandse werknemer in Vlaanderen za werken, vraagt u de toelating tot arbeid aan <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-aanvragen-via-e-mail\">per e-mail</a> of via <a href=\"https://www.uat-vlaanderen.be/werken/in-vlaanderen-komen-werken/toelating-tot-arbeid/toelating-tot-arbeid-online-aanvragen-via-uniek-loket\">het uniek loket</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-06-03T12:59:44Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-07T06:20:13.763161106Z",
+      "productnummer": "1976",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/67bcf093-bb49-4fde-9194-3bf61d6cf551",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/1dd6db9b-c9a4-470e-885b-f7a589dea300"
+    },
+    {
+      "id": "b78616ce-24a4-40ef-9f87-763db0f09bdb",
+      "generatedAtTime": "2024-08-07T06:20:13.044079Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "O&O-haalbaarheidsstudie",
+        "nl-BE-x-formal": "O&O-haalbaarheidsstudie",
+        "nl-BE-x-generated-informal": "O&amp;O-haalbaarheidsstudie"
+      },
+      "beschrijving": {
+        "nl": "<p>Bedrijven die een innovatief project beogen waarvan de haalbaarheid nog onvoldoende duidelijk is, kunnen onder bepaalde voorwaarden steun krijgen voor een O&amp;O-haalbaarheidsstudie. Die moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p>",
+        "nl-BE-x-formal": "<p>Bedrijven die een innovatief project beogen waarvan de haalbaarheid nog onvoldoende duidelijk is, kunnen onder bepaalde voorwaarden steun krijgen voor een O&amp;O-haalbaarheidsstudie. Die moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p>",
+        "nl-BE-x-generated-informal": "<p>Bedrijven die een innovatief project beogen waarvan de haalbaarheid nog onvoldoende duidelijk is, kunnen onder bepaalde voorwaarden steun krijgen voor een O&amp;O-haalbaarheidsstudie. Die moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "O&O",
+          "O&O-haalbaarheid",
+          "onderzoek & ontwikkeling",
+          "R&d-haalbaarheid",
+          "r&",
+          "research and development"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>Een haalbaarheidsstudie moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p><p>De innovatie die met het innovatieve vervolgtraject beoogd wordt, moet het potentieel hebben voor voldoende valorisatie in Vlaanderen. De haalbaarheidsstudie is een voorbereiding voor een steunbaar innovatief vervolgtraject.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>",
+            "nl": "<p>Een haalbaarheidsstudie moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p><p>De innovatie die met het innovatieve vervolgtraject beoogd wordt, moet het potentieel hebben voor voldoende valorisatie in Vlaanderen. De haalbaarheidsstudie is een voorbereiding voor een steunbaar innovatief vervolgtraject.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>",
+            "nl-BE-x-generated-informal": "<p>Een haalbaarheidsstudie moet betere en onderbouwde inzichten opleveren over de mogelijkheden en de haalbaarheid van een innovatie.</p><p>De innovatie die met het innovatieve vervolgtraject beoogd wordt, moet het potentieel hebben voor voldoende valorisatie in Vlaanderen. De haalbaarheidsstudie is een voorbereiding voor een steunbaar innovatief vervolgtraject.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>"
+          },
+          "naam": {
+            "nl-BE-x-formal": "Voorwaarden",
+            "nl-BE-x-generated-informal": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-formal": "<p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Bekijk de aanvraagprocedure op de website van VLAIO</a>.</p>",
+            "nl-BE-x-generated-informal": "<p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Bekijk de aanvraagprocedure op de website van VLAIO</a>.</p>",
+            "nl": "<p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Bekijk de aanvraagprocedure op de website van VLAIO</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>Met deze steun kunt u 40 tot 50% van de projectbegroting financieren, met een maximale steun van 50.000 euro. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>",
+            "nl-BE-x-generated-informal": "<p>Met deze steun kan je 40 tot 50% van de projectbegroting financieren, met een maximale steun van 50.000 euro. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>",
+            "nl": "<p>Met deze steun kunt u 40 tot 50% van de projectbegroting financieren, met een maximale steun van 50.000 euro. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/oo-haalbaarheidsstudie\">Lees meer op de website van VLAIO</a>.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel",
+            "nl-BE-x-formal": "Financieel voordeel",
+            "nl-BE-x-generated-informal": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-05-26T15:36:11Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-07T06:20:12.904400178Z",
+      "productnummer": "1974",
+      "gearchiveerd": false,
+      "publicatieLink": {
+        "naam": {
+          "nl-BE-x-generated-informal": "Lees meer op vlaanderen.be",
+          "nl-BE-x-formal": "Lees meer op vlaanderen.be",
+          "nl": "Lees meer op vlaanderen.be",
+          "en": "See also on vlaanderen.be"
+        },
+        "url": "https://www.uat-vlaanderen.be/Product/35bf1e7d-3904-4bda-a88b-2170885c8fcc"
+      },
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "verwanteProducten": [
+        {
+          "id": "388e90d9-68fb-4717-bdf8-5ff4c071939f",
+          "productnummer": "268",
+          "type": "INSTANTIE",
+          "order": 0
+        }
+      ],
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b78616ce-24a4-40ef-9f87-763db0f09bdb",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/be9fb04d-a832-4282-ab61-1f8045cfad3c"
+    },
+    {
+      "id": "eaeb5f7f-ee22-4277-b1a3-c0fc692ef48a",
+      "generatedAtTime": "2024-08-07T06:20:12.643684Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Vlaams Beschermingsmechanisme 9",
+        "nl": "Vlaams Beschermingsmechanisme 9",
+        "nl-BE-x-generated-informal": "Vlaams Beschermingsmechanisme 9"
+      },
+      "beschrijving": {
+        "nl": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 juni 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 juni 2021 en 30 juni 2021, konden deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 9 juni volledig mochten heropenen, konden nog steeds een aanvraag indienen als verplicht gesloten sector voor de periode van 1 tot en met 8 juni 2021.</p>",
+        "nl-BE-x-formal": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 juni 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 juni 2021 en 30 juni 2021, konden deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 9 juni volledig mochten heropenen, konden nog steeds een aanvraag indienen als verplicht gesloten sector voor de periode van 1 tot en met 8 juni 2021.</p>",
+        "nl-BE-x-generated-informal": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 juni 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 juni 2021 en 30 juni 2021, konden deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 9 juni volledig mochten heropenen, konden nog steeds een aanvraag indienen als verplicht gesloten sector voor de periode van 1 tot en met 8 juni 2021.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "VBM9",
+          "VBM 9",
+          "bescherm mijn idee"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Het Vlaams Beschermingsmechanisme 9 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>",
+            "nl-BE-x-formal": "<p>Het Vlaams Beschermingsmechanisme 9 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>",
+            "nl-BE-x-generated-informal": "<p>Het Vlaams Beschermingsmechanisme 9 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-04-29T12:18:22Z",
+      "laatstGewijzigd": "2023-05-11T16:32:41Z",
+      "laatstOntvangen": "2024-08-07T06:20:12.525162337Z",
+      "productnummer": "1972",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/eaeb5f7f-ee22-4277-b1a3-c0fc692ef48a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6e0b45ed-84c2-44d7-81a0-194faba12bb9"
+    },
+    {
+      "id": "41033706-b55f-4bc2-b9b4-cb409c4ecc99",
+      "generatedAtTime": "2024-08-07T06:20:12.37608Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "VBM8 - Vlaams Beschermingsmechanisme 8",
+        "nl": "VBM8 - Vlaams Beschermingsmechanisme 8",
+        "nl-BE-x-generated-informal": "VBM8 - Vlaams Beschermingsmechanisme 8"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 mei 2021 hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 mei 2021 en 31 mei 2021, kunnen deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 8 mei hun terrassen mogen openen, kunnen nog steeds een aanvraag indienen als verplicht gesloten sector voor de hele maand mei 2021.</p>",
+        "nl": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 mei 2021 hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 mei 2021 en 31 mei 2021, kunnen deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 8 mei hun terrassen mogen openen, kunnen nog steeds een aanvraag indienen als verplicht gesloten sector voor de hele maand mei 2021.</p>",
+        "nl-BE-x-formal": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 mei 2021 hun omzet met 60% of meer zagen dalen, komen in aanmerking komen voor de steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 mei 2021 en 31 mei 2021, kunnen deze steun aanvragen voor de sluitingsperiode. Ook cafés en restaurants, die sinds 8 mei hun terrassen mogen openen, kunnen nog steeds een aanvraag indienen als verplicht gesloten sector voor de hele maand mei 2021.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "VBM8",
+          "VBM 8"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>Het Vlaams Beschermingsmechanisme 8 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>",
+            "nl-BE-x-generated-informal": "<p>Het Vlaams Beschermingsmechanisme 8 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>",
+            "nl": "<p>Het Vlaams Beschermingsmechanisme 8 <strong>kan niet meer aangevraagd worden</strong>.</p><h3> </h3>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-04-29T12:16:40Z",
+      "laatstGewijzigd": "2023-05-11T16:32:34Z",
+      "laatstOntvangen": "2024-08-07T06:20:12.274102142Z",
+      "productnummer": "1971",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/41033706-b55f-4bc2-b9b4-cb409c4ecc99",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4cd616f7-a2a2-49ee-b3ef-327287d26776"
+    },
+    {
+      "id": "bad0ceb1-6bae-442c-b38d-aa028dcced65",
+      "generatedAtTime": "2024-08-07T06:20:12.121407Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vlaams beschermingsmechanisme 7",
+        "nl-BE-x-formal": "Vlaams beschermingsmechanisme 7",
+        "nl-BE-x-generated-informal": "Vlaams beschermingsmechanisme 7"
+      },
+      "beschrijving": {
+        "nl": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>",
+        "nl-BE-x-formal": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>",
+        "nl-BE-x-generated-informal": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 30 april 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. Met die steun kunnen ze de terugloop in ontvangsten overbruggen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "VBM7",
+          "VB7",
+          "beschermingsmechanisme",
+          "corona",
+          "vlaio"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>",
+            "nl-BE-x-formal": "<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>",
+            "nl": "<p><strong>Het Vlaams Beschermingsmechanisme 7 kan niet meer aangevraagd worden.</strong></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl-BE-x-formal": "<h3>.</h3>",
+            "nl-BE-x-generated-informal": "<h3>.</h3>",
+            "nl": "<h3>.</h3>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel",
+            "nl-BE-x-formal": "Financieel voordeel",
+            "nl-BE-x-generated-informal": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-03-22T09:14:01Z",
+      "laatstGewijzigd": "2023-05-11T16:32:26Z",
+      "laatstOntvangen": "2024-08-07T06:20:11.999655403Z",
+      "productnummer": "1964",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bad0ceb1-6bae-442c-b38d-aa028dcced65",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/da553edb-0060-4327-bfff-bf64aa5ea99a"
+    },
+    {
+      "id": "c10ea2b5-ca7f-409a-906d-fdf49a822372",
+      "generatedAtTime": "2024-08-07T06:20:11.852063Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Vlaams Beschermingsmechanisme 6",
+        "nl": "Vlaams Beschermingsmechanisme 6",
+        "nl-BE-x-generated-informal": "Vlaams Beschermingsmechanisme 6"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 maart 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking voor deze steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 maart 2021 en 31 maart 2021 of tussen 27 maart 2021 en 31 maart 2021 konden deze steun aanvragen voor de sluitingsperiode.</p>",
+        "nl-BE-x-formal": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 maart 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking voor deze steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 maart 2021 en 31 maart 2021 of tussen 27 maart 2021 en 31 maart 2021 konden deze steun aanvragen voor de sluitingsperiode.</p>",
+        "nl": "<p>Zelfstandigen en ondernemingen die in de periode van 1 tot en met 31 maart 2021 hun omzet met 60% of meer zagen dalen, kwamen in aanmerking voor deze steunmaatregel.</p><p>Ook ondernemingen die verplicht gesloten waren tussen 1 maart 2021 en 31 maart 2021 of tussen 27 maart 2021 en 31 maart 2021 konden deze steun aanvragen voor de sluitingsperiode.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "VBM6",
+          "VB6",
+          "beschermingsmechanisme",
+          "corona",
+          "vlaio"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-formal": "<p><strong>Het Vlaams Beschermingsmechanisme 6 kan niet meer aangevraagd worden.</strong></p>",
+            "nl": "<p><strong>Het Vlaams Beschermingsmechanisme 6 kan niet meer aangevraagd worden.</strong></p>",
+            "nl-BE-x-generated-informal": "<p><strong>Het Vlaams Beschermingsmechanisme 6 kan niet meer aangevraagd worden.</strong></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-03-19T13:28:05Z",
+      "laatstGewijzigd": "2023-05-11T16:32:19Z",
+      "laatstOntvangen": "2024-08-07T06:20:11.764870506Z",
+      "productnummer": "1963",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c10ea2b5-ca7f-409a-906d-fdf49a822372",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/74294050-0e79-46fb-9e22-0ebd13d58ccc"
+    },
+    {
+      "id": "ad4dab4c-4dfa-4ef4-8e69-69335c255201",
+      "generatedAtTime": "2024-08-07T06:20:11.563845Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Heropstartlening",
+        "nl-BE-x-formal": "Heropstartlening",
+        "nl-BE-x-generated-informal": "Heropstartlening"
+      },
+      "beschrijving": {
+        "nl-BE-x-formal": "<p>Via de heropstartlening konden ondernemers die handelsgoederen moeten aankopen, zoals kleinhandelaars en horeca-uitbaters, en die te weinig liquide middelen hadden om hun voorraden aan te vullen, een lening afsluiten voor de financiering van de aankopen van handelsgoederen, voorraden en overige heropstartkosten. </p>",
+        "nl-BE-x-generated-informal": "<p>Via de heropstartlening konden ondernemers die handelsgoederen moeten aankopen, zoals kleinhandelaars en horeca-uitbaters, en die te weinig liquide middelen hadden om hun voorraden aan te vullen, een lening afsluiten voor de financiering van de aankopen van handelsgoederen, voorraden en overige heropstartkosten. </p>",
+        "nl": "<p>Via de heropstartlening konden ondernemers die handelsgoederen moeten aankopen, zoals kleinhandelaars en horeca-uitbaters, en die te weinig liquide middelen hadden om hun voorraden aan te vullen, een lening afsluiten voor de financiering van de aankopen van handelsgoederen, voorraden en overige heropstartkosten. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "herstart",
+          "herstartlening",
+          "heropstart",
+          "heropstarten",
+          "corona",
+          "post-corona",
+          "post corona",
+          "coronacrisis",
+          "heropstartpremie",
+          "corona heropstartlening",
+          "heropstartpremie",
+          "coronaheropstartlening"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-formal": "<p><strong>De heropstartlening kan niet meer aangevraagd worden.</strong></p>",
+            "nl-BE-x-generated-informal": "<p><strong>De heropstartlening kan niet meer aangevraagd worden.</strong></p>",
+            "nl": "<p><strong>De heropstartlening kan niet meer aangevraagd worden.</strong></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Heropstartlening",
+            "nl-BE-x-formal": "Heropstartlening",
+            "nl-BE-x-generated-informal": "Heropstartlening"
+          },
+          "url": "https://www.vlaio.be/nl/subsidies-financiering/heropstartlening",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-03-17T13:16:31Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-07T06:20:11.45145934Z",
+      "productnummer": "1962",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ad4dab4c-4dfa-4ef4-8e69-69335c255201",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/21abfdf6-fac6-4eff-a5dc-22559da131b7"
+    },
+    {
+      "id": "e475366d-8b22-4be1-82b8-a8bff843e16c",
+      "generatedAtTime": "2024-08-07T06:20:11.284481Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Innovatieve starterssteun",
+        "nl-BE-x-generated-informal": "Innovatieve starterssteun",
+        "nl": "Innovatieve starterssteun"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Innovatieve starterssteun ondersteunt starters in het opnemen van een pioniersrol binnen hun markt.</p>",
+        "nl-BE-x-formal": "<p>Innovatieve starterssteun ondersteunt starters in het opnemen van een pioniersrol binnen hun markt.</p>",
+        "nl": "<p>Innovatieve starterssteun ondersteunt starters in het opnemen van een pioniersrol binnen hun markt.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "startersteun",
+          "starterssteun"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>Bekijk de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">voorwaarden om in aanmerking te komen voor innovatieve starterssteun</a> op de website van VLAIO.</p>",
+            "nl": "<p>Bekijk de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">voorwaarden om in aanmerking te komen voor innovatieve starterssteun</a> op de website van VLAIO.</p>",
+            "nl-BE-x-generated-informal": "<p>Bekijk de <a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">voorwaarden om in aanmerking te komen voor innovatieve starterssteun</a> op de website van VLAIO.</p>"
+          },
+          "naam": {
+            "nl-BE-x-formal": "Voorwaarden",
+            "nl-BE-x-generated-informal": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Een starter kan zichzelf niet aanmelden voor deze innovatieve starterssteun. Een aanmelding kan alleen via één van de VLAIO-partners.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">Lees meer op de website van VLAIO</a>.</p>",
+            "nl-BE-x-generated-informal": "<p>Een starter kan zichzelf niet aanmelden voor deze innovatieve starterssteun. Een aanmelding kan alleen via één van de VLAIO-partners.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">Lees meer op de website van VLAIO</a>.</p>",
+            "nl-BE-x-formal": "<p>Een starter kan zichzelf niet aanmelden voor deze innovatieve starterssteun. Een aanmelding kan alleen via één van de VLAIO-partners.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/innovatieve-starterssteun\">Lees meer op de website van VLAIO</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-03-12T10:15:54Z",
+      "laatstGewijzigd": "2023-06-27T21:18:58Z",
+      "laatstOntvangen": "2024-08-07T06:20:11.181680675Z",
+      "productnummer": "1961",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "EN",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e475366d-8b22-4be1-82b8-a8bff843e16c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a5cdfe7b-2399-482b-a47f-0a3496b7cabf"
+    },
+    {
+      "id": "0a4209bc-cbd2-4f68-9e26-bcd36bf9d8eb",
+      "generatedAtTime": "2024-08-07T06:20:10.957053Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vlaams Beschermingsmechanisme 5",
+        "nl-BE-x-generated-informal": "Vlaams Beschermingsmechanisme 5",
+        "nl-BE-x-formal": "Vlaams Beschermingsmechanisme 5"
+      },
+      "beschrijving": {
+        "nl": "<p>Zelfstandigen en ondernemingen die tussen 1 tot 28 februari 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. <strong>Die kan nu niet meer aangevraagd worden</strong>.</p>",
+        "nl-BE-x-formal": "<p>Zelfstandigen en ondernemingen die tussen 1 tot 28 februari 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. <strong>Die kan nu niet meer aangevraagd worden</strong>.</p>",
+        "nl-BE-x-generated-informal": "<p>Zelfstandigen en ondernemingen die tussen 1 tot 28 februari 2021 hun omzet met 60% of meer zagen dalen, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. <strong>Die kan nu niet meer aangevraagd worden</strong>.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "VBM5",
+          "beschermingsmechanisme",
+          "VB5"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "creatie": "2021-02-25T13:32:17Z",
+      "laatstGewijzigd": "2023-05-11T16:32:04Z",
+      "laatstOntvangen": "2024-08-07T06:20:10.867863072Z",
+      "productnummer": "1958",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0a4209bc-cbd2-4f68-9e26-bcd36bf9d8eb",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5190fd6f-9827-4329-bacb-a3172b76fb05"
+    },
+    {
+      "id": "27e9adfa-6cae-4504-b6af-fd10c4b95073",
+      "generatedAtTime": "2024-08-07T06:20:10.724243Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vlaams Beschermingsmechanisme 4",
+        "nl-BE-x-generated-informal": "Vlaams Beschermingsmechanisme 4",
+        "nl-BE-x-formal": "Vlaams Beschermingsmechanisme 4"
+      },
+      "beschrijving": {
+        "nl": "<p>Zelfstandigen en ondernemingen die hun omzet met 60% of meer zagen dalen tussen 1 en 31 januari 2021, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. </p>",
+        "nl-BE-x-formal": "<p>Zelfstandigen en ondernemingen die hun omzet met 60% of meer zagen dalen tussen 1 en 31 januari 2021, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. </p>",
+        "nl-BE-x-generated-informal": "<p>Zelfstandigen en ondernemingen die hun omzet met 60% of meer zagen dalen tussen 1 en 31 januari 2021, of die tijdens diezelfde periode verplicht gesloten moesten blijven, kwamen in aanmerking voor de steunmaatregel. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "VBM4",
+          "beschermingsmechanisme",
+          "beschermingspremie",
+          "VB4",
+          "corona",
+          "vlaio"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-formal": "<p><strong>Het Vlaams Beschermingsmechanisme 4 kan niet meer aangevraagd worden.</strong></p><h3> </h3>",
+            "nl-BE-x-generated-informal": "<p><strong>Het Vlaams Beschermingsmechanisme 4 kan niet meer aangevraagd worden.</strong></p><h3> </h3>",
+            "nl": "<p><strong>Het Vlaams Beschermingsmechanisme 4 kan niet meer aangevraagd worden.</strong></p><h3> </h3>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2021-02-11T18:40:20Z",
+      "laatstGewijzigd": "2023-05-11T16:31:56Z",
+      "laatstOntvangen": "2024-08-07T06:20:10.634626767Z",
+      "productnummer": "1955",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/27e9adfa-6cae-4504-b6af-fd10c4b95073",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/9fb5e809-fb5f-4608-aac8-35070ccd9eb1"
+    },
+    {
+      "id": "3ed11b75-8e91-4c16-b4c2-f4077b31aaaa",
+      "generatedAtTime": "2024-08-07T06:20:10.472995Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Brexit-veerkrachtsubsidie",
+        "nl-BE-x-generated-informal": "Brexit-veerkrachtsubsidie",
+        "nl-BE-x-formal": "Brexit-veerkrachtsubsidie"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>De brexit-veerkrachtsubsidie is een subsidie waarmee kmo’s die direct of indirect getroffen zijn door de brexit, worden ondersteund.</p>",
+        "nl-BE-x-formal": "<p>De brexit-veerkrachtsubsidie is een subsidie waarmee kmo’s die direct of indirect getroffen zijn door de brexit, worden ondersteund.</p>",
+        "nl": "<p>De brexit-veerkrachtsubsidie is een subsidie waarmee kmo’s die direct of indirect getroffen zijn door de brexit, worden ondersteund.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "veerkracht",
+          "veerkrachtsteun",
+          "veerkrachtpremie",
+          "brexit"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>De brexit-veerkrachtsubsidie is bedoeld voor ondernemingen die door de brexit hun businessmodel strategisch willen heroriënteren. De volgende elementen zijn daarbij van belang: </p><ul><li>de steun aanvragende onderneming is direct of indirect getroffen door de brexit</li><li>het project zet aan tot een strategische transformatie van het businessmodel van de onderneming</li><li>het project heeft een substantiële impact op de ondernemingsprocessen van de hele onderneming;</li><li>de nieuwe strategie is moeilijk omkeerbaar</li></ul><p>Enkele voorbeelden van strategische heroriëntaties:</p><ul><li>nieuwe buitenlandse markten aanboren</li><li>verloren UK-marktaandeel compenseren door een nieuw product of nieuwe dienst in een bestaande markt aan te bieden en/of een bestaand product of bestaande dienst in een nieuwe markt aan te bieden</li><li>de competitiviteit van uw onderneming verhogen door een nieuw businessmodel te implementeren</li></ul><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>",
+            "nl-BE-x-generated-informal": "<p>De brexit-veerkrachtsubsidie is bedoeld voor ondernemingen die door de brexit hun businessmodel strategisch willen heroriënteren. De volgende elementen zijn daarbij van belang: </p><ul><li>de steun aanvragende onderneming is direct of indirect getroffen door de brexit</li><li>het project zet aan tot een strategische transformatie van het businessmodel van de onderneming</li><li>het project heeft een substantiële impact op de ondernemingsprocessen van de hele onderneming;</li><li>de nieuwe strategie is moeilijk omkeerbaar</li></ul><p>Enkele voorbeelden van strategische heroriëntaties:</p><ul><li>nieuwe buitenlandse markten aanboren</li><li>verloren UK-marktaandeel compenseren door een nieuw product of nieuwe dienst in een bestaande markt aan te bieden en/of een bestaand product of bestaande dienst in een nieuwe markt aan te bieden</li><li>de competitiviteit van jouw onderneming verhogen door een nieuw businessmodel te implementeren</li></ul><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vind je op de website van VLAIO</a>.</p>",
+            "nl": "<p>De brexit-veerkrachtsubsidie is bedoeld voor ondernemingen die door de brexit hun businessmodel strategisch willen heroriënteren. De volgende elementen zijn daarbij van belang: </p><ul><li>de steun aanvragende onderneming is direct of indirect getroffen door de brexit</li><li>het project zet aan tot een strategische transformatie van het businessmodel van de onderneming</li><li>het project heeft een substantiële impact op de ondernemingsprocessen van de hele onderneming;</li><li>de nieuwe strategie is moeilijk omkeerbaar</li></ul><p>Enkele voorbeelden van strategische heroriëntaties:</p><ul><li>nieuwe buitenlandse markten aanboren</li><li>verloren UK-marktaandeel compenseren door een nieuw product of nieuwe dienst in een bestaande markt aan te bieden en/of een bestaand product of bestaande dienst in een nieuwe markt aan te bieden</li><li>de competitiviteit van uw onderneming verhogen door een nieuw businessmodel te implementeren</li></ul><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>"
+          },
+          "naam": {
+            "nl-BE-x-formal": "Voorwaarden",
+            "nl-BE-x-generated-informal": "Voorwaarden",
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Sinds 1 februari 2021 kunnen projectaanvragen ingediend worden. De uiterste indiendatum is 31 december 2022 om 12 uur.</p><p>De projectaanvragen worden beslist in volgorde van indiening, tot de beschikbare middelen uitgeput zijn. Als de middelen vroeger dan 31 december 2022 uitgeput zijn, kan VLAIO de oproep vroeger afsluiten.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>",
+            "nl-BE-x-generated-informal": "<p>Sinds 1 februari 2021 kunnen projectaanvragen ingediend worden. De uiterste indiendatum is 31 december 2022 om 12 uur.</p><p>De projectaanvragen worden beslist in volgorde van indiening, tot de beschikbare middelen uitgeput zijn. Als de middelen vroeger dan 31 december 2022 uitgeput zijn, kan VLAIO de oproep vroeger afsluiten.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vind je op de website van VLAIO</a>.</p>",
+            "nl-BE-x-formal": "<p>Sinds 1 februari 2021 kunnen projectaanvragen ingediend worden. De uiterste indiendatum is 31 december 2022 om 12 uur.</p><p>De projectaanvragen worden beslist in volgorde van indiening, tot de beschikbare middelen uitgeput zijn. Als de middelen vroeger dan 31 december 2022 uitgeput zijn, kan VLAIO de oproep vroeger afsluiten.</p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Brexit-veerkrachtsubsidie (VLAIO.be)",
+            "nl": "Brexit-veerkrachtsubsidie (VLAIO.be)",
+            "nl-BE-x-formal": "Brexit-veerkrachtsubsidie (VLAIO.be)"
+          },
+          "url": "https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>Een kmo kan maximaal 50.000 euro subsidie ontvangen binnen deze projectoproep. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vind je op de website van VLAIO</a>.</p>",
+            "nl": "<p>Een kmo kan maximaal 50.000 euro subsidie ontvangen binnen deze projectoproep. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>",
+            "nl-BE-x-formal": "<p>Een kmo kan maximaal 50.000 euro subsidie ontvangen binnen deze projectoproep. </p><p><a href=\"https://www.vlaio.be/nl/subsidies-financiering/brexit-veerkrachtsubsidie\">Meer informatie vindt u op de website van VLAIO</a>.</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel",
+            "nl-BE-x-formal": "Financieel voordeel",
+            "nl-BE-x-generated-informal": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2020-12-23T16:23:39Z",
+      "laatstGewijzigd": "2023-04-17T13:28:39Z",
+      "laatstOntvangen": "2024-08-07T06:20:10.284510433Z",
+      "productnummer": "1956",
+      "gearchiveerd": false,
+      "publicatieLink": {
+        "naam": {
+          "nl-BE-x-generated-informal": "Lees meer op vlaanderen.be",
+          "nl-BE-x-formal": "Lees meer op vlaanderen.be",
+          "nl": "Lees meer op vlaanderen.be",
+          "en": "See also on vlaanderen.be"
+        },
+        "url": "https://www.uat-vlaanderen.be/Product/0f470501-8ea8-4704-ae2e-ef0232718073"
+      },
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3ed11b75-8e91-4c16-b4c2-f4077b31aaaa",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0b2c80c7-19bd-4d13-8f8d-7460e653ad9c"
+    },
+    {
+      "id": "9509de75-fd8b-4d1e-9d59-1550aab613b4",
+      "generatedAtTime": "2024-08-07T06:20:09.85527Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Globalisatiemechanisme",
+        "nl": "Globalisatiemechanisme",
+        "nl-BE-x-generated-informal": "Globalisatiemechanisme"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Het corona-globalisatiemechanisme (CGM) is een steunmaatregel voor ondernemingen die in de periode van 1 april 2020 tot en met 31 december 2020 een omzetdaling van minstens 60% én een boekhoudkundig verlies hebben geleden ingevolge de coronavirusmaatregelen.</p>",
+        "nl": "<p>Het corona-globalisatiemechanisme (CGM) is een steunmaatregel voor ondernemingen die in de periode van 1 april 2020 tot en met 31 december 2020 een omzetdaling van minstens 60% én een boekhoudkundig verlies hebben geleden ingevolge de coronavirusmaatregelen.</p>",
+        "nl-BE-x-formal": "<p>Het corona-globalisatiemechanisme (CGM) is een steunmaatregel voor ondernemingen die in de periode van 1 april 2020 tot en met 31 december 2020 een omzetdaling van minstens 60% én een boekhoudkundig verlies hebben geleden ingevolge de coronavirusmaatregelen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "globalisatie",
+          "globalisatiepremie",
+          "globaliseringspremie",
+          "corona",
+          "vlaio",
+          "globaliseringsmechanisme",
+          "globalisatiemechanisme",
+          "coronacrisis",
+          "post-corona",
+          "post corona"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p><strong>Het globalisatiemechanisme kan niet meer aangevraagd worden.</strong></p>",
+            "nl-BE-x-formal": "<p><strong>Het globalisatiemechanisme kan niet meer aangevraagd worden.</strong></p>",
+            "nl-BE-x-generated-informal": "<p><strong>Het globalisatiemechanisme kan niet meer aangevraagd worden.</strong></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-formal": "Globalisatiemechanisme",
+            "nl": "Globalisatiemechanisme",
+            "nl-BE-x-generated-informal": "Globalisatiemechanisme"
+          },
+          "url": "https://www.vlaio.be/nl/subsidies-financiering/globalisatiemechanisme/wat-is-het-globalisatiemechanisme",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2020-12-22T09:33:23Z",
+      "laatstGewijzigd": "2023-05-11T16:47:32Z",
+      "laatstOntvangen": "2024-08-07T06:20:09.713382591Z",
+      "productnummer": "1946",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9509de75-fd8b-4d1e-9d59-1550aab613b4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/9594aca6-cdc3-4054-ba1c-db00aff6ab05"
+    },
+    {
+      "id": "3f18d4f0-9434-4f39-ae37-2dced0a67f44",
+      "generatedAtTime": "2024-08-07T06:20:09.537202Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Vlaams Beschermingsmechanisme 3",
+        "nl-BE-x-generated-informal": "Vlaams Beschermingsmechanisme 3",
+        "nl-BE-x-formal": "Vlaams Beschermingsmechanisme 3"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 15 november en 31 december 2020, of ondernemingen die verplicht gesloten moesten blijven tijdens diezelfde periode, kunnen een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>",
+        "nl": "<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 15 november en 31 december 2020, of ondernemingen die verplicht gesloten moesten blijven tijdens diezelfde periode, kunnen een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>",
+        "nl-BE-x-formal": "<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 15 november en 31 december 2020, of ondernemingen die verplicht gesloten moesten blijven tijdens diezelfde periode, kunnen een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "VBM",
+          "3",
+          "vbm3",
+          "VBM 3",
+          "VB3",
+          "VB 3"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p><strong>Het Vlaams Beschermingsmechanisme 3 kan niet meer aangevraagd worden.</strong></p>",
+            "nl-BE-x-formal": "<p><strong>Het Vlaams Beschermingsmechanisme 3 kan niet meer aangevraagd worden.</strong></p>",
+            "nl": "<p><strong>Het Vlaams Beschermingsmechanisme 3 kan niet meer aangevraagd worden.</strong></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2020-12-10T09:25:10Z",
+      "laatstGewijzigd": "2023-05-11T16:52:35Z",
+      "laatstOntvangen": "2024-08-07T06:20:09.429550155Z",
+      "productnummer": "1945",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3f18d4f0-9434-4f39-ae37-2dced0a67f44",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c09db984-6356-4f58-b399-c1fc630d0ec4"
+    },
+    {
+      "id": "8c02b8c1-8453-4a26-b60b-062f2b48aedf",
+      "generatedAtTime": "2024-08-07T06:20:07.220495Z",
+      "naam": {
+        "nl": "Corona-hinderpremie",
+        "nl-BE-x-formal": "Corona-hinderpremie",
+        "nl-BE-x-generated-informal": "Corona-hinderpremie"
+      },
+      "beschrijving": {
+        "nl": "<p>Handelaars, horecazaken, zelfstandigen en dienstverleners die getroffen zijn door de verplichte sluitingsmaatregelen ten gevolge van de coronacrisis, komen mogelijk in aanmerking voor de corona-hinderpremie. Die premie moet ondernemingen die ernstig inkomensverlies lijden, gedeeltelijk compenseren.</p>",
+        "nl-BE-x-formal": "<p>Handelaars, horecazaken, zelfstandigen en dienstverleners die getroffen zijn door de verplichte sluitingsmaatregelen ten gevolge van de coronacrisis, komen mogelijk in aanmerking voor de corona-hinderpremie. Die premie moet ondernemingen die ernstig inkomensverlies lijden, gedeeltelijk compenseren.</p>",
+        "nl-BE-x-generated-informal": "<p>Handelaars, horecazaken, zelfstandigen en dienstverleners die getroffen zijn door de verplichte sluitingsmaatregelen ten gevolge van de coronacrisis, komen mogelijk in aanmerking voor de corona-hinderpremie. Die premie moet ondernemingen die ernstig inkomensverlies lijden, gedeeltelijk compenseren.</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "hinderpremie",
+          "sluitingspremie",
+          "corona",
+          "coronavirus",
+          "coronamaatregelen",
+          "hinder",
+          "compensatie",
+          "financiële tegemoetkoming",
+          "tegemoetkoming",
+          "lockdown",
+          "omzetverlies"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000076",
+          "@id": "OVO000076"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "creatie": "2020-03-18T20:04:25Z",
+      "laatstGewijzigd": "2023-05-11T17:06:51Z",
+      "laatstOntvangen": "2024-08-07T06:20:07.131922514Z",
+      "productnummer": "2031",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8c02b8c1-8453-4a26-b60b-062f2b48aedf",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/1a4b8ca3-e17d-4562-91ee-d3f5234f6d55"
+    },
+    {
+      "id": "b5e93c81-66df-4c8d-ba54-1c563290119f",
+      "generatedAtTime": "2024-08-07T06:15:41.141496Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Corona-lening (Achtergestelde lening op drie jaar)",
+        "nl-BE-x-formal": "Corona-lening (Achtergestelde lening op drie jaar)",
+        "nl-BE-x-generated-informal": "Corona-lening (Achtergestelde lening op drie jaar)"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Ondernemingen die extra werkkapitaal nodig hadden om de gevolgen van de coronacrisis op te vangen, konden een achtergestelde lening krijgen met een looptijd van 3 jaar, als aanvulling op overbruggingskredieten op heel korte termijn vanuit het federale niveau.</p>",
+        "nl-BE-x-formal": "<p>Ondernemingen die extra werkkapitaal nodig hadden om de gevolgen van de coronacrisis op te vangen, konden een achtergestelde lening krijgen met een looptijd van 3 jaar, als aanvulling op overbruggingskredieten op heel korte termijn vanuit het federale niveau.</p>",
+        "nl": "<p>Ondernemingen die extra werkkapitaal nodig hadden om de gevolgen van de coronacrisis op te vangen, konden een achtergestelde lening krijgen met een looptijd van 3 jaar, als aanvulling op overbruggingskredieten op heel korte termijn vanuit het federale niveau.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>Het gaat om een achtergestelde lening van minimaal 25.000 en maximaal 2,8 miljoen euro (eventueel verhoogd tot 4,3 miljoen als er een bijkomende investeerder of financier optreedt).</p>",
+            "nl-BE-x-formal": "<p>Het gaat om een achtergestelde lening van minimaal 25.000 en maximaal 2,8 miljoen euro (eventueel verhoogd tot 4,3 miljoen als er een bijkomende investeerder of financier optreedt).</p>",
+            "nl": "<p>Het gaat om een achtergestelde lening van minimaal 25.000 en maximaal 2,8 miljoen euro (eventueel verhoogd tot 4,3 miljoen als er een bijkomende investeerder of financier optreedt).</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel",
+            "nl-BE-x-formal": "Financieel voordeel",
+            "nl-BE-x-generated-informal": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2020-12-02T18:45:23Z",
+      "laatstGewijzigd": "2023-05-11T17:01:16Z",
+      "laatstOntvangen": "2024-08-07T06:15:41.04303164Z",
+      "productnummer": "1943",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b5e93c81-66df-4c8d-ba54-1c563290119f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/02b2cd5f-7b19-490e-b13b-3e6fda69e355"
+    },
+    {
+      "id": "85f295fd-6bf7-4686-be6b-2924cd3725b7",
+      "generatedAtTime": "2024-08-07T06:15:40.589969Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Nieuw Vlaams Beschermingsmechanisme (NVB)",
+        "nl": "Nieuw Vlaams Beschermingsmechanisme (NVB)",
+        "nl-BE-x-generated-informal": "Nieuw Vlaams Beschermingsmechanisme (NVB)"
+      },
+      "beschrijving": {
+        "nl": "<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 oktober en 15 november 2020 óf tussen 19 oktober en 15 november 2020, of ondernemingen die verplicht werden te sluiten, konden een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>",
+        "nl-BE-x-generated-informal": "<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 oktober en 15 november 2020 óf tussen 19 oktober en 15 november 2020, of ondernemingen die verplicht werden te sluiten, konden een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>",
+        "nl-BE-x-formal": "<p>Zelfstandigen en ondernemingen die als gevolg van de verstrengde federale coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 oktober en 15 november 2020 óf tussen 19 oktober en 15 november 2020, of ondernemingen die verplicht werden te sluiten, konden een beroep doen op een premie waarmee ze de terugloop in ontvangsten kunnen overbruggen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Het Nieuw Vlaams Beschermingsmechanisme (NVB) kan niet meer aangevraagd worden.</p>",
+            "nl-BE-x-formal": "<p>Het Nieuw Vlaams Beschermingsmechanisme (NVB) kan niet meer aangevraagd worden.</p>",
+            "nl-BE-x-generated-informal": "<p>Het Nieuw Vlaams Beschermingsmechanisme (NVB) kan niet meer aangevraagd worden.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2020-10-23T16:45:54Z",
+      "laatstGewijzigd": "2023-05-11T16:31:12Z",
+      "laatstOntvangen": "2024-08-07T06:15:40.49604246Z",
+      "productnummer": "1921",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/85f295fd-6bf7-4686-be6b-2924cd3725b7",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ae2bc9b9-0d41-4521-a7ec-ebf55b81a900"
+    },
+    {
+      "id": "e9d71656-90c1-4ea9-8c5d-991ea45f7579",
+      "generatedAtTime": "2024-08-07T06:15:40.283783Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Terugbetaalbaar voorschot voor evenementen",
+        "nl-BE-x-generated-informal": "Terugbetaalbaar voorschot voor evenementen",
+        "nl-BE-x-formal": "Terugbetaalbaar voorschot voor evenementen"
+      },
+      "beschrijving": {
+        "nl": "<p>Covid-19 creëert grote onzekerheid voor de evenementensector. Een terugbetaalbaar voorschot voor organisatoren creëert werkkapitaal om nieuwe evenementen voor te bereiden en op te zetten.</p>",
+        "nl-BE-x-generated-informal": "<p>Covid-19 creëert grote onzekerheid voor de evenementensector. Een terugbetaalbaar voorschot voor organisatoren creëert werkkapitaal om nieuwe evenementen voor te bereiden en op te zetten.</p>",
+        "nl-BE-x-formal": "<p>Covid-19 creëert grote onzekerheid voor de evenementensector. Een terugbetaalbaar voorschot voor organisatoren creëert werkkapitaal om nieuwe evenementen voor te bereiden en op te zetten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "voorschot",
+          "event",
+          "events",
+          "eventsector",
+          "evenement",
+          "evenementen",
+          "evenementensector",
+          "evenementsector"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Terugbetaalbaar voorschot (VLAIO.be)",
+            "nl": "Terugbetaalbaar voorschot (VLAIO.be)",
+            "nl-BE-x-formal": "Terugbetaalbaar voorschot (VLAIO.be)"
+          },
+          "url": "https://www.vlaio.be/nl/subsidies-financiering/voorschot-voor-organisatoren-van-evenementen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl-BE-x-formal": "<p>Voorschot</p>",
+            "nl": "<p>Voorschot</p>",
+            "nl-BE-x-generated-informal": "<p>Voorschot</p>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel",
+            "nl-BE-x-formal": "Financieel voordeel",
+            "nl-BE-x-generated-informal": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2020-08-21T14:50:40Z",
+      "laatstGewijzigd": "2023-05-11T16:59:30Z",
+      "laatstOntvangen": "2024-08-07T06:15:40.179836887Z",
+      "productnummer": "1907",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e9d71656-90c1-4ea9-8c5d-991ea45f7579",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/36369eb1-7c36-48cb-bbcb-03612628e088"
+    },
+    {
+      "id": "c3e9dbea-aa37-4d81-8150-bfb1b1f2b434",
+      "generatedAtTime": "2024-08-07T06:15:39.964594Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Vlaams beschermingsmechanisme",
+        "nl": "Vlaams beschermingsmechanisme",
+        "nl-BE-x-generated-informal": "Vlaams beschermingsmechanisme"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Bedrijven die door de exploitatiebeperkingen vanwege de coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 augustus en 30 september 2020, konden een premie ontvangen. Die moest hen helpen die omzetdaling op te vangen.</p>",
+        "nl": "<p>Bedrijven die door de exploitatiebeperkingen vanwege de coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 augustus en 30 september 2020, konden een premie ontvangen. Die moest hen helpen die omzetdaling op te vangen.</p>",
+        "nl-BE-x-formal": "<p>Bedrijven die door de exploitatiebeperkingen vanwege de coronamaatregelen hun omzet met 60% of meer zagen dalen tussen 1 augustus en 30 september 2020, konden een premie ontvangen. Die moest hen helpen die omzetdaling op te vangen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "VBM",
+          "beschermingsmechanisme",
+          "corona",
+          "coronapremie",
+          "coronamaatregel",
+          "subsidie",
+          "vlaio",
+          "beschermingsregeling",
+          "avondklok",
+          "Antwerpen"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p><strong>De premie kan niet meer aangevraagd worden.</strong></p>",
+            "nl-BE-x-formal": "<p><strong>De premie kan niet meer aangevraagd worden.</strong></p>",
+            "nl": "<p><strong>De premie kan niet meer aangevraagd worden.</strong></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2020-08-07T15:28:04Z",
+      "laatstGewijzigd": "2023-05-11T16:31:05Z",
+      "laatstOntvangen": "2024-08-07T06:15:39.873808952Z",
+      "productnummer": "1911",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "verwanteProducten": [
+        {
+          "id": "3eac0581-b28e-43b6-bd59-03f219aa2abc",
+          "productnummer": "1880",
+          "type": "INSTANTIE",
+          "order": 0
+        }
+      ],
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c3e9dbea-aa37-4d81-8150-bfb1b1f2b434",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/45350d0f-136f-4bbd-8e67-ea658998d439"
+    },
+    {
+      "id": "67ef17fc-3878-4fde-90cb-ad1981412194",
+      "generatedAtTime": "2024-08-07T06:15:39.671135Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Corona-ondersteuningspremie (stopgezet)",
+        "nl": "Corona-ondersteuningspremie (stopgezet)",
+        "nl-BE-x-formal": "Corona-ondersteuningspremie (stopgezet)"
+      },
+      "beschrijving": {
+        "nl": "<p>De corona-ondersteuningspremie was een financiële tegemoetkoming voor ondernemingen die tijdens de coronacrisis open zijn gebleven of die na de versoepeling van de coronamaatregelen opnieuw opengingen, en die een omzetdaling van minstens 60% ervoeren omdat ze exploitatiebeperkingen moesten naleven.</p>",
+        "nl-BE-x-formal": "<p>De corona-ondersteuningspremie was een financiële tegemoetkoming voor ondernemingen die tijdens de coronacrisis open zijn gebleven of die na de versoepeling van de coronamaatregelen opnieuw opengingen, en die een omzetdaling van minstens 60% ervoeren omdat ze exploitatiebeperkingen moesten naleven.</p>",
+        "nl-BE-x-generated-informal": "<p>De corona-ondersteuningspremie was een financiële tegemoetkoming voor ondernemingen die tijdens de coronacrisis open zijn gebleven of die na de versoepeling van de coronamaatregelen opnieuw opengingen, en die een omzetdaling van minstens 60% ervoeren omdat ze exploitatiebeperkingen moesten naleven.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "compensatie",
+          "heropstarten",
+          "heropstart",
+          "heropstartpremie",
+          "extra premie",
+          "bijkomende",
+          "premie",
+          "verlengde",
+          "heropening",
+          "omzetdaling",
+          "omzetverlies",
+          "COP",
+          "ondersteuning",
+          "ondersteuningspremie"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>Je kan de corona-ondersteuningspremie niet meer aanvragen.</p>",
+            "nl-BE-x-formal": "<p>U kunt de corona-ondersteuningspremie niet meer aanvragen.</p>",
+            "nl": "<p>U kunt de corona-ondersteuningspremie niet meer aanvragen.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2020-06-08T13:36:45Z",
+      "laatstGewijzigd": "2023-06-27T21:17:40Z",
+      "laatstOntvangen": "2024-08-07T06:15:39.575662668Z",
+      "productnummer": "1888",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "ED",
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "deminimis": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/67ef17fc-3878-4fde-90cb-ad1981412194",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fe135883-8b76-4c06-97e0-3b0f5ca41009"
+    },
+    {
+      "id": "6d19e017-94e5-4b66-bb36-201b52934b74",
+      "generatedAtTime": "2024-08-07T06:15:39.391462Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Handelshuurlening ",
+        "nl-BE-x-formal": "Handelshuurlening ",
+        "nl-BE-x-generated-informal": "Handelshuurlening "
+      },
+      "beschrijving": {
+        "nl": "<p>Ondernemingen die door de coronamaatregelen moeilijkheden ondervinden om hun handelshuur te betalen, konden onder bepaalde voorwaarden een handelshuurlening krijgen. De maatregel hield in dat de Vlaamse overheid maximaal 4 maanden huur voorschiet via een lening aan de huurder, op voorwaarde dat de verhuurder ook 1 of 2 maanden huur kwijtscheldt.</p>",
+        "nl-BE-x-formal": "<p>Ondernemingen die door de coronamaatregelen moeilijkheden ondervinden om hun handelshuur te betalen, konden onder bepaalde voorwaarden een handelshuurlening krijgen. De maatregel hield in dat de Vlaamse overheid maximaal 4 maanden huur voorschiet via een lening aan de huurder, op voorwaarde dat de verhuurder ook 1 of 2 maanden huur kwijtscheldt.</p>",
+        "nl-BE-x-generated-informal": "<p>Ondernemingen die door de coronamaatregelen moeilijkheden ondervinden om hun handelshuur te betalen, konden onder bepaalde voorwaarden een handelshuurlening krijgen. De maatregel hield in dat de Vlaamse overheid maximaal 4 maanden huur voorschiet via een lening aan de huurder, op voorwaarde dat de verhuurder ook 1 of 2 maanden huur kwijtscheldt.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-formal": "<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 20 maart tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol><ul></ul>",
+        "nl-BE-x-generated-informal": "<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 20 maart tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol><ul></ul>",
+        "nl": "<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 20 maart tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol><ul></ul>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "handelshuurlening",
+          "handelshuur",
+          "handelspand huur",
+          "handelspand",
+          "winkelruimte",
+          "corona",
+          "huurprijs",
+          "huurprobleem",
+          "HHL",
+          "handelswi",
+          "winkelpand",
+          "huurproblemen"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>Je kon jouw aanvraag indienen <strong>tot en met 30 juni 2021 om 20 uur. </strong>De handelshuurlening kan nu niet meer aangevraagd worden.</p>",
+            "nl": "<p>U kon uw aanvraag indienen <strong>tot en met 30 juni 2021 om 20 uur. </strong>De handelshuurlening kan nu niet meer aangevraagd worden.</p>",
+            "nl-BE-x-formal": "<p>U kon uw aanvraag indienen <strong>tot en met 30 juni 2021 om 20 uur. </strong>De handelshuurlening kan nu niet meer aangevraagd worden.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2020-06-02T16:40:22Z",
+      "laatstGewijzigd": "2023-05-11T16:54:56Z",
+      "laatstOntvangen": "2024-08-07T06:15:39.277125175Z",
+      "productnummer": "1885",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6d19e017-94e5-4b66-bb36-201b52934b74",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cea9fbd9-b510-4581-9517-2d8f3776fe1f"
+    },
+    {
+      "id": "1414d398-da2c-49ee-a9bf-e998868aa686",
+      "generatedAtTime": "2024-08-07T06:15:39.04889Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-formal": "Corona-compensatiepremie",
+        "nl-BE-x-generated-informal": "Corona-compensatiepremie",
+        "nl": "Corona-compensatiepremie"
+      },
+      "beschrijving": {
+        "nl": "<p>Ondernemingen die een grote omzetdaling kenden als gevolg van de coronacrisis, konden van de Vlaamse overheid een compensatiepremie van 3.000 euro krijgen om hun verliezen deels te compenseren. De premie kan niet meer aangevraagd worden.</p>",
+        "nl-BE-x-generated-informal": "<p>Ondernemingen die een grote omzetdaling kenden als gevolg van de coronacrisis, konden van de Vlaamse overheid een compensatiepremie van 3.000 euro krijgen om hun verliezen deels te compenseren. De premie kan niet meer aangevraagd worden.</p>",
+        "nl-BE-x-formal": "<p>Ondernemingen die een grote omzetdaling kenden als gevolg van de coronacrisis, konden van de Vlaamse overheid een compensatiepremie van 3.000 euro krijgen om hun verliezen deels te compenseren. De premie kan niet meer aangevraagd worden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 10 april 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ten gevolge van de exploitatiebeperkingen opgelegd door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol>",
+        "nl": "<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 10 april 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ten gevolge van de exploitatiebeperkingen opgelegd door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol>",
+        "nl-BE-x-formal": "<ol><li>Verordening (EU) Nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun</li><li>Decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid</li><li>Besluit van de Vlaamse Regering van 10 april 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ten gevolge van de exploitatiebeperkingen opgelegd door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus</li></ol>"
+      },
+      "aangemaaktDoor": {
+        "id": "OVO000001",
+        "@id": "OVO000001"
+      },
+      "zoektermen": {
+        "nl": [
+          "compensatie",
+          "premie",
+          "compensatiepremie",
+          "corona",
+          "coronacompensatiepremie",
+          "ccp",
+          "coronacrisis"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "contactOverheden": [
+        {
+          "id": "OVO000039",
+          "@id": "OVO000039"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl-BE-x-generated-informal": "Procedure",
+            "nl": "Procedure",
+            "nl-BE-x-formal": "Procedure"
+          },
+          "beschrijving": {
+            "nl-BE-x-generated-informal": "<p>Je kan de corona-compensatiepremie niet meer aanvragen<strong>. </strong></p>",
+            "nl-BE-x-formal": "<p>U kunt de corona-compensatiepremie niet meer aanvragen<strong>. </strong></p>",
+            "nl": "<p>U kunt de corona-compensatiepremie niet meer aanvragen<strong>. </strong></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl-BE-x-formal": "Corona-compensatiepremie",
+            "nl-BE-x-generated-informal": "Corona-compensatiepremie",
+            "nl": "Corona-compensatiepremie"
+          },
+          "url": "https://www.vlaio.be/nl/subsidies-financiering/corona-compensatiepremie",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2020-04-01T11:56:25Z",
+      "laatstGewijzigd": "2023-10-19T12:32:49Z",
+      "laatstOntvangen": "2024-08-07T06:15:38.91246132Z",
+      "productnummer": "1880",
+      "gearchiveerd": false,
+      "metadata": {
+        "uJeVersie": "36.1.0",
+        "generatedFormeleFields": false,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1414d398-da2c-49ee-a9bf-e998868aa686",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3eac0581-b28e-43b6-bd59-03f219aa2abc"
+    }
+  ]
+}

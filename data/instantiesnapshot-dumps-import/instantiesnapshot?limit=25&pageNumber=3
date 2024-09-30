@@ -1,1 +1,2837 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=3","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-03-09T08:25:09.513276Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=4","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-03-09T16:21:21.438091Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=3","@type":"EventStream","member":[{"id":"43ad78d1-2083-409e-ab99-4256297aae28","generatedAtTime":"2023-03-09T16:21:21.438091Z","naam":{"nl":"Premie 1 minimaal","en":"Premium 1 minimal"},"beschrijving":{"nl":"<p>Dit gaat over de eerste premie. Enkel de verplichte velden van de premie zijn ingevuld. </p>","en":"<p>This is the first premium. Only the obligatory fields are filled in.</p>"},"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE","BE1"],"bevoegdeOverheden":[{"id":"OVO000097","@id":"OVO000097"}],"creatie":"2023-03-09T16:20:48.534971095Z","laatstGewijzigd":"2023-03-09T16:20:48.534973112Z","laatstOntvangen":"2023-03-09T16:20:48.534973112Z","productnummer":"2825","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/43ad78d1-2083-409e-ab99-4256297aae28","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/86b07be2-d904-40f5-a8d3-0acaed715921"},{"id":"b2015650-144e-47f7-a39b-90e32ad81003","generatedAtTime":"2023-03-09T16:20:48.443461Z","naam":{"nl":"Product test Yves"},"beschrijving":{"nl":"<p>Test inleiding</p>"},"type":"AdviesBegeleiding","doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO002949","@id":"OVO002949"}],"kosten":[{"beschrijving":{"nl":"<p>test kost beschrijving</p>"},"naam":{"nl":"test kost"},"@type":"Kost","order":0}],"creatie":"2023-03-09T16:20:35.583242871Z","laatstGewijzigd":"2023-03-09T16:20:35.583245473Z","laatstOntvangen":"2023-03-09T16:20:35.583245473Z","productnummer":"2822","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b2015650-144e-47f7-a39b-90e32ad81003","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2d9d1083-3c7d-4574-a888-9bf8f7a7dcb1"},{"id":"a7ca1079-40ae-4580-8a35-b0f6d3a78380","generatedAtTime":"2023-03-09T16:20:34.391065Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Mijn VerbouwPremie"},"beschrijving":{"nl":"<div><div><div><div><p>Vanaf 1 oktober 2022 kunnen particulieren en bedrijven via één online loket een premie aanvragen voor renovatie én energiebesparende investeringen. Die eengemaakte premie geldt voor woningen, appartementen en alle andere gebouwen in het Vlaamse Gewest..</p></div></div></div></div>"},"themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Al wie investeert in een bestaande woning, appartement, appartementsgebouw of een niet-woongebouw (bijvoorbeeld een bedrijfspand of kantoorgebouw), zal<a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/wie-kan-mijn-verbouwpremie-aanvragen\"> afhankelijk van de doelgroep</a> waartoe hij of zij behoort financiële steun kunnen aanvragen voor investeringen in <strong>energie-efficiëntie</strong> (zoals dakisolatie, muurisolatie, vloerisolatie, hoogrendementsglas, zonneboiler, warmtepomp, warmtepompboiler en gascondensatieketel) en investeringen in <strong>woningkwaliteit </strong>(elektriciteit en sanitair, binnenrenovatie, ramen en deuren).</p><p>Er zijn verschillende categorieën van werken die in aanmerking komen voor Mijn VerbouwPremie:</p><ul><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-dak\">dak</a>: isolatie en renovatie</li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-buitenmuur\">buitenmuur:</a> isolatie en renovatie</li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-vloer\">vloer:</a> isolatie en renovatie</li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-ramen-en-deuren\">ramen en deuren:</a> glas en buitenschrijnwerk</li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-binnenrenovatie\">binnenrenovatie:</a> binnenmuur, plafond en trap</li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-elektriciteit-en-sanitair\">elektriciteit en sanitair</a> (waaronder regenwaterput)</li><li>hernieuwbare energieproductie: <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-zonneboiler\">zonneboiler</a>, <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-warmtepomp\">warmtepomp</a>, <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-warmtepompboiler\">warmtepompboiler</a></li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-gascondensatieketel\">gascondensatieketel</a>. </li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U kunt Mijn VerbouwPremie <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/hoe-vraag-ik-mijn-verbouwpremie-aan\">eenvoudig online aanvragen.</a></p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<div><div><p>Benieuwd welke premies u kunt aanvragen en op welk premiebedrag u recht hebt? Raadpleeg de <a href=\"https://apps.energiesparen.be/simulator-mijnverbouwpremie\">simulator van Mijn VerbouwPremie</a>.</p></div></div>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-09T16:20:33.603182712Z","laatstGewijzigd":"2023-03-09T16:20:33.603185372Z","laatstOntvangen":"2023-03-09T16:20:33.603185372Z","productnummer":"2026","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a7ca1079-40ae-4580-8a35-b0f6d3a78380","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/153e19bc-beb0-4a6e-81f5-aa4c6b1c234c"},{"id":"28d5208d-2855-4d4e-a414-b05e52963c55","generatedAtTime":"2023-03-09T16:20:32.991517Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Test 5 - Premie 7 - max"},"beschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"verdereBeschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"startDienstVerlening":"2023-02-07T12:00:00Z","eindeDienstVerlening":"2023-03-04T12:00:00Z","type":"Bewijs","themas":["BurgerOverheid"],"doelgroepen":["Burger","Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"uitzonderingen":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"bevoegdeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"uitvoerendeOverheden":[{"id":"OVO000093","@id":"OVO000093"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"websites":[{"naam":{"nl":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Subsidie voor de renovatie van huurwoningen"},"url":"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Test 5 - Premie 7 - max</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:20:32.203019388Z","laatstGewijzigd":"2023-03-09T16:20:32.203021627Z","laatstOntvangen":"2023-03-09T16:20:32.203021627Z","productnummer":"2842","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/28d5208d-2855-4d4e-a414-b05e52963c55","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/10244dc2-b73d-4578-82f1-e3bf8b408265"},{"id":"0f4230f0-ccf6-4932-8789-5f638852b75e","generatedAtTime":"2023-03-09T16:20:31.948069Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Test 5 - Premie 2 - maximaal","en":"Test 5 - Premium 2 - maximal"},"beschrijving":{"en":"<p>Test 5 - Premium 2 - maximal</p>","nl":"<p>Test 5 - Premie 2 - maximaal</p>"},"verdereBeschrijving":{"en":"<p>Test 5 - Premium 2 - maximal</p>","nl":"<p>Test 5 - Premie 2 - maximaal</p>"},"startDienstVerlening":"2022-11-14T12:00:00Z","eindeDienstVerlening":"2023-05-18T12:00:00Z","type":"Bewijs","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"en":"<p>Test 5 - Premium 2 - maximal</p>","nl":"<p>Test 5 - Premie 2 - maximaal</p>"},"uitzonderingen":{"en":"<p>Test 5 - Premium 2 - maximal</p>","nl":"<p>Test 5 - Premie 2 - maximaal</p>"},"bevoegdeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"uitvoerendeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"voorwaarden":[{"beschrijving":{"en":"<p>Test 5 - Premium 2 - maximal</p>","nl":"<p>Test 5 - Premie 2 - maximaal</p>"},"naam":{"nl":"Voorwaarden","en":"Requirements"},"bewijs":{"beschrijving":{"en":"<p>Test 5 - Premium 2 - maximal</p>","nl":"<p>Test 5 - Premie 2 - maximaal</p>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"en":"<p>Test 5 - Premium 2 - maximal</p>","nl":"<p>Test 5 - Premie 2 - maximaal</p>"},"websites":[{"naam":{"nl":"Starterscontract","en":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Starterscontract","en":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0}],"kosten":[{"beschrijving":{"en":"<p>Test 5 - Premium 2 - maximal</p>","nl":"<p>Test 5 - Premie 2 - maximaal</p>"},"naam":{"nl":"Kost","en":"Cost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:20:30.341224598Z","laatstGewijzigd":"2023-03-09T16:20:30.341226834Z","laatstOntvangen":"2023-03-09T16:20:30.341226834Z","productnummer":"2837","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0f4230f0-ccf6-4932-8789-5f638852b75e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4a84cd58-7b91-4ded-9621-1fdc9c395a11"},{"id":"77316f98-52bc-460f-815e-70ccb2da0180","generatedAtTime":"2023-03-09T16:20:30.194379Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl":"Premie 7 - maximaal zonder procedure website"},"beschrijving":{"nl":"<p>Premie 7 - maximaal zonder procedure website</p>"},"verdereBeschrijving":{"nl":"<p>Premie 7</p>"},"startDienstVerlening":"2023-02-01T12:00:00Z","eindeDienstVerlening":"2023-06-23T12:00:00Z","type":"Bewijs","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Vereniging"],"geografischToepassingsgebieden":["BE1"],"regelgevingTekst":{"nl":"<p>Regelgeving voor premie 7</p>"},"uitzonderingen":{"nl":"<p>Uitzonderingen voor premie 7</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"uitvoerendeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Voorwaarden premie 7</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Bewijsstukken voor premie 7</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Procedure premie 7 zonder website</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Bedrag voor premie 7</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:15:50.375414919Z","laatstGewijzigd":"2023-03-09T16:20:23.645490525Z","laatstOntvangen":"2023-03-09T16:20:23.645490525Z","productnummer":"2831","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/77316f98-52bc-460f-815e-70ccb2da0180","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a518ed1e-ac3b-460d-8959-2ceec71823c9"},{"id":"53d612a2-6c00-41af-889f-457e85bfe4b1","generatedAtTime":"2023-03-09T16:16:13.285984Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Federaal"],"naam":{"nl":"Premie 7 - maximaal zonder procedure website"},"beschrijving":{"nl":"<p>Premie 7 - maximaal zonder procedure website</p>"},"verdereBeschrijving":{"nl":"<p>Premie 7</p>"},"startDienstVerlening":"2023-02-01T12:00:00Z","eindeDienstVerlening":"2023-06-23T12:00:00Z","type":"Bewijs","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Vereniging"],"geografischToepassingsgebieden":["BE1"],"regelgevingTekst":{"nl":"<p>Regelgeving voor premie 7</p>"},"uitzonderingen":{"nl":"<p>Uitzonderingen voor premie 7</p>"},"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"uitvoerendeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Voorwaarden premie 7</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Bewijsstukken voor premie 7</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Procedure premie 7 zonder website</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Bedrag voor premie 7</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:15:50.375414919Z","laatstGewijzigd":"2023-03-09T16:15:50.375417033Z","laatstOntvangen":"2023-03-09T16:15:50.375417033Z","productnummer":"2831","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/53d612a2-6c00-41af-889f-457e85bfe4b1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a518ed1e-ac3b-460d-8959-2ceec71823c9"},{"id":"2e4812f2-0b36-475e-a610-6a57212a4236","generatedAtTime":"2023-03-09T16:15:50.226314Z","naam":{"en":"Premium 3 - obligatory + your europe category","nl":"Premie 3 - verplicht + thematische gebieden"},"beschrijving":{"en":"<p>Introduction of a minimal premium with your europe category.</p>","nl":"<p>Inleiding van minimale premie met thematische gebieden.</p>"},"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE"],"yourEuropeCategorieen":["ConsumentenrechtenNutsvoorzieningen"],"bevoegdeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"creatie":"2023-03-09T16:15:37.363667229Z","laatstGewijzigd":"2023-03-09T16:15:37.363669239Z","laatstOntvangen":"2023-03-09T16:15:37.363669239Z","productnummer":"2827","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2e4812f2-0b36-475e-a610-6a57212a4236","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/03418520-49a0-435b-8c8c-30b368709739"},{"id":"97ad0298-f82c-42bb-9fca-ac0e502d33ef","generatedAtTime":"2023-03-09T16:15:37.210492Z","bevoegdBestuursniveaus":["Europees"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Test volledige instantie","en":"Test volledige instantie engels"},"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"verdereBeschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"startDienstVerlening":"2022-10-05T12:00:00Z","eindeDienstVerlening":"2023-02-24T12:00:00Z","type":"FinancieleVerplichting","themas":["BurgerOverheid","MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur","Vereniging"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<p>Test volledige instantie</p>","en":"<p>Test volledige instantie en</p>"},"uitzonderingen":{"nl":"<p>Test volledige instantie</p>","en":"<p>Test volledige instantie en</p>"},"zoektermen":{"nl":["hotten"],"en":["hotten"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"uitvoerendeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"naam":{"nl":"Voorwaarden","en":"Requirements"},"bewijs":{"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"websites":[{"naam":{"nl":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"en":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0},{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":1},{"naam":{"en":"English example","nl":"Website voorbeeld"},"url":"http://example.com","@type":"Website","order":2}],"kosten":[{"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"naam":{"nl":"Kost","en":"Cost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:10:40.524328719Z","laatstGewijzigd":"2023-03-09T16:15:24.251140091Z","laatstOntvangen":"2023-03-09T16:15:24.251140091Z","productnummer":"2824","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/97ad0298-f82c-42bb-9fca-ac0e502d33ef","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6544b626-f87a-4730-b118-56c55c443227"},{"id":"e3e4cee7-aa1f-4a24-a260-d36aa8bdb405","generatedAtTime":"2023-03-09T16:11:03.545702Z","bevoegdBestuursniveaus":["Europees"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Test volledige instantie","en":"Test volledige instantie engels"},"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"verdereBeschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"startDienstVerlening":"2022-10-05T12:00:00Z","eindeDienstVerlening":"2023-02-24T12:00:00Z","type":"FinancieleVerplichting","themas":["BurgerOverheid","MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur","Vereniging"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<p>Test volledige instantie</p>","en":"<p>Test volledige instantie en</p>"},"uitzonderingen":{"nl":"<p>Test volledige instantie</p>","en":"<p>Test volledige instantie en</p>"},"zoektermen":{"nl":["hotten"],"en":["hotten"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"uitvoerendeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"naam":{"nl":"Voorwaarden","en":"Requirements"},"bewijs":{"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"websites":[{"naam":{"nl":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"en":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0},{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":1},{"naam":{"en":"English example","nl":"Website voorbeeld"},"url":"http://example.com","@type":"Website","order":2}],"kosten":[{"beschrijving":{"en":"<p>Test volledige instantie engels</p>","nl":"<p>Test volledige instantie</p>"},"naam":{"nl":"Kost","en":"Cost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:10:40.524328719Z","laatstGewijzigd":"2023-03-09T16:10:40.524331122Z","laatstOntvangen":"2023-03-09T16:10:40.524331122Z","productnummer":"2824","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e3e4cee7-aa1f-4a24-a260-d36aa8bdb405","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6544b626-f87a-4730-b118-56c55c443227"},{"id":"c8a16304-7f14-4458-90c4-20d465867efe","generatedAtTime":"2023-03-09T16:05:31.98058Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Premie voor superisolerend glas","en":"Premie voor superisolerend glas"},"beschrijving":{"nl":"<p>De premie voor superisolerend glas geldt voor de installatie van isolerend glas en raamprofielen.</p>","en":"<p>De premie voor superisolerend glas geldt voor de installatie van isolerend glas en raamprofielen.</p>"},"verdereBeschrijving":{"en":"<p>Verder beschrijving</p>","nl":"<p>Verder beschrijving</p>"},"startDienstVerlening":"2022-11-16T12:00:00Z","eindeDienstVerlening":"2023-05-22T12:00:00Z","type":"AdviesBegeleiding","themas":["BouwenWonen","MobiliteitOpenbareWerken"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"yourEuropeCategorieen":["BelastingenOverigeBelastingen"],"regelgevingTekst":{"en":"<p>Regelgeving</p>","nl":"<p>Regelgeving</p>"},"uitzonderingen":{"en":"<p>Uitzonderingen</p>","nl":"<p>Uitzonderingen</p>"},"zoektermen":{"nl":["energiebesparende premie"],"en":["energiebesparende premie"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"uitvoerendeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"en":"<ul><li>Woningen en appartementen komen in aanmerking.</li><li>De premie is niet cumuleerbaar met de premie voor laagenergiewoningen.</li><li>Het superisolerende glas moet geplaatst door een erkend aannemer.</li><li>Aan beide afzonderlijke U-waarden van zowel beglazing als raamprofielen moet voldaan worden:<ul><li>voor de beglazing maximum 0,7</li><li>voor de raamprofielen maximum 2,2</li></ul></li><li>De premie is niet van toepassing voor veranda’s.</li></ul>","nl":"<ul><li>Woningen en appartementen komen in aanmerking.</li><li>De premie is niet cumuleerbaar met de premie voor laagenergiewoningen.</li><li>Het superisolerende glas moet geplaatst door een erkend aannemer.</li><li>Aan beide afzonderlijke U-waarden van zowel beglazing als raamprofielen moet voldaan worden:<ul><li>voor de beglazing maximum 0,7</li><li>voor de raamprofielen maximum 2,2</li></ul></li><li>De premie is niet van toepassing voor veranda’s.</li></ul>"},"naam":{"nl":"Voorwaarden","en":"Requirements"},"bewijs":{"beschrijving":{"nl":"<ul><li>het volledig ingevulde aanvraagformulier</li><li>een kopie van de factuur voor het plaatsen van superisolerend glas + raamkader (geen offerte) waarop de beide U-waarden afzonderlijk vermeld staan</li><li>een attest van de installateur.</li></ul>","en":"<ul><li>het volledig ingevulde aanvraagformulier</li><li>een kopie van de factuur voor het plaatsen van superisolerend glas + raamkader (geen offerte) waarop de beide U-waarden afzonderlijk vermeld staan</li><li>een attest van de installateur.</li></ul>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"nl":"<p>Test beschrijving</p>","en":"<p>Premieaanvraag moet gebeuren op het daartoe voorziene aanvraagformulier.</p><p>Aanvraag tot subsidie kan ingediend worden tot 1 jaar na factuurdatum.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"en":"Aanvraagformulier engels","nl":"Aanvraagformulier vergunning C"},"url":"https://www.gamingcommission.be/sites/default/files/2021-02/vergunningC.pdf","@type":"Website","order":0},{"naam":{"nl":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":1},{"naam":{"nl":"Your Europe"},"url":"https://www.youreurope.eu","@type":"Website","order":2}],"kosten":[{"beschrijving":{"en":"<p>Dit is een bedrag</p>","nl":"<p>Dit is een bedrag</p>"},"naam":{"nl":"Kost","en":"Cost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:05:31.14729034Z","laatstGewijzigd":"2023-03-09T16:05:31.147292931Z","laatstOntvangen":"2023-03-09T16:05:31.147292931Z","productnummer":"180","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c8a16304-7f14-4458-90c4-20d465867efe","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6302670c-3bca-4d1a-8745-23cb42ed2b16"},{"id":"d0d7c559-9d3f-44d7-9be7-70403e259a63","generatedAtTime":"2023-03-09T16:05:10.346712Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Test 5 - Premie 5 - maximaal met links in beschrijving"},"beschrijving":{"nl":"<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p><ol><li><a href=\"http://www.destandaard.be\">Link 1</a>: Website</li><li><a href=\"https://www.uat-vlaanderen.be/diploma-hoger-onderwijs-behalen-via-een-diplomacontract\">Link 2</a>: Product</li><li><a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/studietoelagen-voor-studies-in-het-buitenland-of-de-franse-of-duitstalige-gemeenschap\">Link 3</a>: Artikel</li><li><a href=\"https://assets.vlaanderen.be/image/upload/v1611739198/IMJV2021_LoketBriefC_Tab_Water2_fs7kvl.pdf\">Link 4</a>: Bestand</li><li>Link 5: Definitie</li></ol>"},"verdereBeschrijving":{"nl":"<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"},"startDienstVerlening":"2023-02-02T12:00:00Z","eindeDienstVerlening":"2023-04-21T12:00:00Z","type":"FinancieleVerplichting","themas":["CultuurSportVrijeTijd"],"doelgroepen":["LokaalBestuur"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"},"uitzonderingen":{"nl":"<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"},"bevoegdeOverheden":[{"id":"OVO000097","@id":"OVO000097"}],"uitvoerendeOverheden":[{"id":"OVO000097","@id":"OVO000097"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"},"websites":[{"naam":{"nl":"Subsidie voor de renovatie van huurwoningen"},"url":"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen","@type":"Website","order":0},{"naam":{"nl":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":1}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Subsidie voor de renovatie van huurwoningen"},"url":"https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0},{"id":"https://codex.vlaanderen.be/5","url":"https://codex.vlaanderen.be/5","@type":"Regelgeving","order":1}],"creatie":"2023-03-09T16:05:09.521496335Z","laatstGewijzigd":"2023-03-09T16:05:09.521498407Z","laatstOntvangen":"2023-03-09T16:05:09.521498407Z","productnummer":"2840","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d0d7c559-9d3f-44d7-9be7-70403e259a63","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2e1440ca-e0e9-4246-a7f1-dba07c5d6362"},{"id":"1f054b4a-f863-4e08-9457-b61e3781ba3c","generatedAtTime":"2023-03-09T16:05:09.047088Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Test 5 - Premie 6 - maximaal nieuwe test"},"beschrijving":{"nl":"<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"},"verdereBeschrijving":{"nl":"<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"},"startDienstVerlening":"2023-02-06T12:00:00Z","eindeDienstVerlening":"2023-02-24T12:00:00Z","type":"AdviesBegeleiding","themas":["EconomieWerk"],"doelgroepen":["LokaalBestuur"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"},"uitzonderingen":{"nl":"<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"},"bevoegdeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"uitvoerendeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"},"websites":[{"naam":{"nl":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0}],"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Aanvraagformulier vergunning C"},"url":"https://www.gamingcommission.be/sites/default/files/2021-02/vergunningC.pdf","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:05:08.016610037Z","laatstGewijzigd":"2023-03-09T16:05:08.016613301Z","laatstOntvangen":"2023-03-09T16:05:08.016613301Z","productnummer":"2841","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1f054b4a-f863-4e08-9457-b61e3781ba3c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7e131da7-a999-44ea-a875-67618575db6e"},{"id":"f04ca8cd-9b41-4b6c-b82d-d85c97ca336e","generatedAtTime":"2023-03-09T16:05:07.804549Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Gemeentelijke premie voor het opstarten van een kinderdagverblijf"},"beschrijving":{"nl":"<p>Als u een zelfstandig kinderdagverblijf opstart en opvangplaatsen creëert in de voorschoolse kinderopvang (0 – 3 jaar), kan u een premie krijgen.</p>"},"type":"AdviesBegeleiding","themas":["EconomieWerk"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"creatie":"2023-03-09T16:05:07.014550996Z","laatstGewijzigd":"2023-03-09T16:05:07.014554383Z","laatstOntvangen":"2023-03-09T16:05:07.014554383Z","productnummer":"89","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f04ca8cd-9b41-4b6c-b82d-d85c97ca336e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f91e49d2-1899-4174-892f-3db419a7323b"},{"id":"839dc51d-251b-4ecc-9242-4c098c038fc7","generatedAtTime":"2023-03-09T16:05:06.756595Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Test 5 - Premie 3 - maximaal zonder procedure website"},"beschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"verdereBeschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"startDienstVerlening":"2022-08-18T12:00:00Z","eindeDienstVerlening":"2023-06-30T12:00:00Z","type":"InfrastructuurMateriaal","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"uitzonderingen":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"bevoegdeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"uitvoerendeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0},{"naam":{"nl":"Subsidie verfraaing handelspanden"},"url":"https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden","@type":"Website","order":1}],"kosten":[{"beschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/nl","url":"https://codex.vlaanderen.be/nl","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:00:32.825526865Z","laatstGewijzigd":"2023-03-09T16:05:06.238082187Z","laatstOntvangen":"2023-03-09T16:05:06.238082187Z","productnummer":"2838","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/839dc51d-251b-4ecc-9242-4c098c038fc7","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/1c8ec58a-5185-418c-b80b-2c1a20b3989a"},{"id":"b30a5938-5622-4432-8e21-5c1c5a113f36","generatedAtTime":"2023-03-09T16:01:05.732804Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Test 5 - Premie 3 - maximaal zonder procedure website"},"beschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"verdereBeschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"startDienstVerlening":"2022-08-18T12:00:00Z","eindeDienstVerlening":"2023-06-30T12:00:00Z","type":"InfrastructuurMateriaal","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"uitzonderingen":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"bevoegdeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"uitvoerendeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Starterscontract"},"url":"https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract","@type":"Website","order":0},{"naam":{"nl":"Subsidie verfraaing handelspanden"},"url":"https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden","@type":"Website","order":1}],"kosten":[{"beschrijving":{"nl":"<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/nl","url":"https://codex.vlaanderen.be/nl","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:00:32.825526865Z","laatstGewijzigd":"2023-03-09T16:00:32.825529055Z","laatstOntvangen":"2023-03-09T16:00:32.825529055Z","productnummer":"2838","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b30a5938-5622-4432-8e21-5c1c5a113f36","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/1c8ec58a-5185-418c-b80b-2c1a20b3989a"},{"id":"a8d1c4b7-28db-4d1d-b4d8-51b899f02f55","generatedAtTime":"2023-03-09T16:00:32.602722Z","bevoegdBestuursniveaus":["Europees"],"uitvoerendBestuursniveaus":["Europees"],"naam":{"en":"Premie 11 - maximaal EN","nl":"Premie 11 - maximaal"},"beschrijving":{"nl":"<p>Premie 11 - maximaal</p>","en":"<p>Premie 11 - maximaal</p>"},"verdereBeschrijving":{"nl":"<p>Premie 11 - maximaal</p>","en":"<p>Premie 11 - maximaal</p>"},"startDienstVerlening":"2022-12-15T12:00:00Z","eindeDienstVerlening":"2023-06-29T12:00:00Z","type":"AdviesBegeleiding","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","LokaalBestuur"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<p>Premie 11 - maximaal</p>","en":"<p>Premie 11 - maximaal</p>"},"uitzonderingen":{"nl":"<p>Premie 11 - maximaal</p>","en":"<p>Premie 11 - maximaal</p>"},"bevoegdeOverheden":[{"id":"OVO000095","@id":"OVO000095"}],"uitvoerendeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Premie 11 - maximaal</p>","en":"<p>Premie 11 - maximaal</p>"},"naam":{"nl":"Voorwaarden","en":"Requirements"},"bewijs":{"beschrijving":{"nl":"<p>Premie 11 - maximaal</p>","en":"<p>Premie 11 - maximaal</p>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"nl":"<p>Premie 11 - maximaal</p>","en":"<p>Premie 11 - maximaal</p>"},"websites":[{"naam":{"nl":"Vergunning C rechtsreeks aanvragen","en":"Vergunning C rechtsreeks aanvragen"},"url":"https://www.gamingcommission.be/nl","@type":"Website","order":0}],"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Premie 11 - maximaal</p>","en":"<p>Premie 11 - maximaal</p>"},"naam":{"nl":"Kost","en":"Cost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0}],"creatie":"2023-03-09T16:00:19.71578197Z","laatstGewijzigd":"2023-03-09T16:00:19.715784669Z","laatstOntvangen":"2023-03-09T16:00:19.715784669Z","productnummer":"2835","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a8d1c4b7-28db-4d1d-b4d8-51b899f02f55","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e5d63e23-165f-4d34-85fe-1dba8b591fee"},{"id":"31889d36-99a8-4ea3-90d0-e02e22655de1","generatedAtTime":"2023-03-09T16:00:19.547462Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"en":"[ EN ] Premie 2 maximaal","nl":"Premie 2 maximaal"},"beschrijving":{"en":"<p>Dit is de tweede premie. Alle velden die worden doorgestuurd naar IPDCv3 zijn ingevuld.</p><p>Links naar andere content:</p><ol type=\"1\"><li><a href=\"https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden\">Link 1</a> naar website</li><li>Link 2 naar product</li><li><a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/werken-in-het-onderwijs/leerkrachtendatabank\">Link 3</a> naar artikel</li><li><a href=\"https://www.uat-vlaanderen.be/opleidingsdatabank\">Link 4</a> naar collectie</li><li><a href=\"https://www.uat-vlaanderen.be/nieuwsberichten/doe-de-woontest\">Link 5</a> naar nieuwsbericht</li></ol>","nl":"<p>Dit is de tweede premie. Alle velden die worden doorgestuurd naar IPDCv3 zijn ingevuld.</p><p>Links naar andere content:</p><ol type=\"1\"><li><a href=\"https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden\">Link 1</a> naar website</li><li>Link 2 naar product</li><li><a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/werken-in-het-onderwijs/leerkrachtendatabank\">Link 3</a> naar artikel</li><li><a href=\"https://www.uat-vlaanderen.be/opleidingsdatabank\">Link 4</a> naar collectie</li><li><a href=\"https://www.uat-vlaanderen.be/nieuwsberichten/doe-de-woontest\">Link 5</a> naar nieuwsbericht</li></ol>"},"verdereBeschrijving":{"nl":"<p>Het bevat een verdere beschrijving</p>","en":"<p>Het bevat een verdere beschrijving</p>"},"startDienstVerlening":"2023-01-11T12:00:00Z","eindeDienstVerlening":"2024-01-17T12:00:00Z","type":"InfrastructuurMateriaal","themas":["MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur"],"geografischToepassingsgebieden":["BE","BE1"],"yourEuropeCategorieen":["BelastingenOverigeBelastingen"],"regelgevingTekst":{"en":"<p>Er is regelgeving rond deze premie.</p>","nl":"<p>Er is regelgeving rond deze premie.</p>"},"uitzonderingen":{"nl":"<p>Er zijn uitzonderingen op de voorwaarde of procedure.</p>","en":"<p>Er zijn uitzonderingen op de voorwaarde of procedure.</p>"},"zoektermen":{"en":["dienst zeevisserij","afwatering"],"nl":["dienst zeevisserij","afwatering"]},"bevoegdeOverheden":[{"id":"OVO000097","@id":"OVO000097"},{"id":"OVO000092","@id":"OVO000092"}],"uitvoerendeOverheden":[{"id":"OVO000095","@id":"OVO000095"}],"voorwaarden":[{"beschrijving":{"nl":"<p>en voorwaarden.</p>","en":"<p>en voorwaarden.</p>"},"naam":{"nl":"Voorwaarden","en":"Requirements"},"bewijs":{"beschrijving":{"en":"<p>Er zijn bewijsstukken nodig voor deze premie.</p>","nl":"<p>Er zijn bewijsstukken nodig voor deze premie.</p>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"nl":"<p>Zo bevat het ook een procedure met gepubliceerde website.</p>","en":"<p>Zo bevat het ook een procedure met gepubliceerde website.</p>"},"websites":[{"naam":{"en":"Your Europe","nl":"Your Europe"},"url":"https://www.youreurope.eu","@type":"Website","order":0}],"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Er is een kost van 5 euro.</p>","en":"<p>Er is een kost van 5 euro.</p>"},"naam":{"nl":"Kost","en":"Cost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0},{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024690&param=inhoud","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024690&param=inhoud","@type":"Regelgeving","order":1}],"creatie":"2023-03-09T15:55:32.679423943Z","laatstGewijzigd":"2023-03-09T16:00:06.525383271Z","laatstOntvangen":"2023-03-09T16:00:06.525383271Z","productnummer":"2826","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/31889d36-99a8-4ea3-90d0-e02e22655de1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6c1ee976-e267-4db1-815a-e43ff9d2d4aa"},{"id":"3c749545-a80d-4402-ac4b-6f9f0197c5dd","generatedAtTime":"2023-03-09T15:55:55.598335Z","bevoegdBestuursniveaus":["Federaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"en":"[ EN ] Premie 2 maximaal","nl":"Premie 2 maximaal"},"beschrijving":{"en":"<p>Dit is de tweede premie. Alle velden die worden doorgestuurd naar IPDCv3 zijn ingevuld.</p><p>Links naar andere content:</p><ol type=\"1\"><li><a href=\"https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden\">Link 1</a> naar website</li><li>Link 2 naar product</li><li><a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/werken-in-het-onderwijs/leerkrachtendatabank\">Link 3</a> naar artikel</li><li><a href=\"https://www.uat-vlaanderen.be/opleidingsdatabank\">Link 4</a> naar collectie</li><li><a href=\"https://www.uat-vlaanderen.be/nieuwsberichten/doe-de-woontest\">Link 5</a> naar nieuwsbericht</li></ol>","nl":"<p>Dit is de tweede premie. Alle velden die worden doorgestuurd naar IPDCv3 zijn ingevuld.</p><p>Links naar andere content:</p><ol type=\"1\"><li><a href=\"https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden\">Link 1</a> naar website</li><li>Link 2 naar product</li><li><a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/werken-in-het-onderwijs/leerkrachtendatabank\">Link 3</a> naar artikel</li><li><a href=\"https://www.uat-vlaanderen.be/opleidingsdatabank\">Link 4</a> naar collectie</li><li><a href=\"https://www.uat-vlaanderen.be/nieuwsberichten/doe-de-woontest\">Link 5</a> naar nieuwsbericht</li></ol>"},"verdereBeschrijving":{"nl":"<p>Het bevat een verdere beschrijving</p>","en":"<p>Het bevat een verdere beschrijving</p>"},"startDienstVerlening":"2023-01-11T12:00:00Z","eindeDienstVerlening":"2024-01-17T12:00:00Z","type":"InfrastructuurMateriaal","themas":["MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur"],"geografischToepassingsgebieden":["BE","BE1"],"yourEuropeCategorieen":["BelastingenOverigeBelastingen"],"regelgevingTekst":{"en":"<p>Er is regelgeving rond deze premie.</p>","nl":"<p>Er is regelgeving rond deze premie.</p>"},"uitzonderingen":{"nl":"<p>Er zijn uitzonderingen op de voorwaarde of procedure.</p>","en":"<p>Er zijn uitzonderingen op de voorwaarde of procedure.</p>"},"zoektermen":{"en":["dienst zeevisserij","afwatering"],"nl":["dienst zeevisserij","afwatering"]},"bevoegdeOverheden":[{"id":"OVO000097","@id":"OVO000097"},{"id":"OVO000092","@id":"OVO000092"}],"uitvoerendeOverheden":[{"id":"OVO000095","@id":"OVO000095"}],"voorwaarden":[{"beschrijving":{"nl":"<p>en voorwaarden.</p>","en":"<p>en voorwaarden.</p>"},"naam":{"nl":"Voorwaarden","en":"Requirements"},"bewijs":{"beschrijving":{"en":"<p>Er zijn bewijsstukken nodig voor deze premie.</p>","nl":"<p>Er zijn bewijsstukken nodig voor deze premie.</p>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"nl":"<p>Zo bevat het ook een procedure met gepubliceerde website.</p>","en":"<p>Zo bevat het ook een procedure met gepubliceerde website.</p>"},"websites":[{"naam":{"en":"Your Europe","nl":"Your Europe"},"url":"https://www.youreurope.eu","@type":"Website","order":0}],"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Er is een kost van 5 euro.</p>","en":"<p>Er is een kost van 5 euro.</p>"},"naam":{"nl":"Kost","en":"Cost"},"@type":"Kost","order":0}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=","@type":"Regelgeving","order":0},{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024690&param=inhoud","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024690&param=inhoud","@type":"Regelgeving","order":1}],"creatie":"2023-03-09T15:55:32.679423943Z","laatstGewijzigd":"2023-03-09T15:55:32.679425995Z","laatstOntvangen":"2023-03-09T15:55:32.679425995Z","productnummer":"2826","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3c749545-a80d-4402-ac4b-6f9f0197c5dd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6c1ee976-e267-4db1-815a-e43ff9d2d4aa"},{"id":"0eb8230a-ec62-41b1-90e7-6f64065dda6e","generatedAtTime":"2023-03-09T15:55:31.897134Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Zorgtariefpas","en":"Zorgtariefpas en"},"beschrijving":{"nl":"<p><a href=\"https://www.uat-vlaanderen.be/informatiemanagement/informatie-digitaliseren/digitalisering-inkomende-post/maatwerk-digipost\">/node/57356</a> Met de zorgtariefpas kunnen ouders van kinderen tot 18 jaar een financiële tussenkomst krijgen in medische kosten voor de behandeling bij de: </p><p><a href=\"https://www.uat-vlaanderen.be/ingrijpende-energetische-renovatie\">/node/12323</a></p><p>/node/25765</p><ul><li>oogarts</li><li>opticien</li><li>tandarts</li><li>orthodontistsdfsdf</li><li>oorarts</li><li>orthopedist</li><li>logopedist</li><li>psychiater</li><li>psycholoog</li><li>diëtist</li><li>apotheker.</li></ul>","en":"<p>Met de zorgtariefpas kunnen ouders van kinderen tot 18 jaar een financiële tussenkomst krijgen in medische kosten voor de behandeling bij de: </p><ul><li>oogarts</li><li>opticien</li><li>tandarts</li><li>orthodontist</li><li>oorarts</li><li>orthopedist</li><li>logopedist</li><li>psychiater</li><li>psycholoog</li><li>diëtist</li><li>apotheker.</li></ul>"},"type":"AdviesBegeleiding","themas":["WelzijnGezondheid"],"doelgroepen":["Burger"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De jongere:</p><ul><li>is maximum 18 jaar</li><li>is ingeschreven in het bevolkingsregister of het vreemdelingenregister in de gemeente</li><li>is aangesloten bij een erkend ziekenfonds.</li></ul><p>Het gezinsinkomen is te laag om te zorgen dat de kinderen de gezondheidszorgen krijgen die ze nodig hebben.</p>","en":"<p>De jongere:</p><ul><li>is maximum 18 jaar</li><li>is ingeschreven in het bevolkingsregister of het vreemdelingenregister in de gemeente</li><li>is aangesloten bij een erkend ziekenfonds.</li></ul><p>Het gezinsinkomen is te laag om te zorgen dat de kinderen de gezondheidszorgen krijgen die ze nodig hebben.</p>"},"naam":{"nl":"Voorwaarden","en":"Requirements"},"bewijs":{"beschrijving":{"nl":"<ul><li>attest van de geneesheer om de noodzaak van de behandeling aan te geven</li><li>aansluiting ziekenfonds</li><li>rekeninguittreksels van de laatste drie maanden.</li></ul>","en":"<ul><li>attest van de geneesheer om de noodzaak van de behandeling aan te geven</li><li>aansluiting ziekenfonds</li><li>rekeninguittreksels van de laatste drie maanden.</li></ul>"},"naam":{"en":"Evidence","nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure","en":"Procedure"},"beschrijving":{"nl":"<ul><li>U vraagt de zorgtariefpas aan bij het OCMW.</li><li>Het OCMW reikt u de zorgtariefpas uit na een sociaal en financieel onderzoek.</li></ul>","en":"<ul><li>U vraagt de zorgtariefpas aan bij het OCMW.</li><li>Het OCMW reikt u de zorgtariefpas uit na een sociaal en financieel onderzoek.</li></ul>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"en":"<p>Met de zorgtariefpas krijgt u</p><ul><li>het remgeld terugbetaald</li><li>een korting op geneesmiddelen en andere benodigdheden (bijvoorbeeld een bril, beugel, hoorapparaat, steunzolen, ...).</li></ul>","nl":"<p>Met de zorgtariefpas krijgt u</p><ul><li>het remgeld terugbetaald</li><li>een korting op geneesmiddelen en andere benodigdheden (bijvoorbeeld een bril, beugel, hoorapparaat, steunzolen, ...).</li></ul>"},"naam":{"nl":"Kost","en":"Cost"},"@type":"Kost","order":0}],"creatie":"2023-03-09T15:55:18.969370095Z","laatstGewijzigd":"2023-03-09T15:55:18.969373842Z","laatstOntvangen":"2023-03-09T15:55:18.969373842Z","productnummer":"39","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0eb8230a-ec62-41b1-90e7-6f64065dda6e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0e7f8fb0-c504-4791-abba-1b2c7de9e434"},{"id":"0a72ac62-e308-4803-9ab4-d4297eab88d0","generatedAtTime":"2023-03-09T15:55:18.644695Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Standplaats voor niet-commerciële verkoop"},"beschrijving":{"nl":"<p>Wenst u een standplaats voor een niet-commerciële verkoop? Dan moet u een aanvraag indienen bij uw stad of gemeente.</p>"},"verdereBeschrijving":{"nl":"<p>Test</p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<p>Test</p>"},"uitzonderingen":{"nl":"<p>Test</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Test voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Test</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Hoe u een standplaats kunt aanvragen en aan welke voorwaarden u moet voldoen kunt u nagaan bij uw stad of gemeente.</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Test</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-09T15:50:15.913497243Z","laatstGewijzigd":"2023-03-09T15:55:05.488052294Z","laatstOntvangen":"2023-03-09T15:55:05.488052294Z","productnummer":"1852","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0a72ac62-e308-4803-9ab4-d4297eab88d0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3ddf81d8-edd9-47f2-9a2c-f09d14cad3e3"},{"id":"4676b982-f13f-4cdc-b6df-f40d6dcb9ca3","generatedAtTime":"2023-03-09T15:50:38.97669Z","bevoegdBestuursniveaus":["Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Standplaats voor niet-commerciële verkoop"},"beschrijving":{"nl":"<p>Wenst u een standplaats voor een niet-commerciële verkoop? Dan moet u een aanvraag indienen bij uw stad of gemeente.</p>"},"verdereBeschrijving":{"nl":"<p>Test</p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<p>Test</p>"},"uitzonderingen":{"nl":"<p>Test</p>"},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Test voorwaarden</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Test</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Hoe u een standplaats kunt aanvragen en aan welke voorwaarden u moet voldoen kunt u nagaan bij uw stad of gemeente.</p>"},"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Test</p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-09T15:50:15.913497243Z","laatstGewijzigd":"2023-03-09T15:50:15.913500346Z","laatstOntvangen":"2023-03-09T15:50:15.913500346Z","productnummer":"1852","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4676b982-f13f-4cdc-b6df-f40d6dcb9ca3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3ddf81d8-edd9-47f2-9a2c-f09d14cad3e3"},{"id":"aa5ffd41-5ecb-4e7e-b1d2-b19b165fb325","generatedAtTime":"2023-03-09T15:40:30.789698Z","bevoegdBestuursniveaus":["Vlaams","Lokaal"],"uitvoerendBestuursniveaus":["Lokaal"],"naam":{"nl":"Toelating voor ambulante activiteit op openbaar domein buiten de openbare markt "},"beschrijving":{"nl":"<p>Voor de uitbating van een kraam op het openbaar domein (ambulante activiteit) hebt u een toelating van de gemeente nodig. Een ambulante activiteit heeft betrekking op de verkoop, het te koop aanbieden of het uitstallen met het oog op de verkoop aan de consument van producten of diensten, door een handelaar buiten de vestiging vermeld in zijn inschrijving in de Kruispuntbank van Ondernemingen (KBO) of door een persoon die niet over zo’n vestiging beschikt. </p>"},"type":"Toelating","themas":["EconomieWerk"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE"],"regelgevingTekst":{"nl":"<ul><li><p>Wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten</p></li><li><p>Koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van ambulante activiteiten</p></li><li><p>Decreet van 24 februari 2017 tot wijziging van artikel 8 en 10 van de wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten</p></li><li><p>Besluit van de Vlaamse Regering van 21 april 2017 houdende de wijziging van diverse bepalingen van het koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van ambulante activiteiten; </p></li><li><p>Gemeentelijk reglement en/of politieverordening </p></li></ul>"},"zoektermen":{"nl":["ambulante activiteit","ambulante activiteiten","ambulante handel","openbaar domein","foodtrucks","foodtruck","food truck","standplaats","marktkraam"]},"bevoegdeOverheden":[{"id":"OVO000001","@id":"OVO000001"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Om een ambulante activiteit te kunnen uitoefenen, moet u aan de onderstaande voorwaarden voldoen.</p><ul><li><p>U hebt een machtiging tot het uitoefenen van ambulante activiteiten als werkgever (de zogenaamde leurkaart). Die machtiging wordt afgeleverd door een <a href=\"http://economie.fgov.be/nl/themas/ondernemingen/een-onderneming-oprichten/belangrijkste-stappen-om-een/te-ondernemen-stappen-bij-een/de-erkende\">erkend ondernemingsloket</a> en is geldig in heel België voor de duur van de activiteit.</p></li><li><p>U hebt een verzekering voor burgerlijke aansprakelijkheid en brandrisico’s en, indien van toepassing, een keuringsattest voor uw gas- en/of elektriciteitsinstallatie.</p></li><li><p>U hebt, als u voeding wilt verkopen, een registratie, erkenning of toelating van het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) .</p></li><li><p>U hebt, als u gegiste en/of sterke drank wilt schenken, een drankvergunning voor een reizende drankgelegenheid. Die drankvergunning vraagt u aan bij de gemeente waar u gedomicilieerd bent.</p></li><li><p>U hebt, als u gegiste en/of sterke drank wilt verkopen (geen consumptie ter plaatse), een handelaarsvergunning ethylalcohol en alcoholhoudende dranken. <a href=\"https://financien.belgium.be/douane_accijnzen/contacteer-de-aada\">U vraagt die vergunning</a> aan bij de gewestelijke directie van Douane en Accijnzen.</p></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>U dient uw kandidatuur in via het aanvraagformulier en voegt daar de onderstaande documenten bij:</p><ul><li><p>een kopie van uw machtiging als werkgever</p></li><li><p>een kopie van uw e-ID</p></li><li><p>een kopie van de verzekeringspolis burgerlijke aansprakelijkheid (bewijs van een geldige dekking)</p></li><li><p>een kopie van de brandverzekering (bewijs van een geldige dekking)</p></li><li><p>een kopie van het attest keuring elektriciteitsinstallatie (indien van toepassing)</p></li><li><p>een kopie van het attest keuring gasinstallatie (indien van toepassing)</p></li><li><p>een kopie van de registratie, erkenning of toelating van het FAVV (indien van toepassing)</p></li><li><p>een drankvergunning voor reizende drankgelegenheid (indien van toepassing)</p></li><li><p>een handelaarsvergunning ethylalcohol en alcoholhoudende dranken (indien van toepassing)</p></li><li><p>als het privaat domein eigendom is van een derde partij: het schriftelijk akkoord van de eigenaar(s), de uitbater(s) of de huurder(s) van de private eigendommen.</p></li></ul><p>U kunt uw aanvraag, gericht aan de gemeente ter attentie van het college van burgemeester en schepenen, indienen:</p><ul><li><p>per brief tegen ontvangstbewijs</p></li><li><p>per aangetekende brief met ontvangstbewijs</p></li><li><p>per e-mail (duurzame drager tegen ontvangstbewijs).</p></li></ul><p>Het college van burgemeester en schepenen beslist over de toekenning van de toelating.</p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"Organisatie van ambulante activiteiten en kermissen (VLAIO.be)"},"url":"https://www.vlaio.be/nl/vlaio-netwerk/lokale-besturen/organisatie-van-ambulante-activiteiten-en-kermissen/organisatie-van","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>De aanvraag is gratis. De kostprijs voor de inname van de standplaats is bepaald in het gemeentelijk belasting- of retributiereglement. </p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-09T15:40:24.123296327Z","laatstGewijzigd":"2023-03-09T15:40:24.123298809Z","laatstOntvangen":"2023-03-09T15:40:24.123298809Z","productnummer":"2127","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/aa5ffd41-5ecb-4e7e-b1d2-b19b165fb325","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7a5d5ee4-57e4-4124-9b54-bbbf94bb7012"},{"id":"43cb9ff1-cbce-49dc-aadc-5c88f25f129b","generatedAtTime":"2023-03-09T09:26:46.105693Z","bevoegdBestuursniveaus":["Federaal","Lokaal"],"uitvoerendBestuursniveaus":["Federaal","Vlaams"],"naam":{"nl":"WP Review 09-03-2023"},"beschrijving":{"nl":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu.</p>"},"verdereBeschrijving":{"nl":"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p><p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>"},"startDienstVerlening":"2015-10-15T12:00:00Z","eindeDienstVerlening":"2023-04-21T12:00:00Z","themas":["CultuurSportVrijeTijd","MobiliteitOpenbareWerken"],"doelgroepen":["LokaalBestuur","Onderneming","VlaamseOverheid"],"geografischToepassingsgebieden":["BE"],"yourEuropeCategorieen":["ReizenElektronischeGegevens","WerkEnPensioneringGaanWerken"],"regelgevingTekst":{"nl":"<p>Denean convallis auctor dolor a convallis. Mauris fermentum lacus at elit egestas vulputate. In laoreet lacinia magna vel convallis. Pellentesque magna ligula, ornare vel neque non, consequat vehicula tellus. Etiam ex orci, ullamcorper vitae mauris at, semper accumsan felis. Morbi finibus suscipit urna, id tempor enim egestas eu. Ut a vehicula nisi, in finibus velit. Pellentesque ornare interdum porttitor.</p>"},"uitzonderingen":{"nl":"<p>Curabitur dapibus ornare erat, id sollicitudin est auctor sit amet. Duis accumsan malesuada sem. In luctus enim ac purus volutpat, quis laoreet nisl suscipit. Vivamus laoreet sodales quam sit amet blandit. In facilisis ipsum non libero cursus tincidunt. Donec euismod vitae elit sed porta. Sed vestibulum turpis quis neque tincidunt laoreet. Integer egestas ac felis in mollis. Curabitur volutpat ac velit nec dictum. Etiam cursus lacinia fringilla. Aenean imperdiet efficitur rhoncus. Etiam ut ultrices dolor. Aliquam blandit nisi nulla, ac dignissim tellus hendrerit eu.</p>"},"bevoegdeOverheden":[{"id":"OVO002953","@id":"OVO002953"}],"uitvoerendeOverheden":[{"id":"OVO002949","@id":"OVO002949"}],"voorwaarden":[{"beschrijving":{"nl":"<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>"},"naam":{"nl":"Voorwaarden"},"bewijs":{"beschrijving":{"nl":"<p>Suspendisse potenti. Vestibulum tristique tempus purus euismod ullamcorper. Vestibulum nec nisi ac ipsum hendrerit maximus in ut mi. Curabitur pulvinar pellentesque pulvinar. Integer condimentum felis eget consectetur auctor. Nullam lectus ex, bibendum a rhoncus vel, fringilla congue arcu. Donec non volutpat enim. Maecenas ultrices lacinia lacus, in tincidunt mi euismod ac. Phasellus a odio massa.</p>"},"naam":{"nl":"Bewijs"},"@type":"Bewijs"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>"},"websites":[{"naam":{"nl":"Aanvraag nieuwe verkaveling"},"url":"https://www.omgevingsloketvlaanderen.be/aanvraag-nieuwe-verkaveling","@type":"Website","order":0}],"@type":"Procedure","order":0}],"kosten":[{"beschrijving":{"nl":"<p>Aliquam non consequat arcu, eu luctus purus. Suspendisse ultrices ligula a neque vehicula pellentesque. Duis auctor lorem at dignissim posuere. Aenean sem mauris, lobortis eget lacus ut, mattis venenatis quam. Vivamus diam tellus, porta a sollicitudin pellentesque, bibendum eu dolor.</p>"},"naam":{"nl":"Aliquam non consequat arcu"},"@type":"Kost","order":0},{"beschrijving":{"nl":"<p>Beschrijving</p>"},"naam":{"nl":"Kost #3"},"@type":"Kost","order":1},{"beschrijving":{"nl":"<p>In aliquam metus neque, at sagittis sem dapibus nec. Nunc condimentum finibus purus, eget blandit lectus varius in. In venenatis mi egestas orci tristique semper. Curabitur volutpat sed ex fringilla semper. Pellentesque lobortis sit amet augue sed faucibus. Integer in tortor sed libero luctus ullamcorper. Sed consectetur eleifend leo non tincidunt. Curabitur erat justo, luctus eu lobortis quis, malesuada vel elit.</p>"},"naam":{"nl":"In aliquam metus neque"},"@type":"Kost","order":2}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>Suspendisse viverra enim vitae dui suscipit, in tristique erat placerat. Pellentesque rhoncus mi vitae libero blandit, at molestie sapien blandit. Integer consequat, ex eget gravida pharetra, libero risus condimentum diam, ac sagittis urna metus ut quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum nulla ut ullamcorper auctor. Quisque eu dolor nec justo porta consequat rutrum vitae justo.</p>"},"naam":{"nl":"Suspendisse viverra enim"},"@type":"FinancieelVoordeel","order":0},{"beschrijving":{"nl":"<p>Donec commodo sed nibh et mollis. Suspendisse rutrum, quam a pretium elementum, nisl diam elementum velit, ut egestas risus augue non augue. Pellentesque euismod nisl vitae risus porta porta. Morbi sit amet congue enim, nec convallis libero.</p>"},"naam":{"nl":"Donec commodo sed nibh"},"@type":"FinancieelVoordeel","order":1}],"regelgeving":[{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038121&param=informatie&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038121&param=informatie&ref=search&AVIDS=","@type":"Regelgeving","order":0},{"id":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038131&param=informatie&ref=search&AVIDS=","url":"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038131&param=informatie&ref=search&AVIDS=","@type":"Regelgeving","order":1}],"creatie":"2023-03-09T08:02:53.716608909Z","laatstGewijzigd":"2023-03-09T09:26:42.695599458Z","laatstOntvangen":"2023-03-09T09:26:42.695599458Z","productnummer":"2836","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/43cb9ff1-cbce-49dc-aadc-5c88f25f129b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b663c498-7374-4871-a315-0964cef3a49a"},{"id":"11562e03-3004-485c-b0b4-ef207a5d6d49","generatedAtTime":"2023-03-09T08:25:09.513276Z","naam":{"nl":"Product 3"},"beschrijving":{"nl":"<p>Product 3 - om archiveren te testen</p>"},"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO001875","@id":"OVO001875"}],"creatie":"2023-03-09T08:25:09.020608571Z","laatstGewijzigd":"2023-03-09T08:25:09.020611686Z","laatstOntvangen":"2023-03-09T08:25:09.020611686Z","productnummer":"2851","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/11562e03-3004-485c-b0b4-ef207a5d6d49","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ebfb66a5-1089-4234-bda8-9195607db365"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=3",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=2",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-03-09T08:25:09.513276Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=4",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-03-09T16:21:21.438091Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=3",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "43ad78d1-2083-409e-ab99-4256297aae28",
+      "generatedAtTime": "2023-03-09T16:21:21.438091Z",
+      "naam": {
+        "nl": "Premie 1 minimaal",
+        "en": "Premium 1 minimal"
+      },
+      "beschrijving": {
+        "nl": "<p>Dit gaat over de eerste premie. Enkel de verplichte velden van de premie zijn ingevuld. </p>",
+        "en": "<p>This is the first premium. Only the obligatory fields are filled in.</p>"
+      },
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE",
+        "BE1"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000097",
+          "@id": "OVO000097"
+        }
+      ],
+      "creatie": "2023-03-09T16:20:48.534971095Z",
+      "laatstGewijzigd": "2023-03-09T16:20:48.534973112Z",
+      "laatstOntvangen": "2023-03-09T16:20:48.534973112Z",
+      "productnummer": "2825",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/43ad78d1-2083-409e-ab99-4256297aae28",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/86b07be2-d904-40f5-a8d3-0acaed715921"
+    },
+    {
+      "id": "b2015650-144e-47f7-a39b-90e32ad81003",
+      "generatedAtTime": "2023-03-09T16:20:48.443461Z",
+      "naam": {
+        "nl": "Product test Yves"
+      },
+      "beschrijving": {
+        "nl": "<p>Test inleiding</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002949",
+          "@id": "OVO002949"
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>test kost beschrijving</p>"
+          },
+          "naam": {
+            "nl": "test kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:20:35.583242871Z",
+      "laatstGewijzigd": "2023-03-09T16:20:35.583245473Z",
+      "laatstOntvangen": "2023-03-09T16:20:35.583245473Z",
+      "productnummer": "2822",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b2015650-144e-47f7-a39b-90e32ad81003",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2d9d1083-3c7d-4574-a888-9bf8f7a7dcb1"
+    },
+    {
+      "id": "a7ca1079-40ae-4580-8a35-b0f6d3a78380",
+      "generatedAtTime": "2023-03-09T16:20:34.391065Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Mijn VerbouwPremie"
+      },
+      "beschrijving": {
+        "nl": "<div><div><div><div><p>Vanaf 1 oktober 2022 kunnen particulieren en bedrijven via één online loket een premie aanvragen voor renovatie én energiebesparende investeringen. Die eengemaakte premie geldt voor woningen, appartementen en alle andere gebouwen in het Vlaamse Gewest..</p></div></div></div></div>"
+      },
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Al wie investeert in een bestaande woning, appartement, appartementsgebouw of een niet-woongebouw (bijvoorbeeld een bedrijfspand of kantoorgebouw), zal<a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/wie-kan-mijn-verbouwpremie-aanvragen\"> afhankelijk van de doelgroep</a> waartoe hij of zij behoort financiële steun kunnen aanvragen voor investeringen in <strong>energie-efficiëntie</strong> (zoals dakisolatie, muurisolatie, vloerisolatie, hoogrendementsglas, zonneboiler, warmtepomp, warmtepompboiler en gascondensatieketel) en investeringen in <strong>woningkwaliteit </strong>(elektriciteit en sanitair, binnenrenovatie, ramen en deuren).</p><p>Er zijn verschillende categorieën van werken die in aanmerking komen voor Mijn VerbouwPremie:</p><ul><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-dak\">dak</a>: isolatie en renovatie</li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-buitenmuur\">buitenmuur:</a> isolatie en renovatie</li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-vloer\">vloer:</a> isolatie en renovatie</li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-ramen-en-deuren\">ramen en deuren:</a> glas en buitenschrijnwerk</li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-binnenrenovatie\">binnenrenovatie:</a> binnenmuur, plafond en trap</li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-elektriciteit-en-sanitair\">elektriciteit en sanitair</a> (waaronder regenwaterput)</li><li>hernieuwbare energieproductie: <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-zonneboiler\">zonneboiler</a>, <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-warmtepomp\">warmtepomp</a>, <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-warmtepompboiler\">warmtepompboiler</a></li><li><a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/mijn-verbouwpremie-voor-gascondensatieketel\">gascondensatieketel</a>. </li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U kunt Mijn VerbouwPremie <a href=\"https://www.uat-vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-en-belastingvoordelen/mijn-verbouwpremie/hoe-vraag-ik-mijn-verbouwpremie-aan\">eenvoudig online aanvragen.</a></p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<div><div><p>Benieuwd welke premies u kunt aanvragen en op welk premiebedrag u recht hebt? Raadpleeg de <a href=\"https://apps.energiesparen.be/simulator-mijnverbouwpremie\">simulator van Mijn VerbouwPremie</a>.</p></div></div>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:20:33.603182712Z",
+      "laatstGewijzigd": "2023-03-09T16:20:33.603185372Z",
+      "laatstOntvangen": "2023-03-09T16:20:33.603185372Z",
+      "productnummer": "2026",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a7ca1079-40ae-4580-8a35-b0f6d3a78380",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/153e19bc-beb0-4a6e-81f5-aa4c6b1c234c"
+    },
+    {
+      "id": "28d5208d-2855-4d4e-a414-b05e52963c55",
+      "generatedAtTime": "2023-03-09T16:20:32.991517Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Test 5 - Premie 7 - max"
+      },
+      "beschrijving": {
+        "nl": "<p>Test 5 - Premie 7 - max</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Test 5 - Premie 7 - max</p>"
+      },
+      "startDienstVerlening": "2023-02-07T12:00:00Z",
+      "eindeDienstVerlening": "2023-03-04T12:00:00Z",
+      "type": "Bewijs",
+      "themas": [
+        "BurgerOverheid"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Test 5 - Premie 7 - max</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Test 5 - Premie 7 - max</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000093",
+          "@id": "OVO000093"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 7 - max</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Test 5 - Premie 7 - max</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 7 - max</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Starterscontract"
+              },
+              "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidie voor de renovatie van huurwoningen"
+          },
+          "url": "https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 7 - max</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:20:32.203019388Z",
+      "laatstGewijzigd": "2023-03-09T16:20:32.203021627Z",
+      "laatstOntvangen": "2023-03-09T16:20:32.203021627Z",
+      "productnummer": "2842",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/28d5208d-2855-4d4e-a414-b05e52963c55",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/10244dc2-b73d-4578-82f1-e3bf8b408265"
+    },
+    {
+      "id": "0f4230f0-ccf6-4932-8789-5f638852b75e",
+      "generatedAtTime": "2023-03-09T16:20:31.948069Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Test 5 - Premie 2 - maximaal",
+        "en": "Test 5 - Premium 2 - maximal"
+      },
+      "beschrijving": {
+        "en": "<p>Test 5 - Premium 2 - maximal</p>",
+        "nl": "<p>Test 5 - Premie 2 - maximaal</p>"
+      },
+      "verdereBeschrijving": {
+        "en": "<p>Test 5 - Premium 2 - maximal</p>",
+        "nl": "<p>Test 5 - Premie 2 - maximaal</p>"
+      },
+      "startDienstVerlening": "2022-11-14T12:00:00Z",
+      "eindeDienstVerlening": "2023-05-18T12:00:00Z",
+      "type": "Bewijs",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "en": "<p>Test 5 - Premium 2 - maximal</p>",
+        "nl": "<p>Test 5 - Premie 2 - maximaal</p>"
+      },
+      "uitzonderingen": {
+        "en": "<p>Test 5 - Premium 2 - maximal</p>",
+        "nl": "<p>Test 5 - Premie 2 - maximaal</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "en": "<p>Test 5 - Premium 2 - maximal</p>",
+            "nl": "<p>Test 5 - Premie 2 - maximaal</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Requirements"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "en": "<p>Test 5 - Premium 2 - maximal</p>",
+              "nl": "<p>Test 5 - Premie 2 - maximaal</p>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>Test 5 - Premium 2 - maximal</p>",
+            "nl": "<p>Test 5 - Premie 2 - maximaal</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Starterscontract",
+                "en": "Starterscontract"
+              },
+              "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Starterscontract",
+            "en": "Starterscontract"
+          },
+          "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "en": "<p>Test 5 - Premium 2 - maximal</p>",
+            "nl": "<p>Test 5 - Premie 2 - maximaal</p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "en": "Cost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:20:30.341224598Z",
+      "laatstGewijzigd": "2023-03-09T16:20:30.341226834Z",
+      "laatstOntvangen": "2023-03-09T16:20:30.341226834Z",
+      "productnummer": "2837",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0f4230f0-ccf6-4932-8789-5f638852b75e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4a84cd58-7b91-4ded-9621-1fdc9c395a11"
+    },
+    {
+      "id": "77316f98-52bc-460f-815e-70ccb2da0180",
+      "generatedAtTime": "2023-03-09T16:20:30.194379Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Premie 7 - maximaal zonder procedure website"
+      },
+      "beschrijving": {
+        "nl": "<p>Premie 7 - maximaal zonder procedure website</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Premie 7</p>"
+      },
+      "startDienstVerlening": "2023-02-01T12:00:00Z",
+      "eindeDienstVerlening": "2023-06-23T12:00:00Z",
+      "type": "Bewijs",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Regelgeving voor premie 7</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Uitzonderingen voor premie 7</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Voorwaarden premie 7</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Bewijsstukken voor premie 7</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Procedure premie 7 zonder website</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Bedrag voor premie 7</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:15:50.375414919Z",
+      "laatstGewijzigd": "2023-03-09T16:20:23.645490525Z",
+      "laatstOntvangen": "2023-03-09T16:20:23.645490525Z",
+      "productnummer": "2831",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/77316f98-52bc-460f-815e-70ccb2da0180",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a518ed1e-ac3b-460d-8959-2ceec71823c9"
+    },
+    {
+      "id": "53d612a2-6c00-41af-889f-457e85bfe4b1",
+      "generatedAtTime": "2023-03-09T16:16:13.285984Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal"
+      ],
+      "naam": {
+        "nl": "Premie 7 - maximaal zonder procedure website"
+      },
+      "beschrijving": {
+        "nl": "<p>Premie 7 - maximaal zonder procedure website</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Premie 7</p>"
+      },
+      "startDienstVerlening": "2023-02-01T12:00:00Z",
+      "eindeDienstVerlening": "2023-06-23T12:00:00Z",
+      "type": "Bewijs",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Regelgeving voor premie 7</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Uitzonderingen voor premie 7</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Voorwaarden premie 7</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Bewijsstukken voor premie 7</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Procedure premie 7 zonder website</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Bedrag voor premie 7</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:15:50.375414919Z",
+      "laatstGewijzigd": "2023-03-09T16:15:50.375417033Z",
+      "laatstOntvangen": "2023-03-09T16:15:50.375417033Z",
+      "productnummer": "2831",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/53d612a2-6c00-41af-889f-457e85bfe4b1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a518ed1e-ac3b-460d-8959-2ceec71823c9"
+    },
+    {
+      "id": "2e4812f2-0b36-475e-a610-6a57212a4236",
+      "generatedAtTime": "2023-03-09T16:15:50.226314Z",
+      "naam": {
+        "en": "Premium 3 - obligatory + your europe category",
+        "nl": "Premie 3 - verplicht + thematische gebieden"
+      },
+      "beschrijving": {
+        "en": "<p>Introduction of a minimal premium with your europe category.</p>",
+        "nl": "<p>Inleiding van minimale premie met thematische gebieden.</p>"
+      },
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "yourEuropeCategorieen": [
+        "ConsumentenrechtenNutsvoorzieningen"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "creatie": "2023-03-09T16:15:37.363667229Z",
+      "laatstGewijzigd": "2023-03-09T16:15:37.363669239Z",
+      "laatstOntvangen": "2023-03-09T16:15:37.363669239Z",
+      "productnummer": "2827",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2e4812f2-0b36-475e-a610-6a57212a4236",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/03418520-49a0-435b-8c8c-30b368709739"
+    },
+    {
+      "id": "97ad0298-f82c-42bb-9fca-ac0e502d33ef",
+      "generatedAtTime": "2023-03-09T16:15:37.210492Z",
+      "bevoegdBestuursniveaus": [
+        "Europees"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Test volledige instantie",
+        "en": "Test volledige instantie engels"
+      },
+      "beschrijving": {
+        "en": "<p>Test volledige instantie engels</p>",
+        "nl": "<p>Test volledige instantie</p>"
+      },
+      "verdereBeschrijving": {
+        "en": "<p>Test volledige instantie engels</p>",
+        "nl": "<p>Test volledige instantie</p>"
+      },
+      "startDienstVerlening": "2022-10-05T12:00:00Z",
+      "eindeDienstVerlening": "2023-02-24T12:00:00Z",
+      "type": "FinancieleVerplichting",
+      "themas": [
+        "BurgerOverheid",
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Test volledige instantie</p>",
+        "en": "<p>Test volledige instantie en</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Test volledige instantie</p>",
+        "en": "<p>Test volledige instantie en</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "hotten"
+        ],
+        "en": [
+          "hotten"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "en": "<p>Test volledige instantie engels</p>",
+            "nl": "<p>Test volledige instantie</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Requirements"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "en": "<p>Test volledige instantie engels</p>",
+              "nl": "<p>Test volledige instantie</p>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>Test volledige instantie engels</p>",
+            "nl": "<p>Test volledige instantie</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Starterscontract"
+              },
+              "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "en": "Starterscontract"
+          },
+          "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "Vergunning C rechtsreeks aanvragen"
+          },
+          "url": "https://www.gamingcommission.be/nl",
+          "@type": "Website",
+          "order": 1
+        },
+        {
+          "naam": {
+            "en": "English example",
+            "nl": "Website voorbeeld"
+          },
+          "url": "http://example.com",
+          "@type": "Website",
+          "order": 2
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "en": "<p>Test volledige instantie engels</p>",
+            "nl": "<p>Test volledige instantie</p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "en": "Cost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:10:40.524328719Z",
+      "laatstGewijzigd": "2023-03-09T16:15:24.251140091Z",
+      "laatstOntvangen": "2023-03-09T16:15:24.251140091Z",
+      "productnummer": "2824",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/97ad0298-f82c-42bb-9fca-ac0e502d33ef",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6544b626-f87a-4730-b118-56c55c443227"
+    },
+    {
+      "id": "e3e4cee7-aa1f-4a24-a260-d36aa8bdb405",
+      "generatedAtTime": "2023-03-09T16:11:03.545702Z",
+      "bevoegdBestuursniveaus": [
+        "Europees"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Test volledige instantie",
+        "en": "Test volledige instantie engels"
+      },
+      "beschrijving": {
+        "en": "<p>Test volledige instantie engels</p>",
+        "nl": "<p>Test volledige instantie</p>"
+      },
+      "verdereBeschrijving": {
+        "en": "<p>Test volledige instantie engels</p>",
+        "nl": "<p>Test volledige instantie</p>"
+      },
+      "startDienstVerlening": "2022-10-05T12:00:00Z",
+      "eindeDienstVerlening": "2023-02-24T12:00:00Z",
+      "type": "FinancieleVerplichting",
+      "themas": [
+        "BurgerOverheid",
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Test volledige instantie</p>",
+        "en": "<p>Test volledige instantie en</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Test volledige instantie</p>",
+        "en": "<p>Test volledige instantie en</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "hotten"
+        ],
+        "en": [
+          "hotten"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "en": "<p>Test volledige instantie engels</p>",
+            "nl": "<p>Test volledige instantie</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Requirements"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "en": "<p>Test volledige instantie engels</p>",
+              "nl": "<p>Test volledige instantie</p>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "en": "<p>Test volledige instantie engels</p>",
+            "nl": "<p>Test volledige instantie</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Starterscontract"
+              },
+              "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "en": "Starterscontract"
+          },
+          "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "Vergunning C rechtsreeks aanvragen"
+          },
+          "url": "https://www.gamingcommission.be/nl",
+          "@type": "Website",
+          "order": 1
+        },
+        {
+          "naam": {
+            "en": "English example",
+            "nl": "Website voorbeeld"
+          },
+          "url": "http://example.com",
+          "@type": "Website",
+          "order": 2
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "en": "<p>Test volledige instantie engels</p>",
+            "nl": "<p>Test volledige instantie</p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "en": "Cost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:10:40.524328719Z",
+      "laatstGewijzigd": "2023-03-09T16:10:40.524331122Z",
+      "laatstOntvangen": "2023-03-09T16:10:40.524331122Z",
+      "productnummer": "2824",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e3e4cee7-aa1f-4a24-a260-d36aa8bdb405",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6544b626-f87a-4730-b118-56c55c443227"
+    },
+    {
+      "id": "c8a16304-7f14-4458-90c4-20d465867efe",
+      "generatedAtTime": "2023-03-09T16:05:31.98058Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Premie voor superisolerend glas",
+        "en": "Premie voor superisolerend glas"
+      },
+      "beschrijving": {
+        "nl": "<p>De premie voor superisolerend glas geldt voor de installatie van isolerend glas en raamprofielen.</p>",
+        "en": "<p>De premie voor superisolerend glas geldt voor de installatie van isolerend glas en raamprofielen.</p>"
+      },
+      "verdereBeschrijving": {
+        "en": "<p>Verder beschrijving</p>",
+        "nl": "<p>Verder beschrijving</p>"
+      },
+      "startDienstVerlening": "2022-11-16T12:00:00Z",
+      "eindeDienstVerlening": "2023-05-22T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "BouwenWonen",
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "yourEuropeCategorieen": [
+        "BelastingenOverigeBelastingen"
+      ],
+      "regelgevingTekst": {
+        "en": "<p>Regelgeving</p>",
+        "nl": "<p>Regelgeving</p>"
+      },
+      "uitzonderingen": {
+        "en": "<p>Uitzonderingen</p>",
+        "nl": "<p>Uitzonderingen</p>"
+      },
+      "zoektermen": {
+        "nl": [
+          "energiebesparende premie"
+        ],
+        "en": [
+          "energiebesparende premie"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "en": "<ul><li>Woningen en appartementen komen in aanmerking.</li><li>De premie is niet cumuleerbaar met de premie voor laagenergiewoningen.</li><li>Het superisolerende glas moet geplaatst door een erkend aannemer.</li><li>Aan beide afzonderlijke U-waarden van zowel beglazing als raamprofielen moet voldaan worden:<ul><li>voor de beglazing maximum 0,7</li><li>voor de raamprofielen maximum 2,2</li></ul></li><li>De premie is niet van toepassing voor veranda’s.</li></ul>",
+            "nl": "<ul><li>Woningen en appartementen komen in aanmerking.</li><li>De premie is niet cumuleerbaar met de premie voor laagenergiewoningen.</li><li>Het superisolerende glas moet geplaatst door een erkend aannemer.</li><li>Aan beide afzonderlijke U-waarden van zowel beglazing als raamprofielen moet voldaan worden:<ul><li>voor de beglazing maximum 0,7</li><li>voor de raamprofielen maximum 2,2</li></ul></li><li>De premie is niet van toepassing voor veranda’s.</li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Requirements"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<ul><li>het volledig ingevulde aanvraagformulier</li><li>een kopie van de factuur voor het plaatsen van superisolerend glas + raamkader (geen offerte) waarop de beide U-waarden afzonderlijk vermeld staan</li><li>een attest van de installateur.</li></ul>",
+              "en": "<ul><li>het volledig ingevulde aanvraagformulier</li><li>een kopie van de factuur voor het plaatsen van superisolerend glas + raamkader (geen offerte) waarop de beide U-waarden afzonderlijk vermeld staan</li><li>een attest van de installateur.</li></ul>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Test beschrijving</p>",
+            "en": "<p>Premieaanvraag moet gebeuren op het daartoe voorziene aanvraagformulier.</p><p>Aanvraag tot subsidie kan ingediend worden tot 1 jaar na factuurdatum.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "en": "Aanvraagformulier engels",
+            "nl": "Aanvraagformulier vergunning C"
+          },
+          "url": "https://www.gamingcommission.be/sites/default/files/2021-02/vergunningC.pdf",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "Starterscontract"
+          },
+          "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+          "@type": "Website",
+          "order": 1
+        },
+        {
+          "naam": {
+            "nl": "Your Europe"
+          },
+          "url": "https://www.youreurope.eu",
+          "@type": "Website",
+          "order": 2
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "en": "<p>Dit is een bedrag</p>",
+            "nl": "<p>Dit is een bedrag</p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "en": "Cost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:05:31.14729034Z",
+      "laatstGewijzigd": "2023-03-09T16:05:31.147292931Z",
+      "laatstOntvangen": "2023-03-09T16:05:31.147292931Z",
+      "productnummer": "180",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c8a16304-7f14-4458-90c4-20d465867efe",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6302670c-3bca-4d1a-8745-23cb42ed2b16"
+    },
+    {
+      "id": "d0d7c559-9d3f-44d7-9be7-70403e259a63",
+      "generatedAtTime": "2023-03-09T16:05:10.346712Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Test 5 - Premie 5 - maximaal met links in beschrijving"
+      },
+      "beschrijving": {
+        "nl": "<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p><ol><li><a href=\"http://www.destandaard.be\">Link 1</a>: Website</li><li><a href=\"https://www.uat-vlaanderen.be/diploma-hoger-onderwijs-behalen-via-een-diplomacontract\">Link 2</a>: Product</li><li><a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/studietoelagen-voor-studies-in-het-buitenland-of-de-franse-of-duitstalige-gemeenschap\">Link 3</a>: Artikel</li><li><a href=\"https://assets.vlaanderen.be/image/upload/v1611739198/IMJV2021_LoketBriefC_Tab_Water2_fs7kvl.pdf\">Link 4</a>: Bestand</li><li>Link 5: Definitie</li></ol>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"
+      },
+      "startDienstVerlening": "2023-02-02T12:00:00Z",
+      "eindeDienstVerlening": "2023-04-21T12:00:00Z",
+      "type": "FinancieleVerplichting",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "LokaalBestuur"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000097",
+          "@id": "OVO000097"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000097",
+          "@id": "OVO000097"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Subsidie voor de renovatie van huurwoningen"
+              },
+              "url": "https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen",
+              "@type": "Website",
+              "order": 0
+            },
+            {
+              "naam": {
+                "nl": "Vergunning C rechtsreeks aanvragen"
+              },
+              "url": "https://www.gamingcommission.be/nl",
+              "@type": "Website",
+              "order": 1
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidie voor de renovatie van huurwoningen"
+          },
+          "url": "https://stad.gent/nl/wonen-bouwen/premies-voor-wonen-en-verbouwen/premies-bij-bouwen-en-renoveren/subsidie-voor-de-renovatie-van-huurwoningen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 5 - maximaal met links in beschrijving</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        },
+        {
+          "id": "https://codex.vlaanderen.be/5",
+          "url": "https://codex.vlaanderen.be/5",
+          "@type": "Regelgeving",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-09T16:05:09.521496335Z",
+      "laatstGewijzigd": "2023-03-09T16:05:09.521498407Z",
+      "laatstOntvangen": "2023-03-09T16:05:09.521498407Z",
+      "productnummer": "2840",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d0d7c559-9d3f-44d7-9be7-70403e259a63",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2e1440ca-e0e9-4246-a7f1-dba07c5d6362"
+    },
+    {
+      "id": "1f054b4a-f863-4e08-9457-b61e3781ba3c",
+      "generatedAtTime": "2023-03-09T16:05:09.047088Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Test 5 - Premie 6 - maximaal nieuwe test"
+      },
+      "beschrijving": {
+        "nl": "<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"
+      },
+      "startDienstVerlening": "2023-02-06T12:00:00Z",
+      "eindeDienstVerlening": "2023-02-24T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "LokaalBestuur"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Starterscontract"
+              },
+              "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Aanvraagformulier vergunning C"
+          },
+          "url": "https://www.gamingcommission.be/sites/default/files/2021-02/vergunningC.pdf",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 6 - maximaal nieuwe test</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:05:08.016610037Z",
+      "laatstGewijzigd": "2023-03-09T16:05:08.016613301Z",
+      "laatstOntvangen": "2023-03-09T16:05:08.016613301Z",
+      "productnummer": "2841",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1f054b4a-f863-4e08-9457-b61e3781ba3c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7e131da7-a999-44ea-a875-67618575db6e"
+    },
+    {
+      "id": "f04ca8cd-9b41-4b6c-b82d-d85c97ca336e",
+      "generatedAtTime": "2023-03-09T16:05:07.804549Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Gemeentelijke premie voor het opstarten van een kinderdagverblijf"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u een zelfstandig kinderdagverblijf opstart en opvangplaatsen creëert in de voorschoolse kinderopvang (0 – 3 jaar), kan u een premie krijgen.</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "creatie": "2023-03-09T16:05:07.014550996Z",
+      "laatstGewijzigd": "2023-03-09T16:05:07.014554383Z",
+      "laatstOntvangen": "2023-03-09T16:05:07.014554383Z",
+      "productnummer": "89",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f04ca8cd-9b41-4b6c-b82d-d85c97ca336e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f91e49d2-1899-4174-892f-3db419a7323b"
+    },
+    {
+      "id": "839dc51d-251b-4ecc-9242-4c098c038fc7",
+      "generatedAtTime": "2023-03-09T16:05:06.756595Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Test 5 - Premie 3 - maximaal zonder procedure website"
+      },
+      "beschrijving": {
+        "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+      },
+      "startDienstVerlening": "2022-08-18T12:00:00Z",
+      "eindeDienstVerlening": "2023-06-30T12:00:00Z",
+      "type": "InfrastructuurMateriaal",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Starterscontract"
+          },
+          "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "Subsidie verfraaing handelspanden"
+          },
+          "url": "https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/nl",
+          "url": "https://codex.vlaanderen.be/nl",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:00:32.825526865Z",
+      "laatstGewijzigd": "2023-03-09T16:05:06.238082187Z",
+      "laatstOntvangen": "2023-03-09T16:05:06.238082187Z",
+      "productnummer": "2838",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/839dc51d-251b-4ecc-9242-4c098c038fc7",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/1c8ec58a-5185-418c-b80b-2c1a20b3989a"
+    },
+    {
+      "id": "b30a5938-5622-4432-8e21-5c1c5a113f36",
+      "generatedAtTime": "2023-03-09T16:01:05.732804Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Test 5 - Premie 3 - maximaal zonder procedure website"
+      },
+      "beschrijving": {
+        "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+      },
+      "startDienstVerlening": "2022-08-18T12:00:00Z",
+      "eindeDienstVerlening": "2023-06-30T12:00:00Z",
+      "type": "InfrastructuurMateriaal",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Starterscontract"
+          },
+          "url": "https://stad.gent/nl/ondernemen/een-onderneming-starten-gent/starterscontract",
+          "@type": "Website",
+          "order": 0
+        },
+        {
+          "naam": {
+            "nl": "Subsidie verfraaing handelspanden"
+          },
+          "url": "https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden",
+          "@type": "Website",
+          "order": 1
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test 5 - Premie 3 - maximaal zonder procedure website</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/nl",
+          "url": "https://codex.vlaanderen.be/nl",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:00:32.825526865Z",
+      "laatstGewijzigd": "2023-03-09T16:00:32.825529055Z",
+      "laatstOntvangen": "2023-03-09T16:00:32.825529055Z",
+      "productnummer": "2838",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b30a5938-5622-4432-8e21-5c1c5a113f36",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/1c8ec58a-5185-418c-b80b-2c1a20b3989a"
+    },
+    {
+      "id": "a8d1c4b7-28db-4d1d-b4d8-51b899f02f55",
+      "generatedAtTime": "2023-03-09T16:00:32.602722Z",
+      "bevoegdBestuursniveaus": [
+        "Europees"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Europees"
+      ],
+      "naam": {
+        "en": "Premie 11 - maximaal EN",
+        "nl": "Premie 11 - maximaal"
+      },
+      "beschrijving": {
+        "nl": "<p>Premie 11 - maximaal</p>",
+        "en": "<p>Premie 11 - maximaal</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Premie 11 - maximaal</p>",
+        "en": "<p>Premie 11 - maximaal</p>"
+      },
+      "startDienstVerlening": "2022-12-15T12:00:00Z",
+      "eindeDienstVerlening": "2023-06-29T12:00:00Z",
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Premie 11 - maximaal</p>",
+        "en": "<p>Premie 11 - maximaal</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Premie 11 - maximaal</p>",
+        "en": "<p>Premie 11 - maximaal</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000095",
+          "@id": "OVO000095"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Premie 11 - maximaal</p>",
+            "en": "<p>Premie 11 - maximaal</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Requirements"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Premie 11 - maximaal</p>",
+              "en": "<p>Premie 11 - maximaal</p>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Premie 11 - maximaal</p>",
+            "en": "<p>Premie 11 - maximaal</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Vergunning C rechtsreeks aanvragen",
+                "en": "Vergunning C rechtsreeks aanvragen"
+              },
+              "url": "https://www.gamingcommission.be/nl",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Premie 11 - maximaal</p>",
+            "en": "<p>Premie 11 - maximaal</p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "en": "Cost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T16:00:19.71578197Z",
+      "laatstGewijzigd": "2023-03-09T16:00:19.715784669Z",
+      "laatstOntvangen": "2023-03-09T16:00:19.715784669Z",
+      "productnummer": "2835",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a8d1c4b7-28db-4d1d-b4d8-51b899f02f55",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e5d63e23-165f-4d34-85fe-1dba8b591fee"
+    },
+    {
+      "id": "31889d36-99a8-4ea3-90d0-e02e22655de1",
+      "generatedAtTime": "2023-03-09T16:00:19.547462Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "en": "[ EN ] Premie 2 maximaal",
+        "nl": "Premie 2 maximaal"
+      },
+      "beschrijving": {
+        "en": "<p>Dit is de tweede premie. Alle velden die worden doorgestuurd naar IPDCv3 zijn ingevuld.</p><p>Links naar andere content:</p><ol type=\"1\"><li><a href=\"https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden\">Link 1</a> naar website</li><li>Link 2 naar product</li><li><a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/werken-in-het-onderwijs/leerkrachtendatabank\">Link 3</a> naar artikel</li><li><a href=\"https://www.uat-vlaanderen.be/opleidingsdatabank\">Link 4</a> naar collectie</li><li><a href=\"https://www.uat-vlaanderen.be/nieuwsberichten/doe-de-woontest\">Link 5</a> naar nieuwsbericht</li></ol>",
+        "nl": "<p>Dit is de tweede premie. Alle velden die worden doorgestuurd naar IPDCv3 zijn ingevuld.</p><p>Links naar andere content:</p><ol type=\"1\"><li><a href=\"https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden\">Link 1</a> naar website</li><li>Link 2 naar product</li><li><a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/werken-in-het-onderwijs/leerkrachtendatabank\">Link 3</a> naar artikel</li><li><a href=\"https://www.uat-vlaanderen.be/opleidingsdatabank\">Link 4</a> naar collectie</li><li><a href=\"https://www.uat-vlaanderen.be/nieuwsberichten/doe-de-woontest\">Link 5</a> naar nieuwsbericht</li></ol>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Het bevat een verdere beschrijving</p>",
+        "en": "<p>Het bevat een verdere beschrijving</p>"
+      },
+      "startDienstVerlening": "2023-01-11T12:00:00Z",
+      "eindeDienstVerlening": "2024-01-17T12:00:00Z",
+      "type": "InfrastructuurMateriaal",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE",
+        "BE1"
+      ],
+      "yourEuropeCategorieen": [
+        "BelastingenOverigeBelastingen"
+      ],
+      "regelgevingTekst": {
+        "en": "<p>Er is regelgeving rond deze premie.</p>",
+        "nl": "<p>Er is regelgeving rond deze premie.</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Er zijn uitzonderingen op de voorwaarde of procedure.</p>",
+        "en": "<p>Er zijn uitzonderingen op de voorwaarde of procedure.</p>"
+      },
+      "zoektermen": {
+        "en": [
+          "dienst zeevisserij",
+          "afwatering"
+        ],
+        "nl": [
+          "dienst zeevisserij",
+          "afwatering"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000097",
+          "@id": "OVO000097"
+        },
+        {
+          "id": "OVO000092",
+          "@id": "OVO000092"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000095",
+          "@id": "OVO000095"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>en voorwaarden.</p>",
+            "en": "<p>en voorwaarden.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Requirements"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "en": "<p>Er zijn bewijsstukken nodig voor deze premie.</p>",
+              "nl": "<p>Er zijn bewijsstukken nodig voor deze premie.</p>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Zo bevat het ook een procedure met gepubliceerde website.</p>",
+            "en": "<p>Zo bevat het ook een procedure met gepubliceerde website.</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "en": "Your Europe",
+                "nl": "Your Europe"
+              },
+              "url": "https://www.youreurope.eu",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Er is een kost van 5 euro.</p>",
+            "en": "<p>Er is een kost van 5 euro.</p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "en": "Cost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        },
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024690&param=inhoud",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024690&param=inhoud",
+          "@type": "Regelgeving",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-09T15:55:32.679423943Z",
+      "laatstGewijzigd": "2023-03-09T16:00:06.525383271Z",
+      "laatstOntvangen": "2023-03-09T16:00:06.525383271Z",
+      "productnummer": "2826",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/31889d36-99a8-4ea3-90d0-e02e22655de1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6c1ee976-e267-4db1-815a-e43ff9d2d4aa"
+    },
+    {
+      "id": "3c749545-a80d-4402-ac4b-6f9f0197c5dd",
+      "generatedAtTime": "2023-03-09T15:55:55.598335Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "en": "[ EN ] Premie 2 maximaal",
+        "nl": "Premie 2 maximaal"
+      },
+      "beschrijving": {
+        "en": "<p>Dit is de tweede premie. Alle velden die worden doorgestuurd naar IPDCv3 zijn ingevuld.</p><p>Links naar andere content:</p><ol type=\"1\"><li><a href=\"https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden\">Link 1</a> naar website</li><li>Link 2 naar product</li><li><a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/werken-in-het-onderwijs/leerkrachtendatabank\">Link 3</a> naar artikel</li><li><a href=\"https://www.uat-vlaanderen.be/opleidingsdatabank\">Link 4</a> naar collectie</li><li><a href=\"https://www.uat-vlaanderen.be/nieuwsberichten/doe-de-woontest\">Link 5</a> naar nieuwsbericht</li></ol>",
+        "nl": "<p>Dit is de tweede premie. Alle velden die worden doorgestuurd naar IPDCv3 zijn ingevuld.</p><p>Links naar andere content:</p><ol type=\"1\"><li><a href=\"https://stad.gent/nl/ondernemen/ondersteuning-en-premies-voor-ondernemers/sectoroverschrijdend/subsidie-verfraaiing-handelspanden\">Link 1</a> naar website</li><li>Link 2 naar product</li><li><a href=\"https://www.uat-vlaanderen.be/onderwijs-en-vorming/werken-in-het-onderwijs/leerkrachtendatabank\">Link 3</a> naar artikel</li><li><a href=\"https://www.uat-vlaanderen.be/opleidingsdatabank\">Link 4</a> naar collectie</li><li><a href=\"https://www.uat-vlaanderen.be/nieuwsberichten/doe-de-woontest\">Link 5</a> naar nieuwsbericht</li></ol>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Het bevat een verdere beschrijving</p>",
+        "en": "<p>Het bevat een verdere beschrijving</p>"
+      },
+      "startDienstVerlening": "2023-01-11T12:00:00Z",
+      "eindeDienstVerlening": "2024-01-17T12:00:00Z",
+      "type": "InfrastructuurMateriaal",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE",
+        "BE1"
+      ],
+      "yourEuropeCategorieen": [
+        "BelastingenOverigeBelastingen"
+      ],
+      "regelgevingTekst": {
+        "en": "<p>Er is regelgeving rond deze premie.</p>",
+        "nl": "<p>Er is regelgeving rond deze premie.</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Er zijn uitzonderingen op de voorwaarde of procedure.</p>",
+        "en": "<p>Er zijn uitzonderingen op de voorwaarde of procedure.</p>"
+      },
+      "zoektermen": {
+        "en": [
+          "dienst zeevisserij",
+          "afwatering"
+        ],
+        "nl": [
+          "dienst zeevisserij",
+          "afwatering"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000097",
+          "@id": "OVO000097"
+        },
+        {
+          "id": "OVO000092",
+          "@id": "OVO000092"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO000095",
+          "@id": "OVO000095"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>en voorwaarden.</p>",
+            "en": "<p>en voorwaarden.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Requirements"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "en": "<p>Er zijn bewijsstukken nodig voor deze premie.</p>",
+              "nl": "<p>Er zijn bewijsstukken nodig voor deze premie.</p>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Zo bevat het ook een procedure met gepubliceerde website.</p>",
+            "en": "<p>Zo bevat het ook een procedure met gepubliceerde website.</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "en": "Your Europe",
+                "nl": "Your Europe"
+              },
+              "url": "https://www.youreurope.eu",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Er is een kost van 5 euro.</p>",
+            "en": "<p>Er is een kost van 5 euro.</p>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "en": "Cost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=inhoud&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        },
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024690&param=inhoud",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024690&param=inhoud",
+          "@type": "Regelgeving",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-09T15:55:32.679423943Z",
+      "laatstGewijzigd": "2023-03-09T15:55:32.679425995Z",
+      "laatstOntvangen": "2023-03-09T15:55:32.679425995Z",
+      "productnummer": "2826",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3c749545-a80d-4402-ac4b-6f9f0197c5dd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6c1ee976-e267-4db1-815a-e43ff9d2d4aa"
+    },
+    {
+      "id": "0eb8230a-ec62-41b1-90e7-6f64065dda6e",
+      "generatedAtTime": "2023-03-09T15:55:31.897134Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Zorgtariefpas",
+        "en": "Zorgtariefpas en"
+      },
+      "beschrijving": {
+        "nl": "<p><a href=\"https://www.uat-vlaanderen.be/informatiemanagement/informatie-digitaliseren/digitalisering-inkomende-post/maatwerk-digipost\">/node/57356</a> Met de zorgtariefpas kunnen ouders van kinderen tot 18 jaar een financiële tussenkomst krijgen in medische kosten voor de behandeling bij de: </p><p><a href=\"https://www.uat-vlaanderen.be/ingrijpende-energetische-renovatie\">/node/12323</a></p><p>/node/25765</p><ul><li>oogarts</li><li>opticien</li><li>tandarts</li><li>orthodontistsdfsdf</li><li>oorarts</li><li>orthopedist</li><li>logopedist</li><li>psychiater</li><li>psycholoog</li><li>diëtist</li><li>apotheker.</li></ul>",
+        "en": "<p>Met de zorgtariefpas kunnen ouders van kinderen tot 18 jaar een financiële tussenkomst krijgen in medische kosten voor de behandeling bij de: </p><ul><li>oogarts</li><li>opticien</li><li>tandarts</li><li>orthodontist</li><li>oorarts</li><li>orthopedist</li><li>logopedist</li><li>psychiater</li><li>psycholoog</li><li>diëtist</li><li>apotheker.</li></ul>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Burger"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De jongere:</p><ul><li>is maximum 18 jaar</li><li>is ingeschreven in het bevolkingsregister of het vreemdelingenregister in de gemeente</li><li>is aangesloten bij een erkend ziekenfonds.</li></ul><p>Het gezinsinkomen is te laag om te zorgen dat de kinderen de gezondheidszorgen krijgen die ze nodig hebben.</p>",
+            "en": "<p>De jongere:</p><ul><li>is maximum 18 jaar</li><li>is ingeschreven in het bevolkingsregister of het vreemdelingenregister in de gemeente</li><li>is aangesloten bij een erkend ziekenfonds.</li></ul><p>Het gezinsinkomen is te laag om te zorgen dat de kinderen de gezondheidszorgen krijgen die ze nodig hebben.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden",
+            "en": "Requirements"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<ul><li>attest van de geneesheer om de noodzaak van de behandeling aan te geven</li><li>aansluiting ziekenfonds</li><li>rekeninguittreksels van de laatste drie maanden.</li></ul>",
+              "en": "<ul><li>attest van de geneesheer om de noodzaak van de behandeling aan te geven</li><li>aansluiting ziekenfonds</li><li>rekeninguittreksels van de laatste drie maanden.</li></ul>"
+            },
+            "naam": {
+              "en": "Evidence",
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure",
+            "en": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<ul><li>U vraagt de zorgtariefpas aan bij het OCMW.</li><li>Het OCMW reikt u de zorgtariefpas uit na een sociaal en financieel onderzoek.</li></ul>",
+            "en": "<ul><li>U vraagt de zorgtariefpas aan bij het OCMW.</li><li>Het OCMW reikt u de zorgtariefpas uit na een sociaal en financieel onderzoek.</li></ul>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "en": "<p>Met de zorgtariefpas krijgt u</p><ul><li>het remgeld terugbetaald</li><li>een korting op geneesmiddelen en andere benodigdheden (bijvoorbeeld een bril, beugel, hoorapparaat, steunzolen, ...).</li></ul>",
+            "nl": "<p>Met de zorgtariefpas krijgt u</p><ul><li>het remgeld terugbetaald</li><li>een korting op geneesmiddelen en andere benodigdheden (bijvoorbeeld een bril, beugel, hoorapparaat, steunzolen, ...).</li></ul>"
+          },
+          "naam": {
+            "nl": "Kost",
+            "en": "Cost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T15:55:18.969370095Z",
+      "laatstGewijzigd": "2023-03-09T15:55:18.969373842Z",
+      "laatstOntvangen": "2023-03-09T15:55:18.969373842Z",
+      "productnummer": "39",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0eb8230a-ec62-41b1-90e7-6f64065dda6e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0e7f8fb0-c504-4791-abba-1b2c7de9e434"
+    },
+    {
+      "id": "0a72ac62-e308-4803-9ab4-d4297eab88d0",
+      "generatedAtTime": "2023-03-09T15:55:18.644695Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Standplaats voor niet-commerciële verkoop"
+      },
+      "beschrijving": {
+        "nl": "<p>Wenst u een standplaats voor een niet-commerciële verkoop? Dan moet u een aanvraag indienen bij uw stad of gemeente.</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Test</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Test</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Test</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Test</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Hoe u een standplaats kunt aanvragen en aan welke voorwaarden u moet voldoen kunt u nagaan bij uw stad of gemeente.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T15:50:15.913497243Z",
+      "laatstGewijzigd": "2023-03-09T15:55:05.488052294Z",
+      "laatstOntvangen": "2023-03-09T15:55:05.488052294Z",
+      "productnummer": "1852",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0a72ac62-e308-4803-9ab4-d4297eab88d0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3ddf81d8-edd9-47f2-9a2c-f09d14cad3e3"
+    },
+    {
+      "id": "4676b982-f13f-4cdc-b6df-f40d6dcb9ca3",
+      "generatedAtTime": "2023-03-09T15:50:38.97669Z",
+      "bevoegdBestuursniveaus": [
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Standplaats voor niet-commerciële verkoop"
+      },
+      "beschrijving": {
+        "nl": "<p>Wenst u een standplaats voor een niet-commerciële verkoop? Dan moet u een aanvraag indienen bij uw stad of gemeente.</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Test</p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Test</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Test</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test voorwaarden</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Test</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Hoe u een standplaats kunt aanvragen en aan welke voorwaarden u moet voldoen kunt u nagaan bij uw stad of gemeente.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Test</p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T15:50:15.913497243Z",
+      "laatstGewijzigd": "2023-03-09T15:50:15.913500346Z",
+      "laatstOntvangen": "2023-03-09T15:50:15.913500346Z",
+      "productnummer": "1852",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/4676b982-f13f-4cdc-b6df-f40d6dcb9ca3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3ddf81d8-edd9-47f2-9a2c-f09d14cad3e3"
+    },
+    {
+      "id": "aa5ffd41-5ecb-4e7e-b1d2-b19b165fb325",
+      "generatedAtTime": "2023-03-09T15:40:30.789698Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams",
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Lokaal"
+      ],
+      "naam": {
+        "nl": "Toelating voor ambulante activiteit op openbaar domein buiten de openbare markt "
+      },
+      "beschrijving": {
+        "nl": "<p>Voor de uitbating van een kraam op het openbaar domein (ambulante activiteit) hebt u een toelating van de gemeente nodig. Een ambulante activiteit heeft betrekking op de verkoop, het te koop aanbieden of het uitstallen met het oog op de verkoop aan de consument van producten of diensten, door een handelaar buiten de vestiging vermeld in zijn inschrijving in de Kruispuntbank van Ondernemingen (KBO) of door een persoon die niet over zo’n vestiging beschikt. </p>"
+      },
+      "type": "Toelating",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li><p>Wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten</p></li><li><p>Koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van ambulante activiteiten</p></li><li><p>Decreet van 24 februari 2017 tot wijziging van artikel 8 en 10 van de wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten</p></li><li><p>Besluit van de Vlaamse Regering van 21 april 2017 houdende de wijziging van diverse bepalingen van het koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van ambulante activiteiten; </p></li><li><p>Gemeentelijk reglement en/of politieverordening </p></li></ul>"
+      },
+      "zoektermen": {
+        "nl": [
+          "ambulante activiteit",
+          "ambulante activiteiten",
+          "ambulante handel",
+          "openbaar domein",
+          "foodtrucks",
+          "foodtruck",
+          "food truck",
+          "standplaats",
+          "marktkraam"
+        ]
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000001",
+          "@id": "OVO000001"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Om een ambulante activiteit te kunnen uitoefenen, moet u aan de onderstaande voorwaarden voldoen.</p><ul><li><p>U hebt een machtiging tot het uitoefenen van ambulante activiteiten als werkgever (de zogenaamde leurkaart). Die machtiging wordt afgeleverd door een <a href=\"http://economie.fgov.be/nl/themas/ondernemingen/een-onderneming-oprichten/belangrijkste-stappen-om-een/te-ondernemen-stappen-bij-een/de-erkende\">erkend ondernemingsloket</a> en is geldig in heel België voor de duur van de activiteit.</p></li><li><p>U hebt een verzekering voor burgerlijke aansprakelijkheid en brandrisico’s en, indien van toepassing, een keuringsattest voor uw gas- en/of elektriciteitsinstallatie.</p></li><li><p>U hebt, als u voeding wilt verkopen, een registratie, erkenning of toelating van het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) .</p></li><li><p>U hebt, als u gegiste en/of sterke drank wilt schenken, een drankvergunning voor een reizende drankgelegenheid. Die drankvergunning vraagt u aan bij de gemeente waar u gedomicilieerd bent.</p></li><li><p>U hebt, als u gegiste en/of sterke drank wilt verkopen (geen consumptie ter plaatse), een handelaarsvergunning ethylalcohol en alcoholhoudende dranken. <a href=\"https://financien.belgium.be/douane_accijnzen/contacteer-de-aada\">U vraagt die vergunning</a> aan bij de gewestelijke directie van Douane en Accijnzen.</p></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>U dient uw kandidatuur in via het aanvraagformulier en voegt daar de onderstaande documenten bij:</p><ul><li><p>een kopie van uw machtiging als werkgever</p></li><li><p>een kopie van uw e-ID</p></li><li><p>een kopie van de verzekeringspolis burgerlijke aansprakelijkheid (bewijs van een geldige dekking)</p></li><li><p>een kopie van de brandverzekering (bewijs van een geldige dekking)</p></li><li><p>een kopie van het attest keuring elektriciteitsinstallatie (indien van toepassing)</p></li><li><p>een kopie van het attest keuring gasinstallatie (indien van toepassing)</p></li><li><p>een kopie van de registratie, erkenning of toelating van het FAVV (indien van toepassing)</p></li><li><p>een drankvergunning voor reizende drankgelegenheid (indien van toepassing)</p></li><li><p>een handelaarsvergunning ethylalcohol en alcoholhoudende dranken (indien van toepassing)</p></li><li><p>als het privaat domein eigendom is van een derde partij: het schriftelijk akkoord van de eigenaar(s), de uitbater(s) of de huurder(s) van de private eigendommen.</p></li></ul><p>U kunt uw aanvraag, gericht aan de gemeente ter attentie van het college van burgemeester en schepenen, indienen:</p><ul><li><p>per brief tegen ontvangstbewijs</p></li><li><p>per aangetekende brief met ontvangstbewijs</p></li><li><p>per e-mail (duurzame drager tegen ontvangstbewijs).</p></li></ul><p>Het college van burgemeester en schepenen beslist over de toekenning van de toelating.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Organisatie van ambulante activiteiten en kermissen (VLAIO.be)"
+          },
+          "url": "https://www.vlaio.be/nl/vlaio-netwerk/lokale-besturen/organisatie-van-ambulante-activiteiten-en-kermissen/organisatie-van",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>De aanvraag is gratis. De kostprijs voor de inname van de standplaats is bepaald in het gemeentelijk belasting- of retributiereglement. </p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-09T15:40:24.123296327Z",
+      "laatstGewijzigd": "2023-03-09T15:40:24.123298809Z",
+      "laatstOntvangen": "2023-03-09T15:40:24.123298809Z",
+      "productnummer": "2127",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/aa5ffd41-5ecb-4e7e-b1d2-b19b165fb325",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7a5d5ee4-57e4-4124-9b54-bbbf94bb7012"
+    },
+    {
+      "id": "43cb9ff1-cbce-49dc-aadc-5c88f25f129b",
+      "generatedAtTime": "2023-03-09T09:26:46.105693Z",
+      "bevoegdBestuursniveaus": [
+        "Federaal",
+        "Lokaal"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Federaal",
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "WP Review 09-03-2023"
+      },
+      "beschrijving": {
+        "nl": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu.</p>"
+      },
+      "verdereBeschrijving": {
+        "nl": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p><p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>"
+      },
+      "startDienstVerlening": "2015-10-15T12:00:00Z",
+      "eindeDienstVerlening": "2023-04-21T12:00:00Z",
+      "themas": [
+        "CultuurSportVrijeTijd",
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "LokaalBestuur",
+        "Onderneming",
+        "VlaamseOverheid"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE"
+      ],
+      "yourEuropeCategorieen": [
+        "ReizenElektronischeGegevens",
+        "WerkEnPensioneringGaanWerken"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Denean convallis auctor dolor a convallis. Mauris fermentum lacus at elit egestas vulputate. In laoreet lacinia magna vel convallis. Pellentesque magna ligula, ornare vel neque non, consequat vehicula tellus. Etiam ex orci, ullamcorper vitae mauris at, semper accumsan felis. Morbi finibus suscipit urna, id tempor enim egestas eu. Ut a vehicula nisi, in finibus velit. Pellentesque ornare interdum porttitor.</p>"
+      },
+      "uitzonderingen": {
+        "nl": "<p>Curabitur dapibus ornare erat, id sollicitudin est auctor sit amet. Duis accumsan malesuada sem. In luctus enim ac purus volutpat, quis laoreet nisl suscipit. Vivamus laoreet sodales quam sit amet blandit. In facilisis ipsum non libero cursus tincidunt. Donec euismod vitae elit sed porta. Sed vestibulum turpis quis neque tincidunt laoreet. Integer egestas ac felis in mollis. Curabitur volutpat ac velit nec dictum. Etiam cursus lacinia fringilla. Aenean imperdiet efficitur rhoncus. Etiam ut ultrices dolor. Aliquam blandit nisi nulla, ac dignissim tellus hendrerit eu.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO002953",
+          "@id": "OVO002953"
+        }
+      ],
+      "uitvoerendeOverheden": [
+        {
+          "id": "OVO002949",
+          "@id": "OVO002949"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "bewijs": {
+            "beschrijving": {
+              "nl": "<p>Suspendisse potenti. Vestibulum tristique tempus purus euismod ullamcorper. Vestibulum nec nisi ac ipsum hendrerit maximus in ut mi. Curabitur pulvinar pellentesque pulvinar. Integer condimentum felis eget consectetur auctor. Nullam lectus ex, bibendum a rhoncus vel, fringilla congue arcu. Donec non volutpat enim. Maecenas ultrices lacinia lacus, in tincidunt mi euismod ac. Phasellus a odio massa.</p>"
+            },
+            "naam": {
+              "nl": "Bewijs"
+            },
+            "@type": "Bewijs"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>"
+          },
+          "websites": [
+            {
+              "naam": {
+                "nl": "Aanvraag nieuwe verkaveling"
+              },
+              "url": "https://www.omgevingsloketvlaanderen.be/aanvraag-nieuwe-verkaveling",
+              "@type": "Website",
+              "order": 0
+            }
+          ],
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>Aliquam non consequat arcu, eu luctus purus. Suspendisse ultrices ligula a neque vehicula pellentesque. Duis auctor lorem at dignissim posuere. Aenean sem mauris, lobortis eget lacus ut, mattis venenatis quam. Vivamus diam tellus, porta a sollicitudin pellentesque, bibendum eu dolor.</p>"
+          },
+          "naam": {
+            "nl": "Aliquam non consequat arcu"
+          },
+          "@type": "Kost",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>Beschrijving</p>"
+          },
+          "naam": {
+            "nl": "Kost #3"
+          },
+          "@type": "Kost",
+          "order": 1
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>In aliquam metus neque, at sagittis sem dapibus nec. Nunc condimentum finibus purus, eget blandit lectus varius in. In venenatis mi egestas orci tristique semper. Curabitur volutpat sed ex fringilla semper. Pellentesque lobortis sit amet augue sed faucibus. Integer in tortor sed libero luctus ullamcorper. Sed consectetur eleifend leo non tincidunt. Curabitur erat justo, luctus eu lobortis quis, malesuada vel elit.</p>"
+          },
+          "naam": {
+            "nl": "In aliquam metus neque"
+          },
+          "@type": "Kost",
+          "order": 2
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>Suspendisse viverra enim vitae dui suscipit, in tristique erat placerat. Pellentesque rhoncus mi vitae libero blandit, at molestie sapien blandit. Integer consequat, ex eget gravida pharetra, libero risus condimentum diam, ac sagittis urna metus ut quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum nulla ut ullamcorper auctor. Quisque eu dolor nec justo porta consequat rutrum vitae justo.</p>"
+          },
+          "naam": {
+            "nl": "Suspendisse viverra enim"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        },
+        {
+          "beschrijving": {
+            "nl": "<p>Donec commodo sed nibh et mollis. Suspendisse rutrum, quam a pretium elementum, nisl diam elementum velit, ut egestas risus augue non augue. Pellentesque euismod nisl vitae risus porta porta. Morbi sit amet congue enim, nec convallis libero.</p>"
+          },
+          "naam": {
+            "nl": "Donec commodo sed nibh"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 1
+        }
+      ],
+      "regelgeving": [
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038121&param=informatie&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038121&param=informatie&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 0
+        },
+        {
+          "id": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038131&param=informatie&ref=search&AVIDS=",
+          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038131&param=informatie&ref=search&AVIDS=",
+          "@type": "Regelgeving",
+          "order": 1
+        }
+      ],
+      "creatie": "2023-03-09T08:02:53.716608909Z",
+      "laatstGewijzigd": "2023-03-09T09:26:42.695599458Z",
+      "laatstOntvangen": "2023-03-09T09:26:42.695599458Z",
+      "productnummer": "2836",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/43cb9ff1-cbce-49dc-aadc-5c88f25f129b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b663c498-7374-4871-a315-0964cef3a49a"
+    },
+    {
+      "id": "11562e03-3004-485c-b0b4-ef207a5d6d49",
+      "generatedAtTime": "2023-03-09T08:25:09.513276Z",
+      "naam": {
+        "nl": "Product 3"
+      },
+      "beschrijving": {
+        "nl": "<p>Product 3 - om archiveren te testen</p>"
+      },
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO001875",
+          "@id": "OVO001875"
+        }
+      ],
+      "creatie": "2023-03-09T08:25:09.020608571Z",
+      "laatstGewijzigd": "2023-03-09T08:25:09.020611686Z",
+      "laatstOntvangen": "2023-03-09T08:25:09.020611686Z",
+      "productnummer": "2851",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/11562e03-3004-485c-b0b4-ef207a5d6d49",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ebfb66a5-1089-4234-bda8-9195607db365"
+    }
+  ]
+}

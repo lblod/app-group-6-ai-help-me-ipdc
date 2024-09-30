@@ -1,1 +1,1320 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=66","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=67","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-04T12:41:16.958372Z","@type":"GreaterThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=65","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-04T12:41:09.547119Z","@type":"LessThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=66","@type":"EventStream","member":[{"id":"cecf5789-7249-470f-896d-6a181c577785","generatedAtTime":"2023-05-04T12:41:16.958372Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Gendergerelateerd geweld"},"beschrijving":{"nl":"<p>Onder gendergerelateerd geweld vallen drie kernzaken:</p><p>- ketenaanpak intrafamilaal geweld = De Ketenaanpak Intrafamiliaal Geweld is een samenwerking tussen politie en parket, hulpverlening en bestuur. Door samen te werken pakken ze intrafamiliaal geweld op een <strong>multidisciplinaire manier</strong> aan. </p><p>- Vlaams actieplan seksueel geweld = Het Vlaams actieplan seksueel geweld wil de noden van slachtoffers van seksueel geweld beantwoorden en nieuwe slachtoffers voorkomen. Het plan zet in op preventie en gepaste maatregelen voor daders en slachtoffers. Daarnaast investeert het in kwaliteitsvolle hulpverlening.</p><p>- erkennings -en bemiddelingscommissie historisch misbruik = De erkennings- en bemiddelingscommissie historisch misbruik geeft slachtoffers van geweld en misbruik erkenning voor wat hen werd aangedaan. Het gaat om gevallen van misbruik die minstens 10 jaar geleden plaatsvonden.</p><p><a href=\"https://www.vlaanderen.be/agentschap-justitie-en-handhaving/justitie/gendergerelateerd-geweld\">Meer info</a> op de website van agentschap J&amp;H</p>"},"type":"AdviesBegeleiding","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO049871","@id":"OVO049871"}],"creatie":"2023-03-24T06:45:10.313597021Z","laatstGewijzigd":"2023-05-04T12:41:16.940286326Z","laatstOntvangen":"2023-05-04T12:41:16.940286326Z","productnummer":"2451","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cecf5789-7249-470f-896d-6a181c577785","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/70307156-39c6-46ad-9ce0-dfb430e99e68"},{"id":"f51d69f6-8aa6-4387-b4f0-5f8155ebc715","generatedAtTime":"2023-05-04T12:41:16.705619Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies en werkingsmiddelen voor internationale samenwerking"},"beschrijving":{"nl":"<p>Lidgelden voor internationale netwerken, deelname aan internationale beurzen, allerhande projectfinanciering...</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk","OnderwijsWetenschap"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000038","@id":"OVO000038"}],"creatie":"2023-03-24T06:45:10.165089231Z","laatstGewijzigd":"2023-05-04T12:41:16.687855016Z","laatstOntvangen":"2023-05-04T12:41:16.687855016Z","productnummer":"2443","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f51d69f6-8aa6-4387-b4f0-5f8155ebc715","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/1dedb0b8-3ce4-47e4-8265-2fd613e6bc8f"},{"id":"01d9776b-5c86-4770-aa50-75a055e6a4e1","generatedAtTime":"2023-05-04T12:41:16.414208Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"De woonmeter "},"beschrijving":{"nl":"<p>De woonmeter is een thermo- en hygrometer met uitleg over correct verwarmen en verluchten. Dit helpt om energie te besparen en schimmel in de woning te vermijden. Het instrument werd ontwikkeld door SAAMO, en wordt gebruikt tijdens een energiescan, woon-en budgetbegeleiding of lokale klimaatacties.</p>"},"type":"Voorwerp","themas":["MilieuEnergie"],"doelgroepen":["LokaalBestuur"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De woonmeter zit standaard in het energiebesparingspakket dat personen krijgen tijdens een energiescan. Ook lokale overheden kunnen woonmeters bestellen voor een project rond energiebesparing en woningkwaliteit. Meer informatie is te vinden op de website van de woonmeter. </p><p> </p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>De woonmeter geeft informatie over de temperatuur en de luchtvochtigheid in de woning. U kunt ermee zien of de kamer waarin de woonmeter staat te koud, te warm of te vochtig is. Deze informatie wordt ook getoond aan de hand van icoontjes. </p><p>In veel gevallen kunt u de situatie zelf verbeteren door bijvoorbeeld een raam te openen of de verwarming hoger of lager te zetten. Als dit niet lukt, zijn er misschien investeringen nodig aan uw woning. </p>"},"@type":"Procedure","order":0}],"websites":[{"naam":{"nl":"De woonmeter "},"url":"https://www.woonmeter.be/index.html","@type":"Website","order":0}],"kosten":[{"beschrijving":{"nl":"<p>De woonmeter is altijd gratis. </p>"},"naam":{"nl":"Kost"},"@type":"Kost","order":0}],"creatie":"2023-03-24T06:45:10.040959046Z","laatstGewijzigd":"2023-05-04T12:41:16.396094402Z","laatstOntvangen":"2023-05-04T12:41:16.396094402Z","productnummer":"2432","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/01d9776b-5c86-4770-aa50-75a055e6a4e1","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/0c0bba97-0e27-4547-94b8-5fdd4499576c"},{"id":"a5955950-71cf-452c-ae65-6fb922f69bba","generatedAtTime":"2023-05-04T12:41:16.110455Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Premie investeringssteun na uitvoering van een energieaudit in niet-residentiële gebouwen aangesloten op het plaatselijk vervoernet van elektriciteit"},"beschrijving":{"nl":"<p>Voor energiebesparende investeringen in niet-woongebouwen geeft Elia investeringssteun wanneer een energiestudie of energieaudit aantoont dat de investeringen een belangrijke energiebesparing opleveren en een terugverdientermijn hebben die langer is dan 2 jaar. Deze premie geldt enkel voor klanten van Elia, de beheerder van het plaatselijk vervoernet van elektriciteit.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Energiebesluit van 19 november 2010</p>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"creatie":"2023-03-24T06:45:09.903937172Z","laatstGewijzigd":"2023-05-04T12:41:16.016935399Z","laatstOntvangen":"2023-05-04T12:41:16.016935399Z","productnummer":"2431","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a5955950-71cf-452c-ae65-6fb922f69bba","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ddb1e07d-4d87-436f-963f-81fdfb1c9ba4"},{"id":"568b0ccd-2b98-4af7-ae3f-b2f4b4e80732","generatedAtTime":"2023-05-04T12:41:15.815274Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Premie voor investeringen na uitvoering van een energieaudit in niet-residentiële gebouwen"},"beschrijving":{"nl":"<p>Wie investeert in een gebouw wanneer een uitgevoerde energiestudie of energieaudit aantoont dat die investering een belangrijke energiebesparing oplevert in vergelijking met de bestaande situatie, kan hiervoor een premie krijgen. Deze premie is enkel voor klanten van elektriciteitsdistributienetbeheerders.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<div><div><p>Energiebesluit van 19 november 2010</p></div></div>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"creatie":"2023-03-24T06:45:09.776817819Z","laatstGewijzigd":"2023-05-04T12:41:15.795028124Z","laatstOntvangen":"2023-05-04T12:41:15.795028124Z","productnummer":"2430","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/568b0ccd-2b98-4af7-ae3f-b2f4b4e80732","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4791a62d-d7da-4f2b-aa94-2c3434a076eb"},{"id":"230b1dd3-2c80-43a6-8235-19b2cd75d530","generatedAtTime":"2023-05-04T12:41:15.556941Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Derden"],"naam":{"nl":"Premie voor relighting in niet-residentiële gebouwen"},"beschrijving":{"nl":"<p>Wie investeert in energiezuinige binnenverlichting van een niet-residentieel gebouw, kan hiervoor een premie krijgen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Energiebesluit van 19 november 2010</p>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<p>De premie geldt voor gebouwen andere dan woningen en appartementen:</p><ul><li>aangesloten op het elektriciteitsnet vóór 1 januari 2006</li><li>of waarvoor de omgevingsvergunning voor stedenbouwkundige handelingen werd aangevraagd vóór 1 januari 2006.</li></ul><p>Enkel facturen die maximaal 2 jaar oud zijn op het ogenblik van de premieaanvraag komen in aanmerking.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"creatie":"2023-03-24T06:45:09.644977975Z","laatstGewijzigd":"2023-05-04T12:41:15.539234718Z","laatstOntvangen":"2023-05-04T12:41:15.539234718Z","productnummer":"2428","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/230b1dd3-2c80-43a6-8235-19b2cd75d530","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cd07fddd-e78e-4af5-8bf1-e98ab1168805"},{"id":"9e51e8b4-2758-427b-959b-0afd7ce2dff8","generatedAtTime":"2023-05-04T12:41:15.315897Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie jongdementie woonzorgcentra"},"beschrijving":{"nl":"<p>Subsidie voor woonzorgcentra met een bijzondere erkenning voor de opvang van personen met jongdementie.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>"},"bevoegdeOverheden":[{"id":"OVO000059","@id":"OVO000059"}],"creatie":"2023-03-24T06:45:09.460096677Z","laatstGewijzigd":"2023-05-04T12:41:15.29799208Z","laatstOntvangen":"2023-05-04T12:41:15.29799208Z","productnummer":"2426","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9e51e8b4-2758-427b-959b-0afd7ce2dff8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4172b037-ce4c-4268-b65a-f7d3387482de"},{"id":"a175d271-d0b4-45e1-8d0e-43fb3353273d","generatedAtTime":"2023-05-04T12:41:15.034744Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Tegemoetkoming voor zorg woonzorgcentra en centra voor kortverblijf"},"beschrijving":{"nl":"<p>De woonzorgcentra, al dan niet met bijhorend centrum voor kortverblijf, kunnen per bewoner, per verblijfsdag de tegemoetkoming voor zorg factureren aan de zorgkas waarbij de bewoner in kwestie is aangesloten. Het agentschap Vlaamse Sociale Bescherming stelt hiervoor de nodige budgetten ter beschikking aan de zorgkassen.</p><p>Onder de tegemoetkoming voor zorg valt enerzijds de basistegemoetkoming voor zorg. Deze wordt bepaald op basis van het zorgprofiel van de bewoners en het aanwezige personeel in de voorziening in kwestie.</p><p>Daarnaast valt onder de tegemoetkoming voor zorg ook de tegemoetkoming in de kosten voor incontinentiemateriaal van zwaar zorgbehoevenden of van niet-afhankelijke personen.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>"},"bevoegdeOverheden":[{"id":"OVO000059","@id":"OVO000059"}],"creatie":"2023-03-24T06:45:09.315795521Z","laatstGewijzigd":"2023-05-04T12:41:15.016427014Z","laatstOntvangen":"2023-05-04T12:41:15.016427014Z","productnummer":"2424","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a175d271-d0b4-45e1-8d0e-43fb3353273d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4e0eb570-317b-45a5-8c64-8f298c9966e9"},{"id":"d906f1ce-5df2-4cee-a4f6-752bc0b1d837","generatedAtTime":"2023-05-04T12:41:14.805913Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Mijn VerbouwLening "},"beschrijving":{"nl":"<p>Naast de invoering van Mijn VerbouwPremie (vanaf 1 juli 2022), zult u vanaf 1 september ook de renteloze Mijn VerbouwLening tot 60.000 euro kunnen aanvragen via uw Energiehuis. Met deze lening kunnen renovaties gefinancierd worden die zowel focussen op woningkwaliteit als op het verbeteren van de energieprestatie. </p><p>De voorwaarden van Mijn VerbouwLening werden definitief goedgekeurd door de Vlaamse Regering op 8 juli 2022. </p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"websites":[{"naam":{"nl":"Mijn VerbouwLening "},"url":"https://www.vlaanderen.be/bouwen-wonen-en-energie/lenen/mijn-verbouwlening","@type":"Website","order":0}],"creatie":"2023-03-24T06:45:09.177651816Z","laatstGewijzigd":"2023-05-04T12:41:14.785204703Z","laatstOntvangen":"2023-05-04T12:41:14.785204703Z","productnummer":"2410","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d906f1ce-5df2-4cee-a4f6-752bc0b1d837","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/344a40b2-b2b9-4b8e-86a1-0fa06791e15f"},{"id":"474a4631-17d9-4797-96b6-eaaf98a0e279","generatedAtTime":"2023-05-04T12:41:14.556703Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Premie voor micro-WKK kleiner dan 10 kW (biogas)"},"beschrijving":{"nl":"<p>U kunt als eigenaar van de micro-warmtekrachtinstallatie een premie ontvangen voor uw investering.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","LokaalBestuur","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>De toekenning van premies voor kwalitatieve warmte-krachtinstallaties tot en met 10 kWe is bepaald in <a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019755&amp;param=inhoud&amp;AID=1233707\">artikel 7.10.1 van het Energiebesluit</a>.</p>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Alle voorwaarden moeten voldaan zijn om de premie te kunnen ontvangen, deze zijn:</p><ul><li>kwalitatieve warmte-krachtinstallatie met een volledig AREI-keuringsverslag</li><li>elektrisch vermogen kleiner dan 10 kW</li><li>brandstof is biogas </li><li>opgewekte warmte wordt nuttig gebruikt</li><li>ligt in het Vlaams Gewest</li><li>heeft een startdatum na 1 januari 2018.</li></ul><p><strong>Startdatum</strong>: Voor micro-warmtekrachtinstallatie <strong>zonder vergunningsplicht</strong> is de startdatum dezelfde als de <strong>datum indienstneming</strong>. Als er vergunningen voor het project nodig zijn, kan de startdatum de datum van de aanvraag zijn.</p><h3>Wie komt in aanmerking? </h3><ul><li>ondernemingen</li><li>natuurlijke personen</li><li>niet-commerciële instellingen zoals scholen, universiteiten, verzorgingsinstellingen en verenigingen zonder winstoogmerk</li><li>publiekrechtelijke rechtspersonen.</li></ul><h3>Aandachtspunten</h3><ul><li>De installatie mag pas in werking gaan, zodra de <strong>AREI-keuring uitgevoerd</strong> is.</li><li>Deze premie kan <strong>niet </strong>worden <strong>gecumuleerd </strong>met<ul><li>andere investeringssteun</li><li>groenestroomcertificaten</li><li>warmtekrachtcertificaten</li><li>groenewarmtecertificaten van de Vlaamse overheid voor dezelfde investering.</li></ul></li><li>Als het totale bedrag aan <strong>de-minimissteun</strong> dat aan de betrokken onderneming wordt verleend <strong>niet hoger</strong> ligt dan <strong>200.000 euro</strong> over een <strong>periode van 3 belastingjaren</strong>. Deze premie kan <strong>gecumuleerd </strong>worden met<ul><li>waarborgen verleend door de Vlaamse overheid</li><li>ecologiesteun.</li></ul></li></ul>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Het aanvragen van de premie is enkel mogelijk, als het <strong>type-installatie</strong> <strong>opgenomen </strong>is <strong>in de lijst erkende type micro-WKK-installatie kleiner dan 10 kW </strong>(zie tabel bij Bedrag).</p><h3>Aanmelding van het installatietype door fabrikant of installateur</h3><p>Deze aanmelding is eenmalig en moet enkel gebeuren als het type installatie niet opgenomen is in de tabel van de erkende type micro-WKK-installatie kleiner dan 10 kW. De <strong>aanmelding </strong>van een <strong>nieuw </strong>(nog niet erkend) <strong>type micro-WKK-installatie</strong> gebeurt best door de <strong>installateur </strong>of leverancier via het <a href=\"https://www.energiesparen.be/steun-micro-wkk\">online aanmeldingsformulier dat beschikbaar is op energiesparen.be</a>.</p><ul></ul><h3>Premie aanvragen door eigenaar</h3><p>De premie-aanvraag gebeurt in 1 stap en kan enkel online worden aangevraagd. U kan de aanvraagprocedure pas opstarten nadat</p><ul><li>de installatie in werking is</li><li>u in het bezit bent van de noodzakelijke documenten</li><li>het type installatie opgenomen is in de tabel van erkende types installaties.</li></ul><p>Het indienen van de aanvraag kan zodra u alle documenten verzameld heeft.</p><h4>Aanvraag van de premie voorbereiden</h4><p>Verzamel volgende documenten en zet deze om naar een pdf-bestand:</p><ul><li>volledig <strong>AREI-keuringsverslag</strong> met<ul><li>de <strong>datum </strong>van de keuring</li><li>info over de installatie:<ul><li><strong>merk </strong>en <strong>type</strong></li><li>het <strong>nominaal </strong>en <strong>maximaal vermogen </strong>uitgedrukt in kW/KVA</li><li>het <strong>serienummer</strong></li></ul></li><li><strong>EAN-nummer</strong> van de meter waarop de installatie is aangesloten</li><li>een door de keurder ondertekend <strong>eendraadschema</strong></li></ul></li><li><strong>foto </strong>van de <strong>kenplaat </strong>van de installatie waarop het <strong>serienummer </strong>duidelijk <strong>leesbaar </strong>is</li><li>scan van de <strong>bestelbon</strong></li><li>scan van de <strong>factuur </strong>en alle <strong>bewijsstukken </strong>van de <strong>totale kosten</strong></li><li>scan van het <strong>betalingsbewijs </strong>voor het <strong>volledige factuurbedrag</strong></li><li>duidelijke kopie van de <strong>identiteitskaart </strong>van de<ul><li>eigenaar van de installatie (privépersoon)</li><li>zaakvoerder (eigenaar is onderneming)</li><li>verantwoordelijke (eigenaar is niet-commerciële instelling of publiekrechtelijke rechtspersoon)</li></ul></li><li>een ondertekende <strong>machtiging </strong>of verklaring die bevestigt dat u de aanvraag mag indienen, als de eigenaar een<ul><li>onderneming</li><li>niet-commerciële instelling</li><li>of publiekrechtelijke rechtspersoon is.</li></ul></li></ul><h4>Aanvraag van de premie starten en indienen</h4><p>De premie aanvraag kan via het <a href=\"https://www.energiesparen.be/steun-micro-wkk\">online formulier voor de eigenaar dat beschikbaar is op energiesparen.be</a>.</p>"},"@type":"Procedure","order":0}],"financieleVoordelen":[{"beschrijving":{"nl":"<p>De premie wordt berekend op (een aandeel van) de in aanmerking komende kosten, en wordt afgetopt (4700 per kWe). </p><ul></ul><h3>Kosten die in aanmerking komen</h3><p>De kosten (exclusief btw) die rechtstreeks verbonden zijn aan de warmte-krachtinstallatie zelf, inclusief het vergistingsgedeelte. Deze kosten moeten aantoonbaar en noodzakelijk zijn voor de goede werking van de installatie.</p><p>Afhankelijk van de grootte van de onderneming, kan de premie <strong>beperkt </strong>worden tot een <strong>bepaald percentage</strong> van de in aanmerking komende kosten:</p><ul><li>65% voor kleine ondernemingen en aanvragers die geen onderneming zijn</li><li>55% voor middelgrote ondernemingen</li><li>45% voor grote ondernemingen.</li></ul><p>Het premiebedrag kan lager kan zijn dan het maximaal steunbedrag. Volgende <strong>type installaties</strong> zijn <strong>erkend </strong>en kunnen de premie aanvragen.</p><div data-table=\"\"><table data-table-type=\"grid\"><thead><tr><th>Merk (Fabrikant)</th><th>Type</th><th>Technologie</th><th>Brandstof</th><th><p>Elektrisch vermogen</p><p>in kWe</p></th><th><p>Maximaal steunbedrag</p><p>in euro</p></th></tr></thead><tbody><tr><td>Biolectric</td><td>10</td><td>interne verbrandingsmotor</td><td>biogas</td><td>9,7</td><td>45.590</td></tr><tr><td>Biotechnics Perkins</td><td>KVT E15SI</td><td>interne verbrandingsmotor</td><td>biogas</td><td>9,7</td><td>45.590</td></tr></tbody></table></div><p>Reden waarom type niet getoond wordt in de tabel:</p><ul><li>Komt <strong>niet</strong> in <strong>aanmerking </strong>voor de premie.</li><li>Is nog <strong>niet </strong>of <strong>recent aangemeld</strong>. Vraag bij uw installateur na of het type installatie reeds aangemeld werd. Van zodra het type installatie erkend is, wordt deze in bovenstaande tabel en het aanvraagformulier opgenomen.</li></ul><h4><strong>Voorbeelden berekening premie</strong></h4><p>Situatie: een grote onderneming is eigenaar van een warmte-krachtinstallatie op biogas, met een nominaal elektrisch vermogen van 9,7 kW. De installatie bestaat uit de warmte-krachtinstallatie, een vergistingstank, een stuureenheid en gasbehandelingsinstallatie. De maximale premie bedraagt 45.590 euro (= 4700 x 9,7).</p><ul><li><strong>Voorbeeld 1: </strong>De totale investeringskosten zijn 110.000 euro exclusief btw. De in aanmerking komende kosten is 49.500 euro (= 45% van 110.000).<br />De onderneming heeft recht op een ondersteuning van 45.590 euro (<strong>= bedrag maximale premie</strong>, de in aanmerking komende kosten werden <strong>afgetopt</strong>).</li><li><strong>Voorbeeld 2: </strong>De totale investeringskosten zijn 80.000 euro exclusief btw. De in aanmerking komende kosten bedraagt 36.000 euro (= 45% van 80.000).<br />De onderneming heeft recht op een ondersteuning van 36.000 euro (<strong>= bedrag</strong> van de in aanmerking komende <strong>kosten</strong>).</li></ul>"},"naam":{"nl":"Financieel voordeel"},"@type":"FinancieelVoordeel","order":0}],"creatie":"2023-03-24T06:45:09.051595399Z","laatstGewijzigd":"2023-05-04T12:41:14.476397336Z","laatstOntvangen":"2023-05-04T12:41:14.476397336Z","productnummer":"2524","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/474a4631-17d9-4797-96b6-eaaf98a0e279","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fe1d17d6-05ec-4ee5-916b-96560bc53e4e"},{"id":"9fd83f31-d06c-4ca1-9c37-59353cdf39c9","generatedAtTime":"2023-05-04T12:41:14.192185Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie verwerving"},"beschrijving":{"nl":"<p>De VMSW verstrekt onder bepaalde voorwaarden subsidie voor de aankoop van een onroerend goed voor projecten in de huursector.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decretale basis werd geschrapt n.a.v.<br />afschaffen sociale koop. Enkel nog afrekeningen.</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-03-24T06:45:08.799174827Z","laatstGewijzigd":"2023-05-04T12:41:14.174101913Z","laatstOntvangen":"2023-05-04T12:41:14.174101913Z","productnummer":"2396","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9fd83f31-d06c-4ca1-9c37-59353cdf39c9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ad3f63dd-73ff-46f1-8545-0121fa3e291b"},{"id":"808699f8-7c2e-430b-b4ab-05dd328f4f21","generatedAtTime":"2023-05-04T12:41:13.856828Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor sloop en infrastructuurwerken"},"beschrijving":{"nl":"<p>De VMSW ondersteunt initiatiefnemers financieel om:</p><ul><li>gronden bouwrijp te maken (o.a. stedenbouwkundige studies, archeologische prospecties en opgravingen)</li><li>infrastructuurwerken uit te voeren: de wegenuitrusting, de nutsvoorzieningen en de inrichtingen voor afvoer en zuivering van afvalwater</li><li>gemeenschapsvoorzieningen op te richten</li><li>aanpassingswerken aan de woomgeving uit te voeren.</li></ul>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, Boek 5, Deel 2, Titel 3<br />Besluit Vlaamse Codex Wonen van 2021, Boek 5, Deel 2, Titel 3</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-03-24T06:45:08.682912074Z","laatstGewijzigd":"2023-05-04T12:41:13.83808536Z","laatstOntvangen":"2023-05-04T12:41:13.83808536Z","productnummer":"2390","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/808699f8-7c2e-430b-b4ab-05dd328f4f21","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f8886016-bb1c-41dc-9946-c3bc5f558406"},{"id":"02e30e07-796e-43ce-92d1-04365a6efea9","generatedAtTime":"2023-05-04T12:41:13.601456Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Fusieondersteuning voor woonmaatschappijen"},"beschrijving":{"nl":"<p>Subsidie voor de eventuele nadelige financiële gevolgen voor een woonmaatschappij, ten gevolge van een herstructurering in de zin van boek 12 van het Wetboek van vennootschappen en verenigingen.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Wonen, art. 4.50<br />Besluit Vlaamse Codex Wonen, art. 4,156 t.e.m. art. 4,159</p>"},"bevoegdeOverheden":[{"id":"OVO000106","@id":"OVO000106"}],"creatie":"2023-03-24T06:45:08.548461958Z","laatstGewijzigd":"2023-05-04T12:41:13.583540024Z","laatstOntvangen":"2023-05-04T12:41:13.583540024Z","productnummer":"2388","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/02e30e07-796e-43ce-92d1-04365a6efea9","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7068a8bd-4fed-4977-84a7-b16dc625cfd6"},{"id":"00ef0f41-0e15-4fcc-bb74-f24c88709c8d","generatedAtTime":"2023-05-04T12:41:13.264801Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie cofinanciering bodemsanering"},"beschrijving":{"nl":"<p>Stimulans voor het uitvoeren van bodemsaneringswerken.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlarebo art. 54; MB 21 okt 2013 inzake cofinanciering van bodemsaneringswerken, gewijzigd bij MB 14 feb 2019</p>"},"bevoegdeOverheden":[{"id":"OVO000091","@id":"OVO000091"}],"creatie":"2023-03-24T06:45:08.427614498Z","laatstGewijzigd":"2023-05-04T12:41:13.246772265Z","laatstOntvangen":"2023-05-04T12:41:13.246772265Z","productnummer":"2377","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/00ef0f41-0e15-4fcc-bb74-f24c88709c8d","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/40bed781-c43a-46c4-9d4e-44e3a2965edf"},{"id":"5744514b-8294-49ff-88ab-ad45f37e3fed","generatedAtTime":"2023-05-04T12:41:12.902183Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies vanuit plattelandsbeleid"},"beschrijving":{"nl":"<p>uitvoering geven aan de strategische doelstellingen zoals vermeld in de beleidsnota Omgeving 2019 – 2024: ISE Plattelandsbeleid, 14.1 SD.1: een specifiek plattelandsbeleid – de plattelandsuitdagingen (ondersteuning van projecten en initiatieven i.k.v. geïntegreerd plattelandsbeleid, in uitvoering van het Regeerakkoord en de Beleidsnota 2019-2024)<br />Beschikbaar:<br />- Subsidie Buurten op de buiten: (De Koning Boudewijn Stichting organiseert met steun van VLM een oproep Buurten op den Buiten waarmee de realisatie van concrete kleinschalige projecten van bewoners van dorpen of landelijke buurten ondersteund worden. De projecten dragen beide aan de verbetering van de kwaliteit van het leven in een dorp of landelijke buurt en aan de bevordering van de contacten bevorderen tussen bewoners.);<br />'- De Vlaamse Vereniging voor Dorpsbelangen biedt aan bewonersgroepen begeleiding en ondersteuning voor een kwaliteitsvolle werking en aan lokale besturen ondersteuning in hun relatie met bewonersgroepen. Deze werking draagt bij aan een betere dorpsparticipatie, één van de speerpunten uit het Vlaamse dorpenbeleid.<br />- overige nog onbepaald</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Ministeriële besluiten:<br />beschikbaar:<br />-Het ministerieel besluit van 2022 houdende goedkeuring van de besteding van een deel van de aan de Vlaamse Landmaatschappij toegekende toelage plattelandsbeleid 2022 voor een projectsubsidie aan vzw Koning Boudewijnstichting in het kader van het geïntegreerd plattelandsbeleid<br />- Ministerieel besluit van 2022 houdende goedkeuring van de besteding van een deel van de aan de Vlaamse Landmaatschappij toegekende toelage plattelandsbeleid 2022 voor een projectsubsidie aan vzw Vlaamse Vereniging voor Dorpsbelangen in het kader van het geïntegreerd plattelandsbeleid</p><p>In de loop van 2022 bijkomende MB's</p>"},"bevoegdeOverheden":[{"id":"OVO000094","@id":"OVO000094"}],"creatie":"2023-03-24T06:45:08.317606842Z","laatstGewijzigd":"2023-05-04T12:41:12.883940885Z","laatstOntvangen":"2023-05-04T12:41:12.883940885Z","productnummer":"2364","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5744514b-8294-49ff-88ab-ad45f37e3fed","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7a3d128f-1cfe-49f6-b268-efca2b996fd1"},{"id":"612ad331-2aa7-442c-9e15-15ad44f15f4c","generatedAtTime":"2023-05-04T12:41:12.649203Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Premie asbestverwijdering in combinatie met zonnepanelen"},"beschrijving":{"nl":"<p>Wie investeert in het verwijderen van asbest in combinatie met het leggen van zonnepanelen op het dak van een niet-verwarmd niet-residentieel gebouw, kan hiervoor een premie krijgen van netbeheerder Fluvius.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Energiebesluit van 19 november 2010</p>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"creatie":"2023-03-24T06:45:08.205096056Z","laatstGewijzigd":"2023-05-04T12:41:12.631195912Z","laatstOntvangen":"2023-05-04T12:41:12.631195912Z","productnummer":"2359","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/612ad331-2aa7-442c-9e15-15ad44f15f4c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ade63c7e-ea93-4e00-be0f-eff4b07a55f8"},{"id":"5446b21e-c9f8-4124-93ea-1b02c4739808","generatedAtTime":"2023-05-04T12:41:12.315677Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Call groene stroom"},"beschrijving":{"nl":"<p>Als u investeert in groen stroom specifiek fotovoltaïsche zonnepanelen met een zekere grootte en/of voor een specifieke toepassing, én kleine en middelgrote windturbines,komt uw project mogelijks in aanmerking voor een investeringssubsidie. Per call worden de ontvankelijke investeringsprojectenbeoordeeld en gerangschikt op basis van het bod, met name de steunvraag per verwachte energieopbrengst van de installatie. Het beschikbare subsidiebedrag wordt verdeeld over de gunstig gerangschikte investeringsprojecten.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Energiedecreet van 8/05/2009: Decreet van 08/05/2009 houdende algemene bepalingen betreffende het energiebeleid</p><p>BVR 19/11/2010 houdende algemene bepalingen over het energiebeleid, art. 7.11.1, §1 (vanaf 2021 incl. PV)</p>"},"bevoegdeOverheden":[{"id":"OVO000090","@id":"OVO000090"}],"creatie":"2023-03-24T06:45:07.935949567Z","laatstGewijzigd":"2023-05-04T12:41:12.295230845Z","laatstOntvangen":"2023-05-04T12:41:12.295230845Z","productnummer":"2350","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5446b21e-c9f8-4124-93ea-1b02c4739808","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bf650ce8-fddd-4682-ad94-274061b97b20"},{"id":"07c05f4c-e41d-41e6-baa0-ccd4fbe3fef6","generatedAtTime":"2023-05-04T12:41:11.979299Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Erfgoedpremie via oproep (voor ingrijpende werken)"},"beschrijving":{"nl":"<p>Wilt u een erfgoedpremie aanvragen voor grote, uitgebreide beheers- of restauratiewerken aan beschermd onroerend erfgoed en passen de werken binnen het thema van een oproep, dan kunt u deelnemen aan die oproep. Er hangt geen maximumbedrag vast aan de erfgoedpremie via thematische oproep.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 12 juli 2013 - BVR van 16 mei 2014<br />Hoofdstuk 11 premies</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"websites":[{"naam":{"nl":"Erfgoedpremie via oproep"},"url":"https://www.onroerenderfgoed.be/erfgoedpremie-oproep","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:53.007634466Z","laatstGewijzigd":"2023-05-04T12:41:11.961491279Z","laatstOntvangen":"2023-05-04T12:41:11.961491279Z","productnummer":"2342","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/07c05f4c-e41d-41e6-baa0-ccd4fbe3fef6","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c0100718-1466-4b23-8c8e-19cd14d99147"},{"id":"eb6bb435-e3d1-4bfa-bbf6-58a516c37344","generatedAtTime":"2023-05-04T12:41:11.645926Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Aanvullende erfgoedpremie voor goed onderhoud"},"beschrijving":{"nl":"<p>Als u kunt aantonen dat u het erfgoed waarvoor u de erfgoedpremie vraagt de voorbije zes jaar zelf goed onderhouden hebt, dan kunt u een aanvullende premie van 10% aanvragen.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 11 - premies</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Enkel de aanvrager van de <a href=\"https://www.uat-vlaanderen.be/erfgoedpremie-voor-beschermde-monumenten-en-landschappen-standaardprocedure\">erfgoedpremie</a> die het erfgoed zelf gedurende zes jaar goed heeft onderhouden, kan de aanvullende premie aanvragen. Nieuwe eigenaars kunnen geen aanvullende premie aanvragen omdat ze het onderhoud niet zelf uitvoerden.</p><p>Goed onderhoud is een combinatie van regelmatige inspecties, preventieve acties en, indien nodig, herstellingswerken. Goed onderhoud betekent dat u regelmatig de toestand van uw erfgoed controleert of laat controleren op gebreken of schade. U maakt een toestandsrapport op of laat het opmaken, zodat u onderhoudswerken kunt gaan inplannen en uitvoeren.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"websites":[{"naam":{"nl":"Aanvullende erfgoedpremie voor goed onderhoud"},"url":"https://www.onroerenderfgoed.be/aanvullende-erfgoedpremie-voor-goed-onderhoud","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:52.890754956Z","laatstGewijzigd":"2023-05-04T12:41:11.627061494Z","laatstOntvangen":"2023-05-04T12:41:11.627061494Z","productnummer":"2341","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/eb6bb435-e3d1-4bfa-bbf6-58a516c37344","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/be2c0dbf-546a-4b72-ba80-979c924658f1"},{"id":"f80d6e76-0ec6-4c46-b00c-2795f2aec72e","generatedAtTime":"2023-05-04T12:41:11.227392Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Beheerspremie varend erfgoed"},"beschrijving":{"nl":"<p>Alle eigenaars en beheerders van beschermde vaartuigen kunnen aanspraak maken op een premie voor het beheer van het vaartuig. Zo wil de Vlaamse overheid hen ondersteunen om de erfgoedwaarde van het beschermd vaartuig te behouden. Eigenaars van niet-beschermd varend erfgoed dat enkel in de inventaris is opgenomen, kunnen geen premie aanvragen.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 29 maart 2002 tot bescherming van varend erfgoed en BVR 27 november 2015</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"procedures":[{"naam":{"nl":"Procedure"},"beschrijving":{"nl":"<p>Alle maatregelen die het behoud van de erfgoedwaarden van beschermd varend erfgoed nastreven, komen in aanmerking voor een beheerspremie, op voorwaarde dat ze zijn opgenomen in een goedgekeurde beheersprogramma. Ook maatregelen voor het actief in de vaart houden, het terug varend of het drijvend maken van het beschermde vaartuig komen in aanmerking.</p><p>Op de website van Onroerend Erfgoed vindt u <a href=\"https://www.onroerenderfgoed.be/beheerspremie-varend-erfgoed\">alle info en voorwaarden van de beheerspremie voor varend erfgoed</a>.</p>"},"@type":"Procedure","order":0}],"creatie":"2023-03-24T06:40:52.54851702Z","laatstGewijzigd":"2023-05-04T12:41:11.208546486Z","laatstOntvangen":"2023-05-04T12:41:11.208546486Z","productnummer":"2340","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f80d6e76-0ec6-4c46-b00c-2795f2aec72e","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/85ed6c40-70ce-4053-b3a6-e32af1ea90ed"},{"id":"0aaf31e2-3456-4d35-9d4b-fe46361508b4","generatedAtTime":"2023-05-04T12:41:10.905839Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie erkende, archeologische solidariteitsfondsen"},"beschrijving":{"nl":"<p>Elke groepering van initiatiefnemers van bouw- of verkavelingsprojecten kan een archeologisch solidariteitsfonds oprichten. Deze fondsen vergoeden hun leden mits betaling van een bijdrage voor een deel van de kosten van alle archeologische opgravingen waartoe zij verplicht worden. Om erkend te worden moet een fonds een overeenkomst sluiten met de minister. Daarin staan onder meer de berekeningswijze van de ledenbijdrage, de voorwaarden voor de uitkering van vergoedingen, de doelstellingen en doelgroep van het fonds.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 11 - premies</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"websites":[{"naam":{"nl":"Archeologiefondsen"},"url":"https://www.onroerenderfgoed.be/archeologiefondsen","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:52.388058502Z","laatstGewijzigd":"2023-05-04T12:41:10.795843376Z","laatstOntvangen":"2023-05-04T12:41:10.795843376Z","productnummer":"2338","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0aaf31e2-3456-4d35-9d4b-fe46361508b4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/efee556f-6b41-4c0b-a912-366b08590244"},{"id":"f423a339-780b-4dec-97a7-638433fb970a","generatedAtTime":"2023-05-04T12:41:10.548221Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Projectsubsidie voor archeologisch vervolgonderzoek"},"beschrijving":{"nl":"<p>Archeologisch vervolgonderzoek is een essentieel onderdeel van de archeologische erfgoedzorg, niet alleen om nieuwe historische kennis te ontwikkelen, maar ook voor een afgestemd erfgoedbeheer en een kwaliteitsvolle ontsluiting van het archeologisch erfgoed dat uiteindelijk ook het publieke draagvlak moet blijven stimuleren. De studie na het vele graafwerk blijft in de praktijk vaak beperkt tot het niveau van de vindplaats, maar mist op die manier het bredere plaatje, de diepgang en de gedetailleerde uitwerking die tot echt nieuwe kennis over het verleden leiden. En daar zit het publiek natuurlijk net op te wachten.</p><p>Extra onderzoeksstappen vergen extra middelen, die niet op de bouwheer, projectontwikkelaar of landbouwer kunnen verhaald worden. Daarom is er vanaf 2018 jaarlijks een budget voor projectsubsidies voor archeologisch vervolgonderzoek.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 10 - subsidies</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"websites":[{"naam":{"nl":"Projectsubsidies voor synthese-onderzoek"},"url":"https://www.onroerenderfgoed.be/projectsubsidies-voor-synthese-onderzoek","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:52.273036214Z","laatstGewijzigd":"2023-05-04T12:41:10.529356441Z","laatstOntvangen":"2023-05-04T12:41:10.529356441Z","productnummer":"2337","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f423a339-780b-4dec-97a7-638433fb970a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/51b3246c-6741-4bb4-8b64-c5fe54f9a66f"},{"id":"bbbd0fde-53fa-444c-b3bb-ec91aca088c0","generatedAtTime":"2023-05-04T12:41:10.20872Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie erkende onroerenderfgoeddepots"},"beschrijving":{"nl":"<p>Een erkend onroerenderfgoeddepot geldt als een bewaarplaats met een onderzoekersruimte waar in aangepaste gecontroleerde omstandigheden archeologische ensembles, archeologische artefacten of onderdelen van beschermd erfgoed uit het Vlaamse Gewest worden bewaard en beheerd. Het bewaart dus meer dan archeologische vondsten. Het kan bijvoorbeeld ook (tijdelijk) losse onderdelen van een monument bewaren tijdens een langdurige restauratiecampagne.</p><p>Om in aanmerking te komen voor een subsidie gelden, naast de erkenning, een aantal bijkomende voorwaarden zoals een receptieve functie van gemeentegrensoverschrijdend belang vervullen. Om een subsidie te genieten voor de ondersteuning van de werkingskosten sluit het depot een samenwerkingsovereenkomst af met het agentschap Onroerend Erfgoed. De overeenkomst heeft een looptijd van zes jaar en wordt na drie jaar tussentijds geëvalueerd.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 10 - subsidies</p>"},"bevoegdeOverheden":[{"id":"OVO000104","@id":"OVO000104"}],"websites":[{"naam":{"nl":"Onroerenderfgoeddepots"},"url":"https://www.onroerenderfgoed.be/ik-werk-voor-een-onroerenderfgoeddepot","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:52.149746354Z","laatstGewijzigd":"2023-05-04T12:41:10.190365865Z","laatstOntvangen":"2023-05-04T12:41:10.190365865Z","productnummer":"2335","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bbbd0fde-53fa-444c-b3bb-ec91aca088c0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/6417ae76-66ae-45e2-be5d-fac9f0113bc7"},{"id":"b046836e-27e4-4282-bb9a-b0807130c6ae","generatedAtTime":"2023-05-04T12:41:09.829212Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor tewerkstelling VIA-akkoorden"},"beschrijving":{"nl":"<p>Subsidie voor loonkosten en eindejaarspremie<br />van werknemers bij milieu- en natuurverenigingen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>geen BVR</p><p>Vlaams akkoord voor de social-profit/non-profit van 6 juni 2005;<br />Vierde Vlaams Intersectoraal Akkoord voor de social-/non-profitsectoren voor de periode 2011 tot 2015 van 2 december 2011;</p>"},"bevoegdeOverheden":[{"id":"OVO003323","@id":"OVO003323"}],"creatie":"2023-03-24T06:40:52.021860204Z","laatstGewijzigd":"2023-05-04T12:41:09.811278677Z","laatstOntvangen":"2023-05-04T12:41:09.811278677Z","productnummer":"2329","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b046836e-27e4-4282-bb9a-b0807130c6ae","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/85c5b830-e942-4c79-8c26-dba1a3e326fc"},{"id":"3a4a5ff8-e0bc-4943-b618-4c4fc2931f23","generatedAtTime":"2023-05-04T12:41:09.547119Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor tewerkstelling DAC-statuut bij milieu- en natuurverenigingen"},"beschrijving":{"nl":"<p>Subsidie voor loonkost van DAC tewerkstellingsplaatsen bij milieu- en natuurverenigingen.</p>"},"type":"FinancieelVoordeel","themas":["MilieuEnergie"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>BVR 19/10/2012 tot wijziging van het BVR 14/05/2004 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut, wat betreft de delegatie voor het toekennen van de subsidie en het verloop van de procedure voor het toekennen ervan</p>"},"bevoegdeOverheden":[{"id":"OVO003323","@id":"OVO003323"}],"creatie":"2023-03-24T06:40:51.904118166Z","laatstGewijzigd":"2023-05-04T12:41:09.528807108Z","laatstOntvangen":"2023-05-04T12:41:09.528807108Z","productnummer":"2324","gearchiveerd":true,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3a4a5ff8-e0bc-4943-b618-4c4fc2931f23","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/354ee4f5-1a67-4707-b8bc-f6580ba26a66"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=66",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=67",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-04T12:41:16.958372Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=65",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-04T12:41:09.547119Z",
+        "@type": "LessThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=66",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "cecf5789-7249-470f-896d-6a181c577785",
+      "generatedAtTime": "2023-05-04T12:41:16.958372Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Gendergerelateerd geweld"
+      },
+      "beschrijving": {
+        "nl": "<p>Onder gendergerelateerd geweld vallen drie kernzaken:</p><p>- ketenaanpak intrafamilaal geweld = De Ketenaanpak Intrafamiliaal Geweld is een samenwerking tussen politie en parket, hulpverlening en bestuur. Door samen te werken pakken ze intrafamiliaal geweld op een <strong>multidisciplinaire manier</strong> aan. </p><p>- Vlaams actieplan seksueel geweld = Het Vlaams actieplan seksueel geweld wil de noden van slachtoffers van seksueel geweld beantwoorden en nieuwe slachtoffers voorkomen. Het plan zet in op preventie en gepaste maatregelen voor daders en slachtoffers. Daarnaast investeert het in kwaliteitsvolle hulpverlening.</p><p>- erkennings -en bemiddelingscommissie historisch misbruik = De erkennings- en bemiddelingscommissie historisch misbruik geeft slachtoffers van geweld en misbruik erkenning voor wat hen werd aangedaan. Het gaat om gevallen van misbruik die minstens 10 jaar geleden plaatsvonden.</p><p><a href=\"https://www.vlaanderen.be/agentschap-justitie-en-handhaving/justitie/gendergerelateerd-geweld\">Meer info</a> op de website van agentschap J&amp;H</p>"
+      },
+      "type": "AdviesBegeleiding",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO049871",
+          "@id": "OVO049871"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:10.313597021Z",
+      "laatstGewijzigd": "2023-05-04T12:41:16.940286326Z",
+      "laatstOntvangen": "2023-05-04T12:41:16.940286326Z",
+      "productnummer": "2451",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/cecf5789-7249-470f-896d-6a181c577785",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/70307156-39c6-46ad-9ce0-dfb430e99e68"
+    },
+    {
+      "id": "f51d69f6-8aa6-4387-b4f0-5f8155ebc715",
+      "generatedAtTime": "2023-05-04T12:41:16.705619Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies en werkingsmiddelen voor internationale samenwerking"
+      },
+      "beschrijving": {
+        "nl": "<p>Lidgelden voor internationale netwerken, deelname aan internationale beurzen, allerhande projectfinanciering...</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk",
+        "OnderwijsWetenschap"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000038",
+          "@id": "OVO000038"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:10.165089231Z",
+      "laatstGewijzigd": "2023-05-04T12:41:16.687855016Z",
+      "laatstOntvangen": "2023-05-04T12:41:16.687855016Z",
+      "productnummer": "2443",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f51d69f6-8aa6-4387-b4f0-5f8155ebc715",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/1dedb0b8-3ce4-47e4-8265-2fd613e6bc8f"
+    },
+    {
+      "id": "01d9776b-5c86-4770-aa50-75a055e6a4e1",
+      "generatedAtTime": "2023-05-04T12:41:16.414208Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "De woonmeter "
+      },
+      "beschrijving": {
+        "nl": "<p>De woonmeter is een thermo- en hygrometer met uitleg over correct verwarmen en verluchten. Dit helpt om energie te besparen en schimmel in de woning te vermijden. Het instrument werd ontwikkeld door SAAMO, en wordt gebruikt tijdens een energiescan, woon-en budgetbegeleiding of lokale klimaatacties.</p>"
+      },
+      "type": "Voorwerp",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "LokaalBestuur"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De woonmeter zit standaard in het energiebesparingspakket dat personen krijgen tijdens een energiescan. Ook lokale overheden kunnen woonmeters bestellen voor een project rond energiebesparing en woningkwaliteit. Meer informatie is te vinden op de website van de woonmeter. </p><p> </p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>De woonmeter geeft informatie over de temperatuur en de luchtvochtigheid in de woning. U kunt ermee zien of de kamer waarin de woonmeter staat te koud, te warm of te vochtig is. Deze informatie wordt ook getoond aan de hand van icoontjes. </p><p>In veel gevallen kunt u de situatie zelf verbeteren door bijvoorbeeld een raam te openen of de verwarming hoger of lager te zetten. Als dit niet lukt, zijn er misschien investeringen nodig aan uw woning. </p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "De woonmeter "
+          },
+          "url": "https://www.woonmeter.be/index.html",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "kosten": [
+        {
+          "beschrijving": {
+            "nl": "<p>De woonmeter is altijd gratis. </p>"
+          },
+          "naam": {
+            "nl": "Kost"
+          },
+          "@type": "Kost",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:45:10.040959046Z",
+      "laatstGewijzigd": "2023-05-04T12:41:16.396094402Z",
+      "laatstOntvangen": "2023-05-04T12:41:16.396094402Z",
+      "productnummer": "2432",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/01d9776b-5c86-4770-aa50-75a055e6a4e1",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/0c0bba97-0e27-4547-94b8-5fdd4499576c"
+    },
+    {
+      "id": "a5955950-71cf-452c-ae65-6fb922f69bba",
+      "generatedAtTime": "2023-05-04T12:41:16.110455Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Premie investeringssteun na uitvoering van een energieaudit in niet-residentiële gebouwen aangesloten op het plaatselijk vervoernet van elektriciteit"
+      },
+      "beschrijving": {
+        "nl": "<p>Voor energiebesparende investeringen in niet-woongebouwen geeft Elia investeringssteun wanneer een energiestudie of energieaudit aantoont dat de investeringen een belangrijke energiebesparing opleveren en een terugverdientermijn hebben die langer is dan 2 jaar. Deze premie geldt enkel voor klanten van Elia, de beheerder van het plaatselijk vervoernet van elektriciteit.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Energiebesluit van 19 november 2010</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:09.903937172Z",
+      "laatstGewijzigd": "2023-05-04T12:41:16.016935399Z",
+      "laatstOntvangen": "2023-05-04T12:41:16.016935399Z",
+      "productnummer": "2431",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a5955950-71cf-452c-ae65-6fb922f69bba",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ddb1e07d-4d87-436f-963f-81fdfb1c9ba4"
+    },
+    {
+      "id": "568b0ccd-2b98-4af7-ae3f-b2f4b4e80732",
+      "generatedAtTime": "2023-05-04T12:41:15.815274Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Premie voor investeringen na uitvoering van een energieaudit in niet-residentiële gebouwen"
+      },
+      "beschrijving": {
+        "nl": "<p>Wie investeert in een gebouw wanneer een uitgevoerde energiestudie of energieaudit aantoont dat die investering een belangrijke energiebesparing oplevert in vergelijking met de bestaande situatie, kan hiervoor een premie krijgen. Deze premie is enkel voor klanten van elektriciteitsdistributienetbeheerders.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<div><div><p>Energiebesluit van 19 november 2010</p></div></div>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:09.776817819Z",
+      "laatstGewijzigd": "2023-05-04T12:41:15.795028124Z",
+      "laatstOntvangen": "2023-05-04T12:41:15.795028124Z",
+      "productnummer": "2430",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/568b0ccd-2b98-4af7-ae3f-b2f4b4e80732",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4791a62d-d7da-4f2b-aa94-2c3434a076eb"
+    },
+    {
+      "id": "230b1dd3-2c80-43a6-8235-19b2cd75d530",
+      "generatedAtTime": "2023-05-04T12:41:15.556941Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Derden"
+      ],
+      "naam": {
+        "nl": "Premie voor relighting in niet-residentiële gebouwen"
+      },
+      "beschrijving": {
+        "nl": "<p>Wie investeert in energiezuinige binnenverlichting van een niet-residentieel gebouw, kan hiervoor een premie krijgen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Energiebesluit van 19 november 2010</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>De premie geldt voor gebouwen andere dan woningen en appartementen:</p><ul><li>aangesloten op het elektriciteitsnet vóór 1 januari 2006</li><li>of waarvoor de omgevingsvergunning voor stedenbouwkundige handelingen werd aangevraagd vóór 1 januari 2006.</li></ul><p>Enkel facturen die maximaal 2 jaar oud zijn op het ogenblik van de premieaanvraag komen in aanmerking.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:45:09.644977975Z",
+      "laatstGewijzigd": "2023-05-04T12:41:15.539234718Z",
+      "laatstOntvangen": "2023-05-04T12:41:15.539234718Z",
+      "productnummer": "2428",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/230b1dd3-2c80-43a6-8235-19b2cd75d530",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cd07fddd-e78e-4af5-8bf1-e98ab1168805"
+    },
+    {
+      "id": "9e51e8b4-2758-427b-959b-0afd7ce2dff8",
+      "generatedAtTime": "2023-05-04T12:41:15.315897Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie jongdementie woonzorgcentra"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor woonzorgcentra met een bijzondere erkenning voor de opvang van personen met jongdementie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000059",
+          "@id": "OVO000059"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:09.460096677Z",
+      "laatstGewijzigd": "2023-05-04T12:41:15.29799208Z",
+      "laatstOntvangen": "2023-05-04T12:41:15.29799208Z",
+      "productnummer": "2426",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9e51e8b4-2758-427b-959b-0afd7ce2dff8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4172b037-ce4c-4268-b65a-f7d3387482de"
+    },
+    {
+      "id": "a175d271-d0b4-45e1-8d0e-43fb3353273d",
+      "generatedAtTime": "2023-05-04T12:41:15.034744Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Tegemoetkoming voor zorg woonzorgcentra en centra voor kortverblijf"
+      },
+      "beschrijving": {
+        "nl": "<p>De woonzorgcentra, al dan niet met bijhorend centrum voor kortverblijf, kunnen per bewoner, per verblijfsdag de tegemoetkoming voor zorg factureren aan de zorgkas waarbij de bewoner in kwestie is aangesloten. Het agentschap Vlaamse Sociale Bescherming stelt hiervoor de nodige budgetten ter beschikking aan de zorgkassen.</p><p>Onder de tegemoetkoming voor zorg valt enerzijds de basistegemoetkoming voor zorg. Deze wordt bepaald op basis van het zorgprofiel van de bewoners en het aanwezige personeel in de voorziening in kwestie.</p><p>Daarnaast valt onder de tegemoetkoming voor zorg ook de tegemoetkoming in de kosten voor incontinentiemateriaal van zwaar zorgbehoevenden of van niet-afhankelijke personen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000059",
+          "@id": "OVO000059"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:09.315795521Z",
+      "laatstGewijzigd": "2023-05-04T12:41:15.016427014Z",
+      "laatstOntvangen": "2023-05-04T12:41:15.016427014Z",
+      "productnummer": "2424",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a175d271-d0b4-45e1-8d0e-43fb3353273d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4e0eb570-317b-45a5-8c64-8f298c9966e9"
+    },
+    {
+      "id": "d906f1ce-5df2-4cee-a4f6-752bc0b1d837",
+      "generatedAtTime": "2023-05-04T12:41:14.805913Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Mijn VerbouwLening "
+      },
+      "beschrijving": {
+        "nl": "<p>Naast de invoering van Mijn VerbouwPremie (vanaf 1 juli 2022), zult u vanaf 1 september ook de renteloze Mijn VerbouwLening tot 60.000 euro kunnen aanvragen via uw Energiehuis. Met deze lening kunnen renovaties gefinancierd worden die zowel focussen op woningkwaliteit als op het verbeteren van de energieprestatie. </p><p>De voorwaarden van Mijn VerbouwLening werden definitief goedgekeurd door de Vlaamse Regering op 8 juli 2022. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Mijn VerbouwLening "
+          },
+          "url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/lenen/mijn-verbouwlening",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:45:09.177651816Z",
+      "laatstGewijzigd": "2023-05-04T12:41:14.785204703Z",
+      "laatstOntvangen": "2023-05-04T12:41:14.785204703Z",
+      "productnummer": "2410",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d906f1ce-5df2-4cee-a4f6-752bc0b1d837",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/344a40b2-b2b9-4b8e-86a1-0fa06791e15f"
+    },
+    {
+      "id": "474a4631-17d9-4797-96b6-eaaf98a0e279",
+      "generatedAtTime": "2023-05-04T12:41:14.556703Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Premie voor micro-WKK kleiner dan 10 kW (biogas)"
+      },
+      "beschrijving": {
+        "nl": "<p>U kunt als eigenaar van de micro-warmtekrachtinstallatie een premie ontvangen voor uw investering.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "LokaalBestuur",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>De toekenning van premies voor kwalitatieve warmte-krachtinstallaties tot en met 10 kWe is bepaald in <a href=\"https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019755&amp;param=inhoud&amp;AID=1233707\">artikel 7.10.1 van het Energiebesluit</a>.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Alle voorwaarden moeten voldaan zijn om de premie te kunnen ontvangen, deze zijn:</p><ul><li>kwalitatieve warmte-krachtinstallatie met een volledig AREI-keuringsverslag</li><li>elektrisch vermogen kleiner dan 10 kW</li><li>brandstof is biogas </li><li>opgewekte warmte wordt nuttig gebruikt</li><li>ligt in het Vlaams Gewest</li><li>heeft een startdatum na 1 januari 2018.</li></ul><p><strong>Startdatum</strong>: Voor micro-warmtekrachtinstallatie <strong>zonder vergunningsplicht</strong> is de startdatum dezelfde als de <strong>datum indienstneming</strong>. Als er vergunningen voor het project nodig zijn, kan de startdatum de datum van de aanvraag zijn.</p><h3>Wie komt in aanmerking? </h3><ul><li>ondernemingen</li><li>natuurlijke personen</li><li>niet-commerciële instellingen zoals scholen, universiteiten, verzorgingsinstellingen en verenigingen zonder winstoogmerk</li><li>publiekrechtelijke rechtspersonen.</li></ul><h3>Aandachtspunten</h3><ul><li>De installatie mag pas in werking gaan, zodra de <strong>AREI-keuring uitgevoerd</strong> is.</li><li>Deze premie kan <strong>niet </strong>worden <strong>gecumuleerd </strong>met<ul><li>andere investeringssteun</li><li>groenestroomcertificaten</li><li>warmtekrachtcertificaten</li><li>groenewarmtecertificaten van de Vlaamse overheid voor dezelfde investering.</li></ul></li><li>Als het totale bedrag aan <strong>de-minimissteun</strong> dat aan de betrokken onderneming wordt verleend <strong>niet hoger</strong> ligt dan <strong>200.000 euro</strong> over een <strong>periode van 3 belastingjaren</strong>. Deze premie kan <strong>gecumuleerd </strong>worden met<ul><li>waarborgen verleend door de Vlaamse overheid</li><li>ecologiesteun.</li></ul></li></ul>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Het aanvragen van de premie is enkel mogelijk, als het <strong>type-installatie</strong> <strong>opgenomen </strong>is <strong>in de lijst erkende type micro-WKK-installatie kleiner dan 10 kW </strong>(zie tabel bij Bedrag).</p><h3>Aanmelding van het installatietype door fabrikant of installateur</h3><p>Deze aanmelding is eenmalig en moet enkel gebeuren als het type installatie niet opgenomen is in de tabel van de erkende type micro-WKK-installatie kleiner dan 10 kW. De <strong>aanmelding </strong>van een <strong>nieuw </strong>(nog niet erkend) <strong>type micro-WKK-installatie</strong> gebeurt best door de <strong>installateur </strong>of leverancier via het <a href=\"https://www.energiesparen.be/steun-micro-wkk\">online aanmeldingsformulier dat beschikbaar is op energiesparen.be</a>.</p><ul></ul><h3>Premie aanvragen door eigenaar</h3><p>De premie-aanvraag gebeurt in 1 stap en kan enkel online worden aangevraagd. U kan de aanvraagprocedure pas opstarten nadat</p><ul><li>de installatie in werking is</li><li>u in het bezit bent van de noodzakelijke documenten</li><li>het type installatie opgenomen is in de tabel van erkende types installaties.</li></ul><p>Het indienen van de aanvraag kan zodra u alle documenten verzameld heeft.</p><h4>Aanvraag van de premie voorbereiden</h4><p>Verzamel volgende documenten en zet deze om naar een pdf-bestand:</p><ul><li>volledig <strong>AREI-keuringsverslag</strong> met<ul><li>de <strong>datum </strong>van de keuring</li><li>info over de installatie:<ul><li><strong>merk </strong>en <strong>type</strong></li><li>het <strong>nominaal </strong>en <strong>maximaal vermogen </strong>uitgedrukt in kW/KVA</li><li>het <strong>serienummer</strong></li></ul></li><li><strong>EAN-nummer</strong> van de meter waarop de installatie is aangesloten</li><li>een door de keurder ondertekend <strong>eendraadschema</strong></li></ul></li><li><strong>foto </strong>van de <strong>kenplaat </strong>van de installatie waarop het <strong>serienummer </strong>duidelijk <strong>leesbaar </strong>is</li><li>scan van de <strong>bestelbon</strong></li><li>scan van de <strong>factuur </strong>en alle <strong>bewijsstukken </strong>van de <strong>totale kosten</strong></li><li>scan van het <strong>betalingsbewijs </strong>voor het <strong>volledige factuurbedrag</strong></li><li>duidelijke kopie van de <strong>identiteitskaart </strong>van de<ul><li>eigenaar van de installatie (privépersoon)</li><li>zaakvoerder (eigenaar is onderneming)</li><li>verantwoordelijke (eigenaar is niet-commerciële instelling of publiekrechtelijke rechtspersoon)</li></ul></li><li>een ondertekende <strong>machtiging </strong>of verklaring die bevestigt dat u de aanvraag mag indienen, als de eigenaar een<ul><li>onderneming</li><li>niet-commerciële instelling</li><li>of publiekrechtelijke rechtspersoon is.</li></ul></li></ul><h4>Aanvraag van de premie starten en indienen</h4><p>De premie aanvraag kan via het <a href=\"https://www.energiesparen.be/steun-micro-wkk\">online formulier voor de eigenaar dat beschikbaar is op energiesparen.be</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "financieleVoordelen": [
+        {
+          "beschrijving": {
+            "nl": "<p>De premie wordt berekend op (een aandeel van) de in aanmerking komende kosten, en wordt afgetopt (4700 per kWe). </p><ul></ul><h3>Kosten die in aanmerking komen</h3><p>De kosten (exclusief btw) die rechtstreeks verbonden zijn aan de warmte-krachtinstallatie zelf, inclusief het vergistingsgedeelte. Deze kosten moeten aantoonbaar en noodzakelijk zijn voor de goede werking van de installatie.</p><p>Afhankelijk van de grootte van de onderneming, kan de premie <strong>beperkt </strong>worden tot een <strong>bepaald percentage</strong> van de in aanmerking komende kosten:</p><ul><li>65% voor kleine ondernemingen en aanvragers die geen onderneming zijn</li><li>55% voor middelgrote ondernemingen</li><li>45% voor grote ondernemingen.</li></ul><p>Het premiebedrag kan lager kan zijn dan het maximaal steunbedrag. Volgende <strong>type installaties</strong> zijn <strong>erkend </strong>en kunnen de premie aanvragen.</p><div data-table=\"\"><table data-table-type=\"grid\"><thead><tr><th>Merk (Fabrikant)</th><th>Type</th><th>Technologie</th><th>Brandstof</th><th><p>Elektrisch vermogen</p><p>in kWe</p></th><th><p>Maximaal steunbedrag</p><p>in euro</p></th></tr></thead><tbody><tr><td>Biolectric</td><td>10</td><td>interne verbrandingsmotor</td><td>biogas</td><td>9,7</td><td>45.590</td></tr><tr><td>Biotechnics Perkins</td><td>KVT E15SI</td><td>interne verbrandingsmotor</td><td>biogas</td><td>9,7</td><td>45.590</td></tr></tbody></table></div><p>Reden waarom type niet getoond wordt in de tabel:</p><ul><li>Komt <strong>niet</strong> in <strong>aanmerking </strong>voor de premie.</li><li>Is nog <strong>niet </strong>of <strong>recent aangemeld</strong>. Vraag bij uw installateur na of het type installatie reeds aangemeld werd. Van zodra het type installatie erkend is, wordt deze in bovenstaande tabel en het aanvraagformulier opgenomen.</li></ul><h4><strong>Voorbeelden berekening premie</strong></h4><p>Situatie: een grote onderneming is eigenaar van een warmte-krachtinstallatie op biogas, met een nominaal elektrisch vermogen van 9,7 kW. De installatie bestaat uit de warmte-krachtinstallatie, een vergistingstank, een stuureenheid en gasbehandelingsinstallatie. De maximale premie bedraagt 45.590 euro (= 4700 x 9,7).</p><ul><li><strong>Voorbeeld 1: </strong>De totale investeringskosten zijn 110.000 euro exclusief btw. De in aanmerking komende kosten is 49.500 euro (= 45% van 110.000).<br />De onderneming heeft recht op een ondersteuning van 45.590 euro (<strong>= bedrag maximale premie</strong>, de in aanmerking komende kosten werden <strong>afgetopt</strong>).</li><li><strong>Voorbeeld 2: </strong>De totale investeringskosten zijn 80.000 euro exclusief btw. De in aanmerking komende kosten bedraagt 36.000 euro (= 45% van 80.000).<br />De onderneming heeft recht op een ondersteuning van 36.000 euro (<strong>= bedrag</strong> van de in aanmerking komende <strong>kosten</strong>).</li></ul>"
+          },
+          "naam": {
+            "nl": "Financieel voordeel"
+          },
+          "@type": "FinancieelVoordeel",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:45:09.051595399Z",
+      "laatstGewijzigd": "2023-05-04T12:41:14.476397336Z",
+      "laatstOntvangen": "2023-05-04T12:41:14.476397336Z",
+      "productnummer": "2524",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/474a4631-17d9-4797-96b6-eaaf98a0e279",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fe1d17d6-05ec-4ee5-916b-96560bc53e4e"
+    },
+    {
+      "id": "9fd83f31-d06c-4ca1-9c37-59353cdf39c9",
+      "generatedAtTime": "2023-05-04T12:41:14.192185Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie verwerving"
+      },
+      "beschrijving": {
+        "nl": "<p>De VMSW verstrekt onder bepaalde voorwaarden subsidie voor de aankoop van een onroerend goed voor projecten in de huursector.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decretale basis werd geschrapt n.a.v.<br />afschaffen sociale koop. Enkel nog afrekeningen.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:08.799174827Z",
+      "laatstGewijzigd": "2023-05-04T12:41:14.174101913Z",
+      "laatstOntvangen": "2023-05-04T12:41:14.174101913Z",
+      "productnummer": "2396",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9fd83f31-d06c-4ca1-9c37-59353cdf39c9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ad3f63dd-73ff-46f1-8545-0121fa3e291b"
+    },
+    {
+      "id": "808699f8-7c2e-430b-b4ab-05dd328f4f21",
+      "generatedAtTime": "2023-05-04T12:41:13.856828Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor sloop en infrastructuurwerken"
+      },
+      "beschrijving": {
+        "nl": "<p>De VMSW ondersteunt initiatiefnemers financieel om:</p><ul><li>gronden bouwrijp te maken (o.a. stedenbouwkundige studies, archeologische prospecties en opgravingen)</li><li>infrastructuurwerken uit te voeren: de wegenuitrusting, de nutsvoorzieningen en de inrichtingen voor afvoer en zuivering van afvalwater</li><li>gemeenschapsvoorzieningen op te richten</li><li>aanpassingswerken aan de woomgeving uit te voeren.</li></ul>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, Boek 5, Deel 2, Titel 3<br />Besluit Vlaamse Codex Wonen van 2021, Boek 5, Deel 2, Titel 3</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:08.682912074Z",
+      "laatstGewijzigd": "2023-05-04T12:41:13.83808536Z",
+      "laatstOntvangen": "2023-05-04T12:41:13.83808536Z",
+      "productnummer": "2390",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/808699f8-7c2e-430b-b4ab-05dd328f4f21",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f8886016-bb1c-41dc-9946-c3bc5f558406"
+    },
+    {
+      "id": "02e30e07-796e-43ce-92d1-04365a6efea9",
+      "generatedAtTime": "2023-05-04T12:41:13.601456Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Fusieondersteuning voor woonmaatschappijen"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor de eventuele nadelige financiële gevolgen voor een woonmaatschappij, ten gevolge van een herstructurering in de zin van boek 12 van het Wetboek van vennootschappen en verenigingen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Wonen, art. 4.50<br />Besluit Vlaamse Codex Wonen, art. 4,156 t.e.m. art. 4,159</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000106",
+          "@id": "OVO000106"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:08.548461958Z",
+      "laatstGewijzigd": "2023-05-04T12:41:13.583540024Z",
+      "laatstOntvangen": "2023-05-04T12:41:13.583540024Z",
+      "productnummer": "2388",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/02e30e07-796e-43ce-92d1-04365a6efea9",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7068a8bd-4fed-4977-84a7-b16dc625cfd6"
+    },
+    {
+      "id": "00ef0f41-0e15-4fcc-bb74-f24c88709c8d",
+      "generatedAtTime": "2023-05-04T12:41:13.264801Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie cofinanciering bodemsanering"
+      },
+      "beschrijving": {
+        "nl": "<p>Stimulans voor het uitvoeren van bodemsaneringswerken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlarebo art. 54; MB 21 okt 2013 inzake cofinanciering van bodemsaneringswerken, gewijzigd bij MB 14 feb 2019</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000091",
+          "@id": "OVO000091"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:08.427614498Z",
+      "laatstGewijzigd": "2023-05-04T12:41:13.246772265Z",
+      "laatstOntvangen": "2023-05-04T12:41:13.246772265Z",
+      "productnummer": "2377",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/00ef0f41-0e15-4fcc-bb74-f24c88709c8d",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/40bed781-c43a-46c4-9d4e-44e3a2965edf"
+    },
+    {
+      "id": "5744514b-8294-49ff-88ab-ad45f37e3fed",
+      "generatedAtTime": "2023-05-04T12:41:12.902183Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies vanuit plattelandsbeleid"
+      },
+      "beschrijving": {
+        "nl": "<p>uitvoering geven aan de strategische doelstellingen zoals vermeld in de beleidsnota Omgeving 2019 – 2024: ISE Plattelandsbeleid, 14.1 SD.1: een specifiek plattelandsbeleid – de plattelandsuitdagingen (ondersteuning van projecten en initiatieven i.k.v. geïntegreerd plattelandsbeleid, in uitvoering van het Regeerakkoord en de Beleidsnota 2019-2024)<br />Beschikbaar:<br />- Subsidie Buurten op de buiten: (De Koning Boudewijn Stichting organiseert met steun van VLM een oproep Buurten op den Buiten waarmee de realisatie van concrete kleinschalige projecten van bewoners van dorpen of landelijke buurten ondersteund worden. De projecten dragen beide aan de verbetering van de kwaliteit van het leven in een dorp of landelijke buurt en aan de bevordering van de contacten bevorderen tussen bewoners.);<br />'- De Vlaamse Vereniging voor Dorpsbelangen biedt aan bewonersgroepen begeleiding en ondersteuning voor een kwaliteitsvolle werking en aan lokale besturen ondersteuning in hun relatie met bewonersgroepen. Deze werking draagt bij aan een betere dorpsparticipatie, één van de speerpunten uit het Vlaamse dorpenbeleid.<br />- overige nog onbepaald</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Ministeriële besluiten:<br />beschikbaar:<br />-Het ministerieel besluit van 2022 houdende goedkeuring van de besteding van een deel van de aan de Vlaamse Landmaatschappij toegekende toelage plattelandsbeleid 2022 voor een projectsubsidie aan vzw Koning Boudewijnstichting in het kader van het geïntegreerd plattelandsbeleid<br />- Ministerieel besluit van 2022 houdende goedkeuring van de besteding van een deel van de aan de Vlaamse Landmaatschappij toegekende toelage plattelandsbeleid 2022 voor een projectsubsidie aan vzw Vlaamse Vereniging voor Dorpsbelangen in het kader van het geïntegreerd plattelandsbeleid</p><p>In de loop van 2022 bijkomende MB's</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000094",
+          "@id": "OVO000094"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:08.317606842Z",
+      "laatstGewijzigd": "2023-05-04T12:41:12.883940885Z",
+      "laatstOntvangen": "2023-05-04T12:41:12.883940885Z",
+      "productnummer": "2364",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5744514b-8294-49ff-88ab-ad45f37e3fed",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7a3d128f-1cfe-49f6-b268-efca2b996fd1"
+    },
+    {
+      "id": "612ad331-2aa7-442c-9e15-15ad44f15f4c",
+      "generatedAtTime": "2023-05-04T12:41:12.649203Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Premie asbestverwijdering in combinatie met zonnepanelen"
+      },
+      "beschrijving": {
+        "nl": "<p>Wie investeert in het verwijderen van asbest in combinatie met het leggen van zonnepanelen op het dak van een niet-verwarmd niet-residentieel gebouw, kan hiervoor een premie krijgen van netbeheerder Fluvius.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Energiebesluit van 19 november 2010</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:08.205096056Z",
+      "laatstGewijzigd": "2023-05-04T12:41:12.631195912Z",
+      "laatstOntvangen": "2023-05-04T12:41:12.631195912Z",
+      "productnummer": "2359",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/612ad331-2aa7-442c-9e15-15ad44f15f4c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ade63c7e-ea93-4e00-be0f-eff4b07a55f8"
+    },
+    {
+      "id": "5446b21e-c9f8-4124-93ea-1b02c4739808",
+      "generatedAtTime": "2023-05-04T12:41:12.315677Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Call groene stroom"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u investeert in groen stroom specifiek fotovoltaïsche zonnepanelen met een zekere grootte en/of voor een specifieke toepassing, én kleine en middelgrote windturbines,komt uw project mogelijks in aanmerking voor een investeringssubsidie. Per call worden de ontvankelijke investeringsprojectenbeoordeeld en gerangschikt op basis van het bod, met name de steunvraag per verwachte energieopbrengst van de installatie. Het beschikbare subsidiebedrag wordt verdeeld over de gunstig gerangschikte investeringsprojecten.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Energiedecreet van 8/05/2009: Decreet van 08/05/2009 houdende algemene bepalingen betreffende het energiebeleid</p><p>BVR 19/11/2010 houdende algemene bepalingen over het energiebeleid, art. 7.11.1, §1 (vanaf 2021 incl. PV)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000090",
+          "@id": "OVO000090"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:07.935949567Z",
+      "laatstGewijzigd": "2023-05-04T12:41:12.295230845Z",
+      "laatstOntvangen": "2023-05-04T12:41:12.295230845Z",
+      "productnummer": "2350",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5446b21e-c9f8-4124-93ea-1b02c4739808",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bf650ce8-fddd-4682-ad94-274061b97b20"
+    },
+    {
+      "id": "07c05f4c-e41d-41e6-baa0-ccd4fbe3fef6",
+      "generatedAtTime": "2023-05-04T12:41:11.979299Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Erfgoedpremie via oproep (voor ingrijpende werken)"
+      },
+      "beschrijving": {
+        "nl": "<p>Wilt u een erfgoedpremie aanvragen voor grote, uitgebreide beheers- of restauratiewerken aan beschermd onroerend erfgoed en passen de werken binnen het thema van een oproep, dan kunt u deelnemen aan die oproep. Er hangt geen maximumbedrag vast aan de erfgoedpremie via thematische oproep.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 12 juli 2013 - BVR van 16 mei 2014<br />Hoofdstuk 11 premies</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Erfgoedpremie via oproep"
+          },
+          "url": "https://www.onroerenderfgoed.be/erfgoedpremie-oproep",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:53.007634466Z",
+      "laatstGewijzigd": "2023-05-04T12:41:11.961491279Z",
+      "laatstOntvangen": "2023-05-04T12:41:11.961491279Z",
+      "productnummer": "2342",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/07c05f4c-e41d-41e6-baa0-ccd4fbe3fef6",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c0100718-1466-4b23-8c8e-19cd14d99147"
+    },
+    {
+      "id": "eb6bb435-e3d1-4bfa-bbf6-58a516c37344",
+      "generatedAtTime": "2023-05-04T12:41:11.645926Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Aanvullende erfgoedpremie voor goed onderhoud"
+      },
+      "beschrijving": {
+        "nl": "<p>Als u kunt aantonen dat u het erfgoed waarvoor u de erfgoedpremie vraagt de voorbije zes jaar zelf goed onderhouden hebt, dan kunt u een aanvullende premie van 10% aanvragen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 11 - premies</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Enkel de aanvrager van de <a href=\"https://www.uat-vlaanderen.be/erfgoedpremie-voor-beschermde-monumenten-en-landschappen-standaardprocedure\">erfgoedpremie</a> die het erfgoed zelf gedurende zes jaar goed heeft onderhouden, kan de aanvullende premie aanvragen. Nieuwe eigenaars kunnen geen aanvullende premie aanvragen omdat ze het onderhoud niet zelf uitvoerden.</p><p>Goed onderhoud is een combinatie van regelmatige inspecties, preventieve acties en, indien nodig, herstellingswerken. Goed onderhoud betekent dat u regelmatig de toestand van uw erfgoed controleert of laat controleren op gebreken of schade. U maakt een toestandsrapport op of laat het opmaken, zodat u onderhoudswerken kunt gaan inplannen en uitvoeren.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Aanvullende erfgoedpremie voor goed onderhoud"
+          },
+          "url": "https://www.onroerenderfgoed.be/aanvullende-erfgoedpremie-voor-goed-onderhoud",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.890754956Z",
+      "laatstGewijzigd": "2023-05-04T12:41:11.627061494Z",
+      "laatstOntvangen": "2023-05-04T12:41:11.627061494Z",
+      "productnummer": "2341",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/eb6bb435-e3d1-4bfa-bbf6-58a516c37344",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/be2c0dbf-546a-4b72-ba80-979c924658f1"
+    },
+    {
+      "id": "f80d6e76-0ec6-4c46-b00c-2795f2aec72e",
+      "generatedAtTime": "2023-05-04T12:41:11.227392Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Beheerspremie varend erfgoed"
+      },
+      "beschrijving": {
+        "nl": "<p>Alle eigenaars en beheerders van beschermde vaartuigen kunnen aanspraak maken op een premie voor het beheer van het vaartuig. Zo wil de Vlaamse overheid hen ondersteunen om de erfgoedwaarde van het beschermd vaartuig te behouden. Eigenaars van niet-beschermd varend erfgoed dat enkel in de inventaris is opgenomen, kunnen geen premie aanvragen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 29 maart 2002 tot bescherming van varend erfgoed en BVR 27 november 2015</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "procedures": [
+        {
+          "naam": {
+            "nl": "Procedure"
+          },
+          "beschrijving": {
+            "nl": "<p>Alle maatregelen die het behoud van de erfgoedwaarden van beschermd varend erfgoed nastreven, komen in aanmerking voor een beheerspremie, op voorwaarde dat ze zijn opgenomen in een goedgekeurde beheersprogramma. Ook maatregelen voor het actief in de vaart houden, het terug varend of het drijvend maken van het beschermde vaartuig komen in aanmerking.</p><p>Op de website van Onroerend Erfgoed vindt u <a href=\"https://www.onroerenderfgoed.be/beheerspremie-varend-erfgoed\">alle info en voorwaarden van de beheerspremie voor varend erfgoed</a>.</p>"
+          },
+          "@type": "Procedure",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.54851702Z",
+      "laatstGewijzigd": "2023-05-04T12:41:11.208546486Z",
+      "laatstOntvangen": "2023-05-04T12:41:11.208546486Z",
+      "productnummer": "2340",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f80d6e76-0ec6-4c46-b00c-2795f2aec72e",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/85ed6c40-70ce-4053-b3a6-e32af1ea90ed"
+    },
+    {
+      "id": "0aaf31e2-3456-4d35-9d4b-fe46361508b4",
+      "generatedAtTime": "2023-05-04T12:41:10.905839Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie erkende, archeologische solidariteitsfondsen"
+      },
+      "beschrijving": {
+        "nl": "<p>Elke groepering van initiatiefnemers van bouw- of verkavelingsprojecten kan een archeologisch solidariteitsfonds oprichten. Deze fondsen vergoeden hun leden mits betaling van een bijdrage voor een deel van de kosten van alle archeologische opgravingen waartoe zij verplicht worden. Om erkend te worden moet een fonds een overeenkomst sluiten met de minister. Daarin staan onder meer de berekeningswijze van de ledenbijdrage, de voorwaarden voor de uitkering van vergoedingen, de doelstellingen en doelgroep van het fonds.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 11 - premies</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Archeologiefondsen"
+          },
+          "url": "https://www.onroerenderfgoed.be/archeologiefondsen",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.388058502Z",
+      "laatstGewijzigd": "2023-05-04T12:41:10.795843376Z",
+      "laatstOntvangen": "2023-05-04T12:41:10.795843376Z",
+      "productnummer": "2338",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0aaf31e2-3456-4d35-9d4b-fe46361508b4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/efee556f-6b41-4c0b-a912-366b08590244"
+    },
+    {
+      "id": "f423a339-780b-4dec-97a7-638433fb970a",
+      "generatedAtTime": "2023-05-04T12:41:10.548221Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Projectsubsidie voor archeologisch vervolgonderzoek"
+      },
+      "beschrijving": {
+        "nl": "<p>Archeologisch vervolgonderzoek is een essentieel onderdeel van de archeologische erfgoedzorg, niet alleen om nieuwe historische kennis te ontwikkelen, maar ook voor een afgestemd erfgoedbeheer en een kwaliteitsvolle ontsluiting van het archeologisch erfgoed dat uiteindelijk ook het publieke draagvlak moet blijven stimuleren. De studie na het vele graafwerk blijft in de praktijk vaak beperkt tot het niveau van de vindplaats, maar mist op die manier het bredere plaatje, de diepgang en de gedetailleerde uitwerking die tot echt nieuwe kennis over het verleden leiden. En daar zit het publiek natuurlijk net op te wachten.</p><p>Extra onderzoeksstappen vergen extra middelen, die niet op de bouwheer, projectontwikkelaar of landbouwer kunnen verhaald worden. Daarom is er vanaf 2018 jaarlijks een budget voor projectsubsidies voor archeologisch vervolgonderzoek.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 10 - subsidies</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Projectsubsidies voor synthese-onderzoek"
+          },
+          "url": "https://www.onroerenderfgoed.be/projectsubsidies-voor-synthese-onderzoek",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.273036214Z",
+      "laatstGewijzigd": "2023-05-04T12:41:10.529356441Z",
+      "laatstOntvangen": "2023-05-04T12:41:10.529356441Z",
+      "productnummer": "2337",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/f423a339-780b-4dec-97a7-638433fb970a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/51b3246c-6741-4bb4-8b64-c5fe54f9a66f"
+    },
+    {
+      "id": "bbbd0fde-53fa-444c-b3bb-ec91aca088c0",
+      "generatedAtTime": "2023-05-04T12:41:10.20872Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie erkende onroerenderfgoeddepots"
+      },
+      "beschrijving": {
+        "nl": "<p>Een erkend onroerenderfgoeddepot geldt als een bewaarplaats met een onderzoekersruimte waar in aangepaste gecontroleerde omstandigheden archeologische ensembles, archeologische artefacten of onderdelen van beschermd erfgoed uit het Vlaamse Gewest worden bewaard en beheerd. Het bewaart dus meer dan archeologische vondsten. Het kan bijvoorbeeld ook (tijdelijk) losse onderdelen van een monument bewaren tijdens een langdurige restauratiecampagne.</p><p>Om in aanmerking te komen voor een subsidie gelden, naast de erkenning, een aantal bijkomende voorwaarden zoals een receptieve functie van gemeentegrensoverschrijdend belang vervullen. Om een subsidie te genieten voor de ondersteuning van de werkingskosten sluit het depot een samenwerkingsovereenkomst af met het agentschap Onroerend Erfgoed. De overeenkomst heeft een looptijd van zes jaar en wordt na drie jaar tussentijds geëvalueerd.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 12 juli 2013 (Onroerenderfgoeddecreet) - BVR van 16 mei 2014 (Onroerenderfgoedbesluit)<br />Hoofdstuk 10 - subsidies</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000104",
+          "@id": "OVO000104"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Onroerenderfgoeddepots"
+          },
+          "url": "https://www.onroerenderfgoed.be/ik-werk-voor-een-onroerenderfgoeddepot",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.149746354Z",
+      "laatstGewijzigd": "2023-05-04T12:41:10.190365865Z",
+      "laatstOntvangen": "2023-05-04T12:41:10.190365865Z",
+      "productnummer": "2335",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bbbd0fde-53fa-444c-b3bb-ec91aca088c0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/6417ae76-66ae-45e2-be5d-fac9f0113bc7"
+    },
+    {
+      "id": "b046836e-27e4-4282-bb9a-b0807130c6ae",
+      "generatedAtTime": "2023-05-04T12:41:09.829212Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor tewerkstelling VIA-akkoorden"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor loonkosten en eindejaarspremie<br />van werknemers bij milieu- en natuurverenigingen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>geen BVR</p><p>Vlaams akkoord voor de social-profit/non-profit van 6 juni 2005;<br />Vierde Vlaams Intersectoraal Akkoord voor de social-/non-profitsectoren voor de periode 2011 tot 2015 van 2 december 2011;</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003323",
+          "@id": "OVO003323"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:52.021860204Z",
+      "laatstGewijzigd": "2023-05-04T12:41:09.811278677Z",
+      "laatstOntvangen": "2023-05-04T12:41:09.811278677Z",
+      "productnummer": "2329",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/b046836e-27e4-4282-bb9a-b0807130c6ae",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/85c5b830-e942-4c79-8c26-dba1a3e326fc"
+    },
+    {
+      "id": "3a4a5ff8-e0bc-4943-b618-4c4fc2931f23",
+      "generatedAtTime": "2023-05-04T12:41:09.547119Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor tewerkstelling DAC-statuut bij milieu- en natuurverenigingen"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie voor loonkost van DAC tewerkstellingsplaatsen bij milieu- en natuurverenigingen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>BVR 19/10/2012 tot wijziging van het BVR 14/05/2004 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut, wat betreft de delegatie voor het toekennen van de subsidie en het verloop van de procedure voor het toekennen ervan</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO003323",
+          "@id": "OVO003323"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:51.904118166Z",
+      "laatstGewijzigd": "2023-05-04T12:41:09.528807108Z",
+      "laatstOntvangen": "2023-05-04T12:41:09.528807108Z",
+      "productnummer": "2324",
+      "gearchiveerd": true,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3a4a5ff8-e0bc-4943-b618-4c4fc2931f23",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/354ee4f5-1a67-4707-b8bc-f6580ba26a66"
+    }
+  ]
+}

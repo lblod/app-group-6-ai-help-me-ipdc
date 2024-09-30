@@ -1,1 +1,1199 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=100","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=99","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-04T14:15:28.202725Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=101","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-05-04T14:15:32.456336Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=100","@type":"EventStream","member":[{"id":"6f786e90-9071-4083-90ee-c35d3f15b1cd","generatedAtTime":"2023-05-04T14:15:32.456336Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor samenwerkingsverbandentussen 2 of meer lokale besturen"},"beschrijving":{"nl":"<p>Subsidies voor gezamenlijke projecten tussen minstens 2 lokale besturen inzake sportbeleid en/of -participatie.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-05-04T14:15:32.439822263Z","laatstGewijzigd":"2023-05-04T14:15:32.439823351Z","laatstOntvangen":"2023-05-04T14:15:32.439823351Z","productnummer":"2145","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6f786e90-9071-4083-90ee-c35d3f15b1cd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c44f19e7-2e44-48dc-b90e-c4252cceaa7c"},{"id":"13a3c768-0fc8-482f-b00f-9e57672a8828","generatedAtTime":"2023-05-04T14:15:32.340297Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor G-sportclubwerking"},"beschrijving":{"nl":"<p>Subsidies voor bestaande en opstartende G-werkingen in sportclubs</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-03-24T06:40:47.376230173Z","laatstGewijzigd":"2023-05-04T14:15:32.323970349Z","laatstOntvangen":"2023-05-04T14:15:32.323970349Z","productnummer":"2144","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/13a3c768-0fc8-482f-b00f-9e57672a8828","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/dc3b5cd6-6996-42fd-ab90-dd79e373e5ca"},{"id":"a6975205-f694-4099-bb0b-5f6c900726bd","generatedAtTime":"2023-05-04T14:15:32.213924Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies bovenlokale sportinfrastructuur of topsportinfrastructuur"},"beschrijving":{"nl":"<p>Ondersteuning vanuit Sport Vlaanderen voor bovenlokale sportinfrastructuur of topsportinfrastructuur.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet houdende de ondersteuning van bovenlokale sportinfrastructuur en topsportinfrastructuur</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-05-04T14:15:32.197300888Z","laatstGewijzigd":"2023-05-04T14:15:32.197301987Z","laatstOntvangen":"2023-05-04T14:15:32.197301987Z","productnummer":"2143","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a6975205-f694-4099-bb0b-5f6c900726bd","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7c584850-62b9-4537-9694-a758eca5e100"},{"id":"63ea6d3b-5d04-48aa-b82d-f737917705c8","generatedAtTime":"2023-05-04T14:15:31.980355Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Ondersteuning beleidsrelevant wetenschappelijk onderzoek"},"beschrijving":{"nl":"<p>Via deze middelen financieren we onderzoek dat erop gericht is om concrete beleidsvragen te beantwoorden: dergelijk onderzoek moet op een wetenschappelijk onderbouwde manier concrete oplossingen aanreiken of beleidsaanbevelingen doen die de kwaliteit van het sportbeleid bevordert.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-05-04T14:15:31.963467767Z","laatstGewijzigd":"2023-05-04T14:15:31.963468795Z","laatstOntvangen":"2023-05-04T14:15:31.963468795Z","productnummer":"2142","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/63ea6d3b-5d04-48aa-b82d-f737917705c8","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/fcd3becc-53da-412d-8a5c-2fe3eafe0cda"},{"id":"5662fced-1617-456c-b9b3-708ddfaad1b7","generatedAtTime":"2023-05-04T14:15:31.394967Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies schoolsportinfrastructuur"},"beschrijving":{"nl":"<p>Specifieke subsidies om aanpassingen te doen aan schoolsportinfrastructuur om deze makkelijker naschools open te stellen. Ook subsidies om de speelplaats beweegaantrekkelijk te maken.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Projectoproep</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-03-24T06:40:47.26640646Z","laatstGewijzigd":"2023-05-04T14:15:31.37902488Z","laatstOntvangen":"2023-05-04T14:15:31.37902488Z","productnummer":"2141","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5662fced-1617-456c-b9b3-708ddfaad1b7","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/3370995c-d4c9-4059-bcfa-de4b4e48844e"},{"id":"7aabe76c-6c02-49de-8bc9-18ae3c1da3ba","generatedAtTime":"2023-05-04T14:15:31.253405Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"PPS-subsidies"},"beschrijving":{"nl":"<p>Subsidies via het principe van een publiek-private samenwerking voor kunstgrasvelden, sporthallen en zwembaden</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet betreffende een inhaalbeweging in sportinfrastructuur via alternatieve financiering</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-05-04T14:15:31.236523894Z","laatstGewijzigd":"2023-05-04T14:15:31.236524821Z","laatstOntvangen":"2023-05-04T14:15:31.236524821Z","productnummer":"2140","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7aabe76c-6c02-49de-8bc9-18ae3c1da3ba","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/79757f7d-01b4-43f4-b736-fe696009825f"},{"id":"25b1a272-4d3c-4808-9687-3650348b298f","generatedAtTime":"2023-05-04T14:15:30.933314Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor tewerkstelling in de sportsector"},"beschrijving":{"nl":"<p>Subsidies voor de organisatie die de tewerkstelling in de sportsector stimuleert en ondersteunt</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-05-04T14:15:30.915960235Z","laatstGewijzigd":"2023-05-04T14:15:30.91596143Z","laatstOntvangen":"2023-05-04T14:15:30.91596143Z","productnummer":"2139","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/25b1a272-4d3c-4808-9687-3650348b298f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/21a97d48-9956-4b98-a524-c81101aba45a"},{"id":"2290b5c4-6323-43fb-bf8f-8b8c4ae6e230","generatedAtTime":"2023-05-04T14:15:30.821369Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor studentensport"},"beschrijving":{"nl":"<p>Subsidies voor het sportbeleid van de vijf Vlaamse associaties in het hoger onderwijs, en voor de overkoepelende studentensportorganisatie.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet houdende de toekenning van subsidies voor de uitbouw, de coördinatie en de promotie van het sportaanbod van de [studentensportvoorzieningen (verv. decr. 18 mei 2018, art. 2, I: 1 september 2018)] van de Vlaamse universiteiten en hogescholen en de erkenning en subsidiëring van een Vlaamse overkoepelende [studentensportorganisatie (verv. decr. 18 mei 2018, art. 2, I: 1 september 2018)]</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-05-04T14:15:30.804742253Z","laatstGewijzigd":"2023-05-04T14:15:30.804743183Z","laatstOntvangen":"2023-05-04T14:15:30.804743183Z","productnummer":"2138","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2290b5c4-6323-43fb-bf8f-8b8c4ae6e230","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d3202974-4d45-4174-a416-e906886af68f"},{"id":"3f859c26-0033-4d2c-b08f-94124665a664","generatedAtTime":"2023-05-04T14:15:30.686817Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor het lokaal sportbeleid"},"beschrijving":{"nl":"<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Decreet houdende het stimuleren en subsidiëren van een lokaal sportbeleid + decreet vzw De Rand</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-03-24T06:40:47.147732599Z","laatstGewijzigd":"2023-05-04T14:15:30.670117565Z","laatstOntvangen":"2023-05-04T14:15:30.670117565Z","productnummer":"2137","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3f859c26-0033-4d2c-b08f-94124665a664","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a72586bf-dfc1-4a4c-a2fa-853dbc467eca"},{"id":"92d59d1f-2ca1-42eb-b1cb-51e0bcc845cc","generatedAtTime":"2023-05-04T14:15:30.573967Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Nominatieve subsidies Sport Vlaanderen"},"beschrijving":{"nl":"<p>Subsidies die voor een specifiek project of specifiek initiatief in de sportsector worden toegekend.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-05-04T14:15:30.557305845Z","laatstGewijzigd":"2023-05-04T14:15:30.557306826Z","laatstOntvangen":"2023-05-04T14:15:30.557306826Z","productnummer":"2136","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/92d59d1f-2ca1-42eb-b1cb-51e0bcc845cc","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/d75ef519-0699-4bd9-9701-10e215c9904f"},{"id":"6ae8e670-9153-4b57-a98b-ed0a84565320","generatedAtTime":"2023-05-04T14:15:30.445757Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies inzake experimenteel sportbeleid"},"beschrijving":{"nl":"<p>Projecten die via deze middelen worden gefinancierd, trachten op zoek te gaan naar nieuwe oplossingen op technologisch of sociaal-maatschappelijk vlak die de kwaliteit van het sportaanbod kunnen bevorderen.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-03-24T06:40:47.003415071Z","laatstGewijzigd":"2023-05-04T14:15:30.429651679Z","laatstOntvangen":"2023-05-04T14:15:30.429651679Z","productnummer":"2135","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6ae8e670-9153-4b57-a98b-ed0a84565320","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2041eb3e-2adc-49ae-bca8-f4fc54200353"},{"id":"a44ceefc-83b2-450f-8f31-c99b2b3dea5c","generatedAtTime":"2023-05-04T14:15:30.299999Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies voor topsport aan topsportfederaties en andere structurele partners"},"beschrijving":{"nl":"<p>Subsidies die uitgekeerd worden in het kader van het Topsportactieplan Vlaanderen met als doel de missie van het Vlaams topsportbeleid te realiseren.</p>"},"type":"FinancieelVoordeel","themas":["CultuurSportVrijeTijd"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE1","BE2"],"regelgevingTekst":{"nl":"<p>Uitgavendecreet</p>"},"bevoegdeOverheden":[{"id":"OVO000070","@id":"OVO000070"}],"creatie":"2023-05-04T14:15:30.283424664Z","laatstGewijzigd":"2023-05-04T14:15:30.283425301Z","laatstOntvangen":"2023-05-04T14:15:30.283425301Z","productnummer":"2134","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a44ceefc-83b2-450f-8f31-c99b2b3dea5c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/455b2dce-745f-4569-b5e4-84a4242fa766"},{"id":"46025e42-2512-4733-9bdf-54842aa821ba","generatedAtTime":"2023-05-04T14:15:30.163173Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie aan vzw Vlaams investeringsplatform BelRAI"},"beschrijving":{"nl":"<p>Subsidie aan vzw Vlaams investeringsplatform BelRAI</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>"},"bevoegdeOverheden":[{"id":"OVO000120","@id":"OVO000120"}],"creatie":"2023-05-04T14:15:30.144221348Z","laatstGewijzigd":"2023-05-04T14:15:30.144222064Z","laatstOntvangen":"2023-05-04T14:15:30.144222064Z","productnummer":"2133","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/46025e42-2512-4733-9bdf-54842aa821ba","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f223f2da-faba-42f7-a6c3-18a923f3ba97"},{"id":"e3beb829-40d7-4072-9921-85db68b84c01","generatedAtTime":"2023-05-04T14:15:29.999803Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie aan het Kwaliteitscentrum Diagnostiek"},"beschrijving":{"nl":"<p>Subsidie aan het Kwaliteitscentrum Diagnostiek</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaams Regering van 7 februari 2014 betreffende het Kwaliteitscentrum voor Diagnostiek</p>"},"bevoegdeOverheden":[{"id":"OVO000120","@id":"OVO000120"}],"creatie":"2023-05-04T14:15:29.983170117Z","laatstGewijzigd":"2023-05-04T14:15:29.983170795Z","laatstOntvangen":"2023-05-04T14:15:29.983170795Z","productnummer":"2132","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e3beb829-40d7-4072-9921-85db68b84c01","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/50fe91ce-f6fd-4a1b-9f3a-0c638dfd3c1b"},{"id":"89ba217c-9134-4b3a-8d9b-be0e73446639","generatedAtTime":"2023-05-04T14:15:29.815048Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkingssubsidies aan de Vlaamse Zorgkas vzw"},"beschrijving":{"nl":"<p>Werkingssubsidies aan de Vlaamse Zorgkas vzw</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p><p>Beheersovereenkomst van 7 oktober 2020 tussen het IVArp Vlaamse sociale bescherming en de VZW Vlaamse Zorgkas</p>"},"bevoegdeOverheden":[{"id":"OVO000120","@id":"OVO000120"}],"creatie":"2023-05-04T14:15:29.798556388Z","laatstGewijzigd":"2023-05-04T14:15:29.79855713Z","laatstOntvangen":"2023-05-04T14:15:29.79855713Z","productnummer":"2131","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/89ba217c-9134-4b3a-8d9b-be0e73446639","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/32372a1f-7b56-41ce-86d8-606ac86ccc97"},{"id":"ce77636b-ccb1-4f10-8fc3-b686d71cdf68","generatedAtTime":"2023-05-04T14:15:29.702008Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkingssubsidies aan de zorgkassen"},"beschrijving":{"nl":"<p>Werkingssubsidies aan de zorgkassen</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 14 oktober 2016 houdende de voorwaarden van de vaststelling, de uitbetaling en de terugvordering van de subsidies van de zorgkassen in het kader van de Vlaamse sociale bescherming. </p>"},"bevoegdeOverheden":[{"id":"OVO000120","@id":"OVO000120"}],"creatie":"2023-05-04T14:15:29.682811277Z","laatstGewijzigd":"2023-05-04T14:15:29.68281224Z","laatstOntvangen":"2023-05-04T14:15:29.68281224Z","productnummer":"2130","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ce77636b-ccb1-4f10-8fc3-b686d71cdf68","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/c986e480-7f62-4be6-97c8-ae804113967d"},{"id":"5d321e79-b3ba-464b-9470-8670e0a89820","generatedAtTime":"2023-05-04T14:15:29.532079Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Compensaties aan de gemeenten voor de gederfde inkomsten uit de jaarlijkse verkeersbelasting ingevolge de vrijstelling voor occassioneel vervoer"},"beschrijving":{"nl":"<p>De gemeenten heffen opdeciemen op de jaarlijkse verkeersbelasting. Verminderingen en vrijstellingen op de jaarlijkse verkeersbelasting resulteren in een verlies aan inkomsten voor de gemeenten. Voor de vrijstelling voor occassioneel vervoer worden de gemeenten gecompenseerd.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Fiscaliteit van 13 december 2013, artikel 3.1.0.0.6.</p>"},"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"creatie":"2023-05-04T14:15:29.515382801Z","laatstGewijzigd":"2023-05-04T14:15:29.515383566Z","laatstOntvangen":"2023-05-04T14:15:29.515383566Z","productnummer":"2126","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5d321e79-b3ba-464b-9470-8670e0a89820","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/93955d5d-1761-4769-b1a4-90fd2f538170"},{"id":"de670d5d-5f44-452d-955a-8bcbc246cdae","generatedAtTime":"2023-05-04T14:15:29.357377Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Compensaties aan de lokale besturen voor de gederfde inkomsten uit de onroerende voorheffing ingevolge de vrijstelling voor de verbouwing van een winkelpand of de ruimte boven een winkelpand tot woongelegenheid en de vrijstelling voor vervangbouw "},"beschrijving":{"nl":"<p>De lokale besturen heffen opcentiemen op de onroerende voorheffing. Verminderingen en vrijstellingen op de onroerende voorheffing resulteren in een verlies aan inkomsten voor de lokale besturen. Voor de vrijstelling winkelpanden en vervangbouw worden de lokale besturen gecompenseerd.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Fiscaliteit van 13 december 2013, artikel 3.1.0.0.6.</p>"},"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"creatie":"2023-05-04T14:15:29.340563601Z","laatstGewijzigd":"2023-05-04T14:15:29.340564848Z","laatstOntvangen":"2023-05-04T14:15:29.340564848Z","productnummer":"2124","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/de670d5d-5f44-452d-955a-8bcbc246cdae","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e5e0e908-e0ec-4579-9297-4bc8f58c5648"},{"id":"6732e650-c22b-47dd-86e6-918ebadab406","generatedAtTime":"2023-05-04T14:15:29.046562Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Compensaties aan de lokale besturen voor de gederfde inkomsten uit de onroerende voorheffing ingevolge de vermindering E-peil"},"beschrijving":{"nl":"<p>De lokale besturen heffen opcentiemen op de onroerende voorheffing. Verminderingen en vrijstellingen op de onroerende voorheffing resulteren in een verlies aan inkomsten voor de lokale besturen. Voor de vrijstelling winkelpanden en vervangbouw worden de lokale besturen gecompenseerd.</p>"},"type":"FinancieelVoordeel","themas":["BouwenWonen"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Vlaamse Codex Fiscaliteit van 13 december 2013, artikel 3.1.0.0.6.</p>"},"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"creatie":"2023-05-04T14:15:29.029809431Z","laatstGewijzigd":"2023-05-04T14:15:29.029810564Z","laatstOntvangen":"2023-05-04T14:15:29.029810564Z","productnummer":"2123","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6732e650-c22b-47dd-86e6-918ebadab406","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4c9f01a5-9f65-4155-ba6d-4b561369f571"},{"id":"902463d1-d866-4d50-b2bd-7ccd97c257ea","generatedAtTime":"2023-05-04T14:15:28.936242Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Werkingsubsidie VIAPASS"},"beschrijving":{"nl":"<p>Bijdrage van het Vlaamse Gewest in de kosten van Viapass</p>"},"type":"FinancieelVoordeel","themas":["MobiliteitOpenbareWerken"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Samenwerkingsakkoord tussen het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen (artikel 36)</p>"},"bevoegdeOverheden":[{"id":"OVO000031","@id":"OVO000031"}],"creatie":"2023-05-04T14:15:28.919458632Z","laatstGewijzigd":"2023-05-04T14:15:28.91945955Z","laatstOntvangen":"2023-05-04T14:15:28.91945955Z","productnummer":"2122","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/902463d1-d866-4d50-b2bd-7ccd97c257ea","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/ceca42fa-e25f-476a-b755-383c401b51b7"},{"id":"8bc97a75-3d29-4227-9592-17ec00809c77","generatedAtTime":"2023-05-04T14:15:28.805964Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Natuurinspectie"},"beschrijving":{"nl":"<p>Veel natuur in Vlaanderen is wettelijk beschermd. Natuurinspecteurs van de Vlaamse overheid controleren of iedereen de milieubeheerregelgeving respecteert, de regelgeving over bos, natuur, jacht, visserij en beschermde soorten. Om milieumisdrijven en milieu-inbreuken op te sporen hebben ze bepaalde bevoegdheden en kunnen ze sancties opleggen.</p>"},"themas":["MilieuEnergie"],"doelgroepen":["Burger","Onderneming","Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000089","@id":"OVO000089"}],"websites":[{"naam":{"nl":"ANB - Natuurinspectie - Regio's"},"url":"https://natuurenbos.vlaanderen.be/natuurinspectie/waar-kan-ik-een-overtreding-melden","@type":"Website","order":0}],"creatie":"2023-03-24T06:40:45.34298643Z","laatstGewijzigd":"2023-05-04T14:15:28.789534304Z","laatstOntvangen":"2023-05-04T14:15:28.789534304Z","productnummer":"2116","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8bc97a75-3d29-4227-9592-17ec00809c77","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cefb4455-174d-498e-8a0f-8a732c87e0c2"},{"id":"6e9c6d2c-b550-41e6-87e5-0a286220229f","generatedAtTime":"2023-05-04T14:15:28.599145Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie voor praktijkcentra land- en tuinbouw"},"beschrijving":{"nl":"<p>De praktijkcentra in de dierlijke en plantaardige sector krijgen subsidie om aan onderzoek, kennisoverdracht en voorlichting te doen. Zo vinden nieuwe technieken, bedrijfskeuzes en teelten sneller ingang en worden land- en tuinbouwers met kwaliteitsvol advies geholpen.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Vormingsaanbod (Departement Landbouw en Visserij)"},"url":"https://lv.vlaanderen.be/nl/voorlichting-info/voorlichting/vormingsaanbod","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:28.582528884Z","laatstGewijzigd":"2023-05-04T14:15:28.582530099Z","laatstOntvangen":"2023-05-04T14:15:28.582530099Z","productnummer":"2121","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6e9c6d2c-b550-41e6-87e5-0a286220229f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/654597ee-990f-4e57-a2b5-e842a605c4b5"},{"id":"96a97bc5-1903-47da-86f9-e71398ce0e77","generatedAtTime":"2023-05-04T14:15:28.484691Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidie in kader van land- en tuinbouwbeleid"},"beschrijving":{"nl":"<p>De Vlaamse overheid steunt de land- en tuinbouwsector op verschillende manieren. Subsidies zijn hier één vorm van. Een groot deel van die subsidies worden ook Europees ondersteund (Pijler I en Pijler II (PDPO) van het GLB, Gemeenschappelijk Landbouwbeleid). </p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Subsidies voor landbouw en visserij"},"url":"https://lv.vlaanderen.be/nl/subsidies","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:28.467814252Z","laatstGewijzigd":"2023-05-04T14:15:28.467815218Z","laatstOntvangen":"2023-05-04T14:15:28.467815218Z","productnummer":"2118","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/96a97bc5-1903-47da-86f9-e71398ce0e77","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f1bf92d7-739d-47fe-be9d-db86da965895"},{"id":"eac4bf91-bb3d-41f0-9efe-05313ffa9307","generatedAtTime":"2023-05-04T14:15:28.328267Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Brede weersverzekering"},"beschrijving":{"nl":"<p>Met een brede weersverzekering kunt u zich als land- of tuinbouwer met een open teelt (bv. fruit, akkerbouw, …) bij een private verzekeraar verzekeren tegen schade aan gewassen door extreme en ongunstige weersomstandigheden.</p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"voorwaarden":[{"beschrijving":{"nl":"<p>Een erkende brede weersverzekering dekt minstens de weersfenomenen storm, hagel, vorst, ijs, regenval en droogte. Heeft uw verzekerde teelt schade geleden, dan kunt u bij de verzekeringsmaatschappij aankloppen voor een schadevergoeding.</p><p>Sinds 2020 betaalt de Vlaamse overheid een premiesubsidie uit als u een erkende brede weersverzekering afsluit (GLB). Hebt u schade, dan behandelt de verzekeringsmaatschappij uw dossier: daar komt de Vlaamse overheid niet in tussenbeide. Schade na een gebeurtenis die door de Vlaamse Regering als ramp werd erkend, wordt behandeld door het <a href=\"https://www.vlaanderen.be/schadevergoeding-vlaams-rampenfonds-aanvragen\">Vlaams Rampenfonds</a>.</p>"},"naam":{"nl":"Voorwaarden"},"@type":"Voorwaarde","order":0}],"websites":[{"naam":{"nl":"Subsidie voor brede weersverzekering in de landbouwsector"},"url":"https://lv.vlaanderen.be/nl/bedrijfsvoering/landbouwrampen/brede-weersverzekering-land-en-tuinbouwers","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:28.311469486Z","laatstGewijzigd":"2023-05-04T14:15:28.311470307Z","laatstOntvangen":"2023-05-04T14:15:28.311470307Z","productnummer":"2119","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/eac4bf91-bb3d-41f0-9efe-05313ffa9307","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/aad595b1-ae03-4227-a66e-30e01e429225"},{"id":"a5582852-23ed-420e-83c3-208837ab649b","generatedAtTime":"2023-05-04T14:15:28.202725Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Investeringssteun en andere maatregelen"},"beschrijving":{"nl":"<p>Het VLIF verleent steun aan investeringen op land- en tuinbouwbedrijven die bijdragen tot het verhogen van de weerbaarheid, een efficiënter energie- en watergebruik en de verbetering van de luchtkwaliteit. Hoe hoger de duurzaamheid van de investering, hoe hoger het steunpercentage (via het GLB). De overheid organiseert hier oproepen. </p>"},"type":"FinancieelVoordeel","themas":["EconomieWerk"],"doelgroepen":["Onderneming"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet van 13 mei 1997 houdende oprichting van een financieringsinstrument voor de Vlaamse visserij- en aquacultuursector, <br />het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid<br /></p>"},"bevoegdeOverheden":[{"id":"OVO000082","@id":"OVO000082"}],"websites":[{"naam":{"nl":"Investeringssteun voor land- en tuinbouwers"},"url":"https://lv.vlaanderen.be/nl/subsidies/vlif-steun/vlif-investeringssteun-voor-land-en-tuinbouwers","@type":"Website","order":0}],"creatie":"2023-05-04T14:15:28.185850739Z","laatstGewijzigd":"2023-05-04T14:15:28.185851479Z","laatstOntvangen":"2023-05-04T14:15:28.185851479Z","productnummer":"2120","gearchiveerd":false,"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a5582852-23ed-420e-83c3-208837ab649b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/170b2545-5ed5-42ae-b97c-26af21ac737b"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=100",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=99",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-04T14:15:28.202725Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=101",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-05-04T14:15:32.456336Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=100",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "6f786e90-9071-4083-90ee-c35d3f15b1cd",
+      "generatedAtTime": "2023-05-04T14:15:32.456336Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor samenwerkingsverbandentussen 2 of meer lokale besturen"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies voor gezamenlijke projecten tussen minstens 2 lokale besturen inzake sportbeleid en/of -participatie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:32.439822263Z",
+      "laatstGewijzigd": "2023-05-04T14:15:32.439823351Z",
+      "laatstOntvangen": "2023-05-04T14:15:32.439823351Z",
+      "productnummer": "2145",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6f786e90-9071-4083-90ee-c35d3f15b1cd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c44f19e7-2e44-48dc-b90e-c4252cceaa7c"
+    },
+    {
+      "id": "13a3c768-0fc8-482f-b00f-9e57672a8828",
+      "generatedAtTime": "2023-05-04T14:15:32.340297Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor G-sportclubwerking"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies voor bestaande en opstartende G-werkingen in sportclubs</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:47.376230173Z",
+      "laatstGewijzigd": "2023-05-04T14:15:32.323970349Z",
+      "laatstOntvangen": "2023-05-04T14:15:32.323970349Z",
+      "productnummer": "2144",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/13a3c768-0fc8-482f-b00f-9e57672a8828",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/dc3b5cd6-6996-42fd-ab90-dd79e373e5ca"
+    },
+    {
+      "id": "a6975205-f694-4099-bb0b-5f6c900726bd",
+      "generatedAtTime": "2023-05-04T14:15:32.213924Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies bovenlokale sportinfrastructuur of topsportinfrastructuur"
+      },
+      "beschrijving": {
+        "nl": "<p>Ondersteuning vanuit Sport Vlaanderen voor bovenlokale sportinfrastructuur of topsportinfrastructuur.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet houdende de ondersteuning van bovenlokale sportinfrastructuur en topsportinfrastructuur</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:32.197300888Z",
+      "laatstGewijzigd": "2023-05-04T14:15:32.197301987Z",
+      "laatstOntvangen": "2023-05-04T14:15:32.197301987Z",
+      "productnummer": "2143",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a6975205-f694-4099-bb0b-5f6c900726bd",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7c584850-62b9-4537-9694-a758eca5e100"
+    },
+    {
+      "id": "63ea6d3b-5d04-48aa-b82d-f737917705c8",
+      "generatedAtTime": "2023-05-04T14:15:31.980355Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Ondersteuning beleidsrelevant wetenschappelijk onderzoek"
+      },
+      "beschrijving": {
+        "nl": "<p>Via deze middelen financieren we onderzoek dat erop gericht is om concrete beleidsvragen te beantwoorden: dergelijk onderzoek moet op een wetenschappelijk onderbouwde manier concrete oplossingen aanreiken of beleidsaanbevelingen doen die de kwaliteit van het sportbeleid bevordert.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:31.963467767Z",
+      "laatstGewijzigd": "2023-05-04T14:15:31.963468795Z",
+      "laatstOntvangen": "2023-05-04T14:15:31.963468795Z",
+      "productnummer": "2142",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/63ea6d3b-5d04-48aa-b82d-f737917705c8",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/fcd3becc-53da-412d-8a5c-2fe3eafe0cda"
+    },
+    {
+      "id": "5662fced-1617-456c-b9b3-708ddfaad1b7",
+      "generatedAtTime": "2023-05-04T14:15:31.394967Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies schoolsportinfrastructuur"
+      },
+      "beschrijving": {
+        "nl": "<p>Specifieke subsidies om aanpassingen te doen aan schoolsportinfrastructuur om deze makkelijker naschools open te stellen. Ook subsidies om de speelplaats beweegaantrekkelijk te maken.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Projectoproep</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:47.26640646Z",
+      "laatstGewijzigd": "2023-05-04T14:15:31.37902488Z",
+      "laatstOntvangen": "2023-05-04T14:15:31.37902488Z",
+      "productnummer": "2141",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5662fced-1617-456c-b9b3-708ddfaad1b7",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/3370995c-d4c9-4059-bcfa-de4b4e48844e"
+    },
+    {
+      "id": "7aabe76c-6c02-49de-8bc9-18ae3c1da3ba",
+      "generatedAtTime": "2023-05-04T14:15:31.253405Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "PPS-subsidies"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies via het principe van een publiek-private samenwerking voor kunstgrasvelden, sporthallen en zwembaden</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet betreffende een inhaalbeweging in sportinfrastructuur via alternatieve financiering</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:31.236523894Z",
+      "laatstGewijzigd": "2023-05-04T14:15:31.236524821Z",
+      "laatstOntvangen": "2023-05-04T14:15:31.236524821Z",
+      "productnummer": "2140",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7aabe76c-6c02-49de-8bc9-18ae3c1da3ba",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/79757f7d-01b4-43f4-b736-fe696009825f"
+    },
+    {
+      "id": "25b1a272-4d3c-4808-9687-3650348b298f",
+      "generatedAtTime": "2023-05-04T14:15:30.933314Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor tewerkstelling in de sportsector"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies voor de organisatie die de tewerkstelling in de sportsector stimuleert en ondersteunt</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:30.915960235Z",
+      "laatstGewijzigd": "2023-05-04T14:15:30.91596143Z",
+      "laatstOntvangen": "2023-05-04T14:15:30.91596143Z",
+      "productnummer": "2139",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/25b1a272-4d3c-4808-9687-3650348b298f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/21a97d48-9956-4b98-a524-c81101aba45a"
+    },
+    {
+      "id": "2290b5c4-6323-43fb-bf8f-8b8c4ae6e230",
+      "generatedAtTime": "2023-05-04T14:15:30.821369Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor studentensport"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies voor het sportbeleid van de vijf Vlaamse associaties in het hoger onderwijs, en voor de overkoepelende studentensportorganisatie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet houdende de toekenning van subsidies voor de uitbouw, de coördinatie en de promotie van het sportaanbod van de [studentensportvoorzieningen (verv. decr. 18 mei 2018, art. 2, I: 1 september 2018)] van de Vlaamse universiteiten en hogescholen en de erkenning en subsidiëring van een Vlaamse overkoepelende [studentensportorganisatie (verv. decr. 18 mei 2018, art. 2, I: 1 september 2018)]</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:30.804742253Z",
+      "laatstGewijzigd": "2023-05-04T14:15:30.804743183Z",
+      "laatstOntvangen": "2023-05-04T14:15:30.804743183Z",
+      "productnummer": "2138",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2290b5c4-6323-43fb-bf8f-8b8c4ae6e230",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d3202974-4d45-4174-a416-e906886af68f"
+    },
+    {
+      "id": "3f859c26-0033-4d2c-b08f-94124665a664",
+      "generatedAtTime": "2023-05-04T14:15:30.686817Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor het lokaal sportbeleid"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies voor de organisatie die het lokaal sportbeleid ondersteunt en subsidies voor het sportbeleid van de Vlaamse Gemeenschapscommissie.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet houdende het stimuleren en subsidiëren van een lokaal sportbeleid + decreet vzw De Rand</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:47.147732599Z",
+      "laatstGewijzigd": "2023-05-04T14:15:30.670117565Z",
+      "laatstOntvangen": "2023-05-04T14:15:30.670117565Z",
+      "productnummer": "2137",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3f859c26-0033-4d2c-b08f-94124665a664",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a72586bf-dfc1-4a4c-a2fa-853dbc467eca"
+    },
+    {
+      "id": "92d59d1f-2ca1-42eb-b1cb-51e0bcc845cc",
+      "generatedAtTime": "2023-05-04T14:15:30.573967Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Nominatieve subsidies Sport Vlaanderen"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies die voor een specifiek project of specifiek initiatief in de sportsector worden toegekend.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:30.557305845Z",
+      "laatstGewijzigd": "2023-05-04T14:15:30.557306826Z",
+      "laatstOntvangen": "2023-05-04T14:15:30.557306826Z",
+      "productnummer": "2136",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/92d59d1f-2ca1-42eb-b1cb-51e0bcc845cc",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/d75ef519-0699-4bd9-9701-10e215c9904f"
+    },
+    {
+      "id": "6ae8e670-9153-4b57-a98b-ed0a84565320",
+      "generatedAtTime": "2023-05-04T14:15:30.445757Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies inzake experimenteel sportbeleid"
+      },
+      "beschrijving": {
+        "nl": "<p>Projecten die via deze middelen worden gefinancierd, trachten op zoek te gaan naar nieuwe oplossingen op technologisch of sociaal-maatschappelijk vlak die de kwaliteit van het sportaanbod kunnen bevorderen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:47.003415071Z",
+      "laatstGewijzigd": "2023-05-04T14:15:30.429651679Z",
+      "laatstOntvangen": "2023-05-04T14:15:30.429651679Z",
+      "productnummer": "2135",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6ae8e670-9153-4b57-a98b-ed0a84565320",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2041eb3e-2adc-49ae-bca8-f4fc54200353"
+    },
+    {
+      "id": "a44ceefc-83b2-450f-8f31-c99b2b3dea5c",
+      "generatedAtTime": "2023-05-04T14:15:30.299999Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies voor topsport aan topsportfederaties en andere structurele partners"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies die uitgekeerd worden in het kader van het Topsportactieplan Vlaanderen met als doel de missie van het Vlaams topsportbeleid te realiseren.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "CultuurSportVrijeTijd"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE1",
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Uitgavendecreet</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000070",
+          "@id": "OVO000070"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:30.283424664Z",
+      "laatstGewijzigd": "2023-05-04T14:15:30.283425301Z",
+      "laatstOntvangen": "2023-05-04T14:15:30.283425301Z",
+      "productnummer": "2134",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a44ceefc-83b2-450f-8f31-c99b2b3dea5c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/455b2dce-745f-4569-b5e4-84a4242fa766"
+    },
+    {
+      "id": "46025e42-2512-4733-9bdf-54842aa821ba",
+      "generatedAtTime": "2023-05-04T14:15:30.163173Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie aan vzw Vlaams investeringsplatform BelRAI"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie aan vzw Vlaams investeringsplatform BelRAI</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000120",
+          "@id": "OVO000120"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:30.144221348Z",
+      "laatstGewijzigd": "2023-05-04T14:15:30.144222064Z",
+      "laatstOntvangen": "2023-05-04T14:15:30.144222064Z",
+      "productnummer": "2133",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/46025e42-2512-4733-9bdf-54842aa821ba",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f223f2da-faba-42f7-a6c3-18a923f3ba97"
+    },
+    {
+      "id": "e3beb829-40d7-4072-9921-85db68b84c01",
+      "generatedAtTime": "2023-05-04T14:15:29.999803Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie aan het Kwaliteitscentrum Diagnostiek"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidie aan het Kwaliteitscentrum Diagnostiek</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaams Regering van 7 februari 2014 betreffende het Kwaliteitscentrum voor Diagnostiek</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000120",
+          "@id": "OVO000120"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:29.983170117Z",
+      "laatstGewijzigd": "2023-05-04T14:15:29.983170795Z",
+      "laatstOntvangen": "2023-05-04T14:15:29.983170795Z",
+      "productnummer": "2132",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/e3beb829-40d7-4072-9921-85db68b84c01",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/50fe91ce-f6fd-4a1b-9f3a-0c638dfd3c1b"
+    },
+    {
+      "id": "89ba217c-9134-4b3a-8d9b-be0e73446639",
+      "generatedAtTime": "2023-05-04T14:15:29.815048Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkingssubsidies aan de Vlaamse Zorgkas vzw"
+      },
+      "beschrijving": {
+        "nl": "<p>Werkingssubsidies aan de Vlaamse Zorgkas vzw</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p><p>Beheersovereenkomst van 7 oktober 2020 tussen het IVArp Vlaamse sociale bescherming en de VZW Vlaamse Zorgkas</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000120",
+          "@id": "OVO000120"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:29.798556388Z",
+      "laatstGewijzigd": "2023-05-04T14:15:29.79855713Z",
+      "laatstOntvangen": "2023-05-04T14:15:29.79855713Z",
+      "productnummer": "2131",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/89ba217c-9134-4b3a-8d9b-be0e73446639",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/32372a1f-7b56-41ce-86d8-606ac86ccc97"
+    },
+    {
+      "id": "ce77636b-ccb1-4f10-8fc3-b686d71cdf68",
+      "generatedAtTime": "2023-05-04T14:15:29.702008Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkingssubsidies aan de zorgkassen"
+      },
+      "beschrijving": {
+        "nl": "<p>Werkingssubsidies aan de zorgkassen</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 14 oktober 2016 houdende de voorwaarden van de vaststelling, de uitbetaling en de terugvordering van de subsidies van de zorgkassen in het kader van de Vlaamse sociale bescherming. </p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000120",
+          "@id": "OVO000120"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:29.682811277Z",
+      "laatstGewijzigd": "2023-05-04T14:15:29.68281224Z",
+      "laatstOntvangen": "2023-05-04T14:15:29.68281224Z",
+      "productnummer": "2130",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ce77636b-ccb1-4f10-8fc3-b686d71cdf68",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/c986e480-7f62-4be6-97c8-ae804113967d"
+    },
+    {
+      "id": "5d321e79-b3ba-464b-9470-8670e0a89820",
+      "generatedAtTime": "2023-05-04T14:15:29.532079Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Compensaties aan de gemeenten voor de gederfde inkomsten uit de jaarlijkse verkeersbelasting ingevolge de vrijstelling voor occassioneel vervoer"
+      },
+      "beschrijving": {
+        "nl": "<p>De gemeenten heffen opdeciemen op de jaarlijkse verkeersbelasting. Verminderingen en vrijstellingen op de jaarlijkse verkeersbelasting resulteren in een verlies aan inkomsten voor de gemeenten. Voor de vrijstelling voor occassioneel vervoer worden de gemeenten gecompenseerd.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Fiscaliteit van 13 december 2013, artikel 3.1.0.0.6.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:29.515382801Z",
+      "laatstGewijzigd": "2023-05-04T14:15:29.515383566Z",
+      "laatstOntvangen": "2023-05-04T14:15:29.515383566Z",
+      "productnummer": "2126",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/5d321e79-b3ba-464b-9470-8670e0a89820",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/93955d5d-1761-4769-b1a4-90fd2f538170"
+    },
+    {
+      "id": "de670d5d-5f44-452d-955a-8bcbc246cdae",
+      "generatedAtTime": "2023-05-04T14:15:29.357377Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Compensaties aan de lokale besturen voor de gederfde inkomsten uit de onroerende voorheffing ingevolge de vrijstelling voor de verbouwing van een winkelpand of de ruimte boven een winkelpand tot woongelegenheid en de vrijstelling voor vervangbouw "
+      },
+      "beschrijving": {
+        "nl": "<p>De lokale besturen heffen opcentiemen op de onroerende voorheffing. Verminderingen en vrijstellingen op de onroerende voorheffing resulteren in een verlies aan inkomsten voor de lokale besturen. Voor de vrijstelling winkelpanden en vervangbouw worden de lokale besturen gecompenseerd.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Fiscaliteit van 13 december 2013, artikel 3.1.0.0.6.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:29.340563601Z",
+      "laatstGewijzigd": "2023-05-04T14:15:29.340564848Z",
+      "laatstOntvangen": "2023-05-04T14:15:29.340564848Z",
+      "productnummer": "2124",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/de670d5d-5f44-452d-955a-8bcbc246cdae",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e5e0e908-e0ec-4579-9297-4bc8f58c5648"
+    },
+    {
+      "id": "6732e650-c22b-47dd-86e6-918ebadab406",
+      "generatedAtTime": "2023-05-04T14:15:29.046562Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Compensaties aan de lokale besturen voor de gederfde inkomsten uit de onroerende voorheffing ingevolge de vermindering E-peil"
+      },
+      "beschrijving": {
+        "nl": "<p>De lokale besturen heffen opcentiemen op de onroerende voorheffing. Verminderingen en vrijstellingen op de onroerende voorheffing resulteren in een verlies aan inkomsten voor de lokale besturen. Voor de vrijstelling winkelpanden en vervangbouw worden de lokale besturen gecompenseerd.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "BouwenWonen"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Vlaamse Codex Fiscaliteit van 13 december 2013, artikel 3.1.0.0.6.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:29.029809431Z",
+      "laatstGewijzigd": "2023-05-04T14:15:29.029810564Z",
+      "laatstOntvangen": "2023-05-04T14:15:29.029810564Z",
+      "productnummer": "2123",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6732e650-c22b-47dd-86e6-918ebadab406",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4c9f01a5-9f65-4155-ba6d-4b561369f571"
+    },
+    {
+      "id": "902463d1-d866-4d50-b2bd-7ccd97c257ea",
+      "generatedAtTime": "2023-05-04T14:15:28.936242Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Werkingsubsidie VIAPASS"
+      },
+      "beschrijving": {
+        "nl": "<p>Bijdrage van het Vlaamse Gewest in de kosten van Viapass</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "MobiliteitOpenbareWerken"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Samenwerkingsakkoord tussen het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen (artikel 36)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000031",
+          "@id": "OVO000031"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:28.919458632Z",
+      "laatstGewijzigd": "2023-05-04T14:15:28.91945955Z",
+      "laatstOntvangen": "2023-05-04T14:15:28.91945955Z",
+      "productnummer": "2122",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/902463d1-d866-4d50-b2bd-7ccd97c257ea",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/ceca42fa-e25f-476a-b755-383c401b51b7"
+    },
+    {
+      "id": "8bc97a75-3d29-4227-9592-17ec00809c77",
+      "generatedAtTime": "2023-05-04T14:15:28.805964Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Natuurinspectie"
+      },
+      "beschrijving": {
+        "nl": "<p>Veel natuur in Vlaanderen is wettelijk beschermd. Natuurinspecteurs van de Vlaamse overheid controleren of iedereen de milieubeheerregelgeving respecteert, de regelgeving over bos, natuur, jacht, visserij en beschermde soorten. Om milieumisdrijven en milieu-inbreuken op te sporen hebben ze bepaalde bevoegdheden en kunnen ze sancties opleggen.</p>"
+      },
+      "themas": [
+        "MilieuEnergie"
+      ],
+      "doelgroepen": [
+        "Burger",
+        "Onderneming",
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000089",
+          "@id": "OVO000089"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "ANB - Natuurinspectie - Regio's"
+          },
+          "url": "https://natuurenbos.vlaanderen.be/natuurinspectie/waar-kan-ik-een-overtreding-melden",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-03-24T06:40:45.34298643Z",
+      "laatstGewijzigd": "2023-05-04T14:15:28.789534304Z",
+      "laatstOntvangen": "2023-05-04T14:15:28.789534304Z",
+      "productnummer": "2116",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8bc97a75-3d29-4227-9592-17ec00809c77",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cefb4455-174d-498e-8a0f-8a732c87e0c2"
+    },
+    {
+      "id": "6e9c6d2c-b550-41e6-87e5-0a286220229f",
+      "generatedAtTime": "2023-05-04T14:15:28.599145Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie voor praktijkcentra land- en tuinbouw"
+      },
+      "beschrijving": {
+        "nl": "<p>De praktijkcentra in de dierlijke en plantaardige sector krijgen subsidie om aan onderzoek, kennisoverdracht en voorlichting te doen. Zo vinden nieuwe technieken, bedrijfskeuzes en teelten sneller ingang en worden land- en tuinbouwers met kwaliteitsvol advies geholpen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Vormingsaanbod (Departement Landbouw en Visserij)"
+          },
+          "url": "https://lv.vlaanderen.be/nl/voorlichting-info/voorlichting/vormingsaanbod",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:28.582528884Z",
+      "laatstGewijzigd": "2023-05-04T14:15:28.582530099Z",
+      "laatstOntvangen": "2023-05-04T14:15:28.582530099Z",
+      "productnummer": "2121",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6e9c6d2c-b550-41e6-87e5-0a286220229f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/654597ee-990f-4e57-a2b5-e842a605c4b5"
+    },
+    {
+      "id": "96a97bc5-1903-47da-86f9-e71398ce0e77",
+      "generatedAtTime": "2023-05-04T14:15:28.484691Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidie in kader van land- en tuinbouwbeleid"
+      },
+      "beschrijving": {
+        "nl": "<p>De Vlaamse overheid steunt de land- en tuinbouwsector op verschillende manieren. Subsidies zijn hier één vorm van. Een groot deel van die subsidies worden ook Europees ondersteund (Pijler I en Pijler II (PDPO) van het GLB, Gemeenschappelijk Landbouwbeleid). </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidies voor landbouw en visserij"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:28.467814252Z",
+      "laatstGewijzigd": "2023-05-04T14:15:28.467815218Z",
+      "laatstOntvangen": "2023-05-04T14:15:28.467815218Z",
+      "productnummer": "2118",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/96a97bc5-1903-47da-86f9-e71398ce0e77",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f1bf92d7-739d-47fe-be9d-db86da965895"
+    },
+    {
+      "id": "eac4bf91-bb3d-41f0-9efe-05313ffa9307",
+      "generatedAtTime": "2023-05-04T14:15:28.328267Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Brede weersverzekering"
+      },
+      "beschrijving": {
+        "nl": "<p>Met een brede weersverzekering kunt u zich als land- of tuinbouwer met een open teelt (bv. fruit, akkerbouw, …) bij een private verzekeraar verzekeren tegen schade aan gewassen door extreme en ongunstige weersomstandigheden.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "voorwaarden": [
+        {
+          "beschrijving": {
+            "nl": "<p>Een erkende brede weersverzekering dekt minstens de weersfenomenen storm, hagel, vorst, ijs, regenval en droogte. Heeft uw verzekerde teelt schade geleden, dan kunt u bij de verzekeringsmaatschappij aankloppen voor een schadevergoeding.</p><p>Sinds 2020 betaalt de Vlaamse overheid een premiesubsidie uit als u een erkende brede weersverzekering afsluit (GLB). Hebt u schade, dan behandelt de verzekeringsmaatschappij uw dossier: daar komt de Vlaamse overheid niet in tussenbeide. Schade na een gebeurtenis die door de Vlaamse Regering als ramp werd erkend, wordt behandeld door het <a href=\"https://www.vlaanderen.be/schadevergoeding-vlaams-rampenfonds-aanvragen\">Vlaams Rampenfonds</a>.</p>"
+          },
+          "naam": {
+            "nl": "Voorwaarden"
+          },
+          "@type": "Voorwaarde",
+          "order": 0
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Subsidie voor brede weersverzekering in de landbouwsector"
+          },
+          "url": "https://lv.vlaanderen.be/nl/bedrijfsvoering/landbouwrampen/brede-weersverzekering-land-en-tuinbouwers",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:28.311469486Z",
+      "laatstGewijzigd": "2023-05-04T14:15:28.311470307Z",
+      "laatstOntvangen": "2023-05-04T14:15:28.311470307Z",
+      "productnummer": "2119",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/eac4bf91-bb3d-41f0-9efe-05313ffa9307",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/aad595b1-ae03-4227-a66e-30e01e429225"
+    },
+    {
+      "id": "a5582852-23ed-420e-83c3-208837ab649b",
+      "generatedAtTime": "2023-05-04T14:15:28.202725Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Investeringssteun en andere maatregelen"
+      },
+      "beschrijving": {
+        "nl": "<p>Het VLIF verleent steun aan investeringen op land- en tuinbouwbedrijven die bijdragen tot het verhogen van de weerbaarheid, een efficiënter energie- en watergebruik en de verbetering van de luchtkwaliteit. Hoe hoger de duurzaamheid van de investering, hoe hoger het steunpercentage (via het GLB). De overheid organiseert hier oproepen. </p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "EconomieWerk"
+      ],
+      "doelgroepen": [
+        "Onderneming"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet van 13 mei 1997 houdende oprichting van een financieringsinstrument voor de Vlaamse visserij- en aquacultuursector, <br />het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid<br /></p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000082",
+          "@id": "OVO000082"
+        }
+      ],
+      "websites": [
+        {
+          "naam": {
+            "nl": "Investeringssteun voor land- en tuinbouwers"
+          },
+          "url": "https://lv.vlaanderen.be/nl/subsidies/vlif-steun/vlif-investeringssteun-voor-land-en-tuinbouwers",
+          "@type": "Website",
+          "order": 0
+        }
+      ],
+      "creatie": "2023-05-04T14:15:28.185850739Z",
+      "laatstGewijzigd": "2023-05-04T14:15:28.185851479Z",
+      "laatstOntvangen": "2023-05-04T14:15:28.185851479Z",
+      "productnummer": "2120",
+      "gearchiveerd": false,
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/a5582852-23ed-420e-83c3-208837ab649b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/170b2545-5ed5-42ae-b97c-26af21ac737b"
+    }
+  ]
+}

@@ -1,1 +1,1405 @@
-{"timestampPath":"http://www.w3.org/ns/prov#generatedAtTime","versionOfPath":"http://purl.org/dc/terms/isVersionOf","view":{"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=795","@type":"Node","relation":[{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=794","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-07-28T10:45:10.087546Z","@type":"LessThanOrEqualToRelation"},{"node":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=796","path":"http://www.w3.org/ns/prov#generatedAtTime","value":"2023-07-28T10:45:15.066426Z","@type":"GreaterThanOrEqualToRelation"}]},"@context":["https://ipdc.tni-vlaanderen.be/ldes.jsonld","https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"],"@id":"https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=795","@type":"EventStream","member":[{"id":"73432c75-be0d-4ff7-8542-737148be6803","generatedAtTime":"2023-07-28T10:45:15.066426Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Tegemoetkoming voor zorg woonzorgcentra en centra voor kortverblijf","nl-BE-x-generated-informal":"Tegemoetkoming voor zorg woonzorgcentra en centra voor kortverblijf","nl":"Tegemoetkoming voor zorg woonzorgcentra en centra voor kortverblijf"},"beschrijving":{"nl-BE-x-generated-informal":"<p>De woonzorgcentra, al dan niet met bijhorend centrum voor kortverblijf, kunnen per bewoner, per verblijfsdag de tegemoetkoming voor zorg factureren aan de zorgkas waarbij de bewoner in kwestie is aangesloten. Het agentschap Vlaamse Sociale Bescherming stelt hiervoor de nodige budgetten ter beschikking aan de zorgkassen.</p><p>Onder de tegemoetkoming voor zorg valt enerzijds de basistegemoetkoming voor zorg. Deze wordt bepaald op basis van het zorgprofiel van de bewoners en het aanwezige personeel in de voorziening in kwestie.</p><p>Daarnaast valt onder de tegemoetkoming voor zorg ook de tegemoetkoming in de kosten voor incontinentiemateriaal van zwaar zorgbehoevenden of van niet-afhankelijke personen.</p>","nl":"<p>De woonzorgcentra, al dan niet met bijhorend centrum voor kortverblijf, kunnen per bewoner, per verblijfsdag de tegemoetkoming voor zorg factureren aan de zorgkas waarbij de bewoner in kwestie is aangesloten. Het agentschap Vlaamse Sociale Bescherming stelt hiervoor de nodige budgetten ter beschikking aan de zorgkassen.</p><p>Onder de tegemoetkoming voor zorg valt enerzijds de basistegemoetkoming voor zorg. Deze wordt bepaald op basis van het zorgprofiel van de bewoners en het aanwezige personeel in de voorziening in kwestie.</p><p>Daarnaast valt onder de tegemoetkoming voor zorg ook de tegemoetkoming in de kosten voor incontinentiemateriaal van zwaar zorgbehoevenden of van niet-afhankelijke personen.</p>","nl-BE-x-generated-formal":"<p>De woonzorgcentra, al dan niet met bijhorend centrum voor kortverblijf, kunnen per bewoner, per verblijfsdag de tegemoetkoming voor zorg factureren aan de zorgkas waarbij de bewoner in kwestie is aangesloten. Het agentschap Vlaamse Sociale Bescherming stelt hiervoor de nodige budgetten ter beschikking aan de zorgkassen.</p><p>Onder de tegemoetkoming voor zorg valt enerzijds de basistegemoetkoming voor zorg. Deze wordt bepaald op basis van het zorgprofiel van de bewoners en het aanwezige personeel in de voorziening in kwestie.</p><p>Daarnaast valt onder de tegemoetkoming voor zorg ook de tegemoetkoming in de kosten voor incontinentiemateriaal van zwaar zorgbehoevenden of van niet-afhankelijke personen.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>","nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>","nl":"<p>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-03-24T06:45:09.315795521Z","laatstGewijzigd":"2023-07-28T10:45:14.943747604Z","laatstOntvangen":"2023-07-28T10:45:14.943748826Z","productnummer":"2424","gearchiveerd":false,"subsidiemaatregel":"GT_06","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/73432c75-be0d-4ff7-8542-737148be6803","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/4e0eb570-317b-45a5-8c64-8f298c9966e9"},{"id":"56e0dff8-b986-4b9d-adce-9a86182908f0","generatedAtTime":"2023-07-28T10:45:14.843142Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Aanvullende financiering woonzorgcentra","nl":"Aanvullende financiering woonzorgcentra","nl-BE-x-generated-informal":"Aanvullende financiering woonzorgcentra"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Aanvullende financiering voor de woonzorgcentra na de integratie van het derde luik in de basistegemoetkoming voor zorg.</p>","nl-BE-x-generated-informal":"<p>Aanvullende financiering voor de woonzorgcentra na de integratie van het derde luik in de basistegemoetkoming voor zorg.</p>","nl":"<p>Aanvullende financiering voor de woonzorgcentra na de integratie van het derde luik in de basistegemoetkoming voor zorg.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten</p>","nl-BE-x-generated-formal":"<p>Besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten</p>","nl-BE-x-generated-informal":"<p>Besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:25:08.515880914Z","laatstGewijzigd":"2023-07-28T10:45:14.751410798Z","laatstOntvangen":"2023-07-28T10:45:14.75141191Z","productnummer":"2425","gearchiveerd":false,"subsidiemaatregel":"GT_06","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/56e0dff8-b986-4b9d-adce-9a86182908f0","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/a497ca73-c49a-4c41-ac5b-beb478b6fc66"},{"id":"1789fc0b-ab7a-4a0e-a0f0-edb0be680f03","generatedAtTime":"2023-07-28T10:45:14.651597Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies aan diensten voor gezinszorg en diensten voor logistieke hulp","nl":"Subsidies aan diensten voor gezinszorg en diensten voor logistieke hulp","nl-BE-x-generated-informal":"Subsidies aan diensten voor gezinszorg en diensten voor logistieke hulp"},"beschrijving":{"nl":"<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de diensten voor gezinszorg en de diensten voor logistieke hulp subsidies.</p><p>Een dienst voor gezinszorg biedt de volgende zorg en ondersteuning aan:</p><ol><li>persoonsverzorging;</li><li>huishoudelijke hulp;</li><li>schoonmaakhulp, al dan niet op basis van een samenwerkingsverband met een andere dienst voor gezinszorg of een lokale diensteneconomieonderneming;</li><li>algemene psychosociale en (ped)agogische ondersteuning, samenhangend met de geboden gezinszorg, vermeld in punten 1 tot en met 3;</li><li>in functie van de geboden gezinszorg, vermeld in punten 1 tot en met 4: de ondersteuning en versterking van gebruikers en hun informele zorg- en ondersteuningsnetwerk bij het opnemen van de eigen zorgregie, het op aangeven van en in samenspraak met de gebruiker bepalen en opvolgen van zorg-, ondersteunings- en ontwikkelingsdoelen in het zorg- en ondersteuningsplan, en op verzoek van de gebruiker het coördineren van de integrale en geïntegreerde zorg en ondersteuning.</li></ol><p>De financiering van de diensten voor logistieke hulp stopt op 1/1/2023.</p>","nl-BE-x-generated-formal":"<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de diensten voor gezinszorg en de diensten voor logistieke hulp subsidies.</p><p>Een dienst voor gezinszorg biedt de volgende zorg en ondersteuning aan:</p><ol><li>persoonsverzorging;</li><li>huishoudelijke hulp;</li><li>schoonmaakhulp, al dan niet op basis van een samenwerkingsverband met een andere dienst voor gezinszorg of een lokale diensteneconomieonderneming;</li><li>algemene psychosociale en (ped)agogische ondersteuning, samenhangend met de geboden gezinszorg, vermeld in punten 1 tot en met 3;</li><li>in functie van de geboden gezinszorg, vermeld in punten 1 tot en met 4: de ondersteuning en versterking van gebruikers en hun informele zorg- en ondersteuningsnetwerk bij het opnemen van de eigen zorgregie, het op aangeven van en in samenspraak met de gebruiker bepalen en opvolgen van zorg-, ondersteunings- en ontwikkelingsdoelen in het zorg- en ondersteuningsplan, en op verzoek van de gebruiker het coördineren van de integrale en geïntegreerde zorg en ondersteuning.</li></ol><p>De financiering van de diensten voor logistieke hulp stopt op 1/1/2023.</p>","nl-BE-x-generated-informal":"<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de diensten voor gezinszorg en de diensten voor logistieke hulp subsidies.</p><p>Een dienst voor gezinszorg biedt de volgende zorg en ondersteuning aan:</p><ol><li>persoonsverzorging;</li><li>huishoudelijke hulp;</li><li>schoonmaakhulp, al dan niet op basis van een samenwerkingsverband met een andere dienst voor gezinszorg of een lokale diensteneconomieonderneming;</li><li>algemene psychosociale en (ped)agogische ondersteuning, samenhangend met de geboden gezinszorg, vermeld in punten 1 tot en met 3;</li><li>in functie van de geboden gezinszorg, vermeld in punten 1 tot en met 4: de ondersteuning en versterking van gebruikers en hun informele zorg- en ondersteuningsnetwerk bij het opnemen van de eigen zorgregie, het op aangeven van en in samenspraak met de gebruiker bepalen en opvolgen van zorg-, ondersteunings- en ontwikkelingsdoelen in het zorg- en ondersteuningsplan, en op verzoek van de gebruiker het coördineren van de integrale en geïntegreerde zorg en ondersteuning.</li></ol><p>De financiering van de diensten voor logistieke hulp stopt op 1/1/2023.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Dienst voor gezinszorg: het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p><p>Dienst logistieke hulp: een dienst voor logistieke hulp als vermeld in artikel 8 en 9 van het Woonzorgdecreet van 13 maart 2009 en als vermeld in artikel 96 van het Woonzorgdecreet van 15 februari 2019</p>","nl-BE-x-generated-formal":"<p>Dienst voor gezinszorg: het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p><p>Dienst logistieke hulp: een dienst voor logistieke hulp als vermeld in artikel 8 en 9 van het Woonzorgdecreet van 13 maart 2009 en als vermeld in artikel 96 van het Woonzorgdecreet van 15 februari 2019</p>","nl":"<p>Dienst voor gezinszorg: het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p><p>Dienst logistieke hulp: een dienst voor logistieke hulp als vermeld in artikel 8 en 9 van het Woonzorgdecreet van 13 maart 2009 en als vermeld in artikel 96 van het Woonzorgdecreet van 15 februari 2019</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:33.630233971Z","laatstGewijzigd":"2023-07-28T10:45:14.476160381Z","laatstOntvangen":"2023-07-28T10:45:14.476161296Z","productnummer":"2151","gearchiveerd":false,"subsidiemaatregel":"GT_10","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1789fc0b-ab7a-4a0e-a0f0-edb0be680f03","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/e2b15d21-aa7a-4fe6-852b-5828e508a635"},{"id":"c3362c7c-c6d3-4aff-9ca1-26d1cca2516c","generatedAtTime":"2023-07-28T10:45:14.354948Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies aan lokale dienstencentra en thuiszorgvoorzieningen","nl":"Subsidies aan lokale dienstencentra en thuiszorgvoorzieningen","nl-BE-x-generated-informal":"Subsidies aan lokale dienstencentra en thuiszorgvoorzieningen"},"beschrijving":{"nl":"<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de lokale dienstencentra (LDC) en de volgende thuiszorgvoorzieningen subsidies:</p><ul><li>diensten voor oppashulp (VO)</li><li>diensten maatschappelijk werk van het ziekenfonds (DMW)</li><li>diensten voor gastopvang (GO)</li><li>verenigingen voor mantelzorgers en gebruikers (VER)</li><li>regionale dienstencentra (RDC): de financiering eindigt op 1/1/2023</li></ul><p>Er zijn ook subsidies voor projecten in de Thuiszorg.</p>","nl-BE-x-generated-informal":"<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de lokale dienstencentra (LDC) en de volgende thuiszorgvoorzieningen subsidies:</p><ul><li>diensten voor oppashulp (VO)</li><li>diensten maatschappelijk werk van het ziekenfonds (DMW)</li><li>diensten voor gastopvang (GO)</li><li>verenigingen voor mantelzorgers en gebruikers (VER)</li><li>regionale dienstencentra (RDC): de financiering eindigt op 1/1/2023</li></ul><p>Er zijn ook subsidies voor projecten in de Thuiszorg.</p>","nl-BE-x-generated-formal":"<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de lokale dienstencentra (LDC) en de volgende thuiszorgvoorzieningen subsidies:</p><ul><li>diensten voor oppashulp (VO)</li><li>diensten maatschappelijk werk van het ziekenfonds (DMW)</li><li>diensten voor gastopvang (GO)</li><li>verenigingen voor mantelzorgers en gebruikers (VER)</li><li>regionale dienstencentra (RDC): de financiering eindigt op 1/1/2023</li></ul><p>Er zijn ook subsidies voor projecten in de Thuiszorg.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Onderneming","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p>","nl-BE-x-generated-informal":"<p>Het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p>","nl-BE-x-generated-formal":"<p>Het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:33.411711513Z","laatstGewijzigd":"2023-07-28T10:45:14.252586843Z","laatstOntvangen":"2023-07-28T10:45:14.252587852Z","productnummer":"2150","gearchiveerd":false,"subsidiemaatregel":"GT_09","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c3362c7c-c6d3-4aff-9ca1-26d1cca2516c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/9c7d2501-66b0-4597-837b-19aec012fd5d"},{"id":"9b97f48c-d3a7-444b-80f7-5f57a9d673a4","generatedAtTime":"2023-07-28T10:45:14.138764Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Projectsubsidies in het kader van de integrale jeugdhulpverlening","nl":"Projectsubsidies in het kader van de integrale jeugdhulpverlening","nl-BE-x-generated-informal":"Projectsubsidies in het kader van de integrale jeugdhulpverlening"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Projectsubsidies in het kader van de integrale jeugdhulpverlening</p>","nl":"<p>Projectsubsidies in het kader van de integrale jeugdhulpverlening</p>","nl-BE-x-generated-informal":"<p>Projectsubsidies in het kader van de integrale jeugdhulpverlening</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<p>Decreet betreffende de integrale jeugdhulp (12/07/2013)</p>","nl-BE-x-generated-formal":"<p>Decreet betreffende de integrale jeugdhulp (12/07/2013)</p>","nl-BE-x-generated-informal":"<p>Decreet betreffende de integrale jeugdhulp (12/07/2013)</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:26.146110881Z","laatstGewijzigd":"2023-07-28T10:45:14.059090478Z","laatstOntvangen":"2023-07-28T10:45:14.059091776Z","productnummer":"2100","gearchiveerd":false,"subsidiemaatregel":"GM","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9b97f48c-d3a7-444b-80f7-5f57a9d673a4","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/7fbe8622-1650-4283-9f98-4363f3192dbb"},{"id":"bac7ccce-8d53-49a1-a0b7-8df94299a654","generatedAtTime":"2023-07-28T10:45:13.96123Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies Vlaams intersectoraal akkoord non/social profit","nl":"Subsidies Vlaams intersectoraal akkoord non/social profit","nl-BE-x-generated-informal":"Subsidies Vlaams intersectoraal akkoord non/social profit"},"beschrijving":{"nl":"<p>Subsidies Vlaams intersectoraal akkoord non/social profit</p>","nl-BE-x-generated-informal":"<p>Subsidies Vlaams intersectoraal akkoord non/social profit</p>","nl-BE-x-generated-formal":"<p>Subsidies Vlaams intersectoraal akkoord non/social profit</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12</p>","nl-BE-x-generated-formal":"<p>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12</p>","nl":"<p>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.85195943Z","laatstGewijzigd":"2023-07-28T10:45:13.874843211Z","laatstOntvangen":"2023-07-28T10:45:13.874844167Z","productnummer":"2099","gearchiveerd":false,"subsidiemaatregel":"GF","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bac7ccce-8d53-49a1-a0b7-8df94299a654","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/739caa5c-200a-403e-947c-627d3c639dfe"},{"id":"c55262ad-3ecb-400b-b7bc-7b59f323862f","generatedAtTime":"2023-07-28T10:45:13.773711Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies ter stimulering van een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen","nl-BE-x-generated-informal":"Subsidies ter stimulering van een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen","nl":"Subsidies ter stimulering van een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Om een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen te stimuleren, erkent en subsidieert de Vlaamse Regering één of meer relevante partnerorganisaties voor maximaal 5 jaar. De Vlaamse overheid lanceerde in 2020 een oproep tot kandidatuurstelling.</p>","nl":"<p>Om een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen te stimuleren, erkent en subsidieert de Vlaamse Regering één of meer relevante partnerorganisaties voor maximaal 5 jaar. De Vlaamse overheid lanceerde in 2020 een oproep tot kandidatuurstelling.</p>","nl-BE-x-generated-informal":"<p>Om een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen te stimuleren, erkent en subsidieert de Vlaamse Regering één of meer relevante partnerorganisaties voor maximaal 5 jaar. De Vlaamse overheid lanceerde in 2020 een oproep tot kandidatuurstelling.</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-07-10T07:15:36.616177252Z","laatstGewijzigd":"2023-07-28T10:45:13.698917135Z","laatstOntvangen":"2023-07-28T10:45:13.698918018Z","productnummer":"2098","gearchiveerd":false,"subsidiemaatregel":"GE_01","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c55262ad-3ecb-400b-b7bc-7b59f323862f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/46624dc8-f8b0-4ed9-bf58-4bfcb676f1fa"},{"id":"03979da7-d304-4af0-9f02-abe404d82f6a","generatedAtTime":"2023-07-28T10:45:13.561061Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies in het kader van het lokaal sociaal beleid","nl":"Subsidies in het kader van het lokaal sociaal beleid","nl-BE-x-generated-formal":"Subsidies in het kader van het lokaal sociaal beleid"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies in het kader van het lokaal sociaal beleid</p>","nl":"<p>Subsidies in het kader van het lokaal sociaal beleid</p>","nl-BE-x-generated-formal":"<p>Subsidies in het kader van het lokaal sociaal beleid</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<ul><li>Decreet van 9 februari 2018 betreffende het lokaal sociaal beleid</li><li>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 9 februari 2018 betreffende lokaal sociaal beleid</li></ul>","nl-BE-x-generated-formal":"<ul><li>Decreet van 9 februari 2018 betreffende het lokaal sociaal beleid</li><li>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 9 februari 2018 betreffende lokaal sociaal beleid</li></ul>","nl":"<ul><li>Decreet van 9 februari 2018 betreffende het lokaal sociaal beleid</li><li>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 9 februari 2018 betreffende lokaal sociaal beleid</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.56188671Z","laatstGewijzigd":"2023-07-28T10:45:13.475111604Z","laatstOntvangen":"2023-07-28T10:45:13.475112926Z","productnummer":"2097","gearchiveerd":false,"subsidiemaatregel":"GE_01","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/03979da7-d304-4af0-9f02-abe404d82f6a","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/5875600e-3b09-4051-a627-ab6ea2560404"},{"id":"8f798963-2c5e-4d52-bfe0-c582de20e45b","generatedAtTime":"2023-07-28T10:45:13.380023Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies herstelbemiddeling","nl-BE-x-generated-formal":"Subsidies herstelbemiddeling","nl":"Subsidies herstelbemiddeling"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies herstelbemiddeling</p>","nl":"<p>Subsidies herstelbemiddeling</p>","nl-BE-x-generated-formal":"<p>Subsidies herstelbemiddeling</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<ul><li>Decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, art. 105;</li><li>Besluit van de Vlaamse Regering van 15 februari 2019 houdende de subsidiëring van initiatieven die voorzien in een herstelgericht en constructief hulp- en dienstverleningsaanbod voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, en voor slachtoffers van misdrijven, alsook voor hun onmiddellijke omgeving, dat niet wordt verstrekt ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid, hoofdstuk 2 </li></ul>","nl":"<ul><li>Decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, art. 105;</li><li>Besluit van de Vlaamse Regering van 15 februari 2019 houdende de subsidiëring van initiatieven die voorzien in een herstelgericht en constructief hulp- en dienstverleningsaanbod voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, en voor slachtoffers van misdrijven, alsook voor hun onmiddellijke omgeving, dat niet wordt verstrekt ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid, hoofdstuk 2 </li></ul>","nl-BE-x-generated-formal":"<ul><li>Decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, art. 105;</li><li>Besluit van de Vlaamse Regering van 15 februari 2019 houdende de subsidiëring van initiatieven die voorzien in een herstelgericht en constructief hulp- en dienstverleningsaanbod voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, en voor slachtoffers van misdrijven, alsook voor hun onmiddellijke omgeving, dat niet wordt verstrekt ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid, hoofdstuk 2 </li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.445840107Z","laatstGewijzigd":"2023-07-28T10:45:13.280945985Z","laatstOntvangen":"2023-07-28T10:45:13.280946956Z","productnummer":"2096","gearchiveerd":false,"subsidiemaatregel":"GE_01","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8f798963-2c5e-4d52-bfe0-c582de20e45b","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/497b08b7-f8de-45be-8d10-7cd98934ecbf"},{"id":"6b0f2409-4b1a-40bb-aa4f-a2e626c707d5","generatedAtTime":"2023-07-28T10:45:13.179815Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies aan voorzieningen algemeen welzijnswerk","nl-BE-x-generated-formal":"Subsidies aan voorzieningen algemeen welzijnswerk","nl":"Subsidies aan voorzieningen algemeen welzijnswerk"},"beschrijving":{"nl":"<p>Subsidies aan voorzieningen algemeen welzijnswerk</p>","nl-BE-x-generated-informal":"<p>Subsidies aan voorzieningen algemeen welzijnswerk</p>","nl-BE-x-generated-formal":"<p>Subsidies aan voorzieningen algemeen welzijnswerk</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>","nl":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>","nl-BE-x-generated-formal":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.327468447Z","laatstGewijzigd":"2023-07-28T10:45:13.090070367Z","laatstOntvangen":"2023-07-28T10:45:13.090071881Z","productnummer":"2095","gearchiveerd":false,"subsidiemaatregel":"GE_01","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6b0f2409-4b1a-40bb-aa4f-a2e626c707d5","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/258c8339-970f-4517-b52e-e238610fca65"},{"id":"614ef4d0-769b-4ca6-9ce1-c47a433381d3","generatedAtTime":"2023-07-28T10:45:12.99347Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan samenwerkingsverbanden schuldhulpverlening","nl-BE-x-generated-formal":"Subsidies aan samenwerkingsverbanden schuldhulpverlening","nl-BE-x-generated-informal":"Subsidies aan samenwerkingsverbanden schuldhulpverlening"},"beschrijving":{"nl":"<p>Subsidies aan samenwerkingsverbanden schuldhulpverlening</p>","nl-BE-x-generated-informal":"<p>Subsidies aan samenwerkingsverbanden schuldhulpverlening</p>","nl-BE-x-generated-formal":"<p>Subsidies aan samenwerkingsverbanden schuldhulpverlening</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 5/10/1996);</li><li>Besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 30/05/1997).</li></ul>","nl-BE-x-generated-formal":"<ul><li>Decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 5/10/1996);</li><li>Besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 30/05/1997).</li></ul>","nl-BE-x-generated-informal":"<ul><li>Decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 5/10/1996);</li><li>Besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 30/05/1997).</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.184749328Z","laatstGewijzigd":"2023-07-28T10:45:12.901417908Z","laatstOntvangen":"2023-07-28T10:45:12.901418955Z","productnummer":"2094","gearchiveerd":false,"subsidiemaatregel":"GE_01","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/614ef4d0-769b-4ca6-9ce1-c47a433381d3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/47ad7f2b-4cec-4298-8dbb-7443b2c47f63"},{"id":"0aae3efb-9c1a-41ae-8be6-89a533790d79","generatedAtTime":"2023-07-28T10:45:12.755362Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan centra voor tele-onthaal","nl-BE-x-generated-formal":"Subsidies aan centra voor tele-onthaal","nl-BE-x-generated-informal":"Subsidies aan centra voor tele-onthaal"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies aan centra voor tele-onthaal</p>","nl-BE-x-generated-formal":"<p>Subsidies aan centra voor tele-onthaal</p>","nl":"<p>Subsidies aan centra voor tele-onthaal</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009)</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>","nl-BE-x-generated-formal":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009)</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>","nl-BE-x-generated-informal":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009)</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:25.071778029Z","laatstGewijzigd":"2023-07-28T10:45:12.669479585Z","laatstOntvangen":"2023-07-28T10:45:12.669481021Z","productnummer":"2093","gearchiveerd":false,"subsidiemaatregel":"GE_01","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0aae3efb-9c1a-41ae-8be6-89a533790d79","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/20aa56aa-b760-4655-be13-ded7503cf651"},{"id":"3c53fed5-3c8a-4f2a-a22b-75e1b45af0ba","generatedAtTime":"2023-07-28T10:45:12.547869Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies aan casemanagers zorg","nl-BE-x-generated-formal":"Subsidies aan casemanagers zorg","nl":"Subsidies aan casemanagers zorg"},"beschrijving":{"nl":"<p>Subsidies aan casemanagers zorg</p>","nl-BE-x-generated-informal":"<p>Subsidies aan casemanagers zorg</p>","nl-BE-x-generated-formal":"<p>Subsidies aan casemanagers zorg</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<ul><li> Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>","nl-BE-x-generated-formal":"<ul><li> Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>","nl":"<ul><li> Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:24.814640654Z","laatstGewijzigd":"2023-07-28T10:45:12.444922888Z","laatstOntvangen":"2023-07-28T10:45:12.444923684Z","productnummer":"2092","gearchiveerd":false,"subsidiemaatregel":"GE_01","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3c53fed5-3c8a-4f2a-a22b-75e1b45af0ba","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/bdd7b656-a237-4813-9da9-f455a2619576"},{"id":"2f1f53fa-a74a-419b-b589-5cfc63c19e56","generatedAtTime":"2023-07-28T10:45:12.341645Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Subsidies aan begeleiders van arbeidsmatige activiteiten","nl":"Subsidies aan begeleiders van arbeidsmatige activiteiten","nl-BE-x-generated-formal":"Subsidies aan begeleiders van arbeidsmatige activiteiten"},"beschrijving":{"nl":"<p>Subsidies aan begeleiders van arbeidsmatige activiteiten</p>","nl-BE-x-generated-formal":"<p>Subsidies aan begeleiders van arbeidsmatige activiteiten</p>","nl-BE-x-generated-informal":"<p>Subsidies aan begeleiders van arbeidsmatige activiteiten</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<ul><li>Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>","nl-BE-x-generated-formal":"<ul><li>Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>","nl":"<ul><li>Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:24.525913045Z","laatstGewijzigd":"2023-07-28T10:45:12.231224027Z","laatstOntvangen":"2023-07-28T10:45:12.231224875Z","productnummer":"2091","gearchiveerd":false,"subsidiemaatregel":"GE_01","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2f1f53fa-a74a-419b-b589-5cfc63c19e56","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/cd601045-7ee2-4249-9e9c-12481888a030"},{"id":"ee002ac8-ae43-4497-a077-2ed8858dbbac","generatedAtTime":"2023-07-28T10:45:12.099011Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Structurele werkingssubsidies welzijnswerk","nl-BE-x-generated-formal":"Structurele werkingssubsidies welzijnswerk","nl-BE-x-generated-informal":"Structurele werkingssubsidies welzijnswerk"},"beschrijving":{"nl-BE-x-generated-formal":"<p>Structurele werkingssubsidies welzijnswerk</p>","nl":"<p>Structurele werkingssubsidies welzijnswerk</p>","nl-BE-x-generated-informal":"<p>Structurele werkingssubsidies welzijnswerk</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>","nl":"<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>","nl-BE-x-generated-informal":"<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:24.40999116Z","laatstGewijzigd":"2023-07-28T10:45:12.016569479Z","laatstOntvangen":"2023-07-28T10:45:12.016571111Z","productnummer":"2090","gearchiveerd":false,"subsidiemaatregel":"GE_01","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ee002ac8-ae43-4497-a077-2ed8858dbbac","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/f4c0bc47-117f-4112-b1ec-8b20845ff335"},{"id":"40c173a2-1bbd-4699-b0fb-bb9bcd5fa287","generatedAtTime":"2023-07-28T10:45:11.916094Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Projectsubsidies in het kader van het algemeen welzijnswerk","nl-BE-x-generated-formal":"Projectsubsidies in het kader van het algemeen welzijnswerk","nl":"Projectsubsidies in het kader van het algemeen welzijnswerk"},"beschrijving":{"nl":"<p>Projectsubsidies in het kader van het algemeen welzijnswerk</p>","nl-BE-x-generated-informal":"<p>Projectsubsidies in het kader van het algemeen welzijnswerk</p>","nl-BE-x-generated-formal":"<p>Projectsubsidies in het kader van het algemeen welzijnswerk</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013)</li></ul>","nl-BE-x-generated-formal":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013)</li></ul>","nl":"<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013)</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:24.276717729Z","laatstGewijzigd":"2023-07-28T10:45:11.825202961Z","laatstOntvangen":"2023-07-28T10:45:11.825204402Z","productnummer":"2089","gearchiveerd":false,"subsidiemaatregel":"GE_01","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/40c173a2-1bbd-4699-b0fb-bb9bcd5fa287","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/02337ed1-ea19-4d79-8fb6-8b8ff4e886fb"},{"id":"d152e46c-083c-4ed0-8ec3-19d7ad97b262","generatedAtTime":"2023-07-28T10:45:11.728467Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan autonoom vrijwilligerswerk in de zorgsector","nl-BE-x-generated-informal":"Subsidies aan autonoom vrijwilligerswerk in de zorgsector","nl-BE-x-generated-formal":"Subsidies aan autonoom vrijwilligerswerk in de zorgsector"},"beschrijving":{"nl":"<p>Subsidies aan autonoom vrijwilligerswerk in de zorgsector</p>","nl-BE-x-generated-informal":"<p>Subsidies aan autonoom vrijwilligerswerk in de zorgsector</p>","nl-BE-x-generated-formal":"<p>Subsidies aan autonoom vrijwilligerswerk in de zorgsector</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 3 april 2009 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin (B.S. 17/09/2009); </li><li>Besluit van de Vlaamse Regering van 26 februari 2010 houdende de algemene bepalingen die van toepassing zijn op erkende organisaties voor autonoom vrijwilligerswerk en de organisaties met ingebouwd vrijwilligerswerk (B.S. 19/03/2010)</li><li>Besluit van de Vlaamse Regering van 26 februari 2010 tot regeling van de erkenning en de subsidiëring van organisaties voor autonoom vrijwilligerswerk. (B.S. 22/03/2010)</li></ul>","nl-BE-x-generated-informal":"<ul><li>Decreet van 3 april 2009 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin (B.S. 17/09/2009); </li><li>Besluit van de Vlaamse Regering van 26 februari 2010 houdende de algemene bepalingen die van toepassing zijn op erkende organisaties voor autonoom vrijwilligerswerk en de organisaties met ingebouwd vrijwilligerswerk (B.S. 19/03/2010)</li><li>Besluit van de Vlaamse Regering van 26 februari 2010 tot regeling van de erkenning en de subsidiëring van organisaties voor autonoom vrijwilligerswerk. (B.S. 22/03/2010)</li></ul>","nl-BE-x-generated-formal":"<ul><li>Decreet van 3 april 2009 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin (B.S. 17/09/2009); </li><li>Besluit van de Vlaamse Regering van 26 februari 2010 houdende de algemene bepalingen die van toepassing zijn op erkende organisaties voor autonoom vrijwilligerswerk en de organisaties met ingebouwd vrijwilligerswerk (B.S. 19/03/2010)</li><li>Besluit van de Vlaamse Regering van 26 februari 2010 tot regeling van de erkenning en de subsidiëring van organisaties voor autonoom vrijwilligerswerk. (B.S. 22/03/2010)</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:24.115731937Z","laatstGewijzigd":"2023-07-28T10:45:11.627219551Z","laatstOntvangen":"2023-07-28T10:45:11.627220581Z","productnummer":"2088","gearchiveerd":false,"subsidiemaatregel":"GE_02","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d152e46c-083c-4ed0-8ec3-19d7ad97b262","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/599df3eb-8d37-4439-87a2-e0c9066702cc"},{"id":"28cca4df-edca-41ab-91fc-4210b614ec27","generatedAtTime":"2023-07-28T10:45:11.533381Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Structurele werkingssubsidies vrijwilligerswerk","nl":"Structurele werkingssubsidies vrijwilligerswerk","nl-BE-x-generated-informal":"Structurele werkingssubsidies vrijwilligerswerk"},"beschrijving":{"nl":"<p>Structurele werkingssubsidies vrijwilligerswerk</p>","nl-BE-x-generated-formal":"<p>Structurele werkingssubsidies vrijwilligerswerk</p>","nl-BE-x-generated-informal":"<p>Structurele werkingssubsidies vrijwilligerswerk</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-informal":"<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021). </p>","nl":"<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021). </p>","nl-BE-x-generated-formal":"<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021). </p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-03-24T06:40:44.824201083Z","laatstGewijzigd":"2023-07-28T10:45:11.450741616Z","laatstOntvangen":"2023-07-28T10:45:11.450742459Z","productnummer":"2087","gearchiveerd":false,"subsidiemaatregel":"GE_02","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/28cca4df-edca-41ab-91fc-4210b614ec27","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/34d44e91-0ec4-4e8a-8085-860137a710fb"},{"id":"fc595ef8-6b59-464a-ba06-68a99ca87c51","generatedAtTime":"2023-07-28T10:45:11.340114Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting","nl-BE-x-generated-informal":"Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting","nl-BE-x-generated-formal":"Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting</p>","nl-BE-x-generated-formal":"<p>Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting</p>","nl":"<p>Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>","nl":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>","nl-BE-x-generated-informal":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:23.860679825Z","laatstGewijzigd":"2023-07-28T10:45:11.248026153Z","laatstOntvangen":"2023-07-28T10:45:11.248027535Z","productnummer":"2086","gearchiveerd":false,"subsidiemaatregel":"GC","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fc595ef8-6b59-464a-ba06-68a99ca87c51","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/01a765d1-e00e-4468-bbcd-af66f685f680"},{"id":"33e6c27c-718c-4642-9cc7-852acd118838","generatedAtTime":"2023-07-28T10:45:11.125662Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen","nl-BE-x-generated-informal":"Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen","nl":"Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen</p>","nl":"<p>Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen</p>","nl-BE-x-generated-formal":"<p>Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>","nl":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>","nl-BE-x-generated-informal":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:23.712782926Z","laatstGewijzigd":"2023-07-28T10:45:11.035463432Z","laatstOntvangen":"2023-07-28T10:45:11.035464732Z","productnummer":"2085","gearchiveerd":false,"subsidiemaatregel":"GC","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/33e6c27c-718c-4642-9cc7-852acd118838","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/77efeb46-8238-4431-93c3-7dd6cf684964"},{"id":"6f9592a7-27a7-4be1-861c-822b38148580","generatedAtTime":"2023-07-28T10:45:10.928669Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies aan de verenigingen waar armen het woord nemen","nl":"Subsidies aan de verenigingen waar armen het woord nemen","nl-BE-x-generated-informal":"Subsidies aan de verenigingen waar armen het woord nemen"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies aan de verenigingen waar armen het woord nemen</p>","nl":"<p>Subsidies aan de verenigingen waar armen het woord nemen</p>","nl-BE-x-generated-formal":"<p>Subsidies aan de verenigingen waar armen het woord nemen</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Vereniging","Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>","nl":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>","nl-BE-x-generated-informal":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-03-24T06:40:44.706640068Z","laatstGewijzigd":"2023-07-28T10:45:10.837932424Z","laatstOntvangen":"2023-07-28T10:45:10.83793332Z","productnummer":"2084","gearchiveerd":false,"subsidiemaatregel":"GC","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6f9592a7-27a7-4be1-861c-822b38148580","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/341bbc61-6456-4288-b664-63924e5e441c"},{"id":"bba3ea9f-d9f8-4c4a-ad44-34e969bfa87c","generatedAtTime":"2023-07-28T10:45:10.705475Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Subsidies aan de instituten voor maatschappelijk opbouwwerk","nl-BE-x-generated-informal":"Subsidies aan de instituten voor maatschappelijk opbouwwerk","nl":"Subsidies aan de instituten voor maatschappelijk opbouwwerk"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Subsidies aan de instituten voor maatschappelijk opbouwwerk</p>","nl-BE-x-generated-formal":"<p>Subsidies aan de instituten voor maatschappelijk opbouwwerk</p>","nl":"<p>Subsidies aan de instituten voor maatschappelijk opbouwwerk</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl":"<ul><li>Decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.S. 27/08/1991);</li><li>Besluit van de Vlaamse Regering van 17 juli 2000 tot uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.s. 16/07/2009).</li></ul>","nl-BE-x-generated-informal":"<ul><li>Decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.S. 27/08/1991);</li><li>Besluit van de Vlaamse Regering van 17 juli 2000 tot uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.s. 16/07/2009).</li></ul>","nl-BE-x-generated-formal":"<ul><li>Decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.S. 27/08/1991);</li><li>Besluit van de Vlaamse Regering van 17 juli 2000 tot uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.s. 16/07/2009).</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:23.47601332Z","laatstGewijzigd":"2023-07-28T10:45:10.609441222Z","laatstOntvangen":"2023-07-28T10:45:10.609442035Z","productnummer":"2083","gearchiveerd":false,"subsidiemaatregel":"GC","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bba3ea9f-d9f8-4c4a-ad44-34e969bfa87c","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/2b08a261-8af4-4a4d-882a-01e3657fa13e"},{"id":"7e6cc006-01b2-423a-ad92-a2f73c49268f","generatedAtTime":"2023-07-28T10:45:10.512647Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl":"Structurele werkingssubsidies in het kader van armoedebestrijding","nl-BE-x-generated-formal":"Structurele werkingssubsidies in het kader van armoedebestrijding","nl-BE-x-generated-informal":"Structurele werkingssubsidies in het kader van armoedebestrijding"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Structurele werkingssubsidies in het kader van armoedebestrijding</p>","nl":"<p>Structurele werkingssubsidies in het kader van armoedebestrijding</p>","nl-BE-x-generated-formal":"<p>Structurele werkingssubsidies in het kader van armoedebestrijding</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>","nl":"<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>","nl-BE-x-generated-informal":"<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:23.331268888Z","laatstGewijzigd":"2023-07-28T10:45:10.42836604Z","laatstOntvangen":"2023-07-28T10:45:10.428366907Z","productnummer":"2082","gearchiveerd":false,"subsidiemaatregel":"GC","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7e6cc006-01b2-423a-ad92-a2f73c49268f","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/721bdcda-3519-4787-b80a-f6e689afb884"},{"id":"161a8377-ace6-4ecf-8f6f-e2d667e527f3","generatedAtTime":"2023-07-28T10:45:10.317428Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-informal":"Projectsubsidies in het kader van armoedebestrijding","nl-BE-x-generated-formal":"Projectsubsidies in het kader van armoedebestrijding","nl":"Projectsubsidies in het kader van armoedebestrijding"},"beschrijving":{"nl":"<p>Projectsubsidies in het kader van armoedebestrijding</p>","nl-BE-x-generated-informal":"<p>Projectsubsidies in het kader van armoedebestrijding</p>","nl-BE-x-generated-formal":"<p>Projectsubsidies in het kader van armoedebestrijding</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>","nl":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>","nl-BE-x-generated-informal":"<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:23.210686494Z","laatstGewijzigd":"2023-07-28T10:45:10.196441575Z","laatstOntvangen":"2023-07-28T10:45:10.196442489Z","productnummer":"2081","gearchiveerd":false,"subsidiemaatregel":"GC","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/161a8377-ace6-4ecf-8f6f-e2d667e527f3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/32f2bd81-620d-4560-aa96-4eb2b40a2b1e"},{"id":"fc92eeca-2d14-4c35-b9bd-8b850089caa3","generatedAtTime":"2023-07-28T10:45:10.087546Z","bevoegdBestuursniveaus":["Vlaams"],"uitvoerendBestuursniveaus":["Vlaams"],"naam":{"nl-BE-x-generated-formal":"Projectsubsidies in het kader van beleidsondersteuning","nl-BE-x-generated-informal":"Projectsubsidies in het kader van beleidsondersteuning","nl":"Projectsubsidies in het kader van beleidsondersteuning"},"beschrijving":{"nl-BE-x-generated-informal":"<p>Projectsubsidies in het kader van beleidsondersteuning</p>","nl-BE-x-generated-formal":"<p>Projectsubsidies in het kader van beleidsondersteuning</p>","nl":"<p>Projectsubsidies in het kader van beleidsondersteuning</p>"},"type":"FinancieelVoordeel","themas":["WelzijnGezondheid"],"doelgroepen":["Organisatie"],"geografischToepassingsgebieden":["BE2"],"regelgevingTekst":{"nl-BE-x-generated-formal":"<p>Algemeen: <br/>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br/>Projectsubsidie specifiek zorgzame buurten:<br/>-Decreet betreffende het lokaal sociaal beleid van 9 februari 2018, artikel 19 en het besluit van de Vlaamse Regering van 30 november 2018 betreffende het lokaal sociaal beleid, vermeld in artikels 2, 9 tot en met 11, 17, 19 en 26 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid, artikel 7 en het besluit van de Vlaamse Regering van 7 december 2018 betreffende de Vlaamse beleidsprioriteiten in het kader van het lokaal sociaal beleid en de subsidiëring van samenwerkingsverbanden geïntegreerd breed onthaal<br/>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br/>-Besluit van de Vlaamse Regering van 15 september 2006 betreffende de steunpunten voor beleidsrelevant onderzoek.</p>","nl":"<p>Algemeen: <br />-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br />Projectsubsidie specifiek zorgzame buurten:<br />-Decreet betreffende het lokaal sociaal beleid van 9 februari 2018, artikel 19 en het besluit van de Vlaamse Regering van 30 november 2018 betreffende het lokaal sociaal beleid, vermeld in artikels 2, 9 tot en met 11, 17, 19 en 26 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid, artikel 7 en het besluit van de Vlaamse Regering van 7 december 2018 betreffende de Vlaamse beleidsprioriteiten in het kader van het lokaal sociaal beleid en de subsidiëring van samenwerkingsverbanden geïntegreerd breed onthaal<br />-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br />-Besluit van de Vlaamse Regering van 15 september 2006 betreffende de steunpunten voor beleidsrelevant onderzoek.</p>","nl-BE-x-generated-informal":"<p>Algemeen: <br/>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br/>Projectsubsidie specifiek zorgzame buurten:<br/>-Decreet betreffende het lokaal sociaal beleid van 9 februari 2018, artikel 19 en het besluit van de Vlaamse Regering van 30 november 2018 betreffende het lokaal sociaal beleid, vermeld in artikels 2, 9 tot en met 11, 17, 19 en 26 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid, artikel 7 en het besluit van de Vlaamse Regering van 7 december 2018 betreffende de Vlaamse beleidsprioriteiten in het kader van het lokaal sociaal beleid en de subsidiëring van samenwerkingsverbanden geïntegreerd breed onthaal<br/>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br/>-Besluit van de Vlaamse Regering van 15 september 2006 betreffende de steunpunten voor beleidsrelevant onderzoek.</p>"},"bevoegdeOverheden":[{"id":"OVO000056","@id":"OVO000056"}],"creatie":"2023-05-04T14:15:23.095201718Z","laatstGewijzigd":"2023-07-28T10:45:09.957689247Z","laatstOntvangen":"2023-07-28T10:45:09.95769041Z","productnummer":"2080","gearchiveerd":false,"subsidiemaatregel":"GB","metadata":{"uJeVersie":"31.4.0","generatedFormeleFields":true,"generatedInformeleFields":true},"@id":"https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fc92eeca-2d14-4c35-b9bd-8b850089caa3","@type":"InstantieSnapshot","isVersionOf":"https://ipdc.tni-vlaanderen.be/id/instantie/b76bef18-9e89-4622-942b-5c4310f3b628"}]}
+{
+  "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
+  "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
+  "view": {
+    "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=795",
+    "@type": "Node",
+    "relation": [
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=794",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-07-28T10:45:10.087546Z",
+        "@type": "LessThanOrEqualToRelation"
+      },
+      {
+        "node": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=796",
+        "path": "http://www.w3.org/ns/prov#generatedAtTime",
+        "value": "2023-07-28T10:45:15.066426Z",
+        "@type": "GreaterThanOrEqualToRelation"
+      }
+    ]
+  },
+  "@context": [
+    "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
+    "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
+  ],
+  "@id": "https://ipdc.tni-vlaanderen.be/doc/instantiesnapshot?limit=25&pageNumber=795",
+  "@type": "EventStream",
+  "member": [
+    {
+      "id": "73432c75-be0d-4ff7-8542-737148be6803",
+      "generatedAtTime": "2023-07-28T10:45:15.066426Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Tegemoetkoming voor zorg woonzorgcentra en centra voor kortverblijf",
+        "nl-BE-x-generated-informal": "Tegemoetkoming voor zorg woonzorgcentra en centra voor kortverblijf",
+        "nl": "Tegemoetkoming voor zorg woonzorgcentra en centra voor kortverblijf"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>De woonzorgcentra, al dan niet met bijhorend centrum voor kortverblijf, kunnen per bewoner, per verblijfsdag de tegemoetkoming voor zorg factureren aan de zorgkas waarbij de bewoner in kwestie is aangesloten. Het agentschap Vlaamse Sociale Bescherming stelt hiervoor de nodige budgetten ter beschikking aan de zorgkassen.</p><p>Onder de tegemoetkoming voor zorg valt enerzijds de basistegemoetkoming voor zorg. Deze wordt bepaald op basis van het zorgprofiel van de bewoners en het aanwezige personeel in de voorziening in kwestie.</p><p>Daarnaast valt onder de tegemoetkoming voor zorg ook de tegemoetkoming in de kosten voor incontinentiemateriaal van zwaar zorgbehoevenden of van niet-afhankelijke personen.</p>",
+        "nl": "<p>De woonzorgcentra, al dan niet met bijhorend centrum voor kortverblijf, kunnen per bewoner, per verblijfsdag de tegemoetkoming voor zorg factureren aan de zorgkas waarbij de bewoner in kwestie is aangesloten. Het agentschap Vlaamse Sociale Bescherming stelt hiervoor de nodige budgetten ter beschikking aan de zorgkassen.</p><p>Onder de tegemoetkoming voor zorg valt enerzijds de basistegemoetkoming voor zorg. Deze wordt bepaald op basis van het zorgprofiel van de bewoners en het aanwezige personeel in de voorziening in kwestie.</p><p>Daarnaast valt onder de tegemoetkoming voor zorg ook de tegemoetkoming in de kosten voor incontinentiemateriaal van zwaar zorgbehoevenden of van niet-afhankelijke personen.</p>",
+        "nl-BE-x-generated-formal": "<p>De woonzorgcentra, al dan niet met bijhorend centrum voor kortverblijf, kunnen per bewoner, per verblijfsdag de tegemoetkoming voor zorg factureren aan de zorgkas waarbij de bewoner in kwestie is aangesloten. Het agentschap Vlaamse Sociale Bescherming stelt hiervoor de nodige budgetten ter beschikking aan de zorgkassen.</p><p>Onder de tegemoetkoming voor zorg valt enerzijds de basistegemoetkoming voor zorg. Deze wordt bepaald op basis van het zorgprofiel van de bewoners en het aanwezige personeel in de voorziening in kwestie.</p><p>Daarnaast valt onder de tegemoetkoming voor zorg ook de tegemoetkoming in de kosten voor incontinentiemateriaal van zwaar zorgbehoevenden of van niet-afhankelijke personen.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>",
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>",
+        "nl": "<p>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-03-24T06:45:09.315795521Z",
+      "laatstGewijzigd": "2023-07-28T10:45:14.943747604Z",
+      "laatstOntvangen": "2023-07-28T10:45:14.943748826Z",
+      "productnummer": "2424",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GT_06",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/73432c75-be0d-4ff7-8542-737148be6803",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/4e0eb570-317b-45a5-8c64-8f298c9966e9"
+    },
+    {
+      "id": "56e0dff8-b986-4b9d-adce-9a86182908f0",
+      "generatedAtTime": "2023-07-28T10:45:14.843142Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Aanvullende financiering woonzorgcentra",
+        "nl": "Aanvullende financiering woonzorgcentra",
+        "nl-BE-x-generated-informal": "Aanvullende financiering woonzorgcentra"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Aanvullende financiering voor de woonzorgcentra na de integratie van het derde luik in de basistegemoetkoming voor zorg.</p>",
+        "nl-BE-x-generated-informal": "<p>Aanvullende financiering voor de woonzorgcentra na de integratie van het derde luik in de basistegemoetkoming voor zorg.</p>",
+        "nl": "<p>Aanvullende financiering voor de woonzorgcentra na de integratie van het derde luik in de basistegemoetkoming voor zorg.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten</p>",
+        "nl-BE-x-generated-formal": "<p>Besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten</p>",
+        "nl-BE-x-generated-informal": "<p>Besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:25:08.515880914Z",
+      "laatstGewijzigd": "2023-07-28T10:45:14.751410798Z",
+      "laatstOntvangen": "2023-07-28T10:45:14.75141191Z",
+      "productnummer": "2425",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GT_06",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/56e0dff8-b986-4b9d-adce-9a86182908f0",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/a497ca73-c49a-4c41-ac5b-beb478b6fc66"
+    },
+    {
+      "id": "1789fc0b-ab7a-4a0e-a0f0-edb0be680f03",
+      "generatedAtTime": "2023-07-28T10:45:14.651597Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies aan diensten voor gezinszorg en diensten voor logistieke hulp",
+        "nl": "Subsidies aan diensten voor gezinszorg en diensten voor logistieke hulp",
+        "nl-BE-x-generated-informal": "Subsidies aan diensten voor gezinszorg en diensten voor logistieke hulp"
+      },
+      "beschrijving": {
+        "nl": "<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de diensten voor gezinszorg en de diensten voor logistieke hulp subsidies.</p><p>Een dienst voor gezinszorg biedt de volgende zorg en ondersteuning aan:</p><ol><li>persoonsverzorging;</li><li>huishoudelijke hulp;</li><li>schoonmaakhulp, al dan niet op basis van een samenwerkingsverband met een andere dienst voor gezinszorg of een lokale diensteneconomieonderneming;</li><li>algemene psychosociale en (ped)agogische ondersteuning, samenhangend met de geboden gezinszorg, vermeld in punten 1 tot en met 3;</li><li>in functie van de geboden gezinszorg, vermeld in punten 1 tot en met 4: de ondersteuning en versterking van gebruikers en hun informele zorg- en ondersteuningsnetwerk bij het opnemen van de eigen zorgregie, het op aangeven van en in samenspraak met de gebruiker bepalen en opvolgen van zorg-, ondersteunings- en ontwikkelingsdoelen in het zorg- en ondersteuningsplan, en op verzoek van de gebruiker het coördineren van de integrale en geïntegreerde zorg en ondersteuning.</li></ol><p>De financiering van de diensten voor logistieke hulp stopt op 1/1/2023.</p>",
+        "nl-BE-x-generated-formal": "<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de diensten voor gezinszorg en de diensten voor logistieke hulp subsidies.</p><p>Een dienst voor gezinszorg biedt de volgende zorg en ondersteuning aan:</p><ol><li>persoonsverzorging;</li><li>huishoudelijke hulp;</li><li>schoonmaakhulp, al dan niet op basis van een samenwerkingsverband met een andere dienst voor gezinszorg of een lokale diensteneconomieonderneming;</li><li>algemene psychosociale en (ped)agogische ondersteuning, samenhangend met de geboden gezinszorg, vermeld in punten 1 tot en met 3;</li><li>in functie van de geboden gezinszorg, vermeld in punten 1 tot en met 4: de ondersteuning en versterking van gebruikers en hun informele zorg- en ondersteuningsnetwerk bij het opnemen van de eigen zorgregie, het op aangeven van en in samenspraak met de gebruiker bepalen en opvolgen van zorg-, ondersteunings- en ontwikkelingsdoelen in het zorg- en ondersteuningsplan, en op verzoek van de gebruiker het coördineren van de integrale en geïntegreerde zorg en ondersteuning.</li></ol><p>De financiering van de diensten voor logistieke hulp stopt op 1/1/2023.</p>",
+        "nl-BE-x-generated-informal": "<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de diensten voor gezinszorg en de diensten voor logistieke hulp subsidies.</p><p>Een dienst voor gezinszorg biedt de volgende zorg en ondersteuning aan:</p><ol><li>persoonsverzorging;</li><li>huishoudelijke hulp;</li><li>schoonmaakhulp, al dan niet op basis van een samenwerkingsverband met een andere dienst voor gezinszorg of een lokale diensteneconomieonderneming;</li><li>algemene psychosociale en (ped)agogische ondersteuning, samenhangend met de geboden gezinszorg, vermeld in punten 1 tot en met 3;</li><li>in functie van de geboden gezinszorg, vermeld in punten 1 tot en met 4: de ondersteuning en versterking van gebruikers en hun informele zorg- en ondersteuningsnetwerk bij het opnemen van de eigen zorgregie, het op aangeven van en in samenspraak met de gebruiker bepalen en opvolgen van zorg-, ondersteunings- en ontwikkelingsdoelen in het zorg- en ondersteuningsplan, en op verzoek van de gebruiker het coördineren van de integrale en geïntegreerde zorg en ondersteuning.</li></ol><p>De financiering van de diensten voor logistieke hulp stopt op 1/1/2023.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Dienst voor gezinszorg: het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p><p>Dienst logistieke hulp: een dienst voor logistieke hulp als vermeld in artikel 8 en 9 van het Woonzorgdecreet van 13 maart 2009 en als vermeld in artikel 96 van het Woonzorgdecreet van 15 februari 2019</p>",
+        "nl-BE-x-generated-formal": "<p>Dienst voor gezinszorg: het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p><p>Dienst logistieke hulp: een dienst voor logistieke hulp als vermeld in artikel 8 en 9 van het Woonzorgdecreet van 13 maart 2009 en als vermeld in artikel 96 van het Woonzorgdecreet van 15 februari 2019</p>",
+        "nl": "<p>Dienst voor gezinszorg: het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p><p>Dienst logistieke hulp: een dienst voor logistieke hulp als vermeld in artikel 8 en 9 van het Woonzorgdecreet van 13 maart 2009 en als vermeld in artikel 96 van het Woonzorgdecreet van 15 februari 2019</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:33.630233971Z",
+      "laatstGewijzigd": "2023-07-28T10:45:14.476160381Z",
+      "laatstOntvangen": "2023-07-28T10:45:14.476161296Z",
+      "productnummer": "2151",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GT_10",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1789fc0b-ab7a-4a0e-a0f0-edb0be680f03",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/e2b15d21-aa7a-4fe6-852b-5828e508a635"
+    },
+    {
+      "id": "c3362c7c-c6d3-4aff-9ca1-26d1cca2516c",
+      "generatedAtTime": "2023-07-28T10:45:14.354948Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies aan lokale dienstencentra en thuiszorgvoorzieningen",
+        "nl": "Subsidies aan lokale dienstencentra en thuiszorgvoorzieningen",
+        "nl-BE-x-generated-informal": "Subsidies aan lokale dienstencentra en thuiszorgvoorzieningen"
+      },
+      "beschrijving": {
+        "nl": "<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de lokale dienstencentra (LDC) en de volgende thuiszorgvoorzieningen subsidies:</p><ul><li>diensten voor oppashulp (VO)</li><li>diensten maatschappelijk werk van het ziekenfonds (DMW)</li><li>diensten voor gastopvang (GO)</li><li>verenigingen voor mantelzorgers en gebruikers (VER)</li><li>regionale dienstencentra (RDC): de financiering eindigt op 1/1/2023</li></ul><p>Er zijn ook subsidies voor projecten in de Thuiszorg.</p>",
+        "nl-BE-x-generated-informal": "<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de lokale dienstencentra (LDC) en de volgende thuiszorgvoorzieningen subsidies:</p><ul><li>diensten voor oppashulp (VO)</li><li>diensten maatschappelijk werk van het ziekenfonds (DMW)</li><li>diensten voor gastopvang (GO)</li><li>verenigingen voor mantelzorgers en gebruikers (VER)</li><li>regionale dienstencentra (RDC): de financiering eindigt op 1/1/2023</li></ul><p>Er zijn ook subsidies voor projecten in de Thuiszorg.</p>",
+        "nl-BE-x-generated-formal": "<p>Om personen met een verminderd zelfzorgvermogen te ondersteunen of te handhaven in hun natuurlijk thuismilieu, ontvangen de lokale dienstencentra (LDC) en de volgende thuiszorgvoorzieningen subsidies:</p><ul><li>diensten voor oppashulp (VO)</li><li>diensten maatschappelijk werk van het ziekenfonds (DMW)</li><li>diensten voor gastopvang (GO)</li><li>verenigingen voor mantelzorgers en gebruikers (VER)</li><li>regionale dienstencentra (RDC): de financiering eindigt op 1/1/2023</li></ul><p>Er zijn ook subsidies voor projecten in de Thuiszorg.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Onderneming",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p>",
+        "nl-BE-x-generated-informal": "<p>Het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p>",
+        "nl-BE-x-generated-formal": "<p>Het Woonzorgdecreet van 15 februari 2019 en uitvoeringsbesluiten</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:33.411711513Z",
+      "laatstGewijzigd": "2023-07-28T10:45:14.252586843Z",
+      "laatstOntvangen": "2023-07-28T10:45:14.252587852Z",
+      "productnummer": "2150",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GT_09",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c3362c7c-c6d3-4aff-9ca1-26d1cca2516c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/9c7d2501-66b0-4597-837b-19aec012fd5d"
+    },
+    {
+      "id": "9b97f48c-d3a7-444b-80f7-5f57a9d673a4",
+      "generatedAtTime": "2023-07-28T10:45:14.138764Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Projectsubsidies in het kader van de integrale jeugdhulpverlening",
+        "nl": "Projectsubsidies in het kader van de integrale jeugdhulpverlening",
+        "nl-BE-x-generated-informal": "Projectsubsidies in het kader van de integrale jeugdhulpverlening"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Projectsubsidies in het kader van de integrale jeugdhulpverlening</p>",
+        "nl": "<p>Projectsubsidies in het kader van de integrale jeugdhulpverlening</p>",
+        "nl-BE-x-generated-informal": "<p>Projectsubsidies in het kader van de integrale jeugdhulpverlening</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<p>Decreet betreffende de integrale jeugdhulp (12/07/2013)</p>",
+        "nl-BE-x-generated-formal": "<p>Decreet betreffende de integrale jeugdhulp (12/07/2013)</p>",
+        "nl-BE-x-generated-informal": "<p>Decreet betreffende de integrale jeugdhulp (12/07/2013)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:26.146110881Z",
+      "laatstGewijzigd": "2023-07-28T10:45:14.059090478Z",
+      "laatstOntvangen": "2023-07-28T10:45:14.059091776Z",
+      "productnummer": "2100",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GM",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9b97f48c-d3a7-444b-80f7-5f57a9d673a4",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/7fbe8622-1650-4283-9f98-4363f3192dbb"
+    },
+    {
+      "id": "bac7ccce-8d53-49a1-a0b7-8df94299a654",
+      "generatedAtTime": "2023-07-28T10:45:13.96123Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies Vlaams intersectoraal akkoord non/social profit",
+        "nl": "Subsidies Vlaams intersectoraal akkoord non/social profit",
+        "nl-BE-x-generated-informal": "Subsidies Vlaams intersectoraal akkoord non/social profit"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies Vlaams intersectoraal akkoord non/social profit</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies Vlaams intersectoraal akkoord non/social profit</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies Vlaams intersectoraal akkoord non/social profit</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12</p>",
+        "nl-BE-x-generated-formal": "<p>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12</p>",
+        "nl": "<p>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.85195943Z",
+      "laatstGewijzigd": "2023-07-28T10:45:13.874843211Z",
+      "laatstOntvangen": "2023-07-28T10:45:13.874844167Z",
+      "productnummer": "2099",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GF",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bac7ccce-8d53-49a1-a0b7-8df94299a654",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/739caa5c-200a-403e-947c-627d3c639dfe"
+    },
+    {
+      "id": "c55262ad-3ecb-400b-b7bc-7b59f323862f",
+      "generatedAtTime": "2023-07-28T10:45:13.773711Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies ter stimulering van een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen",
+        "nl-BE-x-generated-informal": "Subsidies ter stimulering van een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen",
+        "nl": "Subsidies ter stimulering van een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Om een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen te stimuleren, erkent en subsidieert de Vlaamse Regering één of meer relevante partnerorganisaties voor maximaal 5 jaar. De Vlaamse overheid lanceerde in 2020 een oproep tot kandidatuurstelling.</p>",
+        "nl": "<p>Om een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen te stimuleren, erkent en subsidieert de Vlaamse Regering één of meer relevante partnerorganisaties voor maximaal 5 jaar. De Vlaamse overheid lanceerde in 2020 een oproep tot kandidatuurstelling.</p>",
+        "nl-BE-x-generated-informal": "<p>Om een inclusief lokaal ouderenbeleid en de beleidsparticipatie van ouderen te stimuleren, erkent en subsidieert de Vlaamse Regering één of meer relevante partnerorganisaties voor maximaal 5 jaar. De Vlaamse overheid lanceerde in 2020 een oproep tot kandidatuurstelling.</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-07-10T07:15:36.616177252Z",
+      "laatstGewijzigd": "2023-07-28T10:45:13.698917135Z",
+      "laatstOntvangen": "2023-07-28T10:45:13.698918018Z",
+      "productnummer": "2098",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_01",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/c55262ad-3ecb-400b-b7bc-7b59f323862f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/46624dc8-f8b0-4ed9-bf58-4bfcb676f1fa"
+    },
+    {
+      "id": "03979da7-d304-4af0-9f02-abe404d82f6a",
+      "generatedAtTime": "2023-07-28T10:45:13.561061Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies in het kader van het lokaal sociaal beleid",
+        "nl": "Subsidies in het kader van het lokaal sociaal beleid",
+        "nl-BE-x-generated-formal": "Subsidies in het kader van het lokaal sociaal beleid"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies in het kader van het lokaal sociaal beleid</p>",
+        "nl": "<p>Subsidies in het kader van het lokaal sociaal beleid</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies in het kader van het lokaal sociaal beleid</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 9 februari 2018 betreffende het lokaal sociaal beleid</li><li>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 9 februari 2018 betreffende lokaal sociaal beleid</li></ul>",
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 9 februari 2018 betreffende het lokaal sociaal beleid</li><li>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 9 februari 2018 betreffende lokaal sociaal beleid</li></ul>",
+        "nl": "<ul><li>Decreet van 9 februari 2018 betreffende het lokaal sociaal beleid</li><li>Besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 9 februari 2018 betreffende lokaal sociaal beleid</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.56188671Z",
+      "laatstGewijzigd": "2023-07-28T10:45:13.475111604Z",
+      "laatstOntvangen": "2023-07-28T10:45:13.475112926Z",
+      "productnummer": "2097",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_01",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/03979da7-d304-4af0-9f02-abe404d82f6a",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/5875600e-3b09-4051-a627-ab6ea2560404"
+    },
+    {
+      "id": "8f798963-2c5e-4d52-bfe0-c582de20e45b",
+      "generatedAtTime": "2023-07-28T10:45:13.380023Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies herstelbemiddeling",
+        "nl-BE-x-generated-formal": "Subsidies herstelbemiddeling",
+        "nl": "Subsidies herstelbemiddeling"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies herstelbemiddeling</p>",
+        "nl": "<p>Subsidies herstelbemiddeling</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies herstelbemiddeling</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, art. 105;</li><li>Besluit van de Vlaamse Regering van 15 februari 2019 houdende de subsidiëring van initiatieven die voorzien in een herstelgericht en constructief hulp- en dienstverleningsaanbod voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, en voor slachtoffers van misdrijven, alsook voor hun onmiddellijke omgeving, dat niet wordt verstrekt ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid, hoofdstuk 2 </li></ul>",
+        "nl": "<ul><li>Decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, art. 105;</li><li>Besluit van de Vlaamse Regering van 15 februari 2019 houdende de subsidiëring van initiatieven die voorzien in een herstelgericht en constructief hulp- en dienstverleningsaanbod voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, en voor slachtoffers van misdrijven, alsook voor hun onmiddellijke omgeving, dat niet wordt verstrekt ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid, hoofdstuk 2 </li></ul>",
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, art. 105;</li><li>Besluit van de Vlaamse Regering van 15 februari 2019 houdende de subsidiëring van initiatieven die voorzien in een herstelgericht en constructief hulp- en dienstverleningsaanbod voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, en voor slachtoffers van misdrijven, alsook voor hun onmiddellijke omgeving, dat niet wordt verstrekt ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid, hoofdstuk 2 </li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.445840107Z",
+      "laatstGewijzigd": "2023-07-28T10:45:13.280945985Z",
+      "laatstOntvangen": "2023-07-28T10:45:13.280946956Z",
+      "productnummer": "2096",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_01",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/8f798963-2c5e-4d52-bfe0-c582de20e45b",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/497b08b7-f8de-45be-8d10-7cd98934ecbf"
+    },
+    {
+      "id": "6b0f2409-4b1a-40bb-aa4f-a2e626c707d5",
+      "generatedAtTime": "2023-07-28T10:45:13.179815Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies aan voorzieningen algemeen welzijnswerk",
+        "nl-BE-x-generated-formal": "Subsidies aan voorzieningen algemeen welzijnswerk",
+        "nl": "Subsidies aan voorzieningen algemeen welzijnswerk"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan voorzieningen algemeen welzijnswerk</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan voorzieningen algemeen welzijnswerk</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies aan voorzieningen algemeen welzijnswerk</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>",
+        "nl": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>",
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.327468447Z",
+      "laatstGewijzigd": "2023-07-28T10:45:13.090070367Z",
+      "laatstOntvangen": "2023-07-28T10:45:13.090071881Z",
+      "productnummer": "2095",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_01",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6b0f2409-4b1a-40bb-aa4f-a2e626c707d5",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/258c8339-970f-4517-b52e-e238610fca65"
+    },
+    {
+      "id": "614ef4d0-769b-4ca6-9ce1-c47a433381d3",
+      "generatedAtTime": "2023-07-28T10:45:12.99347Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan samenwerkingsverbanden schuldhulpverlening",
+        "nl-BE-x-generated-formal": "Subsidies aan samenwerkingsverbanden schuldhulpverlening",
+        "nl-BE-x-generated-informal": "Subsidies aan samenwerkingsverbanden schuldhulpverlening"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan samenwerkingsverbanden schuldhulpverlening</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan samenwerkingsverbanden schuldhulpverlening</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies aan samenwerkingsverbanden schuldhulpverlening</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 5/10/1996);</li><li>Besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 30/05/1997).</li></ul>",
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 5/10/1996);</li><li>Besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 30/05/1997).</li></ul>",
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 5/10/1996);</li><li>Besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling (B.S. 30/05/1997).</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.184749328Z",
+      "laatstGewijzigd": "2023-07-28T10:45:12.901417908Z",
+      "laatstOntvangen": "2023-07-28T10:45:12.901418955Z",
+      "productnummer": "2094",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_01",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/614ef4d0-769b-4ca6-9ce1-c47a433381d3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/47ad7f2b-4cec-4298-8dbb-7443b2c47f63"
+    },
+    {
+      "id": "0aae3efb-9c1a-41ae-8be6-89a533790d79",
+      "generatedAtTime": "2023-07-28T10:45:12.755362Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan centra voor tele-onthaal",
+        "nl-BE-x-generated-formal": "Subsidies aan centra voor tele-onthaal",
+        "nl-BE-x-generated-informal": "Subsidies aan centra voor tele-onthaal"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies aan centra voor tele-onthaal</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies aan centra voor tele-onthaal</p>",
+        "nl": "<p>Subsidies aan centra voor tele-onthaal</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009)</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>",
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009)</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>",
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009)</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013).</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:25.071778029Z",
+      "laatstGewijzigd": "2023-07-28T10:45:12.669479585Z",
+      "laatstOntvangen": "2023-07-28T10:45:12.669481021Z",
+      "productnummer": "2093",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_01",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/0aae3efb-9c1a-41ae-8be6-89a533790d79",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/20aa56aa-b760-4655-be13-ded7503cf651"
+    },
+    {
+      "id": "3c53fed5-3c8a-4f2a-a22b-75e1b45af0ba",
+      "generatedAtTime": "2023-07-28T10:45:12.547869Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies aan casemanagers zorg",
+        "nl-BE-x-generated-formal": "Subsidies aan casemanagers zorg",
+        "nl": "Subsidies aan casemanagers zorg"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan casemanagers zorg</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan casemanagers zorg</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies aan casemanagers zorg</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<ul><li> Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>",
+        "nl-BE-x-generated-formal": "<ul><li> Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>",
+        "nl": "<ul><li> Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:24.814640654Z",
+      "laatstGewijzigd": "2023-07-28T10:45:12.444922888Z",
+      "laatstOntvangen": "2023-07-28T10:45:12.444923684Z",
+      "productnummer": "2092",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_01",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/3c53fed5-3c8a-4f2a-a22b-75e1b45af0ba",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/bdd7b656-a237-4813-9da9-f455a2619576"
+    },
+    {
+      "id": "2f1f53fa-a74a-419b-b589-5cfc63c19e56",
+      "generatedAtTime": "2023-07-28T10:45:12.341645Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Subsidies aan begeleiders van arbeidsmatige activiteiten",
+        "nl": "Subsidies aan begeleiders van arbeidsmatige activiteiten",
+        "nl-BE-x-generated-formal": "Subsidies aan begeleiders van arbeidsmatige activiteiten"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan begeleiders van arbeidsmatige activiteiten</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies aan begeleiders van arbeidsmatige activiteiten</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan begeleiders van arbeidsmatige activiteiten</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>",
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>",
+        "nl": "<ul><li>Decreet van 25 april 2014 houdende de werk- en zorgtrajecten (B.S. 14/08/2014); </li><li>Besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 19/03/2018)</li><li>Het Ministerieel Besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten (B.S. 23/04/2018)</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:24.525913045Z",
+      "laatstGewijzigd": "2023-07-28T10:45:12.231224027Z",
+      "laatstOntvangen": "2023-07-28T10:45:12.231224875Z",
+      "productnummer": "2091",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_01",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/2f1f53fa-a74a-419b-b589-5cfc63c19e56",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/cd601045-7ee2-4249-9e9c-12481888a030"
+    },
+    {
+      "id": "ee002ac8-ae43-4497-a077-2ed8858dbbac",
+      "generatedAtTime": "2023-07-28T10:45:12.099011Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Structurele werkingssubsidies welzijnswerk",
+        "nl-BE-x-generated-formal": "Structurele werkingssubsidies welzijnswerk",
+        "nl-BE-x-generated-informal": "Structurele werkingssubsidies welzijnswerk"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-formal": "<p>Structurele werkingssubsidies welzijnswerk</p>",
+        "nl": "<p>Structurele werkingssubsidies welzijnswerk</p>",
+        "nl-BE-x-generated-informal": "<p>Structurele werkingssubsidies welzijnswerk</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>",
+        "nl": "<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>",
+        "nl-BE-x-generated-informal": "<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:24.40999116Z",
+      "laatstGewijzigd": "2023-07-28T10:45:12.016569479Z",
+      "laatstOntvangen": "2023-07-28T10:45:12.016571111Z",
+      "productnummer": "2090",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_01",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/ee002ac8-ae43-4497-a077-2ed8858dbbac",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/f4c0bc47-117f-4112-b1ec-8b20845ff335"
+    },
+    {
+      "id": "40c173a2-1bbd-4699-b0fb-bb9bcd5fa287",
+      "generatedAtTime": "2023-07-28T10:45:11.916094Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Projectsubsidies in het kader van het algemeen welzijnswerk",
+        "nl-BE-x-generated-formal": "Projectsubsidies in het kader van het algemeen welzijnswerk",
+        "nl": "Projectsubsidies in het kader van het algemeen welzijnswerk"
+      },
+      "beschrijving": {
+        "nl": "<p>Projectsubsidies in het kader van het algemeen welzijnswerk</p>",
+        "nl-BE-x-generated-informal": "<p>Projectsubsidies in het kader van het algemeen welzijnswerk</p>",
+        "nl-BE-x-generated-formal": "<p>Projectsubsidies in het kader van het algemeen welzijnswerk</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013)</li></ul>",
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013)</li></ul>",
+        "nl": "<ul><li>Decreet van 8 mei 2009 betreffende het algemeen welzijnswerk (B.S. 8/07/2009);</li><li>Besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk (B.S. 1/08/2013)</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:24.276717729Z",
+      "laatstGewijzigd": "2023-07-28T10:45:11.825202961Z",
+      "laatstOntvangen": "2023-07-28T10:45:11.825204402Z",
+      "productnummer": "2089",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_01",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/40c173a2-1bbd-4699-b0fb-bb9bcd5fa287",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/02337ed1-ea19-4d79-8fb6-8b8ff4e886fb"
+    },
+    {
+      "id": "d152e46c-083c-4ed0-8ec3-19d7ad97b262",
+      "generatedAtTime": "2023-07-28T10:45:11.728467Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan autonoom vrijwilligerswerk in de zorgsector",
+        "nl-BE-x-generated-informal": "Subsidies aan autonoom vrijwilligerswerk in de zorgsector",
+        "nl-BE-x-generated-formal": "Subsidies aan autonoom vrijwilligerswerk in de zorgsector"
+      },
+      "beschrijving": {
+        "nl": "<p>Subsidies aan autonoom vrijwilligerswerk in de zorgsector</p>",
+        "nl-BE-x-generated-informal": "<p>Subsidies aan autonoom vrijwilligerswerk in de zorgsector</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies aan autonoom vrijwilligerswerk in de zorgsector</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 3 april 2009 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin (B.S. 17/09/2009); </li><li>Besluit van de Vlaamse Regering van 26 februari 2010 houdende de algemene bepalingen die van toepassing zijn op erkende organisaties voor autonoom vrijwilligerswerk en de organisaties met ingebouwd vrijwilligerswerk (B.S. 19/03/2010)</li><li>Besluit van de Vlaamse Regering van 26 februari 2010 tot regeling van de erkenning en de subsidiëring van organisaties voor autonoom vrijwilligerswerk. (B.S. 22/03/2010)</li></ul>",
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 3 april 2009 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin (B.S. 17/09/2009); </li><li>Besluit van de Vlaamse Regering van 26 februari 2010 houdende de algemene bepalingen die van toepassing zijn op erkende organisaties voor autonoom vrijwilligerswerk en de organisaties met ingebouwd vrijwilligerswerk (B.S. 19/03/2010)</li><li>Besluit van de Vlaamse Regering van 26 februari 2010 tot regeling van de erkenning en de subsidiëring van organisaties voor autonoom vrijwilligerswerk. (B.S. 22/03/2010)</li></ul>",
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 3 april 2009 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin (B.S. 17/09/2009); </li><li>Besluit van de Vlaamse Regering van 26 februari 2010 houdende de algemene bepalingen die van toepassing zijn op erkende organisaties voor autonoom vrijwilligerswerk en de organisaties met ingebouwd vrijwilligerswerk (B.S. 19/03/2010)</li><li>Besluit van de Vlaamse Regering van 26 februari 2010 tot regeling van de erkenning en de subsidiëring van organisaties voor autonoom vrijwilligerswerk. (B.S. 22/03/2010)</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:24.115731937Z",
+      "laatstGewijzigd": "2023-07-28T10:45:11.627219551Z",
+      "laatstOntvangen": "2023-07-28T10:45:11.627220581Z",
+      "productnummer": "2088",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_02",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/d152e46c-083c-4ed0-8ec3-19d7ad97b262",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/599df3eb-8d37-4439-87a2-e0c9066702cc"
+    },
+    {
+      "id": "28cca4df-edca-41ab-91fc-4210b614ec27",
+      "generatedAtTime": "2023-07-28T10:45:11.533381Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Structurele werkingssubsidies vrijwilligerswerk",
+        "nl": "Structurele werkingssubsidies vrijwilligerswerk",
+        "nl-BE-x-generated-informal": "Structurele werkingssubsidies vrijwilligerswerk"
+      },
+      "beschrijving": {
+        "nl": "<p>Structurele werkingssubsidies vrijwilligerswerk</p>",
+        "nl-BE-x-generated-formal": "<p>Structurele werkingssubsidies vrijwilligerswerk</p>",
+        "nl-BE-x-generated-informal": "<p>Structurele werkingssubsidies vrijwilligerswerk</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-informal": "<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021). </p>",
+        "nl": "<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021). </p>",
+        "nl-BE-x-generated-formal": "<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021). </p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:44.824201083Z",
+      "laatstGewijzigd": "2023-07-28T10:45:11.450741616Z",
+      "laatstOntvangen": "2023-07-28T10:45:11.450742459Z",
+      "productnummer": "2087",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GE_02",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/28cca4df-edca-41ab-91fc-4210b614ec27",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/34d44e91-0ec4-4e8a-8085-860137a710fb"
+    },
+    {
+      "id": "fc595ef8-6b59-464a-ba06-68a99ca87c51",
+      "generatedAtTime": "2023-07-28T10:45:11.340114Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting",
+        "nl-BE-x-generated-informal": "Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting",
+        "nl-BE-x-generated-formal": "Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting</p>",
+        "nl": "<p>Subsidies aan organisaties voor de opleiding van ervaringsdeskundigen in de armoede en sociale uitsluiting</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>",
+        "nl": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>",
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:23.860679825Z",
+      "laatstGewijzigd": "2023-07-28T10:45:11.248026153Z",
+      "laatstOntvangen": "2023-07-28T10:45:11.248027535Z",
+      "productnummer": "2086",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GC",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fc595ef8-6b59-464a-ba06-68a99ca87c51",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/01a765d1-e00e-4468-bbcd-af66f685f680"
+    },
+    {
+      "id": "33e6c27c-718c-4642-9cc7-852acd118838",
+      "generatedAtTime": "2023-07-28T10:45:11.125662Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen",
+        "nl-BE-x-generated-informal": "Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen",
+        "nl": "Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen</p>",
+        "nl": "<p>Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies aan het Vlaams Netwerk van verenigingen waar armen het woord nemen</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>",
+        "nl": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>",
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:23.712782926Z",
+      "laatstGewijzigd": "2023-07-28T10:45:11.035463432Z",
+      "laatstOntvangen": "2023-07-28T10:45:11.035464732Z",
+      "productnummer": "2085",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GC",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/33e6c27c-718c-4642-9cc7-852acd118838",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/77efeb46-8238-4431-93c3-7dd6cf684964"
+    },
+    {
+      "id": "6f9592a7-27a7-4be1-861c-822b38148580",
+      "generatedAtTime": "2023-07-28T10:45:10.928669Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies aan de verenigingen waar armen het woord nemen",
+        "nl": "Subsidies aan de verenigingen waar armen het woord nemen",
+        "nl-BE-x-generated-informal": "Subsidies aan de verenigingen waar armen het woord nemen"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies aan de verenigingen waar armen het woord nemen</p>",
+        "nl": "<p>Subsidies aan de verenigingen waar armen het woord nemen</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies aan de verenigingen waar armen het woord nemen</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Vereniging",
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>",
+        "nl": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>",
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-03-24T06:40:44.706640068Z",
+      "laatstGewijzigd": "2023-07-28T10:45:10.837932424Z",
+      "laatstOntvangen": "2023-07-28T10:45:10.83793332Z",
+      "productnummer": "2084",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GC",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/6f9592a7-27a7-4be1-861c-822b38148580",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/341bbc61-6456-4288-b664-63924e5e441c"
+    },
+    {
+      "id": "bba3ea9f-d9f8-4c4a-ad44-34e969bfa87c",
+      "generatedAtTime": "2023-07-28T10:45:10.705475Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Subsidies aan de instituten voor maatschappelijk opbouwwerk",
+        "nl-BE-x-generated-informal": "Subsidies aan de instituten voor maatschappelijk opbouwwerk",
+        "nl": "Subsidies aan de instituten voor maatschappelijk opbouwwerk"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Subsidies aan de instituten voor maatschappelijk opbouwwerk</p>",
+        "nl-BE-x-generated-formal": "<p>Subsidies aan de instituten voor maatschappelijk opbouwwerk</p>",
+        "nl": "<p>Subsidies aan de instituten voor maatschappelijk opbouwwerk</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl": "<ul><li>Decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.S. 27/08/1991);</li><li>Besluit van de Vlaamse Regering van 17 juli 2000 tot uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.s. 16/07/2009).</li></ul>",
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.S. 27/08/1991);</li><li>Besluit van de Vlaamse Regering van 17 juli 2000 tot uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.s. 16/07/2009).</li></ul>",
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.S. 27/08/1991);</li><li>Besluit van de Vlaamse Regering van 17 juli 2000 tot uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk (B.s. 16/07/2009).</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:23.47601332Z",
+      "laatstGewijzigd": "2023-07-28T10:45:10.609441222Z",
+      "laatstOntvangen": "2023-07-28T10:45:10.609442035Z",
+      "productnummer": "2083",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GC",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/bba3ea9f-d9f8-4c4a-ad44-34e969bfa87c",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/2b08a261-8af4-4a4d-882a-01e3657fa13e"
+    },
+    {
+      "id": "7e6cc006-01b2-423a-ad92-a2f73c49268f",
+      "generatedAtTime": "2023-07-28T10:45:10.512647Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl": "Structurele werkingssubsidies in het kader van armoedebestrijding",
+        "nl-BE-x-generated-formal": "Structurele werkingssubsidies in het kader van armoedebestrijding",
+        "nl-BE-x-generated-informal": "Structurele werkingssubsidies in het kader van armoedebestrijding"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Structurele werkingssubsidies in het kader van armoedebestrijding</p>",
+        "nl": "<p>Structurele werkingssubsidies in het kader van armoedebestrijding</p>",
+        "nl-BE-x-generated-formal": "<p>Structurele werkingssubsidies in het kader van armoedebestrijding</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>",
+        "nl": "<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>",
+        "nl-BE-x-generated-informal": "<p>Het decreet van 23 december 2021 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, artikel 12 (B.S. 29/12/2021)</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:23.331268888Z",
+      "laatstGewijzigd": "2023-07-28T10:45:10.42836604Z",
+      "laatstOntvangen": "2023-07-28T10:45:10.428366907Z",
+      "productnummer": "2082",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GC",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/7e6cc006-01b2-423a-ad92-a2f73c49268f",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/721bdcda-3519-4787-b80a-f6e689afb884"
+    },
+    {
+      "id": "161a8377-ace6-4ecf-8f6f-e2d667e527f3",
+      "generatedAtTime": "2023-07-28T10:45:10.317428Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-informal": "Projectsubsidies in het kader van armoedebestrijding",
+        "nl-BE-x-generated-formal": "Projectsubsidies in het kader van armoedebestrijding",
+        "nl": "Projectsubsidies in het kader van armoedebestrijding"
+      },
+      "beschrijving": {
+        "nl": "<p>Projectsubsidies in het kader van armoedebestrijding</p>",
+        "nl-BE-x-generated-informal": "<p>Projectsubsidies in het kader van armoedebestrijding</p>",
+        "nl-BE-x-generated-formal": "<p>Projectsubsidies in het kader van armoedebestrijding</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>",
+        "nl": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>",
+        "nl-BE-x-generated-informal": "<ul><li>Decreet van 21 maart 2003 betreffende de armoedebestrijding (B.S. 11/06/2003);</li><li>Besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding (B.S. 16/07/2009).</li></ul>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:23.210686494Z",
+      "laatstGewijzigd": "2023-07-28T10:45:10.196441575Z",
+      "laatstOntvangen": "2023-07-28T10:45:10.196442489Z",
+      "productnummer": "2081",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GC",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/161a8377-ace6-4ecf-8f6f-e2d667e527f3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/32f2bd81-620d-4560-aa96-4eb2b40a2b1e"
+    },
+    {
+      "id": "fc92eeca-2d14-4c35-b9bd-8b850089caa3",
+      "generatedAtTime": "2023-07-28T10:45:10.087546Z",
+      "bevoegdBestuursniveaus": [
+        "Vlaams"
+      ],
+      "uitvoerendBestuursniveaus": [
+        "Vlaams"
+      ],
+      "naam": {
+        "nl-BE-x-generated-formal": "Projectsubsidies in het kader van beleidsondersteuning",
+        "nl-BE-x-generated-informal": "Projectsubsidies in het kader van beleidsondersteuning",
+        "nl": "Projectsubsidies in het kader van beleidsondersteuning"
+      },
+      "beschrijving": {
+        "nl-BE-x-generated-informal": "<p>Projectsubsidies in het kader van beleidsondersteuning</p>",
+        "nl-BE-x-generated-formal": "<p>Projectsubsidies in het kader van beleidsondersteuning</p>",
+        "nl": "<p>Projectsubsidies in het kader van beleidsondersteuning</p>"
+      },
+      "type": "FinancieelVoordeel",
+      "themas": [
+        "WelzijnGezondheid"
+      ],
+      "doelgroepen": [
+        "Organisatie"
+      ],
+      "geografischToepassingsgebieden": [
+        "BE2"
+      ],
+      "regelgevingTekst": {
+        "nl-BE-x-generated-formal": "<p>Algemeen: <br/>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br/>Projectsubsidie specifiek zorgzame buurten:<br/>-Decreet betreffende het lokaal sociaal beleid van 9 februari 2018, artikel 19 en het besluit van de Vlaamse Regering van 30 november 2018 betreffende het lokaal sociaal beleid, vermeld in artikels 2, 9 tot en met 11, 17, 19 en 26 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid, artikel 7 en het besluit van de Vlaamse Regering van 7 december 2018 betreffende de Vlaamse beleidsprioriteiten in het kader van het lokaal sociaal beleid en de subsidiëring van samenwerkingsverbanden geïntegreerd breed onthaal<br/>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br/>-Besluit van de Vlaamse Regering van 15 september 2006 betreffende de steunpunten voor beleidsrelevant onderzoek.</p>",
+        "nl": "<p>Algemeen: <br />-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br />Projectsubsidie specifiek zorgzame buurten:<br />-Decreet betreffende het lokaal sociaal beleid van 9 februari 2018, artikel 19 en het besluit van de Vlaamse Regering van 30 november 2018 betreffende het lokaal sociaal beleid, vermeld in artikels 2, 9 tot en met 11, 17, 19 en 26 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid, artikel 7 en het besluit van de Vlaamse Regering van 7 december 2018 betreffende de Vlaamse beleidsprioriteiten in het kader van het lokaal sociaal beleid en de subsidiëring van samenwerkingsverbanden geïntegreerd breed onthaal<br />-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br />-Besluit van de Vlaamse Regering van 15 september 2006 betreffende de steunpunten voor beleidsrelevant onderzoek.</p>",
+        "nl-BE-x-generated-informal": "<p>Algemeen: <br/>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br/>Projectsubsidie specifiek zorgzame buurten:<br/>-Decreet betreffende het lokaal sociaal beleid van 9 februari 2018, artikel 19 en het besluit van de Vlaamse Regering van 30 november 2018 betreffende het lokaal sociaal beleid, vermeld in artikels 2, 9 tot en met 11, 17, 19 en 26 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid, artikel 7 en het besluit van de Vlaamse Regering van 7 december 2018 betreffende de Vlaamse beleidsprioriteiten in het kader van het lokaal sociaal beleid en de subsidiëring van samenwerkingsverbanden geïntegreerd breed onthaal<br/>-Decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022, art. 12<br/>-Besluit van de Vlaamse Regering van 15 september 2006 betreffende de steunpunten voor beleidsrelevant onderzoek.</p>"
+      },
+      "bevoegdeOverheden": [
+        {
+          "id": "OVO000056",
+          "@id": "OVO000056"
+        }
+      ],
+      "creatie": "2023-05-04T14:15:23.095201718Z",
+      "laatstGewijzigd": "2023-07-28T10:45:09.957689247Z",
+      "laatstOntvangen": "2023-07-28T10:45:09.95769041Z",
+      "productnummer": "2080",
+      "gearchiveerd": false,
+      "subsidiemaatregel": "GB",
+      "metadata": {
+        "uJeVersie": "31.4.0",
+        "generatedFormeleFields": true,
+        "generatedInformeleFields": true
+      },
+      "@id": "https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/fc92eeca-2d14-4c35-b9bd-8b850089caa3",
+      "@type": "InstantieSnapshot",
+      "isVersionOf": "https://ipdc.tni-vlaanderen.be/id/instantie/b76bef18-9e89-4622-942b-5c4310f3b628"
+    }
+  ]
+}
