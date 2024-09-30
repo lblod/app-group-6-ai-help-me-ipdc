@@ -53,3 +53,13 @@ services:
       - ./config/virtuoso/virtuoso.ini:/data/virtuoso.ini
     labels:
       - "logging=true"
+  ldio-workbench:
+    image: ldes/ldi-orchestrator:${LDIO_TAG:-2.9.0-SNAPSHOT}
+    links:
+      - database:database
+    environment:
+      - SERVER_PORT=8080
+    volumes:
+      - ./workbench/application.yml:/ldio/application.yml:ro
+    ports:
+      - 8080:8080
