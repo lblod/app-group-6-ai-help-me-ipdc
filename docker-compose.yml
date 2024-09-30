@@ -12,6 +12,11 @@ services:
     labels:
       - "logging=true"
 
+  frontend:
+    image: lblod/frontend-group-6-ai-help-me-ipdc
+    labels:
+      - "logging=true"
+
   # Your extra services here
 
   resource:
