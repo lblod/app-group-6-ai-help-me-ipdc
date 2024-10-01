@@ -22,6 +22,7 @@ services:
   # yes, I know this configuration isn't okay
   ipdc-local-harvester:
     image: lblod/ldes-client:feature-state-as-triples
+    entrypoint: "echo 'service disabled'"
     environment:
       # like running in development mode, why?
       NODE_ENV: "development"
