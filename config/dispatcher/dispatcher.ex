@@ -21,6 +21,21 @@ defmodule Dispatcher do
   # Run `docker-compose restart dispatcher` after updating
   # this file.
 
+  # FRONTEND
+
+  match "/assets/*path", %{ layer: :static } do
+    Proxy.forward conn, path, "http://frontend/assets/"
+  end
+
+  match "/@appuniversum/*path", %{ layer: :static } do
+    Proxy.forward conn, path, "http://frontend/@appuniversum/"
+  end
+
+  match "/*path", %{ layer: :fall_back } do
+    Proxy.forward conn, [], "http://frontend/index.html"
+  end
+
+
   match "/*_", %{ layer: :not_found } do
     send_resp( conn, 404, "Route not found.  See config/dispatcher.ex" )
   end
