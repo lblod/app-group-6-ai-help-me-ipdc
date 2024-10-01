@@ -62,14 +62,19 @@ services:
     image: ghcr.io/informatievlaanderen/ldi-orchestrator:20240930165201
     depends_on:
       - database
+      - web
     environment:
       - SERVER_PORT=8080
     volumes:
       - ./config/ldio/application.yml:/ldio/application.yml:ro
     network_mode: "host"
+    profiles:
+      - data-ingest
   web:
     image: nginx:latest
     ports:
       - "5000:80"
     volumes:
       - ./data/instantiesnapshot-dumps-import:/usr/share/nginx/html:ro
+    profiles:
+      - data-ingest
