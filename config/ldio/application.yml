@@ -1,0 +1,59 @@
+springdoc:
+  swagger-ui:
+    path: /v1/swagger
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,prometheus
+  endpoint:
+    health:
+      show-details: always
+
+orchestrator:
+  pipelines:
+
+    - name: triple-store-pipeline
+      description: "Requests all existing members from the LDES server and sends them to GraphDB"
+      input:
+        name: Ldio:LdesClient
+        config:
+          urls:
+            - http://localhost:5000/instantiesnapshot-limit-25-pageNumber-0.json
+          sourceFormat: application/ld+json
+          state: sqlite
+      transformers:
+        - name: Ldio:SparqlConstructTransformer
+          config:
+            query: |
+              PREFIX ex: <http://example.org/>
+              
+              CONSTRUCT {
+                ?newIRI ?p ?o .
+                ?s ?p ?o .
+              }
+              WHERE {
+                {
+                  SELECT ?newIRI ?p ?o
+                  WHERE {
+                  ?s ?p ?o .
+                  FILTER(isBlank(?s))
+                  BIND(IRI(CONCAT("https://ipdc.tni-vlaanderen.be/resource/", STRUUID())) AS ?newIRI)
+                }
+              }
+                UNION
+                {
+                  ?s ?p ?o .
+                  FILTER(!isBlank(?s))
+                }
+              }
+      outputs:
+        - name: Ldio:VirtuosoOut
+          config:
+            endpoint: http://localhost:8890/sparql
+            graph: http://data.abb.be
+
+logging:
+  level:
+    com.apicatalog.jsonld: ERROR

@@ -2,17 +2,17 @@
   "timestampPath": "http://www.w3.org/ns/prov#generatedAtTime",
   "versionOfPath": "http://purl.org/dc/terms/isVersionOf",
   "view": {
-    "@id": "./instantiesnapshot-limit-25-pageNumber-2003.json",
+    "@id": "http://localhost:5000/instantiesnapshot-limit-25-pageNumber-2003.json",
     "@type": "Node",
     "relation": [
       {
-        "node": "./instantiesnapshot-limit-25-pageNumber-2004.json",
+        "node": "http://localhost:5000/instantiesnapshot-limit-25-pageNumber-2004.json",
         "path": "http://www.w3.org/ns/prov#generatedAtTime",
         "value": "2024-06-18T16:10:34.383547Z",
         "@type": "GreaterThanOrEqualToRelation"
       },
       {
-        "node": "./instantiesnapshot-limit-25-pageNumber-2002.json",
+        "node": "http://localhost:5000/instantiesnapshot-limit-25-pageNumber-2002.json",
         "path": "http://www.w3.org/ns/prov#generatedAtTime",
         "value": "2024-06-18T16:05:40.672891Z",
         "@type": "LessThanOrEqualToRelation"
@@ -23,7 +23,7 @@
     "https://ipdc.tni-vlaanderen.be/ldes.jsonld",
     "https://ipdc.tni-vlaanderen.be/ipdc-lpdc-im.jsonld"
   ],
-  "@id": "./instantiesnapshot-limit-25-pageNumber-2003.json",
+  "@id": "http://localhost:5000/instantiesnapshot-limit-25-pageNumber-2003.json",
   "@type": "EventStream",
   "member": [
     {
