@@ -17,7 +17,35 @@ services:
     labels:
       - "logging=true"
 
-  # Your extra services here
+  # Our extra services here
+
+  # yes, I know this configuration isn't okay
+  ipdc-local-harvester:
+    image: lblod/ldes-client:feature-state-as-triples
+    environment:
+      # like running in development mode, why?
+      NODE_ENV: "development"
+      # or trying to load from a local filesystem.  Are you sure that's
+      # safe?  You know it isn't unless you know the exact sources
+      LDES_BASE: "file:///data/import/dumps/"
+      FIRST_PAGE: "file:///data/import-dumps/instantiesnapshot-limit-25-pageNumber-0.json"
+      DIRECT_DATABASE_CONNECTION: "http://triplestore:8890/sparql"
+      GRAPH_STORE_URL: "http://triplestore:8890/sparql-graph-crud"
+      # and bypassing mu-auth for that ricer speed gain
+      BYPASS_MU_AUTH: "true"
+      LOG_SPARQL_ALL: "false"
+      LOG_SPARQL_UPDATES: "false"
+      LOG_SPARQL_QUERIES: "false"
+    volumes:
+      # ok, so you _do_ know the sources of the dumps but it's still dirty
+      - ./data/instantiesnapshot-dumps-import/:/data/import-dumps/
+      # and you run in development mode because you're overwriting the
+      # source code inline?  Why do you even have builds?  It's dirty,
+      # it shouldn't be a feature, and it works.  Check the referred
+      # source file.
+      - ./config/ldes-client-hack/cron-fetch-ldes.ts:/app/cron-fetch-ldes.ts
+
+  # Framework support
 
   resource:
     image: semtech/mu-cl-resources:1.25.0
