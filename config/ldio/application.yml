@@ -51,7 +51,7 @@ orchestrator:
         - name: Ldio:VirtuosoOut
           config:
             endpoint: https://triplestore.hackathon-ai-6.s.redhost.be/sparql
-            graph: http://data.abb.be
+            graph: http://mu.semte.ch/graphs/public
 
 logging:
   level:
