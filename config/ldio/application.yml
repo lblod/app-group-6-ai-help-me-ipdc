@@ -20,7 +20,7 @@ orchestrator:
         name: Ldio:LdesClient
         config:
           urls:
-            - http://127.0.0.1:5500/instantiesnapshot_limit%3D25%26pageNumber%3D2305.json
+            - http://localhost:5000/instantiesnapshot-limit-25-pageNumber-0.json
           sourceFormat: application/ld+json
       transformers:
         - name: Ldio:SparqlConstructTransformer
@@ -50,7 +50,7 @@ orchestrator:
       outputs:
         - name: Ldio:VirtuosoOut
           config:
-            endpoint: http://database:8890/sparql
+            endpoint: https://triplestore.hackathon-ai-6.s.redhost.be/sparql
             graph: http://data.abb.be
 
 logging:
