@@ -22,6 +22,7 @@ orchestrator:
           urls:
             - http://localhost:5000/instantiesnapshot-limit-25-pageNumber-0.json
           sourceFormat: application/ld+json
+          state: sqlite
       transformers:
         - name: Ldio:SparqlConstructTransformer
           config:
