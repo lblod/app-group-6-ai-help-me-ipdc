@@ -20,7 +20,7 @@ orchestrator:
         name: Ldio:LdesClient
         config:
           urls:
-            - http://localhost:5000/instantiesnapshot-limit-25-pageNumber-0.json
+            - http://nginx-snapshot-host/instantiesnapshot-limit-25-pageNumber-0.json
           sourceFormat: application/ld+json
           state: sqlite
       transformers:
@@ -51,7 +51,7 @@ orchestrator:
       outputs:
         - name: Ldio:VirtuosoOut
           config:
-            endpoint: http://localhost:8890/sparql
+            endpoint: http://triplestore:8890/sparql
             graph: http://data.abb.be
 
 logging:
