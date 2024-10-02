@@ -44,6 +44,10 @@ defmodule Dispatcher do
     Proxy.forward conn, [], "http://embedding/query-sentence"
   end
 
+  match "/procedures/*path", @json do
+       Proxy.forward conn, path, "http://resource/procedures/"
+  end
+
   # FRONTEND
 
   match "/assets/*path", %{ layer: :static } do
