@@ -32,3 +32,9 @@
 ;; by them and that it shouldn't be used for permanent URIs.
 
 (add-prefix "ext" "http://mu.semte.ch/vocabularies/ext/")
+(add-prefix "ipdc-lpdc" "https://productencatalogus.data.vlaanderen.be/ns/ipdc-lpdc#")
+(add-prefix "terms" "http://purl.org/dc/terms/")
+(add-prefix "shacl" "http://www.w3.org/ns/shacl#")
+(add-prefix "publicservice" "http://vocab.belgif.be/ns/publicservice#")
+(add-prefix "m8g" "http://data.europa.eu/m8g/")
+(add-prefix "cpsv" "http://purl.org/vocab/cpsv#")

@@ -22,5 +22,35 @@
 ;;   :resource-base (s-url "http://webcat.tmp.semte.ch/datasets/")
 ;;   :on-path "datasets")
 
+
+(define-resource public-service ()
+		:class (s-prefix "ipdc-lpdc:InstancePublicServiceSnapshot")
+		:properties `((:title :string ,(s-prefix "terms:title"))
+									(:description :string, (s-prefix "terms:description")))
+		:has-many `((requirement :via ,(s-prefix "publicservice:hasRequirement")
+                           :as "requirements")
+	             (procedure :via ,(s-prefix "cpsv:follows")
+                           :as "procedures")
+               (procedure :via ,(s-prefix "ext:ai-follows")
+                                          :as "generated-procedures"))
+    :resource-base (s-url "https://ipdc.tni-vlaanderen.be/id/instantie/")
+		:on-path "public-services")
+
+(define-resource requirement ()
+		:class (s-prefix "m8g:Requirement")
+		:properties `((:title :string ,(s-prefix "terms:title"))
+									(:description :string, (s-prefix "terms:description"))
+									(:order :number, (s-prefix "shacl:order")))
+		:resource-base (s-url "http://blanknodes.semantic.works/")
+		:on-path "requirements")
+
+(define-resource procedure ()
+		:class (s-prefix "cpsv:Rule")
+		:properties `((:title :string ,(s-prefix "terms:title"))
+									(:description :string, (s-prefix "terms:description"))
+									(:order :number, (s-prefix "shacl:order")))
+		:resource-base (s-url "http://blanknodes.semantic.works/")
+		:on-path "procedures")
+
 ;; reading in the domain.json
 (read-domain-file "domain.json")
