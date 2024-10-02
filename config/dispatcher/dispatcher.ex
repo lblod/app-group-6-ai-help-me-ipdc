@@ -21,6 +21,14 @@ defmodule Dispatcher do
   # Run `docker-compose restart dispatcher` after updating
   # this file.
 
+  match "/public-services/*path", @json do
+       Proxy.forward conn, path, "http://resource/public-services/"
+  end
+
+  match "/requirements/*path", @json do
+       Proxy.forward conn, path, "http://resource/requirements/"
+  end
+
   # FRONTEND
 
   match "/assets/*path", %{ layer: :static } do
