@@ -36,6 +36,10 @@ defmodule Dispatcher do
     Proxy.forward conn, [], "http://embedding/query-sentence"
   end
 
+  match "/get_structured_steps/*path", @json do
+    Proxy.forward conn, path, "http://structured-steps/get_structured_steps"
+  end
+
 
   # FRONTEND
 

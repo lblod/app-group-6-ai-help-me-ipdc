@@ -29,6 +29,16 @@ services:
   embedding:
     image: lblod/group-6-ai-embedding-service
 
+  structured-steps:
+    image: lblod/group-6-ai-structured-steps-service # structured-steps:dev
+    environment:
+      # We run this in development to work around a temporary version
+      # conflict with greenlet and langchain.  The dev mode resolves the
+      # issue after build time.  This is not ok, but it does allow to
+      # play with the end result without having Docker Compose
+      # installed.
+      MODE: "development"
+
   # Framework support
 
   resource:
