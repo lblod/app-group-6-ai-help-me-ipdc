@@ -17,7 +17,50 @@ services:
     labels:
       - "logging=true"
 
-  # Your extra services here
+  # Our extra services here
+
+  # yes, I know this configuration isn't okay
+  ipdc-local-harvester:
+    image: lblod/ldes-client:feature-state-as-triples
+    entrypoint: "echo 'service disabled'"
+    environment:
+      # like running in development mode, why?
+      NODE_ENV: "development"
+      # or trying to load from a local filesystem.  Are you sure that's
+      # safe?  You know it isn't unless you know the exact sources
+      LDES_BASE: "file:///data/import/dumps/"
+      FIRST_PAGE: "file:///data/import-dumps/instantiesnapshot-limit-25-pageNumber-0.json"
+      DIRECT_DATABASE_CONNECTION: "http://triplestore:8890/sparql"
+      GRAPH_STORE_URL: "http://triplestore:8890/sparql-graph-crud"
+      # and bypassing mu-auth for that ricer speed gain
+      BYPASS_MU_AUTH: "true"
+      LOG_SPARQL_ALL: "false"
+      LOG_SPARQL_UPDATES: "false"
+      LOG_SPARQL_QUERIES: "false"
+    volumes:
+      # ok, so you _do_ know the sources of the dumps but it's still dirty
+      - ./data/instantiesnapshot-dumps-import/:/data/import-dumps/
+      # and you run in development mode because you're overwriting the
+      # source code inline?  Why do you even have builds?  It's dirty,
+      # it shouldn't be a feature, and it works.  Check the referred
+      # source file.
+      - ./config/ldes-client-hack/cron-fetch-ldes.ts:/app/cron-fetch-ldes.ts
+    # We don't normally use profiles so this would be unexpected for a
+    # production setup.  The docker-compose.yml contains the production
+    # setup and other files contain other info.  It was used for the
+    # ldio workbench and it's good for documentation purposes of this
+    # setup.
+    profiles:
+      - data-ingest-ipdc-local-harvester
+
+  uuid-generation:
+    image: redpencil/uuid-generation
+    volumes:
+      - ./config/uuid-generation/:/config
+    environment:
+      RUN_CRON_JOBS: "true" # our harvesting is without deltas right now
+
+  # Framework support
 
   resource:
     image: semtech/mu-cl-resources:1.25.0
@@ -61,8 +104,8 @@ services:
   ldio-workbench:
     image: ghcr.io/informatievlaanderen/ldi-orchestrator:20240930165201
     depends_on:
-      - database
-      - web
+      - triplestore
+      - nginx-snapshot-host
     environment:
       - SERVER_PORT=8080
     volumes:
@@ -70,10 +113,8 @@ services:
     network_mode: "host"
     profiles:
       - data-ingest
-  web:
+  nginx-snapshot-host:
     image: nginx:latest
-    ports:
-      - "5000:80"
     volumes:
       - ./data/instantiesnapshot-dumps-import:/usr/share/nginx/html:ro
     profiles:
