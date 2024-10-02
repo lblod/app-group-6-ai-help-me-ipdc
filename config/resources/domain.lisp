@@ -30,7 +30,10 @@
 		:has-many `((requirement :via ,(s-prefix "publicservice:hasRequirement")
                            :as "requirements")
 	             (procedure :via ,(s-prefix "cpsv:follows")
-                           :as "procedures"))
+                           :as "procedures")
+               (procedure :via ,(s-prefix "ext:ai-follows")
+                                          :as "generated-procedures"))
+    :resource-base (s-url "https://ipdc.tni-vlaanderen.be/id/instantie/")
 		:on-path "public-services")
 
 (define-resource requirement ()
@@ -38,6 +41,7 @@
 		:properties `((:title :string ,(s-prefix "terms:title"))
 									(:description :string, (s-prefix "terms:description"))
 									(:order :number, (s-prefix "shacl:order")))
+		:resource-base (s-url "http://blanknodes.semantic.works/")
 		:on-path "requirements")
 
 (define-resource procedure ()
@@ -45,6 +49,7 @@
 		:properties `((:title :string ,(s-prefix "terms:title"))
 									(:description :string, (s-prefix "terms:description"))
 									(:order :number, (s-prefix "shacl:order")))
+		:resource-base (s-url "http://blanknodes.semantic.works/")
 		:on-path "procedures")
 
 ;; reading in the domain.json
