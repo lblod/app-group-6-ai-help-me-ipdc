@@ -70,3 +70,35 @@ services:
       - ./config/virtuoso/virtuoso.ini:/data/virtuoso.ini
     labels:
       - "logging=true"
+
+  # We run this as an infrastructure service.  We know we should be able
+  # to combine these and/or embed it in a service.  At this point it
+  # makes a lot of sense to share the resources though.
+
+  # Thank you for the other hackathon team (we don't know the number)
+  # for sharing!
+  ollama:
+    platform: linux/x86_64
+    image: ollama/ollama:latest
+    container_name: ollama
+    volumes:
+      - ./data/ollama:/root/.ollama
+    environment:
+      - OLLAMA_KEEP_ALIVE=-1          # Keep the model(s) loaded in memory
+      - OLLAMA_HOST=0.0.0.0           # Listen on all interfaces
+    healthcheck:
+      test: "bash -c 'cat < /dev/null > /dev/tcp/localhost/11434'"
+      interval: 2s                    # Check every 2 seconds
+      timeout: 5s                     # Timeout after 5 seconds
+      retries: 5                      # Max retries, if needed
+      start_period: 5s                # Start checking after 5 seconds
+
+  ollama-setup:
+    image: curlimages/curl:7.77.0
+    container_name: ollama-setup
+    depends_on:
+      ollama:
+        condition: service_healthy    # Wait for 'ollama' container to be healthy
+    entrypoint: >                     # Use the Ollama REST API to pull the mistral-nemo model
+      /bin/sh -c 'curl http://ollama:11434/api/pull -d "{\"name\": \"llama3.2\"}" && echo "Curl command completed, model installed."'
+ 
