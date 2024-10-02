@@ -26,6 +26,9 @@ services:
     environment:
       RUN_CRON_JOBS: "true" # our harvesting is without deltas right now
 
+  embedding:
+    image: lblod/group-6-ai-embedding-service
+
   # Framework support
 
   resource:

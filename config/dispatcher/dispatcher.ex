@@ -31,6 +31,12 @@ defmodule Dispatcher do
   # Run `docker-compose restart dispatcher` after updating
   # this file.
 
+  get "/query-sentence/*path", @json do
+    IO.puts("Yielding query sentence")
+    Proxy.forward conn, [], "http://embedding/query-sentence"
+  end
+
+
   # FRONTEND
 
   match "/assets/*path", %{ layer: :static } do
