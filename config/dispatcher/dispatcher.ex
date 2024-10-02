@@ -31,6 +31,14 @@ defmodule Dispatcher do
   # Run `docker-compose restart dispatcher` after updating
   # this file.
 
+  match "/public-services/*path", @json do
+       Proxy.forward conn, path, "http://resource/public-services/"
+  end
+
+  match "/requirements/*path", @json do
+       Proxy.forward conn, path, "http://resource/requirements/"
+  end
+  
   get "/query-sentence/*path", @json do
     IO.puts("Yielding query sentence")
     Proxy.forward conn, [], "http://embedding/query-sentence"
@@ -40,6 +48,9 @@ defmodule Dispatcher do
     Proxy.forward conn, path, "http://structured-steps/get_structured_steps"
   end
 
+  match "/procedures/*path", @json do
+       Proxy.forward conn, path, "http://resource/procedures/"
+  end
 
   # FRONTEND
 
