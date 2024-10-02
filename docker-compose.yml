@@ -53,6 +53,13 @@ services:
     profiles:
       - data-ingest-ipdc-local-harvester
 
+  uuid-generation:
+    image: redpencil/uuid-generation
+    volumes:
+      - ./config/uuid-generation/:/config
+    environment:
+      RUN_CRON_JOBS: "true" # our harvesting is without deltas right now
+
   # Framework support
 
   resource:
